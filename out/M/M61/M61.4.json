@@ -1,0 +1,10 @@
+{
+  "code": "M61.4",
+  "kind": "category",
+  "label": "Sonstige Kalzifikation von Muskeln",
+  "rubrics": {
+    "preferred": "Sonstige Kalzifikation von Muskeln",
+    "exclusion": "Tendinitis calcarea im SchulterbereichM75.3"
+  },
+  "children": []
+}

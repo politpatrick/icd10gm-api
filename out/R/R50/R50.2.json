@@ -1,0 +1,10 @@
+{
+  "code": "R50.2",
+  "kind": "category",
+  "label": "Medikamenten-induziertes Fieber [Drug fever]",
+  "rubrics": {
+    "preferred": "Medikamenten-induziertes Fieber [Drug fever]",
+    "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "T41.5",
+  "kind": "category",
+  "label": "Therapeutische Gase",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Therapeutische Gase",
+    "preferred": "Therapeutische Gase",
+    "inclusion": "Sauerstoff"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D64.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Anämien",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Anämien",
+    "inclusion": "Leukoerythroblastische Anämie"
+  },
+  "children": []
+}

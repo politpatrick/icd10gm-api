@@ -1,0 +1,12 @@
+{
+  "code": "D21.0",
+  "kind": "category",
+  "label": "Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses",
+  "rubrics": {
+    "preferredLong": "Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses",
+    "preferred": "Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses",
+    "inclusion": "Bindegewebe:\n\t\t\t\tOhr",
+    "exclusion": "Bindegewebe der OrbitaD31.6"
+  },
+  "children": []
+}

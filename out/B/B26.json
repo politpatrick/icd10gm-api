@@ -1,0 +1,67 @@
+{
+  "code": "B26",
+  "kind": "category",
+  "label": "Mumps",
+  "rubrics": {
+    "preferred": "Mumps",
+    "inclusion": "Parotitis epidemica"
+  },
+  "children": [
+    {
+      "code": "B26.0",
+      "kind": "category",
+      "label": "Mumps-OrchitisN51.1",
+      "rubrics": {
+        "preferred": "Mumps-OrchitisN51.1"
+      },
+      "children": []
+    },
+    {
+      "code": "B26.1",
+      "kind": "category",
+      "label": "Mumps-MeningitisG02.0",
+      "rubrics": {
+        "preferred": "Mumps-MeningitisG02.0"
+      },
+      "children": []
+    },
+    {
+      "code": "B26.2",
+      "kind": "category",
+      "label": "Mumps-EnzephalitisG05.1",
+      "rubrics": {
+        "preferred": "Mumps-EnzephalitisG05.1"
+      },
+      "children": []
+    },
+    {
+      "code": "B26.3",
+      "kind": "category",
+      "label": "Mumps-PankreatitisK87.1",
+      "rubrics": {
+        "preferred": "Mumps-PankreatitisK87.1"
+      },
+      "children": []
+    },
+    {
+      "code": "B26.8",
+      "kind": "category",
+      "label": "Mumps mit sonstigen Komplikationen",
+      "rubrics": {
+        "preferred": "Mumps mit sonstigen Komplikationen",
+        "inclusion": "Mumps:\n\t\t\t\tPolyneuropathieG63.0"
+      },
+      "children": []
+    },
+    {
+      "code": "B26.9",
+      "kind": "category",
+      "label": "Mumps ohne Komplikation",
+      "rubrics": {
+        "preferred": "Mumps ohne Komplikation",
+        "inclusion": "Mumps-Parotitis o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

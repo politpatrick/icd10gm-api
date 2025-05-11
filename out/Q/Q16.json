@@ -1,0 +1,79 @@
+{
+  "code": "Q16",
+  "kind": "category",
+  "label": "Angeborene Fehlbildungen des Ohres, die eine Beeinträchtigung des Hörvermögens verursachen",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildungen des Ohres, die eine Beeinträchtigung des Hörvermögens verursachen",
+    "exclusion": "Angeborene Schwerhörigkeit oder TaubheitH90.-"
+  },
+  "children": [
+    {
+      "code": "Q16.0",
+      "kind": "category",
+      "label": "Angeborenes Fehlen der Ohrmuschel",
+      "rubrics": {
+        "preferred": "Angeborenes Fehlen der Ohrmuschel"
+      },
+      "children": []
+    },
+    {
+      "code": "Q16.1",
+      "kind": "category",
+      "label": "Angeborene(s) Fehlen, Atresie und Striktur des (äußeren) Gehörganges",
+      "rubrics": {
+        "preferred": "Angeborene(s) Fehlen, Atresie und Striktur des (äußeren) Gehörganges",
+        "inclusion": "Atresie oder Striktur des knöchernen Gehörganges"
+      },
+      "children": []
+    },
+    {
+      "code": "Q16.2",
+      "kind": "category",
+      "label": "Fehlen der Tuba auditiva (angeboren)",
+      "rubrics": {
+        "preferred": "Fehlen der Tuba auditiva (angeboren)"
+      },
+      "children": []
+    },
+    {
+      "code": "Q16.3",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung der Gehörknöchelchen",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung der Gehörknöchelchen",
+        "inclusion": "Verschmelzung der Gehörknöchelchen"
+      },
+      "children": []
+    },
+    {
+      "code": "Q16.4",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Mittelohres",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Mittelohres",
+        "inclusion": "Angeborene Fehlbildung des Mittelohres o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "Q16.5",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung des Innenohres",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung des Innenohres",
+        "inclusion": "Anomalie:\n\t\t\t\thäutiges Labyrinth"
+      },
+      "children": []
+    },
+    {
+      "code": "Q16.9",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung des Ohres als Ursache einer Beeinträchtigung des Hörvermögens, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung des Ohres als Ursache einer Beeinträchtigung des Hörvermögens, nicht näher bezeichnet",
+        "inclusion": "Angeborenes Fehlen eines Ohres o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

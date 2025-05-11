@@ -1,0 +1,11 @@
+{
+  "code": "Q25.3",
+  "kind": "category",
+  "label": "Stenose der Aorta (angeboren)",
+  "rubrics": {
+    "preferred": "Stenose der Aorta (angeboren)",
+    "inclusion": "Supravalvuläre Aortenstenose",
+    "exclusion": "Angeborene AortenklappenstenoseQ23.0"
+  },
+  "children": []
+}

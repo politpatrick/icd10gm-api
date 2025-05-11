@@ -1,0 +1,11 @@
+{
+  "code": "N42.3",
+  "kind": "category",
+  "label": "Prostatadysplasie",
+  "rubrics": {
+    "preferred": "Prostatadysplasie",
+    "inclusion": "Niedriggradige Prostatadysplasie",
+    "exclusion": "Hochgradige ProstatadysplasieD07.5"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "J60",
+  "kind": "category",
+  "label": "Kohlenbergarbeiter-Pneumokoniose",
+  "rubrics": {
+    "preferred": "Kohlenbergarbeiter-Pneumokoniose",
+    "inclusion": "Kohlenstaub-Lunge",
+    "exclusion": "Mit Tuberkulose der AtmungsorganeJ65"
+  },
+  "children": []
+}

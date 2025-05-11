@@ -1,0 +1,1024 @@
+{
+  "code": "S10-S19",
+  "kind": "block",
+  "label": "Verletzungen des Halses",
+  "rubrics": {
+    "preferred": "Verletzungen des Halses",
+    "inclusion": "Verletzungen:\n\t\t\t\tSupraklavikularregion",
+    "exclusion": "Verletzung:\n\t\t\t\tRumpf o.n.A.T09.-"
+  },
+  "children": [
+    {
+      "code": "S10",
+      "kind": "category",
+      "label": "Oberflächliche Verletzung des Halses",
+      "rubrics": {
+        "preferred": "Oberflächliche Verletzung des Halses"
+      },
+      "children": [
+        {
+          "code": "S10.0",
+          "kind": "category",
+          "label": "Prellung des Rachens",
+          "rubrics": {
+            "preferred": "Prellung des Rachens",
+            "inclusion": "Trachea"
+          },
+          "children": []
+        },
+        {
+          "code": "S10.1",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete oberflächliche Verletzungen des Rachens",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete oberflächliche Verletzungen des Rachens"
+          },
+          "children": []
+        },
+        {
+          "code": "S10.7",
+          "kind": "category",
+          "label": "Multiple oberflächliche Verletzungen des Halses",
+          "rubrics": {
+            "preferred": "Multiple oberflächliche Verletzungen des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "S10.8",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung sonstiger Teile des Halses",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung sonstiger Teile des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "S10.9",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung des Halses, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung des Halses, Teil nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S11",
+      "kind": "category",
+      "label": "Offene Wunde des Halses",
+      "rubrics": {
+        "preferred": "Offene Wunde des Halses",
+        "inclusion": "Offene Wunde mit Verbindung zu einer Fraktur oder einer Luxation",
+        "coding-hint": "Benutze zusätzlich T89.0-, um das Vorliegen von Komplikationen wie Fremdkörper, Infektion oder verzögerte Heilung und Behandlung anzuzeigen.",
+        "exclusion": "DekapitationS18"
+      },
+      "children": [
+        {
+          "code": "S11.0",
+          "kind": "category",
+          "label": "Offene Wunde mit Beteiligung des Kehlkopfes und der Trachea",
+          "rubrics": {
+            "preferred": "Offene Wunde mit Beteiligung des Kehlkopfes und der Trachea"
+          },
+          "children": [
+            {
+              "code": "S11.01",
+              "kind": "category",
+              "label": "Kehlkopf",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Kehlkopf",
+                "preferred": "Kehlkopf",
+                "inclusion": "Epiglottis"
+              },
+              "children": []
+            },
+            {
+              "code": "S11.02",
+              "kind": "category",
+              "label": "Trachea, Pars cervicalis",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Trachea, Pars cervicalis",
+                "preferred": "Trachea, Pars cervicalis",
+                "inclusion": "Trachea o.n.A.",
+                "exclusion": "Trachea, Pars thoracicaS27.5"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S11.1",
+          "kind": "category",
+          "label": "Offene Wunde mit Beteiligung der Schilddrüse",
+          "rubrics": {
+            "preferred": "Offene Wunde mit Beteiligung der Schilddrüse"
+          },
+          "children": []
+        },
+        {
+          "code": "S11.2",
+          "kind": "category",
+          "label": "Offene Wunde mit Beteiligung des Rachens und des Ösophagus, Pars cervicalis",
+          "rubrics": {
+            "preferred": "Offene Wunde mit Beteiligung des Rachens und des Ösophagus, Pars cervicalis",
+            "exclusion": "Ösophagus o.n.A.S27.83"
+          },
+          "children": [
+            {
+              "code": "S11.21",
+              "kind": "category",
+              "label": "Rachen",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Rachen",
+                "preferred": "Rachen"
+              },
+              "children": []
+            },
+            {
+              "code": "S11.22",
+              "kind": "category",
+              "label": "Ösophagus, Pars cervicalis",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Ösophagus, Pars cervicalis",
+                "preferred": "Ösophagus, Pars cervicalis"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S11.7",
+          "kind": "category",
+          "label": "Multiple offene Wunden des Halses",
+          "rubrics": {
+            "preferred": "Multiple offene Wunden des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "S11.8",
+          "kind": "category",
+          "label": "Offene Wunde sonstiger Teile des Halses",
+          "rubrics": {
+            "preferred": "Offene Wunde sonstiger Teile des Halses",
+            "note": "Bei den Schlüsselnummern S11.84-S11.89 erfolgt die Einteilung des Weichteilschadens nach Tscherne und Oestern. Kodiere jeweils zuerst die Fraktur S12.- oder die Luxation S13.-."
+          },
+          "children": [
+            {
+              "code": "S11.80",
+              "kind": "category",
+              "label": "Nicht näher bezeichnete offene Wunde sonstiger Teile des Halses",
+              "rubrics": {
+                "preferred": "Nicht näher bezeichnete offene Wunde sonstiger Teile des Halses",
+                "inclusion": "Supraklavikularregion"
+              },
+              "children": []
+            },
+            {
+              "code": "S11.84",
+              "kind": "category",
+              "label": "Weichteilschaden I. Grades bei geschlossener Fraktur oder Luxation des Halses",
+              "rubrics": {
+                "preferred": "Weichteilschaden I. Grades bei geschlossener Fraktur oder Luxation des Halses",
+                "text": "Oberflächliche Schürfung, einfache bis mittelschwere Bruchform",
+                "note": "Geschlossene Frakturen oder Luxationen mit Weichteilschaden 0. Grades (geringer Weichteilschaden, einfache Bruchform) oder nicht näher bezeichneten Grades erhalten keine zusätzliche Schlüsselnummer."
+              },
+              "children": []
+            },
+            {
+              "code": "S11.85",
+              "kind": "category",
+              "label": "Weichteilschaden II. Grades bei geschlossener Fraktur oder Luxation des Halses",
+              "rubrics": {
+                "preferred": "Weichteilschaden II. Grades bei geschlossener Fraktur oder Luxation des Halses",
+                "text": "Tiefe kontaminierte Schürfung, lokalisierte Haut- und Muskelkontusion, alle Bruchformen"
+              },
+              "children": []
+            },
+            {
+              "code": "S11.86",
+              "kind": "category",
+              "label": "Weichteilschaden III. Grades bei geschlossener Fraktur oder Luxation des Halses",
+              "rubrics": {
+                "preferred": "Weichteilschaden III. Grades bei geschlossener Fraktur oder Luxation des Halses",
+                "text": "Ausgedehnte Hautkontusion, Hautquetschung oder Zerstörung der Muskulatur, subkutanes Décollement, dekompensiertes Kompartmentsyndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "S11.87",
+              "kind": "category",
+              "label": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation des Halses",
+              "rubrics": {
+                "preferred": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation des Halses",
+                "text": "Fehlende oder geringe Kontusion, unbedeutende bakterielle Kontamination, einfache bis mittelschwere Bruchformen",
+                "inclusion": "Offene Fraktur oder Luxation nicht näher bezeichneten Grades"
+              },
+              "children": []
+            },
+            {
+              "code": "S11.88",
+              "kind": "category",
+              "label": "Weichteilschaden II. Grades bei offener Fraktur oder Luxation des Halses",
+              "rubrics": {
+                "preferred": "Weichteilschaden II. Grades bei offener Fraktur oder Luxation des Halses",
+                "text": "Umschrieben Haut- und Weichteilkontusion, mittelschwere Kontamination"
+              },
+              "children": []
+            },
+            {
+              "code": "S11.89",
+              "kind": "category",
+              "label": "Weichteilschaden III. Grades bei offener Fraktur oder Luxation des Halses",
+              "rubrics": {
+                "preferred": "Weichteilschaden III. Grades bei offener Fraktur oder Luxation des Halses",
+                "text": "Ausgedehnte Weichteildestruktion, häufig zusätzliche Gefäß- und Nervenverletzungen, starke Wundkontamination",
+                "note": "Offene Frakturen mit Weichteilschaden IV. Grades (subtotale und totale Amputation) werden als Amputation nach deren Lokalisation kodiert."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S11.9",
+          "kind": "category",
+          "label": "Offene Wunde des Halses, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Offene Wunde des Halses, Teil nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S12",
+      "kind": "category",
+      "label": "Fraktur im Bereich des Halses",
+      "rubrics": {
+        "preferred": "Fraktur im Bereich des Halses",
+        "inclusion": "Zervikal:\n\t\t\t\tWirbelsäule",
+        "coding-hint": "Das Vorliegen einer Luxation bei einer Halswirbelfraktur ist zusätzlich mit S13.- zu verschlüsseln. Ist die Zahl der zusammen mit der Luxation gebrochenen Halswirbel nicht bekannt, so ist die Fraktur auf der höchsten Ebene zu verschlüsseln."
+      },
+      "children": [
+        {
+          "code": "S12.0",
+          "kind": "category",
+          "label": "Fraktur des 1. Halswirbels",
+          "rubrics": {
+            "preferred": "Fraktur des 1. Halswirbels",
+            "inclusion": "Atlas"
+          },
+          "children": []
+        },
+        {
+          "code": "S12.1",
+          "kind": "category",
+          "label": "Fraktur des 2. Halswirbels",
+          "rubrics": {
+            "preferred": "Fraktur des 2. Halswirbels",
+            "inclusion": "Axis"
+          },
+          "children": []
+        },
+        {
+          "code": "S12.2",
+          "kind": "category",
+          "label": "Fraktur eines sonstigen näher bezeichneten Halswirbels",
+          "rubrics": {
+            "preferred": "Fraktur eines sonstigen näher bezeichneten Halswirbels"
+          },
+          "children": [
+            {
+              "code": "S12.21",
+              "kind": "category",
+              "label": "Fraktur des 3. Halswirbels",
+              "rubrics": {
+                "preferred": "Fraktur des 3. Halswirbels"
+              },
+              "children": []
+            },
+            {
+              "code": "S12.22",
+              "kind": "category",
+              "label": "Fraktur des 4. Halswirbels",
+              "rubrics": {
+                "preferred": "Fraktur des 4. Halswirbels"
+              },
+              "children": []
+            },
+            {
+              "code": "S12.23",
+              "kind": "category",
+              "label": "Fraktur des 5. Halswirbels",
+              "rubrics": {
+                "preferred": "Fraktur des 5. Halswirbels"
+              },
+              "children": []
+            },
+            {
+              "code": "S12.24",
+              "kind": "category",
+              "label": "Fraktur des 6. Halswirbels",
+              "rubrics": {
+                "preferred": "Fraktur des 6. Halswirbels"
+              },
+              "children": []
+            },
+            {
+              "code": "S12.25",
+              "kind": "category",
+              "label": "Fraktur des 7. Halswirbels",
+              "rubrics": {
+                "preferred": "Fraktur des 7. Halswirbels"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S12.7",
+          "kind": "category",
+          "label": "Multiple Frakturen der Halswirbelsäule",
+          "rubrics": {
+            "preferred": "Multiple Frakturen der Halswirbelsäule",
+            "exclusion": "Multiple Frakturen der Halswirbelsäule bei Angabe der Höhe S12.0S12.1S12.2-. Kodiere jede Fraktur einzeln."
+          },
+          "children": []
+        },
+        {
+          "code": "S12.8",
+          "kind": "category",
+          "label": "Fraktur sonstiger Teile im Bereich des Halses",
+          "rubrics": {
+            "preferred": "Fraktur sonstiger Teile im Bereich des Halses",
+            "inclusion": "Zungenbein"
+          },
+          "children": []
+        },
+        {
+          "code": "S12.9",
+          "kind": "category",
+          "label": "Fraktur im Bereich des Halses, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Fraktur im Bereich des Halses, Teil nicht näher bezeichnet",
+            "inclusion": "Fraktur:\n\t\t\t\tHalswirbelsäule o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S13",
+      "kind": "category",
+      "label": "Luxation, Verstauchung und Zerrung von Gelenken und Bändern in Halshöhe",
+      "rubrics": {
+        "preferred": "Luxation, Verstauchung und Zerrung von Gelenken und Bändern in Halshöhe",
+        "coding-hint": "Das Vorliegen von Halswirbelfrakturen bei einer Luxation ist zusätzlich mit S12.- zu verschlüsseln. Ist die Zahl der zusammen mit der Luxation gebrochenen Halswirbel nicht bekannt, so ist die Fraktur auf der höchsten Ebene zu verschlüsseln.",
+        "exclusion": "Verstauchung und Zerrung von Muskeln und Sehnen in HalshöheS16"
+      },
+      "children": [
+        {
+          "code": "S13.0",
+          "kind": "category",
+          "label": "Traumatische Ruptur einer zervikalen Bandscheibe",
+          "rubrics": {
+            "preferred": "Traumatische Ruptur einer zervikalen Bandscheibe"
+          },
+          "children": []
+        },
+        {
+          "code": "S13.1",
+          "kind": "category",
+          "label": "Luxation eines Halswirbels",
+          "rubrics": {
+            "preferred": "Luxation eines Halswirbels"
+          },
+          "children": [
+            {
+              "code": "S13.10",
+              "kind": "category",
+              "label": "Höhe nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Luxation eines Halswirbels: Höhe nicht näher bezeichnet",
+                "preferred": "Höhe nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "S13.11",
+              "kind": "category",
+              "label": "C1/C2",
+              "rubrics": {
+                "preferredLong": "Luxation von Halswirbeln: C1/C2",
+                "preferred": "C1/C2"
+              },
+              "children": []
+            },
+            {
+              "code": "S13.12",
+              "kind": "category",
+              "label": "C2/C3",
+              "rubrics": {
+                "preferredLong": "Luxation von Halswirbeln: C2/C3",
+                "preferred": "C2/C3"
+              },
+              "children": []
+            },
+            {
+              "code": "S13.13",
+              "kind": "category",
+              "label": "C3/C4",
+              "rubrics": {
+                "preferredLong": "Luxation von Halswirbeln: C3/C4",
+                "preferred": "C3/C4"
+              },
+              "children": []
+            },
+            {
+              "code": "S13.14",
+              "kind": "category",
+              "label": "C4/C5",
+              "rubrics": {
+                "preferredLong": "Luxation von Halswirbeln: C4/C5",
+                "preferred": "C4/C5"
+              },
+              "children": []
+            },
+            {
+              "code": "S13.15",
+              "kind": "category",
+              "label": "C5/C6",
+              "rubrics": {
+                "preferredLong": "Luxation von Halswirbeln: C5/C6",
+                "preferred": "C5/C6"
+              },
+              "children": []
+            },
+            {
+              "code": "S13.16",
+              "kind": "category",
+              "label": "C6/C7",
+              "rubrics": {
+                "preferredLong": "Luxation von Halswirbeln: C6/C7",
+                "preferred": "C6/C7"
+              },
+              "children": []
+            },
+            {
+              "code": "S13.17",
+              "kind": "category",
+              "label": "C7/T1",
+              "rubrics": {
+                "preferredLong": "Luxation von Halswirbeln: C7/T1",
+                "preferred": "C7/T1"
+              },
+              "children": []
+            },
+            {
+              "code": "S13.18",
+              "kind": "category",
+              "label": "Sonstige",
+              "rubrics": {
+                "preferredLong": "Luxation von Halswirbeln: Sonstige",
+                "preferred": "Sonstige"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S13.2",
+          "kind": "category",
+          "label": "Luxation sonstiger und nicht näher bezeichneter Teile im Bereich des Halses",
+          "rubrics": {
+            "preferred": "Luxation sonstiger und nicht näher bezeichneter Teile im Bereich des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "S13.3",
+          "kind": "category",
+          "label": "Multiple Luxationen im Bereich des Halses",
+          "rubrics": {
+            "preferred": "Multiple Luxationen im Bereich des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "S13.4",
+          "kind": "category",
+          "label": "Verstauchung und Zerrung der Halswirbelsäule",
+          "rubrics": {
+            "preferred": "Verstauchung und Zerrung der Halswirbelsäule",
+            "inclusion": "Schleudertrauma der Halswirbelsäule"
+          },
+          "children": []
+        },
+        {
+          "code": "S13.5",
+          "kind": "category",
+          "label": "Verstauchung und Zerrung in der Schilddrüsenregion",
+          "rubrics": {
+            "preferred": "Verstauchung und Zerrung in der Schilddrüsenregion",
+            "inclusion": "Schildknorpel"
+          },
+          "children": []
+        },
+        {
+          "code": "S13.6",
+          "kind": "category",
+          "label": "Verstauchung und Zerrung von Gelenken und Bändern sonstiger und nicht näher bezeichneter Teile des Halses",
+          "rubrics": {
+            "preferred": "Verstauchung und Zerrung von Gelenken und Bändern sonstiger und nicht näher bezeichneter Teile des Halses"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S14",
+      "kind": "category",
+      "label": "Verletzung der Nerven und des Rückenmarkes in Halshöhe",
+      "rubrics": {
+        "preferred": "Verletzung der Nerven und des Rückenmarkes in Halshöhe",
+        "coding-hint": "Benutze zusätzlich die Schlüsselnummer S19.80, um eine Verletzung zervikaler Rückenmarkhäute anzugeben."
+      },
+      "children": [
+        {
+          "code": "S14.0",
+          "kind": "category",
+          "label": "Kontusion und Ödem des zervikalen Rückenmarkes",
+          "rubrics": {
+            "preferred": "Kontusion und Ödem des zervikalen Rückenmarkes"
+          },
+          "children": []
+        },
+        {
+          "code": "S14.1",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete Verletzungen des zervikalen Rückenmarkes",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete Verletzungen des zervikalen Rückenmarkes",
+            "coding-hint": "Verschlüssele auch die funktionale Höhe einer Verletzung des zervikalen Rückenmarks S14.7-"
+          },
+          "children": [
+            {
+              "code": "S14.10",
+              "kind": "category",
+              "label": "Verletzungen des zervikalen Rückenmarkes, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verletzungen des zervikalen Rückenmarkes, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "S14.11",
+              "kind": "category",
+              "label": "Komplette Querschnittverletzung des zervikalen Rückenmarkes",
+              "rubrics": {
+                "preferred": "Komplette Querschnittverletzung des zervikalen Rückenmarkes"
+              },
+              "children": []
+            },
+            {
+              "code": "S14.12",
+              "kind": "category",
+              "label": "Zentrale Halsmarkverletzung (inkomplette Querschnittverletzung)",
+              "rubrics": {
+                "preferred": "Zentrale Halsmarkverletzung (inkomplette Querschnittverletzung)"
+              },
+              "children": []
+            },
+            {
+              "code": "S14.13",
+              "kind": "category",
+              "label": "Sonstige inkomplette Querschnittverletzungen des zervikalen Rückenmarkes",
+              "rubrics": {
+                "preferred": "Sonstige inkomplette Querschnittverletzungen des zervikalen Rückenmarkes"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S14.2",
+          "kind": "category",
+          "label": "Verletzung von Nervenwurzeln der Halswirbelsäule",
+          "rubrics": {
+            "preferred": "Verletzung von Nervenwurzeln der Halswirbelsäule"
+          },
+          "children": []
+        },
+        {
+          "code": "S14.3",
+          "kind": "category",
+          "label": "Verletzung des Plexus brachialis",
+          "rubrics": {
+            "preferred": "Verletzung des Plexus brachialis"
+          },
+          "children": []
+        },
+        {
+          "code": "S14.4",
+          "kind": "category",
+          "label": "Verletzung peripherer Nerven des Halses",
+          "rubrics": {
+            "preferred": "Verletzung peripherer Nerven des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "S14.5",
+          "kind": "category",
+          "label": "Verletzung zervikaler sympathischer Nerven",
+          "rubrics": {
+            "preferred": "Verletzung zervikaler sympathischer Nerven"
+          },
+          "children": []
+        },
+        {
+          "code": "S14.6",
+          "kind": "category",
+          "label": "Verletzung sonstiger und nicht näher bezeichneter Nerven des Halses",
+          "rubrics": {
+            "preferred": "Verletzung sonstiger und nicht näher bezeichneter Nerven des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "S14.7",
+          "kind": "category",
+          "label": "Funktionale Höhe einer Verletzung des zervikalen Rückenmarkes",
+          "rubrics": {
+            "preferred": "Funktionale Höhe einer Verletzung des zervikalen Rückenmarkes",
+            "text": "Diese Subkategorie dient zur Verschlüsselung der funktionalen Höhe einer Rückenmarksverletzung. Unter der funktionalen Höhe einer Rückenmarksverletzung wird das unterste intakte Rückenmarkssegment verstanden (so bedeutet z.B. \"komplette C4-Läsion des Rückenmarks\", dass die Funktionen des 4. und der höheren Zervikalnerven intakt sind und dass unterhalb C4 keine Funktion mehr vorhanden ist).",
+            "coding-hint": "Kodiere zuerst die Art der zervikalen Rückenmarksverletzung."
+          },
+          "children": [
+            {
+              "code": "S14.70",
+              "kind": "category",
+              "label": "Höhe nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Verletzung des zervikalen Rückenmarkes: Höhe nicht näher bezeichnet",
+                "preferred": "Höhe nicht näher bezeichnet",
+                "inclusion": "Halsmark o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "S14.71",
+              "kind": "category",
+              "label": "C1",
+              "rubrics": {
+                "preferredLong": "Verletzung des Rückenmarkes: C1",
+                "preferred": "C1"
+              },
+              "children": []
+            },
+            {
+              "code": "S14.72",
+              "kind": "category",
+              "label": "C2",
+              "rubrics": {
+                "preferredLong": "Verletzung des Rückenmarkes: C2",
+                "preferred": "C2"
+              },
+              "children": []
+            },
+            {
+              "code": "S14.73",
+              "kind": "category",
+              "label": "C3",
+              "rubrics": {
+                "preferredLong": "Verletzung des Rückenmarkes: C3",
+                "preferred": "C3"
+              },
+              "children": []
+            },
+            {
+              "code": "S14.74",
+              "kind": "category",
+              "label": "C4",
+              "rubrics": {
+                "preferredLong": "Verletzung des Rückenmarkes: C4",
+                "preferred": "C4"
+              },
+              "children": []
+            },
+            {
+              "code": "S14.75",
+              "kind": "category",
+              "label": "C5",
+              "rubrics": {
+                "preferredLong": "Verletzung des Rückenmarkes: C5",
+                "preferred": "C5"
+              },
+              "children": []
+            },
+            {
+              "code": "S14.76",
+              "kind": "category",
+              "label": "C6",
+              "rubrics": {
+                "preferredLong": "Verletzung des Rückenmarkes: C6",
+                "preferred": "C6"
+              },
+              "children": []
+            },
+            {
+              "code": "S14.77",
+              "kind": "category",
+              "label": "C7",
+              "rubrics": {
+                "preferredLong": "Verletzung des Rückenmarkes: C7",
+                "preferred": "C7"
+              },
+              "children": []
+            },
+            {
+              "code": "S14.78",
+              "kind": "category",
+              "label": "C8",
+              "rubrics": {
+                "preferredLong": "Verletzung des Rückenmarkes: C8",
+                "preferred": "C8"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "S15",
+      "kind": "category",
+      "label": "Verletzung von Blutgefäßen in Halshöhe",
+      "rubrics": {
+        "preferred": "Verletzung von Blutgefäßen in Halshöhe"
+      },
+      "children": [
+        {
+          "code": "S15.0",
+          "kind": "category",
+          "label": "Verletzung der A. carotis",
+          "rubrics": {
+            "preferred": "Verletzung der A. carotis"
+          },
+          "children": [
+            {
+              "code": "S15.00",
+              "kind": "category",
+              "label": "A. carotis, Teil nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Verletzung: A. carotis, Teil nicht näher bezeichnet",
+                "preferred": "A. carotis, Teil nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "S15.01",
+              "kind": "category",
+              "label": "A. carotis communis",
+              "rubrics": {
+                "preferredLong": "Verletzung: A. carotis communis",
+                "preferred": "A. carotis communis"
+              },
+              "children": []
+            },
+            {
+              "code": "S15.02",
+              "kind": "category",
+              "label": "A. carotis externa",
+              "rubrics": {
+                "preferredLong": "Verletzung: A. carotis externa",
+                "preferred": "A. carotis externa"
+              },
+              "children": []
+            },
+            {
+              "code": "S15.03",
+              "kind": "category",
+              "label": "A. carotis interna",
+              "rubrics": {
+                "preferredLong": "Verletzung: A. carotis interna",
+                "preferred": "A. carotis interna"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S15.1",
+          "kind": "category",
+          "label": "Verletzung der A. vertebralis",
+          "rubrics": {
+            "preferred": "Verletzung der A. vertebralis"
+          },
+          "children": []
+        },
+        {
+          "code": "S15.2",
+          "kind": "category",
+          "label": "Verletzung der V. jugularis externa",
+          "rubrics": {
+            "preferred": "Verletzung der V. jugularis externa"
+          },
+          "children": []
+        },
+        {
+          "code": "S15.3",
+          "kind": "category",
+          "label": "Verletzung der V. jugularis interna",
+          "rubrics": {
+            "preferred": "Verletzung der V. jugularis interna"
+          },
+          "children": []
+        },
+        {
+          "code": "S15.7",
+          "kind": "category",
+          "label": "Verletzung mehrerer Blutgefäße in Höhe des Halses",
+          "rubrics": {
+            "preferred": "Verletzung mehrerer Blutgefäße in Höhe des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "S15.8",
+          "kind": "category",
+          "label": "Verletzung sonstiger Blutgefäße in Höhe des Halses",
+          "rubrics": {
+            "preferred": "Verletzung sonstiger Blutgefäße in Höhe des Halses"
+          },
+          "children": [
+            {
+              "code": "S15.80",
+              "kind": "category",
+              "label": "Verletzung epiduraler Blutgefäße in Höhe des Halses",
+              "rubrics": {
+                "preferred": "Verletzung epiduraler Blutgefäße in Höhe des Halses"
+              },
+              "children": []
+            },
+            {
+              "code": "S15.81",
+              "kind": "category",
+              "label": "Verletzung subduraler Blutgefäße in Höhe des Halses",
+              "rubrics": {
+                "preferred": "Verletzung subduraler Blutgefäße in Höhe des Halses"
+              },
+              "children": []
+            },
+            {
+              "code": "S15.82",
+              "kind": "category",
+              "label": "Verletzung subarachnoidaler Blutgefäße in Höhe des Halses",
+              "rubrics": {
+                "preferred": "Verletzung subarachnoidaler Blutgefäße in Höhe des Halses"
+              },
+              "children": []
+            },
+            {
+              "code": "S15.88",
+              "kind": "category",
+              "label": "Verletzung sonstiger Blutgefäße in Höhe des Halses",
+              "rubrics": {
+                "preferred": "Verletzung sonstiger Blutgefäße in Höhe des Halses"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S15.9",
+          "kind": "category",
+          "label": "Verletzung eines nicht näher bezeichneten Blutgefäßes in Höhe des Halses",
+          "rubrics": {
+            "preferred": "Verletzung eines nicht näher bezeichneten Blutgefäßes in Höhe des Halses"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S16",
+      "kind": "category",
+      "label": "Verletzung von Muskeln und Sehnen in Halshöhe",
+      "rubrics": {
+        "preferred": "Verletzung von Muskeln und Sehnen in Halshöhe",
+        "inclusion": "Verstauchung und Zerrung"
+      },
+      "children": []
+    },
+    {
+      "code": "S17",
+      "kind": "category",
+      "label": "Zerquetschung des Halses",
+      "rubrics": {
+        "preferred": "Zerquetschung des Halses",
+        "note": "Verschlüssele gegebenenfalls auch Crush-Syndrom T79.5.",
+        "exclusion": "Wenn die Art der Verletzung bekannt ist (z.B. Prellung, Fraktur, Luxation, innere Verletzung), verschlüssele nur nach der Art der Verletzung"
+      },
+      "children": [
+        {
+          "code": "S17.0",
+          "kind": "category",
+          "label": "Zerquetschung des Kehlkopfes und der Trachea",
+          "rubrics": {
+            "preferred": "Zerquetschung des Kehlkopfes und der Trachea"
+          },
+          "children": []
+        },
+        {
+          "code": "S17.8",
+          "kind": "category",
+          "label": "Zerquetschung sonstiger Teile des Halses",
+          "rubrics": {
+            "preferred": "Zerquetschung sonstiger Teile des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "S17.9",
+          "kind": "category",
+          "label": "Zerquetschung des Halses, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Zerquetschung des Halses, Teil nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S18",
+      "kind": "category",
+      "label": "Traumatische Amputation in Halshöhe",
+      "rubrics": {
+        "preferred": "Traumatische Amputation in Halshöhe",
+        "inclusion": "Dekapitation"
+      },
+      "children": []
+    },
+    {
+      "code": "S19",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Verletzungen des Halses",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Verletzungen des Halses"
+      },
+      "children": [
+        {
+          "code": "S19.7",
+          "kind": "category",
+          "label": "Multiple Verletzungen des Halses",
+          "rubrics": {
+            "preferred": "Multiple Verletzungen des Halses",
+            "inclusion": "Verletzungen, die in mehr als einer der Kategorien S10-S18 klassifizierbar sind",
+            "coding-hint": "Bezüglich der Verschlüsselung multipler Verletzungen sind in der stationären Versorgung die Deutschen Kodierrichtlinien heranzuziehen."
+          },
+          "children": []
+        },
+        {
+          "code": "S19.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Verletzungen des Halses",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Verletzungen des Halses"
+          },
+          "children": [
+            {
+              "code": "S19.80",
+              "kind": "category",
+              "label": "Verletzung zervikaler Rückenmarkhäute",
+              "rubrics": {
+                "preferred": "Verletzung zervikaler Rückenmarkhäute"
+              },
+              "children": []
+            },
+            {
+              "code": "S19.88",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Verletzungen des Halses",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Verletzungen des Halses"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S19.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Verletzung des Halses",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Verletzung des Halses"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

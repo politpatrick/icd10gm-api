@@ -1,0 +1,10 @@
+{
+  "code": "B05.1",
+  "kind": "category",
+  "label": "Masern, kompliziert durch MeningitisG02.0",
+  "rubrics": {
+    "preferred": "Masern, kompliziert durch MeningitisG02.0",
+    "inclusion": "Meningitis bei Masern"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "B25.80",
+  "kind": "category",
+  "label": "Infektion des Verdauungstraktes durch Zytomegalieviren",
+  "rubrics": {
+    "preferred": "Infektion des Verdauungstraktes durch Zytomegalieviren",
+    "inclusion": "ÖsophagitisK23.8\n\t\t\t\tdurch Zytomegalieviren"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "S43.5",
+  "kind": "category",
+  "label": "Verstauchung und Zerrung des Akromioklavikulargelenkes",
+  "rubrics": {
+    "preferred": "Verstauchung und Zerrung des Akromioklavikulargelenkes",
+    "inclusion": "Lig. acromioclaviculare"
+  },
+  "children": []
+}

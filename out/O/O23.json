@@ -1,0 +1,75 @@
+{
+  "code": "O23",
+  "kind": "category",
+  "label": "Infektionen des Urogenitaltraktes in der Schwangerschaft",
+  "rubrics": {
+    "preferred": "Infektionen des Urogenitaltraktes in der Schwangerschaft",
+    "exclusion": "Tuberkulose des UrogenitalsystemsO98.0\n\t\t\t\tdie Schwangerschaft, Geburt und Wochenbett komplizieren"
+  },
+  "children": [
+    {
+      "code": "O23.0",
+      "kind": "category",
+      "label": "Infektionen der Niere in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Infektionen der Niere in der Schwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O23.1",
+      "kind": "category",
+      "label": "Infektionen der Harnblase in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Infektionen der Harnblase in der Schwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O23.2",
+      "kind": "category",
+      "label": "Infektionen der Urethra in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Infektionen der Urethra in der Schwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O23.3",
+      "kind": "category",
+      "label": "Infektionen von sonstigen Teilen der Harnwege in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Infektionen von sonstigen Teilen der Harnwege in der Schwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O23.4",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Infektion der Harnwege in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Infektion der Harnwege in der Schwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O23.5",
+      "kind": "category",
+      "label": "Infektionen des Genitaltraktes in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Infektionen des Genitaltraktes in der Schwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O23.9",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Infektion des Urogenitaltraktes in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Infektion des Urogenitaltraktes in der Schwangerschaft",
+        "inclusion": "Infektion des Urogenitaltraktes in der Schwangerschaft o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

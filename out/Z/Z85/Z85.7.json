@@ -1,0 +1,10 @@
+{
+  "code": "Z85.7",
+  "kind": "category",
+  "label": "Andere bösartige Neubildungen des lymphatischen, blutbildenden oder verwandten Gewebes in der Eigenanamnese",
+  "rubrics": {
+    "preferred": "Andere bösartige Neubildungen des lymphatischen, blutbildenden oder verwandten Gewebes in der Eigenanamnese",
+    "inclusion": "Zustände, klassifizierbar unter C81-C90, C96.-"
+  },
+  "children": []
+}

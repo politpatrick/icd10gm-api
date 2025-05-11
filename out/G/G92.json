@@ -1,0 +1,30 @@
+{
+  "code": "G92",
+  "kind": "category",
+  "label": "Toxische Enzephalopathie",
+  "rubrics": {
+    "preferred": "Toxische Enzephalopathie",
+    "coding-hint": "Soll das toxische Agens angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": [
+    {
+      "code": "G92.0",
+      "kind": "category",
+      "label": "Toxische Enzephalopathie unter Immuntherapie",
+      "rubrics": {
+        "preferred": "Toxische Enzephalopathie unter Immuntherapie",
+        "inclusion": "Immuneffektorzell-assoziiertes Neurotoxizitätssyndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "G92.9",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete toxische Enzephalopathie",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete toxische Enzephalopathie"
+      },
+      "children": []
+    }
+  ]
+}

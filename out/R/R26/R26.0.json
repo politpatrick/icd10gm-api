@@ -1,0 +1,10 @@
+{
+  "code": "R26.0",
+  "kind": "category",
+  "label": "Ataktischer Gang",
+  "rubrics": {
+    "preferred": "Ataktischer Gang",
+    "inclusion": "Taumelnder Gang"
+  },
+  "children": []
+}

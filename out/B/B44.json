@@ -1,0 +1,86 @@
+{
+  "code": "B44",
+  "kind": "category",
+  "label": "Aspergillose",
+  "rubrics": {
+    "preferred": "Aspergillose",
+    "inclusion": "Aspergillom"
+  },
+  "children": [
+    {
+      "code": "B44.0",
+      "kind": "category",
+      "label": "Invasive Aspergillose der Lunge",
+      "rubrics": {
+        "preferred": "Invasive Aspergillose der Lunge"
+      },
+      "children": []
+    },
+    {
+      "code": "B44.1",
+      "kind": "category",
+      "label": "Sonstige Aspergillose der Lunge",
+      "rubrics": {
+        "preferred": "Sonstige Aspergillose der Lunge"
+      },
+      "children": []
+    },
+    {
+      "code": "B44.2",
+      "kind": "category",
+      "label": "Aspergillose der Tonsillen",
+      "rubrics": {
+        "preferred": "Aspergillose der Tonsillen"
+      },
+      "children": []
+    },
+    {
+      "code": "B44.7",
+      "kind": "category",
+      "label": "Disseminierte Aspergillose",
+      "rubrics": {
+        "preferred": "Disseminierte Aspergillose"
+      },
+      "children": [
+        {
+          "code": "B44.70",
+          "kind": "category",
+          "label": "Sepsis durch Aspergillus",
+          "rubrics": {
+            "preferred": "Sepsis durch Aspergillus",
+            "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.80!-U69.82, um den zeitlichen Bezug der Sepsis zur stationären Krankenhausaufnahme anzugeben."
+          },
+          "children": []
+        },
+        {
+          "code": "B44.78",
+          "kind": "category",
+          "label": "Sonstige disseminierte Aspergillose",
+          "rubrics": {
+            "preferred": "Sonstige disseminierte Aspergillose",
+            "inclusion": "Generalisierte Aspergillose o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B44.8",
+      "kind": "category",
+      "label": "Sonstige Formen der Aspergillose",
+      "rubrics": {
+        "preferred": "Sonstige Formen der Aspergillose"
+      },
+      "children": []
+    },
+    {
+      "code": "B44.9",
+      "kind": "category",
+      "label": "Aspergillose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Aspergillose, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

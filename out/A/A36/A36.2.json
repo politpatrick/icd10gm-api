@@ -1,0 +1,10 @@
+{
+  "code": "A36.2",
+  "kind": "category",
+  "label": "Kehlkopfdiphtherie",
+  "rubrics": {
+    "preferred": "Kehlkopfdiphtherie",
+    "inclusion": "Diphtherische Laryngotracheitis"
+  },
+  "children": []
+}

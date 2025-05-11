@@ -1,0 +1,10 @@
+{
+  "code": "T89.02",
+  "kind": "category",
+  "label": "Infektion",
+  "rubrics": {
+    "preferredLong": "Komplikationen einer offenen Wunde: Infektion",
+    "preferred": "Infektion"
+  },
+  "children": []
+}

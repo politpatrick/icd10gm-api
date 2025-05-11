@@ -1,0 +1,10 @@
+{
+  "code": "B81.4",
+  "kind": "category",
+  "label": "Mischformen intestinaler Helminthosen",
+  "rubrics": {
+    "preferred": "Mischformen intestinaler Helminthosen",
+    "inclusion": "Infektion durch mehr als eine der unter B65.0-B81.3 und B81.8 klassifizierbaren intestinalen Helminthenarten"
+  },
+  "children": []
+}

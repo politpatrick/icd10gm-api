@@ -1,0 +1,38 @@
+{
+  "code": "S82.8",
+  "kind": "category",
+  "label": "Frakturen sonstiger Teile des Unterschenkels",
+  "rubrics": {
+    "preferred": "Frakturen sonstiger Teile des Unterschenkels"
+  },
+  "children": [
+    {
+      "code": "S82.81",
+      "kind": "category",
+      "label": "Bimalleolarfraktur",
+      "rubrics": {
+        "preferred": "Bimalleolarfraktur"
+      },
+      "children": []
+    },
+    {
+      "code": "S82.82",
+      "kind": "category",
+      "label": "Trimalleolarfraktur",
+      "rubrics": {
+        "preferred": "Trimalleolarfraktur"
+      },
+      "children": []
+    },
+    {
+      "code": "S82.88",
+      "kind": "category",
+      "label": "Frakturen sonstiger Teile des Unterschenkels",
+      "rubrics": {
+        "preferred": "Frakturen sonstiger Teile des Unterschenkels",
+        "inclusion": "Malleolus o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "code": "O09-O09",
+  "kind": "block",
+  "label": "Schwangerschaftsdauer",
+  "rubrics": {
+    "preferred": "Schwangerschaftsdauer"
+  },
+  "children": [
+    {
+      "code": "O09",
+      "kind": "category",
+      "label": "Schwangerschaftsdauer",
+      "rubrics": {
+        "preferred": "Schwangerschaftsdauer"
+      },
+      "children": [
+        {
+          "code": "O09.0",
+          "kind": "category",
+          "label": "Weniger als 5 vollendete Wochen",
+          "rubrics": {
+            "preferredLong": "Schwangerschaftsdauer: Weniger als 5 vollendete Wochen",
+            "preferred": "Weniger als 5 vollendete Wochen",
+            "text": "Weniger als 35 vollendete Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "O09.1",
+          "kind": "category",
+          "label": "5 bis 13 vollendete Wochen",
+          "rubrics": {
+            "preferredLong": "Schwangerschaftsdauer: 5 bis 13 vollendete Wochen",
+            "preferred": "5 bis 13 vollendete Wochen",
+            "text": "35 bis 91 vollendete Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "O09.2",
+          "kind": "category",
+          "label": "14. Woche bis 19 vollendete Wochen",
+          "rubrics": {
+            "preferredLong": "Schwangerschaftsdauer: 14. Woche bis 19 vollendete Wochen",
+            "preferred": "14. Woche bis 19 vollendete Wochen",
+            "text": "92. Tag bis 133 vollendete Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "O09.3",
+          "kind": "category",
+          "label": "20. Woche bis 25 vollendete Wochen",
+          "rubrics": {
+            "preferredLong": "Schwangerschaftsdauer: 20. Woche bis 25 vollendete Wochen",
+            "preferred": "20. Woche bis 25 vollendete Wochen",
+            "text": "134. Tag bis 175 vollendete Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "O09.4",
+          "kind": "category",
+          "label": "26. Woche bis 33 vollendete Wochen",
+          "rubrics": {
+            "preferredLong": "Schwangerschaftsdauer: 26. Woche bis 33 vollendete Wochen",
+            "preferred": "26. Woche bis 33 vollendete Wochen",
+            "text": "176. Tag bis 231 vollendete Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "O09.5",
+          "kind": "category",
+          "label": "34. Woche bis 36 vollendete Wochen",
+          "rubrics": {
+            "preferredLong": "Schwangerschaftsdauer: 34. Woche bis 36 vollendete Wochen",
+            "preferred": "34. Woche bis 36 vollendete Wochen",
+            "text": "232. Tag bis 252 vollendete Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "O09.6",
+          "kind": "category",
+          "label": "37. Woche bis 41 vollendete Wochen",
+          "rubrics": {
+            "preferredLong": "Schwangerschaftsdauer: 37. Woche bis 41 vollendete Wochen",
+            "preferred": "37. Woche bis 41 vollendete Wochen",
+            "text": "253. Tag bis 287 vollendete Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "O09.7",
+          "kind": "category",
+          "label": "Mehr als 41 vollendete Wochen",
+          "rubrics": {
+            "preferredLong": "Schwangerschaftsdauer: Mehr als 41 vollendete Wochen",
+            "preferred": "Mehr als 41 vollendete Wochen",
+            "text": "Mehr als 287 vollendete Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "O09.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Schwangerschaftsdauer: Nicht näher bezeichnet",
+            "preferred": "Nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

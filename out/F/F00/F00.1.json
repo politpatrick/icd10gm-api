@@ -1,0 +1,11 @@
+{
+  "code": "F00.1",
+  "kind": "category",
+  "label": "Demenz bei Alzheimer-Krankheit, mit spätem Beginn (Typ 1)G30.1",
+  "rubrics": {
+    "preferred": "Demenz bei Alzheimer-Krankheit, mit spätem Beginn (Typ 1)G30.1",
+    "definition": "Demenz bei Alzheimer-Krankheit mit Beginn ab dem 65. Lebensjahr, meist in den späten 70er Jahren oder danach, mit langsamer Progredienz und mit Gedächtnisstörungen als Hauptmerkmal.",
+    "inclusion": "Senile Demenz vom Alzheimer-Typ (SDAT)"
+  },
+  "children": []
+}

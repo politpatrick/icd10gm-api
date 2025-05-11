@@ -1,0 +1,10 @@
+{
+  "code": "M21.5",
+  "kind": "category",
+  "label": "Erworbene Klauenhand, Klumphand, erworbener Klauenfuß und Klumpfuß",
+  "rubrics": {
+    "preferred": "Erworbene Klauenhand, Klumphand, erworbener Klauenfuß und Klumpfuß",
+    "exclusion": "Klumpfuß, nicht als erworben bezeichnetQ66.0"
+  },
+  "children": []
+}

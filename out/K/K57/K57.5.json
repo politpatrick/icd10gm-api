@@ -1,0 +1,47 @@
+{
+  "code": "K57.5",
+  "kind": "category",
+  "label": "Divertikelkrankheit sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation oder Abszess",
+  "rubrics": {
+    "preferred": "Divertikelkrankheit sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation oder Abszess",
+    "inclusion": "Divertikulose sowohl des Dünndarmes als auch des Dickdarmes o.n.A."
+  },
+  "children": [
+    {
+      "code": "K57.50",
+      "kind": "category",
+      "label": "Divertikulose sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation, Abszess oder Angabe einer Blutung",
+      "rubrics": {
+        "preferred": "Divertikulose sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation, Abszess oder Angabe einer Blutung"
+      },
+      "children": []
+    },
+    {
+      "code": "K57.51",
+      "kind": "category",
+      "label": "Divertikulose sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation oder Abszess, mit Blutung",
+      "rubrics": {
+        "preferred": "Divertikulose sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation oder Abszess, mit Blutung"
+      },
+      "children": []
+    },
+    {
+      "code": "K57.52",
+      "kind": "category",
+      "label": "Divertikulitis sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation, Abszess oder Angabe einer Blutung",
+      "rubrics": {
+        "preferred": "Divertikulitis sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation, Abszess oder Angabe einer Blutung"
+      },
+      "children": []
+    },
+    {
+      "code": "K57.53",
+      "kind": "category",
+      "label": "Divertikulitis sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation oder Abszess, mit Blutung",
+      "rubrics": {
+        "preferred": "Divertikulitis sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation oder Abszess, mit Blutung"
+      },
+      "children": []
+    }
+  ]
+}

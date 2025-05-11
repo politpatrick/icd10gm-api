@@ -1,0 +1,10 @@
+{
+  "code": "S62.61",
+  "kind": "category",
+  "label": "Proximale Phalanx",
+  "rubrics": {
+    "preferredLong": "Fraktur eines sonstigen Fingers: Proximale Phalanx",
+    "preferred": "Proximale Phalanx"
+  },
+  "children": []
+}

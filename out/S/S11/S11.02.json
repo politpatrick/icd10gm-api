@@ -1,0 +1,12 @@
+{
+  "code": "S11.02",
+  "kind": "category",
+  "label": "Trachea, Pars cervicalis",
+  "rubrics": {
+    "preferredLong": "Offene Wunde: Trachea, Pars cervicalis",
+    "preferred": "Trachea, Pars cervicalis",
+    "inclusion": "Trachea o.n.A.",
+    "exclusion": "Trachea, Pars thoracicaS27.5"
+  },
+  "children": []
+}

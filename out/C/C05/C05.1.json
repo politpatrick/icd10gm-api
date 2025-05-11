@@ -1,0 +1,11 @@
+{
+  "code": "C05.1",
+  "kind": "category",
+  "label": "Weicher Gaumen",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Weicher Gaumen",
+    "preferred": "Weicher Gaumen",
+    "exclusion": "Nasopharyngeale Fläche des weichen GaumensC11.3"
+  },
+  "children": []
+}

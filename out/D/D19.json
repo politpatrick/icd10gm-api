@@ -1,0 +1,51 @@
+{
+  "code": "D19",
+  "kind": "category",
+  "label": "Gutartige Neubildung des mesothelialen Gewebes",
+  "rubrics": {
+    "preferred": "Gutartige Neubildung des mesothelialen Gewebes"
+  },
+  "children": [
+    {
+      "code": "D19.0",
+      "kind": "category",
+      "label": "Mesotheliales Gewebe der Pleura",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Mesotheliales Gewebe der Pleura",
+        "preferred": "Mesotheliales Gewebe der Pleura"
+      },
+      "children": []
+    },
+    {
+      "code": "D19.1",
+      "kind": "category",
+      "label": "Mesotheliales Gewebe des Peritoneums",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Mesotheliales Gewebe des Peritoneums",
+        "preferred": "Mesotheliales Gewebe des Peritoneums"
+      },
+      "children": []
+    },
+    {
+      "code": "D19.7",
+      "kind": "category",
+      "label": "Mesotheliales Gewebe an sonstigen Lokalisationen",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Mesotheliales Gewebe an sonstigen Lokalisationen",
+        "preferred": "Mesotheliales Gewebe an sonstigen Lokalisationen"
+      },
+      "children": []
+    },
+    {
+      "code": "D19.9",
+      "kind": "category",
+      "label": "Mesotheliales Gewebe, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Mesotheliales Gewebe, nicht näher bezeichnet",
+        "preferred": "Mesotheliales Gewebe, nicht näher bezeichnet",
+        "inclusion": "Gutartiges Mesotheliom o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

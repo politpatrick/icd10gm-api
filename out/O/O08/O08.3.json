@@ -1,0 +1,11 @@
+{
+  "code": "O08.3",
+  "kind": "category",
+  "label": "Schock nach Abort, Extrauteringravidität und Molenschwangerschaft",
+  "rubrics": {
+    "preferred": "Schock nach Abort, Extrauteringravidität und Molenschwangerschaft",
+    "inclusion": "Schock (postoperativ)\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind",
+    "exclusion": "Septischer SchockR57.2"
+  },
+  "children": []
+}

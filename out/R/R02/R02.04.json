@@ -1,0 +1,11 @@
+{
+  "code": "R02.04",
+  "kind": "category",
+  "label": "Rumpf",
+  "rubrics": {
+    "preferredLong": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert: Rumpf",
+    "preferred": "Rumpf",
+    "inclusion": "Rücken [jeder Teil, ausgenommen Gesäß]"
+  },
+  "children": []
+}

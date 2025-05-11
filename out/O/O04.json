@@ -1,0 +1,11 @@
+{
+  "code": "O04",
+  "kind": "category",
+  "label": "Ärztlich eingeleiteter Abort",
+  "rubrics": {
+    "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+    "preferred": "Ärztlich eingeleiteter Abort",
+    "inclusion": "Therapeutischer Abort"
+  },
+  "children": []
+}

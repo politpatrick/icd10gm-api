@@ -1,0 +1,11 @@
+{
+  "code": "L98.5",
+  "kind": "category",
+  "label": "Muzinose der Haut",
+  "rubrics": {
+    "preferred": "Muzinose der Haut",
+    "inclusion": "Retikuläre erythematöse Muzinose",
+    "exclusion": "MyxödemE03.9"
+  },
+  "children": []
+}

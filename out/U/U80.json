@@ -1,0 +1,138 @@
+{
+  "code": "U80",
+  "kind": "category",
+  "label": "Grampositive Erreger mit bestimmten Antibiotikaresistenzen, die besondere therapeutische oder hygienische Maßnahmen erfordern",
+  "rubrics": {
+    "preferred": "Grampositive Erreger mit bestimmten Antibiotikaresistenzen, die besondere therapeutische oder hygienische Maßnahmen erfordern"
+  },
+  "children": [
+    {
+      "code": "U80.0",
+      "kind": "category",
+      "label": "Staphylococcus aureus mit Resistenz gegen Oxacillin, Glykopeptid-Antibiotika, Chinolone, Streptogramine oder Oxazolidinone",
+      "rubrics": {
+        "preferred": "Staphylococcus aureus mit Resistenz gegen Oxacillin, Glykopeptid-Antibiotika, Chinolone, Streptogramine oder Oxazolidinone",
+        "inclusion": "Staphylococcus aureus mit Resistenz gegen Methicillin"
+      },
+      "children": [
+        {
+          "code": "U80.00",
+          "kind": "category",
+          "label": "Staphylococcus aureus mit Resistenz gegen Oxacillin oder Methicillin [MRSA]",
+          "rubrics": {
+            "preferred": "Staphylococcus aureus mit Resistenz gegen Oxacillin oder Methicillin [MRSA]",
+            "inclusion": "Staphylococcus aureus mit Resistenz gegen Oxacillin oder Methicillin und ggf. gegen Glykopeptid-Antibiotika, Chinolone, Streptogramine oder Oxazolidinone"
+          },
+          "children": []
+        },
+        {
+          "code": "U80.01",
+          "kind": "category",
+          "label": "Staphylococcus aureus mit Resistenz gegen Glykopeptid-Antibiotika, Chinolone, Streptogramine oder Oxazolidinone und ohne Resistenz gegen Oxacillin oder Methicillin",
+          "rubrics": {
+            "preferred": "Staphylococcus aureus mit Resistenz gegen Glykopeptid-Antibiotika, Chinolone, Streptogramine oder Oxazolidinone und ohne Resistenz gegen Oxacillin oder Methicillin"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "U80.1",
+      "kind": "category",
+      "label": "Streptococcus pneumoniae mit Resistenz gegen Penicillin, Oxacillin, Makrolid-Antibiotika, Oxazolidinone oder Streptogramine",
+      "rubrics": {
+        "preferred": "Streptococcus pneumoniae mit Resistenz gegen Penicillin, Oxacillin, Makrolid-Antibiotika, Oxazolidinone oder Streptogramine"
+      },
+      "children": [
+        {
+          "code": "U80.10",
+          "kind": "category",
+          "label": "Streptococcus pneumoniae mit Resistenz gegen Penicillin oder Oxacillin",
+          "rubrics": {
+            "preferred": "Streptococcus pneumoniae mit Resistenz gegen Penicillin oder Oxacillin",
+            "inclusion": "Streptococcus pneumoniae mit Resistenz gegen Penicillin oder Oxacillin und ggf. gegen Makrolid-Antibiotika, Oxazolidinone oder Streptogramine"
+          },
+          "children": []
+        },
+        {
+          "code": "U80.11",
+          "kind": "category",
+          "label": "Streptococcus pneumoniae mit Resistenz gegen Makrolid-Antibiotika, Oxazolidinone oder Streptogramine und ohne Resistenz gegen Penicillin oder Oxacillin",
+          "rubrics": {
+            "preferred": "Streptococcus pneumoniae mit Resistenz gegen Makrolid-Antibiotika, Oxazolidinone oder Streptogramine und ohne Resistenz gegen Penicillin oder Oxacillin"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "U80.2",
+      "kind": "category",
+      "label": "Enterococcus faecalis mit Resistenz gegen Glykopeptid-Antibiotika oder Oxazolidinone oder mit High-Level-Aminoglykosid-Resistenz",
+      "rubrics": {
+        "preferred": "Enterococcus faecalis mit Resistenz gegen Glykopeptid-Antibiotika oder Oxazolidinone oder mit High-Level-Aminoglykosid-Resistenz"
+      },
+      "children": [
+        {
+          "code": "U80.20",
+          "kind": "category",
+          "label": "Enterococcus faecalis mit Resistenz gegen Glykopeptid-Antibiotika",
+          "rubrics": {
+            "preferred": "Enterococcus faecalis mit Resistenz gegen Glykopeptid-Antibiotika",
+            "inclusion": "Enterococcus faecalis mit Resistenz gegen Glykopeptid-Antibiotika und mit High-Level-Aminoglykosid-Resistenz"
+          },
+          "children": []
+        },
+        {
+          "code": "U80.21",
+          "kind": "category",
+          "label": "Enterococcus faecalis mit Resistenz gegen Oxazolidinone oder mit High-Level-Aminoglykosid-Resistenz und ohne Resistenz gegen Glykopeptid-Antibiotika",
+          "rubrics": {
+            "preferred": "Enterococcus faecalis mit Resistenz gegen Oxazolidinone oder mit High-Level-Aminoglykosid-Resistenz und ohne Resistenz gegen Glykopeptid-Antibiotika"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "U80.3",
+      "kind": "category",
+      "label": "Enterococcus faecium mit Resistenz gegen Glykopeptid-Antibiotika, Oxazolidinone oder Streptogramine oder mit High-Level-Aminoglykosid-Resistenz",
+      "rubrics": {
+        "preferred": "Enterococcus faecium mit Resistenz gegen Glykopeptid-Antibiotika, Oxazolidinone oder Streptogramine oder mit High-Level-Aminoglykosid-Resistenz"
+      },
+      "children": [
+        {
+          "code": "U80.30",
+          "kind": "category",
+          "label": "Enterococcus faecium mit Resistenz gegen Glykopeptid-Antibiotika",
+          "rubrics": {
+            "preferred": "Enterococcus faecium mit Resistenz gegen Glykopeptid-Antibiotika",
+            "inclusion": "Enterococcus faecium mit Resistenz gegen Glykopeptid-Antibiotika und mit High-Level-Aminoglykosid-Resistenz"
+          },
+          "children": []
+        },
+        {
+          "code": "U80.31",
+          "kind": "category",
+          "label": "Enterococcus faecium mit Resistenz gegen Oxazolidinone oder Streptogramine oder mit High-Level-Aminoglykosid-Resistenz und ohne Resistenz gegen Glykopeptid-Antibiotika",
+          "rubrics": {
+            "preferred": "Enterococcus faecium mit Resistenz gegen Oxazolidinone oder Streptogramine oder mit High-Level-Aminoglykosid-Resistenz und ohne Resistenz gegen Glykopeptid-Antibiotika"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "U80.8",
+      "kind": "category",
+      "label": "Sonstige grampositive Bakterien mit Multiresistenz gegen Antibiotika",
+      "rubrics": {
+        "preferred": "Sonstige grampositive Bakterien mit Multiresistenz gegen Antibiotika",
+        "note": "Es ist nur noch eine Sensitivität gegen nicht mehr als zwei der Antibiotika-Substanzgruppen nachweisbar, gegen die die Erreger typischerweise empfindlich sind.",
+        "exclusion": "MykobakterienU82.-"
+      },
+      "children": []
+    }
+  ]
+}

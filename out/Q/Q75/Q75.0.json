@@ -1,0 +1,10 @@
+{
+  "code": "Q75.0",
+  "kind": "category",
+  "label": "Kraniosynostose",
+  "rubrics": {
+    "preferred": "Kraniosynostose",
+    "inclusion": "Unvollständige Verschmelzung von Schädelknochen"
+  },
+  "children": []
+}

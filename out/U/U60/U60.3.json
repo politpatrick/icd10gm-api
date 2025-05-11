@@ -1,0 +1,11 @@
+{
+  "code": "U60.3",
+  "kind": "category",
+  "label": "Kategorie C",
+  "rubrics": {
+    "preferredLong": "Klinische Kategorien der HIV-Krankheit: Kategorie C",
+    "preferred": "Kategorie C",
+    "inclusion": "Vorhandensein von AIDS-Indikatorkrankheiten (AIDS-definierende Erkrankungen)"
+  },
+  "children": []
+}

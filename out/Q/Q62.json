@@ -1,0 +1,98 @@
+{
+  "code": "Q62",
+  "kind": "category",
+  "label": "Angeborene obstruktive Defekte des Nierenbeckens und angeborene Fehlbildungen des Ureters",
+  "rubrics": {
+    "preferred": "Angeborene obstruktive Defekte des Nierenbeckens und angeborene Fehlbildungen des Ureters"
+  },
+  "children": [
+    {
+      "code": "Q62.0",
+      "kind": "category",
+      "label": "Angeborene Hydronephrose",
+      "rubrics": {
+        "preferred": "Angeborene Hydronephrose"
+      },
+      "children": []
+    },
+    {
+      "code": "Q62.1",
+      "kind": "category",
+      "label": "Atresie und (angeborene) Stenose des Ureters",
+      "rubrics": {
+        "preferred": "Atresie und (angeborene) Stenose des Ureters",
+        "inclusion": "Undurchgängigkeit des Ureters"
+      },
+      "children": []
+    },
+    {
+      "code": "Q62.2",
+      "kind": "category",
+      "label": "Angeborener Megaureter",
+      "rubrics": {
+        "preferred": "Angeborener Megaureter",
+        "inclusion": "Angeborene Dilatation des Ureters"
+      },
+      "children": []
+    },
+    {
+      "code": "Q62.3",
+      "kind": "category",
+      "label": "Sonstige (angeborene) obstruktive Defekte des Nierenbeckens und des Ureters",
+      "rubrics": {
+        "preferred": "Sonstige (angeborene) obstruktive Defekte des Nierenbeckens und des Ureters",
+        "inclusion": "Angeborene Ureterozele"
+      },
+      "children": []
+    },
+    {
+      "code": "Q62.4",
+      "kind": "category",
+      "label": "Agenesie des Ureters",
+      "rubrics": {
+        "preferred": "Agenesie des Ureters",
+        "inclusion": "Fehlen des Ureters"
+      },
+      "children": []
+    },
+    {
+      "code": "Q62.5",
+      "kind": "category",
+      "label": "Duplikatur des Ureters",
+      "rubrics": {
+        "preferred": "Duplikatur des Ureters",
+        "inclusion": "Ureter:\n\t\t\t\tdoppelt"
+      },
+      "children": []
+    },
+    {
+      "code": "Q62.6",
+      "kind": "category",
+      "label": "Lageanomalie des Ureters",
+      "rubrics": {
+        "preferred": "Lageanomalie des Ureters",
+        "inclusion": "Verlagerung\n\t\t\t\tUreter oder Uretermündung"
+      },
+      "children": []
+    },
+    {
+      "code": "Q62.7",
+      "kind": "category",
+      "label": "Angeborener vesiko-uretero-renaler Reflux",
+      "rubrics": {
+        "preferred": "Angeborener vesiko-uretero-renaler Reflux"
+      },
+      "children": []
+    },
+    {
+      "code": "Q62.8",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Ureters",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Ureters",
+        "inclusion": "Anomalie des Ureters o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

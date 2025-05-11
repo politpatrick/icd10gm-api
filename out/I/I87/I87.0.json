@@ -1,0 +1,30 @@
+{
+  "code": "I87.0",
+  "kind": "category",
+  "label": "Postthrombotisches Syndrom",
+  "rubrics": {
+    "preferred": "Postthrombotisches Syndrom"
+  },
+  "children": [
+    {
+      "code": "I87.00",
+      "kind": "category",
+      "label": "Postthrombotisches Syndrom ohne Ulzeration",
+      "rubrics": {
+        "preferred": "Postthrombotisches Syndrom ohne Ulzeration",
+        "inclusion": "Postthrombotisches Syndrom o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "I87.01",
+      "kind": "category",
+      "label": "Postthrombotisches Syndrom mit Ulzeration",
+      "rubrics": {
+        "preferred": "Postthrombotisches Syndrom mit Ulzeration",
+        "inclusion": "Postphlebitisches Syndrom mit Ulzeration"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "code": "O91",
+  "kind": "category",
+  "label": "Infektionen der Mamma [Brustdrüse] im Zusammenhang mit der Gestation",
+  "rubrics": {
+    "preferred": "Infektionen der Mamma [Brustdrüse] im Zusammenhang mit der Gestation",
+    "inclusion": "Aufgeführte Zustände während der Schwangerschaft, im Wochenbett oder während der Laktation"
+  },
+  "children": [
+    {
+      "code": "O91.0",
+      "kind": "category",
+      "label": "Infektion der Brustwarze im Zusammenhang mit der Gestation",
+      "rubrics": {
+        "preferred": "Infektion der Brustwarze im Zusammenhang mit der Gestation",
+        "inclusion": "Abszess der Brustwarze:\n\t\t\t\tschwangerschaftsbedingt"
+      },
+      "children": []
+    },
+    {
+      "code": "O91.1",
+      "kind": "category",
+      "label": "Abszess der Mamma im Zusammenhang mit der Gestation",
+      "rubrics": {
+        "preferred": "Abszess der Mamma im Zusammenhang mit der Gestation",
+        "inclusion": "Subareolarabszess\n\t\t\t\tschwangerschaftsbedingt oder im Wochenbett"
+      },
+      "children": []
+    },
+    {
+      "code": "O91.2",
+      "kind": "category",
+      "label": "Nichteitrige Mastitis im Zusammenhang mit der Gestation",
+      "rubrics": {
+        "preferred": "Nichteitrige Mastitis im Zusammenhang mit der Gestation",
+        "inclusion": "Mastitis:\n\t\t\t\to.n.A.\n\t\t\t\tschwangerschaftsbedingt oder im Wochenbett"
+      },
+      "children": []
+    }
+  ]
+}

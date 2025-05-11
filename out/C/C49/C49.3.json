@@ -1,0 +1,12 @@
+{
+  "code": "C49.3",
+  "kind": "category",
+  "label": "Bindegewebe und andere Weichteilgewebe des Thorax",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Thorax",
+    "preferred": "Bindegewebe und andere Weichteilgewebe des Thorax",
+    "inclusion": "Zwerchfell",
+    "exclusion": "ThymusC37"
+  },
+  "children": []
+}

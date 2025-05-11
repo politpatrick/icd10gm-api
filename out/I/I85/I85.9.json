@@ -1,0 +1,11 @@
+{
+  "code": "I85.9",
+  "kind": "category",
+  "label": "Ösophagusvarizen ohne Blutung",
+  "rubrics": {
+    "preferred": "Ösophagusvarizen ohne Blutung",
+    "inclusion": "Ösophagusvarizen o.n.A.",
+    "exclusion": "Ösophagusvarizen ohne Angabe einer Blutung bei:\n\t\t\t\tSchistosomiasisB65.-I98.2"
+  },
+  "children": []
+}

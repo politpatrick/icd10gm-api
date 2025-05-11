@@ -1,0 +1,112 @@
+{
+  "code": "K55",
+  "kind": "category",
+  "label": "Gefäßkrankheiten des Darmes",
+  "rubrics": {
+    "preferred": "Gefäßkrankheiten des Darmes",
+    "exclusion": "Gastrointestinale BlutungK92.0-K92.2"
+  },
+  "children": [
+    {
+      "code": "K55.0",
+      "kind": "category",
+      "label": "Akute Gefäßkrankheiten des Darmes",
+      "rubrics": {
+        "preferred": "Akute Gefäßkrankheiten des Darmes",
+        "inclusion": "Subakute ischämische Kolitis"
+      },
+      "children": []
+    },
+    {
+      "code": "K55.1",
+      "kind": "category",
+      "label": "Chronische Gefäßkrankheiten des Darmes",
+      "rubrics": {
+        "preferred": "Chronische Gefäßkrankheiten des Darmes",
+        "inclusion": "Mesenterial:\n\t\t\t\tGefäßinsuffizienz"
+      },
+      "children": []
+    },
+    {
+      "code": "K55.2",
+      "kind": "category",
+      "label": "Angiodysplasie des Kolons",
+      "rubrics": {
+        "preferred": "Angiodysplasie des Kolons"
+      },
+      "children": [
+        {
+          "code": "K55.21",
+          "kind": "category",
+          "label": "Ohne Angabe einer Blutung",
+          "rubrics": {
+            "preferredLong": "Angiodysplasie des Kolons: Ohne Angabe einer Blutung",
+            "preferred": "Ohne Angabe einer Blutung",
+            "inclusion": "Angiodysplasie des Kolons o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "K55.22",
+          "kind": "category",
+          "label": "Mit Blutung",
+          "rubrics": {
+            "preferredLong": "Angiodysplasie des Kolons: Mit Blutung",
+            "preferred": "Mit Blutung"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K55.3",
+      "kind": "category",
+      "label": "Angiodysplasie des Dünndarmes",
+      "rubrics": {
+        "preferred": "Angiodysplasie des Dünndarmes"
+      },
+      "children": [
+        {
+          "code": "K55.31",
+          "kind": "category",
+          "label": "Angiodysplasie des Dünndarmes ohne Angabe einer Blutung",
+          "rubrics": {
+            "preferred": "Angiodysplasie des Dünndarmes ohne Angabe einer Blutung",
+            "inclusion": "Angiodysplasie des Dünndarmes o.n.A.",
+            "exclusion": "Angiodysplasie des Duodenums ohne Angabe einer BlutungK31.81"
+          },
+          "children": []
+        },
+        {
+          "code": "K55.32",
+          "kind": "category",
+          "label": "Angiodysplasie des Dünndarmes mit Blutung",
+          "rubrics": {
+            "preferred": "Angiodysplasie des Dünndarmes mit Blutung",
+            "exclusion": "Angiodysplasie des Duodenums mit BlutungK31.82"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K55.8",
+      "kind": "category",
+      "label": "Sonstige Gefäßkrankheiten des Darmes",
+      "rubrics": {
+        "preferred": "Sonstige Gefäßkrankheiten des Darmes"
+      },
+      "children": []
+    },
+    {
+      "code": "K55.9",
+      "kind": "category",
+      "label": "Gefäßkrankheit des Darmes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Gefäßkrankheit des Darmes, nicht näher bezeichnet",
+        "inclusion": "Ischämisch:\n\t\t\t\tKolitis\n\t\t\t\to.n.A."
+      },
+      "children": []
+    }
+  ]
+}

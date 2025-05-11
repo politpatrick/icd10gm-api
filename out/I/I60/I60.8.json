@@ -1,0 +1,10 @@
+{
+  "code": "I60.8",
+  "kind": "category",
+  "label": "Sonstige Subarachnoidalblutung",
+  "rubrics": {
+    "preferred": "Sonstige Subarachnoidalblutung",
+    "inclusion": "Meningealblutung"
+  },
+  "children": []
+}

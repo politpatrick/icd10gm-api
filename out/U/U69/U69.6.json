@@ -1,0 +1,10 @@
+{
+  "code": "U69.6",
+  "kind": "category",
+  "label": "Sekundäre Schlüsselnummer zur Spezifizierung eines Hustens als chronisch idiopathisch und chronisch refraktär",
+  "rubrics": {
+    "preferred": "Sekundäre Schlüsselnummer zur Spezifizierung eines Hustens als chronisch idiopathisch und chronisch refraktär",
+    "definition": "Benutze zusätzlich diese sekundäre Schlüsselnummer, um bei R05 das Vorliegen eines chronisch idiopathischen und/oder chronisch refraktären Hustens anzugeben."
+  },
+  "children": []
+}

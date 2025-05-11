@@ -1,0 +1,86 @@
+{
+  "code": "M83",
+  "kind": "category",
+  "label": "Osteomalazie im Erwachsenenalter",
+  "rubrics": {
+    "preferred": "Osteomalazie im Erwachsenenalter",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+    "exclusion": "Renale OsteodystrophieN25.0"
+  },
+  "children": [
+    {
+      "code": "M83.0",
+      "kind": "category",
+      "label": "Osteomalazie im Wochenbett",
+      "rubrics": {
+        "preferred": "Osteomalazie im Wochenbett"
+      },
+      "children": []
+    },
+    {
+      "code": "M83.1",
+      "kind": "category",
+      "label": "Senile Osteomalazie",
+      "rubrics": {
+        "preferred": "Senile Osteomalazie"
+      },
+      "children": []
+    },
+    {
+      "code": "M83.2",
+      "kind": "category",
+      "label": "Osteomalazie im Erwachsenenalter durch Malabsorption",
+      "rubrics": {
+        "preferred": "Osteomalazie im Erwachsenenalter durch Malabsorption",
+        "inclusion": "Osteomalazie bei Erwachsenen durch Malabsorption nach chirurgischem Eingriff"
+      },
+      "children": []
+    },
+    {
+      "code": "M83.3",
+      "kind": "category",
+      "label": "Osteomalazie im Erwachsenenalter durch Fehl- oder Mangelernährung",
+      "rubrics": {
+        "preferred": "Osteomalazie im Erwachsenenalter durch Fehl- oder Mangelernährung"
+      },
+      "children": []
+    },
+    {
+      "code": "M83.4",
+      "kind": "category",
+      "label": "Aluminiumosteopathie",
+      "rubrics": {
+        "preferred": "Aluminiumosteopathie"
+      },
+      "children": []
+    },
+    {
+      "code": "M83.5",
+      "kind": "category",
+      "label": "Sonstige arzneimittelinduzierte Osteomalazie bei Erwachsenen",
+      "rubrics": {
+        "preferred": "Sonstige arzneimittelinduzierte Osteomalazie bei Erwachsenen",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "M83.8",
+      "kind": "category",
+      "label": "Sonstige Osteomalazie im Erwachsenenalter",
+      "rubrics": {
+        "preferred": "Sonstige Osteomalazie im Erwachsenenalter"
+      },
+      "children": []
+    },
+    {
+      "code": "M83.9",
+      "kind": "category",
+      "label": "Osteomalazie im Erwachsenenalter, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Osteomalazie im Erwachsenenalter, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

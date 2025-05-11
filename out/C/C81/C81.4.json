@@ -1,0 +1,10 @@
+{
+  "code": "C81.4",
+  "kind": "category",
+  "label": "Lymphozytenreiches (klassisches) Hodgkin-Lymphom",
+  "rubrics": {
+    "preferred": "Lymphozytenreiches (klassisches) Hodgkin-Lymphom",
+    "exclusion": "Noduläres lymphozytenprädominantes Hodgkin-LymphomC81.0"
+  },
+  "children": []
+}

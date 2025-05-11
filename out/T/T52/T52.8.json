@@ -1,0 +1,10 @@
+{
+  "code": "T52.8",
+  "kind": "category",
+  "label": "Sonstige organische Lösungsmittel",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Sonstige organische Lösungsmittel",
+    "preferred": "Sonstige organische Lösungsmittel"
+  },
+  "children": []
+}

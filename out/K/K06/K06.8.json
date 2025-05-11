@@ -1,0 +1,10 @@
+{
+  "code": "K06.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Krankheiten der Gingiva und des zahnlosen Alveolarkammes",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Krankheiten der Gingiva und des zahnlosen Alveolarkammes",
+    "inclusion": "Schlotterkamm"
+  },
+  "children": []
+}

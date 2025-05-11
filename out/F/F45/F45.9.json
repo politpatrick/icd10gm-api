@@ -1,0 +1,10 @@
+{
+  "code": "F45.9",
+  "kind": "category",
+  "label": "Somatoforme Störung, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Somatoforme Störung, nicht näher bezeichnet",
+    "inclusion": "Psychosomatische Störung o.n.A."
+  },
+  "children": []
+}

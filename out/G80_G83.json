@@ -1,0 +1,426 @@
+{
+  "code": "G80-G83",
+  "kind": "block",
+  "label": "Zerebrale Lähmung und sonstige Lähmungssyndrome",
+  "rubrics": {
+    "preferred": "Zerebrale Lähmung und sonstige Lähmungssyndrome"
+  },
+  "children": [
+    {
+      "code": "G80",
+      "kind": "category",
+      "label": "Infantile Zerebralparese",
+      "rubrics": {
+        "preferred": "Infantile Zerebralparese",
+        "exclusion": "Hereditäre spastische ParaplegieG11.4"
+      },
+      "children": [
+        {
+          "code": "G80.0",
+          "kind": "category",
+          "label": "Spastische tetraplegische Zerebralparese",
+          "rubrics": {
+            "preferred": "Spastische tetraplegische Zerebralparese",
+            "inclusion": "Spastische quadriplegische Zerebralparese"
+          },
+          "children": []
+        },
+        {
+          "code": "G80.1",
+          "kind": "category",
+          "label": "Spastische diplegische Zerebralparese",
+          "rubrics": {
+            "preferred": "Spastische diplegische Zerebralparese",
+            "inclusion": "Spastische Zerebralparese o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "G80.2",
+          "kind": "category",
+          "label": "Infantile hemiplegische Zerebralparese",
+          "rubrics": {
+            "preferred": "Infantile hemiplegische Zerebralparese"
+          },
+          "children": []
+        },
+        {
+          "code": "G80.3",
+          "kind": "category",
+          "label": "Dyskinetische Zerebralparese",
+          "rubrics": {
+            "preferred": "Dyskinetische Zerebralparese",
+            "inclusion": "Dystone zerebrale Lähmung"
+          },
+          "children": []
+        },
+        {
+          "code": "G80.4",
+          "kind": "category",
+          "label": "Ataktische Zerebralparese",
+          "rubrics": {
+            "preferred": "Ataktische Zerebralparese"
+          },
+          "children": []
+        },
+        {
+          "code": "G80.8",
+          "kind": "category",
+          "label": "Sonstige infantile Zerebralparese",
+          "rubrics": {
+            "preferred": "Sonstige infantile Zerebralparese",
+            "inclusion": "Mischsyndrome der Zerebralparese"
+          },
+          "children": []
+        },
+        {
+          "code": "G80.9",
+          "kind": "category",
+          "label": "Infantile Zerebralparese, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Infantile Zerebralparese, nicht näher bezeichnet",
+            "inclusion": "Zerebralparese o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G81",
+      "kind": "category",
+      "label": "Hemiparese und Hemiplegie",
+      "rubrics": {
+        "preferred": "Hemiparese und Hemiplegie",
+        "note": "Diese Kategorie ist nur dann zur primären Verschlüsselung zu benutzen,\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\twenn eine Hemiparese oder Hemiplegie nicht näher bezeichnet ist oder\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\twenn sie alt ist oder länger besteht und die Ursache nicht näher bezeichnet ist.\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tDiese Kategorie dient auch zur multiplen Verschlüsselung, um diese durch eine beliebige Ursache hervorgerufenen Arten der Hemiparese oder Hemiplegie zu kennzeichnen.",
+        "exclusion": "Angeborene und infantile ZerebralpareseG80.-"
+      },
+      "children": [
+        {
+          "code": "G81.0",
+          "kind": "category",
+          "label": "Schlaffe Hemiparese und Hemiplegie",
+          "rubrics": {
+            "preferred": "Schlaffe Hemiparese und Hemiplegie"
+          },
+          "children": []
+        },
+        {
+          "code": "G81.1",
+          "kind": "category",
+          "label": "Spastische Hemiparese und Hemiplegie",
+          "rubrics": {
+            "preferred": "Spastische Hemiparese und Hemiplegie"
+          },
+          "children": []
+        },
+        {
+          "code": "G81.9",
+          "kind": "category",
+          "label": "Hemiparese und Hemiplegie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Hemiparese und Hemiplegie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G82",
+      "kind": "category",
+      "label": "Paraparese und Paraplegie, Tetraparese und Tetraplegie",
+      "rubrics": {
+        "preferred": "Paraparese und Paraplegie, Tetraparese und Tetraplegie",
+        "note": "Diese Kategorie dient zur Verschlüsselung von Paresen und Plegien bei Querschnittlähmungen oder Hirnerkrankungen, wenn andere Schlüsselnummern nicht zur Verfügung stehen.\n\t\t\t\tDiese Kategorie dient auch zur multiplen Verschlüsselung, um diese durch eine beliebige Ursache hervorgerufenen Krankheitszustände zu kennzeichnen.\n\t\t\t\tFür den Gebrauch dieser Kategorie in der stationären Versorgung sind die Deutschen Kodierrichtlinien heranzuziehen.\n\t\t\t\tSoll die funktionale Höhe einer Schädigung des Rückenmarkes angegeben werden, ist eine zusätzliche Schlüsselnummer aus G82.6- zu verwenden.\n\t\t\t\tBesteht eine (langzeitige) Beatmungspflicht, so ist Z99.1 als zusätzliche Schlüsselnummer zu benutzen.",
+        "inclusion": "Tetraplegie\n\t\t\t\tchronisch",
+        "exclusion": "Angeborene und infantile ZerebralpareseG80.-"
+      },
+      "children": [
+        {
+          "code": "G82.0",
+          "kind": "category",
+          "label": "Schlaffe Paraparese und Paraplegie",
+          "rubrics": {
+            "preferred": "Schlaffe Paraparese und Paraplegie"
+          },
+          "children": []
+        },
+        {
+          "code": "G82.1",
+          "kind": "category",
+          "label": "Spastische Paraparese und Paraplegie",
+          "rubrics": {
+            "preferred": "Spastische Paraparese und Paraplegie"
+          },
+          "children": []
+        },
+        {
+          "code": "G82.2",
+          "kind": "category",
+          "label": "Paraparese und Paraplegie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Paraparese und Paraplegie, nicht näher bezeichnet",
+            "inclusion": "Paraplegie (untere) o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "G82.3",
+          "kind": "category",
+          "label": "Schlaffe Tetraparese und Tetraplegie",
+          "rubrics": {
+            "preferred": "Schlaffe Tetraparese und Tetraplegie"
+          },
+          "children": []
+        },
+        {
+          "code": "G82.4",
+          "kind": "category",
+          "label": "Spastische Tetraparese und Tetraplegie",
+          "rubrics": {
+            "preferred": "Spastische Tetraparese und Tetraplegie"
+          },
+          "children": []
+        },
+        {
+          "code": "G82.5",
+          "kind": "category",
+          "label": "Tetraparese und Tetraplegie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Tetraparese und Tetraplegie, nicht näher bezeichnet",
+            "inclusion": "Quadriplegie o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "G82.6",
+          "kind": "category",
+          "label": "Funktionale Höhe der Schädigung des Rückenmarkes",
+          "rubrics": {
+            "preferred": "Funktionale Höhe der Schädigung des Rückenmarkes",
+            "note": "Diese Subkategorie dient zur Verschlüsselung der funktionalen Höhe einer Rückenmarksschädigung. Unter der funktionalen Höhe einer Rückenmarksschädigung wird das unterste motorisch intakte Rückenmarkssegment verstanden. So bedeutet z.B. \"komplette C4-Läsion des Rückenmarkes\", dass die motorischen Funktionen des 4. und der höheren Zervikalnerven erhalten sind und dass unterhalb C4 keine oder funktionell unbedeutende motorische Funktionen vorhanden sind."
+          },
+          "children": [
+            {
+              "code": "G82.60",
+              "kind": "category",
+              "label": "C1-C3",
+              "rubrics": {
+                "preferredLong": "Funktionale Höhe der Schädigung des Rückenmarkes: C1-C3",
+                "preferred": "C1-C3"
+              },
+              "children": []
+            },
+            {
+              "code": "G82.61",
+              "kind": "category",
+              "label": "C4-C5",
+              "rubrics": {
+                "preferredLong": "Funktionale Höhe der Schädigung des Rückenmarkes: C4-C5",
+                "preferred": "C4-C5"
+              },
+              "children": []
+            },
+            {
+              "code": "G82.62",
+              "kind": "category",
+              "label": "C6-C8",
+              "rubrics": {
+                "preferredLong": "Funktionale Höhe der Schädigung des Rückenmarkes: C6-C8",
+                "preferred": "C6-C8"
+              },
+              "children": []
+            },
+            {
+              "code": "G82.63",
+              "kind": "category",
+              "label": "T1-T6",
+              "rubrics": {
+                "preferredLong": "Funktionale Höhe der Schädigung des Rückenmarkes: T1-T6",
+                "preferred": "T1-T6"
+              },
+              "children": []
+            },
+            {
+              "code": "G82.64",
+              "kind": "category",
+              "label": "T7-T10",
+              "rubrics": {
+                "preferredLong": "Funktionale Höhe der Schädigung des Rückenmarkes: T7-T10",
+                "preferred": "T7-T10"
+              },
+              "children": []
+            },
+            {
+              "code": "G82.65",
+              "kind": "category",
+              "label": "T11-L1",
+              "rubrics": {
+                "preferredLong": "Funktionale Höhe der Schädigung des Rückenmarkes: T11-L1",
+                "preferred": "T11-L1"
+              },
+              "children": []
+            },
+            {
+              "code": "G82.66",
+              "kind": "category",
+              "label": "L2-S1",
+              "rubrics": {
+                "preferredLong": "Funktionale Höhe der Schädigung des Rückenmarkes: L2-S1",
+                "preferred": "L2-S1"
+              },
+              "children": []
+            },
+            {
+              "code": "G82.67",
+              "kind": "category",
+              "label": "S2-S5",
+              "rubrics": {
+                "preferredLong": "Funktionale Höhe der Schädigung des Rückenmarkes: S2-S5",
+                "preferred": "S2-S5"
+              },
+              "children": []
+            },
+            {
+              "code": "G82.69",
+              "kind": "category",
+              "label": "Nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Funktionale Höhe der Schädigung des Rückenmarkes: Nicht näher bezeichnet",
+                "preferred": "Nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "G83",
+      "kind": "category",
+      "label": "Sonstige Lähmungssyndrome",
+      "rubrics": {
+        "preferred": "Sonstige Lähmungssyndrome",
+        "note": "Diese Kategorie ist nur dann zur primären Verschlüsselung zu benutzen,\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\twenn die aufgeführten Krankheitszustände nicht näher bezeichnet sind oder\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\twenn sie alt sind oder länger bestehen und die Ursache nicht näher bezeichnet ist.\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tDiese Kategorie dient auch zur multiplen Verschlüsselung, um diese durch eine beliebige Ursache hervorgerufenen Krankheitszustände zu kennzeichnen.",
+        "inclusion": "Lähmung (komplett) (inkomplett), ausgenommen wie unter G80-G82 aufgeführt"
+      },
+      "children": [
+        {
+          "code": "G83.0",
+          "kind": "category",
+          "label": "Diparese und Diplegie der oberen Extremitäten",
+          "rubrics": {
+            "preferred": "Diparese und Diplegie der oberen Extremitäten",
+            "inclusion": "Lähmung beider oberen Extremitäten"
+          },
+          "children": []
+        },
+        {
+          "code": "G83.1",
+          "kind": "category",
+          "label": "Monoparese und Monoplegie einer unteren Extremität",
+          "rubrics": {
+            "preferred": "Monoparese und Monoplegie einer unteren Extremität",
+            "inclusion": "Lähmung eines Beines"
+          },
+          "children": []
+        },
+        {
+          "code": "G83.2",
+          "kind": "category",
+          "label": "Monoparese und Monoplegie einer oberen Extremität",
+          "rubrics": {
+            "preferred": "Monoparese und Monoplegie einer oberen Extremität",
+            "inclusion": "Lähmung eines Armes"
+          },
+          "children": []
+        },
+        {
+          "code": "G83.3",
+          "kind": "category",
+          "label": "Monoparese und Monoplegie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Monoparese und Monoplegie, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "G83.4",
+          "kind": "category",
+          "label": "Cauda- (equina-) Syndrom",
+          "rubrics": {
+            "preferred": "Cauda- (equina-) Syndrom",
+            "coding-hint": "Soll das Vorliegen einer neurogenen Blasenfunktionsstörung angegeben werden, ist eine zusätzliche Schlüsselnummer aus G95.8- zu verwenden."
+          },
+          "children": [
+            {
+              "code": "G83.40",
+              "kind": "category",
+              "label": "Komplettes Cauda- (equina-) Syndrom",
+              "rubrics": {
+                "preferred": "Komplettes Cauda- (equina-) Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "G83.41",
+              "kind": "category",
+              "label": "Inkomplettes Cauda- (equina-) Syndrom",
+              "rubrics": {
+                "preferred": "Inkomplettes Cauda- (equina-) Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "G83.49",
+              "kind": "category",
+              "label": "Cauda- (equina-) Syndrom, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Cauda- (equina-) Syndrom, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G83.5",
+          "kind": "category",
+          "label": "Locked-in-Syndrom",
+          "rubrics": {
+            "preferred": "Locked-in-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "G83.6",
+          "kind": "category",
+          "label": "Zentrale faziale Parese",
+          "rubrics": {
+            "preferred": "Zentrale faziale Parese",
+            "inclusion": "Faziale Parese (Lähmung) (Schwäche) durch Läsion des oberen Motoneurons",
+            "exclusion": "Fazialisparese (durch Läsion des unteren Motoneurons)G51.0"
+          },
+          "children": []
+        },
+        {
+          "code": "G83.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Lähmungssyndrome",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Lähmungssyndrome",
+            "inclusion": "Todd-Paralyse (postiktal)"
+          },
+          "children": []
+        },
+        {
+          "code": "G83.9",
+          "kind": "category",
+          "label": "Lähmungssyndrom, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Lähmungssyndrom, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

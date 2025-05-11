@@ -1,0 +1,10 @@
+{
+  "code": "S36.81",
+  "kind": "category",
+  "label": "Peritoneum",
+  "rubrics": {
+    "preferredLong": "Verletzung: Peritoneum",
+    "preferred": "Peritoneum"
+  },
+  "children": []
+}

@@ -1,0 +1,50 @@
+{
+  "code": "B76",
+  "kind": "category",
+  "label": "Hakenwurm-Krankheit",
+  "rubrics": {
+    "preferred": "Hakenwurm-Krankheit",
+    "inclusion": "Unzinariasis"
+  },
+  "children": [
+    {
+      "code": "B76.0",
+      "kind": "category",
+      "label": "Ankylostomiasis",
+      "rubrics": {
+        "preferred": "Ankylostomiasis",
+        "inclusion": "Infektion durch Ancylostoma-Arten"
+      },
+      "children": []
+    },
+    {
+      "code": "B76.1",
+      "kind": "category",
+      "label": "Nekatoriasis",
+      "rubrics": {
+        "preferred": "Nekatoriasis",
+        "inclusion": "Infektion durch Necator americanus"
+      },
+      "children": []
+    },
+    {
+      "code": "B76.8",
+      "kind": "category",
+      "label": "Sonstige Hakenwurm-Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Hakenwurm-Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "B76.9",
+      "kind": "category",
+      "label": "Hakenwurm-Krankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hakenwurm-Krankheit, nicht näher bezeichnet",
+        "inclusion": "Larva migrans cutanea o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

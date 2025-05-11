@@ -1,0 +1,107 @@
+{
+  "code": "N76",
+  "kind": "category",
+  "label": "Sonstige entzündliche Krankheit der Vagina und Vulva",
+  "rubrics": {
+    "preferred": "Sonstige entzündliche Krankheit der Vagina und Vulva",
+    "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+    "exclusion": "Senile (atrophische) KolpitisN95.2"
+  },
+  "children": [
+    {
+      "code": "N76.0",
+      "kind": "category",
+      "label": "Akute Kolpitis",
+      "rubrics": {
+        "preferred": "Akute Kolpitis",
+        "inclusion": "Vulvovaginitis:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "N76.1",
+      "kind": "category",
+      "label": "Subakute und chronische Kolpitis",
+      "rubrics": {
+        "preferred": "Subakute und chronische Kolpitis",
+        "inclusion": "Vulvovaginitis:\n\t\t\t\tsubakut"
+      },
+      "children": []
+    },
+    {
+      "code": "N76.2",
+      "kind": "category",
+      "label": "Akute Vulvitis",
+      "rubrics": {
+        "preferred": "Akute Vulvitis",
+        "inclusion": "Vulvitis o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "N76.3",
+      "kind": "category",
+      "label": "Subakute und chronische Vulvitis",
+      "rubrics": {
+        "preferred": "Subakute und chronische Vulvitis"
+      },
+      "children": []
+    },
+    {
+      "code": "N76.4",
+      "kind": "category",
+      "label": "Abszess der Vulva",
+      "rubrics": {
+        "preferred": "Abszess der Vulva",
+        "inclusion": "Furunkel der Vulva"
+      },
+      "children": []
+    },
+    {
+      "code": "N76.5",
+      "kind": "category",
+      "label": "Ulzeration der Vagina",
+      "rubrics": {
+        "preferred": "Ulzeration der Vagina"
+      },
+      "children": []
+    },
+    {
+      "code": "N76.6",
+      "kind": "category",
+      "label": "Ulzeration der Vulva",
+      "rubrics": {
+        "preferred": "Ulzeration der Vulva"
+      },
+      "children": []
+    },
+    {
+      "code": "N76.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva"
+      },
+      "children": [
+        {
+          "code": "N76.80",
+          "kind": "category",
+          "label": "Fournier-Gangrän bei der Frau",
+          "rubrics": {
+            "preferred": "Fournier-Gangrän bei der Frau"
+          },
+          "children": []
+        },
+        {
+          "code": "N76.88",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

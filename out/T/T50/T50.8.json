@@ -1,0 +1,10 @@
+{
+  "code": "T50.8",
+  "kind": "category",
+  "label": "Diagnostika",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Diagnostika",
+    "preferred": "Diagnostika"
+  },
+  "children": []
+}

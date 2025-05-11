@@ -1,0 +1,1542 @@
+{
+  "code": "S00-S09",
+  "kind": "block",
+  "label": "Verletzungen des Kopfes",
+  "rubrics": {
+    "preferred": "Verletzungen des Kopfes",
+    "inclusion": "Verletzungen:\n\t\t\t\tZunge",
+    "exclusion": "Verbrennungen und VerätzungenT20-T32"
+  },
+  "children": [
+    {
+      "code": "S00",
+      "kind": "category",
+      "label": "Oberflächliche Verletzung des Kopfes",
+      "rubrics": {
+        "preferred": "Oberflächliche Verletzung des Kopfes",
+        "exclusion": "Verletzung des Auges und der OrbitaS05.-"
+      },
+      "children": [
+        {
+          "code": "S00.0",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung der behaarten Kopfhaut",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung der behaarten Kopfhaut"
+          },
+          "children": []
+        },
+        {
+          "code": "S00.1",
+          "kind": "category",
+          "label": "Prellung des Augenlides und der Periokularregion",
+          "rubrics": {
+            "preferred": "Prellung des Augenlides und der Periokularregion",
+            "inclusion": "Blaues Auge",
+            "exclusion": "Prellung des Augapfels und des OrbitagewebesS05.1"
+          },
+          "children": []
+        },
+        {
+          "code": "S00.2",
+          "kind": "category",
+          "label": "Sonstige oberflächliche Verletzungen des Augenlides und der Periokularregion",
+          "rubrics": {
+            "preferred": "Sonstige oberflächliche Verletzungen des Augenlides und der Periokularregion",
+            "inclusion": "Orbitaregion",
+            "exclusion": "Oberflächliche Verletzung der Konjunktiva und der KorneaS05.0"
+          },
+          "children": []
+        },
+        {
+          "code": "S00.3",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung der Nase",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung der Nase"
+          },
+          "children": []
+        },
+        {
+          "code": "S00.4",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung des Ohres",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung des Ohres"
+          },
+          "children": []
+        },
+        {
+          "code": "S00.5",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung der Lippe und der Mundhöhle",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung der Lippe und der Mundhöhle"
+          },
+          "children": []
+        },
+        {
+          "code": "S00.7",
+          "kind": "category",
+          "label": "Multiple oberflächliche Verletzungen des Kopfes",
+          "rubrics": {
+            "preferred": "Multiple oberflächliche Verletzungen des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "S00.8",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung sonstiger Teile des Kopfes",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung sonstiger Teile des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "S00.9",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung des Kopfes, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung des Kopfes, Teil nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S01",
+      "kind": "category",
+      "label": "Offene Wunde des Kopfes",
+      "rubrics": {
+        "preferred": "Offene Wunde des Kopfes",
+        "inclusion": "Offene Wunde mit Verbindung zu einer Fraktur, einer Luxation oder einer intrakraniellen Verletzung",
+        "coding-hint": "Benutze zusätzlich T89.0-, um das Vorliegen von Komplikationen wie Fremdkörper, Infektion oder verzögerte Heilung und Behandlung anzuzeigen.",
+        "exclusion": "Verletzung des Auges und der OrbitaS05.-"
+      },
+      "children": [
+        {
+          "code": "S01.0",
+          "kind": "category",
+          "label": "Offene Wunde der behaarten Kopfhaut",
+          "rubrics": {
+            "preferred": "Offene Wunde der behaarten Kopfhaut",
+            "inclusion": "Augenbraue",
+            "exclusion": "SkalpierungsverletzungS08.0"
+          },
+          "children": []
+        },
+        {
+          "code": "S01.1",
+          "kind": "category",
+          "label": "Offene Wunde des Augenlides und der Periokularregion",
+          "rubrics": {
+            "preferred": "Offene Wunde des Augenlides und der Periokularregion",
+            "inclusion": "Offene Wunde des Augenlides und der Periokularregion mit oder ohne Beteiligung der Tränenwege"
+          },
+          "children": []
+        },
+        {
+          "code": "S01.2",
+          "kind": "category",
+          "label": "Offene Wunde der Nase",
+          "rubrics": {
+            "preferred": "Offene Wunde der Nase"
+          },
+          "children": [
+            {
+              "code": "S01.20",
+              "kind": "category",
+              "label": "Teil nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Offene Wunde der Nase: Teil nicht näher bezeichnet",
+                "preferred": "Teil nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.21",
+              "kind": "category",
+              "label": "Äußere Haut der Nase",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Äußere Haut der Nase",
+                "preferred": "Äußere Haut der Nase"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.22",
+              "kind": "category",
+              "label": "Nasenlöcher",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Nasenlöcher",
+                "preferred": "Nasenlöcher"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.23",
+              "kind": "category",
+              "label": "Nasenseptum",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Nasenseptum",
+                "preferred": "Nasenseptum"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.29",
+              "kind": "category",
+              "label": "Sonstige und mehrere Teile der Nase",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Sonstige und mehrere Teile der Nase",
+                "preferred": "Sonstige und mehrere Teile der Nase"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S01.3",
+          "kind": "category",
+          "label": "Offene Wunde des Ohres und der Gehörstrukturen",
+          "rubrics": {
+            "preferred": "Offene Wunde des Ohres und der Gehörstrukturen"
+          },
+          "children": [
+            {
+              "code": "S01.30",
+              "kind": "category",
+              "label": "Teil nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Offene Wunde des Ohres: Teil nicht näher bezeichnet",
+                "preferred": "Teil nicht näher bezeichnet",
+                "inclusion": "Ohr o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "S01.31",
+              "kind": "category",
+              "label": "Ohrmuschel",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Ohrmuschel",
+                "preferred": "Ohrmuschel"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.33",
+              "kind": "category",
+              "label": "Tragus",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Tragus",
+                "preferred": "Tragus"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.34",
+              "kind": "category",
+              "label": "Äußerer Gehörgang",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Äußerer Gehörgang",
+                "preferred": "Äußerer Gehörgang"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.35",
+              "kind": "category",
+              "label": "Tuba auditiva",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Tuba auditiva",
+                "preferred": "Tuba auditiva"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.36",
+              "kind": "category",
+              "label": "Gehörknöchelchen",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Gehörknöchelchen",
+                "preferred": "Gehörknöchelchen"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.37",
+              "kind": "category",
+              "label": "Trommelfell",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Trommelfell",
+                "preferred": "Trommelfell",
+                "exclusion": "Traumatische TrommelfellrupturS09.2"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.38",
+              "kind": "category",
+              "label": "Innenohr",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Innenohr",
+                "preferred": "Innenohr",
+                "inclusion": "Kochlea"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.39",
+              "kind": "category",
+              "label": "Sonstige und mehrere Teile des Ohres und der Gehörstrukturen",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Sonstige und mehrere Teile des Ohres und der Gehörstrukturen",
+                "preferred": "Sonstige und mehrere Teile des Ohres und der Gehörstrukturen"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S01.4",
+          "kind": "category",
+          "label": "Offene Wunde der Wange und der Temporomandibularregion",
+          "rubrics": {
+            "preferred": "Offene Wunde der Wange und der Temporomandibularregion"
+          },
+          "children": [
+            {
+              "code": "S01.41",
+              "kind": "category",
+              "label": "Wange",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Wange",
+                "preferred": "Wange"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.42",
+              "kind": "category",
+              "label": "Oberkieferregion",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Oberkieferregion",
+                "preferred": "Oberkieferregion"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.43",
+              "kind": "category",
+              "label": "Unterkieferregion",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Unterkieferregion",
+                "preferred": "Unterkieferregion"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.49",
+              "kind": "category",
+              "label": "Sonstige und mehrere Teile der Wange und der Temporomandibularregion",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Sonstige und mehrere Teile der Wange und der Temporomandibularregion",
+                "preferred": "Sonstige und mehrere Teile der Wange und der Temporomandibularregion"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S01.5",
+          "kind": "category",
+          "label": "Offene Wunde der Lippe und der Mundhöhle",
+          "rubrics": {
+            "preferred": "Offene Wunde der Lippe und der Mundhöhle",
+            "exclusion": "ZahnluxationS03.2"
+          },
+          "children": [
+            {
+              "code": "S01.50",
+              "kind": "category",
+              "label": "Mund, Teil nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Mund, Teil nicht näher bezeichnet",
+                "preferred": "Mund, Teil nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.51",
+              "kind": "category",
+              "label": "Lippe",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Lippe",
+                "preferred": "Lippe"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.52",
+              "kind": "category",
+              "label": "Wangenschleimhaut",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Wangenschleimhaut",
+                "preferred": "Wangenschleimhaut"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.53",
+              "kind": "category",
+              "label": "Zahnfleisch (Processus alveolaris)",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Zahnfleisch (Processus alveolaris)",
+                "preferred": "Zahnfleisch (Processus alveolaris)"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.54",
+              "kind": "category",
+              "label": "Zunge und Mundboden",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Zunge und Mundboden",
+                "preferred": "Zunge und Mundboden"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.55",
+              "kind": "category",
+              "label": "Gaumen",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Gaumen",
+                "preferred": "Gaumen"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.59",
+              "kind": "category",
+              "label": "Sonstige und mehrere Teile der Lippe und der Mundhöhle",
+              "rubrics": {
+                "preferredLong": "Offene Wunde: Sonstige und mehrere Teile der Lippe und der Mundhöhle",
+                "preferred": "Sonstige und mehrere Teile der Lippe und der Mundhöhle"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S01.7",
+          "kind": "category",
+          "label": "Multiple offene Wunden des Kopfes",
+          "rubrics": {
+            "preferred": "Multiple offene Wunden des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "S01.8",
+          "kind": "category",
+          "label": "Offene Wunde sonstiger Teile des Kopfes",
+          "rubrics": {
+            "preferred": "Offene Wunde sonstiger Teile des Kopfes",
+            "note": "Bei den Schlüsselnummern S01.84!-S01.89! erfolgt die Einteilung des Weichteilschadens nach Tscherne und Oestern. Kodiere jeweils zuerst die Fraktur S02.- oder die Luxation S03.-."
+          },
+          "children": [
+            {
+              "code": "S01.80",
+              "kind": "category",
+              "label": "Nicht näher bezeichnete offene Wunde sonstiger Teile des Kopfes",
+              "rubrics": {
+                "preferred": "Nicht näher bezeichnete offene Wunde sonstiger Teile des Kopfes",
+                "inclusion": "Stirn o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "S01.83",
+              "kind": "category",
+              "label": "Offene Wunde (jeder Teil des Kopfes) mit Verbindung zu einer intrakraniellen Verletzung",
+              "rubrics": {
+                "preferred": "Offene Wunde (jeder Teil des Kopfes) mit Verbindung zu einer intrakraniellen Verletzung",
+                "coding-hint": "Kodiere zuerst die intrakranielle Verletzung S06.-"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.84",
+              "kind": "category",
+              "label": "Weichteilschaden I. Grades bei geschlossener Fraktur oder Luxation des Kopfes",
+              "rubrics": {
+                "preferred": "Weichteilschaden I. Grades bei geschlossener Fraktur oder Luxation des Kopfes",
+                "text": "Oberflächliche Schürfung, einfache bis mittelschwere Bruchform",
+                "note": "Geschlossene Frakturen oder Luxationen mit Weichteilschaden 0. Grades (geringer Weichteilschaden, einfache Bruchform) oder nicht näher bezeichneten Grades erhalten keine zusätzliche Schlüsselnummer."
+              },
+              "children": []
+            },
+            {
+              "code": "S01.85",
+              "kind": "category",
+              "label": "Weichteilschaden II. Grades bei geschlossener Fraktur oder Luxation des Kopfes",
+              "rubrics": {
+                "preferred": "Weichteilschaden II. Grades bei geschlossener Fraktur oder Luxation des Kopfes",
+                "text": "Tiefe kontaminierte Schürfung, lokalisierte Haut- und Muskelkontusion, alle Bruchformen"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.86",
+              "kind": "category",
+              "label": "Weichteilschaden III. Grades bei geschlossener Fraktur oder Luxation des Kopfes",
+              "rubrics": {
+                "preferred": "Weichteilschaden III. Grades bei geschlossener Fraktur oder Luxation des Kopfes",
+                "text": "Ausgedehnte Hautkontusion, Hautquetschung oder Zerstörung der Muskulatur, subkutanes Décollement, dekompensiertes Kompartmentsyndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.87",
+              "kind": "category",
+              "label": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation des Kopfes",
+              "rubrics": {
+                "preferred": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation des Kopfes",
+                "text": "Fehlende oder geringe Kontusion, unbedeutende bakterielle Kontamination, einfache bis mittelschwere Bruchformen",
+                "inclusion": "Offene Fraktur oder Luxation nicht näher bezeichneten Grades"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.88",
+              "kind": "category",
+              "label": "Weichteilschaden II. Grades bei offener Fraktur oder Luxation des Kopfes",
+              "rubrics": {
+                "preferred": "Weichteilschaden II. Grades bei offener Fraktur oder Luxation des Kopfes",
+                "text": "Umschrieben Haut- und Weichteilkontusion, mittelschwere Kontamination"
+              },
+              "children": []
+            },
+            {
+              "code": "S01.89",
+              "kind": "category",
+              "label": "Weichteilschaden III. Grades bei offener Fraktur oder Luxation des Kopfes",
+              "rubrics": {
+                "preferred": "Weichteilschaden III. Grades bei offener Fraktur oder Luxation des Kopfes",
+                "text": "Ausgedehnte Weichteildestruktion, häufig zusätzliche Gefäß- und Nervenverletzungen, starke Wundkontamination",
+                "note": "Offene Frakturen mit Weichteilschaden IV. Grades (subtotale und totale Amputation) werden als Amputation nach deren Lokalisation kodiert."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S01.9",
+          "kind": "category",
+          "label": "Offene Wunde des Kopfes, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Offene Wunde des Kopfes, Teil nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S02",
+      "kind": "category",
+      "label": "Fraktur des Schädels und der Gesichtsschädelknochen",
+      "rubrics": {
+        "preferred": "Fraktur des Schädels und der Gesichtsschädelknochen",
+        "coding-hint": "Ein Bewusstseinsverlust bei einer Schädelfraktur ist mit einer zusätzlichen Schlüsselnummer aus S06.7- zu verschlüsseln."
+      },
+      "children": [
+        {
+          "code": "S02.0",
+          "kind": "category",
+          "label": "Schädeldachfraktur",
+          "rubrics": {
+            "preferred": "Schädeldachfraktur",
+            "inclusion": "Os temporale, Pars squamosa"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.1",
+          "kind": "category",
+          "label": "Schädelbasisfraktur",
+          "rubrics": {
+            "preferred": "Schädelbasisfraktur",
+            "inclusion": "Sinus:\n\t\t\t\tfrontalis",
+            "exclusion": "Os temporale, Pars squamosaS02.0"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.2",
+          "kind": "category",
+          "label": "Nasenbeinfraktur",
+          "rubrics": {
+            "preferred": "Nasenbeinfraktur"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.3",
+          "kind": "category",
+          "label": "Fraktur des Orbitabodens",
+          "rubrics": {
+            "preferred": "Fraktur des Orbitabodens",
+            "inclusion": "Blow-out-Fraktur",
+            "exclusion": "OrbitadachS02.1"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.4",
+          "kind": "category",
+          "label": "Fraktur des Jochbeins und des Oberkiefers",
+          "rubrics": {
+            "preferred": "Fraktur des Jochbeins und des Oberkiefers"
+          },
+          "children": [
+            {
+              "code": "S02.40",
+              "kind": "category",
+              "label": "Teil nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Teil nicht näher bezeichnet",
+                "preferred": "Teil nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.41",
+              "kind": "category",
+              "label": "Arcus zygomaticus des Jochbeins",
+              "rubrics": {
+                "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Arcus zygomaticus des Jochbeins",
+                "preferred": "Arcus zygomaticus des Jochbeins",
+                "inclusion": "Jochbogen"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.42",
+              "kind": "category",
+              "label": "Sonstiger Teil des Jochbeins",
+              "rubrics": {
+                "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Sonstiger Teil des Jochbeins",
+                "preferred": "Sonstiger Teil des Jochbeins",
+                "inclusion": "Os zygomaticum"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.43",
+              "kind": "category",
+              "label": "Pars alveolaris des Oberkiefers",
+              "rubrics": {
+                "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Pars alveolaris des Oberkiefers",
+                "preferred": "Pars alveolaris des Oberkiefers",
+                "inclusion": "Alveolarfortsatz des Oberkiefers"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.48",
+              "kind": "category",
+              "label": "Sonstiger Teil des Oberkiefers",
+              "rubrics": {
+                "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Sonstiger Teil des Oberkiefers",
+                "preferred": "Sonstiger Teil des Oberkiefers",
+                "inclusion": "Oberkiefer (-Knochen)"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.49",
+              "kind": "category",
+              "label": "Mehrere Teile",
+              "rubrics": {
+                "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Mehrere Teile",
+                "preferred": "Mehrere Teile"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S02.5",
+          "kind": "category",
+          "label": "Zahnfraktur",
+          "rubrics": {
+            "preferred": "Zahnfraktur",
+            "inclusion": "Gebrochener Zahn",
+            "exclusion": "Pathologische ZahnfrakturK08.81"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.6",
+          "kind": "category",
+          "label": "Unterkieferfraktur",
+          "rubrics": {
+            "preferred": "Unterkieferfraktur",
+            "inclusion": "Unterkiefer (-Knochen)"
+          },
+          "children": [
+            {
+              "code": "S02.60",
+              "kind": "category",
+              "label": "Teil nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Unterkieferfraktur: Teil nicht näher bezeichnet",
+                "preferred": "Teil nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.61",
+              "kind": "category",
+              "label": "Processus condylaris",
+              "rubrics": {
+                "preferredLong": "Unterkieferfraktur: Processus condylaris",
+                "preferred": "Processus condylaris"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.62",
+              "kind": "category",
+              "label": "Subkondylär",
+              "rubrics": {
+                "preferredLong": "Unterkieferfraktur: Subkondylär",
+                "preferred": "Subkondylär"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.63",
+              "kind": "category",
+              "label": "Processus coronoideus",
+              "rubrics": {
+                "preferredLong": "Unterkieferfraktur: Processus coronoideus",
+                "preferred": "Processus coronoideus"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.64",
+              "kind": "category",
+              "label": "Ramus mandibulae, nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Unterkieferfraktur: Ramus mandibulae, nicht näher bezeichnet",
+                "preferred": "Ramus mandibulae, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.65",
+              "kind": "category",
+              "label": "Angulus mandibulae",
+              "rubrics": {
+                "preferredLong": "Unterkieferfraktur: Angulus mandibulae",
+                "preferred": "Angulus mandibulae"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.66",
+              "kind": "category",
+              "label": "Symphysis mandibulae",
+              "rubrics": {
+                "preferredLong": "Unterkieferfraktur: Symphysis mandibulae",
+                "preferred": "Symphysis mandibulae"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.67",
+              "kind": "category",
+              "label": "Pars alveolaris",
+              "rubrics": {
+                "preferredLong": "Unterkieferfraktur: Pars alveolaris",
+                "preferred": "Pars alveolaris",
+                "inclusion": "Alveolarfortsatz des Unterkiefers"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.68",
+              "kind": "category",
+              "label": "Corpus mandibulae, sonstige und nicht näher bezeichnete Teile",
+              "rubrics": {
+                "preferredLong": "Unterkieferfraktur: Corpus mandibulae, sonstige und nicht näher bezeichnete Teile",
+                "preferred": "Corpus mandibulae, sonstige und nicht näher bezeichnete Teile"
+              },
+              "children": []
+            },
+            {
+              "code": "S02.69",
+              "kind": "category",
+              "label": "Mehrere Teile",
+              "rubrics": {
+                "preferredLong": "Unterkieferfraktur: Mehrere Teile",
+                "preferred": "Mehrere Teile"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S02.7",
+          "kind": "category",
+          "label": "Multiple Frakturen der Schädel- und Gesichtsschädelknochen",
+          "rubrics": {
+            "preferred": "Multiple Frakturen der Schädel- und Gesichtsschädelknochen"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.8",
+          "kind": "category",
+          "label": "Frakturen sonstiger Schädel- und Gesichtsschädelknochen",
+          "rubrics": {
+            "preferred": "Frakturen sonstiger Schädel- und Gesichtsschädelknochen",
+            "inclusion": "Orbita o.n.A.",
+            "exclusion": "OrbitadachS02.1"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.9",
+          "kind": "category",
+          "label": "Fraktur des Schädels und der Gesichtsschädelknochen, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Fraktur des Schädels und der Gesichtsschädelknochen, Teil nicht näher bezeichnet",
+            "inclusion": "Gesicht o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S03",
+      "kind": "category",
+      "label": "Luxation, Verstauchung und Zerrung von Gelenken und Bändern des Kopfes",
+      "rubrics": {
+        "preferred": "Luxation, Verstauchung und Zerrung von Gelenken und Bändern des Kopfes",
+        "coding-hint": "Benutze eine zusätzliche Schlüsselnummer aus S01.84!-S01.89! zusammen mit S03.0-S03.3, um den Schweregrad des Weichteilschadens bei einer Luxation zu verschlüsseln."
+      },
+      "children": [
+        {
+          "code": "S03.0",
+          "kind": "category",
+          "label": "Kieferluxation",
+          "rubrics": {
+            "preferred": "Kieferluxation",
+            "inclusion": "Mandibula"
+          },
+          "children": []
+        },
+        {
+          "code": "S03.1",
+          "kind": "category",
+          "label": "Luxation des knorpeligen Nasenseptums",
+          "rubrics": {
+            "preferred": "Luxation des knorpeligen Nasenseptums"
+          },
+          "children": []
+        },
+        {
+          "code": "S03.2",
+          "kind": "category",
+          "label": "Zahnluxation",
+          "rubrics": {
+            "preferred": "Zahnluxation"
+          },
+          "children": []
+        },
+        {
+          "code": "S03.3",
+          "kind": "category",
+          "label": "Luxation sonstiger und nicht näher bezeichneter Teile des Kopfes",
+          "rubrics": {
+            "preferred": "Luxation sonstiger und nicht näher bezeichneter Teile des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "S03.4",
+          "kind": "category",
+          "label": "Verstauchung und Zerrung des Kiefers",
+          "rubrics": {
+            "preferred": "Verstauchung und Zerrung des Kiefers",
+            "inclusion": "Kiefer (-Gelenk) (-Band)"
+          },
+          "children": []
+        },
+        {
+          "code": "S03.5",
+          "kind": "category",
+          "label": "Verstauchung und Zerrung von Gelenken und Bändern sonstiger und nicht näher bezeichneter Teile des Kopfes",
+          "rubrics": {
+            "preferred": "Verstauchung und Zerrung von Gelenken und Bändern sonstiger und nicht näher bezeichneter Teile des Kopfes"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S04",
+      "kind": "category",
+      "label": "Verletzung von Hirnnerven",
+      "rubrics": {
+        "preferred": "Verletzung von Hirnnerven"
+      },
+      "children": [
+        {
+          "code": "S04.0",
+          "kind": "category",
+          "label": "Sehnerv- und Sehbahnenverletzung",
+          "rubrics": {
+            "preferred": "Sehnerv- und Sehbahnenverletzung",
+            "inclusion": "Sehrinde"
+          },
+          "children": []
+        },
+        {
+          "code": "S04.1",
+          "kind": "category",
+          "label": "Verletzung des N. oculomotorius",
+          "rubrics": {
+            "preferred": "Verletzung des N. oculomotorius",
+            "inclusion": "III. Hirnnerv"
+          },
+          "children": []
+        },
+        {
+          "code": "S04.2",
+          "kind": "category",
+          "label": "Verletzung des N. trochlearis",
+          "rubrics": {
+            "preferred": "Verletzung des N. trochlearis",
+            "inclusion": "IV. Hirnnerv"
+          },
+          "children": []
+        },
+        {
+          "code": "S04.3",
+          "kind": "category",
+          "label": "Verletzung des N. trigeminus",
+          "rubrics": {
+            "preferred": "Verletzung des N. trigeminus",
+            "inclusion": "V. Hirnnerv"
+          },
+          "children": []
+        },
+        {
+          "code": "S04.4",
+          "kind": "category",
+          "label": "Verletzung des N. abducens",
+          "rubrics": {
+            "preferred": "Verletzung des N. abducens",
+            "inclusion": "VI. Hirnnerv"
+          },
+          "children": []
+        },
+        {
+          "code": "S04.5",
+          "kind": "category",
+          "label": "Verletzung des N. facialis",
+          "rubrics": {
+            "preferred": "Verletzung des N. facialis",
+            "inclusion": "VII. Hirnnerv"
+          },
+          "children": []
+        },
+        {
+          "code": "S04.6",
+          "kind": "category",
+          "label": "Verletzung des N. vestibulocochlearis",
+          "rubrics": {
+            "preferred": "Verletzung des N. vestibulocochlearis",
+            "inclusion": "N. acusticus [N. statoacusticus]"
+          },
+          "children": []
+        },
+        {
+          "code": "S04.7",
+          "kind": "category",
+          "label": "Verletzung des N. accessorius",
+          "rubrics": {
+            "preferred": "Verletzung des N. accessorius",
+            "inclusion": "XI. Hirnnerv"
+          },
+          "children": []
+        },
+        {
+          "code": "S04.8",
+          "kind": "category",
+          "label": "Verletzung sonstiger Hirnnerven",
+          "rubrics": {
+            "preferred": "Verletzung sonstiger Hirnnerven",
+            "inclusion": "Nn. olfactorii [I. Hirnnerv]"
+          },
+          "children": []
+        },
+        {
+          "code": "S04.9",
+          "kind": "category",
+          "label": "Verletzung eines nicht näher bezeichneten Hirnnervs",
+          "rubrics": {
+            "preferred": "Verletzung eines nicht näher bezeichneten Hirnnervs"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S05",
+      "kind": "category",
+      "label": "Verletzung des Auges und der Orbita",
+      "rubrics": {
+        "preferred": "Verletzung des Auges und der Orbita",
+        "exclusion": "Verletzung:\n\t\t\t\tSehnerv [II. Hirnnerv]S04.0"
+      },
+      "children": [
+        {
+          "code": "S05.0",
+          "kind": "category",
+          "label": "Verletzung der Konjunktiva und Abrasio corneae ohne Angabe eines Fremdkörpers",
+          "rubrics": {
+            "preferred": "Verletzung der Konjunktiva und Abrasio corneae ohne Angabe eines Fremdkörpers",
+            "exclusion": "Fremdkörper in:\n\t\t\t\tKorneaT15.0"
+          },
+          "children": []
+        },
+        {
+          "code": "S05.1",
+          "kind": "category",
+          "label": "Prellung des Augapfels und des Orbitagewebes",
+          "rubrics": {
+            "preferred": "Prellung des Augapfels und des Orbitagewebes",
+            "inclusion": "Hyphäma, traumatisch",
+            "exclusion": "Prellung des Augenlides und der PeriokularregionS00.1"
+          },
+          "children": []
+        },
+        {
+          "code": "S05.2",
+          "kind": "category",
+          "label": "Rissverletzung und Ruptur des Auges mit Prolaps oder Verlust intraokularen Gewebes",
+          "rubrics": {
+            "preferred": "Rissverletzung und Ruptur des Auges mit Prolaps oder Verlust intraokularen Gewebes"
+          },
+          "children": []
+        },
+        {
+          "code": "S05.3",
+          "kind": "category",
+          "label": "Rissverletzung des Auges ohne Prolaps oder Verlust intraokularen Gewebes",
+          "rubrics": {
+            "preferred": "Rissverletzung des Auges ohne Prolaps oder Verlust intraokularen Gewebes",
+            "inclusion": "Rissverletzung des Auges o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "S05.4",
+          "kind": "category",
+          "label": "Penetrierende Wunde der Orbita mit oder ohne Fremdkörper",
+          "rubrics": {
+            "preferred": "Penetrierende Wunde der Orbita mit oder ohne Fremdkörper",
+            "exclusion": "Verbliebener (alter) Fremdkörper nach perforierender Verletzung der OrbitaH05.5"
+          },
+          "children": []
+        },
+        {
+          "code": "S05.5",
+          "kind": "category",
+          "label": "Penetrierende Wunde des Augapfels mit Fremdkörper",
+          "rubrics": {
+            "preferred": "Penetrierende Wunde des Augapfels mit Fremdkörper",
+            "exclusion": "Verbliebener (alter) intraokularer FremdkörperH44.6-H44.7"
+          },
+          "children": []
+        },
+        {
+          "code": "S05.6",
+          "kind": "category",
+          "label": "Penetrierende Wunde des Augapfels ohne Fremdkörper",
+          "rubrics": {
+            "preferred": "Penetrierende Wunde des Augapfels ohne Fremdkörper",
+            "inclusion": "Penetrierende Augenverletzung o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "S05.7",
+          "kind": "category",
+          "label": "Abriss des Augapfels",
+          "rubrics": {
+            "preferred": "Abriss des Augapfels",
+            "inclusion": "Traumatische Enukleation"
+          },
+          "children": []
+        },
+        {
+          "code": "S05.8",
+          "kind": "category",
+          "label": "Sonstige Verletzungen des Auges und der Orbita",
+          "rubrics": {
+            "preferred": "Sonstige Verletzungen des Auges und der Orbita",
+            "inclusion": "Verletzung des Ductus nasolacrimalis"
+          },
+          "children": []
+        },
+        {
+          "code": "S05.9",
+          "kind": "category",
+          "label": "Verletzung des Auges und der Orbita, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung des Auges und der Orbita, nicht näher bezeichnet",
+            "inclusion": "Verletzung des Auges o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S06",
+      "kind": "category",
+      "label": "Intrakranielle Verletzung",
+      "rubrics": {
+        "preferred": "Intrakranielle Verletzung",
+        "coding-hint": "Bei den Subkategorien S06.0-S06.6, S06.8 und S06.9 ist ein Bewusstseinsverlust mit einer zusätzlichen Schlüsselnummer aus S06.7-! zu verschlüsseln."
+      },
+      "children": [
+        {
+          "code": "S06.0",
+          "kind": "category",
+          "label": "Gehirnerschütterung",
+          "rubrics": {
+            "preferred": "Gehirnerschütterung",
+            "inclusion": "Schädel-Hirn-Trauma 1. Grades"
+          },
+          "children": []
+        },
+        {
+          "code": "S06.1",
+          "kind": "category",
+          "label": "Traumatisches Hirnödem",
+          "rubrics": {
+            "preferred": "Traumatisches Hirnödem"
+          },
+          "children": []
+        },
+        {
+          "code": "S06.2",
+          "kind": "category",
+          "label": "Diffuse Hirnverletzung",
+          "rubrics": {
+            "preferred": "Diffuse Hirnverletzung",
+            "inclusion": "Großer Hirngewebebereich betroffen"
+          },
+          "children": [
+            {
+              "code": "S06.20",
+              "kind": "category",
+              "label": "Diffuse Hirn- und Kleinhirnverletzung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Diffuse Hirn- und Kleinhirnverletzung, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.21",
+              "kind": "category",
+              "label": "Diffuse Hirnkontusionen",
+              "rubrics": {
+                "preferred": "Diffuse Hirnkontusionen"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.22",
+              "kind": "category",
+              "label": "Diffuse Kleinhirnkontusionen",
+              "rubrics": {
+                "preferred": "Diffuse Kleinhirnkontusionen"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.23",
+              "kind": "category",
+              "label": "Multiple intrazerebrale und zerebellare Hämatome",
+              "rubrics": {
+                "preferred": "Multiple intrazerebrale und zerebellare Hämatome",
+                "inclusion": "Multiple intrazerebrale Blutungen"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.28",
+              "kind": "category",
+              "label": "Sonstige diffuse Hirn- und Kleinhirnverletzungen",
+              "rubrics": {
+                "preferred": "Sonstige diffuse Hirn- und Kleinhirnverletzungen",
+                "inclusion": "Multiple Rissverletzungen des Groß- und Kleinhirns"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S06.3",
+          "kind": "category",
+          "label": "Umschriebene Hirnverletzung",
+          "rubrics": {
+            "preferred": "Umschriebene Hirnverletzung",
+            "inclusion": "Begrenzter oder umschriebener Hirngewebebereich betroffen"
+          },
+          "children": [
+            {
+              "code": "S06.30",
+              "kind": "category",
+              "label": "Umschriebene Hirn- und Kleinhirnverletzung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Umschriebene Hirn- und Kleinhirnverletzung, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.31",
+              "kind": "category",
+              "label": "Umschriebene Hirnkontusion",
+              "rubrics": {
+                "preferred": "Umschriebene Hirnkontusion"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.32",
+              "kind": "category",
+              "label": "Umschriebene Kleinhirnkontusion",
+              "rubrics": {
+                "preferred": "Umschriebene Kleinhirnkontusion"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.33",
+              "kind": "category",
+              "label": "Umschriebenes zerebrales Hämatom",
+              "rubrics": {
+                "preferred": "Umschriebenes zerebrales Hämatom",
+                "inclusion": "Intrazerebrales Hämatom"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.34",
+              "kind": "category",
+              "label": "Umschriebenes zerebellares Hämatom",
+              "rubrics": {
+                "preferred": "Umschriebenes zerebellares Hämatom",
+                "inclusion": "Zerebellare Blutung"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.38",
+              "kind": "category",
+              "label": "Sonstige umschriebene Hirn- und Kleinhirnverletzungen",
+              "rubrics": {
+                "preferred": "Sonstige umschriebene Hirn- und Kleinhirnverletzungen",
+                "inclusion": "Rissverletzung des Groß- und Kleinhirns"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S06.4",
+          "kind": "category",
+          "label": "Epidurale Blutung",
+          "rubrics": {
+            "preferred": "Epidurale Blutung",
+            "inclusion": "Extradurale Blutung (traumatisch)"
+          },
+          "children": []
+        },
+        {
+          "code": "S06.5",
+          "kind": "category",
+          "label": "Traumatische subdurale Blutung",
+          "rubrics": {
+            "preferred": "Traumatische subdurale Blutung"
+          },
+          "children": []
+        },
+        {
+          "code": "S06.6",
+          "kind": "category",
+          "label": "Traumatische subarachnoidale Blutung",
+          "rubrics": {
+            "preferred": "Traumatische subarachnoidale Blutung"
+          },
+          "children": []
+        },
+        {
+          "code": "S06.7",
+          "kind": "category",
+          "label": "Bewusstlosigkeit bei Schädel-Hirn-Trauma",
+          "rubrics": {
+            "preferred": "Bewusstlosigkeit bei Schädel-Hirn-Trauma"
+          },
+          "children": [
+            {
+              "code": "S06.70",
+              "kind": "category",
+              "label": "Weniger als 30 Minuten",
+              "rubrics": {
+                "preferredLong": "Bewusstlosigkeit bei Schädel-Hirn-Trauma: Weniger als 30 Minuten",
+                "preferred": "Weniger als 30 Minuten"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.71",
+              "kind": "category",
+              "label": "30 Minuten bis 24 Stunden",
+              "rubrics": {
+                "preferredLong": "Bewusstlosigkeit bei Schädel-Hirn-Trauma: 30 Minuten bis 24 Stunden",
+                "preferred": "30 Minuten bis 24 Stunden"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.72",
+              "kind": "category",
+              "label": "Mehr als 24 Stunden, mit Rückkehr zum vorher bestehenden Bewusstseinsgrad",
+              "rubrics": {
+                "preferredLong": "Bewusstlosigkeit bei Schädel-Hirn-Trauma: Mehr als 24 Stunden, mit Rückkehr zum vorher bestehenden Bewusstseinsgrad",
+                "preferred": "Mehr als 24 Stunden, mit Rückkehr zum vorher bestehenden Bewusstseinsgrad"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.73",
+              "kind": "category",
+              "label": "Mehr als 24 Stunden, ohne Rückkehr zum vorher bestehenden Bewusstseinsgrad",
+              "rubrics": {
+                "preferredLong": "Bewusstlosigkeit bei Schädel-Hirn-Trauma: Mehr als 24 Stunden, ohne Rückkehr zum vorher bestehenden Bewusstseinsgrad",
+                "preferred": "Mehr als 24 Stunden, ohne Rückkehr zum vorher bestehenden Bewusstseinsgrad"
+              },
+              "children": []
+            },
+            {
+              "code": "S06.79",
+              "kind": "category",
+              "label": "Dauer nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Bewusstlosigkeit bei Schädel-Hirn-Trauma: Dauer nicht näher bezeichnet",
+                "preferred": "Dauer nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "S06.8",
+          "kind": "category",
+          "label": "Sonstige intrakranielle Verletzungen",
+          "rubrics": {
+            "preferred": "Sonstige intrakranielle Verletzungen",
+            "inclusion": "Traumatische Blutung, traumatisches Hämatom, Kontusion:\n\t\t\t\tKleinhirn"
+          },
+          "children": []
+        },
+        {
+          "code": "S06.9",
+          "kind": "category",
+          "label": "Intrakranielle Verletzung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Intrakranielle Verletzung, nicht näher bezeichnet",
+            "inclusion": "Intrakranielle Verletzung o.n.A.",
+            "exclusion": "Verletzung des Kopfes o.n.A.S09.9"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S07",
+      "kind": "category",
+      "label": "Zerquetschung des Kopfes",
+      "rubrics": {
+        "preferred": "Zerquetschung des Kopfes",
+        "coding-hint": "Verschlüssele gegebenenfalls auch Crush-Syndrom T79.5.",
+        "exclusion": "Wenn die Art der Verletzung bekannt ist (z.B. Prellung, Fraktur, Luxation, innere Verletzung), verschlüssele nur nach der Art der Verletzung"
+      },
+      "children": [
+        {
+          "code": "S07.0",
+          "kind": "category",
+          "label": "Zerquetschung des Gesichtes",
+          "rubrics": {
+            "preferred": "Zerquetschung des Gesichtes"
+          },
+          "children": []
+        },
+        {
+          "code": "S07.1",
+          "kind": "category",
+          "label": "Zerquetschung des Schädels",
+          "rubrics": {
+            "preferred": "Zerquetschung des Schädels"
+          },
+          "children": []
+        },
+        {
+          "code": "S07.8",
+          "kind": "category",
+          "label": "Zerquetschung sonstiger Teile des Kopfes",
+          "rubrics": {
+            "preferred": "Zerquetschung sonstiger Teile des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "S07.9",
+          "kind": "category",
+          "label": "Zerquetschung des Kopfes, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Zerquetschung des Kopfes, Teil nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S08",
+      "kind": "category",
+      "label": "Traumatische Amputation von Teilen des Kopfes",
+      "rubrics": {
+        "preferred": "Traumatische Amputation von Teilen des Kopfes"
+      },
+      "children": [
+        {
+          "code": "S08.0",
+          "kind": "category",
+          "label": "Skalpierungsverletzung",
+          "rubrics": {
+            "preferred": "Skalpierungsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "S08.1",
+          "kind": "category",
+          "label": "Traumatische Amputation des Ohres",
+          "rubrics": {
+            "preferred": "Traumatische Amputation des Ohres"
+          },
+          "children": []
+        },
+        {
+          "code": "S08.8",
+          "kind": "category",
+          "label": "Traumatische Amputation sonstiger Teile des Kopfes",
+          "rubrics": {
+            "preferred": "Traumatische Amputation sonstiger Teile des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "S08.9",
+          "kind": "category",
+          "label": "Traumatische Amputation eines nicht näher bezeichneten Teiles des Kopfes",
+          "rubrics": {
+            "preferred": "Traumatische Amputation eines nicht näher bezeichneten Teiles des Kopfes",
+            "exclusion": "DekapitationS18"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S09",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Verletzungen des Kopfes",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Verletzungen des Kopfes"
+      },
+      "children": [
+        {
+          "code": "S09.0",
+          "kind": "category",
+          "label": "Verletzung von Blutgefäßen des Kopfes, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Verletzung von Blutgefäßen des Kopfes, anderenorts nicht klassifiziert",
+            "exclusion": "Verletzung:\n\t\t\t\tintrakranielle GefäßeS06.-"
+          },
+          "children": []
+        },
+        {
+          "code": "S09.1",
+          "kind": "category",
+          "label": "Verletzung von Muskeln und Sehnen des Kopfes",
+          "rubrics": {
+            "preferred": "Verletzung von Muskeln und Sehnen des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "S09.2",
+          "kind": "category",
+          "label": "Traumatische Trommelfellruptur",
+          "rubrics": {
+            "preferred": "Traumatische Trommelfellruptur"
+          },
+          "children": []
+        },
+        {
+          "code": "S09.7",
+          "kind": "category",
+          "label": "Multiple Verletzungen des Kopfes",
+          "rubrics": {
+            "preferred": "Multiple Verletzungen des Kopfes",
+            "inclusion": "Verletzungen, die in mehr als einer der Kategorien S00-S09.2 klassifizierbar sind",
+            "coding-hint": "Bezüglich der Verschlüsselung multipler Verletzungen sind in der stationären Versorgung die Deutschen Kodierrichtlinien heranzuziehen."
+          },
+          "children": []
+        },
+        {
+          "code": "S09.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Verletzungen des Kopfes",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Verletzungen des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "S09.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Verletzung des Kopfes",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Verletzung des Kopfes",
+            "inclusion": "Verletzung:\n\t\t\t\tOhr o.n.A."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

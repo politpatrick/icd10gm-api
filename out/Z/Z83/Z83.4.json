@@ -1,0 +1,10 @@
+{
+  "code": "Z83.4",
+  "kind": "category",
+  "label": "Andere endokrine, Ernährungs- oder Stoffwechselkrankheiten in der Familienanamnese",
+  "rubrics": {
+    "preferred": "Andere endokrine, Ernährungs- oder Stoffwechselkrankheiten in der Familienanamnese",
+    "inclusion": "Zustände, klassifizierbar unter E00-E07, E15-E90"
+  },
+  "children": []
+}

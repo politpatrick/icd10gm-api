@@ -1,0 +1,10 @@
+{
+  "code": "N85.0",
+  "kind": "category",
+  "label": "Glanduläre Hyperplasie des Endometriums",
+  "rubrics": {
+    "preferred": "Glanduläre Hyperplasie des Endometriums",
+    "inclusion": "Hyperplasie des Endometriums:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

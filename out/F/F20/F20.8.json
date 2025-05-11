@@ -1,0 +1,11 @@
+{
+  "code": "F20.8",
+  "kind": "category",
+  "label": "Sonstige Schizophrenie",
+  "rubrics": {
+    "preferred": "Sonstige Schizophrenie",
+    "inclusion": "Zönästhetische (zönästhopathische) Schizophrenie",
+    "exclusion": "Kurze schizophreniforme StörungenF23.2"
+  },
+  "children": []
+}

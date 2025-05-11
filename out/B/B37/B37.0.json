@@ -1,0 +1,10 @@
+{
+  "code": "B37.0",
+  "kind": "category",
+  "label": "Candida-Stomatitis",
+  "rubrics": {
+    "preferred": "Candida-Stomatitis",
+    "inclusion": "Mundsoor"
+  },
+  "children": []
+}

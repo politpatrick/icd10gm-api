@@ -1,0 +1,111 @@
+{
+  "code": "T88",
+  "kind": "category",
+  "label": "Sonstige Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert",
+    "exclusion": "Versehentliche Stich- oder Risswunde während eines EingriffesT81.2"
+  },
+  "children": [
+    {
+      "code": "T88.0",
+      "kind": "category",
+      "label": "Infektion nach Impfung [Immunisierung]",
+      "rubrics": {
+        "preferred": "Infektion nach Impfung [Immunisierung]",
+        "inclusion": "Sepsis nach Impfung [Immunisierung]"
+      },
+      "children": []
+    },
+    {
+      "code": "T88.1",
+      "kind": "category",
+      "label": "Sonstige Komplikationen nach Impfung [Immunisierung], anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Komplikationen nach Impfung [Immunisierung], anderenorts nicht klassifiziert",
+        "inclusion": "Hautausschlag nach Impfung",
+        "exclusion": "Sonstige SerumreaktionenT80.6"
+      },
+      "children": []
+    },
+    {
+      "code": "T88.2",
+      "kind": "category",
+      "label": "Schock durch Anästhesie",
+      "rubrics": {
+        "preferred": "Schock durch Anästhesie",
+        "inclusion": "Schock durch Anästhesie bei ordnungsgemäßer Verabreichung eines indikationsgerechten Arzneimittels",
+        "exclusion": "Postoperativer Schock o.n.A.T81.1"
+      },
+      "children": []
+    },
+    {
+      "code": "T88.3",
+      "kind": "category",
+      "label": "Maligne Hyperthermie durch Anästhesie",
+      "rubrics": {
+        "preferred": "Maligne Hyperthermie durch Anästhesie"
+      },
+      "children": []
+    },
+    {
+      "code": "T88.4",
+      "kind": "category",
+      "label": "Misslungene oder schwierige Intubation",
+      "rubrics": {
+        "preferred": "Misslungene oder schwierige Intubation"
+      },
+      "children": []
+    },
+    {
+      "code": "T88.5",
+      "kind": "category",
+      "label": "Sonstige Komplikationen infolge Anästhesie",
+      "rubrics": {
+        "preferred": "Sonstige Komplikationen infolge Anästhesie",
+        "inclusion": "Hypothermie nach Anästhesie"
+      },
+      "children": []
+    },
+    {
+      "code": "T88.6",
+      "kind": "category",
+      "label": "Anaphylaktischer Schock als unerwünschte Nebenwirkung eines indikationsgerechten Arzneimittels oder einer indikationsgerechten Droge bei ordnungsgemäßer Verabreichung",
+      "rubrics": {
+        "preferred": "Anaphylaktischer Schock als unerwünschte Nebenwirkung eines indikationsgerechten Arzneimittels oder einer indikationsgerechten Droge bei ordnungsgemäßer Verabreichung",
+        "exclusion": "Anaphylaktischer Schock durch SerumT80.5"
+      },
+      "children": []
+    },
+    {
+      "code": "T88.7",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete unerwünschte Nebenwirkung eines Arzneimittels oder einer Droge",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete unerwünschte Nebenwirkung eines Arzneimittels oder einer Droge",
+        "inclusion": "Arzneimittel-:\n\t\t\t\tÜberempfindlichkeit o.n.A.",
+        "exclusion": "Näher bezeichnete unerwünschte Nebenwirkungen von Arzneimitteln und DrogenA00-R99T80-T88.6T88.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T88.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "T88.9",
+      "kind": "category",
+      "label": "Komplikation bei chirurgischen Eingriffen und medizinischer Behandlung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Komplikation bei chirurgischen Eingriffen und medizinischer Behandlung, nicht näher bezeichnet",
+        "exclusion": "Unerwünschte Nebenwirkung o.n.A.T78.9"
+      },
+      "children": []
+    }
+  ]
+}

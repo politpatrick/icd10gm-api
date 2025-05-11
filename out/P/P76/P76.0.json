@@ -1,0 +1,11 @@
+{
+  "code": "P76.0",
+  "kind": "category",
+  "label": "Mekoniumpfropf-Syndrom",
+  "rubrics": {
+    "preferred": "Mekoniumpfropf-Syndrom",
+    "inclusion": "Mekoniumileus in Fällen, bei denen eine zystische Fibrose ausgeschlossen ist",
+    "exclusion": "Mekoniumileus bei zystischer Fibrose E84.1"
+  },
+  "children": []
+}

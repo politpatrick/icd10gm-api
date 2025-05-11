@@ -1,0 +1,10 @@
+{
+  "code": "K75.4",
+  "kind": "category",
+  "label": "Autoimmune Hepatitis",
+  "rubrics": {
+    "preferred": "Autoimmune Hepatitis",
+    "inclusion": "Lupoide Hepatitis, anderenorts nicht klassifiziert"
+  },
+  "children": []
+}

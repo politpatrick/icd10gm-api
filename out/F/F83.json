@@ -1,0 +1,10 @@
+{
+  "code": "F83",
+  "kind": "category",
+  "label": "Kombinierte umschriebene Entwicklungsstörungen",
+  "rubrics": {
+    "preferred": "Kombinierte umschriebene Entwicklungsstörungen",
+    "definition": "Dies ist eine Restkategorie für Störungen, bei denen eine gewisse Mischung von umschriebenen Entwicklungsstörungen des Sprechens und der Sprache, schulischer Fertigkeiten und motorischer Funktionen vorliegt, von denen jedoch keine so dominiert, dass sie eine Hauptdiagnose rechtfertigt. Diese Mischkategorie soll nur dann verwendet werden, wenn weitgehende Überschneidungen mit allen diesen umschriebenen Entwicklungsstörungen vorliegen. Meist sind die Störungen mit einem gewissen Grad an allgemeiner Beeinträchtigung kognitiver Funktionen verbunden. Sie ist also dann zu verwenden, wenn Funktionsstörungen vorliegen, welche die Kriterien von zwei oder mehr Kategorien von F80.-, F81.- und F82 erfüllen."
+  },
+  "children": []
+}

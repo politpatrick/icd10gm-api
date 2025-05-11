@@ -1,0 +1,10 @@
+{
+  "code": "N81.0",
+  "kind": "category",
+  "label": "Urethrozele bei der Frau",
+  "rubrics": {
+    "preferred": "Urethrozele bei der Frau",
+    "exclusion": "Urethrozele (mit):\n\t\t\t\tZystozeleN81.1"
+  },
+  "children": []
+}

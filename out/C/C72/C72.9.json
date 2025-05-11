@@ -1,0 +1,11 @@
+{
+  "code": "C72.9",
+  "kind": "category",
+  "label": "Zentralnervensystem, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Zentralnervensystem, nicht näher bezeichnet",
+    "preferred": "Zentralnervensystem, nicht näher bezeichnet",
+    "inclusion": "Nervensystem o.n.A."
+  },
+  "children": []
+}

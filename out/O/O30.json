@@ -1,0 +1,57 @@
+{
+  "code": "O30",
+  "kind": "category",
+  "label": "Mehrlingsschwangerschaft",
+  "rubrics": {
+    "preferred": "Mehrlingsschwangerschaft",
+    "exclusion": "Komplikationen, die für eine Mehrlingsschwangerschaft spezifisch sindO31.-"
+  },
+  "children": [
+    {
+      "code": "O30.0",
+      "kind": "category",
+      "label": "Zwillingsschwangerschaft",
+      "rubrics": {
+        "preferred": "Zwillingsschwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O30.1",
+      "kind": "category",
+      "label": "Drillingsschwangerschaft",
+      "rubrics": {
+        "preferred": "Drillingsschwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O30.2",
+      "kind": "category",
+      "label": "Vierlingsschwangerschaft",
+      "rubrics": {
+        "preferred": "Vierlingsschwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O30.8",
+      "kind": "category",
+      "label": "Sonstige Mehrlingsschwangerschaft",
+      "rubrics": {
+        "preferred": "Sonstige Mehrlingsschwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O30.9",
+      "kind": "category",
+      "label": "Mehrlingsschwangerschaft, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Mehrlingsschwangerschaft, nicht näher bezeichnet",
+        "inclusion": "Mehrlingsschwangerschaft o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

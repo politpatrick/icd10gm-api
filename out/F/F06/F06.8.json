@@ -1,0 +1,10 @@
+{
+  "code": "F06.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete organische psychische Störungen aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete organische psychische Störungen aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit",
+    "inclusion": "Epileptische Psychose o.n.A."
+  },
+  "children": []
+}

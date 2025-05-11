@@ -1,0 +1,75 @@
+{
+  "code": "T85.7",
+  "kind": "category",
+  "label": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate",
+  "rubrics": {
+    "preferred": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate"
+  },
+  "children": [
+    {
+      "code": "T85.71",
+      "kind": "category",
+      "label": "Infektion und entzündliche Reaktion durch Katheter zur Peritonealdialyse",
+      "rubrics": {
+        "preferred": "Infektion und entzündliche Reaktion durch Katheter zur Peritonealdialyse"
+      },
+      "children": []
+    },
+    {
+      "code": "T85.72",
+      "kind": "category",
+      "label": "Infektion und entzündliche Reaktion durch interne Prothesen, Implantate oder Transplantate im Nervensystem",
+      "rubrics": {
+        "preferred": "Infektion und entzündliche Reaktion durch interne Prothesen, Implantate oder Transplantate im Nervensystem"
+      },
+      "children": []
+    },
+    {
+      "code": "T85.73",
+      "kind": "category",
+      "label": "Infektion und entzündliche Reaktion durch Mammaprothese oder -implantat",
+      "rubrics": {
+        "preferred": "Infektion und entzündliche Reaktion durch Mammaprothese oder -implantat",
+        "exclusion": "Kapselfibrose der Mamma durch Mammaprothese oder -implantatT85.82"
+      },
+      "children": []
+    },
+    {
+      "code": "T85.74",
+      "kind": "category",
+      "label": "Infektion und entzündliche Reaktion durch perkutan-endoskopische Gastrostomie-Sonde [PEG-Sonde]",
+      "rubrics": {
+        "preferred": "Infektion und entzündliche Reaktion durch perkutan-endoskopische Gastrostomie-Sonde [PEG-Sonde]",
+        "inclusion": "Infektion und entzündliche Reaktion durch perkutan-endoskopische Jejunostomie-Sonde [PEJ-Sonde]"
+      },
+      "children": []
+    },
+    {
+      "code": "T85.75",
+      "kind": "category",
+      "label": "Infektion und entzündliche Reaktion durch interne Prothesen, Implantate oder Transplantate im hepatobiliären System und im Pankreas",
+      "rubrics": {
+        "preferred": "Infektion und entzündliche Reaktion durch interne Prothesen, Implantate oder Transplantate im hepatobiliären System und im Pankreas"
+      },
+      "children": []
+    },
+    {
+      "code": "T85.76",
+      "kind": "category",
+      "label": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate im sonstigen Gastrointestinaltrakt",
+      "rubrics": {
+        "preferred": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate im sonstigen Gastrointestinaltrakt"
+      },
+      "children": []
+    },
+    {
+      "code": "T85.78",
+      "kind": "category",
+      "label": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate",
+      "rubrics": {
+        "preferred": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate"
+      },
+      "children": []
+    }
+  ]
+}

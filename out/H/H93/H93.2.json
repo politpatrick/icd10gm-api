@@ -1,0 +1,11 @@
+{
+  "code": "H93.2",
+  "kind": "category",
+  "label": "Sonstige abnorme Hörempfindungen",
+  "rubrics": {
+    "preferred": "Sonstige abnorme Hörempfindungen",
+    "inclusion": "Zeitweilige Hörschwellenverschiebung",
+    "exclusion": "Akustische HalluzinationenR44.0"
+  },
+  "children": []
+}

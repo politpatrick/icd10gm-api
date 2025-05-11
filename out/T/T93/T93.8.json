@@ -1,0 +1,10 @@
+{
+  "code": "T93.8",
+  "kind": "category",
+  "label": "Folgen sonstiger näher bezeichneter Verletzungen der unteren Extremität",
+  "rubrics": {
+    "preferred": "Folgen sonstiger näher bezeichneter Verletzungen der unteren Extremität",
+    "inclusion": "Folgen einer Verletzung, die unter S70.-, S75.-, S79.7-S79.8, S80.-, S85.-, S89.7-S89.8, S90.-, S95.-, S99.7-S99.8, T13.0-, T13.4 und T13.8 klassifizierbar ist"
+  },
+  "children": []
+}

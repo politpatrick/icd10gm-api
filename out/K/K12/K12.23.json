@@ -1,0 +1,10 @@
+{
+  "code": "K12.23",
+  "kind": "category",
+  "label": "Wangenabszess",
+  "rubrics": {
+    "preferred": "Wangenabszess",
+    "exclusion": "Abszess der WangenhautL02.0"
+  },
+  "children": []
+}

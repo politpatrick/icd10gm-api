@@ -1,0 +1,10 @@
+{
+  "code": "T91.5",
+  "kind": "category",
+  "label": "Folgen einer Verletzung der intraabdominalen Organe und der Beckenorgane",
+  "rubrics": {
+    "preferred": "Folgen einer Verletzung der intraabdominalen Organe und der Beckenorgane",
+    "inclusion": "Folgen einer Verletzung, die unter S36-S37 klassifizierbar ist"
+  },
+  "children": []
+}

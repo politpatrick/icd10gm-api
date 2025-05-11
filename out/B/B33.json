@@ -1,0 +1,70 @@
+{
+  "code": "B33",
+  "kind": "category",
+  "label": "Sonstige Viruskrankheiten, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Viruskrankheiten, anderenorts nicht klassifiziert"
+  },
+  "children": [
+    {
+      "code": "B33.0",
+      "kind": "category",
+      "label": "Pleurodynia epidemica",
+      "rubrics": {
+        "preferred": "Pleurodynia epidemica",
+        "inclusion": "Myalgia epidemica"
+      },
+      "children": []
+    },
+    {
+      "code": "B33.1",
+      "kind": "category",
+      "label": "Ross-River-Krankheit",
+      "rubrics": {
+        "preferred": "Ross-River-Krankheit",
+        "inclusion": "Ross-River-Fieber"
+      },
+      "children": []
+    },
+    {
+      "code": "B33.2",
+      "kind": "category",
+      "label": "Karditis durch Viren",
+      "rubrics": {
+        "preferred": "Karditis durch Viren"
+      },
+      "children": []
+    },
+    {
+      "code": "B33.3",
+      "kind": "category",
+      "label": "Infektion durch Retroviren, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Infektion durch Retroviren, anderenorts nicht klassifiziert",
+        "inclusion": "Infektion durch Retroviren o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "B33.4",
+      "kind": "category",
+      "label": "Hantavirus- (Herz-) LungensyndromJ17.1",
+      "rubrics": {
+        "preferred": "Hantavirus- (Herz-) LungensyndromJ17.1",
+        "inclusion": "Sin-nombre-Virus-Krankheit",
+        "coding-hint": "Soll ein mit dem Hantavirus- (Herz-) Lungensyndrom verbundenes Nierenversagen durch das Andes-, Bayou- und Black-Creek-Canal-Hantavirus angegeben werden, ist eine zusätzliche SchlüsselnummerN17.9- zu benutzen.",
+        "exclusion": "Hämorrhagisches Fieber mit renaler BeteiligungA98.5N08.0"
+      },
+      "children": []
+    },
+    {
+      "code": "B33.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Viruskrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Viruskrankheiten"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "T56.8",
+  "kind": "category",
+  "label": "Sonstige Metalle",
+  "rubrics": {
+    "preferred": "Sonstige Metalle",
+    "preferredLong": "Toxische Wirkung: Sonstige Metalle",
+    "inclusion": "Thallium"
+  },
+  "children": []
+}

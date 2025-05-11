@@ -1,0 +1,10 @@
+{
+  "code": "Z00.4",
+  "kind": "category",
+  "label": "Allgemeine psychiatrische Untersuchung, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Allgemeine psychiatrische Untersuchung, anderenorts nicht klassifiziert",
+    "exclusion": "Psychiatrische Untersuchung aus rechtsmedizinischen GründenZ04.8"
+  },
+  "children": []
+}

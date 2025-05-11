@@ -1,0 +1,11 @@
+{
+  "code": "F01.1",
+  "kind": "category",
+  "label": "Multiinfarkt-Demenz",
+  "rubrics": {
+    "preferred": "Multiinfarkt-Demenz",
+    "definition": "Sie beginnt allmählich, nach mehreren vorübergehenden ischämischen Episoden (TIA), die eine Anhäufung von Infarkten im Hirngewebe verursachen.",
+    "inclusion": "Vorwiegend kortikale Demenz"
+  },
+  "children": []
+}

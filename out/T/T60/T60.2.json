@@ -1,0 +1,10 @@
+{
+  "code": "T60.2",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Insektizide",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Sonstige und nicht näher bezeichnete Insektizide",
+    "preferred": "Sonstige und nicht näher bezeichnete Insektizide"
+  },
+  "children": []
+}

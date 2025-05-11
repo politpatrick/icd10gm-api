@@ -1,0 +1,10 @@
+{
+  "code": "T95.1",
+  "kind": "category",
+  "label": "Folgen einer Verbrennung, Verätzung oder Erfrierung des Rumpfes",
+  "rubrics": {
+    "preferred": "Folgen einer Verbrennung, Verätzung oder Erfrierung des Rumpfes",
+    "inclusion": "Folgen einer Verletzung, die unter T21.-, T33.2-T33.3, T34.2-T34.3 und T35.3 klassifizierbar ist"
+  },
+  "children": []
+}

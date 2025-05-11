@@ -1,0 +1,11 @@
+{
+  "code": "S30.2",
+  "kind": "category",
+  "label": "Prellung der äußeren Genitalorgane",
+  "rubrics": {
+    "preferred": "Prellung der äußeren Genitalorgane",
+    "inclusion": "Vulva",
+    "exclusion": "VaginaS37.88"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "E80.6",
+  "kind": "category",
+  "label": "Sonstige Störungen des Bilirubinstoffwechsels",
+  "rubrics": {
+    "preferred": "Sonstige Störungen des Bilirubinstoffwechsels",
+    "inclusion": "Rotor-Syndrom"
+  },
+  "children": []
+}

@@ -1,0 +1,54 @@
+{
+  "code": "C24",
+  "kind": "category",
+  "label": "Bösartige Neubildung sonstiger und nicht näher bezeichneter Teile der Gallenwege",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung sonstiger und nicht näher bezeichneter Teile der Gallenwege",
+    "exclusion": "Intrahepatischer GallengangC22.1"
+  },
+  "children": [
+    {
+      "code": "C24.0",
+      "kind": "category",
+      "label": "Extrahepatischer Gallengang",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Extrahepatischer Gallengang",
+        "preferred": "Extrahepatischer Gallengang",
+        "inclusion": "Gallengang o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "C24.1",
+      "kind": "category",
+      "label": "Ampulla hepatopancreatica [Ampulla Vateri]",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Ampulla hepatopancreatica [Ampulla Vateri]",
+        "preferred": "Ampulla hepatopancreatica [Ampulla Vateri]"
+      },
+      "children": []
+    },
+    {
+      "code": "C24.8",
+      "kind": "category",
+      "label": "Gallenwege, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Gallenwege, mehrere Teilbereiche überlappend",
+        "preferred": "Gallenwege, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]",
+        "inclusion": "Bösartige Neubildung mit Beteiligung sowohl der intra- als auch der extrahepatischen Gallengänge"
+      },
+      "children": []
+    },
+    {
+      "code": "C24.9",
+      "kind": "category",
+      "label": "Gallenwege, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Gallenwege, nicht näher bezeichnet",
+        "preferred": "Gallenwege, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "code": "B05",
+  "kind": "category",
+  "label": "Masern",
+  "rubrics": {
+    "preferred": "Masern",
+    "inclusion": "Morbilli",
+    "exclusion": "Subakute sklerosierende PanenzephalitisA81.1"
+  },
+  "children": [
+    {
+      "code": "B05.0",
+      "kind": "category",
+      "label": "Masern, kompliziert durch EnzephalitisG05.1",
+      "rubrics": {
+        "preferred": "Masern, kompliziert durch EnzephalitisG05.1",
+        "inclusion": "Enzephalitis bei Masern"
+      },
+      "children": []
+    },
+    {
+      "code": "B05.1",
+      "kind": "category",
+      "label": "Masern, kompliziert durch MeningitisG02.0",
+      "rubrics": {
+        "preferred": "Masern, kompliziert durch MeningitisG02.0",
+        "inclusion": "Meningitis bei Masern"
+      },
+      "children": []
+    },
+    {
+      "code": "B05.2",
+      "kind": "category",
+      "label": "Masern, kompliziert durch PneumonieJ17.1",
+      "rubrics": {
+        "preferred": "Masern, kompliziert durch PneumonieJ17.1",
+        "inclusion": "Pneumonie bei Masern"
+      },
+      "children": []
+    },
+    {
+      "code": "B05.3",
+      "kind": "category",
+      "label": "Masern, kompliziert durch Otitis mediaH67.1",
+      "rubrics": {
+        "preferred": "Masern, kompliziert durch Otitis mediaH67.1",
+        "inclusion": "Otitis media bei Masern"
+      },
+      "children": []
+    },
+    {
+      "code": "B05.4",
+      "kind": "category",
+      "label": "Masern mit Darmkomplikationen",
+      "rubrics": {
+        "preferred": "Masern mit Darmkomplikationen"
+      },
+      "children": []
+    },
+    {
+      "code": "B05.8",
+      "kind": "category",
+      "label": "Masern mit sonstigen Komplikationen",
+      "rubrics": {
+        "preferred": "Masern mit sonstigen Komplikationen",
+        "inclusion": "Keratitis und Keratokonjunktivitis bei MasernH19.2"
+      },
+      "children": []
+    },
+    {
+      "code": "B05.9",
+      "kind": "category",
+      "label": "Masern ohne Komplikation",
+      "rubrics": {
+        "preferred": "Masern ohne Komplikation",
+        "inclusion": "Masern o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "F41.0",
+  "kind": "category",
+  "label": "Panikstörung [episodisch paroxysmale Angst]",
+  "rubrics": {
+    "preferred": "Panikstörung [episodisch paroxysmale Angst]",
+    "definition": "Das wesentliche Kennzeichen sind wiederkehrende schwere Angstattacken (Panik), die sich nicht auf eine spezifische Situation oder besondere Umstände beschränken und deshalb auch nicht vorhersehbar sind. Wie bei anderen Angsterkrankungen zählen zu den wesentlichen Symptomen plötzlich auftretendes Herzklopfen, Brustschmerz, Erstickungsgefühle, Schwindel und Entfremdungsgefühle (Depersonalisation oder Derealisation). Oft entsteht sekundär auch die Furcht zu sterben, vor Kontrollverlust oder die Angst, wahnsinnig zu werden. Die Panikstörung soll nicht als Hauptdiagnose verwendet werden, wenn der Betroffene bei Beginn der Panikattacken an einer depressiven Störung leidet. Unter diesen Umständen sind die Panikattacken wahrscheinlich sekundäre Folge der Depression.",
+    "inclusion": "Panikzustand",
+    "exclusion": "Panikstörung mit AgoraphobieF40.01"
+  },
+  "children": []
+}

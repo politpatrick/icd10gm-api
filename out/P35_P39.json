@@ -1,0 +1,342 @@
+{
+  "code": "P35-P39",
+  "kind": "block",
+  "label": "Infektionen, die für die Perinatalperiode spezifisch sind",
+  "rubrics": {
+    "preferred": "Infektionen, die für die Perinatalperiode spezifisch sind",
+    "inclusion": "Infektionen, die in utero oder unter der Geburt erworben wurden",
+    "exclusion": "Tetanus neonatorumA33"
+  },
+  "children": [
+    {
+      "code": "P35",
+      "kind": "category",
+      "label": "Angeborene Viruskrankheiten",
+      "rubrics": {
+        "preferred": "Angeborene Viruskrankheiten"
+      },
+      "children": [
+        {
+          "code": "P35.0",
+          "kind": "category",
+          "label": "Rötelnembryopathie",
+          "rubrics": {
+            "preferred": "Rötelnembryopathie",
+            "inclusion": "Kongenitale Röteln-Pneumonie"
+          },
+          "children": []
+        },
+        {
+          "code": "P35.1",
+          "kind": "category",
+          "label": "Angeborene Zytomegalie",
+          "rubrics": {
+            "preferred": "Angeborene Zytomegalie"
+          },
+          "children": []
+        },
+        {
+          "code": "P35.2",
+          "kind": "category",
+          "label": "Angeborene Infektion durch Herpesviren [Herpes simplex]",
+          "rubrics": {
+            "preferred": "Angeborene Infektion durch Herpesviren [Herpes simplex]"
+          },
+          "children": []
+        },
+        {
+          "code": "P35.3",
+          "kind": "category",
+          "label": "Angeborene Virushepatitis",
+          "rubrics": {
+            "preferred": "Angeborene Virushepatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "P35.4",
+          "kind": "category",
+          "label": "Angeborene Zika-Viruskrankheit",
+          "rubrics": {
+            "preferred": "Angeborene Zika-Viruskrankheit",
+            "inclusion": "Mikrozephalie durch kongenitale Zika-Viruskrankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "P35.8",
+          "kind": "category",
+          "label": "Sonstige angeborene Viruskrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Viruskrankheiten",
+            "inclusion": "Angeborene Varizellen [Windpocken]"
+          },
+          "children": []
+        },
+        {
+          "code": "P35.9",
+          "kind": "category",
+          "label": "Angeborene Viruskrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Viruskrankheit, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P36",
+      "kind": "category",
+      "label": "Bakterielle Sepsis beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Bakterielle Sepsis beim Neugeborenen",
+        "inclusion": "Angeborene Sepsis"
+      },
+      "children": [
+        {
+          "code": "P36.0",
+          "kind": "category",
+          "label": "Sepsis beim Neugeborenen durch Streptokokken, Gruppe B",
+          "rubrics": {
+            "preferred": "Sepsis beim Neugeborenen durch Streptokokken, Gruppe B"
+          },
+          "children": []
+        },
+        {
+          "code": "P36.1",
+          "kind": "category",
+          "label": "Sepsis beim Neugeborenen durch sonstige und nicht näher bezeichnete Streptokokken",
+          "rubrics": {
+            "preferred": "Sepsis beim Neugeborenen durch sonstige und nicht näher bezeichnete Streptokokken"
+          },
+          "children": []
+        },
+        {
+          "code": "P36.2",
+          "kind": "category",
+          "label": "Sepsis beim Neugeborenen durch Staphylococcus aureus",
+          "rubrics": {
+            "preferred": "Sepsis beim Neugeborenen durch Staphylococcus aureus"
+          },
+          "children": []
+        },
+        {
+          "code": "P36.3",
+          "kind": "category",
+          "label": "Sepsis beim Neugeborenen durch sonstige und nicht näher bezeichnete Staphylokokken",
+          "rubrics": {
+            "preferred": "Sepsis beim Neugeborenen durch sonstige und nicht näher bezeichnete Staphylokokken"
+          },
+          "children": []
+        },
+        {
+          "code": "P36.4",
+          "kind": "category",
+          "label": "Sepsis beim Neugeborenen durch Escherichia coli",
+          "rubrics": {
+            "preferred": "Sepsis beim Neugeborenen durch Escherichia coli"
+          },
+          "children": []
+        },
+        {
+          "code": "P36.5",
+          "kind": "category",
+          "label": "Sepsis beim Neugeborenen durch Anaerobier",
+          "rubrics": {
+            "preferred": "Sepsis beim Neugeborenen durch Anaerobier"
+          },
+          "children": []
+        },
+        {
+          "code": "P36.8",
+          "kind": "category",
+          "label": "Sonstige bakterielle Sepsis beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige bakterielle Sepsis beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P36.9",
+          "kind": "category",
+          "label": "Bakterielle Sepsis beim Neugeborenen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Bakterielle Sepsis beim Neugeborenen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P37",
+      "kind": "category",
+      "label": "Sonstige angeborene infektiöse und parasitäre Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige angeborene infektiöse und parasitäre Krankheiten",
+        "exclusion": "Tetanus neonatorumA33"
+      },
+      "children": [
+        {
+          "code": "P37.0",
+          "kind": "category",
+          "label": "Angeborene Tuberkulose",
+          "rubrics": {
+            "preferred": "Angeborene Tuberkulose"
+          },
+          "children": []
+        },
+        {
+          "code": "P37.1",
+          "kind": "category",
+          "label": "Angeborene Toxoplasmose",
+          "rubrics": {
+            "preferred": "Angeborene Toxoplasmose",
+            "inclusion": "Hydrozephalus durch angeborene Toxoplasmose"
+          },
+          "children": []
+        },
+        {
+          "code": "P37.2",
+          "kind": "category",
+          "label": "Neugeborenenlisteriose (disseminiert)",
+          "rubrics": {
+            "preferred": "Neugeborenenlisteriose (disseminiert)"
+          },
+          "children": []
+        },
+        {
+          "code": "P37.3",
+          "kind": "category",
+          "label": "Angeborene Malaria tropica",
+          "rubrics": {
+            "preferred": "Angeborene Malaria tropica"
+          },
+          "children": []
+        },
+        {
+          "code": "P37.4",
+          "kind": "category",
+          "label": "Sonstige angeborene Malaria",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Malaria"
+          },
+          "children": []
+        },
+        {
+          "code": "P37.5",
+          "kind": "category",
+          "label": "Kandidose beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Kandidose beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P37.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete angeborene infektiöse und parasitäre Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete angeborene infektiöse und parasitäre Krankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "P37.9",
+          "kind": "category",
+          "label": "Angeborene infektiöse oder parasitäre Krankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene infektiöse oder parasitäre Krankheit, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P38",
+      "kind": "category",
+      "label": "Omphalitis beim Neugeborenen mit oder ohne leichte Blutung",
+      "rubrics": {
+        "preferred": "Omphalitis beim Neugeborenen mit oder ohne leichte Blutung"
+      },
+      "children": []
+    },
+    {
+      "code": "P39",
+      "kind": "category",
+      "label": "Sonstige Infektionen, die für die Perinatalperiode spezifisch sind",
+      "rubrics": {
+        "preferred": "Sonstige Infektionen, die für die Perinatalperiode spezifisch sind"
+      },
+      "children": [
+        {
+          "code": "P39.0",
+          "kind": "category",
+          "label": "Infektiöse Mastitis beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Infektiöse Mastitis beim Neugeborenen",
+            "exclusion": "Nichtinfektiöse Mastitis beim NeugeborenenP83.4"
+          },
+          "children": []
+        },
+        {
+          "code": "P39.1",
+          "kind": "category",
+          "label": "Konjunktivitis und Dakryozystitis beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Konjunktivitis und Dakryozystitis beim Neugeborenen",
+            "inclusion": "Ophthalmia neonatorum o.n.A.",
+            "exclusion": "Konjunktivitis durch GonokokkenA54.3"
+          },
+          "children": []
+        },
+        {
+          "code": "P39.2",
+          "kind": "category",
+          "label": "Intraamniale Infektion des Fetus, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Intraamniale Infektion des Fetus, anderenorts nicht klassifiziert"
+          },
+          "children": []
+        },
+        {
+          "code": "P39.3",
+          "kind": "category",
+          "label": "Harnwegsinfektion beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Harnwegsinfektion beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P39.4",
+          "kind": "category",
+          "label": "Hautinfektion beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Hautinfektion beim Neugeborenen",
+            "inclusion": "Pyodermie beim Neugeborenen",
+            "exclusion": "Pemphigus neonatorumL00.-"
+          },
+          "children": []
+        },
+        {
+          "code": "P39.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Infektionen, die für die Perinatalperiode spezifisch sind",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Infektionen, die für die Perinatalperiode spezifisch sind"
+          },
+          "children": []
+        },
+        {
+          "code": "P39.9",
+          "kind": "category",
+          "label": "Infektion, die für die Perinatalperiode spezifisch ist, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Infektion, die für die Perinatalperiode spezifisch ist, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

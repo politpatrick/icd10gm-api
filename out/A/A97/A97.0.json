@@ -1,0 +1,10 @@
+{
+  "code": "A97.0",
+  "kind": "category",
+  "label": "Dengue ohne Warnzeichen",
+  "rubrics": {
+    "preferred": "Dengue ohne Warnzeichen",
+    "inclusion": "Hämorrhagisches Dengue-Fieber ohne Warnzeichen"
+  },
+  "children": []
+}

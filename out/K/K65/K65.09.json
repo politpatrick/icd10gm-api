@@ -1,0 +1,10 @@
+{
+  "code": "K65.09",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete akute Peritonitis",
+  "rubrics": {
+    "preferred": "Sonstige und nicht näher bezeichnete akute Peritonitis",
+    "inclusion": "Peritonitis (akut):\n\t\t\t\tsubphrenisch"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "N16.0",
+  "kind": "category",
+  "label": "Tubulointerstitielle Nierenkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+  "rubrics": {
+    "preferred": "Tubulointerstitielle Nierenkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+    "inclusion": "Tubulointerstitielle Nierenkrankheiten (durch) (bei):\n\t\t\t\tToxoplasmoseB58.8"
+  },
+  "children": []
+}

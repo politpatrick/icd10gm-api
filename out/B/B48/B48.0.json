@@ -1,0 +1,10 @@
+{
+  "code": "B48.0",
+  "kind": "category",
+  "label": "Lobomykose",
+  "rubrics": {
+    "preferred": "Lobomykose",
+    "inclusion": "Keloid-Blastomykose"
+  },
+  "children": []
+}

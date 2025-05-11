@@ -1,0 +1,434 @@
+{
+  "code": "O00-O08",
+  "kind": "block",
+  "label": "Schwangerschaft mit abortivem Ausgang",
+  "rubrics": {
+    "preferred": "Schwangerschaft mit abortivem Ausgang",
+    "note": "Soll das Vorliegen einer Blutgerinnungsstörung angegeben werden, ist bei Zuständen, die mit O00-O07 und O08.1 verschlüsselt werden, eine zusätzliche Schlüsselnummer D65-D69 zu benutzen.",
+    "exclusion": "Fortbestehen der Schwangerschaft bei Mehrlingsschwangerschaft nach Fehlgeburt eines oder mehrerer FetenO31.1"
+  },
+  "children": [
+    {
+      "code": "O00",
+      "kind": "category",
+      "label": "Extrauteringravidität",
+      "rubrics": {
+        "preferred": "Extrauteringravidität",
+        "inclusion": "Rupturierte Extrauteringravidität",
+        "coding-hint": "Soll eine begleitende Komplikation angegeben werden, ist zusätzlich eine Schlüsselnummer aus O08.- zu benutzen."
+      },
+      "children": [
+        {
+          "code": "O00.0",
+          "kind": "category",
+          "label": "Abdominalgravidität",
+          "rubrics": {
+            "preferred": "Abdominalgravidität",
+            "exclusion": "Betreuung der Mutter wegen eines lebensfähigen Fetus bei AbdominalgraviditätO36.7"
+          },
+          "children": []
+        },
+        {
+          "code": "O00.1",
+          "kind": "category",
+          "label": "Tubargravidität",
+          "rubrics": {
+            "preferred": "Tubargravidität",
+            "inclusion": "Tubenschwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O00.2",
+          "kind": "category",
+          "label": "Ovarialgravidität",
+          "rubrics": {
+            "preferred": "Ovarialgravidität"
+          },
+          "children": []
+        },
+        {
+          "code": "O00.8",
+          "kind": "category",
+          "label": "Sonstige Extrauteringravidität",
+          "rubrics": {
+            "preferred": "Sonstige Extrauteringravidität",
+            "inclusion": "Gravidität:\n\t\t\t\tzervikal"
+          },
+          "children": []
+        },
+        {
+          "code": "O00.9",
+          "kind": "category",
+          "label": "Extrauteringravidität, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Extrauteringravidität, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O01",
+      "kind": "category",
+      "label": "Blasenmole",
+      "rubrics": {
+        "preferred": "Blasenmole",
+        "coding-hint": "Soll eine begleitende Komplikation angegeben werden, ist zusätzlich eine Schlüsselnummer aus O08.- zu benutzen.",
+        "exclusion": "Maligne BlasenmoleD39.2"
+      },
+      "children": [
+        {
+          "code": "O01.0",
+          "kind": "category",
+          "label": "Klassische Blasenmole",
+          "rubrics": {
+            "preferred": "Klassische Blasenmole",
+            "inclusion": "Komplette Blasenmole"
+          },
+          "children": []
+        },
+        {
+          "code": "O01.1",
+          "kind": "category",
+          "label": "Partielle oder inkomplette Blasenmole",
+          "rubrics": {
+            "preferred": "Partielle oder inkomplette Blasenmole"
+          },
+          "children": []
+        },
+        {
+          "code": "O01.9",
+          "kind": "category",
+          "label": "Blasenmole, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Blasenmole, nicht näher bezeichnet",
+            "inclusion": "Trophoblastkrankheit o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O02",
+      "kind": "category",
+      "label": "Sonstige abnorme Konzeptionsprodukte",
+      "rubrics": {
+        "preferred": "Sonstige abnorme Konzeptionsprodukte",
+        "coding-hint": "Soll eine begleitende Komplikation angegeben werden, ist zusätzlich eine Schlüsselnummer aus O08.- zu benutzen.",
+        "exclusion": "Fetus papyraceusO31.0"
+      },
+      "children": [
+        {
+          "code": "O02.0",
+          "kind": "category",
+          "label": "Abortivei und sonstige Molen",
+          "rubrics": {
+            "preferred": "Abortivei und sonstige Molen",
+            "inclusion": "Pathologische Eizelle"
+          },
+          "children": []
+        },
+        {
+          "code": "O02.1",
+          "kind": "category",
+          "label": "Missed abortion [Verhaltene Fehlgeburt]",
+          "rubrics": {
+            "preferred": "Missed abortion [Verhaltene Fehlgeburt]",
+            "inclusion": "Früher Fetaltod mit Retention des toten Fetus",
+            "exclusion": "Missed abortion mit:\n\t\t\t\tMole:\n\t\t\t\tsonstigeO02.0"
+          },
+          "children": []
+        },
+        {
+          "code": "O02.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete abnorme Konzeptionsprodukte",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete abnorme Konzeptionsprodukte",
+            "exclusion": "Abnorme Konzeptionsprodukte mit:\n\t\t\t\tMole:\n\t\t\t\tsonstigeO02.0"
+          },
+          "children": []
+        },
+        {
+          "code": "O02.9",
+          "kind": "category",
+          "label": "Anomales Konzeptionsprodukt, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Anomales Konzeptionsprodukt, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O03",
+      "kind": "category",
+      "label": "Spontanabort",
+      "rubrics": {
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "preferred": "Spontanabort",
+        "inclusion": "Fehlgeburt"
+      },
+      "children": []
+    },
+    {
+      "code": "O04",
+      "kind": "category",
+      "label": "Ärztlich eingeleiteter Abort",
+      "rubrics": {
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "preferred": "Ärztlich eingeleiteter Abort",
+        "inclusion": "Therapeutischer Abort"
+      },
+      "children": []
+    },
+    {
+      "code": "O05",
+      "kind": "category",
+      "label": "Sonstiger Abort",
+      "rubrics": {
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "preferred": "Sonstiger Abort"
+      },
+      "children": []
+    },
+    {
+      "code": "O06",
+      "kind": "category",
+      "label": "Nicht näher bezeichneter Abort",
+      "rubrics": {
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "preferred": "Nicht näher bezeichneter Abort",
+        "inclusion": "Eingeleiteter Abort o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "O07",
+      "kind": "category",
+      "label": "Misslungene Aborteinleitung",
+      "rubrics": {
+        "preferred": "Misslungene Aborteinleitung",
+        "inclusion": "Misslungene Abortinduktion",
+        "exclusion": "Inkompletter AbortO03-O06"
+      },
+      "children": [
+        {
+          "code": "O07.0",
+          "kind": "category",
+          "label": "Misslungene ärztliche Aborteinleitung, kompliziert durch Infektion des Genitaltraktes und des Beckens",
+          "rubrics": {
+            "preferred": "Misslungene ärztliche Aborteinleitung, kompliziert durch Infektion des Genitaltraktes und des Beckens",
+            "inclusion": "Mit Zuständen, die unter O08.0 aufgeführt sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O07.1",
+          "kind": "category",
+          "label": "Misslungene ärztliche Aborteinleitung, kompliziert durch Spätblutung oder verstärkte Blutung",
+          "rubrics": {
+            "preferred": "Misslungene ärztliche Aborteinleitung, kompliziert durch Spätblutung oder verstärkte Blutung",
+            "inclusion": "Mit Zuständen, die unter O08.1 aufgeführt sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O07.2",
+          "kind": "category",
+          "label": "Misslungene ärztliche Aborteinleitung, kompliziert durch Embolie",
+          "rubrics": {
+            "preferred": "Misslungene ärztliche Aborteinleitung, kompliziert durch Embolie",
+            "inclusion": "Mit Zuständen, die unter O08.2 aufgeführt sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O07.3",
+          "kind": "category",
+          "label": "Misslungene ärztliche Aborteinleitung mit sonstigen oder nicht näher bezeichneten Komplikationen",
+          "rubrics": {
+            "preferred": "Misslungene ärztliche Aborteinleitung mit sonstigen oder nicht näher bezeichneten Komplikationen",
+            "inclusion": "Mit Zuständen, die unter O08.3-O08.9 aufgeführt sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O07.4",
+          "kind": "category",
+          "label": "Misslungene ärztliche Aborteinleitung ohne Komplikation",
+          "rubrics": {
+            "preferred": "Misslungene ärztliche Aborteinleitung ohne Komplikation",
+            "inclusion": "Misslungene ärztliche Aborteinleitung o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "O07.5",
+          "kind": "category",
+          "label": "Misslungene sonstige oder nicht näher bezeichnete Aborteinleitung, kompliziert durch Infektion des Genitaltraktes und des Beckens",
+          "rubrics": {
+            "preferred": "Misslungene sonstige oder nicht näher bezeichnete Aborteinleitung, kompliziert durch Infektion des Genitaltraktes und des Beckens",
+            "inclusion": "Mit Zuständen, die unter O08.0 aufgeführt sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O07.6",
+          "kind": "category",
+          "label": "Misslungene sonstige oder nicht näher bezeichnete Aborteinleitung, kompliziert durch Spätblutung oder verstärkte Blutung",
+          "rubrics": {
+            "preferred": "Misslungene sonstige oder nicht näher bezeichnete Aborteinleitung, kompliziert durch Spätblutung oder verstärkte Blutung",
+            "inclusion": "Mit Zuständen, die unter O08.1 aufgeführt sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O07.7",
+          "kind": "category",
+          "label": "Misslungene sonstige oder nicht näher bezeichnete Aborteinleitung, kompliziert durch Embolie",
+          "rubrics": {
+            "preferred": "Misslungene sonstige oder nicht näher bezeichnete Aborteinleitung, kompliziert durch Embolie",
+            "inclusion": "Mit Zuständen, die unter O08.2 aufgeführt sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O07.8",
+          "kind": "category",
+          "label": "Misslungene sonstige oder nicht näher bezeichnete Aborteinleitung mit sonstigen oder nicht näher bezeichneten Komplikationen",
+          "rubrics": {
+            "preferred": "Misslungene sonstige oder nicht näher bezeichnete Aborteinleitung mit sonstigen oder nicht näher bezeichneten Komplikationen",
+            "inclusion": "Mit Zuständen, die unter O08.3-O08.9 aufgeführt sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O07.9",
+          "kind": "category",
+          "label": "Misslungene sonstige oder nicht näher bezeichnete Aborteinleitung ohne Komplikation",
+          "rubrics": {
+            "preferred": "Misslungene sonstige oder nicht näher bezeichnete Aborteinleitung ohne Komplikation",
+            "inclusion": "Misslungener Abortversuch o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O08",
+      "kind": "category",
+      "label": "Komplikationen nach Abort, Extrauteringravidität und Molenschwangerschaft",
+      "rubrics": {
+        "preferred": "Komplikationen nach Abort, Extrauteringravidität und Molenschwangerschaft",
+        "note": "Diese Kategorie ist in erster Linie zur Verschlüsselung der Morbidität vorgesehen. Für den Gebrauch dieser Kategorie sollten die Regeln und Richtlinien zur Verschlüsselung der Morbidität und Mortalität in Band 2 (Regelwerk) herangezogen werden."
+      },
+      "children": [
+        {
+          "code": "O08.0",
+          "kind": "category",
+          "label": "Infektion des Genitaltraktes und des Beckens nach Abort, Extrauteringravidität und Molenschwangerschaft",
+          "rubrics": {
+            "preferred": "Infektion des Genitaltraktes und des Beckens nach Abort, Extrauteringravidität und Molenschwangerschaft",
+            "inclusion": "Sepsis\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind",
+            "coding-hint": "Soll das Vorliegen eines septischen Schocks angegeben werden, ist eine zusätzliche Schlüsselnummer (R57.2) zu benutzen.",
+            "exclusion": "Septische oder septikopyämische Embolie O08.2"
+          },
+          "children": []
+        },
+        {
+          "code": "O08.1",
+          "kind": "category",
+          "label": "Spätblutung oder verstärkte Blutung nach Abort, Extrauteringravidität und Molenschwangerschaft",
+          "rubrics": {
+            "preferred": "Spätblutung oder verstärkte Blutung nach Abort, Extrauteringravidität und Molenschwangerschaft",
+            "inclusion": "Intravasale Gerinnung\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O08.2",
+          "kind": "category",
+          "label": "Embolie nach Abort, Extrauteringravidität und Molenschwangerschaft",
+          "rubrics": {
+            "preferred": "Embolie nach Abort, Extrauteringravidität und Molenschwangerschaft",
+            "inclusion": "Embolie:\n\t\t\t\to.n.A.\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O08.3",
+          "kind": "category",
+          "label": "Schock nach Abort, Extrauteringravidität und Molenschwangerschaft",
+          "rubrics": {
+            "preferred": "Schock nach Abort, Extrauteringravidität und Molenschwangerschaft",
+            "inclusion": "Schock (postoperativ)\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind",
+            "exclusion": "Septischer SchockR57.2"
+          },
+          "children": []
+        },
+        {
+          "code": "O08.4",
+          "kind": "category",
+          "label": "Niereninsuffizienz nach Abort, Extrauteringravidität und Molenschwangerschaft",
+          "rubrics": {
+            "preferred": "Niereninsuffizienz nach Abort, Extrauteringravidität und Molenschwangerschaft",
+            "inclusion": "Urämie\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind",
+            "coding-hint": "Soll das Stadium des akuten Nierenversagens angegeben werden, ist eine zusätzliche Schlüsselnummer aus N17.- zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "O08.5",
+          "kind": "category",
+          "label": "Stoffwechselstörungen nach Abort, Extrauteringravidität und Molenschwangerschaft",
+          "rubrics": {
+            "preferred": "Stoffwechselstörungen nach Abort, Extrauteringravidität und Molenschwangerschaft",
+            "inclusion": "Störungen des Elektrolythaushaltes nach Zuständen, die unter O00-O07 klassifizierbar sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O08.6",
+          "kind": "category",
+          "label": "Verletzung von Beckenorganen und -geweben nach Abort, Extrauteringravidität und Molenschwangerschaft",
+          "rubrics": {
+            "preferred": "Verletzung von Beckenorganen und -geweben nach Abort, Extrauteringravidität und Molenschwangerschaft",
+            "inclusion": "Lazeration, Perforation, Riss oder chemische Verätzung:\n\t\t\t\tUterus\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O08.7",
+          "kind": "category",
+          "label": "Sonstige Venenkrankheiten als Komplikation nach Abort, Extrauteringravidität und Molenschwangerschaft",
+          "rubrics": {
+            "preferred": "Sonstige Venenkrankheiten als Komplikation nach Abort, Extrauteringravidität und Molenschwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O08.8",
+          "kind": "category",
+          "label": "Sonstige Komplikationen nach Abort, Extrauteringravidität und Molenschwangerschaft",
+          "rubrics": {
+            "preferred": "Sonstige Komplikationen nach Abort, Extrauteringravidität und Molenschwangerschaft",
+            "inclusion": "Herzstillstand\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind"
+          },
+          "children": []
+        },
+        {
+          "code": "O08.9",
+          "kind": "category",
+          "label": "Komplikation nach Abort, Extrauteringravidität und Molenschwangerschaft, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Komplikation nach Abort, Extrauteringravidität und Molenschwangerschaft, nicht näher bezeichnet",
+            "inclusion": "Nicht näher bezeichnete Komplikation nach Zuständen, die unter O00-O07 klassifizierbar sind"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

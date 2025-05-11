@@ -1,0 +1,101 @@
+{
+  "code": "U32",
+  "kind": "category",
+  "label": "Nicht belegte Schlüsselnummern U32.-",
+  "rubrics": {
+    "preferred": "Nicht belegte Schlüsselnummern U32.-",
+    "note": "Die Verwendung der Schlüsselnummern U00-U49 ist der WHO vorbehalten, um eine provisorische Zuordnung von Krankheiten unklarer Genese zu ermöglichen. Im Bedarfsfall können notwendige Schlüsselnummern in EDV-Systemen nicht immer ad hoc bereitgestellt werden. Die vorliegende Spezifikation der Kategorie U32.- stellt sicher, dass diese Kategorie und die Subkategorien in EDV-Systemen jederzeit verfügbar sind und ihre Nutzung, nach Vorgabe durch die WHO, umgehend erfolgen kann."
+  },
+  "children": [
+    {
+      "code": "U32.0",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U32.0",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U32.0"
+      },
+      "children": []
+    },
+    {
+      "code": "U32.1",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U32.1",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U32.1"
+      },
+      "children": []
+    },
+    {
+      "code": "U32.2",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U32.2",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U32.2"
+      },
+      "children": []
+    },
+    {
+      "code": "U32.3",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U32.3",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U32.3"
+      },
+      "children": []
+    },
+    {
+      "code": "U32.4",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U32.4",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U32.4"
+      },
+      "children": []
+    },
+    {
+      "code": "U32.5",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U32.5",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U32.5"
+      },
+      "children": []
+    },
+    {
+      "code": "U32.6",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U32.6",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U32.6"
+      },
+      "children": []
+    },
+    {
+      "code": "U32.7",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U32.7",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U32.7"
+      },
+      "children": []
+    },
+    {
+      "code": "U32.8",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U32.8",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U32.8"
+      },
+      "children": []
+    },
+    {
+      "code": "U32.9",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U32.9",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U32.9"
+      },
+      "children": []
+    }
+  ]
+}

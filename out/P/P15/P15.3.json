@@ -1,0 +1,10 @@
+{
+  "code": "P15.3",
+  "kind": "category",
+  "label": "Geburtsverletzung des Auges",
+  "rubrics": {
+    "preferred": "Geburtsverletzung des Auges",
+    "inclusion": "Traumatisches Glaukom\n\t\t\t\tdurch Geburtsverletzung"
+  },
+  "children": []
+}

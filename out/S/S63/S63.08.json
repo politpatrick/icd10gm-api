@@ -1,0 +1,10 @@
+{
+  "code": "S63.08",
+  "kind": "category",
+  "label": "Sonstige",
+  "rubrics": {
+    "preferredLong": "Luxation des Handgelenkes: Sonstige",
+    "preferred": "Sonstige"
+  },
+  "children": []
+}

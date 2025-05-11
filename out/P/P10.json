@@ -1,0 +1,76 @@
+{
+  "code": "P10",
+  "kind": "category",
+  "label": "Intrakranielle Verletzung und Blutung durch Geburtsverletzung",
+  "rubrics": {
+    "preferred": "Intrakranielle Verletzung und Blutung durch Geburtsverletzung",
+    "exclusion": "Intrakranielle (nichttraumatische) Blutung beim Fetus oder Neugeborenen:\n\t\t\t\to.n.A.P52.9"
+  },
+  "children": [
+    {
+      "code": "P10.0",
+      "kind": "category",
+      "label": "Subdurale Blutung durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Subdurale Blutung durch Geburtsverletzung",
+        "inclusion": "Subdurales Hämatom (lokalisiert) durch Geburtsverletzung",
+        "exclusion": "Subdurale Blutung bei TentoriumrissP10.4"
+      },
+      "children": []
+    },
+    {
+      "code": "P10.1",
+      "kind": "category",
+      "label": "Zerebrale Blutung durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Zerebrale Blutung durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P10.2",
+      "kind": "category",
+      "label": "Intraventrikuläre Blutung durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Intraventrikuläre Blutung durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P10.3",
+      "kind": "category",
+      "label": "Subarachnoidale Blutung durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Subarachnoidale Blutung durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P10.4",
+      "kind": "category",
+      "label": "Tentoriumriss durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Tentoriumriss durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P10.8",
+      "kind": "category",
+      "label": "Sonstige intrakranielle Verletzungen und Blutungen durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Sonstige intrakranielle Verletzungen und Blutungen durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P10.9",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete intrakranielle Verletzung und Blutung durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete intrakranielle Verletzung und Blutung durch Geburtsverletzung"
+      },
+      "children": []
+    }
+  ]
+}

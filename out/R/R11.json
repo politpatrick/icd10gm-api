@@ -1,0 +1,10 @@
+{
+  "code": "R11",
+  "kind": "category",
+  "label": "Übelkeit und Erbrechen",
+  "rubrics": {
+    "preferred": "Übelkeit und Erbrechen",
+    "exclusion": "Hämatemesis beim NeugeborenenP54.0"
+  },
+  "children": []
+}

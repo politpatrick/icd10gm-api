@@ -1,0 +1,78 @@
+{
+  "code": "F81",
+  "kind": "category",
+  "label": "Umschriebene Entwicklungsstörungen schulischer Fertigkeiten",
+  "rubrics": {
+    "preferred": "Umschriebene Entwicklungsstörungen schulischer Fertigkeiten",
+    "definition": "Es handelt sich um Störungen, bei denen die normalen Muster des Fertigkeitserwerbs von frühen Entwicklungsstadien an gestört sind. Dies ist nicht einfach Folge eines Mangels an Gelegenheit zu lernen; es ist auch nicht allein als Folge einer Intelligenzminderung oder irgendeiner erworbenen Hirnschädigung oder -krankheit aufzufassen."
+  },
+  "children": [
+    {
+      "code": "F81.0",
+      "kind": "category",
+      "label": "Lese- und Rechtschreibstörung",
+      "rubrics": {
+        "preferred": "Lese- und Rechtschreibstörung",
+        "definition": "Das Hauptmerkmal ist eine umschriebene und bedeutsame Beeinträchtigung in der Entwicklung der Lesefertigkeiten, die nicht allein durch das Entwicklungsalter, Visusprobleme oder unangemessene Beschulung erklärbar ist. Das Leseverständnis, die Fähigkeit, gelesene Worte wieder zu erkennen, vorzulesen und Leistungen, für welche Lesefähigkeit nötig ist, können sämtlich betroffen sein. Bei umschriebenen Lesestörungen sind Rechtschreibstörungen häufig und persistieren oft bis in die Adoleszenz, auch wenn einige Fortschritte im Lesen gemacht werden. Umschriebenen Entwicklungsstörungen des Lesens gehen Entwicklungsstörungen des Sprechens oder der Sprache voraus. Während der Schulzeit sind begleitende Störungen im emotionalen und Verhaltensbereich häufig.",
+        "inclusion": "\"Leserückstand\"",
+        "exclusion": "Leseverzögerung infolge emotionaler StörungF93.-"
+      },
+      "children": []
+    },
+    {
+      "code": "F81.1",
+      "kind": "category",
+      "label": "Isolierte Rechtschreibstörung",
+      "rubrics": {
+        "preferred": "Isolierte Rechtschreibstörung",
+        "definition": "Es handelt sich um eine Störung, deren Hauptmerkmal in einer umschriebenen und bedeutsamen Beeinträchtigung der Entwicklung von Rechtschreibfertigkeiten besteht, ohne Vorgeschichte einer Lesestörung. Sie ist nicht allein durch ein zu niedriges Intelligenzalter, durch Visusprobleme oder unangemessene Beschulung erklärbar. Die Fähigkeiten, mündlich zu buchstabieren und Wörter korrekt zu schreiben, sind beide betroffen.",
+        "inclusion": "Umschriebene Verzögerung der Rechtschreibfähigkeit (ohne Lesestörung)",
+        "exclusion": "Rechtschreibschwierigkeiten:\n\t\t\t\tmit LesestörungF81.0"
+      },
+      "children": []
+    },
+    {
+      "code": "F81.2",
+      "kind": "category",
+      "label": "Rechenstörung",
+      "rubrics": {
+        "preferred": "Rechenstörung",
+        "definition": "Diese Störung besteht in einer umschriebenen Beeinträchtigung von Rechenfertigkeiten, die nicht allein durch eine allgemeine Intelligenzminderung oder eine unangemessene Beschulung erklärbar ist. Das Defizit betrifft vor allem die Beherrschung grundlegender Rechenfertigkeiten, wie Addition, Subtraktion, Multiplikation und Division, weniger die höheren mathematischen Fertigkeiten, die für Algebra, Trigonometrie, Geometrie oder Differential- und Integralrechnung benötigt werden.",
+        "inclusion": "Entwicklungs-Akalkulie",
+        "exclusion": "Rechenschwierigkeiten, hauptsächlich durch inadäquaten UnterrichtZ55"
+      },
+      "children": []
+    },
+    {
+      "code": "F81.3",
+      "kind": "category",
+      "label": "Kombinierte Störungen schulischer Fertigkeiten",
+      "rubrics": {
+        "preferred": "Kombinierte Störungen schulischer Fertigkeiten",
+        "definition": "Dies ist eine schlecht definierte Restkategorie für Störungen mit deutlicher Beeinträchtigung der Rechen-, der Lese- und der Rechtschreibfähigkeiten. Die Störung ist jedoch nicht allein durch eine allgemeine Intelligenzminderung oder eine unangemessene Beschulung erklärbar. Sie soll für Störungen verwendet werden, die die Kriterien für F81.2 und F81.0 oder F81.1 erfüllen.",
+        "exclusion": "RechenstörungF81.2"
+      },
+      "children": []
+    },
+    {
+      "code": "F81.8",
+      "kind": "category",
+      "label": "Sonstige Entwicklungsstörungen schulischer Fertigkeiten",
+      "rubrics": {
+        "preferred": "Sonstige Entwicklungsstörungen schulischer Fertigkeiten",
+        "inclusion": "Entwicklungsbedingte expressive Schreibstörung"
+      },
+      "children": []
+    },
+    {
+      "code": "F81.9",
+      "kind": "category",
+      "label": "Entwicklungsstörung schulischer Fertigkeiten, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Entwicklungsstörung schulischer Fertigkeiten, nicht näher bezeichnet",
+        "inclusion": "Störung des Wissenserwerbs o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

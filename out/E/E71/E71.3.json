@@ -1,0 +1,11 @@
+{
+  "code": "E71.3",
+  "kind": "category",
+  "label": "Störungen des Fettsäurestoffwechsels",
+  "rubrics": {
+    "preferred": "Störungen des Fettsäurestoffwechsels",
+    "inclusion": "Mangel an sehr langkettiger Acyl-CoA-Dehydrogenase",
+    "exclusion": "Schilder-KrankheitG37.0"
+  },
+  "children": []
+}

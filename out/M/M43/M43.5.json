@@ -1,0 +1,10 @@
+{
+  "code": "M43.5",
+  "kind": "category",
+  "label": "Sonstige habituelle Wirbelsubluxation",
+  "rubrics": {
+    "preferred": "Sonstige habituelle Wirbelsubluxation",
+    "exclusion": "Biomechanische Funktionsstörungen, anderenorts nicht klassifiziertM99.-"
+  },
+  "children": []
+}

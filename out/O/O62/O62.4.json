@@ -1,0 +1,11 @@
+{
+  "code": "O62.4",
+  "kind": "category",
+  "label": "Hypertone, unkoordinierte und anhaltende Uteruskontraktionen",
+  "rubrics": {
+    "preferred": "Hypertone, unkoordinierte und anhaltende Uteruskontraktionen",
+    "inclusion": "Uterine Dystokie o.n.A.",
+    "exclusion": "Dystokie (fetal) (mütterlich) o.n.A.O66.9"
+  },
+  "children": []
+}

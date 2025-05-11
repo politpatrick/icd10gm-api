@@ -1,0 +1,112 @@
+{
+  "code": "T59",
+  "kind": "category",
+  "label": "Toxische Wirkung sonstiger Gase, Dämpfe oder sonstigen Rauches",
+  "rubrics": {
+    "preferred": "Toxische Wirkung sonstiger Gase, Dämpfe oder sonstigen Rauches",
+    "inclusion": "Aerosol-Treibgase",
+    "exclusion": "FluorchlorkohlenwasserstoffeT53.5"
+  },
+  "children": [
+    {
+      "code": "T59.0",
+      "kind": "category",
+      "label": "Stickstoffoxide",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Stickstoffoxide",
+        "preferred": "Stickstoffoxide"
+      },
+      "children": []
+    },
+    {
+      "code": "T59.1",
+      "kind": "category",
+      "label": "Schwefeldioxid",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Schwefeldioxid",
+        "preferred": "Schwefeldioxid"
+      },
+      "children": []
+    },
+    {
+      "code": "T59.2",
+      "kind": "category",
+      "label": "Formaldehyd",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Formaldehyd",
+        "preferred": "Formaldehyd"
+      },
+      "children": []
+    },
+    {
+      "code": "T59.3",
+      "kind": "category",
+      "label": "Tränengas",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Tränengas",
+        "preferred": "Tränengas"
+      },
+      "children": []
+    },
+    {
+      "code": "T59.4",
+      "kind": "category",
+      "label": "Chlorgas",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Chlorgas",
+        "preferred": "Chlorgas"
+      },
+      "children": []
+    },
+    {
+      "code": "T59.5",
+      "kind": "category",
+      "label": "Fluorgas und Fluorwasserstoff",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Fluorgas und Fluorwasserstoff",
+        "preferred": "Fluorgas und Fluorwasserstoff"
+      },
+      "children": []
+    },
+    {
+      "code": "T59.6",
+      "kind": "category",
+      "label": "Schwefelwasserstoff",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Schwefelwasserstoff",
+        "preferred": "Schwefelwasserstoff"
+      },
+      "children": []
+    },
+    {
+      "code": "T59.7",
+      "kind": "category",
+      "label": "Kohlendioxid",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Kohlendioxid",
+        "preferred": "Kohlendioxid"
+      },
+      "children": []
+    },
+    {
+      "code": "T59.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Gase, Dämpfe oder sonstiger näher bezeichneter Rauch",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Sonstige näher bezeichnete Gase, Dämpfe oder sonstiger näher bezeichneter Rauch",
+        "preferred": "Sonstige näher bezeichnete Gase, Dämpfe oder sonstiger näher bezeichneter Rauch"
+      },
+      "children": []
+    },
+    {
+      "code": "T59.9",
+      "kind": "category",
+      "label": "Gase, Dämpfe oder Rauch, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Gase, Dämpfe oder Rauch, nicht näher bezeichnet",
+        "preferred": "Gase, Dämpfe oder Rauch, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "K87.1",
+  "kind": "category",
+  "label": "Krankheiten des Pankreas bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten des Pankreas bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Pankreatitis bei ZytomegalieB25.2"
+  },
+  "children": []
+}

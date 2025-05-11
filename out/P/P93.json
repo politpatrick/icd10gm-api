@@ -1,0 +1,11 @@
+{
+  "code": "P93",
+  "kind": "category",
+  "label": "Reaktionen und Intoxikationen durch Arzneimittel oder Drogen, die dem Fetus und Neugeborenen verabreicht wurden",
+  "rubrics": {
+    "preferred": "Reaktionen und Intoxikationen durch Arzneimittel oder Drogen, die dem Fetus und Neugeborenen verabreicht wurden",
+    "inclusion": "Grey-Syndrom beim Neugeborenen durch Chloramphenicolgabe",
+    "exclusion": "Reaktionen und Intoxikationen durch Opiate, Tranquilizer und andere Arzneimittel, die der Mutter verabreicht oder von ihr eingenommen wurdenP04.0-P04.1P04.4"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D80.8",
+  "kind": "category",
+  "label": "Sonstige Immundefekte mit vorherrschendem Antikörpermangel",
+  "rubrics": {
+    "preferred": "Sonstige Immundefekte mit vorherrschendem Antikörpermangel",
+    "inclusion": "Kappa-Leichtketten-Defekt"
+  },
+  "children": []
+}

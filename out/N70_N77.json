@@ -1,0 +1,495 @@
+{
+  "code": "N70-N77",
+  "kind": "block",
+  "label": "Entzündliche Krankheiten der weiblichen Beckenorgane",
+  "rubrics": {
+    "preferred": "Entzündliche Krankheiten der weiblichen Beckenorgane",
+    "exclusion": "Als Komplikation bei:\n\t\t\t\tSchwangerschaft, Geburt und WochenbettO23.-O75.3O85O86.-"
+  },
+  "children": [
+    {
+      "code": "N70",
+      "kind": "category",
+      "label": "Salpingitis und Oophoritis",
+      "rubrics": {
+        "preferred": "Salpingitis und Oophoritis",
+        "inclusion": "Tuboovarialentzündung",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+      },
+      "children": [
+        {
+          "code": "N70.0",
+          "kind": "category",
+          "label": "Akute Salpingitis und Oophoritis",
+          "rubrics": {
+            "preferred": "Akute Salpingitis und Oophoritis"
+          },
+          "children": []
+        },
+        {
+          "code": "N70.1",
+          "kind": "category",
+          "label": "Chronische Salpingitis und Oophoritis",
+          "rubrics": {
+            "preferred": "Chronische Salpingitis und Oophoritis",
+            "inclusion": "Hydrosalpinx"
+          },
+          "children": []
+        },
+        {
+          "code": "N70.9",
+          "kind": "category",
+          "label": "Salpingitis und Oophoritis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Salpingitis und Oophoritis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N71",
+      "kind": "category",
+      "label": "Entzündliche Krankheit des Uterus, ausgenommen der Zervix",
+      "rubrics": {
+        "preferred": "Entzündliche Krankheit des Uterus, ausgenommen der Zervix",
+        "inclusion": "Uterusabszess",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+      },
+      "children": [
+        {
+          "code": "N71.0",
+          "kind": "category",
+          "label": "Akute entzündliche Krankheit des Uterus, ausgenommen der Zervix",
+          "rubrics": {
+            "preferred": "Akute entzündliche Krankheit des Uterus, ausgenommen der Zervix"
+          },
+          "children": []
+        },
+        {
+          "code": "N71.1",
+          "kind": "category",
+          "label": "Chronische entzündliche Krankheit des Uterus, ausgenommen der Zervix",
+          "rubrics": {
+            "preferred": "Chronische entzündliche Krankheit des Uterus, ausgenommen der Zervix"
+          },
+          "children": []
+        },
+        {
+          "code": "N71.9",
+          "kind": "category",
+          "label": "Entzündliche Krankheit des Uterus, ausgenommen der Zervix, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Entzündliche Krankheit des Uterus, ausgenommen der Zervix, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N72",
+      "kind": "category",
+      "label": "Entzündliche Krankheit der Cervix uteri",
+      "rubrics": {
+        "preferred": "Entzündliche Krankheit der Cervix uteri",
+        "inclusion": "Zervizitis\n\t\t\t\tmit oder ohne Erosion oder Ektropium",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+        "exclusion": "Erosion und Ektropium der Cervix uteri ohne ZervizitisN86"
+      },
+      "children": []
+    },
+    {
+      "code": "N73",
+      "kind": "category",
+      "label": "Sonstige entzündliche Krankheiten im weiblichen Becken",
+      "rubrics": {
+        "preferred": "Sonstige entzündliche Krankheiten im weiblichen Becken",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+      },
+      "children": [
+        {
+          "code": "N73.0",
+          "kind": "category",
+          "label": "Akute Parametritis und Entzündung des Beckenbindegewebes",
+          "rubrics": {
+            "preferred": "Akute Parametritis und Entzündung des Beckenbindegewebes",
+            "inclusion": "Bindegewebsentzündung im weiblichen Becken\n\t\t\t\tals akut bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "N73.1",
+          "kind": "category",
+          "label": "Chronische Parametritis und Entzündung des Beckenbindegewebes",
+          "rubrics": {
+            "preferred": "Chronische Parametritis und Entzündung des Beckenbindegewebes",
+            "inclusion": "Jeder Zustand unter N73.0, als chronisch bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "N73.2",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Parametritis und Entzündung des Beckenbindegewebes",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Parametritis und Entzündung des Beckenbindegewebes",
+            "inclusion": "Jeder Zustand unter N73.0 ohne Angabe, ob akut oder chronisch"
+          },
+          "children": []
+        },
+        {
+          "code": "N73.3",
+          "kind": "category",
+          "label": "Akute Pelveoperitonitis bei der Frau",
+          "rubrics": {
+            "preferred": "Akute Pelveoperitonitis bei der Frau"
+          },
+          "children": []
+        },
+        {
+          "code": "N73.4",
+          "kind": "category",
+          "label": "Chronische Pelveoperitonitis bei der Frau",
+          "rubrics": {
+            "preferred": "Chronische Pelveoperitonitis bei der Frau"
+          },
+          "children": []
+        },
+        {
+          "code": "N73.5",
+          "kind": "category",
+          "label": "Pelveoperitonitis bei der Frau, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Pelveoperitonitis bei der Frau, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "N73.6",
+          "kind": "category",
+          "label": "Peritoneale Adhäsionen im weiblichen Becken",
+          "rubrics": {
+            "preferred": "Peritoneale Adhäsionen im weiblichen Becken",
+            "exclusion": "Peritoneale Adhäsionen im Becken nach medizinischen MaßnahmenN99.4"
+          },
+          "children": []
+        },
+        {
+          "code": "N73.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete entzündliche Krankheiten im weiblichen Becken",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete entzündliche Krankheiten im weiblichen Becken"
+          },
+          "children": []
+        },
+        {
+          "code": "N73.9",
+          "kind": "category",
+          "label": "Entzündliche Krankheit im weiblichen Becken, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Entzündliche Krankheit im weiblichen Becken, nicht näher bezeichnet",
+            "inclusion": "Infektion oder Entzündung im weiblichen Becken o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N74",
+      "kind": "category",
+      "label": "Entzündung im weiblichen Becken bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Entzündung im weiblichen Becken bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "N74.0",
+          "kind": "category",
+          "label": "Tuberkulöse Infektion der Cervix uteriA18.1",
+          "rubrics": {
+            "preferred": "Tuberkulöse Infektion der Cervix uteriA18.1"
+          },
+          "children": []
+        },
+        {
+          "code": "N74.1",
+          "kind": "category",
+          "label": "Tuberkulöse Entzündung im weiblichen BeckenA18.1",
+          "rubrics": {
+            "preferred": "Tuberkulöse Entzündung im weiblichen BeckenA18.1",
+            "inclusion": "Tuberkulöse Endometritis"
+          },
+          "children": []
+        },
+        {
+          "code": "N74.2",
+          "kind": "category",
+          "label": "Syphilitische Entzündung im weiblichen BeckenA51.4A52.7",
+          "rubrics": {
+            "preferred": "Syphilitische Entzündung im weiblichen BeckenA51.4A52.7"
+          },
+          "children": []
+        },
+        {
+          "code": "N74.3",
+          "kind": "category",
+          "label": "Entzündung im weiblichen Becken durch GonokokkenA54.2",
+          "rubrics": {
+            "preferred": "Entzündung im weiblichen Becken durch GonokokkenA54.2"
+          },
+          "children": []
+        },
+        {
+          "code": "N74.4",
+          "kind": "category",
+          "label": "Entzündung im weiblichen Becken durch ChlamydienA56.1",
+          "rubrics": {
+            "preferred": "Entzündung im weiblichen Becken durch ChlamydienA56.1"
+          },
+          "children": []
+        },
+        {
+          "code": "N74.8",
+          "kind": "category",
+          "label": "Entzündung im weiblichen Becken bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Entzündung im weiblichen Becken bei sonstigen anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N75",
+      "kind": "category",
+      "label": "Krankheiten der Bartholin-Drüsen",
+      "rubrics": {
+        "preferred": "Krankheiten der Bartholin-Drüsen"
+      },
+      "children": [
+        {
+          "code": "N75.0",
+          "kind": "category",
+          "label": "Bartholin-Zyste",
+          "rubrics": {
+            "preferred": "Bartholin-Zyste"
+          },
+          "children": []
+        },
+        {
+          "code": "N75.1",
+          "kind": "category",
+          "label": "Bartholin-Abszess",
+          "rubrics": {
+            "preferred": "Bartholin-Abszess"
+          },
+          "children": []
+        },
+        {
+          "code": "N75.8",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Bartholin-Drüsen",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Bartholin-Drüsen",
+            "inclusion": "Bartholinitis"
+          },
+          "children": []
+        },
+        {
+          "code": "N75.9",
+          "kind": "category",
+          "label": "Krankheit der Bartholin-Drüsen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der Bartholin-Drüsen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N76",
+      "kind": "category",
+      "label": "Sonstige entzündliche Krankheit der Vagina und Vulva",
+      "rubrics": {
+        "preferred": "Sonstige entzündliche Krankheit der Vagina und Vulva",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+        "exclusion": "Senile (atrophische) KolpitisN95.2"
+      },
+      "children": [
+        {
+          "code": "N76.0",
+          "kind": "category",
+          "label": "Akute Kolpitis",
+          "rubrics": {
+            "preferred": "Akute Kolpitis",
+            "inclusion": "Vulvovaginitis:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "N76.1",
+          "kind": "category",
+          "label": "Subakute und chronische Kolpitis",
+          "rubrics": {
+            "preferred": "Subakute und chronische Kolpitis",
+            "inclusion": "Vulvovaginitis:\n\t\t\t\tsubakut"
+          },
+          "children": []
+        },
+        {
+          "code": "N76.2",
+          "kind": "category",
+          "label": "Akute Vulvitis",
+          "rubrics": {
+            "preferred": "Akute Vulvitis",
+            "inclusion": "Vulvitis o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "N76.3",
+          "kind": "category",
+          "label": "Subakute und chronische Vulvitis",
+          "rubrics": {
+            "preferred": "Subakute und chronische Vulvitis"
+          },
+          "children": []
+        },
+        {
+          "code": "N76.4",
+          "kind": "category",
+          "label": "Abszess der Vulva",
+          "rubrics": {
+            "preferred": "Abszess der Vulva",
+            "inclusion": "Furunkel der Vulva"
+          },
+          "children": []
+        },
+        {
+          "code": "N76.5",
+          "kind": "category",
+          "label": "Ulzeration der Vagina",
+          "rubrics": {
+            "preferred": "Ulzeration der Vagina"
+          },
+          "children": []
+        },
+        {
+          "code": "N76.6",
+          "kind": "category",
+          "label": "Ulzeration der Vulva",
+          "rubrics": {
+            "preferred": "Ulzeration der Vulva"
+          },
+          "children": []
+        },
+        {
+          "code": "N76.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva"
+          },
+          "children": [
+            {
+              "code": "N76.80",
+              "kind": "category",
+              "label": "Fournier-Gangrän bei der Frau",
+              "rubrics": {
+                "preferred": "Fournier-Gangrän bei der Frau"
+              },
+              "children": []
+            },
+            {
+              "code": "N76.88",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "N77",
+      "kind": "category",
+      "label": "Vulvovaginale Ulzeration und Entzündung bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Vulvovaginale Ulzeration und Entzündung bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "N77.0",
+          "kind": "category",
+          "label": "Ulzeration der Vulva bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+          "rubrics": {
+            "preferred": "Ulzeration der Vulva bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+            "inclusion": "Ulzeration der Vulva bei:\n\t\t\t\tTuberkuloseA18.1"
+          },
+          "children": []
+        },
+        {
+          "code": "N77.1",
+          "kind": "category",
+          "label": "Vaginitis, Vulvitis oder Vulvovaginitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+          "rubrics": {
+            "preferred": "Vaginitis, Vulvitis oder Vulvovaginitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+            "inclusion": "Vaginitis, Vulvitis und Vulvovaginitis bei:\n\t\t\t\tInfektion durch Herpesviren [Herpes simplex]A60.0"
+          },
+          "children": []
+        },
+        {
+          "code": "N77.2",
+          "kind": "category",
+          "label": "Vulvovaginale Ulzerationen und Entzündungen bei der chronischer Graft-versus-Host-Krankheit",
+          "rubrics": {
+            "preferred": "Vulvovaginale Ulzerationen und Entzündungen bei der chronischer Graft-versus-Host-Krankheit"
+          },
+          "children": [
+            {
+              "code": "N77.21",
+              "kind": "category",
+              "label": "Stadium 1 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.05T86.06",
+              "rubrics": {
+                "preferred": "Stadium 1 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.05T86.06"
+              },
+              "children": []
+            },
+            {
+              "code": "N77.22",
+              "kind": "category",
+              "label": "Stadium 2 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.06",
+              "rubrics": {
+                "preferred": "Stadium 2 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.06"
+              },
+              "children": []
+            },
+            {
+              "code": "N77.23",
+              "kind": "category",
+              "label": "Stadium 3 der chronischen Vulvovaginal-Graft-versus-Host-KrankheitT86.07",
+              "rubrics": {
+                "preferred": "Stadium 3 der chronischen Vulvovaginal-Graft-versus-Host-KrankheitT86.07"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N77.8",
+          "kind": "category",
+          "label": "Vulvovaginale Ulzeration und Entzündung bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Vulvovaginale Ulzeration und Entzündung bei sonstigen anderenorts klassifizierten Krankheiten",
+            "inclusion": "Ulzeration der Vulva bei Behçet-KrankheitM35.2"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

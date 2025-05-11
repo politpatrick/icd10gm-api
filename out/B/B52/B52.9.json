@@ -1,0 +1,10 @@
+{
+  "code": "B52.9",
+  "kind": "category",
+  "label": "Malaria quartana ohne Komplikation",
+  "rubrics": {
+    "preferred": "Malaria quartana ohne Komplikation",
+    "inclusion": "Malaria quartana o.n.A."
+  },
+  "children": []
+}

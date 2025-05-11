@@ -1,0 +1,10 @@
+{
+  "code": "J21.9",
+  "kind": "category",
+  "label": "Akute Bronchiolitis, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Akute Bronchiolitis, nicht näher bezeichnet",
+    "inclusion": "Bronchiolitis (akut)"
+  },
+  "children": []
+}

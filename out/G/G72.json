@@ -1,0 +1,96 @@
+{
+  "code": "G72",
+  "kind": "category",
+  "label": "Sonstige Myopathien",
+  "rubrics": {
+    "preferred": "Sonstige Myopathien",
+    "exclusion": "PolymyositisM33.2"
+  },
+  "children": [
+    {
+      "code": "G72.0",
+      "kind": "category",
+      "label": "Arzneimittelinduzierte Myopathie",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierte Myopathie",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "G72.1",
+      "kind": "category",
+      "label": "Alkoholmyopathie",
+      "rubrics": {
+        "preferred": "Alkoholmyopathie"
+      },
+      "children": []
+    },
+    {
+      "code": "G72.2",
+      "kind": "category",
+      "label": "Myopathie durch sonstige toxische Agenzien",
+      "rubrics": {
+        "preferred": "Myopathie durch sonstige toxische Agenzien",
+        "coding-hint": "Soll das toxische Agens angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "G72.3",
+      "kind": "category",
+      "label": "Periodische Lähmung",
+      "rubrics": {
+        "preferred": "Periodische Lähmung",
+        "inclusion": "Periodische Lähmung (familiär):\n\t\t\t\tnormokaliämisch"
+      },
+      "children": []
+    },
+    {
+      "code": "G72.4",
+      "kind": "category",
+      "label": "Entzündliche Myopathie, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Entzündliche Myopathie, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "G72.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Myopathien",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Myopathien"
+      },
+      "children": [
+        {
+          "code": "G72.80",
+          "kind": "category",
+          "label": "Critical-illness-Myopathie",
+          "rubrics": {
+            "preferred": "Critical-illness-Myopathie"
+          },
+          "children": []
+        },
+        {
+          "code": "G72.88",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Myopathien",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Myopathien"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G72.9",
+      "kind": "category",
+      "label": "Myopathie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Myopathie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

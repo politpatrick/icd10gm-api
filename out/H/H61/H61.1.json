@@ -1,0 +1,11 @@
+{
+  "code": "H61.1",
+  "kind": "category",
+  "label": "Nichtinfektiöse Krankheiten der Ohrmuschel",
+  "rubrics": {
+    "preferred": "Nichtinfektiöse Krankheiten der Ohrmuschel",
+    "inclusion": "Erworbene Deformität:\n\t\t\t\tOhrmuschel",
+    "exclusion": "BlumenkohlohrM95.1"
+  },
+  "children": []
+}

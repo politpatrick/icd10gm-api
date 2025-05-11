@@ -1,0 +1,10 @@
+{
+  "code": "M36.3",
+  "kind": "category",
+  "label": "Arthropathie bei sonstigen anderenorts klassifizierten BlutkrankheitenD50-D76",
+  "rubrics": {
+    "preferred": "Arthropathie bei sonstigen anderenorts klassifizierten BlutkrankheitenD50-D76",
+    "exclusion": "Arthropathie bei Purpura Schoenlein-HenochM36.4"
+  },
+  "children": []
+}

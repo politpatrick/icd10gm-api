@@ -1,0 +1,10 @@
+{
+  "code": "F55.9",
+  "kind": "category",
+  "label": "Nicht näher bezeichnete Substanz",
+  "rubrics": {
+    "preferredLong": "Schädlicher Gebrauch von nichtabhängigkeitserzeugenden Substanzen: Nicht näher bezeichnete Substanz",
+    "preferred": "Nicht näher bezeichnete Substanz"
+  },
+  "children": []
+}

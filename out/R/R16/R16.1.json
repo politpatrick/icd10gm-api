@@ -1,0 +1,10 @@
+{
+  "code": "R16.1",
+  "kind": "category",
+  "label": "Splenomegalie, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Splenomegalie, anderenorts nicht klassifiziert",
+    "inclusion": "Splenomegalie o.n.A."
+  },
+  "children": []
+}

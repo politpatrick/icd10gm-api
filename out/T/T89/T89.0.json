@@ -1,0 +1,52 @@
+{
+  "code": "T89.0",
+  "kind": "category",
+  "label": "Komplikationen einer offenen Wunde",
+  "rubrics": {
+    "preferred": "Komplikationen einer offenen Wunde",
+    "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer B95-B98 zu benutzen."
+  },
+  "children": [
+    {
+      "code": "T89.00",
+      "kind": "category",
+      "label": "Nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Komplikationen einer offenen Wunde: Nicht näher bezeichnet",
+        "preferred": "Nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "T89.01",
+      "kind": "category",
+      "label": "Fremdkörper (mit oder ohne Infektion)",
+      "rubrics": {
+        "preferredLong": "Komplikationen einer offenen Wunde: Fremdkörper (mit oder ohne Infektion)",
+        "preferred": "Fremdkörper (mit oder ohne Infektion)"
+      },
+      "children": []
+    },
+    {
+      "code": "T89.02",
+      "kind": "category",
+      "label": "Infektion",
+      "rubrics": {
+        "preferredLong": "Komplikationen einer offenen Wunde: Infektion",
+        "preferred": "Infektion"
+      },
+      "children": []
+    },
+    {
+      "code": "T89.03",
+      "kind": "category",
+      "label": "Sonstige",
+      "rubrics": {
+        "preferredLong": "Komplikationen einer offenen Wunde: Sonstige",
+        "preferred": "Sonstige",
+        "inclusion": "Verzögerte Wundheilung"
+      },
+      "children": []
+    }
+  ]
+}

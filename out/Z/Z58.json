@@ -1,0 +1,11 @@
+{
+  "code": "Z58",
+  "kind": "category",
+  "label": "Kontaktanlässe mit Bezug auf die physikalische Umwelt",
+  "rubrics": {
+    "preferred": "Kontaktanlässe mit Bezug auf die physikalische Umwelt",
+    "inclusion": "Wasserverschmutzung",
+    "exclusion": "Berufliche ExpositionZ57"
+  },
+  "children": []
+}

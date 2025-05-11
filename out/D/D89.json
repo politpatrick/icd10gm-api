@@ -1,0 +1,70 @@
+{
+  "code": "D89",
+  "kind": "category",
+  "label": "Sonstige Störungen mit Beteiligung des Immunsystems, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Störungen mit Beteiligung des Immunsystems, anderenorts nicht klassifiziert",
+    "exclusion": "Versagen und Abstoßung eines TransplantatesT86.-"
+  },
+  "children": [
+    {
+      "code": "D89.0",
+      "kind": "category",
+      "label": "Polyklonale Hypergammaglobulinämie",
+      "rubrics": {
+        "preferred": "Polyklonale Hypergammaglobulinämie",
+        "inclusion": "Polyklonale Gammopathie o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "D89.1",
+      "kind": "category",
+      "label": "Kryoglobulinämie",
+      "rubrics": {
+        "preferred": "Kryoglobulinämie",
+        "inclusion": "Kryoglobulinämische:\n\t\t\t\tVaskulitis"
+      },
+      "children": []
+    },
+    {
+      "code": "D89.2",
+      "kind": "category",
+      "label": "Hypergammaglobulinämie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hypergammaglobulinämie, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "D89.3",
+      "kind": "category",
+      "label": "Immunrekonstitutionssyndrom",
+      "rubrics": {
+        "preferred": "Immunrekonstitutionssyndrom",
+        "inclusion": "Inflammatorisches Immunrekonstitutionssyndrom [IRIS]",
+        "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "D89.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Störungen mit Beteiligung des Immunsystems, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Störungen mit Beteiligung des Immunsystems, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "D89.9",
+      "kind": "category",
+      "label": "Störung mit Beteiligung des Immunsystems, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Störung mit Beteiligung des Immunsystems, nicht näher bezeichnet",
+        "inclusion": "Immunkrankheit o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

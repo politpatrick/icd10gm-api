@@ -1,0 +1,10 @@
+{
+  "code": "F33.0",
+  "kind": "category",
+  "label": "Rezidivierende depressive Störung, gegenwärtig leichte Episode",
+  "rubrics": {
+    "preferred": "Rezidivierende depressive Störung, gegenwärtig leichte Episode",
+    "definition": "Eine Störung, die durch wiederholte depressive Episoden gekennzeichnet ist, wobei die gegenwärtige Episode leicht ist (siehe F32.0), ohne Manie in der Anamnese."
+  },
+  "children": []
+}

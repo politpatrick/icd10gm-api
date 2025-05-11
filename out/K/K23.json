@@ -1,0 +1,37 @@
+{
+  "code": "K23",
+  "kind": "category",
+  "label": "Krankheiten des Ösophagus bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten des Ösophagus bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "K23.0",
+      "kind": "category",
+      "label": "Tuberkulose des ÖsophagusA18.8",
+      "rubrics": {
+        "preferred": "Tuberkulose des ÖsophagusA18.8"
+      },
+      "children": []
+    },
+    {
+      "code": "K23.1",
+      "kind": "category",
+      "label": "Megaösophagus bei Chagas-KrankheitB57.3",
+      "rubrics": {
+        "preferred": "Megaösophagus bei Chagas-KrankheitB57.3"
+      },
+      "children": []
+    },
+    {
+      "code": "K23.8",
+      "kind": "category",
+      "label": "Krankheiten des Ösophagus bei sonstigen anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten des Ösophagus bei sonstigen anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

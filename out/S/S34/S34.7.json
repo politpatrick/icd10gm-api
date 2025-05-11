@@ -1,0 +1,93 @@
+{
+  "code": "S34.7",
+  "kind": "category",
+  "label": "Funktionale Höhe einer Verletzung des lumbosakralen Rückenmarkes",
+  "rubrics": {
+    "preferred": "Funktionale Höhe einer Verletzung des lumbosakralen Rückenmarkes",
+    "text": "Diese Subkategorie dient zur Verschlüsselung der funktionalen Höhe einer Rückenmarksverletzung. Unter der funktionalen Höhe einer Rückenmarksverletzung wird das unterste intakte Rückenmarkssegment verstanden (so bedeutet z.B. \"komplette L4-Läsion des Rückenmarks\", dass die Funktionen des 4. und der höheren Lumbalnerven intakt sind und dass unterhalb L4 keine Funktion mehr vorhanden ist).",
+    "coding-hint": "Kodiere zuerst die Art der lumbosakralen Rückenmarksverletzung."
+  },
+  "children": [
+    {
+      "code": "S34.70",
+      "kind": "category",
+      "label": "Höhe nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Verletzung des lumbosakralen Rückenmarkes: Höhe nicht näher bezeichnet",
+        "preferred": "Höhe nicht näher bezeichnet",
+        "inclusion": "Lumbalmark o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "S34.71",
+      "kind": "category",
+      "label": "L1",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: L1",
+        "preferred": "L1"
+      },
+      "children": []
+    },
+    {
+      "code": "S34.72",
+      "kind": "category",
+      "label": "L2",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: L2",
+        "preferred": "L2"
+      },
+      "children": []
+    },
+    {
+      "code": "S34.73",
+      "kind": "category",
+      "label": "L3",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: L3",
+        "preferred": "L3"
+      },
+      "children": []
+    },
+    {
+      "code": "S34.74",
+      "kind": "category",
+      "label": "L4",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: L4",
+        "preferred": "L4"
+      },
+      "children": []
+    },
+    {
+      "code": "S34.75",
+      "kind": "category",
+      "label": "L5",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: L5",
+        "preferred": "L5"
+      },
+      "children": []
+    },
+    {
+      "code": "S34.76",
+      "kind": "category",
+      "label": "S1",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: S1",
+        "preferred": "S1"
+      },
+      "children": []
+    },
+    {
+      "code": "S34.77",
+      "kind": "category",
+      "label": "S2-S5",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: S2-S5",
+        "preferred": "S2-S5"
+      },
+      "children": []
+    }
+  ]
+}

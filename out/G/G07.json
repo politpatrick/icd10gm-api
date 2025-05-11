@@ -1,0 +1,10 @@
+{
+  "code": "G07",
+  "kind": "category",
+  "label": "Intrakranielle und intraspinale Abszesse und Granulome bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Intrakranielle und intraspinale Abszesse und Granulome bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Tuberkulom:\n\t\t\t\tMeningenA17.1"
+  },
+  "children": []
+}

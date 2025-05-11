@@ -1,0 +1,10 @@
+{
+  "code": "R68.0",
+  "kind": "category",
+  "label": "Hypothermie, nicht in Verbindung mit niedriger Umgebungstemperatur",
+  "rubrics": {
+    "preferred": "Hypothermie, nicht in Verbindung mit niedriger Umgebungstemperatur",
+    "exclusion": "Hypothermie:\n\t\t\t\to.n.A. (akzidentell)T68"
+  },
+  "children": []
+}

@@ -1,0 +1,12 @@
+{
+  "code": "N01",
+  "kind": "category",
+  "label": "Rapid-progressives nephritisches Syndrom",
+  "rubrics": {
+    "preferred": "Rapid-progressives nephritisches Syndrom",
+    "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+    "inclusion": "Rapid-progressiv:\n\t\t\t\tNephritis",
+    "exclusion": "Nephritisches Syndrom o.n.A.N05.-"
+  },
+  "children": []
+}

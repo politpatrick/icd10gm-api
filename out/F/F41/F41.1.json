@@ -1,0 +1,12 @@
+{
+  "code": "F41.1",
+  "kind": "category",
+  "label": "Generalisierte Angststörung",
+  "rubrics": {
+    "preferred": "Generalisierte Angststörung",
+    "definition": "Die Angst ist generalisiert und anhaltend. Sie ist nicht auf bestimmte Umgebungsbedingungen beschränkt, oder auch nur besonders betont in solchen Situationen, sie ist vielmehr \"frei flottierend\". Die wesentlichen Symptome sind variabel, Beschwerden wie ständige Nervosität, Zittern, Muskelspannung, Schwitzen, Benommenheit, Herzklopfen, Schwindelgefühle oder Oberbauchbeschwerden gehören zu diesem Bild. Häufig wird die Befürchtung geäußert, der Patient selbst oder ein Angehöriger könnten demnächst erkranken oder einen Unfall haben.",
+    "inclusion": "Angstzustand",
+    "exclusion": "NeurasthenieF48.0"
+  },
+  "children": []
+}

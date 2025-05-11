@@ -1,0 +1,29 @@
+{
+  "code": "U81.1",
+  "kind": "category",
+  "label": "Pseudomonas und Acinetobacter mit Multiresistenz 2MRGN NeoPäd",
+  "rubrics": {
+    "preferred": "Pseudomonas und Acinetobacter mit Multiresistenz 2MRGN NeoPäd",
+    "definition": "Die Schlüsselnummern U81.1-! sind nur bei Personen bis zur Vollendung des 14. Lebensjahres anzugeben."
+  },
+  "children": [
+    {
+      "code": "U81.10",
+      "kind": "category",
+      "label": "Pseudomonas aeruginosa mit Multiresistenz 2MRGN NeoPäd",
+      "rubrics": {
+        "preferred": "Pseudomonas aeruginosa mit Multiresistenz 2MRGN NeoPäd"
+      },
+      "children": []
+    },
+    {
+      "code": "U81.11",
+      "kind": "category",
+      "label": "Acinetobacter-baumannii-Gruppe mit Multiresistenz 2MRGN NeoPäd",
+      "rubrics": {
+        "preferred": "Acinetobacter-baumannii-Gruppe mit Multiresistenz 2MRGN NeoPäd"
+      },
+      "children": []
+    }
+  ]
+}

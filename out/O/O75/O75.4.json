@@ -1,0 +1,11 @@
+{
+  "code": "O75.4",
+  "kind": "category",
+  "label": "Sonstige Komplikationen bei geburtshilflichen Operationen und Maßnahmen",
+  "rubrics": {
+    "preferred": "Sonstige Komplikationen bei geburtshilflichen Operationen und Maßnahmen",
+    "inclusion": "Zerebrale Anoxie\n\t\t\t\tnach Schnittentbindung oder anderen geburtshilflichen Operationen oder Maßnahmen, einschließlich Entbindung o.n.A.",
+    "exclusion": "Komplikationen bei Anästhesie während der Wehentätigkeit und bei der EntbindungO74.-"
+  },
+  "children": []
+}

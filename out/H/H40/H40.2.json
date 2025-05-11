@@ -1,0 +1,10 @@
+{
+  "code": "H40.2",
+  "kind": "category",
+  "label": "Primäres Engwinkelglaukom",
+  "rubrics": {
+    "preferred": "Primäres Engwinkelglaukom",
+    "inclusion": "Primäres Winkelblockglaukom"
+  },
+  "children": []
+}

@@ -1,0 +1,101 @@
+{
+  "code": "Z20",
+  "kind": "category",
+  "label": "Kontakt mit und Exposition gegenüber übertragbaren Krankheiten",
+  "rubrics": {
+    "preferred": "Kontakt mit und Exposition gegenüber übertragbaren Krankheiten"
+  },
+  "children": [
+    {
+      "code": "Z20.0",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber infektiösen Darmkrankheiten",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber infektiösen Darmkrankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "Z20.1",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber Tuberkulose",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber Tuberkulose"
+      },
+      "children": []
+    },
+    {
+      "code": "Z20.2",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber Infektionen, die vorwiegend durch Geschlechtsverkehr übertragen werden",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber Infektionen, die vorwiegend durch Geschlechtsverkehr übertragen werden"
+      },
+      "children": []
+    },
+    {
+      "code": "Z20.3",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber Tollwut",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber Tollwut"
+      },
+      "children": []
+    },
+    {
+      "code": "Z20.4",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber Röteln",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber Röteln"
+      },
+      "children": []
+    },
+    {
+      "code": "Z20.5",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber Virushepatitis",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber Virushepatitis"
+      },
+      "children": []
+    },
+    {
+      "code": "Z20.6",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber HIV [Humanes Immundefizienz-Virus]",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber HIV [Humanes Immundefizienz-Virus]",
+        "exclusion": "Asymptomatische HIV-InfektionZ21"
+      },
+      "children": []
+    },
+    {
+      "code": "Z20.7",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber Pedikulose [Läusebefall], Akarinose [Milbenbefall] oder anderem Parasitenbefall",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber Pedikulose [Läusebefall], Akarinose [Milbenbefall] oder anderem Parasitenbefall"
+      },
+      "children": []
+    },
+    {
+      "code": "Z20.8",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber sonstigen übertragbaren Krankheiten",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber sonstigen übertragbaren Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "Z20.9",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber nicht näher bezeichneter übertragbarer Krankheit",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber nicht näher bezeichneter übertragbarer Krankheit"
+      },
+      "children": []
+    }
+  ]
+}

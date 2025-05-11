@@ -1,0 +1,12 @@
+{
+  "code": "D10.4",
+  "kind": "category",
+  "label": "Tonsille",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Tonsille",
+    "preferred": "Tonsille",
+    "inclusion": "Tonsille (Schlund-) (Gaumen-)",
+    "exclusion": "ZungentonsilleD10.1"
+  },
+  "children": []
+}

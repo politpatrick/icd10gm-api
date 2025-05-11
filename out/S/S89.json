@@ -1,0 +1,40 @@
+{
+  "code": "S89",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Verletzungen des Unterschenkels",
+  "rubrics": {
+    "preferred": "Sonstige und nicht näher bezeichnete Verletzungen des Unterschenkels",
+    "exclusion": "Sonstige und nicht näher bezeichnete Verletzungen der Knöchelregion und des FußesS99.-"
+  },
+  "children": [
+    {
+      "code": "S89.7",
+      "kind": "category",
+      "label": "Multiple Verletzungen des Unterschenkels",
+      "rubrics": {
+        "preferred": "Multiple Verletzungen des Unterschenkels",
+        "inclusion": "Verletzungen, die in mehr als einer der Kategorien S80-S88 klassifizierbar sind",
+        "coding-hint": "Bezüglich der Verschlüsselung multipler Verletzungen sind in der stationären Versorgung die Deutschen Kodierrichtlinien heranzuziehen."
+      },
+      "children": []
+    },
+    {
+      "code": "S89.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Verletzungen des Unterschenkels",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Verletzungen des Unterschenkels"
+      },
+      "children": []
+    },
+    {
+      "code": "S89.9",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Verletzung des Unterschenkels",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Verletzung des Unterschenkels"
+      },
+      "children": []
+    }
+  ]
+}

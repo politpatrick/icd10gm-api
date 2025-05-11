@@ -1,0 +1,10 @@
+{
+  "code": "O60.3",
+  "kind": "category",
+  "label": "Vorzeitige Entbindung ohne spontane Wehen",
+  "rubrics": {
+    "preferred": "Vorzeitige Entbindung ohne spontane Wehen",
+    "inclusion": "Vorzeitige Entbindung (durch):\n\t\t\t\tKaiserschnitt, ohne spontane Wehen"
+  },
+  "children": []
+}

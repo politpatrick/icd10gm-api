@@ -1,0 +1,10 @@
+{
+  "code": "G21.0",
+  "kind": "category",
+  "label": "Malignes Neuroleptika-Syndrom",
+  "rubrics": {
+    "preferred": "Malignes Neuroleptika-Syndrom",
+    "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

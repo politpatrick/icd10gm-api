@@ -1,0 +1,10 @@
+{
+  "code": "M71.9",
+  "kind": "category",
+  "label": "Bursopathie, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Bursopathie, nicht näher bezeichnet",
+    "inclusion": "Bursitis o.n.A."
+  },
+  "children": []
+}

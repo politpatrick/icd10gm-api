@@ -1,0 +1,10 @@
+{
+  "code": "T85.74",
+  "kind": "category",
+  "label": "Infektion und entzündliche Reaktion durch perkutan-endoskopische Gastrostomie-Sonde [PEG-Sonde]",
+  "rubrics": {
+    "preferred": "Infektion und entzündliche Reaktion durch perkutan-endoskopische Gastrostomie-Sonde [PEG-Sonde]",
+    "inclusion": "Infektion und entzündliche Reaktion durch perkutan-endoskopische Jejunostomie-Sonde [PEJ-Sonde]"
+  },
+  "children": []
+}

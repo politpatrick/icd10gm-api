@@ -1,0 +1,10 @@
+{
+  "code": "I63.3",
+  "kind": "category",
+  "label": "Hirninfarkt durch Thrombose zerebraler Arterien",
+  "rubrics": {
+    "preferred": "Hirninfarkt durch Thrombose zerebraler Arterien",
+    "inclusion": "A. cerebri media, A. cerebri anterior, A. cerebri posterior und Aa. cerebelli"
+  },
+  "children": []
+}

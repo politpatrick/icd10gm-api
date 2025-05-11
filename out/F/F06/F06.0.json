@@ -1,0 +1,12 @@
+{
+  "code": "F06.0",
+  "kind": "category",
+  "label": "Organische Halluzinose",
+  "rubrics": {
+    "preferred": "Organische Halluzinose",
+    "definition": "Eine Störung mit ständigen oder immer wieder auftretenden, meist optischen oder akustischen Halluzinationen bei klarer Bewusstseinslage. Sie können vom Patienten als Halluzinationen erkannt werden. Die Halluzinationen können wahnhaft verarbeitet werden, Wahn dominiert aber nicht das klinische Bild. Die Krankheitseinsicht kann erhalten bleiben.",
+    "inclusion": "Organisch bedingtes halluzinatorisches Zustandsbild (nicht alkoholbedingt)",
+    "exclusion": "SchizophrenieF20.-"
+  },
+  "children": []
+}

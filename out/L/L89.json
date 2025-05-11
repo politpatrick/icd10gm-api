@@ -1,0 +1,63 @@
+{
+  "code": "L89",
+  "kind": "category",
+  "label": "Dekubitalgeschwür und Druckzone",
+  "rubrics": {
+    "preferred": "Dekubitalgeschwür und Druckzone",
+    "note": "Kann das Stadium/die Kategorie eines Dekubitalgeschwüres nicht sicher bestimmt werden, ist das niedrigere Stadium/die niedrigere Kategorie zu kodieren.",
+    "inclusion": "Ulkus bei medizinischer Anwendung von Gips",
+    "exclusion": "Dekubitalgeschwür (trophisch) der Cervix (uteri) N86"
+  },
+  "children": [
+    {
+      "code": "L89.0",
+      "kind": "category",
+      "label": "Dekubitus, Stadium 1",
+      "rubrics": {
+        "preferred": "Dekubitus, Stadium 1",
+        "inclusion": "Druckzone mit nicht wegdrückbarer Rötung bei intakter Haut"
+      },
+      "children": []
+    },
+    {
+      "code": "L89.1",
+      "kind": "category",
+      "label": "Dekubitus, Stadium 2",
+      "rubrics": {
+        "preferred": "Dekubitus, Stadium 2",
+        "inclusion": "Dekubitus [Druckgeschwür] mit:\n\t\t\t\tTeilverlust der Haut mit Einbeziehung von Epidermis und/oder Dermis"
+      },
+      "children": []
+    },
+    {
+      "code": "L89.2",
+      "kind": "category",
+      "label": "Dekubitus, Stadium 3",
+      "rubrics": {
+        "preferred": "Dekubitus, Stadium 3",
+        "inclusion": "Dekubitus [Druckgeschwür] mit Verlust aller Hautschichten mit Schädigung oder Nekrose des subkutanen Gewebes, die bis auf die darunterliegende Faszie reichen kann"
+      },
+      "children": []
+    },
+    {
+      "code": "L89.3",
+      "kind": "category",
+      "label": "Dekubitus, Stadium 4",
+      "rubrics": {
+        "preferred": "Dekubitus, Stadium 4",
+        "inclusion": "Dekubitus [Druckgeschwür] mit Nekrose von Muskeln, Knochen oder stützenden Strukturen (z.B. Sehnen oder Gelenkkapseln)"
+      },
+      "children": []
+    },
+    {
+      "code": "L89.9",
+      "kind": "category",
+      "label": "Dekubitus, Stadium nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Dekubitus, Stadium nicht näher bezeichnet",
+        "inclusion": "Dekubitus [Druckgeschwür] ohne Angabe eines Stadiums"
+      },
+      "children": []
+    }
+  ]
+}

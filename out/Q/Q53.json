@@ -1,0 +1,48 @@
+{
+  "code": "Q53",
+  "kind": "category",
+  "label": "Nondescensus testis",
+  "rubrics": {
+    "preferred": "Nondescensus testis"
+  },
+  "children": [
+    {
+      "code": "Q53.0",
+      "kind": "category",
+      "label": "Ektopia testis",
+      "rubrics": {
+        "preferred": "Ektopia testis",
+        "inclusion": "Ektopia testis, einseitig oder beidseitig"
+      },
+      "children": []
+    },
+    {
+      "code": "Q53.1",
+      "kind": "category",
+      "label": "Nondescensus testis, einseitig",
+      "rubrics": {
+        "preferred": "Nondescensus testis, einseitig"
+      },
+      "children": []
+    },
+    {
+      "code": "Q53.2",
+      "kind": "category",
+      "label": "Nondescensus testis, beidseitig",
+      "rubrics": {
+        "preferred": "Nondescensus testis, beidseitig"
+      },
+      "children": []
+    },
+    {
+      "code": "Q53.9",
+      "kind": "category",
+      "label": "Nondescensus testis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Nondescensus testis, nicht näher bezeichnet",
+        "inclusion": "Kryptorchismus o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

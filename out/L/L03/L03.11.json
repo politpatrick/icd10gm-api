@@ -1,0 +1,11 @@
+{
+  "code": "L03.11",
+  "kind": "category",
+  "label": "Phlegmone an der unteren Extremität",
+  "rubrics": {
+    "preferred": "Phlegmone an der unteren Extremität",
+    "inclusion": "Unterschenkel",
+    "exclusion": "ZeheL03.02"
+  },
+  "children": []
+}

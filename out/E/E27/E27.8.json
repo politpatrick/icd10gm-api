@@ -1,0 +1,10 @@
+{
+  "code": "E27.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Krankheiten der Nebenniere",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Krankheiten der Nebenniere",
+    "inclusion": "Abnormität des kortisolbindenden Globulins [Transcortin]"
+  },
+  "children": []
+}

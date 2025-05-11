@@ -1,0 +1,66 @@
+{
+  "code": "M02",
+  "kind": "category",
+  "label": "Reaktive Arthritiden",
+  "rubrics": {
+    "preferred": "Reaktive Arthritiden",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+    "exclusion": "Rheumatisches FieberI00"
+  },
+  "children": [
+    {
+      "code": "M02.0",
+      "kind": "category",
+      "label": "Arthritis nach intestinalem Bypass",
+      "rubrics": {
+        "preferred": "Arthritis nach intestinalem Bypass"
+      },
+      "children": []
+    },
+    {
+      "code": "M02.1",
+      "kind": "category",
+      "label": "Postenteritische Arthritis",
+      "rubrics": {
+        "preferred": "Postenteritische Arthritis"
+      },
+      "children": []
+    },
+    {
+      "code": "M02.2",
+      "kind": "category",
+      "label": "Arthritis nach Impfung",
+      "rubrics": {
+        "preferred": "Arthritis nach Impfung"
+      },
+      "children": []
+    },
+    {
+      "code": "M02.3",
+      "kind": "category",
+      "label": "Reiter-Krankheit",
+      "rubrics": {
+        "preferred": "Reiter-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "M02.8",
+      "kind": "category",
+      "label": "Sonstige reaktive Arthritiden",
+      "rubrics": {
+        "preferred": "Sonstige reaktive Arthritiden"
+      },
+      "children": []
+    },
+    {
+      "code": "M02.9",
+      "kind": "category",
+      "label": "Reaktive Arthritis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Reaktive Arthritis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

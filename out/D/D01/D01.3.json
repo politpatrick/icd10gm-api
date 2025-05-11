@@ -1,0 +1,11 @@
+{
+  "code": "D01.3",
+  "kind": "category",
+  "label": "Analkanal und Anus",
+  "rubrics": {
+    "preferredLong": "Carcinoma in situ: Analkanal und Anus",
+    "preferred": "Analkanal und Anus",
+    "exclusion": "PerianalhautD03.5D04.5"
+  },
+  "children": []
+}

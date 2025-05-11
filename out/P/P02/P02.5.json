@@ -1,0 +1,10 @@
+{
+  "code": "P02.5",
+  "kind": "category",
+  "label": "Schädigung des Fetus und Neugeborenen durch sonstige Formen der Nabelschnurkompression",
+  "rubrics": {
+    "preferred": "Schädigung des Fetus und Neugeborenen durch sonstige Formen der Nabelschnurkompression",
+    "inclusion": "Nabelschnurverschlingung"
+  },
+  "children": []
+}

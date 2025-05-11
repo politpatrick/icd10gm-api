@@ -1,0 +1,41 @@
+{
+  "code": "Z49",
+  "kind": "category",
+  "label": "Dialysebehandlung",
+  "rubrics": {
+    "preferred": "Dialysebehandlung",
+    "inclusion": "Vorbereitung und Durchführung der Dialyse"
+  },
+  "children": [
+    {
+      "code": "Z49.0",
+      "kind": "category",
+      "label": "Vorbereitung auf die Dialyse",
+      "rubrics": {
+        "preferred": "Vorbereitung auf die Dialyse",
+        "inclusion": "Shuntanlage"
+      },
+      "children": []
+    },
+    {
+      "code": "Z49.1",
+      "kind": "category",
+      "label": "Extrakorporale Dialyse",
+      "rubrics": {
+        "preferred": "Extrakorporale Dialyse",
+        "inclusion": "Dialyse bei Niereninsuffizienz o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "Z49.2",
+      "kind": "category",
+      "label": "Sonstige Dialyse",
+      "rubrics": {
+        "preferred": "Sonstige Dialyse",
+        "inclusion": "Peritonealdialyse"
+      },
+      "children": []
+    }
+  ]
+}

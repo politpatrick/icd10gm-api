@@ -1,0 +1,94 @@
+{
+  "code": "E72",
+  "kind": "category",
+  "label": "Sonstige Störungen des Aminosäurestoffwechsels",
+  "rubrics": {
+    "preferred": "Sonstige Störungen des Aminosäurestoffwechsels",
+    "exclusion": "Störungen:\n\t\t\t\tStoffwechsel verzweigter AminosäurenE71.0-E71.2"
+  },
+  "children": [
+    {
+      "code": "E72.0",
+      "kind": "category",
+      "label": "Störungen des Aminosäuretransportes",
+      "rubrics": {
+        "preferred": "Störungen des Aminosäuretransportes",
+        "inclusion": "Zystinurie",
+        "exclusion": "Störungen des Tryptophanstoffwechsels E70.8"
+      },
+      "children": []
+    },
+    {
+      "code": "E72.1",
+      "kind": "category",
+      "label": "Störungen des Stoffwechsels schwefelhaltiger Aminosäuren",
+      "rubrics": {
+        "preferred": "Störungen des Stoffwechsels schwefelhaltiger Aminosäuren",
+        "inclusion": "Zystathioninurie",
+        "exclusion": "Transcobalamin-II-Mangel (-Anämie)D51.2"
+      },
+      "children": []
+    },
+    {
+      "code": "E72.2",
+      "kind": "category",
+      "label": "Störungen des Harnstoffzyklus",
+      "rubrics": {
+        "preferred": "Störungen des Harnstoffzyklus",
+        "inclusion": "Zitrullinämie",
+        "exclusion": "Störungen des OrnithinstoffwechselsE72.4"
+      },
+      "children": []
+    },
+    {
+      "code": "E72.3",
+      "kind": "category",
+      "label": "Störungen des Lysin- und Hydroxylysinstoffwechsels",
+      "rubrics": {
+        "preferred": "Störungen des Lysin- und Hydroxylysinstoffwechsels",
+        "inclusion": "Hyperlysinämie",
+        "exclusion": "Zellweger-SyndromQ87.8"
+      },
+      "children": []
+    },
+    {
+      "code": "E72.4",
+      "kind": "category",
+      "label": "Störungen des Ornithinstoffwechsels",
+      "rubrics": {
+        "preferred": "Störungen des Ornithinstoffwechsels",
+        "inclusion": "Ornithinämie (Typ I, II)"
+      },
+      "children": []
+    },
+    {
+      "code": "E72.5",
+      "kind": "category",
+      "label": "Störungen des Glyzinstoffwechsels",
+      "rubrics": {
+        "preferred": "Störungen des Glyzinstoffwechsels",
+        "inclusion": "Sarkosinämie"
+      },
+      "children": []
+    },
+    {
+      "code": "E72.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Störungen des Aminosäurestoffwechsels",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Störungen des Aminosäurestoffwechsels",
+        "inclusion": "Störungen:\n\t\t\t\tGamma-Glutamyl-Zyklus"
+      },
+      "children": []
+    },
+    {
+      "code": "E72.9",
+      "kind": "category",
+      "label": "Störung des Aminosäurestoffwechsels, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Störung des Aminosäurestoffwechsels, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "J36",
+  "kind": "category",
+  "label": "Peritonsillarabszess",
+  "rubrics": {
+    "preferred": "Peritonsillarabszess",
+    "inclusion": "Tonsillarabszess",
+    "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+    "exclusion": "Tonsillitis:\n\t\t\t\to.n.A.J03.9"
+  },
+  "children": []
+}

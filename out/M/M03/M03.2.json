@@ -1,0 +1,11 @@
+{
+  "code": "M03.2",
+  "kind": "category",
+  "label": "Sonstige postinfektiöse Arthritiden bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Sonstige postinfektiöse Arthritiden bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Postinfektiöse Arthritis bei:\n\t\t\t\tVirushepatitisB15-B19",
+    "exclusion": "Virale ArthritidenM01.4-M01.5-"
+  },
+  "children": []
+}

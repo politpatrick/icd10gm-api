@@ -1,0 +1,12 @@
+{
+  "code": "F03",
+  "kind": "category",
+  "label": "Nicht näher bezeichnete Demenz",
+  "rubrics": {
+    "preferred": "Nicht näher bezeichnete Demenz",
+    "inclusion": "Senil:\n\t\t\t\tPsychose o.n.A.",
+    "coding-hint": "Soll das Vorliegen von psychischen oder Verhaltensstörungen spezifisch angegeben werden, so sind sekundäre SchlüsselnummernU63.- zu benutzen.",
+    "exclusion": "Senilität o.n.A.R54"
+  },
+  "children": []
+}

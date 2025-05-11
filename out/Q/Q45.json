@@ -1,0 +1,70 @@
+{
+  "code": "Q45",
+  "kind": "category",
+  "label": "Sonstige angeborene Fehlbildungen des Verdauungssystems",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungen des Verdauungssystems",
+    "exclusion": "Angeboren:\n\t\t\t\tZwerchfellhernieQ79.0"
+  },
+  "children": [
+    {
+      "code": "Q45.0",
+      "kind": "category",
+      "label": "Agenesie, Aplasie und Hypoplasie des Pankreas",
+      "rubrics": {
+        "preferred": "Agenesie, Aplasie und Hypoplasie des Pankreas",
+        "inclusion": "Angeborenes Fehlen des Pankreas"
+      },
+      "children": []
+    },
+    {
+      "code": "Q45.1",
+      "kind": "category",
+      "label": "Pancreas anulare",
+      "rubrics": {
+        "preferred": "Pancreas anulare"
+      },
+      "children": []
+    },
+    {
+      "code": "Q45.2",
+      "kind": "category",
+      "label": "Angeborene Pankreaszyste",
+      "rubrics": {
+        "preferred": "Angeborene Pankreaszyste"
+      },
+      "children": []
+    },
+    {
+      "code": "Q45.3",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Pankreas und des Ductus pancreaticus",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Pankreas und des Ductus pancreaticus",
+        "inclusion": "Angeborene Fehlbildung des Pankreas oder des Ductus pancreaticus o.n.A.",
+        "exclusion": "Zystische PankreasfibroseE84.-"
+      },
+      "children": []
+    },
+    {
+      "code": "Q45.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete angeborene Fehlbildungen des Verdauungssystems",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen des Verdauungssystems",
+        "inclusion": "Malposition, angeboren\n\t\t\t\tVerdauungsorgane o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "Q45.9",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung des Verdauungssystems, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung des Verdauungssystems, nicht näher bezeichnet",
+        "inclusion": "Angeboren:\n\t\t\t\tDeformität\n\t\t\t\tVerdauungssystem o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

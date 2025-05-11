@@ -1,0 +1,447 @@
+{
+  "code": "F30-F39",
+  "kind": "block",
+  "label": "Affektive Störungen",
+  "rubrics": {
+    "preferred": "Affektive Störungen",
+    "text": "Diese Gruppe enthält Störungen deren Hauptsymptome in einer Veränderung der Stimmung oder der Affektivität entweder zur Depression - mit oder ohne begleitende(r) Angst - oder zur gehobenen Stimmung bestehen. Dieser Stimmungswechsel wird meist von einer Veränderung des allgemeinen Aktivitätsniveaus begleitet. Die meisten anderen Symptome beruhen hierauf oder sind im Zusammenhang mit dem Stimmungs- und Aktivitätswechsel leicht zu verstehen. Die meisten dieser Störungen neigen zu Rückfällen. Der Beginn der einzelnen Episoden ist oft mit belastenden Ereignissen oder Situationen in Zusammenhang zu bringen."
+  },
+  "children": [
+    {
+      "code": "F30",
+      "kind": "category",
+      "label": "Manische Episode",
+      "rubrics": {
+        "preferred": "Manische Episode",
+        "definition": "Alle Untergruppen dieser Kategorie dürfen nur für eine einzelne Episode verwendet werden. Hypomanische oder manische Episoden bei Betroffenen, die früher eine oder mehrere affektive (depressive, hypomanische, manische oder gemischte) Episoden hatten, sind unter bipolarer affektiver Störung (F31.-) zu klassifizieren.",
+        "inclusion": "Bipolare Störung, einzelne manische Episode"
+      },
+      "children": [
+        {
+          "code": "F30.0",
+          "kind": "category",
+          "label": "Hypomanie",
+          "rubrics": {
+            "preferred": "Hypomanie",
+            "definition": "Eine Störung, charakterisiert durch eine anhaltende, leicht gehobene Stimmung, gesteigerten Antrieb und Aktivität und in der Regel auch ein auffallendes Gefühl von Wohlbefinden und körperlicher und seelischer Leistungsfähigkeit. Gesteigerte Geselligkeit, Gesprächigkeit, übermäßige Vertraulichkeit, gesteigerte Libido und vermindertes Schlafbedürfnis sind häufig vorhanden, aber nicht in dem Ausmaß, dass sie zu einem Abbruch der Berufstätigkeit oder zu sozialer Ablehnung führen. Reizbarkeit, Selbstüberschätzung und flegelhaftes Verhalten können an die Stelle der häufigen euphorischen Geselligkeit treten. Die Störungen der Stimmung und des Verhaltens werden nicht von Halluzinationen oder Wahn begleitet."
+          },
+          "children": []
+        },
+        {
+          "code": "F30.1",
+          "kind": "category",
+          "label": "Manie ohne psychotische Symptome",
+          "rubrics": {
+            "preferred": "Manie ohne psychotische Symptome",
+            "definition": "Die Stimmung ist situationsinadäquat gehoben und kann zwischen sorgloser Heiterkeit und fast unkontrollierbarer Erregung schwanken. Die gehobene Stimmung ist mit vermehrtem Antrieb verbunden, dies führt zu Überaktivität, Rededrang und vermindertem Schlafbedürfnis. Die Aufmerksamkeit kann nicht mehr aufrechterhalten werden, es kommt oft zu starker Ablenkbarkeit. Die Selbsteinschätzung ist mit Größenideen oder übertriebenem Optimismus häufig weit überhöht. Der Verlust normaler sozialer Hemmungen kann zu einem leichtsinnigen, rücksichtslosen oder in Bezug auf die Umstände unpassenden und persönlichkeitsfremden Verhalten führen."
+          },
+          "children": []
+        },
+        {
+          "code": "F30.2",
+          "kind": "category",
+          "label": "Manie mit psychotischen Symptomen",
+          "rubrics": {
+            "preferred": "Manie mit psychotischen Symptomen",
+            "definition": "Zusätzlich zu dem unter F30.1 beschriebenen klinischen Bild treten Wahn (zumeist Größenwahn) oder Halluzinationen (zumeist Stimmen, die unmittelbar zum Betroffenen sprechen) auf. Die Erregung, die ausgeprägte körperliche Aktivität und die Ideenflucht können so extrem sein, dass der Betroffene für eine normale Kommunikation unzugänglich wird.",
+            "inclusion": "Manischer Stupor"
+          },
+          "children": []
+        },
+        {
+          "code": "F30.8",
+          "kind": "category",
+          "label": "Sonstige manische Episoden",
+          "rubrics": {
+            "preferred": "Sonstige manische Episoden"
+          },
+          "children": []
+        },
+        {
+          "code": "F30.9",
+          "kind": "category",
+          "label": "Manische Episode, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Manische Episode, nicht näher bezeichnet",
+            "inclusion": "Manie o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F31",
+      "kind": "category",
+      "label": "Bipolare affektive Störung",
+      "rubrics": {
+        "preferred": "Bipolare affektive Störung",
+        "definition": "Hierbei handelt es sich um eine Störung, die durch wenigstens zwei Episoden charakterisiert ist, in denen Stimmung und Aktivitätsniveau des Betroffenen deutlich gestört sind. Diese Störung besteht einmal in gehobener Stimmung, vermehrtem Antrieb und Aktivität (Hypomanie oder Manie), dann wieder in einer Stimmungssenkung und vermindertem Antrieb und Aktivität (Depression). Wiederholte hypomanische oder manische Episoden sind ebenfalls als bipolar zu klassifizieren.",
+        "inclusion": "Manisch-depressiv:\n\t\t\t\tReaktion",
+        "exclusion": "ZyklothymiaF34.0"
+      },
+      "children": [
+        {
+          "code": "F31.0",
+          "kind": "category",
+          "label": "Bipolare affektive Störung, gegenwärtig hypomanische Episode",
+          "rubrics": {
+            "preferred": "Bipolare affektive Störung, gegenwärtig hypomanische Episode",
+            "definition": "Der betroffene Patient ist gegenwärtig hypomanisch (siehe F30.0) und hatte wenigstens eine weitere affektive Episode (hypomanisch, manisch, depressiv oder gemischt) in der Anamnese."
+          },
+          "children": []
+        },
+        {
+          "code": "F31.1",
+          "kind": "category",
+          "label": "Bipolare affektive Störung, gegenwärtig manische Episode ohne psychotische Symptome",
+          "rubrics": {
+            "preferred": "Bipolare affektive Störung, gegenwärtig manische Episode ohne psychotische Symptome",
+            "definition": "Der betroffene Patient ist gegenwärtig manisch, ohne psychotische Symptome (siehe F30.1) und hatte wenigstens eine weitere affektive Episode (hypomanisch, manisch, depressiv oder gemischt) in der Anamnese."
+          },
+          "children": []
+        },
+        {
+          "code": "F31.2",
+          "kind": "category",
+          "label": "Bipolare affektive Störung, gegenwärtig manische Episode mit psychotischen Symptomen",
+          "rubrics": {
+            "preferred": "Bipolare affektive Störung, gegenwärtig manische Episode mit psychotischen Symptomen",
+            "definition": "Der betroffene Patient ist gegenwärtig manisch, mit psychotischen Symptomen (F30.2) und hatte wenigstens eine weitere affektive Episode (hypomanisch, manisch, depressiv oder gemischt) in der Anamnese."
+          },
+          "children": []
+        },
+        {
+          "code": "F31.3",
+          "kind": "category",
+          "label": "Bipolare affektive Störung, gegenwärtig leichte oder mittelgradige depressive Episode",
+          "rubrics": {
+            "preferred": "Bipolare affektive Störung, gegenwärtig leichte oder mittelgradige depressive Episode",
+            "definition": "Der betroffene Patient ist gegenwärtig depressiv, wie bei einer leichten oder mittelgradigen depressiven Episode (siehe F32.0 oder F32.1) und hatte wenigstens eine eindeutig diagnostizierte hypomanische, manische oder gemischte Episode in der Anamnese."
+          },
+          "children": []
+        },
+        {
+          "code": "F31.4",
+          "kind": "category",
+          "label": "Bipolare affektive Störung, gegenwärtig schwere depressive Episode ohne psychotische Symptome",
+          "rubrics": {
+            "preferred": "Bipolare affektive Störung, gegenwärtig schwere depressive Episode ohne psychotische Symptome",
+            "definition": "Der betroffene Patient ist gegenwärtig depressiv, wie bei einer schweren depressiven Episode ohne psychotische Symptome (siehe F32.2) und hatte wenigstens eine eindeutig diagnostizierte hypomanische, manische oder gemischte Episode in der Anamnese."
+          },
+          "children": []
+        },
+        {
+          "code": "F31.5",
+          "kind": "category",
+          "label": "Bipolare affektive Störung, gegenwärtig schwere depressive Episode mit psychotischen Symptomen",
+          "rubrics": {
+            "preferred": "Bipolare affektive Störung, gegenwärtig schwere depressive Episode mit psychotischen Symptomen",
+            "definition": "Der betroffene Patient ist gegenwärtig depressiv, wie bei einer schweren depressiven Episode mit psychotischen Symptomen (siehe F32.3) und hatte wenigstens eine eindeutig diagnostizierte hypomanische, manische oder gemischte Episode in der Anamnese."
+          },
+          "children": []
+        },
+        {
+          "code": "F31.6",
+          "kind": "category",
+          "label": "Bipolare affektive Störung, gegenwärtig gemischte Episode",
+          "rubrics": {
+            "preferred": "Bipolare affektive Störung, gegenwärtig gemischte Episode",
+            "definition": "Der betroffene Patient hatte wenigstens eine eindeutig diagnostizierte hypomanische, manische, depressive oder gemischte affektive Episode in der Anamnese und zeigt gegenwärtig entweder eine Kombination oder einen raschen Wechsel von manischen und depressiven Symptomen.",
+            "exclusion": "Einzelne gemischte affektive EpisodeF38.0"
+          },
+          "children": []
+        },
+        {
+          "code": "F31.7",
+          "kind": "category",
+          "label": "Bipolare affektive Störung, gegenwärtig remittiert",
+          "rubrics": {
+            "preferred": "Bipolare affektive Störung, gegenwärtig remittiert",
+            "definition": "Der betroffene Patient hatte wenigstens eine eindeutig diagnostizierte hypomanische, manische oder gemischte affektive Episode und wenigstens eine weitere affektive Episode (hypomanisch, manisch, depressiv oder gemischt) in der Anamnese; in den letzten Monaten und gegenwärtig besteht keine deutliche Störung der Stimmung. Auch Remissionen während einer prophylaktischen Behandlung sollen hier kodiert werden."
+          },
+          "children": []
+        },
+        {
+          "code": "F31.8",
+          "kind": "category",
+          "label": "Sonstige bipolare affektive Störungen",
+          "rubrics": {
+            "preferred": "Sonstige bipolare affektive Störungen",
+            "inclusion": "Rezidivierende manische Episoden o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "F31.9",
+          "kind": "category",
+          "label": "Bipolare affektive Störung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Bipolare affektive Störung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F32",
+      "kind": "category",
+      "label": "Depressive Episode",
+      "rubrics": {
+        "preferred": "Depressive Episode",
+        "definition": "Bei den typischen leichten (F32.0), mittelgradigen (F32.1) oder schweren (F32.2 und F32.3) Episoden leidet der betroffene Patient unter einer gedrückten Stimmung und einer Verminderung von Antrieb und Aktivität. Die Fähigkeit zu Freude, das Interesse und die Konzentration sind vermindert. Ausgeprägte Müdigkeit kann nach jeder kleinsten Anstrengung auftreten. Der Schlaf ist meist gestört, der Appetit vermindert. Selbstwertgefühl und Selbstvertrauen sind fast immer beeinträchtigt. Sogar bei der leichten Form kommen Schuldgefühle oder Gedanken über eigene Wertlosigkeit vor. Die gedrückte Stimmung verändert sich von Tag zu Tag wenig, reagiert nicht auf Lebensumstände und kann von so genannten \"somatischen\" Symptomen begleitet werden, wie Interessenverlust oder Verlust der Freude, Früherwachen, Morgentief, deutliche psychomotorische Hemmung, Agitiertheit, Appetitverlust, Gewichtsverlust und Libidoverlust. Abhängig von Anzahl und Schwere der Symptome ist eine depressive Episode als leicht, mittelgradig oder schwer zu bezeichnen.",
+        "inclusion": "Einzelne Episoden von:\n\t\t\t\treaktiver Depression (F32.0, F32.1, F32.2)",
+        "exclusion": "rezidivierende depressive StörungF33.-"
+      },
+      "children": [
+        {
+          "code": "F32.0",
+          "kind": "category",
+          "label": "Leichte depressive Episode",
+          "rubrics": {
+            "preferred": "Leichte depressive Episode",
+            "definition": "Gewöhnlich sind mindestens zwei oder drei der oben angegebenen Symptome vorhanden. Der betroffene Patient ist im Allgemeinen davon beeinträchtigt, aber oft in der Lage, die meisten Aktivitäten fortzusetzen."
+          },
+          "children": []
+        },
+        {
+          "code": "F32.1",
+          "kind": "category",
+          "label": "Mittelgradige depressive Episode",
+          "rubrics": {
+            "preferred": "Mittelgradige depressive Episode",
+            "definition": "Gewöhnlich sind vier oder mehr der oben angegebenen Symptome vorhanden, und der betroffene Patient hat meist große Schwierigkeiten, alltägliche Aktivitäten fortzusetzen."
+          },
+          "children": []
+        },
+        {
+          "code": "F32.2",
+          "kind": "category",
+          "label": "Schwere depressive Episode ohne psychotische Symptome",
+          "rubrics": {
+            "preferred": "Schwere depressive Episode ohne psychotische Symptome",
+            "definition": "Eine depressive Episode mit mehreren oben angegebenen, quälenden Symptomen. Typischerweise bestehen ein Verlust des Selbstwertgefühls und Gefühle von Wertlosigkeit und Schuld. Suizidgedanken und -handlungen sind häufig, und meist liegen einige somatische Symptome vor.",
+            "inclusion": "Einzelne Episode einer vitalen Depression ohne psychotische Symptome"
+          },
+          "children": []
+        },
+        {
+          "code": "F32.3",
+          "kind": "category",
+          "label": "Schwere depressive Episode mit psychotischen Symptomen",
+          "rubrics": {
+            "preferred": "Schwere depressive Episode mit psychotischen Symptomen",
+            "definition": "Eine schwere depressive Episode, wie unter F32.2 beschrieben, bei der aber Halluzinationen, Wahnideen, psychomotorische Hemmung oder ein Stupor so schwer ausgeprägt sind, dass alltägliche soziale Aktivitäten unmöglich sind und Lebensgefahr durch Suizid und mangelhafte Flüssigkeits- und Nahrungsaufnahme bestehen kann. Halluzinationen und Wahn können, müssen aber nicht, synthym sein.",
+            "inclusion": "Einzelne Episoden:\n\t\t\t\treaktive depressive Psychose"
+          },
+          "children": []
+        },
+        {
+          "code": "F32.8",
+          "kind": "category",
+          "label": "Sonstige depressive Episoden",
+          "rubrics": {
+            "preferred": "Sonstige depressive Episoden",
+            "inclusion": "Einzelne Episoden der \"larvierten\" Depression o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "F32.9",
+          "kind": "category",
+          "label": "Depressive Episode, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Depressive Episode, nicht näher bezeichnet",
+            "inclusion": "Depressive Störung o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F33",
+      "kind": "category",
+      "label": "Rezidivierende depressive Störung",
+      "rubrics": {
+        "preferred": "Rezidivierende depressive Störung",
+        "definition": "Hierbei handelt es sich um eine Störung, die durch wiederholte depressive Episoden (F32.-) charakterisiert ist. In der Anamnese finden sich dabei keine unabhängigen Episoden mit gehobener Stimmung und vermehrtem Antrieb (Manie). Kurze Episoden von leicht gehobener Stimmung und Überaktivität (Hypomanie) können allerdings unmittelbar nach einer depressiven Episode, manchmal durch eine antidepressive Behandlung mitbedingt, aufgetreten sein. Die schwereren Formen der rezidivierenden depressiven Störung (F33.2 und .3) haben viel mit den früheren Konzepten der manisch-depressiven Krankheit, der Melancholie, der vitalen Depression und der endogenen Depression gemeinsam. Die erste Episode kann in jedem Alter zwischen Kindheit und Senium auftreten, der Beginn kann akut oder schleichend sein, die Dauer reicht von wenigen Wochen bis zu vielen Monaten. Das Risiko, dass ein Patient mit rezidivierender depressiver Störung eine manische Episode entwickelt, wird niemals vollständig aufgehoben, gleichgültig, wie viele depressive Episoden aufgetreten sind. Bei Auftreten einer manischen Episode ist die Diagnose in bipolare affektive Störung zu ändern (F31.-).",
+        "inclusion": "Saisonale depressive Störung",
+        "exclusion": "Rezidivierende kurze depressive EpisodenF38.1"
+      },
+      "children": [
+        {
+          "code": "F33.0",
+          "kind": "category",
+          "label": "Rezidivierende depressive Störung, gegenwärtig leichte Episode",
+          "rubrics": {
+            "preferred": "Rezidivierende depressive Störung, gegenwärtig leichte Episode",
+            "definition": "Eine Störung, die durch wiederholte depressive Episoden gekennzeichnet ist, wobei die gegenwärtige Episode leicht ist (siehe F32.0), ohne Manie in der Anamnese."
+          },
+          "children": []
+        },
+        {
+          "code": "F33.1",
+          "kind": "category",
+          "label": "Rezidivierende depressive Störung, gegenwärtig mittelgradige Episode",
+          "rubrics": {
+            "preferred": "Rezidivierende depressive Störung, gegenwärtig mittelgradige Episode",
+            "definition": "Eine Störung, die durch wiederholte depressive Episoden gekennzeichnet ist, wobei die gegenwärtige Episode mittelgradig ist (siehe F32.1), ohne Manie in der Anamnese."
+          },
+          "children": []
+        },
+        {
+          "code": "F33.2",
+          "kind": "category",
+          "label": "Rezidivierende depressive Störung, gegenwärtig schwere Episode ohne psychotische Symptome",
+          "rubrics": {
+            "preferred": "Rezidivierende depressive Störung, gegenwärtig schwere Episode ohne psychotische Symptome",
+            "definition": "Eine Störung, die durch wiederholte depressive Episoden gekennzeichnet ist, wobei die gegenwärtige Episode schwer ist, ohne psychotische Symptome (siehe F32.2) und ohne Manie in der Anamnese.",
+            "inclusion": "Rezidivierende vitale Depression, ohne psychotische Symptome"
+          },
+          "children": []
+        },
+        {
+          "code": "F33.3",
+          "kind": "category",
+          "label": "Rezidivierende depressive Störung, gegenwärtig schwere Episode mit psychotischen Symptomen",
+          "rubrics": {
+            "preferred": "Rezidivierende depressive Störung, gegenwärtig schwere Episode mit psychotischen Symptomen",
+            "definition": "Eine Störung, die durch wiederholte depressive Episoden gekennzeichnet ist; die gegenwärtige Episode ist schwer, mit psychotischen Symptomen (siehe F32.3), ohne vorhergehende manische Episoden.",
+            "inclusion": "Rezidivierende schwere Episoden:\n\t\t\t\treaktive depressive Psychose"
+          },
+          "children": []
+        },
+        {
+          "code": "F33.4",
+          "kind": "category",
+          "label": "Rezidivierende depressive Störung, gegenwärtig remittiert",
+          "rubrics": {
+            "preferred": "Rezidivierende depressive Störung, gegenwärtig remittiert",
+            "definition": "Die Kriterien für eine der oben beschriebenen Störungen F33.0-F33.3 sind in der Anamnese erfüllt, aber in den letzten Monaten bestehen keine depressiven Symptome."
+          },
+          "children": []
+        },
+        {
+          "code": "F33.8",
+          "kind": "category",
+          "label": "Sonstige rezidivierende depressive Störungen",
+          "rubrics": {
+            "preferred": "Sonstige rezidivierende depressive Störungen"
+          },
+          "children": []
+        },
+        {
+          "code": "F33.9",
+          "kind": "category",
+          "label": "Rezidivierende depressive Störung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Rezidivierende depressive Störung, nicht näher bezeichnet",
+            "inclusion": "Monopolare Depression o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F34",
+      "kind": "category",
+      "label": "Anhaltende affektive Störungen",
+      "rubrics": {
+        "preferred": "Anhaltende affektive Störungen",
+        "definition": "Hierbei handelt es sich um anhaltende und meist fluktuierende Stimmungsstörungen, bei denen die Mehrzahl der einzelnen Episoden nicht ausreichend schwer genug sind, um als hypomanische oder auch nur leichte depressive Episoden gelten zu können. Da sie jahrelang, manchmal den größeren Teil des Erwachsenenlebens, andauern, ziehen sie beträchtliches subjektives Leiden und Beeinträchtigungen nach sich. Gelegentlich können rezidivierende oder einzelne manische oder depressive Episoden eine anhaltende affektive Störung überlagern."
+      },
+      "children": [
+        {
+          "code": "F34.0",
+          "kind": "category",
+          "label": "Zyklothymia",
+          "rubrics": {
+            "preferred": "Zyklothymia",
+            "definition": "Hierbei handelt es sich um eine andauernde Instabilität der Stimmung mit zahlreichen Perioden von Depression und leicht gehobener Stimmung (Hypomanie), von denen aber keine ausreichend schwer und anhaltend genug ist, um die Kriterien für eine bipolare affektive Störung (F31.-) oder rezidivierende depressive Störung (F33.-) zu erfüllen. Diese Störung kommt häufig bei Verwandten von Patienten mit bipolarer affektiver Störung vor. Einige Patienten mit Zyklothymia entwickeln schließlich selbst eine bipolare affektive Störung.",
+            "inclusion": "Zyklothyme Persönlichkeit"
+          },
+          "children": []
+        },
+        {
+          "code": "F34.1",
+          "kind": "category",
+          "label": "Dysthymia",
+          "rubrics": {
+            "preferred": "Dysthymia",
+            "definition": "Hierbei handelt es sich um eine chronische, wenigstens mehrere Jahre andauernde depressive Verstimmung, die weder schwer noch hinsichtlich einzelner Episoden anhaltend genug ist, um die Kriterien einer schweren, mittelgradigen oder leichten rezidivierenden depressiven Störung (F33.-) zu erfüllen.",
+            "inclusion": "Neurotische Depression",
+            "exclusion": "Ängstliche Depression (leicht, aber nicht anhaltend)F41.2"
+          },
+          "children": []
+        },
+        {
+          "code": "F34.8",
+          "kind": "category",
+          "label": "Sonstige anhaltende affektive Störungen",
+          "rubrics": {
+            "preferred": "Sonstige anhaltende affektive Störungen"
+          },
+          "children": []
+        },
+        {
+          "code": "F34.9",
+          "kind": "category",
+          "label": "Anhaltende affektive Störung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Anhaltende affektive Störung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F38",
+      "kind": "category",
+      "label": "Andere affektive Störungen",
+      "rubrics": {
+        "preferred": "Andere affektive Störungen",
+        "definition": "Hierbei handelt es sich um eine Restkategorie für Stimmungsstörungen, die die Kriterien der oben genannten Kategorien F30-F34 in Bezug auf Ausprägung und Dauer nicht erfüllen."
+      },
+      "children": [
+        {
+          "code": "F38.0",
+          "kind": "category",
+          "label": "Andere einzelne affektive Störungen",
+          "rubrics": {
+            "preferred": "Andere einzelne affektive Störungen",
+            "inclusion": "Gemischte affektive Episode"
+          },
+          "children": []
+        },
+        {
+          "code": "F38.1",
+          "kind": "category",
+          "label": "Andere rezidivierende affektive Störungen",
+          "rubrics": {
+            "preferred": "Andere rezidivierende affektive Störungen",
+            "inclusion": "Rezidivierende kurze depressive Episoden"
+          },
+          "children": []
+        },
+        {
+          "code": "F38.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete affektive Störungen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete affektive Störungen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F39",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete affektive Störung",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete affektive Störung",
+        "inclusion": "Affektive Psychose o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

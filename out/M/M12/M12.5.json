@@ -1,0 +1,10 @@
+{
+  "code": "M12.5",
+  "kind": "category",
+  "label": "Traumatische Arthropathie",
+  "rubrics": {
+    "preferred": "Traumatische Arthropathie",
+    "exclusion": "Posttraumatische Arthrose:\n\t\t\t\to.n.A.M19.1-"
+  },
+  "children": []
+}

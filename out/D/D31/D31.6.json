@@ -1,0 +1,12 @@
+{
+  "code": "D31.6",
+  "kind": "category",
+  "label": "Orbita, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Orbita, nicht näher bezeichnet",
+    "preferred": "Orbita, nicht näher bezeichnet",
+    "inclusion": "Retrookuläres Gewebe",
+    "exclusion": "Knochen der AugenhöhleD16.41"
+  },
+  "children": []
+}

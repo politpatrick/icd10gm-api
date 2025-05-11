@@ -1,0 +1,116 @@
+{
+  "code": "T44",
+  "kind": "category",
+  "label": "Vergiftung durch primär auf das autonome Nervensystem wirkende Arzneimittel",
+  "rubrics": {
+    "preferred": "Vergiftung durch primär auf das autonome Nervensystem wirkende Arzneimittel"
+  },
+  "children": [
+    {
+      "code": "T44.0",
+      "kind": "category",
+      "label": "Cholinesterase-Hemmer",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Cholinesterase-Hemmer",
+        "preferred": "Cholinesterase-Hemmer"
+      },
+      "children": []
+    },
+    {
+      "code": "T44.1",
+      "kind": "category",
+      "label": "Sonstige Parasympathomimetika [Cholinergika]",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige Parasympathomimetika [Cholinergika]",
+        "preferred": "Sonstige Parasympathomimetika [Cholinergika]"
+      },
+      "children": []
+    },
+    {
+      "code": "T44.2",
+      "kind": "category",
+      "label": "Ganglienblocker, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Ganglienblocker, anderenorts nicht klassifiziert",
+        "preferred": "Ganglienblocker, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "T44.3",
+      "kind": "category",
+      "label": "Sonstige Parasympatholytika [Anticholinergika und Antimuskarinika] und Spasmolytika, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige Parasympatholytika [Anticholinergika und Antimuskarinika] und Spasmolytika, anderenorts nicht klassifiziert",
+        "preferred": "Sonstige Parasympatholytika [Anticholinergika und Antimuskarinika] und Spasmolytika, anderenorts nicht klassifiziert",
+        "inclusion": "Papaverin"
+      },
+      "children": []
+    },
+    {
+      "code": "T44.4",
+      "kind": "category",
+      "label": "Vorwiegend Alpha-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Vorwiegend Alpha-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+        "preferred": "Vorwiegend Alpha-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+        "inclusion": "Metaraminol"
+      },
+      "children": []
+    },
+    {
+      "code": "T44.5",
+      "kind": "category",
+      "label": "Vorwiegend Beta-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Vorwiegend Beta-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+        "preferred": "Vorwiegend Beta-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+        "exclusion": "Beta-Rezeptoren-Stimulanzien zur AsthmatherapieT48.6"
+      },
+      "children": []
+    },
+    {
+      "code": "T44.6",
+      "kind": "category",
+      "label": "Alpha-Rezeptorenblocker, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Alpha-Rezeptorenblocker, anderenorts nicht klassifiziert",
+        "preferred": "Alpha-Rezeptorenblocker, anderenorts nicht klassifiziert",
+        "exclusion": "Mutterkorn-AlkaloideT48.0"
+      },
+      "children": []
+    },
+    {
+      "code": "T44.7",
+      "kind": "category",
+      "label": "Beta-Rezeptorenblocker, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Beta-Rezeptorenblocker, anderenorts nicht klassifiziert",
+        "preferred": "Beta-Rezeptorenblocker, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "T44.8",
+      "kind": "category",
+      "label": "Zentral wirkende und adrenerge Neuronenblocker, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Zentral wirkende und adrenerge Neuronenblocker, anderenorts nicht klassifiziert",
+        "preferred": "Zentral wirkende und adrenerge Neuronenblocker, anderenorts nicht klassifiziert",
+        "exclusion": "GuanethidinT46.5"
+      },
+      "children": []
+    },
+    {
+      "code": "T44.9",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete, primär auf das autonome Nervensystem wirkende Arzneimittel",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige und nicht näher bezeichnete, primär auf das autonome Nervensystem wirkende Arzneimittel",
+        "preferred": "Sonstige und nicht näher bezeichnete, primär auf das autonome Nervensystem wirkende Arzneimittel",
+        "inclusion": "Kombinierte Alpha- und Beta-Rezeptoren-Stimulanzien"
+      },
+      "children": []
+    }
+  ]
+}

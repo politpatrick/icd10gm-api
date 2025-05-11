@@ -1,0 +1,10 @@
+{
+  "code": "D56.9",
+  "kind": "category",
+  "label": "Thalassämie, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Thalassämie, nicht näher bezeichnet",
+    "inclusion": "Thalassämie (gemischt) (mit sonstiger Hämoglobinopathie) (nicht näher bezeichnet)"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "C93.1",
+  "kind": "category",
+  "label": "Chronische myelomonozytäre Leukämie",
+  "rubrics": {
+    "preferred": "Chronische myelomonozytäre Leukämie",
+    "inclusion": "CMML mit Eosinophilie"
+  },
+  "children": []
+}

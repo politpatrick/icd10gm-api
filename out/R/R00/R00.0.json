@@ -1,0 +1,10 @@
+{
+  "code": "R00.0",
+  "kind": "category",
+  "label": "Tachykardie, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Tachykardie, nicht näher bezeichnet",
+    "inclusion": "Tachykardie:\n\t\t\t\tSinus- o.n.A."
+  },
+  "children": []
+}

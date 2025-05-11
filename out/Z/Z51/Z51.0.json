@@ -1,0 +1,10 @@
+{
+  "code": "Z51.0",
+  "kind": "category",
+  "label": "Strahlentherapie-Sitzung",
+  "rubrics": {
+    "preferred": "Strahlentherapie-Sitzung",
+    "inclusion": "Therapeutische Applikation radioaktiver Substanzen"
+  },
+  "children": []
+}

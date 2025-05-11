@@ -1,0 +1,47 @@
+{
+  "code": "I86.8",
+  "kind": "category",
+  "label": "Varizen sonstiger näher bezeichneter Lokalisationen",
+  "rubrics": {
+    "preferred": "Varizen sonstiger näher bezeichneter Lokalisationen"
+  },
+  "children": [
+    {
+      "code": "I86.80",
+      "kind": "category",
+      "label": "Dünndarmvarizen",
+      "rubrics": {
+        "preferred": "Dünndarmvarizen"
+      },
+      "children": []
+    },
+    {
+      "code": "I86.81",
+      "kind": "category",
+      "label": "Dickdarmvarizen",
+      "rubrics": {
+        "preferred": "Dickdarmvarizen"
+      },
+      "children": []
+    },
+    {
+      "code": "I86.82",
+      "kind": "category",
+      "label": "Rektumvarizen",
+      "rubrics": {
+        "preferred": "Rektumvarizen"
+      },
+      "children": []
+    },
+    {
+      "code": "I86.88",
+      "kind": "category",
+      "label": "Varizen sonstiger näher bezeichneter Lokalisationen",
+      "rubrics": {
+        "preferred": "Varizen sonstiger näher bezeichneter Lokalisationen",
+        "inclusion": "Ulcus varicosum des Nasenseptums"
+      },
+      "children": []
+    }
+  ]
+}

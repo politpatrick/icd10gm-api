@@ -1,0 +1,10 @@
+{
+  "code": "Q78.1",
+  "kind": "category",
+  "label": "Polyostotische fibröse Dysplasie [Jaffé-Lichtenstein-Syndrom]",
+  "rubrics": {
+    "preferred": "Polyostotische fibröse Dysplasie [Jaffé-Lichtenstein-Syndrom]",
+    "inclusion": "McCune-Albright-Syndrom"
+  },
+  "children": []
+}

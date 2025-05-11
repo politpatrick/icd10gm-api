@@ -1,0 +1,619 @@
+{
+  "code": "P20-P29",
+  "kind": "block",
+  "label": "Krankheiten des Atmungs- und Herz-Kreislaufsystems, die für die Perinatalperiode spezifisch sind",
+  "rubrics": {
+    "preferred": "Krankheiten des Atmungs- und Herz-Kreislaufsystems, die für die Perinatalperiode spezifisch sind"
+  },
+  "children": [
+    {
+      "code": "P20",
+      "kind": "category",
+      "label": "Intrauterine Hypoxie",
+      "rubrics": {
+        "preferred": "Intrauterine Hypoxie",
+        "inclusion": "Mekoniumabgang",
+        "exclusion": "Intrakranielle Blutung durch Anoxie oder HypoxieP52.-"
+      },
+      "children": [
+        {
+          "code": "P20.0",
+          "kind": "category",
+          "label": "Intrauterine Hypoxie, erstmals vor Wehenbeginn festgestellt",
+          "rubrics": {
+            "preferred": "Intrauterine Hypoxie, erstmals vor Wehenbeginn festgestellt"
+          },
+          "children": []
+        },
+        {
+          "code": "P20.1",
+          "kind": "category",
+          "label": "Intrauterine Hypoxie, erstmals während Wehen und Entbindung festgestellt",
+          "rubrics": {
+            "preferred": "Intrauterine Hypoxie, erstmals während Wehen und Entbindung festgestellt"
+          },
+          "children": []
+        },
+        {
+          "code": "P20.9",
+          "kind": "category",
+          "label": "Intrauterine Hypoxie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Intrauterine Hypoxie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P21",
+      "kind": "category",
+      "label": "Asphyxie unter der Geburt",
+      "rubrics": {
+        "preferred": "Asphyxie unter der Geburt",
+        "note": "Diese Kategorie ist nicht zu benutzen bei niedrigem Apgarwert ohne Hinweis auf Asphyxie oder sonstige Atmungsprobleme",
+        "exclusion": "Intrauterine Hypoxie oder AsphyxieP20.-"
+      },
+      "children": [
+        {
+          "code": "P21.0",
+          "kind": "category",
+          "label": "Schwere Asphyxie unter der Geburt",
+          "rubrics": {
+            "preferred": "Schwere Asphyxie unter der Geburt",
+            "text": "Pulsfrequenz weniger als 100 pro Minute bei Geburt und abfallend oder gleich bleibend, Schnappatmung oder fehlende Atmung, blasse Hautfarbe, fehlender Muskeltonus.",
+            "inclusion": "Asphyxie mit Apgar-Wert 1 Minute postnatal: 0-3"
+          },
+          "children": []
+        },
+        {
+          "code": "P21.1",
+          "kind": "category",
+          "label": "Leichte oder mäßige Asphyxie unter der Geburt",
+          "rubrics": {
+            "preferred": "Leichte oder mäßige Asphyxie unter der Geburt",
+            "text": "Nichteinsetzen der normalen Atmung innerhalb einer Minute, Herzfrequenz 100 oder mehr, geringer Muskeltonus, geringe Reaktion auf Reize.",
+            "inclusion": "Asphyxie mit Apgar-Wert 1 Minute postnatal: 4-7"
+          },
+          "children": []
+        },
+        {
+          "code": "P21.9",
+          "kind": "category",
+          "label": "Asphyxie unter der Geburt, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Asphyxie unter der Geburt, nicht näher bezeichnet",
+            "inclusion": "Hypoxie\n\t\t\t\to.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P22",
+      "kind": "category",
+      "label": "Atemnot [Respiratory distress] beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Atemnot [Respiratory distress] beim Neugeborenen",
+        "exclusion": "Respiratorisches Versagen beim NeugeborenenP28.5"
+      },
+      "children": [
+        {
+          "code": "P22.0",
+          "kind": "category",
+          "label": "Atemnotsyndrom [Respiratory distress syndrome] des Neugeborenen",
+          "rubrics": {
+            "preferred": "Atemnotsyndrom [Respiratory distress syndrome] des Neugeborenen",
+            "inclusion": "Hyaline Membranenkrankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "P22.1",
+          "kind": "category",
+          "label": "Transitorische Tachypnoe beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Transitorische Tachypnoe beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P22.8",
+          "kind": "category",
+          "label": "Sonstige Atemnot [Respiratory distress] beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige Atemnot [Respiratory distress] beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P22.9",
+          "kind": "category",
+          "label": "Atemnot [Respiratory distress] beim Neugeborenen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Atemnot [Respiratory distress] beim Neugeborenen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P23",
+      "kind": "category",
+      "label": "Angeborene Pneumonie",
+      "rubrics": {
+        "preferred": "Angeborene Pneumonie",
+        "inclusion": "Infektionsbedingte Pneumonie, in utero oder unter der Geburt erworben",
+        "exclusion": "Pneumonie beim Neugeborenen durch AspirationP24.-"
+      },
+      "children": [
+        {
+          "code": "P23.0",
+          "kind": "category",
+          "label": "Angeborene Pneumonie durch Viren",
+          "rubrics": {
+            "preferred": "Angeborene Pneumonie durch Viren",
+            "exclusion": "Kongenitale Röteln-PneumonieP35.0"
+          },
+          "children": []
+        },
+        {
+          "code": "P23.1",
+          "kind": "category",
+          "label": "Angeborene Pneumonie durch Chlamydien",
+          "rubrics": {
+            "preferred": "Angeborene Pneumonie durch Chlamydien"
+          },
+          "children": []
+        },
+        {
+          "code": "P23.2",
+          "kind": "category",
+          "label": "Angeborene Pneumonie durch Staphylokokken",
+          "rubrics": {
+            "preferred": "Angeborene Pneumonie durch Staphylokokken"
+          },
+          "children": []
+        },
+        {
+          "code": "P23.3",
+          "kind": "category",
+          "label": "Angeborene Pneumonie durch Streptokokken, Gruppe B",
+          "rubrics": {
+            "preferred": "Angeborene Pneumonie durch Streptokokken, Gruppe B"
+          },
+          "children": []
+        },
+        {
+          "code": "P23.4",
+          "kind": "category",
+          "label": "Angeborene Pneumonie durch Escherichia coli",
+          "rubrics": {
+            "preferred": "Angeborene Pneumonie durch Escherichia coli"
+          },
+          "children": []
+        },
+        {
+          "code": "P23.5",
+          "kind": "category",
+          "label": "Angeborene Pneumonie durch Pseudomonasarten",
+          "rubrics": {
+            "preferred": "Angeborene Pneumonie durch Pseudomonasarten"
+          },
+          "children": []
+        },
+        {
+          "code": "P23.6",
+          "kind": "category",
+          "label": "Angeborene Pneumonie durch sonstige Bakterien",
+          "rubrics": {
+            "preferred": "Angeborene Pneumonie durch sonstige Bakterien",
+            "inclusion": "Streptokokkus, ausgenommen Gruppe B"
+          },
+          "children": []
+        },
+        {
+          "code": "P23.8",
+          "kind": "category",
+          "label": "Angeborene Pneumonie durch sonstige Erreger",
+          "rubrics": {
+            "preferred": "Angeborene Pneumonie durch sonstige Erreger"
+          },
+          "children": []
+        },
+        {
+          "code": "P23.9",
+          "kind": "category",
+          "label": "Angeborene Pneumonie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Pneumonie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P24",
+      "kind": "category",
+      "label": "Aspirationssyndrome beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Aspirationssyndrome beim Neugeborenen",
+        "inclusion": "Pneumonie beim Neugeborenen durch Aspiration"
+      },
+      "children": [
+        {
+          "code": "P24.0",
+          "kind": "category",
+          "label": "Mekoniumaspiration durch das Neugeborene",
+          "rubrics": {
+            "preferred": "Mekoniumaspiration durch das Neugeborene"
+          },
+          "children": []
+        },
+        {
+          "code": "P24.1",
+          "kind": "category",
+          "label": "Fruchtwasser- und Schleimaspiration durch das Neugeborene",
+          "rubrics": {
+            "preferred": "Fruchtwasser- und Schleimaspiration durch das Neugeborene",
+            "inclusion": "Aspiration von Liquor (amnii)"
+          },
+          "children": []
+        },
+        {
+          "code": "P24.2",
+          "kind": "category",
+          "label": "Blutaspiration durch das Neugeborene",
+          "rubrics": {
+            "preferred": "Blutaspiration durch das Neugeborene"
+          },
+          "children": []
+        },
+        {
+          "code": "P24.3",
+          "kind": "category",
+          "label": "Aspiration von Milch und regurgitierter Nahrung durch das Neugeborene",
+          "rubrics": {
+            "preferred": "Aspiration von Milch und regurgitierter Nahrung durch das Neugeborene"
+          },
+          "children": []
+        },
+        {
+          "code": "P24.8",
+          "kind": "category",
+          "label": "Sonstige Aspirationssyndrome beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige Aspirationssyndrome beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P24.9",
+          "kind": "category",
+          "label": "Aspirationssyndrom beim Neugeborenen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Aspirationssyndrom beim Neugeborenen, nicht näher bezeichnet",
+            "inclusion": "Neonatale Aspirationspneumonie o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P25",
+      "kind": "category",
+      "label": "Interstitielles Emphysem und verwandte Zustände mit Ursprung in der Perinatalperiode",
+      "rubrics": {
+        "preferred": "Interstitielles Emphysem und verwandte Zustände mit Ursprung in der Perinatalperiode"
+      },
+      "children": [
+        {
+          "code": "P25.0",
+          "kind": "category",
+          "label": "Interstitielles Emphysem mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Interstitielles Emphysem mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        },
+        {
+          "code": "P25.1",
+          "kind": "category",
+          "label": "Pneumothorax mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Pneumothorax mit Ursprung in der Perinatalperiode",
+            "exclusion": "Iatrogener PneumothoraxJ95.80"
+          },
+          "children": []
+        },
+        {
+          "code": "P25.2",
+          "kind": "category",
+          "label": "Pneumomediastinum mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Pneumomediastinum mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        },
+        {
+          "code": "P25.3",
+          "kind": "category",
+          "label": "Pneumoperikard mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Pneumoperikard mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        },
+        {
+          "code": "P25.8",
+          "kind": "category",
+          "label": "Sonstige Zustände in Verbindung mit interstitiellem Emphysem mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Sonstige Zustände in Verbindung mit interstitiellem Emphysem mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P26",
+      "kind": "category",
+      "label": "Lungenblutung mit Ursprung in der Perinatalperiode",
+      "rubrics": {
+        "preferred": "Lungenblutung mit Ursprung in der Perinatalperiode"
+      },
+      "children": [
+        {
+          "code": "P26.0",
+          "kind": "category",
+          "label": "Tracheobronchiale Blutung mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Tracheobronchiale Blutung mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        },
+        {
+          "code": "P26.1",
+          "kind": "category",
+          "label": "Massive Lungenblutung mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Massive Lungenblutung mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        },
+        {
+          "code": "P26.8",
+          "kind": "category",
+          "label": "Sonstige Lungenblutung mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Sonstige Lungenblutung mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        },
+        {
+          "code": "P26.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Lungenblutung mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Lungenblutung mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P27",
+      "kind": "category",
+      "label": "Chronische Atemwegskrankheit mit Ursprung in der Perinatalperiode",
+      "rubrics": {
+        "preferred": "Chronische Atemwegskrankheit mit Ursprung in der Perinatalperiode"
+      },
+      "children": [
+        {
+          "code": "P27.0",
+          "kind": "category",
+          "label": "Mikity-Wilson-Syndrom",
+          "rubrics": {
+            "preferred": "Mikity-Wilson-Syndrom",
+            "inclusion": "Pulmonale Dysmaturität"
+          },
+          "children": []
+        },
+        {
+          "code": "P27.1",
+          "kind": "category",
+          "label": "Bronchopulmonale Dysplasie mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Bronchopulmonale Dysplasie mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        },
+        {
+          "code": "P27.8",
+          "kind": "category",
+          "label": "Sonstige chronische Atemwegskrankheiten mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Sonstige chronische Atemwegskrankheiten mit Ursprung in der Perinatalperiode",
+            "inclusion": "Beatmungslunge beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P27.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete chronische Atemwegskrankheit mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete chronische Atemwegskrankheit mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P28",
+      "kind": "category",
+      "label": "Sonstige Störungen der Atmung mit Ursprung in der Perinatalperiode",
+      "rubrics": {
+        "preferred": "Sonstige Störungen der Atmung mit Ursprung in der Perinatalperiode",
+        "exclusion": "Angeborene Fehlbildungen des AtmungssystemsQ30-Q34"
+      },
+      "children": [
+        {
+          "code": "P28.0",
+          "kind": "category",
+          "label": "Primäre Atelektase beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Primäre Atelektase beim Neugeborenen",
+            "inclusion": "Unreife der Lungen o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "P28.1",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete Atelektase beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete Atelektase beim Neugeborenen",
+            "inclusion": "Resorptionsatelektase ohne Atemnotsyndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "P28.2",
+          "kind": "category",
+          "label": "Zyanoseanfälle beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Zyanoseanfälle beim Neugeborenen",
+            "exclusion": "Apnoe beim NeugeborenenP28.3P28.4"
+          },
+          "children": []
+        },
+        {
+          "code": "P28.3",
+          "kind": "category",
+          "label": "Primäre Schlafapnoe beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Primäre Schlafapnoe beim Neugeborenen",
+            "inclusion": "Schlafapnoe beim Neugeborenen:\n\t\t\t\tzentral"
+          },
+          "children": []
+        },
+        {
+          "code": "P28.4",
+          "kind": "category",
+          "label": "Sonstige Apnoe beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige Apnoe beim Neugeborenen",
+            "inclusion": "Obstruktive Apnoe beim Neugeborenen",
+            "exclusion": "Obstruktive Schlafapnoe beim NeugeborenenP28.3"
+          },
+          "children": []
+        },
+        {
+          "code": "P28.5",
+          "kind": "category",
+          "label": "Respiratorisches Versagen beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Respiratorisches Versagen beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P28.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Störungen der Atmung beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Störungen der Atmung beim Neugeborenen",
+            "inclusion": "Stridor congenitus (laryngis) o.n.A.",
+            "exclusion": "Angeborene frühsyphilitische RhinitisA50.0"
+          },
+          "children": []
+        },
+        {
+          "code": "P28.9",
+          "kind": "category",
+          "label": "Störung der Atmung beim Neugeborenen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Störung der Atmung beim Neugeborenen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P29",
+      "kind": "category",
+      "label": "Kardiovaskuläre Krankheiten mit Ursprung in der Perinatalperiode",
+      "rubrics": {
+        "preferred": "Kardiovaskuläre Krankheiten mit Ursprung in der Perinatalperiode",
+        "exclusion": "Angeborene Fehlbildungen des KreislaufsystemsQ20-Q28"
+      },
+      "children": [
+        {
+          "code": "P29.0",
+          "kind": "category",
+          "label": "Herzinsuffizienz beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Herzinsuffizienz beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P29.1",
+          "kind": "category",
+          "label": "Herzrhythmusstörung beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Herzrhythmusstörung beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P29.2",
+          "kind": "category",
+          "label": "Hypertonie beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Hypertonie beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P29.3",
+          "kind": "category",
+          "label": "Persistierender Fetalkreislauf",
+          "rubrics": {
+            "preferred": "Persistierender Fetalkreislauf",
+            "inclusion": "Verzögerter Verschluss des Ductus arteriosus"
+          },
+          "children": []
+        },
+        {
+          "code": "P29.4",
+          "kind": "category",
+          "label": "Transitorische Myokardischämie beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Transitorische Myokardischämie beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P29.8",
+          "kind": "category",
+          "label": "Sonstige kardiovaskuläre Krankheiten mit Ursprung in der Perinatalperiode",
+          "rubrics": {
+            "preferred": "Sonstige kardiovaskuläre Krankheiten mit Ursprung in der Perinatalperiode"
+          },
+          "children": []
+        },
+        {
+          "code": "P29.9",
+          "kind": "category",
+          "label": "Kardiovaskuläre Krankheit mit Ursprung in der Perinatalperiode, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Kardiovaskuläre Krankheit mit Ursprung in der Perinatalperiode, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

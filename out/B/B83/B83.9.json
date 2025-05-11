@@ -1,0 +1,11 @@
+{
+  "code": "B83.9",
+  "kind": "category",
+  "label": "Helminthose, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Helminthose, nicht näher bezeichnet",
+    "inclusion": "Würmer o.n.A.",
+    "exclusion": "Intestinale Helminthose o.n.A.B82.0"
+  },
+  "children": []
+}

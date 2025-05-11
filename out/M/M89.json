@@ -1,0 +1,98 @@
+{
+  "code": "M89",
+  "kind": "category",
+  "label": "Sonstige Knochenkrankheiten",
+  "rubrics": {
+    "preferred": "Sonstige Knochenkrankheiten",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+  },
+  "children": [
+    {
+      "code": "M89.0",
+      "kind": "category",
+      "label": "Neurodystrophie [Algodystrophie]",
+      "rubrics": {
+        "preferred": "Neurodystrophie [Algodystrophie]",
+        "inclusion": "Schulter-Hand-Syndrom",
+        "exclusion": "Sympathische ReflexdystrophieG90.5-"
+      },
+      "children": []
+    },
+    {
+      "code": "M89.1",
+      "kind": "category",
+      "label": "Stillstand des Epiphysenwachstums",
+      "rubrics": {
+        "preferred": "Stillstand des Epiphysenwachstums"
+      },
+      "children": []
+    },
+    {
+      "code": "M89.2",
+      "kind": "category",
+      "label": "Sonstige Störungen der Knochenentwicklung und des Knochenwachstums",
+      "rubrics": {
+        "preferred": "Sonstige Störungen der Knochenentwicklung und des Knochenwachstums"
+      },
+      "children": []
+    },
+    {
+      "code": "M89.3",
+      "kind": "category",
+      "label": "Hypertrophie des Knochens",
+      "rubrics": {
+        "preferred": "Hypertrophie des Knochens"
+      },
+      "children": []
+    },
+    {
+      "code": "M89.4",
+      "kind": "category",
+      "label": "Sonstige hypertrophische Osteoarthropathie",
+      "rubrics": {
+        "preferred": "Sonstige hypertrophische Osteoarthropathie",
+        "inclusion": "Pachydermoperiostose"
+      },
+      "children": []
+    },
+    {
+      "code": "M89.5",
+      "kind": "category",
+      "label": "Osteolyse",
+      "rubrics": {
+        "preferred": "Osteolyse"
+      },
+      "children": []
+    },
+    {
+      "code": "M89.6",
+      "kind": "category",
+      "label": "Osteopathie nach Poliomyelitis",
+      "rubrics": {
+        "preferred": "Osteopathie nach Poliomyelitis",
+        "coding-hint": "Soll die vorangegangene Poliomyelitis angegeben werden, ist zusätzlich die Schlüsselnummer B91 zu benutzen.",
+        "exclusion": "Postpolio-SyndromG14"
+      },
+      "children": []
+    },
+    {
+      "code": "M89.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Knochenkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Knochenkrankheiten",
+        "inclusion": "Posttraumatische subperiostale Ossifikation"
+      },
+      "children": []
+    },
+    {
+      "code": "M89.9",
+      "kind": "category",
+      "label": "Knochenkrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Knochenkrankheit, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

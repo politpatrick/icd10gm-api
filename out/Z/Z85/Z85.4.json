@@ -1,0 +1,10 @@
+{
+  "code": "Z85.4",
+  "kind": "category",
+  "label": "Bösartige Neubildung der Genitalorgane in der Eigenanamnese",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung der Genitalorgane in der Eigenanamnese",
+    "inclusion": "Zustände, klassifizierbar unter C51-C63"
+  },
+  "children": []
+}

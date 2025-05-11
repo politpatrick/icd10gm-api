@@ -1,0 +1,11 @@
+{
+  "code": "D48.0",
+  "kind": "category",
+  "label": "Knochen und Gelenkknorpel",
+  "rubrics": {
+    "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Knochen und Gelenkknorpel",
+    "preferred": "Knochen und Gelenkknorpel",
+    "exclusion": "SynovialmembranD48.1"
+  },
+  "children": []
+}

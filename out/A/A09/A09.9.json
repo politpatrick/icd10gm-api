@@ -1,0 +1,11 @@
+{
+  "code": "A09.9",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Gastroenteritis und Kolitis nicht näher bezeichneten Ursprungs",
+  "rubrics": {
+    "preferred": "Sonstige und nicht näher bezeichnete Gastroenteritis und Kolitis nicht näher bezeichneten Ursprungs",
+    "inclusion": "Neonatale Diarrhoe o.n.A.",
+    "exclusion": "Colitis indeterminataK52.3-"
+  },
+  "children": []
+}

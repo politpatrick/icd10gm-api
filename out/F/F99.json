@@ -1,0 +1,11 @@
+{
+  "code": "F99",
+  "kind": "category",
+  "label": "Psychische Störung ohne nähere Angabe",
+  "rubrics": {
+    "preferred": "Psychische Störung ohne nähere Angabe",
+    "inclusion": "Psychische Krankheit o.n.A.",
+    "exclusion": "Organische psychische Störung o.n.A.F06.9"
+  },
+  "children": []
+}

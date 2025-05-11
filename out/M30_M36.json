@@ -1,0 +1,537 @@
+{
+  "code": "M30-M36",
+  "kind": "block",
+  "label": "Systemkrankheiten des Bindegewebes",
+  "rubrics": {
+    "preferred": "Systemkrankheiten des Bindegewebes",
+    "inclusion": "Kollagen- (Gefäß-) Krankheit:\n\t\t\t\to.n.A.",
+    "exclusion": "Autoimmunkrankheit eines einzelnen Organs oder eines einzelnen Zelltyps (Verschlüsselung des betreffenden Zustandes)"
+  },
+  "children": [
+    {
+      "code": "M30",
+      "kind": "category",
+      "label": "Panarteriitis nodosa und verwandte Zustände",
+      "rubrics": {
+        "preferred": "Panarteriitis nodosa und verwandte Zustände"
+      },
+      "children": [
+        {
+          "code": "M30.0",
+          "kind": "category",
+          "label": "Panarteriitis nodosa",
+          "rubrics": {
+            "preferred": "Panarteriitis nodosa"
+          },
+          "children": []
+        },
+        {
+          "code": "M30.1",
+          "kind": "category",
+          "label": "Panarteriitis mit Lungenbeteiligung",
+          "rubrics": {
+            "preferred": "Panarteriitis mit Lungenbeteiligung",
+            "inclusion": "Eosinophile Granulomatose mit Polyangiitis"
+          },
+          "children": []
+        },
+        {
+          "code": "M30.2",
+          "kind": "category",
+          "label": "Juvenile Panarteriitis",
+          "rubrics": {
+            "preferred": "Juvenile Panarteriitis"
+          },
+          "children": []
+        },
+        {
+          "code": "M30.3",
+          "kind": "category",
+          "label": "Mukokutanes Lymphknotensyndrom [Kawasaki-Krankheit]",
+          "rubrics": {
+            "preferred": "Mukokutanes Lymphknotensyndrom [Kawasaki-Krankheit]"
+          },
+          "children": []
+        },
+        {
+          "code": "M30.8",
+          "kind": "category",
+          "label": "Sonstige mit Panarteriitis nodosa verwandte Zustände",
+          "rubrics": {
+            "preferred": "Sonstige mit Panarteriitis nodosa verwandte Zustände",
+            "inclusion": "Polyangiitis-Overlap-Syndrom"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M31",
+      "kind": "category",
+      "label": "Sonstige nekrotisierende Vaskulopathien",
+      "rubrics": {
+        "preferred": "Sonstige nekrotisierende Vaskulopathien"
+      },
+      "children": [
+        {
+          "code": "M31.0",
+          "kind": "category",
+          "label": "Hypersensitivitätsangiitis",
+          "rubrics": {
+            "preferred": "Hypersensitivitätsangiitis",
+            "inclusion": "Goodpasture-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "M31.1",
+          "kind": "category",
+          "label": "Thrombotische Mikroangiopathie",
+          "rubrics": {
+            "preferred": "Thrombotische Mikroangiopathie",
+            "inclusion": "Thrombotische thrombozytopenische Purpura [Moschcowitz]"
+          },
+          "children": []
+        },
+        {
+          "code": "M31.3",
+          "kind": "category",
+          "label": "Granulomatose mit Polyangiitis",
+          "rubrics": {
+            "preferred": "Granulomatose mit Polyangiitis",
+            "inclusion": "Nekrotisierende Granulomatose der Atemwege"
+          },
+          "children": []
+        },
+        {
+          "code": "M31.4",
+          "kind": "category",
+          "label": "Aortenbogen-Syndrom [Takayasu-Syndrom]",
+          "rubrics": {
+            "preferred": "Aortenbogen-Syndrom [Takayasu-Syndrom]"
+          },
+          "children": []
+        },
+        {
+          "code": "M31.5",
+          "kind": "category",
+          "label": "Riesenzellarteriitis bei Polymyalgia rheumatica",
+          "rubrics": {
+            "preferred": "Riesenzellarteriitis bei Polymyalgia rheumatica"
+          },
+          "children": []
+        },
+        {
+          "code": "M31.6",
+          "kind": "category",
+          "label": "Sonstige Riesenzellarteriitis",
+          "rubrics": {
+            "preferred": "Sonstige Riesenzellarteriitis"
+          },
+          "children": []
+        },
+        {
+          "code": "M31.7",
+          "kind": "category",
+          "label": "Mikroskopische Polyangiitis",
+          "rubrics": {
+            "preferred": "Mikroskopische Polyangiitis",
+            "inclusion": "Mikroskopische Polyarteriitis",
+            "exclusion": "Polyarteriitis nodosa M30.0"
+          },
+          "children": []
+        },
+        {
+          "code": "M31.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete nekrotisierende Vaskulopathien",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete nekrotisierende Vaskulopathien",
+            "inclusion": "Hypokomplementämische (urtikarielle) Vaskulitis"
+          },
+          "children": []
+        },
+        {
+          "code": "M31.9",
+          "kind": "category",
+          "label": "Nekrotisierende Vaskulopathie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Nekrotisierende Vaskulopathie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M32",
+      "kind": "category",
+      "label": "Systemischer Lupus erythematodes",
+      "rubrics": {
+        "preferred": "Systemischer Lupus erythematodes",
+        "exclusion": "Lupus erythematodes (diskoid) (o.n.A.)L93.0"
+      },
+      "children": [
+        {
+          "code": "M32.0",
+          "kind": "category",
+          "label": "Arzneimittelinduzierter systemischer Lupus erythematodes",
+          "rubrics": {
+            "preferred": "Arzneimittelinduzierter systemischer Lupus erythematodes",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "M32.1",
+          "kind": "category",
+          "label": "Systemischer Lupus erythematodes mit Beteiligung von Organen oder Organsystemen",
+          "rubrics": {
+            "preferred": "Systemischer Lupus erythematodes mit Beteiligung von Organen oder Organsystemen",
+            "inclusion": "Systemischer Lupus erythematodes mit:\n\t\t\t\tNierenbeteiligungN08.5N16.4"
+          },
+          "children": []
+        },
+        {
+          "code": "M32.8",
+          "kind": "category",
+          "label": "Sonstige Formen des systemischen Lupus erythematodes",
+          "rubrics": {
+            "preferred": "Sonstige Formen des systemischen Lupus erythematodes"
+          },
+          "children": []
+        },
+        {
+          "code": "M32.9",
+          "kind": "category",
+          "label": "Systemischer Lupus erythematodes, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Systemischer Lupus erythematodes, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M33",
+      "kind": "category",
+      "label": "Dermatomyositis-Polymyositis",
+      "rubrics": {
+        "preferred": "Dermatomyositis-Polymyositis"
+      },
+      "children": [
+        {
+          "code": "M33.0",
+          "kind": "category",
+          "label": "Juvenile Dermatomyositis",
+          "rubrics": {
+            "preferred": "Juvenile Dermatomyositis"
+          },
+          "children": []
+        },
+        {
+          "code": "M33.1",
+          "kind": "category",
+          "label": "Sonstige Dermatomyositis",
+          "rubrics": {
+            "preferred": "Sonstige Dermatomyositis"
+          },
+          "children": []
+        },
+        {
+          "code": "M33.2",
+          "kind": "category",
+          "label": "Polymyositis",
+          "rubrics": {
+            "preferred": "Polymyositis"
+          },
+          "children": []
+        },
+        {
+          "code": "M33.9",
+          "kind": "category",
+          "label": "Dermatomyositis-Polymyositis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Dermatomyositis-Polymyositis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M34",
+      "kind": "category",
+      "label": "Systemische Sklerose",
+      "rubrics": {
+        "preferred": "Systemische Sklerose",
+        "inclusion": "Sklerodermie",
+        "exclusion": "Sklerodermie beim NeugeborenenP83.8"
+      },
+      "children": [
+        {
+          "code": "M34.0",
+          "kind": "category",
+          "label": "Progressive systemische Sklerose",
+          "rubrics": {
+            "preferred": "Progressive systemische Sklerose"
+          },
+          "children": []
+        },
+        {
+          "code": "M34.1",
+          "kind": "category",
+          "label": "CR(E)ST-Syndrom",
+          "rubrics": {
+            "preferred": "CR(E)ST-Syndrom",
+            "text": "Kombination von Kalzinose, Raynaud-Phänomen, Ösophagusdysfunktion, Sklerodaktylie, Teleangiektasie."
+          },
+          "children": []
+        },
+        {
+          "code": "M34.2",
+          "kind": "category",
+          "label": "Systemische Sklerose, durch Arzneimittel oder chemische Substanzen induziert",
+          "rubrics": {
+            "preferred": "Systemische Sklerose, durch Arzneimittel oder chemische Substanzen induziert",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "M34.8",
+          "kind": "category",
+          "label": "Sonstige Formen der systemischen Sklerose",
+          "rubrics": {
+            "preferred": "Sonstige Formen der systemischen Sklerose",
+            "inclusion": "Systemische Sklerose mit:\n\t\t\t\tPolyneuropathieG63.5"
+          },
+          "children": []
+        },
+        {
+          "code": "M34.9",
+          "kind": "category",
+          "label": "Systemische Sklerose, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Systemische Sklerose, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M35",
+      "kind": "category",
+      "label": "Sonstige Krankheiten mit Systembeteiligung des Bindegewebes",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten mit Systembeteiligung des Bindegewebes",
+        "exclusion": "Reaktive perforierende KollagenoseL87.1"
+      },
+      "children": [
+        {
+          "code": "M35.0",
+          "kind": "category",
+          "label": "Sicca-Syndrom [Sjögren-Syndrom]",
+          "rubrics": {
+            "preferred": "Sicca-Syndrom [Sjögren-Syndrom]",
+            "inclusion": "Sjögren-Syndrom mit:\n\t\t\t\ttubulointerstitieller NierenkrankheitN16.4",
+            "exclusion": "Trockenes AugeH04.1"
+          },
+          "children": []
+        },
+        {
+          "code": "M35.1",
+          "kind": "category",
+          "label": "Sonstige Overlap-Syndrome",
+          "rubrics": {
+            "preferred": "Sonstige Overlap-Syndrome",
+            "inclusion": "Mixed connective tissue disease [Sharp-Syndrom]",
+            "exclusion": "Polyangiitis-Overlap-SyndromM30.8"
+          },
+          "children": []
+        },
+        {
+          "code": "M35.2",
+          "kind": "category",
+          "label": "Behçet-Krankheit",
+          "rubrics": {
+            "preferred": "Behçet-Krankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "M35.3",
+          "kind": "category",
+          "label": "Polymyalgia rheumatica",
+          "rubrics": {
+            "preferred": "Polymyalgia rheumatica",
+            "exclusion": "Polymyalgia rheumatica mit RiesenzellarteriitisM31.5"
+          },
+          "children": []
+        },
+        {
+          "code": "M35.4",
+          "kind": "category",
+          "label": "Eosinophile Fasziitis",
+          "rubrics": {
+            "preferred": "Eosinophile Fasziitis"
+          },
+          "children": []
+        },
+        {
+          "code": "M35.5",
+          "kind": "category",
+          "label": "Multifokale Fibrosklerose",
+          "rubrics": {
+            "preferred": "Multifokale Fibrosklerose"
+          },
+          "children": []
+        },
+        {
+          "code": "M35.6",
+          "kind": "category",
+          "label": "Rezidivierende Pannikulitis [Pfeifer-Weber-Christian-Krankheit]",
+          "rubrics": {
+            "preferred": "Rezidivierende Pannikulitis [Pfeifer-Weber-Christian-Krankheit]",
+            "exclusion": "Pannikulitis:\n\t\t\t\to.n.A.M79.3-"
+          },
+          "children": []
+        },
+        {
+          "code": "M35.7",
+          "kind": "category",
+          "label": "Hypermobilitäts-Syndrom",
+          "rubrics": {
+            "preferred": "Hypermobilitäts-Syndrom",
+            "inclusion": "Familiäre Bänderschwäche",
+            "exclusion": "Ehlers-Danlos-SyndromQ79.6"
+          },
+          "children": []
+        },
+        {
+          "code": "M35.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten mit Systembeteiligung des Bindegewebes",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten mit Systembeteiligung des Bindegewebes"
+          },
+          "children": []
+        },
+        {
+          "code": "M35.9",
+          "kind": "category",
+          "label": "Krankheit mit Systembeteiligung des Bindegewebes, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit mit Systembeteiligung des Bindegewebes, nicht näher bezeichnet",
+            "inclusion": "Kollagen- (Gefäß-) Krankheit o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M36",
+      "kind": "category",
+      "label": "Systemkrankheiten des Bindegewebes bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Systemkrankheiten des Bindegewebes bei anderenorts klassifizierten Krankheiten",
+        "exclusion": "Arthropathien bei anderenorts klassifizierten KrankheitenM14.-"
+      },
+      "children": [
+        {
+          "code": "M36.0",
+          "kind": "category",
+          "label": "Dermatomyositis-Polymyositis bei NeubildungenC00-D48",
+          "rubrics": {
+            "preferred": "Dermatomyositis-Polymyositis bei NeubildungenC00-D48"
+          },
+          "children": []
+        },
+        {
+          "code": "M36.1",
+          "kind": "category",
+          "label": "Arthropathie bei NeubildungenC00-D48",
+          "rubrics": {
+            "preferred": "Arthropathie bei NeubildungenC00-D48",
+            "inclusion": "Arthropathie bei:\n\t\t\t\tPlasmozytomC90.0-"
+          },
+          "children": []
+        },
+        {
+          "code": "M36.2",
+          "kind": "category",
+          "label": "Arthropathia haemophilicaD66-D68",
+          "rubrics": {
+            "preferred": "Arthropathia haemophilicaD66-D68"
+          },
+          "children": []
+        },
+        {
+          "code": "M36.3",
+          "kind": "category",
+          "label": "Arthropathie bei sonstigen anderenorts klassifizierten BlutkrankheitenD50-D76",
+          "rubrics": {
+            "preferred": "Arthropathie bei sonstigen anderenorts klassifizierten BlutkrankheitenD50-D76",
+            "exclusion": "Arthropathie bei Purpura Schoenlein-HenochM36.4"
+          },
+          "children": []
+        },
+        {
+          "code": "M36.4",
+          "kind": "category",
+          "label": "Arthropathie bei anderenorts klassifizierten Hypersensitivitätsreaktionen",
+          "rubrics": {
+            "preferred": "Arthropathie bei anderenorts klassifizierten Hypersensitivitätsreaktionen",
+            "inclusion": "Arthropathie bei Purpura Schoenlein-HenochD69.0"
+          },
+          "children": []
+        },
+        {
+          "code": "M36.5",
+          "kind": "category",
+          "label": "Beteiligung des Bindegewebes bei der chronischer Graft-versus-Host-Krankheit",
+          "rubrics": {
+            "preferred": "Beteiligung des Bindegewebes bei der chronischer Graft-versus-Host-Krankheit"
+          },
+          "children": [
+            {
+              "code": "M36.51",
+              "kind": "category",
+              "label": "Stadium 1 der chronischen Bindegewebe-Graft-versus-Host-Krankheit T86.05T86.06",
+              "rubrics": {
+                "preferred": "Stadium 1 der chronischen Bindegewebe-Graft-versus-Host-Krankheit T86.05T86.06"
+              },
+              "children": []
+            },
+            {
+              "code": "M36.52",
+              "kind": "category",
+              "label": "Stadium 2 der chronischen Bindegewebe-Graft-versus-Host-Krankheit T86.06",
+              "rubrics": {
+                "preferred": "Stadium 2 der chronischen Bindegewebe-Graft-versus-Host-Krankheit T86.06"
+              },
+              "children": []
+            },
+            {
+              "code": "M36.53",
+              "kind": "category",
+              "label": "Stadium 3 der chronischen Bindegewebe-Graft-versus-Host-KrankheitT86.07",
+              "rubrics": {
+                "preferred": "Stadium 3 der chronischen Bindegewebe-Graft-versus-Host-KrankheitT86.07"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M36.8",
+          "kind": "category",
+          "label": "Systemkrankheiten des Bindegewebes bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Systemkrankheiten des Bindegewebes bei sonstigen anderenorts klassifizierten Krankheiten",
+            "inclusion": "Systemkrankheiten des Bindegewebes bei:\n\t\t\t\tOchronoseE70.2"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

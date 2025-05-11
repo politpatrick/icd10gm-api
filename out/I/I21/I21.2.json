@@ -1,0 +1,10 @@
+{
+  "code": "I21.2",
+  "kind": "category",
+  "label": "Akuter transmuraler Myokardinfarkt an sonstigen Lokalisationen",
+  "rubrics": {
+    "preferred": "Akuter transmuraler Myokardinfarkt an sonstigen Lokalisationen",
+    "inclusion": "Transmuraler Infarkt (akut):\n\t\t\t\tseptal o.n.A."
+  },
+  "children": []
+}

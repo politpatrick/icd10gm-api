@@ -1,0 +1,10 @@
+{
+  "code": "K77.8",
+  "kind": "category",
+  "label": "Leberkrankheiten bei sonstigen anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Leberkrankheiten bei sonstigen anderenorts klassifizierten Krankheiten",
+    "inclusion": "Lebergranulome bei:\n\t\t\t\tSarkoidoseD86.8"
+  },
+  "children": []
+}

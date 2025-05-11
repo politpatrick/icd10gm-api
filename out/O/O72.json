@@ -1,0 +1,53 @@
+{
+  "code": "O72",
+  "kind": "category",
+  "label": "Postpartale Blutung",
+  "rubrics": {
+    "preferred": "Postpartale Blutung",
+    "inclusion": "Blutung nach Ausstoßung des Fetus oder Geburt des Kindes"
+  },
+  "children": [
+    {
+      "code": "O72.0",
+      "kind": "category",
+      "label": "Blutung in der Nachgeburtsperiode",
+      "rubrics": {
+        "preferred": "Blutung in der Nachgeburtsperiode",
+        "inclusion": "Plazentaretention o.n.A.",
+        "coding-hint": "Soll das Vorliegen einer krankhaft anhaftenden Plazenta angegeben werden, ist eine zusätzliche Schlüsselnummer (O43.2-) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "O72.1",
+      "kind": "category",
+      "label": "Sonstige unmittelbar postpartal auftretende Blutung",
+      "rubrics": {
+        "preferred": "Sonstige unmittelbar postpartal auftretende Blutung",
+        "inclusion": "Postpartale Blutung (atonisch) o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "O72.2",
+      "kind": "category",
+      "label": "Spätblutung und späte Nachgeburtsblutung",
+      "rubrics": {
+        "preferred": "Spätblutung und späte Nachgeburtsblutung",
+        "inclusion": "Retention von Konzeptionsprodukten o.n.A., nach Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O72.3",
+      "kind": "category",
+      "label": "Postpartale Gerinnungsstörungen",
+      "rubrics": {
+        "preferred": "Postpartale Gerinnungsstörungen",
+        "coding-hint": "Benutze eine zusätzliche Schlüsselnummer D65-D69, um die Art der Blutgerinnungsstörung anzugeben.",
+        "inclusion": "Postpartal:\n\t\t\t\tFibrinolyse"
+      },
+      "children": []
+    }
+  ]
+}

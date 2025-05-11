@@ -1,0 +1,11 @@
+{
+  "code": "N36.0",
+  "kind": "category",
+  "label": "Harnröhrenfistel",
+  "rubrics": {
+    "preferred": "Harnröhrenfistel",
+    "inclusion": "Via falsa, Harnröhre",
+    "exclusion": "Fistel:\n\t\t\t\turethrovaginalN82.1"
+  },
+  "children": []
+}

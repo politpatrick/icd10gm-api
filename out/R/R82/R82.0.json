@@ -1,0 +1,10 @@
+{
+  "code": "R82.0",
+  "kind": "category",
+  "label": "Chylurie",
+  "rubrics": {
+    "preferred": "Chylurie",
+    "exclusion": "Chylurie durch FilarienB74.-"
+  },
+  "children": []
+}

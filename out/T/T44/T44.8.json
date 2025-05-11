@@ -1,0 +1,11 @@
+{
+  "code": "T44.8",
+  "kind": "category",
+  "label": "Zentral wirkende und adrenerge Neuronenblocker, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Zentral wirkende und adrenerge Neuronenblocker, anderenorts nicht klassifiziert",
+    "preferred": "Zentral wirkende und adrenerge Neuronenblocker, anderenorts nicht klassifiziert",
+    "exclusion": "GuanethidinT46.5"
+  },
+  "children": []
+}

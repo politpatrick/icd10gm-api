@@ -1,0 +1,11 @@
+{
+  "code": "C16.5",
+  "kind": "category",
+  "label": "Kleine Kurvatur des Magens, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Kleine Kurvatur des Magens, nicht näher bezeichnet",
+    "preferred": "Kleine Kurvatur des Magens, nicht näher bezeichnet",
+    "inclusion": "Kleine Kurvatur des Magens, nicht unter C16.1-C16.4 klassifizierbar"
+  },
+  "children": []
+}

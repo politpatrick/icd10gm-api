@@ -1,0 +1,10 @@
+{
+  "code": "T30.0",
+  "kind": "category",
+  "label": "Verbrennung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Verbrennung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet",
+    "inclusion": "Verbrennung o.n.A."
+  },
+  "children": []
+}

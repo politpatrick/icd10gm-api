@@ -1,0 +1,83 @@
+{
+  "code": "I71.0",
+  "kind": "category",
+  "label": "Dissektion der Aorta",
+  "rubrics": {
+    "preferred": "Dissektion der Aorta",
+    "inclusion": "Aneurysma dissecans der Aorta"
+  },
+  "children": [
+    {
+      "code": "I71.00",
+      "kind": "category",
+      "label": "Dissektion der Aorta nicht näher bezeichneter Lokalisation, ohne Angabe einer Ruptur",
+      "rubrics": {
+        "preferred": "Dissektion der Aorta nicht näher bezeichneter Lokalisation, ohne Angabe einer Ruptur"
+      },
+      "children": []
+    },
+    {
+      "code": "I71.01",
+      "kind": "category",
+      "label": "Dissektion der Aorta thoracica, ohne Angabe einer Ruptur",
+      "rubrics": {
+        "preferred": "Dissektion der Aorta thoracica, ohne Angabe einer Ruptur"
+      },
+      "children": []
+    },
+    {
+      "code": "I71.02",
+      "kind": "category",
+      "label": "Dissektion der Aorta abdominalis, ohne Angabe einer Ruptur",
+      "rubrics": {
+        "preferred": "Dissektion der Aorta abdominalis, ohne Angabe einer Ruptur"
+      },
+      "children": []
+    },
+    {
+      "code": "I71.03",
+      "kind": "category",
+      "label": "Dissektion der Aorta, thorakoabdominal, ohne Angabe einer Ruptur",
+      "rubrics": {
+        "preferred": "Dissektion der Aorta, thorakoabdominal, ohne Angabe einer Ruptur"
+      },
+      "children": []
+    },
+    {
+      "code": "I71.04",
+      "kind": "category",
+      "label": "Dissektion der Aorta nicht näher bezeichneter Lokalisation, rupturiert",
+      "rubrics": {
+        "preferred": "Dissektion der Aorta nicht näher bezeichneter Lokalisation, rupturiert"
+      },
+      "children": []
+    },
+    {
+      "code": "I71.05",
+      "kind": "category",
+      "label": "Dissektion der Aorta thoracica, rupturiert",
+      "rubrics": {
+        "preferred": "Dissektion der Aorta thoracica, rupturiert"
+      },
+      "children": []
+    },
+    {
+      "code": "I71.06",
+      "kind": "category",
+      "label": "Dissektion der Aorta abdominalis, rupturiert",
+      "rubrics": {
+        "preferred": "Dissektion der Aorta abdominalis, rupturiert"
+      },
+      "children": []
+    },
+    {
+      "code": "I71.07",
+      "kind": "category",
+      "label": "Dissektion der Aorta, thorakoabdominal, rupturiert",
+      "rubrics": {
+        "preferred": "Dissektion der Aorta, thorakoabdominal, rupturiert"
+      },
+      "children": []
+    }
+  ]
+}

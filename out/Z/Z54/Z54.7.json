@@ -1,0 +1,10 @@
+{
+  "code": "Z54.7",
+  "kind": "category",
+  "label": "Rekonvaleszenz nach kombinierter Behandlung",
+  "rubrics": {
+    "preferred": "Rekonvaleszenz nach kombinierter Behandlung",
+    "inclusion": "Rekonvaleszenz nach jeder Kombination der unter Z54.0!-Z54.4! klassifizierten Behandlungen"
+  },
+  "children": []
+}

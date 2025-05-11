@@ -1,0 +1,10 @@
+{
+  "code": "E44.1",
+  "kind": "category",
+  "label": "Leichte Energie- und Eiweißmangelernährung",
+  "rubrics": {
+    "preferred": "Leichte Energie- und Eiweißmangelernährung",
+    "definition": "Gewichtsverlust bei Kindern oder Erwachsenen oder fehlende Gewichtszunahme bei Kindern, die zu einem Gewichtswert führen, der 1 oder mehr, aber weniger als 2 Standardabweichungen unter dem Mittelwert der Bezugspopulation liegt (oder einer ähnlichen Abweichung in anderen statistischen Verteilungen). Wenn nur eine Gewichtsmessung vorliegt, besteht mit hoher Wahrscheinlichkeit eine leichte Energie- und Eiweißmangelernährung, wenn der Gewichtswert 1 oder mehr, aber weniger als 2 Standardabweichungen unter dem Mittelwert der Bezugspopulation liegt."
+  },
+  "children": []
+}

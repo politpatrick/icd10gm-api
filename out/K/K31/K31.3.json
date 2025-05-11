@@ -1,0 +1,10 @@
+{
+  "code": "K31.3",
+  "kind": "category",
+  "label": "Pylorospasmus, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Pylorospasmus, anderenorts nicht klassifiziert",
+    "exclusion": "Pylorospasmus:\n\t\t\t\tpsychogenF45.31"
+  },
+  "children": []
+}

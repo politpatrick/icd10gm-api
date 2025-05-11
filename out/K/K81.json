@@ -1,0 +1,48 @@
+{
+  "code": "K81",
+  "kind": "category",
+  "label": "Cholezystitis",
+  "rubrics": {
+    "preferred": "Cholezystitis",
+    "exclusion": "Mit CholelithiasisK80.-"
+  },
+  "children": [
+    {
+      "code": "K81.0",
+      "kind": "category",
+      "label": "Akute Cholezystitis",
+      "rubrics": {
+        "preferred": "Akute Cholezystitis",
+        "inclusion": "Gallenblasengangrän\n\t\t\t\tohne Gallenstein"
+      },
+      "children": []
+    },
+    {
+      "code": "K81.1",
+      "kind": "category",
+      "label": "Chronische Cholezystitis",
+      "rubrics": {
+        "preferred": "Chronische Cholezystitis"
+      },
+      "children": []
+    },
+    {
+      "code": "K81.8",
+      "kind": "category",
+      "label": "Sonstige Formen der Cholezystitis",
+      "rubrics": {
+        "preferred": "Sonstige Formen der Cholezystitis"
+      },
+      "children": []
+    },
+    {
+      "code": "K81.9",
+      "kind": "category",
+      "label": "Cholezystitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Cholezystitis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

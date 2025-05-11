@@ -1,0 +1,10 @@
+{
+  "code": "K20.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Ösophagitis",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Ösophagitis",
+    "inclusion": "Ösophagitis durch chemische Substanzen"
+  },
+  "children": []
+}

@@ -1,0 +1,154 @@
+{
+  "code": "A04",
+  "kind": "category",
+  "label": "Sonstige bakterielle Darminfektionen",
+  "rubrics": {
+    "preferred": "Sonstige bakterielle Darminfektionen",
+    "exclusion": "Tuberkulöse EnteritisA18.3"
+  },
+  "children": [
+    {
+      "code": "A04.0",
+      "kind": "category",
+      "label": "Darminfektion durch enteropathogene Escherichia coli",
+      "rubrics": {
+        "preferred": "Darminfektion durch enteropathogene Escherichia coli"
+      },
+      "children": []
+    },
+    {
+      "code": "A04.1",
+      "kind": "category",
+      "label": "Darminfektion durch enterotoxinbildende Escherichia coli",
+      "rubrics": {
+        "preferred": "Darminfektion durch enterotoxinbildende Escherichia coli"
+      },
+      "children": []
+    },
+    {
+      "code": "A04.2",
+      "kind": "category",
+      "label": "Darminfektion durch enteroinvasive Escherichia coli",
+      "rubrics": {
+        "preferred": "Darminfektion durch enteroinvasive Escherichia coli"
+      },
+      "children": []
+    },
+    {
+      "code": "A04.3",
+      "kind": "category",
+      "label": "Darminfektion durch enterohämorrhagische Escherichia coli",
+      "rubrics": {
+        "preferred": "Darminfektion durch enterohämorrhagische Escherichia coli"
+      },
+      "children": []
+    },
+    {
+      "code": "A04.4",
+      "kind": "category",
+      "label": "Sonstige Darminfektionen durch Escherichia coli",
+      "rubrics": {
+        "preferred": "Sonstige Darminfektionen durch Escherichia coli",
+        "inclusion": "Enteritis durch Escherichia coli o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "A04.5",
+      "kind": "category",
+      "label": "Enteritis durch Campylobacter",
+      "rubrics": {
+        "preferred": "Enteritis durch Campylobacter"
+      },
+      "children": []
+    },
+    {
+      "code": "A04.6",
+      "kind": "category",
+      "label": "Enteritis durch Yersinia enterocolitica",
+      "rubrics": {
+        "preferred": "Enteritis durch Yersinia enterocolitica",
+        "exclusion": "Extraintestinale YersinioseA28.2"
+      },
+      "children": []
+    },
+    {
+      "code": "A04.7",
+      "kind": "category",
+      "label": "Enterokolitis durch Clostridium difficile",
+      "rubrics": {
+        "preferred": "Enterokolitis durch Clostridium difficile",
+        "inclusion": "Pseudomembranöse Kolitis",
+        "coding-hint": "Soll eine rekurrente Infektion mit Clostridium difficile angegeben werden, ist eine zusätzliche Schlüsselnummer (U69.40!) zu benutzen."
+      },
+      "children": [
+        {
+          "code": "A04.70",
+          "kind": "category",
+          "label": "Enterokolitis durch Clostridium difficile ohne Megakolon, ohne sonstige Organkomplikationen",
+          "rubrics": {
+            "preferred": "Enterokolitis durch Clostridium difficile ohne Megakolon, ohne sonstige Organkomplikationen"
+          },
+          "children": []
+        },
+        {
+          "code": "A04.71",
+          "kind": "category",
+          "label": "Enterokolitis durch Clostridium difficile ohne Megakolon, mit sonstigen Organkomplikationen",
+          "rubrics": {
+            "preferred": "Enterokolitis durch Clostridium difficile ohne Megakolon, mit sonstigen Organkomplikationen",
+            "coding-hint": "Benutze (eine) zusätzliche Schlüsselnummer(n), um (eine) infektionsbedingte Organkomplikation(en) anzugeben."
+          },
+          "children": []
+        },
+        {
+          "code": "A04.72",
+          "kind": "category",
+          "label": "Enterokolitis durch Clostridium difficile mit Megakolon, ohne sonstige Organkomplikationen",
+          "rubrics": {
+            "preferred": "Enterokolitis durch Clostridium difficile mit Megakolon, ohne sonstige Organkomplikationen"
+          },
+          "children": []
+        },
+        {
+          "code": "A04.73",
+          "kind": "category",
+          "label": "Enterokolitis durch Clostridium difficile mit Megakolon, mit sonstigen Organkomplikationen",
+          "rubrics": {
+            "preferred": "Enterokolitis durch Clostridium difficile mit Megakolon, mit sonstigen Organkomplikationen",
+            "coding-hint": "Benutze (eine) zusätzliche Schlüsselnummer(n), um (eine) infektionsbedingte Organkomplikation(en) anzugeben."
+          },
+          "children": []
+        },
+        {
+          "code": "A04.79",
+          "kind": "category",
+          "label": "Enterokolitis durch Clostridium difficile, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Enterokolitis durch Clostridium difficile, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A04.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete bakterielle Darminfektionen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete bakterielle Darminfektionen"
+      },
+      "children": []
+    },
+    {
+      "code": "A04.9",
+      "kind": "category",
+      "label": "Bakterielle Darminfektion, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Bakterielle Darminfektion, nicht näher bezeichnet",
+        "inclusion": "Bakterielle Enteritis o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

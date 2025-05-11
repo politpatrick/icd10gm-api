@@ -1,0 +1,11 @@
+{
+  "code": "Q02",
+  "kind": "category",
+  "label": "Mikrozephalie",
+  "rubrics": {
+    "preferred": "Mikrozephalie",
+    "inclusion": "Mikrenzephalie",
+    "exclusion": "Meckel-Gruber-SyndromQ61.9"
+  },
+  "children": []
+}

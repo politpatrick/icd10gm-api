@@ -1,0 +1,1486 @@
+{
+  "code": "T20-T32",
+  "kind": "block",
+  "label": "Verbrennungen oder Verätzungen",
+  "rubrics": {
+    "preferred": "Verbrennungen oder Verätzungen",
+    "inclusion": "Verbrühungen",
+    "note": "Verbrennungen und Verätzungen 4. Grades sind als Verbrennungen und Verätzungen 3. Grades zu kodieren",
+    "exclusion": "SonnenbrandL55.-"
+  },
+  "children": [
+    {
+      "code": "T20-T25",
+      "kind": "block",
+      "label": "Verbrennungen oder Verätzungen der äußeren Körperoberfläche, Lokalisation bezeichnet",
+      "rubrics": {
+        "preferred": "Verbrennungen oder Verätzungen der äußeren Körperoberfläche, Lokalisation bezeichnet",
+        "inclusion": "Verbrennungen oder Verätzungen:\n\t\t\t\t3. Grad [Nekrose des unter der Haut liegenden Gewebes] [Nekrose aller Hautschichten]"
+      },
+      "children": [
+        {
+          "code": "T20",
+          "kind": "category",
+          "label": "Verbrennung oder Verätzung des Kopfes und des Halses",
+          "rubrics": {
+            "preferred": "Verbrennung oder Verätzung des Kopfes und des Halses",
+            "inclusion": "Schläfenregion",
+            "exclusion": "Verbrennung oder Verätzung:\n\t\t\t\tMund und RachenT28.0"
+          },
+          "children": [
+            {
+              "code": "T20.0",
+              "kind": "category",
+              "label": "Verbrennung nicht näher bezeichneten Grades des Kopfes und des Halses",
+              "rubrics": {
+                "preferred": "Verbrennung nicht näher bezeichneten Grades des Kopfes und des Halses"
+              },
+              "children": []
+            },
+            {
+              "code": "T20.1",
+              "kind": "category",
+              "label": "Verbrennung 1. Grades des Kopfes und des Halses",
+              "rubrics": {
+                "preferred": "Verbrennung 1. Grades des Kopfes und des Halses"
+              },
+              "children": []
+            },
+            {
+              "code": "T20.2",
+              "kind": "category",
+              "label": "Verbrennung 2. Grades des Kopfes und des Halses",
+              "rubrics": {
+                "preferred": "Verbrennung 2. Grades des Kopfes und des Halses"
+              },
+              "children": [
+                {
+                  "code": "T20.20",
+                  "kind": "category",
+                  "label": "Verbrennung Grad 2a des Kopfes und des Halses",
+                  "rubrics": {
+                    "preferred": "Verbrennung Grad 2a des Kopfes und des Halses",
+                    "inclusion": "Verbrennung nicht näher bezeichneten 2. Grades des Kopfes und des Halses"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T20.21",
+                  "kind": "category",
+                  "label": "Verbrennung Grad 2b des Kopfes und des Halses",
+                  "rubrics": {
+                    "preferred": "Verbrennung Grad 2b des Kopfes und des Halses"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T20.3",
+              "kind": "category",
+              "label": "Verbrennung 3. Grades des Kopfes und des Halses",
+              "rubrics": {
+                "preferred": "Verbrennung 3. Grades des Kopfes und des Halses"
+              },
+              "children": []
+            },
+            {
+              "code": "T20.4",
+              "kind": "category",
+              "label": "Verätzung nicht näher bezeichneten Grades des Kopfes und des Halses",
+              "rubrics": {
+                "preferred": "Verätzung nicht näher bezeichneten Grades des Kopfes und des Halses"
+              },
+              "children": []
+            },
+            {
+              "code": "T20.5",
+              "kind": "category",
+              "label": "Verätzung 1. Grades des Kopfes und des Halses",
+              "rubrics": {
+                "preferred": "Verätzung 1. Grades des Kopfes und des Halses"
+              },
+              "children": []
+            },
+            {
+              "code": "T20.6",
+              "kind": "category",
+              "label": "Verätzung 2. Grades des Kopfes und des Halses",
+              "rubrics": {
+                "preferred": "Verätzung 2. Grades des Kopfes und des Halses"
+              },
+              "children": [
+                {
+                  "code": "T20.60",
+                  "kind": "category",
+                  "label": "Verätzung Grad 2a des Kopfes und des Halses",
+                  "rubrics": {
+                    "preferred": "Verätzung Grad 2a des Kopfes und des Halses",
+                    "inclusion": "Verätzung nicht näher bezeichneten 2. Grades des Kopfes und des Halses"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T20.61",
+                  "kind": "category",
+                  "label": "Verätzung Grad 2b des Kopfes und des Halses",
+                  "rubrics": {
+                    "preferred": "Verätzung Grad 2b des Kopfes und des Halses"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T20.7",
+              "kind": "category",
+              "label": "Verätzung 3. Grades des Kopfes und des Halses",
+              "rubrics": {
+                "preferred": "Verätzung 3. Grades des Kopfes und des Halses"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T21",
+          "kind": "category",
+          "label": "Verbrennung oder Verätzung des Rumpfes",
+          "rubrics": {
+            "preferred": "Verbrennung oder Verätzung des Rumpfes",
+            "inclusion": "Vulva",
+            "exclusion": "Verbrennung oder Verätzung:\n\t\t\t\tSkapularregionT22.-"
+          },
+          "children": [
+            {
+              "code": "T21.0",
+              "kind": "category",
+              "label": "Verbrennung nicht näher bezeichneten Grades des Rumpfes",
+              "rubrics": {
+                "preferred": "Verbrennung nicht näher bezeichneten Grades des Rumpfes"
+              },
+              "children": []
+            },
+            {
+              "code": "T21.1",
+              "kind": "category",
+              "label": "Verbrennung 1. Grades des Rumpfes",
+              "rubrics": {
+                "preferred": "Verbrennung 1. Grades des Rumpfes"
+              },
+              "children": []
+            },
+            {
+              "code": "T21.2",
+              "kind": "category",
+              "label": "Verbrennung Grad 2a des Rumpfes",
+              "rubrics": {
+                "preferred": "Verbrennung Grad 2a des Rumpfes",
+                "inclusion": "Verbrennung nicht näher bezeichneten 2. Grades des Rumpfes"
+              },
+              "children": []
+            },
+            {
+              "code": "T21.3",
+              "kind": "category",
+              "label": "Verbrennung 3. Grades des Rumpfes",
+              "rubrics": {
+                "preferred": "Verbrennung 3. Grades des Rumpfes"
+              },
+              "children": []
+            },
+            {
+              "code": "T21.4",
+              "kind": "category",
+              "label": "Verätzung nicht näher bezeichneten Grades des Rumpfes",
+              "rubrics": {
+                "preferred": "Verätzung nicht näher bezeichneten Grades des Rumpfes"
+              },
+              "children": []
+            },
+            {
+              "code": "T21.5",
+              "kind": "category",
+              "label": "Verätzung 1. Grades des Rumpfes",
+              "rubrics": {
+                "preferred": "Verätzung 1. Grades des Rumpfes"
+              },
+              "children": []
+            },
+            {
+              "code": "T21.6",
+              "kind": "category",
+              "label": "Verätzung Grad 2a des Rumpfes",
+              "rubrics": {
+                "preferred": "Verätzung Grad 2a des Rumpfes",
+                "inclusion": "Verätzung nicht näher bezeichneten 2. Grades des Rumpfes"
+              },
+              "children": []
+            },
+            {
+              "code": "T21.7",
+              "kind": "category",
+              "label": "Verätzung 3. Grades des Rumpfes",
+              "rubrics": {
+                "preferred": "Verätzung 3. Grades des Rumpfes"
+              },
+              "children": []
+            },
+            {
+              "code": "T21.8",
+              "kind": "category",
+              "label": "Verbrennung Grad 2b des Rumpfes",
+              "rubrics": {
+                "preferred": "Verbrennung Grad 2b des Rumpfes"
+              },
+              "children": []
+            },
+            {
+              "code": "T21.9",
+              "kind": "category",
+              "label": "Verätzung Grad 2b des Rumpfes",
+              "rubrics": {
+                "preferred": "Verätzung Grad 2b des Rumpfes"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T22",
+          "kind": "category",
+          "label": "Verbrennung oder Verätzung der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+          "rubrics": {
+            "preferred": "Verbrennung oder Verätzung der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+            "inclusion": "Skapularregion",
+            "exclusion": "Verbrennung oder Verätzung:\n\t\t\t\tInterskapularregionT21.-"
+          },
+          "children": [
+            {
+              "code": "T22.0",
+              "kind": "category",
+              "label": "Verbrennung nicht näher bezeichneten Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+              "rubrics": {
+                "preferred": "Verbrennung nicht näher bezeichneten Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T22.1",
+              "kind": "category",
+              "label": "Verbrennung 1. Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+              "rubrics": {
+                "preferred": "Verbrennung 1. Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T22.2",
+              "kind": "category",
+              "label": "Verbrennung Grad 2a der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+              "rubrics": {
+                "preferred": "Verbrennung Grad 2a der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+                "inclusion": "Verbrennung nicht näher bezeichneten 2. Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T22.3",
+              "kind": "category",
+              "label": "Verbrennung 3. Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+              "rubrics": {
+                "preferred": "Verbrennung 3. Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T22.4",
+              "kind": "category",
+              "label": "Verätzung nicht näher bezeichneten Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+              "rubrics": {
+                "preferred": "Verätzung nicht näher bezeichneten Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T22.5",
+              "kind": "category",
+              "label": "Verätzung 1. Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+              "rubrics": {
+                "preferred": "Verätzung 1. Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T22.6",
+              "kind": "category",
+              "label": "Verätzung Grad 2a der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+              "rubrics": {
+                "preferred": "Verätzung Grad 2a der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+                "inclusion": "Verätzung nicht näher bezeichneten 2. Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T22.7",
+              "kind": "category",
+              "label": "Verätzung 3. Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+              "rubrics": {
+                "preferred": "Verätzung 3. Grades der Schulter und des Armes, ausgenommen Handgelenk und Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T22.8",
+              "kind": "category",
+              "label": "Verbrennung Grad 2b der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+              "rubrics": {
+                "preferred": "Verbrennung Grad 2b der Schulter und des Armes, ausgenommen Handgelenk und Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T22.9",
+              "kind": "category",
+              "label": "Verätzung Grad 2b der Schulter und des Armes, ausgenommen Handgelenk und Hand",
+              "rubrics": {
+                "preferred": "Verätzung Grad 2b der Schulter und des Armes, ausgenommen Handgelenk und Hand"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T23",
+          "kind": "category",
+          "label": "Verbrennung oder Verätzung des Handgelenkes und der Hand",
+          "rubrics": {
+            "preferred": "Verbrennung oder Verätzung des Handgelenkes und der Hand",
+            "inclusion": "Handfläche"
+          },
+          "children": [
+            {
+              "code": "T23.0",
+              "kind": "category",
+              "label": "Verbrennung nicht näher bezeichneten Grades des Handgelenkes und der Hand",
+              "rubrics": {
+                "preferred": "Verbrennung nicht näher bezeichneten Grades des Handgelenkes und der Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T23.1",
+              "kind": "category",
+              "label": "Verbrennung 1. Grades des Handgelenkes und der Hand",
+              "rubrics": {
+                "preferred": "Verbrennung 1. Grades des Handgelenkes und der Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T23.2",
+              "kind": "category",
+              "label": "Verbrennung 2. Grades des Handgelenkes und der Hand",
+              "rubrics": {
+                "preferred": "Verbrennung 2. Grades des Handgelenkes und der Hand"
+              },
+              "children": [
+                {
+                  "code": "T23.20",
+                  "kind": "category",
+                  "label": "Verbrennung Grad 2a des Handgelenkes und der Hand",
+                  "rubrics": {
+                    "preferred": "Verbrennung Grad 2a des Handgelenkes und der Hand",
+                    "inclusion": "Verbrennung nicht näher bezeichneten 2. Grades des Handgelenkes und der Hand"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T23.21",
+                  "kind": "category",
+                  "label": "Verbrennung Grad 2b des Handgelenkes und der Hand",
+                  "rubrics": {
+                    "preferred": "Verbrennung Grad 2b des Handgelenkes und der Hand"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T23.3",
+              "kind": "category",
+              "label": "Verbrennung 3. Grades des Handgelenkes und der Hand",
+              "rubrics": {
+                "preferred": "Verbrennung 3. Grades des Handgelenkes und der Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T23.4",
+              "kind": "category",
+              "label": "Verätzung nicht näher bezeichneten Grades des Handgelenkes und der Hand",
+              "rubrics": {
+                "preferred": "Verätzung nicht näher bezeichneten Grades des Handgelenkes und der Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T23.5",
+              "kind": "category",
+              "label": "Verätzung 1. Grades des Handgelenkes und der Hand",
+              "rubrics": {
+                "preferred": "Verätzung 1. Grades des Handgelenkes und der Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T23.6",
+              "kind": "category",
+              "label": "Verätzung 2. Grades des Handgelenkes und der Hand",
+              "rubrics": {
+                "preferred": "Verätzung 2. Grades des Handgelenkes und der Hand"
+              },
+              "children": [
+                {
+                  "code": "T23.60",
+                  "kind": "category",
+                  "label": "Verätzung Grad 2a des Handgelenkes und der Hand",
+                  "rubrics": {
+                    "preferred": "Verätzung Grad 2a des Handgelenkes und der Hand",
+                    "inclusion": "Verätzung nicht näher bezeichneten 2. Grades des Handgelenkes und der Hand"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T23.61",
+                  "kind": "category",
+                  "label": "Verätzung Grad 2b des Handgelenkes und der Hand",
+                  "rubrics": {
+                    "preferred": "Verätzung Grad 2b des Handgelenkes und der Hand"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T23.7",
+              "kind": "category",
+              "label": "Verätzung 3. Grades des Handgelenkes und der Hand",
+              "rubrics": {
+                "preferred": "Verätzung 3. Grades des Handgelenkes und der Hand"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T24",
+          "kind": "category",
+          "label": "Verbrennung oder Verätzung der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+          "rubrics": {
+            "preferred": "Verbrennung oder Verätzung der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+            "inclusion": "Bein [jeder Teil, ausgenommen Knöchelregion und Fuß, isoliert]",
+            "exclusion": "Verbrennung oder Verätzung der Knöchelregion und des Fußes, isoliertT25.-"
+          },
+          "children": [
+            {
+              "code": "T24.0",
+              "kind": "category",
+              "label": "Verbrennung nicht näher bezeichneten Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+              "rubrics": {
+                "preferred": "Verbrennung nicht näher bezeichneten Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+              },
+              "children": []
+            },
+            {
+              "code": "T24.1",
+              "kind": "category",
+              "label": "Verbrennung 1. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+              "rubrics": {
+                "preferred": "Verbrennung 1. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+              },
+              "children": []
+            },
+            {
+              "code": "T24.2",
+              "kind": "category",
+              "label": "Verbrennung 2. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+              "rubrics": {
+                "preferred": "Verbrennung 2. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+              },
+              "children": [
+                {
+                  "code": "T24.20",
+                  "kind": "category",
+                  "label": "Verbrennung Grad 2a der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+                  "rubrics": {
+                    "preferred": "Verbrennung Grad 2a der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+                    "inclusion": "Verbrennung nicht näher bezeichneten 2. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T24.21",
+                  "kind": "category",
+                  "label": "Verbrennung Grad 2b der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+                  "rubrics": {
+                    "preferred": "Verbrennung Grad 2b der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T24.3",
+              "kind": "category",
+              "label": "Verbrennung 3. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+              "rubrics": {
+                "preferred": "Verbrennung 3. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+              },
+              "children": []
+            },
+            {
+              "code": "T24.4",
+              "kind": "category",
+              "label": "Verätzung nicht näher bezeichneten Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+              "rubrics": {
+                "preferred": "Verätzung nicht näher bezeichneten Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+              },
+              "children": []
+            },
+            {
+              "code": "T24.5",
+              "kind": "category",
+              "label": "Verätzung 1. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+              "rubrics": {
+                "preferred": "Verätzung 1. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+              },
+              "children": []
+            },
+            {
+              "code": "T24.6",
+              "kind": "category",
+              "label": "Verätzung 2. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+              "rubrics": {
+                "preferred": "Verätzung 2. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+              },
+              "children": [
+                {
+                  "code": "T24.60",
+                  "kind": "category",
+                  "label": "Verätzung Grad 2a der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+                  "rubrics": {
+                    "preferred": "Verätzung Grad 2a der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+                    "inclusion": "Verätzung nicht näher bezeichneten 2. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T24.61",
+                  "kind": "category",
+                  "label": "Verätzung Grad 2b der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+                  "rubrics": {
+                    "preferred": "Verätzung Grad 2b der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T24.7",
+              "kind": "category",
+              "label": "Verätzung 3. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+              "rubrics": {
+                "preferred": "Verätzung 3. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T25",
+          "kind": "category",
+          "label": "Verbrennung oder Verätzung der Knöchelregion und des Fußes",
+          "rubrics": {
+            "preferred": "Verbrennung oder Verätzung der Knöchelregion und des Fußes",
+            "inclusion": "Zehe(n)"
+          },
+          "children": [
+            {
+              "code": "T25.0",
+              "kind": "category",
+              "label": "Verbrennung nicht näher bezeichneten Grades der Knöchelregion und des Fußes",
+              "rubrics": {
+                "preferred": "Verbrennung nicht näher bezeichneten Grades der Knöchelregion und des Fußes"
+              },
+              "children": []
+            },
+            {
+              "code": "T25.1",
+              "kind": "category",
+              "label": "Verbrennung 1. Grades der Knöchelregion und des Fußes",
+              "rubrics": {
+                "preferred": "Verbrennung 1. Grades der Knöchelregion und des Fußes"
+              },
+              "children": []
+            },
+            {
+              "code": "T25.2",
+              "kind": "category",
+              "label": "Verbrennung 2. Grades der Knöchelregion und des Fußes",
+              "rubrics": {
+                "preferred": "Verbrennung 2. Grades der Knöchelregion und des Fußes"
+              },
+              "children": [
+                {
+                  "code": "T25.20",
+                  "kind": "category",
+                  "label": "Verbrennung Grad 2a der Knöchelregion und des Fußes",
+                  "rubrics": {
+                    "preferred": "Verbrennung Grad 2a der Knöchelregion und des Fußes",
+                    "inclusion": "Verbrennung nicht näher bezeichneten 2. Grades der Knöchelregion und des Fußes"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T25.21",
+                  "kind": "category",
+                  "label": "Verbrennung Grad 2b der Knöchelregion und des Fußes",
+                  "rubrics": {
+                    "preferred": "Verbrennung Grad 2b der Knöchelregion und des Fußes"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T25.3",
+              "kind": "category",
+              "label": "Verbrennung 3. Grades der Knöchelregion und des Fußes",
+              "rubrics": {
+                "preferred": "Verbrennung 3. Grades der Knöchelregion und des Fußes"
+              },
+              "children": []
+            },
+            {
+              "code": "T25.4",
+              "kind": "category",
+              "label": "Verätzung nicht näher bezeichneten Grades der Knöchelregion und des Fußes",
+              "rubrics": {
+                "preferred": "Verätzung nicht näher bezeichneten Grades der Knöchelregion und des Fußes"
+              },
+              "children": []
+            },
+            {
+              "code": "T25.5",
+              "kind": "category",
+              "label": "Verätzung 1. Grades der Knöchelregion und des Fußes",
+              "rubrics": {
+                "preferred": "Verätzung 1. Grades der Knöchelregion und des Fußes"
+              },
+              "children": []
+            },
+            {
+              "code": "T25.6",
+              "kind": "category",
+              "label": "Verätzung 2. Grades der Knöchelregion und des Fußes",
+              "rubrics": {
+                "preferred": "Verätzung 2. Grades der Knöchelregion und des Fußes"
+              },
+              "children": [
+                {
+                  "code": "T25.60",
+                  "kind": "category",
+                  "label": "Verätzung Grad 2a der Knöchelregion und des Fußes",
+                  "rubrics": {
+                    "preferred": "Verätzung Grad 2a der Knöchelregion und des Fußes",
+                    "inclusion": "Verätzung nicht näher bezeichneten 2. Grades der Knöchelregion und des Fußes"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T25.61",
+                  "kind": "category",
+                  "label": "Verätzung Grad 2b der Knöchelregion und des Fußes",
+                  "rubrics": {
+                    "preferred": "Verätzung Grad 2b der Knöchelregion und des Fußes"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T25.7",
+              "kind": "category",
+              "label": "Verätzung 3. Grades der Knöchelregion und des Fußes",
+              "rubrics": {
+                "preferred": "Verätzung 3. Grades der Knöchelregion und des Fußes"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "T26-T28",
+      "kind": "block",
+      "label": "Verbrennungen oder Verätzungen, die auf das Auge und auf innere Organe begrenzt sind",
+      "rubrics": {
+        "preferred": "Verbrennungen oder Verätzungen, die auf das Auge und auf innere Organe begrenzt sind"
+      },
+      "children": [
+        {
+          "code": "T26",
+          "kind": "category",
+          "label": "Verbrennung oder Verätzung, begrenzt auf das Auge und seine Anhangsgebilde",
+          "rubrics": {
+            "preferred": "Verbrennung oder Verätzung, begrenzt auf das Auge und seine Anhangsgebilde"
+          },
+          "children": [
+            {
+              "code": "T26.0",
+              "kind": "category",
+              "label": "Verbrennung des Augenlides und der Periokularregion",
+              "rubrics": {
+                "preferred": "Verbrennung des Augenlides und der Periokularregion"
+              },
+              "children": []
+            },
+            {
+              "code": "T26.1",
+              "kind": "category",
+              "label": "Verbrennung der Kornea und des Konjunktivalsackes",
+              "rubrics": {
+                "preferred": "Verbrennung der Kornea und des Konjunktivalsackes"
+              },
+              "children": []
+            },
+            {
+              "code": "T26.2",
+              "kind": "category",
+              "label": "Verbrennung mit nachfolgender Ruptur und Destruktion des Augapfels",
+              "rubrics": {
+                "preferred": "Verbrennung mit nachfolgender Ruptur und Destruktion des Augapfels"
+              },
+              "children": []
+            },
+            {
+              "code": "T26.3",
+              "kind": "category",
+              "label": "Verbrennung sonstiger Teile des Auges und seiner Anhangsgebilde",
+              "rubrics": {
+                "preferred": "Verbrennung sonstiger Teile des Auges und seiner Anhangsgebilde"
+              },
+              "children": []
+            },
+            {
+              "code": "T26.4",
+              "kind": "category",
+              "label": "Verbrennung des Auges und seiner Anhangsgebilde, Teil nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verbrennung des Auges und seiner Anhangsgebilde, Teil nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "T26.5",
+              "kind": "category",
+              "label": "Verätzung des Augenlides und der Periokularregion",
+              "rubrics": {
+                "preferred": "Verätzung des Augenlides und der Periokularregion"
+              },
+              "children": []
+            },
+            {
+              "code": "T26.6",
+              "kind": "category",
+              "label": "Verätzung der Kornea und des Konjunktivalsackes",
+              "rubrics": {
+                "preferred": "Verätzung der Kornea und des Konjunktivalsackes"
+              },
+              "children": []
+            },
+            {
+              "code": "T26.7",
+              "kind": "category",
+              "label": "Verätzung mit nachfolgender Ruptur und Destruktion des Augapfels",
+              "rubrics": {
+                "preferred": "Verätzung mit nachfolgender Ruptur und Destruktion des Augapfels"
+              },
+              "children": []
+            },
+            {
+              "code": "T26.8",
+              "kind": "category",
+              "label": "Verätzung sonstiger Teile des Auges und seiner Anhangsgebilde",
+              "rubrics": {
+                "preferred": "Verätzung sonstiger Teile des Auges und seiner Anhangsgebilde"
+              },
+              "children": []
+            },
+            {
+              "code": "T26.9",
+              "kind": "category",
+              "label": "Verätzung des Auges und seiner Anhangsgebilde, Teil nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verätzung des Auges und seiner Anhangsgebilde, Teil nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T27",
+          "kind": "category",
+          "label": "Verbrennung oder Verätzung der Atemwege",
+          "rubrics": {
+            "preferred": "Verbrennung oder Verätzung der Atemwege"
+          },
+          "children": [
+            {
+              "code": "T27.0",
+              "kind": "category",
+              "label": "Verbrennung des Kehlkopfes und der Trachea",
+              "rubrics": {
+                "preferred": "Verbrennung des Kehlkopfes und der Trachea"
+              },
+              "children": []
+            },
+            {
+              "code": "T27.1",
+              "kind": "category",
+              "label": "Verbrennung des Kehlkopfes und der Trachea mit Beteiligung der Lunge",
+              "rubrics": {
+                "preferred": "Verbrennung des Kehlkopfes und der Trachea mit Beteiligung der Lunge",
+                "exclusion": "ExplosionstraumaT70.8"
+              },
+              "children": []
+            },
+            {
+              "code": "T27.2",
+              "kind": "category",
+              "label": "Verbrennung sonstiger Teile der Atemwege",
+              "rubrics": {
+                "preferred": "Verbrennung sonstiger Teile der Atemwege",
+                "inclusion": "Thoraxhöhle"
+              },
+              "children": []
+            },
+            {
+              "code": "T27.3",
+              "kind": "category",
+              "label": "Verbrennung der Atemwege, Teil nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verbrennung der Atemwege, Teil nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "T27.4",
+              "kind": "category",
+              "label": "Verätzung des Kehlkopfes und der Trachea",
+              "rubrics": {
+                "preferred": "Verätzung des Kehlkopfes und der Trachea"
+              },
+              "children": []
+            },
+            {
+              "code": "T27.5",
+              "kind": "category",
+              "label": "Verätzung des Kehlkopfes und der Trachea mit Beteiligung der Lunge",
+              "rubrics": {
+                "preferred": "Verätzung des Kehlkopfes und der Trachea mit Beteiligung der Lunge"
+              },
+              "children": []
+            },
+            {
+              "code": "T27.6",
+              "kind": "category",
+              "label": "Verätzung sonstiger Teile der Atemwege",
+              "rubrics": {
+                "preferred": "Verätzung sonstiger Teile der Atemwege"
+              },
+              "children": []
+            },
+            {
+              "code": "T27.7",
+              "kind": "category",
+              "label": "Verätzung der Atemwege, Teil nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verätzung der Atemwege, Teil nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T28",
+          "kind": "category",
+          "label": "Verbrennung oder Verätzung sonstiger innerer Organe",
+          "rubrics": {
+            "preferred": "Verbrennung oder Verätzung sonstiger innerer Organe"
+          },
+          "children": [
+            {
+              "code": "T28.0",
+              "kind": "category",
+              "label": "Verbrennung des Mundes und des Rachens",
+              "rubrics": {
+                "preferred": "Verbrennung des Mundes und des Rachens"
+              },
+              "children": []
+            },
+            {
+              "code": "T28.1",
+              "kind": "category",
+              "label": "Verbrennung des Ösophagus",
+              "rubrics": {
+                "preferred": "Verbrennung des Ösophagus"
+              },
+              "children": []
+            },
+            {
+              "code": "T28.2",
+              "kind": "category",
+              "label": "Verbrennung sonstiger Teile des Verdauungstraktes",
+              "rubrics": {
+                "preferred": "Verbrennung sonstiger Teile des Verdauungstraktes"
+              },
+              "children": []
+            },
+            {
+              "code": "T28.3",
+              "kind": "category",
+              "label": "Verbrennung innerer Organe des Urogenitaltraktes",
+              "rubrics": {
+                "preferred": "Verbrennung innerer Organe des Urogenitaltraktes"
+              },
+              "children": []
+            },
+            {
+              "code": "T28.4",
+              "kind": "category",
+              "label": "Verbrennung sonstiger und nicht näher bezeichneter innerer Organe",
+              "rubrics": {
+                "preferred": "Verbrennung sonstiger und nicht näher bezeichneter innerer Organe"
+              },
+              "children": []
+            },
+            {
+              "code": "T28.5",
+              "kind": "category",
+              "label": "Verätzung des Mundes und des Rachens",
+              "rubrics": {
+                "preferred": "Verätzung des Mundes und des Rachens"
+              },
+              "children": []
+            },
+            {
+              "code": "T28.6",
+              "kind": "category",
+              "label": "Verätzung des Ösophagus",
+              "rubrics": {
+                "preferred": "Verätzung des Ösophagus"
+              },
+              "children": []
+            },
+            {
+              "code": "T28.7",
+              "kind": "category",
+              "label": "Verätzung sonstiger Teile des Verdauungstraktes",
+              "rubrics": {
+                "preferred": "Verätzung sonstiger Teile des Verdauungstraktes"
+              },
+              "children": []
+            },
+            {
+              "code": "T28.8",
+              "kind": "category",
+              "label": "Verätzung innerer Organe des Urogenitaltraktes",
+              "rubrics": {
+                "preferred": "Verätzung innerer Organe des Urogenitaltraktes"
+              },
+              "children": []
+            },
+            {
+              "code": "T28.9",
+              "kind": "category",
+              "label": "Verätzung sonstiger und nicht näher bezeichneter innerer Organe",
+              "rubrics": {
+                "preferred": "Verätzung sonstiger und nicht näher bezeichneter innerer Organe"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "T29-T32",
+      "kind": "block",
+      "label": "Verbrennungen oder Verätzungen mehrerer und nicht näher bezeichneter Körperregionen",
+      "rubrics": {
+        "preferred": "Verbrennungen oder Verätzungen mehrerer und nicht näher bezeichneter Körperregionen"
+      },
+      "children": [
+        {
+          "code": "T29",
+          "kind": "category",
+          "label": "Verbrennungen oder Verätzungen mehrerer Körperregionen",
+          "rubrics": {
+            "preferred": "Verbrennungen oder Verätzungen mehrerer Körperregionen",
+            "inclusion": "Verbrennungen oder Verätzungen, die unter mehr als einer Kategorie von T20-T28 klassifizierbar sind"
+          },
+          "children": [
+            {
+              "code": "T29.0",
+              "kind": "category",
+              "label": "Verbrennungen mehrerer Körperregionen nicht näher bezeichneten Grades",
+              "rubrics": {
+                "preferred": "Verbrennungen mehrerer Körperregionen nicht näher bezeichneten Grades",
+                "inclusion": "Multiple Verbrennungen o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "T29.1",
+              "kind": "category",
+              "label": "Verbrennungen mehrerer Körperregionen, wobei höchstens Verbrennungen 1. Grades angegeben sind",
+              "rubrics": {
+                "preferred": "Verbrennungen mehrerer Körperregionen, wobei höchstens Verbrennungen 1. Grades angegeben sind"
+              },
+              "children": []
+            },
+            {
+              "code": "T29.2",
+              "kind": "category",
+              "label": "Verbrennungen mehrerer Körperregionen, wobei höchstens Verbrennungen 2. Grades angegeben sind",
+              "rubrics": {
+                "preferred": "Verbrennungen mehrerer Körperregionen, wobei höchstens Verbrennungen 2. Grades angegeben sind"
+              },
+              "children": [
+                {
+                  "code": "T29.20",
+                  "kind": "category",
+                  "label": "Verbrennungen mehrerer Körperregionen, wobei höchstens Verbrennungen des Grades 2a angegeben sind",
+                  "rubrics": {
+                    "preferred": "Verbrennungen mehrerer Körperregionen, wobei höchstens Verbrennungen des Grades 2a angegeben sind",
+                    "inclusion": "Verbrennungen nicht näher bezeichneten 2. Grades mehrerer Körperregionen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T29.21",
+                  "kind": "category",
+                  "label": "Verbrennungen mehrerer Körperregionen, wobei höchstens Verbrennungen des Grades 2b angegeben sind",
+                  "rubrics": {
+                    "preferred": "Verbrennungen mehrerer Körperregionen, wobei höchstens Verbrennungen des Grades 2b angegeben sind"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T29.3",
+              "kind": "category",
+              "label": "Verbrennungen mehrerer Körperregionen, wobei mindestens eine Verbrennung 3. Grades angegeben ist",
+              "rubrics": {
+                "preferred": "Verbrennungen mehrerer Körperregionen, wobei mindestens eine Verbrennung 3. Grades angegeben ist"
+              },
+              "children": []
+            },
+            {
+              "code": "T29.4",
+              "kind": "category",
+              "label": "Verätzungen mehrerer Körperregionen nicht näher bezeichneten Grades",
+              "rubrics": {
+                "preferred": "Verätzungen mehrerer Körperregionen nicht näher bezeichneten Grades",
+                "inclusion": "Multiple Verätzungen o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "T29.5",
+              "kind": "category",
+              "label": "Verätzungen mehrerer Körperregionen, wobei höchstens Verätzungen 1. Grades angegeben sind",
+              "rubrics": {
+                "preferred": "Verätzungen mehrerer Körperregionen, wobei höchstens Verätzungen 1. Grades angegeben sind"
+              },
+              "children": []
+            },
+            {
+              "code": "T29.6",
+              "kind": "category",
+              "label": "Verätzungen mehrerer Körperregionen, wobei höchstens Verätzungen 2. Grades angegeben sind",
+              "rubrics": {
+                "preferred": "Verätzungen mehrerer Körperregionen, wobei höchstens Verätzungen 2. Grades angegeben sind"
+              },
+              "children": [
+                {
+                  "code": "T29.60",
+                  "kind": "category",
+                  "label": "Verätzungen mehrerer Körperregionen, wobei höchstens Verätzungen des Grades 2a angegeben sind",
+                  "rubrics": {
+                    "preferred": "Verätzungen mehrerer Körperregionen, wobei höchstens Verätzungen des Grades 2a angegeben sind",
+                    "inclusion": "Verätzungen nicht näher bezeichneten 2. Grades mehrerer Körperregionen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T29.61",
+                  "kind": "category",
+                  "label": "Verätzungen mehrerer Körperregionen, wobei höchstens Verätzungen des Grades 2b angegeben sind",
+                  "rubrics": {
+                    "preferred": "Verätzungen mehrerer Körperregionen, wobei höchstens Verätzungen des Grades 2b angegeben sind"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T29.7",
+              "kind": "category",
+              "label": "Verätzungen mehrerer Körperregionen, wobei mindestens eine Verätzung 3. Grades angegeben ist",
+              "rubrics": {
+                "preferred": "Verätzungen mehrerer Körperregionen, wobei mindestens eine Verätzung 3. Grades angegeben ist"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T30",
+          "kind": "category",
+          "label": "Verbrennung oder Verätzung, Körperregion nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verbrennung oder Verätzung, Körperregion nicht näher bezeichnet",
+            "exclusion": "Verbrennung oder Verätzung mit Angabe des Ausmaßes der betroffenen KörperoberflächeT31-T32"
+          },
+          "children": [
+            {
+              "code": "T30.0",
+              "kind": "category",
+              "label": "Verbrennung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verbrennung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet",
+                "inclusion": "Verbrennung o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "T30.1",
+              "kind": "category",
+              "label": "Verbrennung 1. Grades, Körperregion nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verbrennung 1. Grades, Körperregion nicht näher bezeichnet",
+                "inclusion": "Verbrennung 1. Grades o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "T30.2",
+              "kind": "category",
+              "label": "Verbrennung 2. Grades, Körperregion nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verbrennung 2. Grades, Körperregion nicht näher bezeichnet"
+              },
+              "children": [
+                {
+                  "code": "T30.20",
+                  "kind": "category",
+                  "label": "Verbrennung Grad 2a, Körperregion nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Verbrennung Grad 2a, Körperregion nicht näher bezeichnet",
+                    "inclusion": "Verbrennung nicht näher bezeichneten 2. Grades, Körperregion nicht näher bezeichnet"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T30.21",
+                  "kind": "category",
+                  "label": "Verbrennung Grad 2b, Körperregion nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Verbrennung Grad 2b, Körperregion nicht näher bezeichnet"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T30.3",
+              "kind": "category",
+              "label": "Verbrennung 3. Grades, Körperregion nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verbrennung 3. Grades, Körperregion nicht näher bezeichnet",
+                "inclusion": "Verbrennung 3. Grades o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "T30.4",
+              "kind": "category",
+              "label": "Verätzung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verätzung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet",
+                "inclusion": "Verätzung o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "T30.5",
+              "kind": "category",
+              "label": "Verätzung 1. Grades, Körperregion nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verätzung 1. Grades, Körperregion nicht näher bezeichnet",
+                "inclusion": "Verätzung 1. Grades o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "T30.6",
+              "kind": "category",
+              "label": "Verätzung 2. Grades, Körperregion nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verätzung 2. Grades, Körperregion nicht näher bezeichnet"
+              },
+              "children": [
+                {
+                  "code": "T30.60",
+                  "kind": "category",
+                  "label": "Verätzung Grad 2a, Körperregion nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Verätzung Grad 2a, Körperregion nicht näher bezeichnet",
+                    "inclusion": "Verätzung nicht näher bezeichneten 2. Grades, Körperregion nicht näher bezeichnet"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "T30.61",
+                  "kind": "category",
+                  "label": "Verätzung Grad 2b, Körperregion nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Verätzung Grad 2b, Körperregion nicht näher bezeichnet"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "T30.7",
+              "kind": "category",
+              "label": "Verätzung 3. Grades, Körperregion nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Verätzung 3. Grades, Körperregion nicht näher bezeichnet",
+                "inclusion": "Verätzung 3. Grades o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T31",
+          "kind": "category",
+          "label": "Verbrennungen, klassifiziert nach dem Ausmaß der betroffenen Körperoberfläche",
+          "rubrics": {
+            "preferred": "Verbrennungen, klassifiziert nach dem Ausmaß der betroffenen Körperoberfläche",
+            "note": "Diese Kategorie ist zur ergänzenden Verschlüsselung bei den Kategorien T20-T25 und T29.- zu benutzen."
+          },
+          "children": [
+            {
+              "code": "T31.0",
+              "kind": "category",
+              "label": "Verbrennungen von weniger als 10 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verbrennungen von weniger als 10 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T31.1",
+              "kind": "category",
+              "label": "Verbrennungen von 10-19 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verbrennungen von 10-19 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T31.2",
+              "kind": "category",
+              "label": "Verbrennungen von 20-29 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verbrennungen von 20-29 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T31.3",
+              "kind": "category",
+              "label": "Verbrennungen von 30-39 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verbrennungen von 30-39 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T31.4",
+              "kind": "category",
+              "label": "Verbrennungen von 40-49 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verbrennungen von 40-49 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T31.5",
+              "kind": "category",
+              "label": "Verbrennungen von 50-59 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verbrennungen von 50-59 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T31.6",
+              "kind": "category",
+              "label": "Verbrennungen von 60-69 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verbrennungen von 60-69 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T31.7",
+              "kind": "category",
+              "label": "Verbrennungen von 70-79 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verbrennungen von 70-79 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T31.8",
+              "kind": "category",
+              "label": "Verbrennungen von 80-89 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verbrennungen von 80-89 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T31.9",
+              "kind": "category",
+              "label": "Verbrennungen von 90 % oder mehr der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verbrennungen von 90 % oder mehr der Körperoberfläche"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T32",
+          "kind": "category",
+          "label": "Verätzungen, klassifiziert nach dem Ausmaß der betroffenen Körperoberfläche",
+          "rubrics": {
+            "preferred": "Verätzungen, klassifiziert nach dem Ausmaß der betroffenen Körperoberfläche",
+            "note": "Diese Kategorie ist zur ergänzenden Verschlüsselung bei den Kategorien T20-T25 und T29.- zu benutzen."
+          },
+          "children": [
+            {
+              "code": "T32.0",
+              "kind": "category",
+              "label": "Verätzungen von weniger als 10 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verätzungen von weniger als 10 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T32.1",
+              "kind": "category",
+              "label": "Verätzungen von 10-19 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verätzungen von 10-19 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T32.2",
+              "kind": "category",
+              "label": "Verätzungen von 20-29 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verätzungen von 20-29 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T32.3",
+              "kind": "category",
+              "label": "Verätzungen von 30-39 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verätzungen von 30-39 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T32.4",
+              "kind": "category",
+              "label": "Verätzungen von 40-49 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verätzungen von 40-49 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T32.5",
+              "kind": "category",
+              "label": "Verätzungen von 50-59 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verätzungen von 50-59 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T32.6",
+              "kind": "category",
+              "label": "Verätzungen von 60-69 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verätzungen von 60-69 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T32.7",
+              "kind": "category",
+              "label": "Verätzungen von 70-79 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verätzungen von 70-79 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T32.8",
+              "kind": "category",
+              "label": "Verätzungen von 80-89 % der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verätzungen von 80-89 % der Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "T32.9",
+              "kind": "category",
+              "label": "Verätzungen von 90 % oder mehr der Körperoberfläche",
+              "rubrics": {
+                "preferred": "Verätzungen von 90 % oder mehr der Körperoberfläche"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

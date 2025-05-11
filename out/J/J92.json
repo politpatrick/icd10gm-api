@@ -1,0 +1,30 @@
+{
+  "code": "J92",
+  "kind": "category",
+  "label": "Pleuraplaques",
+  "rubrics": {
+    "preferred": "Pleuraplaques",
+    "inclusion": "Pleuraverdickung"
+  },
+  "children": [
+    {
+      "code": "J92.0",
+      "kind": "category",
+      "label": "Pleuraplaques mit Nachweis von Asbest",
+      "rubrics": {
+        "preferred": "Pleuraplaques mit Nachweis von Asbest"
+      },
+      "children": []
+    },
+    {
+      "code": "J92.9",
+      "kind": "category",
+      "label": "Pleuraplaques ohne Nachweis von Asbest",
+      "rubrics": {
+        "preferred": "Pleuraplaques ohne Nachweis von Asbest",
+        "inclusion": "Pleuraplaques o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "code": "C76-C80",
+  "kind": "block",
+  "label": "Bösartige Neubildungen ungenau bezeichneter, sekundärer und nicht näher bezeichneter Lokalisationen",
+  "rubrics": {
+    "preferred": "Bösartige Neubildungen ungenau bezeichneter, sekundärer und nicht näher bezeichneter Lokalisationen"
+  },
+  "children": [
+    {
+      "code": "C76",
+      "kind": "category",
+      "label": "Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen",
+        "exclusion": "Bösartige Neubildung:\n\t\t\t\tUrogenitaltrakt o.n.A.:\n\t\t\t\tweiblich C57.9"
+      },
+      "children": [
+        {
+          "code": "C76.0",
+          "kind": "category",
+          "label": "Kopf, Gesicht und Hals",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Kopf, Gesicht und Hals",
+            "preferred": "Kopf, Gesicht und Hals",
+            "inclusion": "Wange o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "C76.1",
+          "kind": "category",
+          "label": "Thorax",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Thorax",
+            "preferred": "Thorax",
+            "inclusion": "Thorakal o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "C76.2",
+          "kind": "category",
+          "label": "Abdomen",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Abdomen",
+            "preferred": "Abdomen"
+          },
+          "children": []
+        },
+        {
+          "code": "C76.3",
+          "kind": "category",
+          "label": "Becken",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Becken",
+            "preferred": "Becken",
+            "inclusion": "Lokalisationen innerhalb des Beckens, mehrere Teilbereiche überlappend, wie z.B.:\n\t\t\t\trektovesikal (Septum)"
+          },
+          "children": []
+        },
+        {
+          "code": "C76.4",
+          "kind": "category",
+          "label": "Obere Extremität",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Obere Extremität",
+            "preferred": "Obere Extremität"
+          },
+          "children": []
+        },
+        {
+          "code": "C76.5",
+          "kind": "category",
+          "label": "Untere Extremität",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Untere Extremität",
+            "preferred": "Untere Extremität"
+          },
+          "children": []
+        },
+        {
+          "code": "C76.7",
+          "kind": "category",
+          "label": "Sonstige ungenau bezeichnete Lokalisationen",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Sonstige ungenau bezeichnete Lokalisationen",
+            "preferred": "Sonstige ungenau bezeichnete Lokalisationen"
+          },
+          "children": []
+        },
+        {
+          "code": "C76.8",
+          "kind": "category",
+          "label": "Sonstige und ungenau bezeichnete Lokalisationen, mehrere Teilbereiche überlappend",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Sonstige und ungenau bezeichnete Lokalisationen, mehrere Teilbereiche überlappend",
+            "preferred": "Sonstige und ungenau bezeichnete Lokalisationen, mehrere Teilbereiche überlappend",
+            "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "C77",
+      "kind": "category",
+      "label": "Sekundäre und nicht näher bezeichnete bösartige Neubildung der Lymphknoten",
+      "rubrics": {
+        "preferred": "Sekundäre und nicht näher bezeichnete bösartige Neubildung der Lymphknoten",
+        "exclusion": "Bösartige Neubildung der Lymphknoten, als primär bezeichnetC81-C86C96.-"
+      },
+      "children": [
+        {
+          "code": "C77.0",
+          "kind": "category",
+          "label": "Lymphknoten des Kopfes, des Gesichtes und des Halses",
+          "rubrics": {
+            "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Lymphknoten des Kopfes, des Gesichtes und des Halses",
+            "preferred": "Lymphknoten des Kopfes, des Gesichtes und des Halses",
+            "inclusion": "Supraklavikuläre Lymphknoten"
+          },
+          "children": []
+        },
+        {
+          "code": "C77.1",
+          "kind": "category",
+          "label": "Intrathorakale Lymphknoten",
+          "rubrics": {
+            "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Intrathorakale Lymphknoten",
+            "preferred": "Intrathorakale Lymphknoten"
+          },
+          "children": []
+        },
+        {
+          "code": "C77.2",
+          "kind": "category",
+          "label": "Intraabdominale Lymphknoten",
+          "rubrics": {
+            "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Intraabdominale Lymphknoten",
+            "preferred": "Intraabdominale Lymphknoten"
+          },
+          "children": []
+        },
+        {
+          "code": "C77.3",
+          "kind": "category",
+          "label": "Axilläre Lymphknoten und Lymphknoten der oberen Extremität",
+          "rubrics": {
+            "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Axilläre Lymphknoten und Lymphknoten der oberen Extremität",
+            "preferred": "Axilläre Lymphknoten und Lymphknoten der oberen Extremität",
+            "inclusion": "Pektorale Lymphknoten"
+          },
+          "children": []
+        },
+        {
+          "code": "C77.4",
+          "kind": "category",
+          "label": "Inguinale Lymphknoten und Lymphknoten der unteren Extremität",
+          "rubrics": {
+            "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Inguinale Lymphknoten und Lymphknoten der unteren Extremität",
+            "preferred": "Inguinale Lymphknoten und Lymphknoten der unteren Extremität"
+          },
+          "children": []
+        },
+        {
+          "code": "C77.5",
+          "kind": "category",
+          "label": "Intrapelvine Lymphknoten",
+          "rubrics": {
+            "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Intrapelvine Lymphknoten",
+            "preferred": "Intrapelvine Lymphknoten"
+          },
+          "children": []
+        },
+        {
+          "code": "C77.8",
+          "kind": "category",
+          "label": "Lymphknoten mehrerer Regionen",
+          "rubrics": {
+            "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Lymphknoten mehrerer Regionen",
+            "preferred": "Lymphknoten mehrerer Regionen",
+            "coding-hint": "Sollen die betroffenen Lymphknotenregionen spezifisch angegeben werden, sind sekundäre Schlüsselnummern aus U69.5- zu verwenden."
+          },
+          "children": []
+        },
+        {
+          "code": "C77.9",
+          "kind": "category",
+          "label": "Lymphknoten, nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Lymphknoten, nicht näher bezeichnet",
+            "preferred": "Lymphknoten, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "C78",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung der Atmungs- und Verdauungsorgane",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung der Atmungs- und Verdauungsorgane"
+      },
+      "children": [
+        {
+          "code": "C78.0",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung der Lunge",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung der Lunge"
+          },
+          "children": []
+        },
+        {
+          "code": "C78.1",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung des Mediastinums",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung des Mediastinums"
+          },
+          "children": []
+        },
+        {
+          "code": "C78.2",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung der Pleura",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung der Pleura",
+            "inclusion": "Pleurakarzinose"
+          },
+          "children": []
+        },
+        {
+          "code": "C78.3",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung sonstiger und nicht näher bezeichneter Atmungsorgane",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung sonstiger und nicht näher bezeichneter Atmungsorgane"
+          },
+          "children": []
+        },
+        {
+          "code": "C78.4",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung des Dünndarmes",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung des Dünndarmes"
+          },
+          "children": []
+        },
+        {
+          "code": "C78.5",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung des Dickdarmes und des Rektums",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung des Dickdarmes und des Rektums"
+          },
+          "children": []
+        },
+        {
+          "code": "C78.6",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung des Retroperitoneums und des Peritoneums",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung des Retroperitoneums und des Peritoneums",
+            "inclusion": "Peritonealkarzinose"
+          },
+          "children": []
+        },
+        {
+          "code": "C78.7",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung der Leber und der intrahepatischen Gallengänge",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung der Leber und der intrahepatischen Gallengänge"
+          },
+          "children": []
+        },
+        {
+          "code": "C78.8",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung sonstiger und nicht näher bezeichneter Verdauungsorgane",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung sonstiger und nicht näher bezeichneter Verdauungsorgane"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "C79",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung an sonstigen und nicht näher bezeichneten Lokalisationen",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung an sonstigen und nicht näher bezeichneten Lokalisationen"
+      },
+      "children": [
+        {
+          "code": "C79.0",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung der Niere und des Nierenbeckens",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung der Niere und des Nierenbeckens"
+          },
+          "children": []
+        },
+        {
+          "code": "C79.1",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung der Harnblase sowie sonstiger und nicht näher bezeichneter Harnorgane",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung der Harnblase sowie sonstiger und nicht näher bezeichneter Harnorgane"
+          },
+          "children": []
+        },
+        {
+          "code": "C79.2",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung der Haut",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung der Haut"
+          },
+          "children": []
+        },
+        {
+          "code": "C79.3",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung des Gehirns und der Hirnhäute",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung des Gehirns und der Hirnhäute",
+            "inclusion": "Meningeosis bei Neoplasien des lymphatischen, blutbildenden und verwandten Gewebes"
+          },
+          "children": []
+        },
+        {
+          "code": "C79.4",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung sonstiger und nicht näher bezeichneter Teile des Nervensystems",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung sonstiger und nicht näher bezeichneter Teile des Nervensystems"
+          },
+          "children": []
+        },
+        {
+          "code": "C79.5",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung des Knochens und des Knochenmarkes",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung des Knochens und des Knochenmarkes",
+            "inclusion": "Knochen(mark)herde bei malignen Lymphomen (Zustände, klassifizierbar unter C81-C88)"
+          },
+          "children": []
+        },
+        {
+          "code": "C79.6",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung des Ovars",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung des Ovars"
+          },
+          "children": []
+        },
+        {
+          "code": "C79.7",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung der Nebenniere",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung der Nebenniere"
+          },
+          "children": []
+        },
+        {
+          "code": "C79.8",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung sonstiger näher bezeichneter Lokalisationen",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung sonstiger näher bezeichneter Lokalisationen"
+          },
+          "children": [
+            {
+              "code": "C79.81",
+              "kind": "category",
+              "label": "Sekundäre bösartige Neubildung der Brustdrüse",
+              "rubrics": {
+                "preferred": "Sekundäre bösartige Neubildung der Brustdrüse",
+                "exclusion": "Haut der BrustdrüseC79.2"
+              },
+              "children": []
+            },
+            {
+              "code": "C79.82",
+              "kind": "category",
+              "label": "Sekundäre bösartige Neubildung der Genitalorgane",
+              "rubrics": {
+                "preferred": "Sekundäre bösartige Neubildung der Genitalorgane",
+                "exclusion": "Sekundäre bösartige Neubildung des OvarsC79.6"
+              },
+              "children": []
+            },
+            {
+              "code": "C79.83",
+              "kind": "category",
+              "label": "Sekundäre bösartige Neubildung des Perikards",
+              "rubrics": {
+                "preferred": "Sekundäre bösartige Neubildung des Perikards"
+              },
+              "children": []
+            },
+            {
+              "code": "C79.84",
+              "kind": "category",
+              "label": "Sonstige sekundäre bösartige Neubildung des Herzens",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre bösartige Neubildung des Herzens",
+                "inclusion": "Myokard"
+              },
+              "children": []
+            },
+            {
+              "code": "C79.85",
+              "kind": "category",
+              "label": "Sekundäre bösartige Neubildung des Bindegewebes und anderer Weichteilgewebe des Halses",
+              "rubrics": {
+                "preferred": "Sekundäre bösartige Neubildung des Bindegewebes und anderer Weichteilgewebe des Halses",
+                "exclusion": "Sekundäre bösartige Neubildung der Lymphknoten des HalsesC77.0"
+              },
+              "children": []
+            },
+            {
+              "code": "C79.86",
+              "kind": "category",
+              "label": "Sekundäre bösartige Neubildung des Bindegewebes und anderer Weichteilgewebe der Extremitäten",
+              "rubrics": {
+                "preferred": "Sekundäre bösartige Neubildung des Bindegewebes und anderer Weichteilgewebe der Extremitäten",
+                "inclusion": "Weichteilgewebe:\n\t\t\t\tHüfte",
+                "exclusion": "Sekundäre bösartige Neubildung der Lymphknoten der unteren ExtremitätC77.4"
+              },
+              "children": []
+            },
+            {
+              "code": "C79.88",
+              "kind": "category",
+              "label": "Sekundäre bösartige Neubildung sonstiger näher bezeichneter Lokalisationen",
+              "rubrics": {
+                "preferred": "Sekundäre bösartige Neubildung sonstiger näher bezeichneter Lokalisationen",
+                "inclusion": "Weichteilgewebe:\n\t\t\t\tOhr",
+                "exclusion": "Sekundäre bösartige Neubildung der Aderhaut und des Bindegewebes der OrbitaC79.4"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "C79.9",
+          "kind": "category",
+          "label": "Sekundäre bösartige Neubildung nicht näher bezeichneter Lokalisation",
+          "rubrics": {
+            "preferred": "Sekundäre bösartige Neubildung nicht näher bezeichneter Lokalisation",
+            "inclusion": "Multipler sekundärer Krebs o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "C80",
+      "kind": "category",
+      "label": "Bösartige Neubildung ohne Angabe der Lokalisation",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung ohne Angabe der Lokalisation"
+      },
+      "children": [
+        {
+          "code": "C80.0",
+          "kind": "category",
+          "label": "Bösartige Neubildung, primäre Lokalisation unbekannt, so bezeichnet",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung, primäre Lokalisation unbekannt, so bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "C80.9",
+          "kind": "category",
+          "label": "Bösartige Neubildung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung, nicht näher bezeichnet",
+            "inclusion": "Multipler Krebs o.n.A.",
+            "exclusion": "Sekundäre bösartige Neubildung nicht näher bezeichneter LokalisationC79.9"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

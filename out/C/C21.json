@@ -1,0 +1,54 @@
+{
+  "code": "C21",
+  "kind": "category",
+  "label": "Bösartige Neubildung des Anus und des Analkanals",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung des Anus und des Analkanals"
+  },
+  "children": [
+    {
+      "code": "C21.0",
+      "kind": "category",
+      "label": "Anus, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Anus, nicht näher bezeichnet",
+        "preferred": "Anus, nicht näher bezeichnet",
+        "exclusion": "PerianalhautC43.5C44.50"
+      },
+      "children": []
+    },
+    {
+      "code": "C21.1",
+      "kind": "category",
+      "label": "Analkanal",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Analkanal",
+        "preferred": "Analkanal",
+        "inclusion": "Sphincter ani"
+      },
+      "children": []
+    },
+    {
+      "code": "C21.2",
+      "kind": "category",
+      "label": "Kloakenregion",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Kloakenregion",
+        "preferred": "Kloakenregion"
+      },
+      "children": []
+    },
+    {
+      "code": "C21.8",
+      "kind": "category",
+      "label": "Rektum, Anus und Analkanal, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Rektum, Anus und Analkanal, mehrere Teilbereiche überlappend",
+        "preferred": "Rektum, Anus und Analkanal, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]",
+        "inclusion": "Bösartige Neubildung des Rektums, des Anus und des Analkanals, deren Ursprungsort nicht unter den Kategorien C20-C21.2 klassifiziert werden kann"
+      },
+      "children": []
+    }
+  ]
+}

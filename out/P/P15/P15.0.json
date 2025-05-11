@@ -1,0 +1,10 @@
+{
+  "code": "P15.0",
+  "kind": "category",
+  "label": "Geburtsverletzung der Leber",
+  "rubrics": {
+    "preferred": "Geburtsverletzung der Leber",
+    "inclusion": "Leberruptur durch Geburtsverletzung"
+  },
+  "children": []
+}

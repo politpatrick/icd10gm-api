@@ -1,0 +1,10 @@
+{
+  "code": "N32.2",
+  "kind": "category",
+  "label": "Harnblasenfistel, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Harnblasenfistel, anderenorts nicht klassifiziert",
+    "exclusion": "Fistel zwischen Harnblase und weiblichem GenitaltraktN82.0-N82.1"
+  },
+  "children": []
+}

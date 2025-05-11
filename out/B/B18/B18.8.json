@@ -1,0 +1,28 @@
+{
+  "code": "B18.8",
+  "kind": "category",
+  "label": "Sonstige chronische Virushepatitis",
+  "rubrics": {
+    "preferred": "Sonstige chronische Virushepatitis"
+  },
+  "children": [
+    {
+      "code": "B18.80",
+      "kind": "category",
+      "label": "Chronische Virushepatitis E",
+      "rubrics": {
+        "preferred": "Chronische Virushepatitis E"
+      },
+      "children": []
+    },
+    {
+      "code": "B18.88",
+      "kind": "category",
+      "label": "Sonstige chronische Virushepatitis",
+      "rubrics": {
+        "preferred": "Sonstige chronische Virushepatitis"
+      },
+      "children": []
+    }
+  ]
+}

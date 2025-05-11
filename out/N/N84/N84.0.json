@@ -1,0 +1,11 @@
+{
+  "code": "N84.0",
+  "kind": "category",
+  "label": "Polyp des Corpus uteri",
+  "rubrics": {
+    "preferred": "Polyp des Corpus uteri",
+    "inclusion": "Polyp:\n\t\t\t\tUterus o.n.A.",
+    "exclusion": "Polypoide Hyperplasie des EndometriumsN85.0"
+  },
+  "children": []
+}

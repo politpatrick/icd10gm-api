@@ -1,0 +1,10 @@
+{
+  "code": "C94.0",
+  "kind": "category",
+  "label": "Akute Erythroleukämie",
+  "rubrics": {
+    "preferred": "Akute Erythroleukämie",
+    "inclusion": "Erythroleukämie"
+  },
+  "children": []
+}

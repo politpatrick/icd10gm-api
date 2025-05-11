@@ -1,0 +1,11 @@
+{
+  "code": "F06.5",
+  "kind": "category",
+  "label": "Organische dissoziative Störung",
+  "rubrics": {
+    "preferred": "Organische dissoziative Störung",
+    "definition": "Eine Störung, charakterisiert durch den teilweisen oder völligen Verlust der normalen Integration von Erinnerungen an die Vergangenheit, des Identitätsbewusstseins und der unmittelbaren Wahrnehmungen sowie der Kontrolle von Körperbewegungen (F44.-), jedoch als Folge einer organischen Störung.",
+    "exclusion": "Nichtorganisch bedingte oder nicht näher bezeichnete dissoziative Störungen [Konversionsstörungen]F44.-"
+  },
+  "children": []
+}

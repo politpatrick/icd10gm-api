@@ -1,0 +1,11 @@
+{
+  "code": "R63.0",
+  "kind": "category",
+  "label": "Anorexie",
+  "rubrics": {
+    "preferred": "Anorexie",
+    "inclusion": "Appetitverlust",
+    "exclusion": "Appetitverlust nichtorganischen UrsprungsF50.8"
+  },
+  "children": []
+}

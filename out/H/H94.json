@@ -1,0 +1,29 @@
+{
+  "code": "H94",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Ohres bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Ohres bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "H94.0",
+      "kind": "category",
+      "label": "Entzündung des N. vestibulocochlearis [VIII. Hirnnerv] bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+      "rubrics": {
+        "preferred": "Entzündung des N. vestibulocochlearis [VIII. Hirnnerv] bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+        "inclusion": "Entzündung des N. vestibulocochlearis bei SyphilisA52.1"
+      },
+      "children": []
+    },
+    {
+      "code": "H94.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Ohres bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Ohres bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

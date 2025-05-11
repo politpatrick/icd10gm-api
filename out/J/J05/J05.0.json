@@ -1,0 +1,10 @@
+{
+  "code": "J05.0",
+  "kind": "category",
+  "label": "Akute obstruktive Laryngitis [Krupp]",
+  "rubrics": {
+    "preferred": "Akute obstruktive Laryngitis [Krupp]",
+    "inclusion": "Obstruktive Laryngitis o.n.A."
+  },
+  "children": []
+}

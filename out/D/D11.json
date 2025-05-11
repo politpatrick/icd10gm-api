@@ -1,0 +1,42 @@
+{
+  "code": "D11",
+  "kind": "category",
+  "label": "Gutartige Neubildung der großen Speicheldrüsen",
+  "rubrics": {
+    "preferred": "Gutartige Neubildung der großen Speicheldrüsen",
+    "exclusion": "Gutartige Neubildungen der kleinen Speicheldrüsen o.n.A.D10.3"
+  },
+  "children": [
+    {
+      "code": "D11.0",
+      "kind": "category",
+      "label": "Parotis",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Parotis",
+        "preferred": "Parotis"
+      },
+      "children": []
+    },
+    {
+      "code": "D11.7",
+      "kind": "category",
+      "label": "Sonstige große Speicheldrüsen",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Sonstige große Speicheldrüsen",
+        "preferred": "Sonstige große Speicheldrüsen",
+        "inclusion": "Glandula:\n\t\t\t\tsubmandibularis"
+      },
+      "children": []
+    },
+    {
+      "code": "D11.9",
+      "kind": "category",
+      "label": "Große Speicheldrüse, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Große Speicheldrüse, nicht näher bezeichnet",
+        "preferred": "Große Speicheldrüse, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

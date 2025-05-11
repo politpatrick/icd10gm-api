@@ -1,0 +1,101 @@
+{
+  "code": "T31",
+  "kind": "category",
+  "label": "Verbrennungen, klassifiziert nach dem Ausmaß der betroffenen Körperoberfläche",
+  "rubrics": {
+    "preferred": "Verbrennungen, klassifiziert nach dem Ausmaß der betroffenen Körperoberfläche",
+    "note": "Diese Kategorie ist zur ergänzenden Verschlüsselung bei den Kategorien T20-T25 und T29.- zu benutzen."
+  },
+  "children": [
+    {
+      "code": "T31.0",
+      "kind": "category",
+      "label": "Verbrennungen von weniger als 10 % der Körperoberfläche",
+      "rubrics": {
+        "preferred": "Verbrennungen von weniger als 10 % der Körperoberfläche"
+      },
+      "children": []
+    },
+    {
+      "code": "T31.1",
+      "kind": "category",
+      "label": "Verbrennungen von 10-19 % der Körperoberfläche",
+      "rubrics": {
+        "preferred": "Verbrennungen von 10-19 % der Körperoberfläche"
+      },
+      "children": []
+    },
+    {
+      "code": "T31.2",
+      "kind": "category",
+      "label": "Verbrennungen von 20-29 % der Körperoberfläche",
+      "rubrics": {
+        "preferred": "Verbrennungen von 20-29 % der Körperoberfläche"
+      },
+      "children": []
+    },
+    {
+      "code": "T31.3",
+      "kind": "category",
+      "label": "Verbrennungen von 30-39 % der Körperoberfläche",
+      "rubrics": {
+        "preferred": "Verbrennungen von 30-39 % der Körperoberfläche"
+      },
+      "children": []
+    },
+    {
+      "code": "T31.4",
+      "kind": "category",
+      "label": "Verbrennungen von 40-49 % der Körperoberfläche",
+      "rubrics": {
+        "preferred": "Verbrennungen von 40-49 % der Körperoberfläche"
+      },
+      "children": []
+    },
+    {
+      "code": "T31.5",
+      "kind": "category",
+      "label": "Verbrennungen von 50-59 % der Körperoberfläche",
+      "rubrics": {
+        "preferred": "Verbrennungen von 50-59 % der Körperoberfläche"
+      },
+      "children": []
+    },
+    {
+      "code": "T31.6",
+      "kind": "category",
+      "label": "Verbrennungen von 60-69 % der Körperoberfläche",
+      "rubrics": {
+        "preferred": "Verbrennungen von 60-69 % der Körperoberfläche"
+      },
+      "children": []
+    },
+    {
+      "code": "T31.7",
+      "kind": "category",
+      "label": "Verbrennungen von 70-79 % der Körperoberfläche",
+      "rubrics": {
+        "preferred": "Verbrennungen von 70-79 % der Körperoberfläche"
+      },
+      "children": []
+    },
+    {
+      "code": "T31.8",
+      "kind": "category",
+      "label": "Verbrennungen von 80-89 % der Körperoberfläche",
+      "rubrics": {
+        "preferred": "Verbrennungen von 80-89 % der Körperoberfläche"
+      },
+      "children": []
+    },
+    {
+      "code": "T31.9",
+      "kind": "category",
+      "label": "Verbrennungen von 90 % oder mehr der Körperoberfläche",
+      "rubrics": {
+        "preferred": "Verbrennungen von 90 % oder mehr der Körperoberfläche"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "I66.8",
+  "kind": "category",
+  "label": "Verschluss und Stenose sonstiger zerebraler Arterien",
+  "rubrics": {
+    "preferred": "Verschluss und Stenose sonstiger zerebraler Arterien",
+    "inclusion": "Verschluss und Stenose der Stammganglienarterien"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "G20.1",
+  "kind": "category",
+  "label": "Primäres Parkinson-Syndrom mit mäßiger bis schwerer Beeinträchtigung",
+  "rubrics": {
+    "preferred": "Primäres Parkinson-Syndrom mit mäßiger bis schwerer Beeinträchtigung",
+    "inclusion": "Stadien 3 oder 4 nach Hoehn und Yahr"
+  },
+  "children": []
+}

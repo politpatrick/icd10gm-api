@@ -1,0 +1,60 @@
+{
+  "code": "F42",
+  "kind": "category",
+  "label": "Zwangsstörung",
+  "rubrics": {
+    "preferred": "Zwangsstörung",
+    "definition": "Wesentliche Kennzeichen sind wiederkehrende Zwangsgedanken und Zwangshandlungen. Zwangsgedanken sind Ideen, Vorstellungen oder Impulse, die den Patienten immer wieder stereotyp beschäftigen. Sie sind fast immer quälend, der Patient versucht häufig erfolglos, Widerstand zu leisten. Die Gedanken werden als zur eigenen Person gehörig erlebt, selbst wenn sie als unwillkürlich und häufig abstoßend empfunden werden. Zwangshandlungen oder -rituale sind Stereotypien, die ständig wiederholt werden. Sie werden weder als angenehm empfunden, noch dienen sie dazu, an sich nützliche Aufgaben zu erfüllen. Der Patient erlebt sie oft als Vorbeugung gegen ein objektiv unwahrscheinliches Ereignis, das ihm Schaden bringen oder bei dem er selbst Unheil anrichten könnte. Im Allgemeinen wird dieses Verhalten als sinnlos und ineffektiv erlebt, es wird immer wieder versucht, dagegen anzugehen. Angst ist meist ständig vorhanden. Werden Zwangshandlungen unterdrückt, verstärkt sich die Angst deutlich.",
+    "inclusion": "Zwangsneurose",
+    "exclusion": "Zwangspersönlichkeit(sstörung)F60.5"
+  },
+  "children": [
+    {
+      "code": "F42.0",
+      "kind": "category",
+      "label": "Vorwiegend Zwangsgedanken oder Grübelzwang",
+      "rubrics": {
+        "preferred": "Vorwiegend Zwangsgedanken oder Grübelzwang",
+        "definition": "Diese können die Form von zwanghaften Ideen, bildhaften Vorstellungen oder Zwangsimpulsen annehmen, die fast immer für die betreffende Person quälend sind. Manchmal sind diese Ideen eine endlose Überlegung unwägbarer Alternativen, häufig verbunden mit der Unfähigkeit, einfache, aber notwendige Entscheidungen des täglichen Lebens zu treffen. Die Beziehung zwischen Grübelzwängen und Depression ist besonders eng. Eine Zwangsstörung ist nur dann zu diagnostizieren, wenn der Grübelzwang nicht während einer depressiven Episode auftritt und anhält."
+      },
+      "children": []
+    },
+    {
+      "code": "F42.1",
+      "kind": "category",
+      "label": "Vorwiegend Zwangshandlungen [Zwangsrituale]",
+      "rubrics": {
+        "preferred": "Vorwiegend Zwangshandlungen [Zwangsrituale]",
+        "definition": "Die meisten Zwangshandlungen beziehen sich auf Reinlichkeit (besonders Händewaschen), wiederholte Kontrollen, die garantieren, dass sich eine möglicherweise gefährliche Situation nicht entwickeln kann oder übertriebene Ordnung und Sauberkeit. Diesem Verhalten liegt die Furcht vor einer Gefahr zugrunde, die den Patienten bedroht oder von ihm ausgeht; das Ritual ist ein wirkungsloser oder symbolischer Versuch, diese Gefahr abzuwenden."
+      },
+      "children": []
+    },
+    {
+      "code": "F42.2",
+      "kind": "category",
+      "label": "Zwangsgedanken und -handlungen, gemischt",
+      "rubrics": {
+        "preferred": "Zwangsgedanken und -handlungen, gemischt"
+      },
+      "children": []
+    },
+    {
+      "code": "F42.8",
+      "kind": "category",
+      "label": "Sonstige Zwangsstörungen",
+      "rubrics": {
+        "preferred": "Sonstige Zwangsstörungen"
+      },
+      "children": []
+    },
+    {
+      "code": "F42.9",
+      "kind": "category",
+      "label": "Zwangsstörung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Zwangsstörung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

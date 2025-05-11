@@ -1,0 +1,174 @@
+{
+  "code": "S31",
+  "kind": "category",
+  "label": "Offene Wunde des Abdomens, der Lumbosakralgegend und des Beckens",
+  "rubrics": {
+    "preferred": "Offene Wunde des Abdomens, der Lumbosakralgegend und des Beckens",
+    "inclusion": "Offene Wunde mit Verbindung zu einer Fraktur, einer Luxation oder einer intraabdominalen Verletzung",
+    "coding-hint": "Benutze zusätzlich T89.0-, um das Vorliegen von Komplikationen wie Fremdkörper, Infektion oder verzögerte Heilung und Behandlung anzuzeigen.",
+    "exclusion": "Traumatische Amputation von Teilen des Abdomens, der Lumbosakralgegend und des BeckensS38.2-S38.3"
+  },
+  "children": [
+    {
+      "code": "S31.0",
+      "kind": "category",
+      "label": "Offene Wunde der Lumbosakralgegend und des Beckens",
+      "rubrics": {
+        "preferred": "Offene Wunde der Lumbosakralgegend und des Beckens",
+        "inclusion": "Sakralgegend"
+      },
+      "children": []
+    },
+    {
+      "code": "S31.1",
+      "kind": "category",
+      "label": "Offene Wunde der Bauchdecke",
+      "rubrics": {
+        "preferred": "Offene Wunde der Bauchdecke",
+        "inclusion": "Schambeinregion"
+      },
+      "children": []
+    },
+    {
+      "code": "S31.2",
+      "kind": "category",
+      "label": "Offene Wunde des Penis",
+      "rubrics": {
+        "preferred": "Offene Wunde des Penis"
+      },
+      "children": []
+    },
+    {
+      "code": "S31.3",
+      "kind": "category",
+      "label": "Offene Wunde des Skrotums und der Testes",
+      "rubrics": {
+        "preferred": "Offene Wunde des Skrotums und der Testes"
+      },
+      "children": []
+    },
+    {
+      "code": "S31.4",
+      "kind": "category",
+      "label": "Offene Wunde der Vagina und der Vulva",
+      "rubrics": {
+        "preferred": "Offene Wunde der Vagina und der Vulva"
+      },
+      "children": []
+    },
+    {
+      "code": "S31.5",
+      "kind": "category",
+      "label": "Offene Wunde sonstiger und nicht näher bezeichneter äußerer Genitalorgane",
+      "rubrics": {
+        "preferred": "Offene Wunde sonstiger und nicht näher bezeichneter äußerer Genitalorgane",
+        "inclusion": "Pudendum",
+        "exclusion": "Traumatische Amputation der äußeren GenitalorganeS38.2"
+      },
+      "children": []
+    },
+    {
+      "code": "S31.7",
+      "kind": "category",
+      "label": "Multiple offene Wunden des Abdomens, der Lumbosakralgegend und des Beckens",
+      "rubrics": {
+        "preferred": "Multiple offene Wunden des Abdomens, der Lumbosakralgegend und des Beckens"
+      },
+      "children": []
+    },
+    {
+      "code": "S31.8",
+      "kind": "category",
+      "label": "Offene Wunde sonstiger und nicht näher bezeichneter Teile des Abdomens",
+      "rubrics": {
+        "preferred": "Offene Wunde sonstiger und nicht näher bezeichneter Teile des Abdomens",
+        "note": "Bei den Schlüsselnummern S31.84!-S31.89! erfolgt die Einteilung des Weichteilschadens nach Tscherne und Oestern. Kodiere jeweils zuerst die Fraktur S32.- oder die Luxation S33.-."
+      },
+      "children": [
+        {
+          "code": "S31.80",
+          "kind": "category",
+          "label": "Offene Wunde sonstiger und nicht näher bezeichneter Teile des Abdomens",
+          "rubrics": {
+            "preferred": "Offene Wunde sonstiger und nicht näher bezeichneter Teile des Abdomens",
+            "inclusion": "Septum rectovaginale"
+          },
+          "children": []
+        },
+        {
+          "code": "S31.83",
+          "kind": "category",
+          "label": "Offene Wunde (jeder Teil des Abdomens, der Lumbosakralgegend und des Beckens) mit Verbindung zu einer intraabdominalen Verletzung",
+          "rubrics": {
+            "preferred": "Offene Wunde (jeder Teil des Abdomens, der Lumbosakralgegend und des Beckens) mit Verbindung zu einer intraabdominalen Verletzung",
+            "coding-hint": "Kodiere zuerst die intraabdominale Verletzung (S36-S37)"
+          },
+          "children": []
+        },
+        {
+          "code": "S31.84",
+          "kind": "category",
+          "label": "Weichteilschaden I. Grades bei geschlossener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+          "rubrics": {
+            "preferred": "Weichteilschaden I. Grades bei geschlossener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+            "text": "Oberflächliche Schürfung, einfache bis mittelschwere Bruchform",
+            "note": "Geschlossene Frakturen oder Luxationen mit Weichteilschaden 0. Grades (geringer Weichteilschaden, einfache Bruchform) oder nicht näher bezeichneten Grades erhalten keine zusätzliche Schlüsselnummer."
+          },
+          "children": []
+        },
+        {
+          "code": "S31.85",
+          "kind": "category",
+          "label": "Weichteilschaden II. Grades bei geschlossener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+          "rubrics": {
+            "preferred": "Weichteilschaden II. Grades bei geschlossener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+            "text": "Tiefe kontaminierte Schürfung, lokalisierte Haut- und Muskelkontusion, alle Bruchformen"
+          },
+          "children": []
+        },
+        {
+          "code": "S31.86",
+          "kind": "category",
+          "label": "Weichteilschaden III. Grades bei geschlossener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+          "rubrics": {
+            "preferred": "Weichteilschaden III. Grades bei geschlossener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+            "text": "Ausgedehnte Hautkontusion, Hautquetschung oder Zerstörung der Muskulatur, subkutanes Décollement, dekompensiertes Kompartmentsyndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "S31.87",
+          "kind": "category",
+          "label": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+          "rubrics": {
+            "preferred": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+            "text": "Fehlende oder geringe Kontusion, unbedeutende bakterielle Kontamination, einfache bis mittelschwere Bruchformen",
+            "inclusion": "Offene Fraktur oder Luxation nicht näher bezeichneten Grades"
+          },
+          "children": []
+        },
+        {
+          "code": "S31.88",
+          "kind": "category",
+          "label": "Weichteilschaden II. Grades bei offener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+          "rubrics": {
+            "preferred": "Weichteilschaden II. Grades bei offener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+            "text": "Umschriebene Haut- und Weichteilkontusion, mittelschwere Kontamination"
+          },
+          "children": []
+        },
+        {
+          "code": "S31.89",
+          "kind": "category",
+          "label": "Weichteilschaden III. Grades bei offener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+          "rubrics": {
+            "preferred": "Weichteilschaden III. Grades bei offener Fraktur oder Luxation der Lendenwirbelsäule und des Beckens",
+            "text": "Ausgedehnte Weichteildestruktion, häufig zusätzliche Gefäß- und Nervenverletzungen, starke Wundkontamination",
+            "note": "Offene Frakturen mit Weichteilschaden IV. Grades (subtotale und totale Amputation) werden als Amputation nach deren Lokalisation kodiert."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

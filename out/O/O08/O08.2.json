@@ -1,0 +1,10 @@
+{
+  "code": "O08.2",
+  "kind": "category",
+  "label": "Embolie nach Abort, Extrauteringravidität und Molenschwangerschaft",
+  "rubrics": {
+    "preferred": "Embolie nach Abort, Extrauteringravidität und Molenschwangerschaft",
+    "inclusion": "Embolie:\n\t\t\t\to.n.A.\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind"
+  },
+  "children": []
+}

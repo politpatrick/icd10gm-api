@@ -1,0 +1,10 @@
+{
+  "code": "I06.2",
+  "kind": "category",
+  "label": "Rheumatische Aortenklappenstenose mit Insuffizienz",
+  "rubrics": {
+    "preferred": "Rheumatische Aortenklappenstenose mit Insuffizienz",
+    "inclusion": "Rheumatische Aortenstenose mit Insuffizienz oder Regurgitation"
+  },
+  "children": []
+}

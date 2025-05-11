@@ -1,0 +1,10 @@
+{
+  "code": "A22.1",
+  "kind": "category",
+  "label": "Lungenmilzbrand",
+  "rubrics": {
+    "preferred": "Lungenmilzbrand",
+    "inclusion": "Milzbrand, durch Inhalation erworben"
+  },
+  "children": []
+}

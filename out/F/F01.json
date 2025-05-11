@@ -1,0 +1,71 @@
+{
+  "code": "F01",
+  "kind": "category",
+  "label": "Vaskuläre Demenz",
+  "rubrics": {
+    "preferred": "Vaskuläre Demenz",
+    "definition": "Die vaskuläre Demenz ist das Ergebnis einer Infarzierung des Gehirns als Folge einer vaskulären Krankheit, einschließlich der zerebrovaskulären Hypertonie. Die Infarkte sind meist klein, kumulieren aber in ihrer Wirkung. Der Beginn liegt gewöhnlich im späteren Lebensalter.",
+    "inclusion": "Arteriosklerotische Demenz",
+    "coding-hint": "Soll das Vorliegen von psychischen oder Verhaltensstörungen spezifisch angegeben werden, so sind sekundäre SchlüsselnummernU63.- zu benutzen."
+  },
+  "children": [
+    {
+      "code": "F01.0",
+      "kind": "category",
+      "label": "Vaskuläre Demenz mit akutem Beginn",
+      "rubrics": {
+        "preferred": "Vaskuläre Demenz mit akutem Beginn",
+        "definition": "Diese entwickelt sich meist sehr schnell nach einer Reihe von Schlaganfällen als Folge von zerebrovaskulärer Thrombose, Embolie oder Blutung. In seltenen Fällen kann eine einzige massive Infarzierung die Ursache sein."
+      },
+      "children": []
+    },
+    {
+      "code": "F01.1",
+      "kind": "category",
+      "label": "Multiinfarkt-Demenz",
+      "rubrics": {
+        "preferred": "Multiinfarkt-Demenz",
+        "definition": "Sie beginnt allmählich, nach mehreren vorübergehenden ischämischen Episoden (TIA), die eine Anhäufung von Infarkten im Hirngewebe verursachen.",
+        "inclusion": "Vorwiegend kortikale Demenz"
+      },
+      "children": []
+    },
+    {
+      "code": "F01.2",
+      "kind": "category",
+      "label": "Subkortikale vaskuläre Demenz",
+      "rubrics": {
+        "preferred": "Subkortikale vaskuläre Demenz",
+        "definition": "Hierzu zählen Fälle mit Hypertonie in der Anamnese und ischämischen Herden im Marklager der Hemisphären. Im Gegensatz zur Demenz bei Alzheimer-Krankheit, an die das klinische Bild erinnert, ist die Hirnrinde gewöhnlich intakt."
+      },
+      "children": []
+    },
+    {
+      "code": "F01.3",
+      "kind": "category",
+      "label": "Gemischte kortikale und subkortikale vaskuläre Demenz",
+      "rubrics": {
+        "preferred": "Gemischte kortikale und subkortikale vaskuläre Demenz"
+      },
+      "children": []
+    },
+    {
+      "code": "F01.8",
+      "kind": "category",
+      "label": "Sonstige vaskuläre Demenz",
+      "rubrics": {
+        "preferred": "Sonstige vaskuläre Demenz"
+      },
+      "children": []
+    },
+    {
+      "code": "F01.9",
+      "kind": "category",
+      "label": "Vaskuläre Demenz, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Vaskuläre Demenz, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "B02.9",
+  "kind": "category",
+  "label": "Zoster ohne Komplikation",
+  "rubrics": {
+    "preferred": "Zoster ohne Komplikation",
+    "inclusion": "Zoster o.n.A."
+  },
+  "children": []
+}

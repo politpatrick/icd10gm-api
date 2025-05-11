@@ -1,0 +1,10 @@
+{
+  "code": "K50.9",
+  "kind": "category",
+  "label": "Crohn-Krankheit, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Crohn-Krankheit, nicht näher bezeichnet",
+    "inclusion": "Enteritis regionalis o.n.A."
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "E35.0",
+  "kind": "category",
+  "label": "Krankheiten der Schilddrüse bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten der Schilddrüse bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Tuberkulose der SchilddrüseA18.8"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "M08.1",
+  "kind": "category",
+  "label": "Juvenile Spondylitis ankylosans",
+  "rubrics": {
+    "preferred": "Juvenile Spondylitis ankylosans",
+    "exclusion": "Axiale Spondyloarthritis [Spondylitis ankylosans] bei ErwachsenenM45.0-"
+  },
+  "children": []
+}

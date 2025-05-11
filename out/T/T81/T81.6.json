@@ -1,0 +1,10 @@
+{
+  "code": "T81.6",
+  "kind": "category",
+  "label": "Akute Reaktion auf eine während eines Eingriffes versehentlich zurückgebliebene Fremdsubstanz",
+  "rubrics": {
+    "preferred": "Akute Reaktion auf eine während eines Eingriffes versehentlich zurückgebliebene Fremdsubstanz",
+    "inclusion": "Peritonitis:\n\t\t\t\tdurch chemische Substanzen"
+  },
+  "children": []
+}

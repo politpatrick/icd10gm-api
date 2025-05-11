@@ -1,0 +1,10 @@
+{
+  "code": "B71.0",
+  "kind": "category",
+  "label": "Hymenolepiasis",
+  "rubrics": {
+    "preferred": "Hymenolepiasis",
+    "inclusion": "Zwergbandwurm (Infektion)"
+  },
+  "children": []
+}

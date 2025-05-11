@@ -1,0 +1,10 @@
+{
+  "code": "E71.1",
+  "kind": "category",
+  "label": "Sonstige Störungen des Stoffwechsels verzweigter Aminosäuren",
+  "rubrics": {
+    "preferred": "Sonstige Störungen des Stoffwechsels verzweigter Aminosäuren",
+    "inclusion": "Propionazidämie"
+  },
+  "children": []
+}

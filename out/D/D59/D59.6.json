@@ -1,0 +1,12 @@
+{
+  "code": "D59.6",
+  "kind": "category",
+  "label": "Hämoglobinurie durch Hämolyse infolge sonstiger äußerer Ursachen",
+  "rubrics": {
+    "preferred": "Hämoglobinurie durch Hämolyse infolge sonstiger äußerer Ursachen",
+    "inclusion": "Hämoglobinurie:\n\t\t\t\tparoxysmale Kälte-",
+    "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+    "exclusion": "Hämoglobinurie o.n.A.R82.3"
+  },
+  "children": []
+}

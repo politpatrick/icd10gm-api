@@ -1,0 +1,10 @@
+{
+  "code": "T60.9",
+  "kind": "category",
+  "label": "Schädlingsbekämpfungsmittel, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Schädlingsbekämpfungsmittel, nicht näher bezeichnet",
+    "preferred": "Schädlingsbekämpfungsmittel, nicht näher bezeichnet"
+  },
+  "children": []
+}

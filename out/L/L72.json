@@ -1,0 +1,56 @@
+{
+  "code": "L72",
+  "kind": "category",
+  "label": "Follikuläre Zysten der Haut und der Unterhaut",
+  "rubrics": {
+    "preferred": "Follikuläre Zysten der Haut und der Unterhaut"
+  },
+  "children": [
+    {
+      "code": "L72.0",
+      "kind": "category",
+      "label": "Epidermalzyste",
+      "rubrics": {
+        "preferred": "Epidermalzyste"
+      },
+      "children": []
+    },
+    {
+      "code": "L72.1",
+      "kind": "category",
+      "label": "Trichilemmalzyste",
+      "rubrics": {
+        "preferred": "Trichilemmalzyste",
+        "inclusion": "Pilarzyste"
+      },
+      "children": []
+    },
+    {
+      "code": "L72.2",
+      "kind": "category",
+      "label": "Steatocystoma multiplex",
+      "rubrics": {
+        "preferred": "Steatocystoma multiplex"
+      },
+      "children": []
+    },
+    {
+      "code": "L72.8",
+      "kind": "category",
+      "label": "Sonstige follikuläre Zysten der Haut und der Unterhaut",
+      "rubrics": {
+        "preferred": "Sonstige follikuläre Zysten der Haut und der Unterhaut"
+      },
+      "children": []
+    },
+    {
+      "code": "L72.9",
+      "kind": "category",
+      "label": "Follikuläre Zyste der Haut und der Unterhaut, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Follikuläre Zyste der Haut und der Unterhaut, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

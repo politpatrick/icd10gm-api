@@ -1,0 +1,11 @@
+{
+  "code": "F52.3",
+  "kind": "category",
+  "label": "Orgasmusstörung",
+  "rubrics": {
+    "preferred": "Orgasmusstörung",
+    "definition": "Der Orgasmus tritt nicht oder nur stark verzögert ein.",
+    "inclusion": "Psychogene Anorgasmie"
+  },
+  "children": []
+}

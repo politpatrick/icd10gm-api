@@ -1,0 +1,10 @@
+{
+  "code": "K80.2",
+  "kind": "category",
+  "label": "Gallenblasenstein ohne Cholezystitis",
+  "rubrics": {
+    "preferred": "Gallenblasenstein ohne Cholezystitis",
+    "inclusion": "Gallenstein (eingeklemmt):\n\t\t\t\tGallenblase\n\t\t\t\tnicht näher bezeichnet oder ohne Cholezystitis"
+  },
+  "children": []
+}

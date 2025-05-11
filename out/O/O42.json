@@ -1,0 +1,104 @@
+{
+  "code": "O42",
+  "kind": "category",
+  "label": "Vorzeitiger Blasensprung",
+  "rubrics": {
+    "preferred": "Vorzeitiger Blasensprung"
+  },
+  "children": [
+    {
+      "code": "O42.0",
+      "kind": "category",
+      "label": "Vorzeitiger Blasensprung, Wehenbeginn innerhalb von 24 Stunden",
+      "rubrics": {
+        "preferred": "Vorzeitiger Blasensprung, Wehenbeginn innerhalb von 24 Stunden",
+        "exclusion": "Bei Wehenhemmung durch TherapieO42.2-"
+      },
+      "children": []
+    },
+    {
+      "code": "O42.1",
+      "kind": "category",
+      "label": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von 24 Stunden",
+      "rubrics": {
+        "preferred": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von 24 Stunden",
+        "exclusion": "Bei Wehenhemmung durch TherapieO42.2-"
+      },
+      "children": [
+        {
+          "code": "O42.11",
+          "kind": "category",
+          "label": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von 1 bis 7 Tagen",
+          "rubrics": {
+            "preferred": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von 1 bis 7 Tagen"
+          },
+          "children": []
+        },
+        {
+          "code": "O42.12",
+          "kind": "category",
+          "label": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von mehr als 7 Tagen",
+          "rubrics": {
+            "preferred": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von mehr als 7 Tagen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O42.2",
+      "kind": "category",
+      "label": "Vorzeitiger Blasensprung, Wehenhemmung durch Therapie",
+      "rubrics": {
+        "preferred": "Vorzeitiger Blasensprung, Wehenhemmung durch Therapie"
+      },
+      "children": [
+        {
+          "code": "O42.20",
+          "kind": "category",
+          "label": "Vorzeitiger Blasensprung, Wehenhemmung durch Therapie, Wehenbeginn innerhalb von 24 Stunden",
+          "rubrics": {
+            "preferred": "Vorzeitiger Blasensprung, Wehenhemmung durch Therapie, Wehenbeginn innerhalb von 24 Stunden"
+          },
+          "children": []
+        },
+        {
+          "code": "O42.21",
+          "kind": "category",
+          "label": "Vorzeitiger Blasensprung, Wehenhemmung durch Therapie, Wehenbeginn nach Ablauf von 1 bis 7 Tagen",
+          "rubrics": {
+            "preferred": "Vorzeitiger Blasensprung, Wehenhemmung durch Therapie, Wehenbeginn nach Ablauf von 1 bis 7 Tagen"
+          },
+          "children": []
+        },
+        {
+          "code": "O42.22",
+          "kind": "category",
+          "label": "Vorzeitiger Blasensprung, Wehenhemmung durch Therapie, Wehenbeginn nach Ablauf von mehr als 7 Tagen",
+          "rubrics": {
+            "preferred": "Vorzeitiger Blasensprung, Wehenhemmung durch Therapie, Wehenbeginn nach Ablauf von mehr als 7 Tagen"
+          },
+          "children": []
+        },
+        {
+          "code": "O42.29",
+          "kind": "category",
+          "label": "Vorzeitiger Blasensprung, Wehenhemmung durch Therapie, ohne Angabe des Wehenbeginns",
+          "rubrics": {
+            "preferred": "Vorzeitiger Blasensprung, Wehenhemmung durch Therapie, ohne Angabe des Wehenbeginns"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O42.9",
+      "kind": "category",
+      "label": "Vorzeitiger Blasensprung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Vorzeitiger Blasensprung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "code": "H15-H22",
+  "kind": "block",
+  "label": "Affektionen der Sklera, der Hornhaut, der Iris und des Ziliarkörpers",
+  "rubrics": {
+    "preferred": "Affektionen der Sklera, der Hornhaut, der Iris und des Ziliarkörpers"
+  },
+  "children": [
+    {
+      "code": "H15",
+      "kind": "category",
+      "label": "Affektionen der Sklera",
+      "rubrics": {
+        "preferred": "Affektionen der Sklera"
+      },
+      "children": [
+        {
+          "code": "H15.0",
+          "kind": "category",
+          "label": "Skleritis",
+          "rubrics": {
+            "preferred": "Skleritis"
+          },
+          "children": []
+        },
+        {
+          "code": "H15.1",
+          "kind": "category",
+          "label": "Episkleritis",
+          "rubrics": {
+            "preferred": "Episkleritis"
+          },
+          "children": []
+        },
+        {
+          "code": "H15.8",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Sklera",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Sklera",
+            "inclusion": "Ektasie der Sklera",
+            "exclusion": "Degenerative MyopieH44.2"
+          },
+          "children": []
+        },
+        {
+          "code": "H15.9",
+          "kind": "category",
+          "label": "Affektion der Sklera, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Affektion der Sklera, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H16",
+      "kind": "category",
+      "label": "Keratitis",
+      "rubrics": {
+        "preferred": "Keratitis"
+      },
+      "children": [
+        {
+          "code": "H16.0",
+          "kind": "category",
+          "label": "Ulcus corneae",
+          "rubrics": {
+            "preferred": "Ulcus corneae",
+            "inclusion": "Ulcus corneae rodens [Mooren]"
+          },
+          "children": []
+        },
+        {
+          "code": "H16.1",
+          "kind": "category",
+          "label": "Sonstige oberflächliche Keratitis ohne Konjunktivitis",
+          "rubrics": {
+            "preferred": "Sonstige oberflächliche Keratitis ohne Konjunktivitis",
+            "inclusion": "Schneeblindheit"
+          },
+          "children": []
+        },
+        {
+          "code": "H16.2",
+          "kind": "category",
+          "label": "Keratokonjunktivitis",
+          "rubrics": {
+            "preferred": "Keratokonjunktivitis",
+            "inclusion": "Ophthalmia nodosa"
+          },
+          "children": []
+        },
+        {
+          "code": "H16.3",
+          "kind": "category",
+          "label": "Interstitielle und tiefe Keratitis",
+          "rubrics": {
+            "preferred": "Interstitielle und tiefe Keratitis"
+          },
+          "children": []
+        },
+        {
+          "code": "H16.4",
+          "kind": "category",
+          "label": "Neovaskularisation der Hornhaut",
+          "rubrics": {
+            "preferred": "Neovaskularisation der Hornhaut",
+            "inclusion": "Pannus"
+          },
+          "children": []
+        },
+        {
+          "code": "H16.8",
+          "kind": "category",
+          "label": "Sonstige Formen der Keratitis",
+          "rubrics": {
+            "preferred": "Sonstige Formen der Keratitis"
+          },
+          "children": []
+        },
+        {
+          "code": "H16.9",
+          "kind": "category",
+          "label": "Keratitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Keratitis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H17",
+      "kind": "category",
+      "label": "Hornhautnarben und -trübungen",
+      "rubrics": {
+        "preferred": "Hornhautnarben und -trübungen"
+      },
+      "children": [
+        {
+          "code": "H17.0",
+          "kind": "category",
+          "label": "Leukoma adhaerens",
+          "rubrics": {
+            "preferred": "Leukoma adhaerens"
+          },
+          "children": []
+        },
+        {
+          "code": "H17.1",
+          "kind": "category",
+          "label": "Sonstige zentrale Hornhauttrübung",
+          "rubrics": {
+            "preferred": "Sonstige zentrale Hornhauttrübung"
+          },
+          "children": []
+        },
+        {
+          "code": "H17.8",
+          "kind": "category",
+          "label": "Sonstige Hornhautnarben und -trübungen",
+          "rubrics": {
+            "preferred": "Sonstige Hornhautnarben und -trübungen"
+          },
+          "children": []
+        },
+        {
+          "code": "H17.9",
+          "kind": "category",
+          "label": "Hornhautnarbe und -trübung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Hornhautnarbe und -trübung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H18",
+      "kind": "category",
+      "label": "Sonstige Affektionen der Hornhaut",
+      "rubrics": {
+        "preferred": "Sonstige Affektionen der Hornhaut"
+      },
+      "children": [
+        {
+          "code": "H18.0",
+          "kind": "category",
+          "label": "Hornhautpigmentierungen und -einlagerungen",
+          "rubrics": {
+            "preferred": "Hornhautpigmentierungen und -einlagerungen",
+            "inclusion": "Stähli-Linie",
+            "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "H18.1",
+          "kind": "category",
+          "label": "Keratopathia bullosa",
+          "rubrics": {
+            "preferred": "Keratopathia bullosa",
+            "exclusion": "Keratopathie (bullös-aphak) nach KataraktextraktionH59.0"
+          },
+          "children": []
+        },
+        {
+          "code": "H18.2",
+          "kind": "category",
+          "label": "Sonstiges Hornhautödem",
+          "rubrics": {
+            "preferred": "Sonstiges Hornhautödem"
+          },
+          "children": []
+        },
+        {
+          "code": "H18.3",
+          "kind": "category",
+          "label": "Veränderungen an den Hornhautmembranen",
+          "rubrics": {
+            "preferred": "Veränderungen an den Hornhautmembranen",
+            "inclusion": "Ruptur\n\t\t\t\tDescemet-Membran"
+          },
+          "children": []
+        },
+        {
+          "code": "H18.4",
+          "kind": "category",
+          "label": "Hornhautdegeneration",
+          "rubrics": {
+            "preferred": "Hornhautdegeneration",
+            "inclusion": "Bandförmige Keratopathie",
+            "exclusion": "Ulcus corneae rodens [Mooren]H16.0"
+          },
+          "children": []
+        },
+        {
+          "code": "H18.5",
+          "kind": "category",
+          "label": "Hereditäre Hornhautdystrophien",
+          "rubrics": {
+            "preferred": "Hereditäre Hornhautdystrophien",
+            "inclusion": "Hornhautdystrophie:\n\t\t\t\tgranulär"
+          },
+          "children": []
+        },
+        {
+          "code": "H18.6",
+          "kind": "category",
+          "label": "Keratokonus",
+          "rubrics": {
+            "preferred": "Keratokonus"
+          },
+          "children": []
+        },
+        {
+          "code": "H18.7",
+          "kind": "category",
+          "label": "Sonstige Hornhautdeformitäten",
+          "rubrics": {
+            "preferred": "Sonstige Hornhautdeformitäten",
+            "inclusion": "Hornhaut:\n\t\t\t\tStaphylom",
+            "exclusion": "Angeborene Fehlbildungen der HornhautQ13.3-Q13.4"
+          },
+          "children": []
+        },
+        {
+          "code": "H18.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Affektionen der Hornhaut",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Affektionen der Hornhaut",
+            "inclusion": "Rezidivierende Hornhauterosionen"
+          },
+          "children": []
+        },
+        {
+          "code": "H18.9",
+          "kind": "category",
+          "label": "Affektion der Hornhaut, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Affektion der Hornhaut, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H19",
+      "kind": "category",
+      "label": "Affektionen der Sklera und der Hornhaut bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Affektionen der Sklera und der Hornhaut bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "H19.0",
+          "kind": "category",
+          "label": "Skleritis und Episkleritis bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Skleritis und Episkleritis bei anderenorts klassifizierten Krankheiten",
+            "inclusion": "Tuberkulöse EpiskleritisA18.5"
+          },
+          "children": []
+        },
+        {
+          "code": "H19.1",
+          "kind": "category",
+          "label": "Keratitis und Keratokonjunktivitis durch HerpesvirenB00.5",
+          "rubrics": {
+            "preferred": "Keratitis und Keratokonjunktivitis durch HerpesvirenB00.5",
+            "inclusion": "Keratitis dendritica und disciformis"
+          },
+          "children": []
+        },
+        {
+          "code": "H19.2",
+          "kind": "category",
+          "label": "Keratitis und Keratokonjunktivitis bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+          "rubrics": {
+            "preferred": "Keratitis und Keratokonjunktivitis bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+            "inclusion": "Keratoconjunctivitis epidemicaB30.0"
+          },
+          "children": []
+        },
+        {
+          "code": "H19.3",
+          "kind": "category",
+          "label": "Keratitis und Keratokonjunktivitis bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Keratitis und Keratokonjunktivitis bei sonstigen anderenorts klassifizierten Krankheiten",
+            "inclusion": "Keratoconjunctivitis siccaM35.0"
+          },
+          "children": []
+        },
+        {
+          "code": "H19.8",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Sklera und der Hornhaut bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Sklera und der Hornhaut bei anderenorts klassifizierten Krankheiten",
+            "inclusion": "Keratokonus bei Down-SyndromQ90.-"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H20",
+      "kind": "category",
+      "label": "Iridozyklitis",
+      "rubrics": {
+        "preferred": "Iridozyklitis"
+      },
+      "children": [
+        {
+          "code": "H20.0",
+          "kind": "category",
+          "label": "Akute und subakute Iridozyklitis",
+          "rubrics": {
+            "preferred": "Akute und subakute Iridozyklitis",
+            "inclusion": "Zyklitis\n\t\t\t\takut, rezidivierend oder subakut"
+          },
+          "children": []
+        },
+        {
+          "code": "H20.1",
+          "kind": "category",
+          "label": "Chronische Iridozyklitis",
+          "rubrics": {
+            "preferred": "Chronische Iridozyklitis"
+          },
+          "children": []
+        },
+        {
+          "code": "H20.2",
+          "kind": "category",
+          "label": "Phakogene Iridozyklitis",
+          "rubrics": {
+            "preferred": "Phakogene Iridozyklitis"
+          },
+          "children": []
+        },
+        {
+          "code": "H20.8",
+          "kind": "category",
+          "label": "Sonstige Iridozyklitis",
+          "rubrics": {
+            "preferred": "Sonstige Iridozyklitis"
+          },
+          "children": []
+        },
+        {
+          "code": "H20.9",
+          "kind": "category",
+          "label": "Iridozyklitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Iridozyklitis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H21",
+      "kind": "category",
+      "label": "Sonstige Affektionen der Iris und des Ziliarkörpers",
+      "rubrics": {
+        "preferred": "Sonstige Affektionen der Iris und des Ziliarkörpers",
+        "exclusion": "Sympathische UveitisH44.1"
+      },
+      "children": [
+        {
+          "code": "H21.0",
+          "kind": "category",
+          "label": "Hyphäma",
+          "rubrics": {
+            "preferred": "Hyphäma",
+            "exclusion": "Hyphäma, traumatischS05.1"
+          },
+          "children": []
+        },
+        {
+          "code": "H21.1",
+          "kind": "category",
+          "label": "Sonstige Gefäßkrankheiten der Iris und des Ziliarkörpers",
+          "rubrics": {
+            "preferred": "Sonstige Gefäßkrankheiten der Iris und des Ziliarkörpers",
+            "inclusion": "Rubeosis iridis"
+          },
+          "children": []
+        },
+        {
+          "code": "H21.2",
+          "kind": "category",
+          "label": "Degeneration der Iris und des Ziliarkörpers",
+          "rubrics": {
+            "preferred": "Degeneration der Iris und des Ziliarkörpers",
+            "inclusion": "Miotische Pupillenzyste"
+          },
+          "children": []
+        },
+        {
+          "code": "H21.3",
+          "kind": "category",
+          "label": "Zyste der Iris, des Ziliarkörpers und der Vorderkammer",
+          "rubrics": {
+            "preferred": "Zyste der Iris, des Ziliarkörpers und der Vorderkammer",
+            "inclusion": "Zyste der Iris, des Ziliarkörpers oder der Vorderkammer:\n\t\t\t\to.n.A.",
+            "exclusion": "Miotische PupillenzysteH21.2"
+          },
+          "children": []
+        },
+        {
+          "code": "H21.4",
+          "kind": "category",
+          "label": "Pupillarmembranen",
+          "rubrics": {
+            "preferred": "Pupillarmembranen",
+            "inclusion": "Seclusio pupillae"
+          },
+          "children": []
+        },
+        {
+          "code": "H21.5",
+          "kind": "category",
+          "label": "Sonstige Adhäsionen und Abriss der Iris und des Ziliarkörpers",
+          "rubrics": {
+            "preferred": "Sonstige Adhäsionen und Abriss der Iris und des Ziliarkörpers",
+            "inclusion": "Synechien (Iris):\n\t\t\t\to.n.A.",
+            "exclusion": "Ektopia pupillae [Korektopie]Q13.2"
+          },
+          "children": []
+        },
+        {
+          "code": "H21.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Affektionen der Iris und des Ziliarkörpers",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Affektionen der Iris und des Ziliarkörpers"
+          },
+          "children": []
+        },
+        {
+          "code": "H21.9",
+          "kind": "category",
+          "label": "Affektion der Iris und des Ziliarkörpers, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Affektion der Iris und des Ziliarkörpers, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H22",
+      "kind": "category",
+      "label": "Affektionen der Iris und des Ziliarkörpers bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Affektionen der Iris und des Ziliarkörpers bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "H22.0",
+          "kind": "category",
+          "label": "Iridozyklitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+          "rubrics": {
+            "preferred": "Iridozyklitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+            "inclusion": "Iridozyklitis bei:\n\t\t\t\tZosterB02.3"
+          },
+          "children": []
+        },
+        {
+          "code": "H22.1",
+          "kind": "category",
+          "label": "Iridozyklitis bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Iridozyklitis bei sonstigen anderenorts klassifizierten Krankheiten",
+            "inclusion": "Iridozyklitis bei:\n\t\t\t\tSarkoidoseD86.8"
+          },
+          "children": []
+        },
+        {
+          "code": "H22.8",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Iris und des Ziliarkörpers bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Iris und des Ziliarkörpers bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "code": "G47.3",
+  "kind": "category",
+  "label": "Schlafapnoe",
+  "rubrics": {
+    "preferred": "Schlafapnoe",
+    "exclusion": "Schlafapnoe beim NeugeborenenP28.3"
+  },
+  "children": [
+    {
+      "code": "G47.30",
+      "kind": "category",
+      "label": "Zentrales Schlafapnoe-Syndrom",
+      "rubrics": {
+        "preferred": "Zentrales Schlafapnoe-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "G47.31",
+      "kind": "category",
+      "label": "Obstruktives Schlafapnoe-Syndrom",
+      "rubrics": {
+        "preferred": "Obstruktives Schlafapnoe-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "G47.32",
+      "kind": "category",
+      "label": "Schlafbezogenes Hypoventilations-Syndrom",
+      "rubrics": {
+        "preferred": "Schlafbezogenes Hypoventilations-Syndrom",
+        "inclusion": "Schlafbezogene idiopathische nichtobstruktive alveoläre Hypoventilation"
+      },
+      "children": []
+    },
+    {
+      "code": "G47.38",
+      "kind": "category",
+      "label": "Sonstige Schlafapnoe",
+      "rubrics": {
+        "preferred": "Sonstige Schlafapnoe"
+      },
+      "children": []
+    },
+    {
+      "code": "G47.39",
+      "kind": "category",
+      "label": "Schlafapnoe, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Schlafapnoe, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

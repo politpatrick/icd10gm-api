@@ -1,0 +1,10 @@
+{
+  "code": "E35.1",
+  "kind": "category",
+  "label": "Krankheiten der Nebennieren bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten der Nebennieren bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Waterhouse-Friderichsen-Syndrom (durch Meningokokken)A39.1"
+  },
+  "children": []
+}

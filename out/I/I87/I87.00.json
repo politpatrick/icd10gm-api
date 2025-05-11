@@ -1,0 +1,10 @@
+{
+  "code": "I87.00",
+  "kind": "category",
+  "label": "Postthrombotisches Syndrom ohne Ulzeration",
+  "rubrics": {
+    "preferred": "Postthrombotisches Syndrom ohne Ulzeration",
+    "inclusion": "Postthrombotisches Syndrom o.n.A."
+  },
+  "children": []
+}

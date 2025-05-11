@@ -1,0 +1,10 @@
+{
+  "code": "E77.1",
+  "kind": "category",
+  "label": "Defekte beim Glykoproteinabbau",
+  "rubrics": {
+    "preferred": "Defekte beim Glykoproteinabbau",
+    "inclusion": "Sialidose [Mukolipidose I]"
+  },
+  "children": []
+}

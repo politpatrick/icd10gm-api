@@ -1,0 +1,11 @@
+{
+  "code": "I50.11",
+  "kind": "category",
+  "label": "Ohne Beschwerden",
+  "rubrics": {
+    "preferredLong": "Linksherzinsuffizienz: Ohne Beschwerden",
+    "preferred": "Ohne Beschwerden",
+    "inclusion": "NYHA-Stadium I"
+  },
+  "children": []
+}

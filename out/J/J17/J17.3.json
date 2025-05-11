@@ -1,0 +1,10 @@
+{
+  "code": "J17.3",
+  "kind": "category",
+  "label": "Pneumonie bei parasitären Krankheiten",
+  "rubrics": {
+    "preferred": "Pneumonie bei parasitären Krankheiten",
+    "inclusion": "Pneumonie bei:\n\t\t\t\tToxoplasmoseB58.3"
+  },
+  "children": []
+}

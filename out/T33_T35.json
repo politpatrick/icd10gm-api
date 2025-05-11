@@ -1,0 +1,307 @@
+{
+  "code": "T33-T35",
+  "kind": "block",
+  "label": "Erfrierungen",
+  "rubrics": {
+    "preferred": "Erfrierungen",
+    "exclusion": "Hypothermie und sonstige Schäden durch niedrige UmgebungstemperaturT68-T69"
+  },
+  "children": [
+    {
+      "code": "T33",
+      "kind": "category",
+      "label": "Oberflächliche Erfrierung",
+      "rubrics": {
+        "preferred": "Oberflächliche Erfrierung",
+        "inclusion": "Erfrierung mit Nekrosen der Oberhaut",
+        "exclusion": "Oberflächliche Erfrierung mit Beteiligung mehrerer KörperregionenT35.0"
+      },
+      "children": [
+        {
+          "code": "T33.0",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung des Kopfes",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "T33.1",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung des Halses",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "T33.2",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung des Thorax",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung des Thorax"
+          },
+          "children": []
+        },
+        {
+          "code": "T33.3",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung der Bauchdecke, der Lumbosakralgegend und des Beckens",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung der Bauchdecke, der Lumbosakralgegend und des Beckens"
+          },
+          "children": []
+        },
+        {
+          "code": "T33.4",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung des Armes",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung des Armes",
+            "exclusion": "Oberflächliche Erfrierung des Handgelenkes und der Hand, isoliertT33.5"
+          },
+          "children": []
+        },
+        {
+          "code": "T33.5",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung des Handgelenkes und der Hand",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung des Handgelenkes und der Hand"
+          },
+          "children": []
+        },
+        {
+          "code": "T33.6",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung der Hüfte und des Oberschenkels",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung der Hüfte und des Oberschenkels"
+          },
+          "children": []
+        },
+        {
+          "code": "T33.7",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung des Knies und des Unterschenkels",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung des Knies und des Unterschenkels",
+            "exclusion": "Oberflächliche Erfrierung der Knöchelregion und des Fußes, isoliertT33.8"
+          },
+          "children": []
+        },
+        {
+          "code": "T33.8",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung der Knöchelregion und des Fußes",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung der Knöchelregion und des Fußes"
+          },
+          "children": []
+        },
+        {
+          "code": "T33.9",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung an sonstigen und nicht näher bezeichneten Lokalisationen",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung an sonstigen und nicht näher bezeichneten Lokalisationen",
+            "inclusion": "Oberflächliche Erfrierung:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T34",
+      "kind": "category",
+      "label": "Erfrierung mit Gewebsnekrose",
+      "rubrics": {
+        "preferred": "Erfrierung mit Gewebsnekrose",
+        "exclusion": "Erfrierung mit Gewebsnekrose mit Beteiligung mehrerer KörperregionenT35.1"
+      },
+      "children": [
+        {
+          "code": "T34.0",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose des Kopfes",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "T34.1",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose des Halses",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "T34.2",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose des Thorax",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose des Thorax"
+          },
+          "children": []
+        },
+        {
+          "code": "T34.3",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose der Bauchdecke, der Lumbosakralgegend und des Beckens",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose der Bauchdecke, der Lumbosakralgegend und des Beckens"
+          },
+          "children": []
+        },
+        {
+          "code": "T34.4",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose des Armes",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose des Armes",
+            "exclusion": "Erfrierung mit Gewebsnekrose des Handgelenkes und der Hand, isoliertT34.5"
+          },
+          "children": []
+        },
+        {
+          "code": "T34.5",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose des Handgelenkes und der Hand",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose des Handgelenkes und der Hand"
+          },
+          "children": []
+        },
+        {
+          "code": "T34.6",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose der Hüfte und des Oberschenkels",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose der Hüfte und des Oberschenkels"
+          },
+          "children": []
+        },
+        {
+          "code": "T34.7",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose des Knies und des Unterschenkels",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose des Knies und des Unterschenkels",
+            "exclusion": "Erfrierung mit Gewebsnekrose der Knöchelregion und des Fußes, isoliertT34.8"
+          },
+          "children": []
+        },
+        {
+          "code": "T34.8",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose der Knöchelregion und des Fußes",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose der Knöchelregion und des Fußes"
+          },
+          "children": []
+        },
+        {
+          "code": "T34.9",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose an sonstigen und nicht näher bezeichneten Lokalisationen",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose an sonstigen und nicht näher bezeichneten Lokalisationen",
+            "inclusion": "Erfrierung mit Gewebsnekrose:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T35",
+      "kind": "category",
+      "label": "Erfrierung mit Beteiligung mehrerer Körperregionen und nicht näher bezeichnete Erfrierung",
+      "rubrics": {
+        "preferred": "Erfrierung mit Beteiligung mehrerer Körperregionen und nicht näher bezeichnete Erfrierung"
+      },
+      "children": [
+        {
+          "code": "T35.0",
+          "kind": "category",
+          "label": "Oberflächliche Erfrierung mit Beteiligung mehrerer Körperregionen",
+          "rubrics": {
+            "preferred": "Oberflächliche Erfrierung mit Beteiligung mehrerer Körperregionen",
+            "inclusion": "Multiple oberflächliche Erfrierungen o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "T35.1",
+          "kind": "category",
+          "label": "Erfrierung mit Gewebsnekrose mit Beteiligung mehrerer Körperregionen",
+          "rubrics": {
+            "preferred": "Erfrierung mit Gewebsnekrose mit Beteiligung mehrerer Körperregionen",
+            "inclusion": "Multiple Erfrierungen mit Gewebsnekrose o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "T35.2",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Erfrierung des Kopfes und des Halses",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Erfrierung des Kopfes und des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "T35.3",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Erfrierung des Thorax, des Abdomens, der Lumbosakralgegend und des Beckens",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Erfrierung des Thorax, des Abdomens, der Lumbosakralgegend und des Beckens",
+            "inclusion": "Erfrierung des Rumpfes o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "T35.4",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Erfrierung der oberen Extremität",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Erfrierung der oberen Extremität"
+          },
+          "children": []
+        },
+        {
+          "code": "T35.5",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Erfrierung der unteren Extremität",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Erfrierung der unteren Extremität"
+          },
+          "children": []
+        },
+        {
+          "code": "T35.6",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Erfrierung mit Beteiligung mehrerer Körperregionen",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Erfrierung mit Beteiligung mehrerer Körperregionen",
+            "inclusion": "Multiple Erfrierungen o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "T35.7",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Erfrierung an nicht näher bezeichneten Lokalisationen",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Erfrierung an nicht näher bezeichneten Lokalisationen",
+            "inclusion": "Erfrierung o.n.A."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "A15.0",
+  "kind": "category",
+  "label": "Lungentuberkulose, durch mikroskopische Untersuchung des Sputums gesichert, mit oder ohne Nachweis durch Kultur oder molekularbiologische Verfahren",
+  "rubrics": {
+    "preferred": "Lungentuberkulose, durch mikroskopische Untersuchung des Sputums gesichert, mit oder ohne Nachweis durch Kultur oder molekularbiologische Verfahren",
+    "inclusion": "Tuberkulös:\n\t\t\t\tPneumothorax\n\t\t\t\tdurch mikroskopische Untersuchung des Sputums gesichert, mit oder ohne Nachweis durch Kultur oder molekularbiologische Verfahren"
+  },
+  "children": []
+}

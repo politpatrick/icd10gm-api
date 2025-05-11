@@ -1,0 +1,10 @@
+{
+  "code": "Z96.2",
+  "kind": "category",
+  "label": "Vorhandensein von Implantaten im Gehörorgan",
+  "rubrics": {
+    "preferred": "Vorhandensein von Implantaten im Gehörorgan",
+    "inclusion": "Tuba-Eustachii-Plastik"
+  },
+  "children": []
+}

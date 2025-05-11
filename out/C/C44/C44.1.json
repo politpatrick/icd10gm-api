@@ -1,0 +1,11 @@
+{
+  "code": "C44.1",
+  "kind": "category",
+  "label": "Haut des Augenlides, einschließlich Kanthus",
+  "rubrics": {
+    "preferredLong": "Sonstige bösartige Neubildungen: Haut des Augenlides, einschließlich Kanthus",
+    "preferred": "Haut des Augenlides, einschließlich Kanthus",
+    "exclusion": "Bindegewebe des AugenlidesC49.0"
+  },
+  "children": []
+}

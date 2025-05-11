@@ -1,0 +1,56 @@
+{
+  "code": "L73",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der Haarfollikel",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der Haarfollikel"
+  },
+  "children": [
+    {
+      "code": "L73.0",
+      "kind": "category",
+      "label": "Aknekeloid [Folliculitis sclerotisans nuchae]",
+      "rubrics": {
+        "preferred": "Aknekeloid [Folliculitis sclerotisans nuchae]"
+      },
+      "children": []
+    },
+    {
+      "code": "L73.1",
+      "kind": "category",
+      "label": "Pseudofolliculitis barbae",
+      "rubrics": {
+        "preferred": "Pseudofolliculitis barbae"
+      },
+      "children": []
+    },
+    {
+      "code": "L73.2",
+      "kind": "category",
+      "label": "Hidradenitis suppurativa",
+      "rubrics": {
+        "preferred": "Hidradenitis suppurativa"
+      },
+      "children": []
+    },
+    {
+      "code": "L73.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten der Haarfollikel",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten der Haarfollikel",
+        "inclusion": "Folliculitis barbae"
+      },
+      "children": []
+    },
+    {
+      "code": "L73.9",
+      "kind": "category",
+      "label": "Krankheit der Haarfollikel, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit der Haarfollikel, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

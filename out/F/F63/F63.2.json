@@ -1,0 +1,11 @@
+{
+  "code": "F63.2",
+  "kind": "category",
+  "label": "Pathologisches Stehlen [Kleptomanie]",
+  "rubrics": {
+    "preferred": "Pathologisches Stehlen [Kleptomanie]",
+    "definition": "Die Störung charakterisiert wiederholtes Versagen Impulsen zu widerstehen, Dinge zu stehlen, die nicht dem persönlichen Gebrauch oder der Bereicherung dienen. Statt dessen werden die Gegenstände weggeworfen, weggegeben oder gehortet. Dieses Verhalten ist meist mit wachsender innerer Spannung vor der Handlung und einem Gefühl von Befriedigung während und sofort nach der Tat verbunden.",
+    "exclusion": "Stehlen bei depressiver StörungF31-F33"
+  },
+  "children": []
+}

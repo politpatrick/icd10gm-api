@@ -1,0 +1,70 @@
+{
+  "code": "O87",
+  "kind": "category",
+  "label": "Venenkrankheiten und Hämorrhoiden als Komplikationen im Wochenbett",
+  "rubrics": {
+    "preferred": "Venenkrankheiten und Hämorrhoiden als Komplikationen im Wochenbett",
+    "inclusion": "Während der Wehentätigkeit, der Geburt und im Wochenbett",
+    "exclusion": "Venenkrankheiten und Hämorrhoiden als Komplikationen in der SchwangerschaftO22.-"
+  },
+  "children": [
+    {
+      "code": "O87.0",
+      "kind": "category",
+      "label": "Oberflächliche Thrombophlebitis im Wochenbett",
+      "rubrics": {
+        "preferred": "Oberflächliche Thrombophlebitis im Wochenbett"
+      },
+      "children": []
+    },
+    {
+      "code": "O87.1",
+      "kind": "category",
+      "label": "Tiefe Venenthrombose im Wochenbett",
+      "rubrics": {
+        "preferred": "Tiefe Venenthrombose im Wochenbett",
+        "inclusion": "Tiefe Venenthrombose, postpartal"
+      },
+      "children": []
+    },
+    {
+      "code": "O87.2",
+      "kind": "category",
+      "label": "Hämorrhoiden im Wochenbett",
+      "rubrics": {
+        "preferred": "Hämorrhoiden im Wochenbett"
+      },
+      "children": []
+    },
+    {
+      "code": "O87.3",
+      "kind": "category",
+      "label": "Hirnvenenthrombose im Wochenbett",
+      "rubrics": {
+        "preferred": "Hirnvenenthrombose im Wochenbett",
+        "inclusion": "Zerebrovenöse Sinusthrombose im Wochenbett"
+      },
+      "children": []
+    },
+    {
+      "code": "O87.8",
+      "kind": "category",
+      "label": "Sonstige Venenkrankheiten als Komplikation im Wochenbett",
+      "rubrics": {
+        "preferred": "Sonstige Venenkrankheiten als Komplikation im Wochenbett",
+        "inclusion": "Genitalvarizen im Wochenbett"
+      },
+      "children": []
+    },
+    {
+      "code": "O87.9",
+      "kind": "category",
+      "label": "Venenkrankheit als Komplikation im Wochenbett, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Venenkrankheit als Komplikation im Wochenbett, nicht näher bezeichnet",
+        "inclusion": "Puerperal:\n\t\t\t\tThrombose o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

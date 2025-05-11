@@ -1,0 +1,113 @@
+{
+  "code": "N85",
+  "kind": "category",
+  "label": "Sonstige nichtentzündliche Krankheiten des Uterus, ausgenommen der Zervix",
+  "rubrics": {
+    "preferred": "Sonstige nichtentzündliche Krankheiten des Uterus, ausgenommen der Zervix",
+    "exclusion": "Uterusprolaps N81.-"
+  },
+  "children": [
+    {
+      "code": "N85.0",
+      "kind": "category",
+      "label": "Glanduläre Hyperplasie des Endometriums",
+      "rubrics": {
+        "preferred": "Glanduläre Hyperplasie des Endometriums",
+        "inclusion": "Hyperplasie des Endometriums:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "N85.1",
+      "kind": "category",
+      "label": "Adenomatöse Hyperplasie des Endometriums",
+      "rubrics": {
+        "preferred": "Adenomatöse Hyperplasie des Endometriums",
+        "inclusion": "Atypische (adenomatöse) Hyperplasie des Endometriums"
+      },
+      "children": []
+    },
+    {
+      "code": "N85.2",
+      "kind": "category",
+      "label": "Hypertrophie des Uterus",
+      "rubrics": {
+        "preferred": "Hypertrophie des Uterus",
+        "inclusion": "Verdickter oder vergrößerter Uterus",
+        "exclusion": "Puerperale Hypertrophie des UterusO90.8"
+      },
+      "children": []
+    },
+    {
+      "code": "N85.3",
+      "kind": "category",
+      "label": "Subinvolution des Uterus",
+      "rubrics": {
+        "preferred": "Subinvolution des Uterus",
+        "exclusion": "Puerperale Subinvolution des UterusO90.8"
+      },
+      "children": []
+    },
+    {
+      "code": "N85.4",
+      "kind": "category",
+      "label": "Lageanomalie des Uterus",
+      "rubrics": {
+        "preferred": "Lageanomalie des Uterus",
+        "inclusion": "Verstärkte Anteversio uteri",
+        "exclusion": "Komplikation bei Schwangerschaft, Wehen oder EntbindungO34.5O65.5"
+      },
+      "children": []
+    },
+    {
+      "code": "N85.5",
+      "kind": "category",
+      "label": "Inversio uteri",
+      "rubrics": {
+        "preferred": "Inversio uteri",
+        "exclusion": "Postpartale Inversio uteriO71.2"
+      },
+      "children": []
+    },
+    {
+      "code": "N85.6",
+      "kind": "category",
+      "label": "Intrauterine Synechien",
+      "rubrics": {
+        "preferred": "Intrauterine Synechien"
+      },
+      "children": []
+    },
+    {
+      "code": "N85.7",
+      "kind": "category",
+      "label": "Hämatometra",
+      "rubrics": {
+        "preferred": "Hämatometra",
+        "inclusion": "Hämatosalpinx mit Hämatometra",
+        "exclusion": "Hämatometra mit HämatokolposN89.7"
+      },
+      "children": []
+    },
+    {
+      "code": "N85.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete nichtentzündliche Krankheiten des Uterus",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete nichtentzündliche Krankheiten des Uterus",
+        "inclusion": "Fibrose des Uterus o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "N85.9",
+      "kind": "category",
+      "label": "Nichtentzündliche Krankheit des Uterus, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Nichtentzündliche Krankheit des Uterus, nicht näher bezeichnet",
+        "inclusion": "Krankheit des Uterus o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

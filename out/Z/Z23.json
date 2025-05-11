@@ -1,0 +1,92 @@
+{
+  "code": "Z23",
+  "kind": "category",
+  "label": "Notwendigkeit der Impfung [Immunisierung] gegen einzelne bakterielle Krankheiten",
+  "rubrics": {
+    "preferred": "Notwendigkeit der Impfung [Immunisierung] gegen einzelne bakterielle Krankheiten",
+    "exclusion": "Impfung:\n\t\t\t\tnicht durchgeführtZ28"
+  },
+  "children": [
+    {
+      "code": "Z23.0",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen Cholera, nicht kombiniert",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen Cholera, nicht kombiniert"
+      },
+      "children": []
+    },
+    {
+      "code": "Z23.1",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen Typhus-Paratyphus [TAB], nicht kombiniert",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen Typhus-Paratyphus [TAB], nicht kombiniert"
+      },
+      "children": []
+    },
+    {
+      "code": "Z23.2",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen Tuberkulose [BCG]",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen Tuberkulose [BCG]"
+      },
+      "children": []
+    },
+    {
+      "code": "Z23.3",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen Pest",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen Pest"
+      },
+      "children": []
+    },
+    {
+      "code": "Z23.4",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen Tularämie",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen Tularämie"
+      },
+      "children": []
+    },
+    {
+      "code": "Z23.5",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen Tetanus, nicht kombiniert",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen Tetanus, nicht kombiniert"
+      },
+      "children": []
+    },
+    {
+      "code": "Z23.6",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen Diphtherie, nicht kombiniert",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen Diphtherie, nicht kombiniert"
+      },
+      "children": []
+    },
+    {
+      "code": "Z23.7",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen Keuchhusten [Pertussis], nicht kombiniert",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen Keuchhusten [Pertussis], nicht kombiniert"
+      },
+      "children": []
+    },
+    {
+      "code": "Z23.8",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen sonstige einzelne bakterielle Krankheiten",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen sonstige einzelne bakterielle Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

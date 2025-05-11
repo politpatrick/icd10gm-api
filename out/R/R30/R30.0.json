@@ -1,0 +1,10 @@
+{
+  "code": "R30.0",
+  "kind": "category",
+  "label": "Dysurie",
+  "rubrics": {
+    "preferred": "Dysurie",
+    "inclusion": "Strangurie"
+  },
+  "children": []
+}

@@ -1,0 +1,70 @@
+{
+  "code": "S36.5",
+  "kind": "category",
+  "label": "Verletzung des Dickdarmes",
+  "rubrics": {
+    "preferred": "Verletzung des Dickdarmes"
+  },
+  "children": [
+    {
+      "code": "S36.50",
+      "kind": "category",
+      "label": "Dickdarm, Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Verletzung: Dickdarm, Teil nicht näher bezeichnet",
+        "preferred": "Dickdarm, Teil nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "S36.51",
+      "kind": "category",
+      "label": "Colon ascendens",
+      "rubrics": {
+        "preferredLong": "Verletzung: Colon ascendens",
+        "preferred": "Colon ascendens"
+      },
+      "children": []
+    },
+    {
+      "code": "S36.52",
+      "kind": "category",
+      "label": "Colon transversum",
+      "rubrics": {
+        "preferredLong": "Verletzung: Colon transversum",
+        "preferred": "Colon transversum"
+      },
+      "children": []
+    },
+    {
+      "code": "S36.53",
+      "kind": "category",
+      "label": "Colon descendens",
+      "rubrics": {
+        "preferredLong": "Verletzung: Colon descendens",
+        "preferred": "Colon descendens"
+      },
+      "children": []
+    },
+    {
+      "code": "S36.54",
+      "kind": "category",
+      "label": "Colon sigmoideum",
+      "rubrics": {
+        "preferredLong": "Verletzung: Colon sigmoideum",
+        "preferred": "Colon sigmoideum"
+      },
+      "children": []
+    },
+    {
+      "code": "S36.59",
+      "kind": "category",
+      "label": "Sonstige und mehrere Teile des Dickdarmes",
+      "rubrics": {
+        "preferredLong": "Verletzung: Sonstige und mehrere Teile des Dickdarmes",
+        "preferred": "Sonstige und mehrere Teile des Dickdarmes"
+      },
+      "children": []
+    }
+  ]
+}

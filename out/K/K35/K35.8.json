@@ -1,0 +1,10 @@
+{
+  "code": "K35.8",
+  "kind": "category",
+  "label": "Akute Appendizitis, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Akute Appendizitis, nicht näher bezeichnet",
+    "inclusion": "Akute Appendizitis ohne Angabe einer lokalisierten oder generalisierten Peritonitis"
+  },
+  "children": []
+}

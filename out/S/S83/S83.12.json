@@ -1,0 +1,10 @@
+{
+  "code": "S83.12",
+  "kind": "category",
+  "label": "Luxation der proximalen Tibia nach posterior",
+  "rubrics": {
+    "preferredLong": "Luxation des Kniegelenkes: Luxation der proximalen Tibia nach posterior",
+    "preferred": "Luxation der proximalen Tibia nach posterior"
+  },
+  "children": []
+}

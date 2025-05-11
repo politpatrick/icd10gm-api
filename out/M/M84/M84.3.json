@@ -1,0 +1,11 @@
+{
+  "code": "M84.3",
+  "kind": "category",
+  "label": "Stressfraktur, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Stressfraktur, anderenorts nicht klassifiziert",
+    "inclusion": "Stressfraktur o.n.A.",
+    "exclusion": "Stressfraktur eines WirbelsM48.4-"
+  },
+  "children": []
+}

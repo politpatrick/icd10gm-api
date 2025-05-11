@@ -1,0 +1,12 @@
+{
+  "code": "C10.1",
+  "kind": "category",
+  "label": "Vorderfläche der Epiglottis",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Vorderfläche der Epiglottis",
+    "preferred": "Vorderfläche der Epiglottis",
+    "inclusion": "Plica(e) glosso-epiglottica(e)",
+    "exclusion": "Epiglottis (suprahyoidaler Anteil) o.n.A.C32.1"
+  },
+  "children": []
+}

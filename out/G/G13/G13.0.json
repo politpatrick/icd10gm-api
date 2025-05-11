@@ -1,0 +1,10 @@
+{
+  "code": "G13.0",
+  "kind": "category",
+  "label": "Paraneoplastische Neuromyopathie und Neuropathie",
+  "rubrics": {
+    "preferred": "Paraneoplastische Neuromyopathie und Neuropathie",
+    "inclusion": "Sensorische paraneoplastische Neuropathie, Typ Denny-BrownC00-D48"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "N76.0",
+  "kind": "category",
+  "label": "Akute Kolpitis",
+  "rubrics": {
+    "preferred": "Akute Kolpitis",
+    "inclusion": "Vulvovaginitis:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

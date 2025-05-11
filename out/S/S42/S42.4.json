@@ -1,0 +1,84 @@
+{
+  "code": "S42.4",
+  "kind": "category",
+  "label": "Fraktur des distalen Endes des Humerus",
+  "rubrics": {
+    "preferred": "Fraktur des distalen Endes des Humerus",
+    "exclusion": "Fraktur des Ellenbogens o.n.A.S52.00"
+  },
+  "children": [
+    {
+      "code": "S42.40",
+      "kind": "category",
+      "label": "Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Fraktur des distalen Endes des Humerus: Teil nicht näher bezeichnet",
+        "preferred": "Teil nicht näher bezeichnet",
+        "inclusion": "Distales Ende o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "S42.41",
+      "kind": "category",
+      "label": "Suprakondylär",
+      "rubrics": {
+        "preferredLong": "Fraktur des distalen Endes des Humerus: Suprakondylär",
+        "preferred": "Suprakondylär"
+      },
+      "children": []
+    },
+    {
+      "code": "S42.42",
+      "kind": "category",
+      "label": "Epicondylus lateralis",
+      "rubrics": {
+        "preferredLong": "Fraktur des distalen Endes des Humerus: Epicondylus lateralis",
+        "preferred": "Epicondylus lateralis"
+      },
+      "children": []
+    },
+    {
+      "code": "S42.43",
+      "kind": "category",
+      "label": "Epicondylus medialis",
+      "rubrics": {
+        "preferredLong": "Fraktur des distalen Endes des Humerus: Epicondylus medialis",
+        "preferred": "Epicondylus medialis"
+      },
+      "children": []
+    },
+    {
+      "code": "S42.44",
+      "kind": "category",
+      "label": "Epicondylus, Epicondyli, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Fraktur des distalen Endes des Humerus: Epicondylus, Epicondyli, nicht näher bezeichnet",
+        "preferred": "Epicondylus, Epicondyli, nicht näher bezeichnet",
+        "inclusion": "Distale Epiphyse"
+      },
+      "children": []
+    },
+    {
+      "code": "S42.45",
+      "kind": "category",
+      "label": "Transkondylär (T- oder Y-Form)",
+      "rubrics": {
+        "preferredLong": "Fraktur des distalen Endes des Humerus: Transkondylär (T- oder Y-Form)",
+        "preferred": "Transkondylär (T- oder Y-Form)"
+      },
+      "children": []
+    },
+    {
+      "code": "S42.49",
+      "kind": "category",
+      "label": "Sonstige und multiple Teile",
+      "rubrics": {
+        "preferredLong": "Fraktur des distalen Endes des Humerus: Sonstige und multiple Teile",
+        "preferred": "Sonstige und multiple Teile",
+        "inclusion": "Trochlea"
+      },
+      "children": []
+    }
+  ]
+}

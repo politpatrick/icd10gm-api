@@ -1,0 +1,10 @@
+{
+  "code": "K86.10",
+  "kind": "category",
+  "label": "Autoimmunpankreatitis [AIP]",
+  "rubrics": {
+    "preferred": "Autoimmunpankreatitis [AIP]",
+    "inclusion": "Autoimmune Pankreatitis"
+  },
+  "children": []
+}

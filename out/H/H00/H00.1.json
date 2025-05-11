@@ -1,0 +1,10 @@
+{
+  "code": "H00.1",
+  "kind": "category",
+  "label": "Chalazion",
+  "rubrics": {
+    "preferred": "Chalazion",
+    "inclusion": "Hagelkorn"
+  },
+  "children": []
+}

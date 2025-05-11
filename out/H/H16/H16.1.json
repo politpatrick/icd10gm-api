@@ -1,0 +1,10 @@
+{
+  "code": "H16.1",
+  "kind": "category",
+  "label": "Sonstige oberflächliche Keratitis ohne Konjunktivitis",
+  "rubrics": {
+    "preferred": "Sonstige oberflächliche Keratitis ohne Konjunktivitis",
+    "inclusion": "Schneeblindheit"
+  },
+  "children": []
+}

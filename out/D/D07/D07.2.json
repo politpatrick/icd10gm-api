@@ -1,0 +1,12 @@
+{
+  "code": "D07.2",
+  "kind": "category",
+  "label": "Vagina",
+  "rubrics": {
+    "preferredLong": "Carcinoma in situ: Vagina",
+    "preferred": "Vagina",
+    "inclusion": "Intraepitheliale Neoplasie der Vagina [VAIN] III. Grades, mit oder ohne Angabe einer hochgradigen Dysplasie",
+    "exclusion": "Hochgradige Dysplasie der Vagina o.n.A.N89.2"
+  },
+  "children": []
+}

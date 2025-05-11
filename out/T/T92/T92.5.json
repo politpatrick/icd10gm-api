@@ -1,0 +1,10 @@
+{
+  "code": "T92.5",
+  "kind": "category",
+  "label": "Folgen einer Verletzung von Muskeln und Sehnen der oberen Extremität",
+  "rubrics": {
+    "preferred": "Folgen einer Verletzung von Muskeln und Sehnen der oberen Extremität",
+    "inclusion": "Folgen einer Verletzung, die unter S46.-, S56.-, S66.- und T11.5 klassifizierbar ist"
+  },
+  "children": []
+}

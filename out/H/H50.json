@@ -1,0 +1,99 @@
+{
+  "code": "H50",
+  "kind": "category",
+  "label": "Sonstiger Strabismus",
+  "rubrics": {
+    "preferred": "Sonstiger Strabismus"
+  },
+  "children": [
+    {
+      "code": "H50.0",
+      "kind": "category",
+      "label": "Strabismus concomitans convergens",
+      "rubrics": {
+        "preferred": "Strabismus concomitans convergens",
+        "inclusion": "Esotropie (alternierend) (unilateral), ausgenommen intermittierend"
+      },
+      "children": []
+    },
+    {
+      "code": "H50.1",
+      "kind": "category",
+      "label": "Strabismus concomitans divergens",
+      "rubrics": {
+        "preferred": "Strabismus concomitans divergens",
+        "inclusion": "Exotropie (alternierend) (unilateral), ausgenommen intermittierend"
+      },
+      "children": []
+    },
+    {
+      "code": "H50.2",
+      "kind": "category",
+      "label": "Strabismus verticalis",
+      "rubrics": {
+        "preferred": "Strabismus verticalis",
+        "inclusion": "Hypotropie"
+      },
+      "children": []
+    },
+    {
+      "code": "H50.3",
+      "kind": "category",
+      "label": "Intermittierender Strabismus concomitans",
+      "rubrics": {
+        "preferred": "Intermittierender Strabismus concomitans",
+        "inclusion": "Intermittierend:\n\t\t\t\tStrabismus divergens\n\t\t\t\t(alternierend) (unilateral)"
+      },
+      "children": []
+    },
+    {
+      "code": "H50.4",
+      "kind": "category",
+      "label": "Sonstiger und nicht näher bezeichneter Strabismus concomitans",
+      "rubrics": {
+        "preferred": "Sonstiger und nicht näher bezeichneter Strabismus concomitans",
+        "inclusion": "Zyklotropie"
+      },
+      "children": []
+    },
+    {
+      "code": "H50.5",
+      "kind": "category",
+      "label": "Heterophorie",
+      "rubrics": {
+        "preferred": "Heterophorie",
+        "inclusion": "Latentes Schielen"
+      },
+      "children": []
+    },
+    {
+      "code": "H50.6",
+      "kind": "category",
+      "label": "Mechanisch bedingter Strabismus",
+      "rubrics": {
+        "preferred": "Mechanisch bedingter Strabismus",
+        "inclusion": "Strabismus durch traumatische Ursache"
+      },
+      "children": []
+    },
+    {
+      "code": "H50.8",
+      "kind": "category",
+      "label": "Sonstiger näher bezeichneter Strabismus",
+      "rubrics": {
+        "preferred": "Sonstiger näher bezeichneter Strabismus",
+        "inclusion": "Stilling-Türk-Duane-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "H50.9",
+      "kind": "category",
+      "label": "Strabismus, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Strabismus, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

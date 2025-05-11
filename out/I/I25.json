@@ -1,0 +1,221 @@
+{
+  "code": "I25",
+  "kind": "category",
+  "label": "Chronische ischämische Herzkrankheit",
+  "rubrics": {
+    "preferred": "Chronische ischämische Herzkrankheit",
+    "exclusion": "Herz-Kreislauf-Krankheit o.n.A.I51.6"
+  },
+  "children": [
+    {
+      "code": "I25.0",
+      "kind": "category",
+      "label": "Atherosklerotische Herz-Kreislauf-Krankheit, so beschrieben",
+      "rubrics": {
+        "preferred": "Atherosklerotische Herz-Kreislauf-Krankheit, so beschrieben"
+      },
+      "children": []
+    },
+    {
+      "code": "I25.1",
+      "kind": "category",
+      "label": "Atherosklerotische Herzkrankheit",
+      "rubrics": {
+        "preferred": "Atherosklerotische Herzkrankheit",
+        "inclusion": "Koronar- (Arterien-):\n\t\t\t\tStenose"
+      },
+      "children": [
+        {
+          "code": "I25.10",
+          "kind": "category",
+          "label": "Ohne hämodynamisch wirksame Stenosen",
+          "rubrics": {
+            "preferredLong": "Atherosklerotische Herzkrankheit: Ohne hämodynamisch wirksame Stenosen",
+            "preferred": "Ohne hämodynamisch wirksame Stenosen"
+          },
+          "children": []
+        },
+        {
+          "code": "I25.11",
+          "kind": "category",
+          "label": "Ein-Gefäß-Erkrankung",
+          "rubrics": {
+            "preferredLong": "Atherosklerotische Herzkrankheit: Ein-Gefäß-Erkrankung",
+            "preferred": "Ein-Gefäß-Erkrankung"
+          },
+          "children": []
+        },
+        {
+          "code": "I25.12",
+          "kind": "category",
+          "label": "Zwei-Gefäß-Erkrankung",
+          "rubrics": {
+            "preferredLong": "Atherosklerotische Herzkrankheit: Zwei-Gefäß-Erkrankung",
+            "preferred": "Zwei-Gefäß-Erkrankung"
+          },
+          "children": []
+        },
+        {
+          "code": "I25.13",
+          "kind": "category",
+          "label": "Drei-Gefäß-Erkrankung",
+          "rubrics": {
+            "preferredLong": "Atherosklerotische Herzkrankheit: Drei-Gefäß-Erkrankung",
+            "preferred": "Drei-Gefäß-Erkrankung"
+          },
+          "children": []
+        },
+        {
+          "code": "I25.14",
+          "kind": "category",
+          "label": "Stenose des linken Hauptstammes",
+          "rubrics": {
+            "preferredLong": "Atherosklerotische Herzkrankheit: Stenose des linken Hauptstammes",
+            "preferred": "Stenose des linken Hauptstammes"
+          },
+          "children": []
+        },
+        {
+          "code": "I25.15",
+          "kind": "category",
+          "label": "Mit stenosierten Bypass-Gefäßen",
+          "rubrics": {
+            "preferredLong": "Atherosklerotische Herzkrankheit: Mit stenosierten Bypass-Gefäßen",
+            "preferred": "Mit stenosierten Bypass-Gefäßen"
+          },
+          "children": []
+        },
+        {
+          "code": "I25.16",
+          "kind": "category",
+          "label": "Mit stenosierten Stents",
+          "rubrics": {
+            "preferred": "Mit stenosierten Stents",
+            "preferredLong": "Atherosklerotische Herzkrankheit: Mit stenosierten Stents"
+          },
+          "children": []
+        },
+        {
+          "code": "I25.19",
+          "kind": "category",
+          "label": "Nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Atherosklerotische Herzkrankheit: Nicht näher bezeichnet",
+            "preferred": "Nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I25.2",
+      "kind": "category",
+      "label": "Alter Myokardinfarkt",
+      "rubrics": {
+        "preferred": "Alter Myokardinfarkt",
+        "inclusion": "Zustand nach Myokardinfarkt, der durch EKG oder andere spezielle Untersuchungen diagnostiziert wurde, aber gegenwärtig symptomlos ist"
+      },
+      "children": [
+        {
+          "code": "I25.20",
+          "kind": "category",
+          "label": "29 Tage bis unter 4 Monate zurückliegend",
+          "rubrics": {
+            "preferredLong": "Alter Myokardinfarkt: 29 Tage bis unter 4 Monate zurückliegend",
+            "preferred": "29 Tage bis unter 4 Monate zurückliegend"
+          },
+          "children": []
+        },
+        {
+          "code": "I25.21",
+          "kind": "category",
+          "label": "4 Monate bis unter 1 Jahr zurückliegend",
+          "rubrics": {
+            "preferredLong": "Alter Myokardinfarkt: 4 Monate bis unter 1 Jahr zurückliegend",
+            "preferred": "4 Monate bis unter 1 Jahr zurückliegend"
+          },
+          "children": []
+        },
+        {
+          "code": "I25.22",
+          "kind": "category",
+          "label": "1 Jahr und länger zurückliegend",
+          "rubrics": {
+            "preferredLong": "Alter Myokardinfarkt: 1 Jahr und länger zurückliegend",
+            "preferred": "1 Jahr und länger zurückliegend"
+          },
+          "children": []
+        },
+        {
+          "code": "I25.29",
+          "kind": "category",
+          "label": "Nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Alter Myokardinfarkt: Nicht näher bezeichnet",
+            "preferred": "Nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I25.3",
+      "kind": "category",
+      "label": "Herz-(Wand-)Aneurysma",
+      "rubrics": {
+        "preferred": "Herz-(Wand-)Aneurysma",
+        "inclusion": "Ventrikelaneurysma"
+      },
+      "children": []
+    },
+    {
+      "code": "I25.4",
+      "kind": "category",
+      "label": "Koronararterienaneurysma",
+      "rubrics": {
+        "preferred": "Koronararterienaneurysma",
+        "inclusion": "Koronare arteriovenöse Fistel, erworben",
+        "exclusion": "Angeborenes Koronar- (Arterien-) AneurysmaQ24.5"
+      },
+      "children": []
+    },
+    {
+      "code": "I25.5",
+      "kind": "category",
+      "label": "Ischämische Kardiomyopathie",
+      "rubrics": {
+        "preferred": "Ischämische Kardiomyopathie"
+      },
+      "children": []
+    },
+    {
+      "code": "I25.6",
+      "kind": "category",
+      "label": "Stumme Myokardischämie",
+      "rubrics": {
+        "preferred": "Stumme Myokardischämie"
+      },
+      "children": []
+    },
+    {
+      "code": "I25.8",
+      "kind": "category",
+      "label": "Sonstige Formen der chronischen ischämischen Herzkrankheit",
+      "rubrics": {
+        "preferred": "Sonstige Formen der chronischen ischämischen Herzkrankheit",
+        "inclusion": "Jeder Zustand unter I21-I22 und I24.-, als chronisch bezeichnet oder mit Angabe einer Dauer von mehr als vier Wochen (mehr als 28 Tagen) nach dem Eintritt"
+      },
+      "children": []
+    },
+    {
+      "code": "I25.9",
+      "kind": "category",
+      "label": "Chronische ischämische Herzkrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Chronische ischämische Herzkrankheit, nicht näher bezeichnet",
+        "inclusion": "Ischämische Herzkrankheit (chronisch) o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

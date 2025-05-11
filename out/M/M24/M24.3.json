@@ -1,0 +1,10 @@
+{
+  "code": "M24.3",
+  "kind": "category",
+  "label": "Pathologische Luxation und Subluxation eines Gelenkes, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Pathologische Luxation und Subluxation eines Gelenkes, anderenorts nicht klassifiziert",
+    "exclusion": "Luxation oder Subluxation:\n\t\t\t\thabituellM24.4-"
+  },
+  "children": []
+}

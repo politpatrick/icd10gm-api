@@ -1,0 +1,11 @@
+{
+  "code": "J86.05",
+  "kind": "category",
+  "label": "Pyothorax mit sonstiger ösophagealer Fistel",
+  "rubrics": {
+    "preferred": "Pyothorax mit sonstiger ösophagealer Fistel",
+    "inclusion": "Ösophagopulmonale Fistel",
+    "exclusion": "ÖsophagusfistelK22.80"
+  },
+  "children": []
+}

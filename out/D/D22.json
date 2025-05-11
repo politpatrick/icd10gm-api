@@ -1,0 +1,93 @@
+{
+  "code": "D22",
+  "kind": "category",
+  "label": "Melanozytennävus",
+  "rubrics": {
+    "preferred": "Melanozytennävus",
+    "inclusion": "Nävus:\n\t\t\t\to.n.A."
+  },
+  "children": [
+    {
+      "code": "D22.0",
+      "kind": "category",
+      "label": "Melanozytennävus der Lippe",
+      "rubrics": {
+        "preferred": "Melanozytennävus der Lippe"
+      },
+      "children": []
+    },
+    {
+      "code": "D22.1",
+      "kind": "category",
+      "label": "Melanozytennävus des Augenlides, einschließlich Kanthus",
+      "rubrics": {
+        "preferred": "Melanozytennävus des Augenlides, einschließlich Kanthus"
+      },
+      "children": []
+    },
+    {
+      "code": "D22.2",
+      "kind": "category",
+      "label": "Melanozytennävus des Ohres und des äußeren Gehörganges",
+      "rubrics": {
+        "preferred": "Melanozytennävus des Ohres und des äußeren Gehörganges"
+      },
+      "children": []
+    },
+    {
+      "code": "D22.3",
+      "kind": "category",
+      "label": "Melanozytennävus sonstiger und nicht näher bezeichneter Teile des Gesichtes",
+      "rubrics": {
+        "preferred": "Melanozytennävus sonstiger und nicht näher bezeichneter Teile des Gesichtes"
+      },
+      "children": []
+    },
+    {
+      "code": "D22.4",
+      "kind": "category",
+      "label": "Melanozytennävus der behaarten Kopfhaut und des Halses",
+      "rubrics": {
+        "preferred": "Melanozytennävus der behaarten Kopfhaut und des Halses"
+      },
+      "children": []
+    },
+    {
+      "code": "D22.5",
+      "kind": "category",
+      "label": "Melanozytennävus des Rumpfes",
+      "rubrics": {
+        "preferred": "Melanozytennävus des Rumpfes",
+        "inclusion": "Perianalhaut"
+      },
+      "children": []
+    },
+    {
+      "code": "D22.6",
+      "kind": "category",
+      "label": "Melanozytennävus der oberen Extremität, einschließlich Schulter",
+      "rubrics": {
+        "preferred": "Melanozytennävus der oberen Extremität, einschließlich Schulter"
+      },
+      "children": []
+    },
+    {
+      "code": "D22.7",
+      "kind": "category",
+      "label": "Melanozytennävus der unteren Extremität, einschließlich Hüfte",
+      "rubrics": {
+        "preferred": "Melanozytennävus der unteren Extremität, einschließlich Hüfte"
+      },
+      "children": []
+    },
+    {
+      "code": "D22.9",
+      "kind": "category",
+      "label": "Melanozytennävus, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Melanozytennävus, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

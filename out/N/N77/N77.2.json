@@ -1,0 +1,37 @@
+{
+  "code": "N77.2",
+  "kind": "category",
+  "label": "Vulvovaginale Ulzerationen und Entzündungen bei der chronischer Graft-versus-Host-Krankheit",
+  "rubrics": {
+    "preferred": "Vulvovaginale Ulzerationen und Entzündungen bei der chronischer Graft-versus-Host-Krankheit"
+  },
+  "children": [
+    {
+      "code": "N77.21",
+      "kind": "category",
+      "label": "Stadium 1 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.05T86.06",
+      "rubrics": {
+        "preferred": "Stadium 1 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.05T86.06"
+      },
+      "children": []
+    },
+    {
+      "code": "N77.22",
+      "kind": "category",
+      "label": "Stadium 2 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.06",
+      "rubrics": {
+        "preferred": "Stadium 2 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.06"
+      },
+      "children": []
+    },
+    {
+      "code": "N77.23",
+      "kind": "category",
+      "label": "Stadium 3 der chronischen Vulvovaginal-Graft-versus-Host-KrankheitT86.07",
+      "rubrics": {
+        "preferred": "Stadium 3 der chronischen Vulvovaginal-Graft-versus-Host-KrankheitT86.07"
+      },
+      "children": []
+    }
+  ]
+}

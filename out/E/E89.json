@@ -1,0 +1,96 @@
+{
+  "code": "E89",
+  "kind": "category",
+  "label": "Endokrine und Stoffwechselstörungen nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Endokrine und Stoffwechselstörungen nach medizinischen Maßnahmen, anderenorts nicht klassifiziert"
+  },
+  "children": [
+    {
+      "code": "E89.0",
+      "kind": "category",
+      "label": "Hypothyreose nach medizinischen Maßnahmen",
+      "rubrics": {
+        "preferred": "Hypothyreose nach medizinischen Maßnahmen",
+        "inclusion": "Postoperative Hypothyreose"
+      },
+      "children": []
+    },
+    {
+      "code": "E89.1",
+      "kind": "category",
+      "label": "Hypoinsulinämie nach medizinischen Maßnahmen",
+      "rubrics": {
+        "preferred": "Hypoinsulinämie nach medizinischen Maßnahmen",
+        "inclusion": "Postoperative Hypoinsulinämie",
+        "coding-hint": "Ein pankreopriver Diabetes mellitus ist zunächst mit einer Schlüsselnummer aus E13.- zu kodieren."
+      },
+      "children": []
+    },
+    {
+      "code": "E89.2",
+      "kind": "category",
+      "label": "Hypoparathyreoidismus nach medizinischen Maßnahmen",
+      "rubrics": {
+        "preferred": "Hypoparathyreoidismus nach medizinischen Maßnahmen",
+        "inclusion": "Parathyreoprive Tetanie"
+      },
+      "children": []
+    },
+    {
+      "code": "E89.3",
+      "kind": "category",
+      "label": "Hypopituitarismus nach medizinischen Maßnahmen",
+      "rubrics": {
+        "preferred": "Hypopituitarismus nach medizinischen Maßnahmen",
+        "inclusion": "Hypopituitarismus nach Strahlentherapie"
+      },
+      "children": []
+    },
+    {
+      "code": "E89.4",
+      "kind": "category",
+      "label": "Ovarialinsuffizienz nach medizinischen Maßnahmen",
+      "rubrics": {
+        "preferred": "Ovarialinsuffizienz nach medizinischen Maßnahmen"
+      },
+      "children": []
+    },
+    {
+      "code": "E89.5",
+      "kind": "category",
+      "label": "Testikuläre Unterfunktion nach medizinischen Maßnahmen",
+      "rubrics": {
+        "preferred": "Testikuläre Unterfunktion nach medizinischen Maßnahmen"
+      },
+      "children": []
+    },
+    {
+      "code": "E89.6",
+      "kind": "category",
+      "label": "Nebennierenrinden- (Nebennierenmark-) Unterfunktion nach medizinischen Maßnahmen",
+      "rubrics": {
+        "preferred": "Nebennierenrinden- (Nebennierenmark-) Unterfunktion nach medizinischen Maßnahmen"
+      },
+      "children": []
+    },
+    {
+      "code": "E89.8",
+      "kind": "category",
+      "label": "Sonstige endokrine oder Stoffwechselstörungen nach medizinischen Maßnahmen",
+      "rubrics": {
+        "preferred": "Sonstige endokrine oder Stoffwechselstörungen nach medizinischen Maßnahmen"
+      },
+      "children": []
+    },
+    {
+      "code": "E89.9",
+      "kind": "category",
+      "label": "Endokrine oder Stoffwechselstörung nach medizinischen Maßnahmen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Endokrine oder Stoffwechselstörung nach medizinischen Maßnahmen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

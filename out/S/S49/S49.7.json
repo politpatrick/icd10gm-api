@@ -1,0 +1,11 @@
+{
+  "code": "S49.7",
+  "kind": "category",
+  "label": "Multiple Verletzungen der Schulter und des Oberarmes",
+  "rubrics": {
+    "preferred": "Multiple Verletzungen der Schulter und des Oberarmes",
+    "inclusion": "Verletzungen, die in mehr als einer der Kategorien S40-S48 klassifizierbar sind",
+    "coding-hint": "Bezüglich der Verschlüsselung multipler Verletzungen sind in der stationären Versorgung die Deutschen Kodierrichtlinien heranzuziehen."
+  },
+  "children": []
+}

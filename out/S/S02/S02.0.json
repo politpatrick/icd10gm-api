@@ -1,0 +1,10 @@
+{
+  "code": "S02.0",
+  "kind": "category",
+  "label": "Schädeldachfraktur",
+  "rubrics": {
+    "preferred": "Schädeldachfraktur",
+    "inclusion": "Os temporale, Pars squamosa"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D07.0",
+  "kind": "category",
+  "label": "Endometrium",
+  "rubrics": {
+    "preferredLong": "Carcinoma in situ: Endometrium",
+    "preferred": "Endometrium"
+  },
+  "children": []
+}

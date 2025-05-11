@@ -1,0 +1,289 @@
+{
+  "code": "L50-L54",
+  "kind": "block",
+  "label": "Urtikaria und Erythem",
+  "rubrics": {
+    "preferred": "Urtikaria und Erythem",
+    "exclusion": "RosazeaL71.-"
+  },
+  "children": [
+    {
+      "code": "L50",
+      "kind": "category",
+      "label": "Urtikaria",
+      "rubrics": {
+        "preferred": "Urtikaria",
+        "exclusion": "Urticaria:\n\t\t\t\tsolarisL56.3"
+      },
+      "children": [
+        {
+          "code": "L50.0",
+          "kind": "category",
+          "label": "Allergische Urtikaria",
+          "rubrics": {
+            "preferred": "Allergische Urtikaria"
+          },
+          "children": []
+        },
+        {
+          "code": "L50.1",
+          "kind": "category",
+          "label": "Idiopathische Urtikaria",
+          "rubrics": {
+            "preferred": "Idiopathische Urtikaria"
+          },
+          "children": []
+        },
+        {
+          "code": "L50.2",
+          "kind": "category",
+          "label": "Urtikaria durch Kälte oder Wärme",
+          "rubrics": {
+            "preferred": "Urtikaria durch Kälte oder Wärme"
+          },
+          "children": []
+        },
+        {
+          "code": "L50.3",
+          "kind": "category",
+          "label": "Urticaria factitia",
+          "rubrics": {
+            "preferred": "Urticaria factitia",
+            "inclusion": "Urtikarieller Dermographismus"
+          },
+          "children": []
+        },
+        {
+          "code": "L50.4",
+          "kind": "category",
+          "label": "Urticaria mechanica",
+          "rubrics": {
+            "preferred": "Urticaria mechanica"
+          },
+          "children": []
+        },
+        {
+          "code": "L50.5",
+          "kind": "category",
+          "label": "Cholinergische Urtikaria",
+          "rubrics": {
+            "preferred": "Cholinergische Urtikaria"
+          },
+          "children": []
+        },
+        {
+          "code": "L50.6",
+          "kind": "category",
+          "label": "Kontakturtikaria",
+          "rubrics": {
+            "preferred": "Kontakturtikaria"
+          },
+          "children": []
+        },
+        {
+          "code": "L50.8",
+          "kind": "category",
+          "label": "Sonstige Urtikaria",
+          "rubrics": {
+            "preferred": "Sonstige Urtikaria",
+            "inclusion": "Urtikaria:\n\t\t\t\trezidivierend, periodisch"
+          },
+          "children": []
+        },
+        {
+          "code": "L50.9",
+          "kind": "category",
+          "label": "Urtikaria, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Urtikaria, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L51",
+      "kind": "category",
+      "label": "Erythema exsudativum multiforme",
+      "rubrics": {
+        "preferred": "Erythema exsudativum multiforme"
+      },
+      "children": [
+        {
+          "code": "L51.0",
+          "kind": "category",
+          "label": "Nichtbullöses Erythema exsudativum multiforme",
+          "rubrics": {
+            "preferred": "Nichtbullöses Erythema exsudativum multiforme"
+          },
+          "children": []
+        },
+        {
+          "code": "L51.1",
+          "kind": "category",
+          "label": "Bullöses Erythema exsudativum multiforme",
+          "rubrics": {
+            "preferred": "Bullöses Erythema exsudativum multiforme",
+            "inclusion": "Stevens-Johnson-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "L51.2",
+          "kind": "category",
+          "label": "Toxische epidermale Nekrolyse [Lyell-Syndrom]",
+          "rubrics": {
+            "preferred": "Toxische epidermale Nekrolyse [Lyell-Syndrom]"
+          },
+          "children": [
+            {
+              "code": "L51.20",
+              "kind": "category",
+              "label": "Befall von weniger als 30 % der Körperoberfläche",
+              "rubrics": {
+                "preferredLong": "Toxische epidermale Nekrolyse [Lyell-Syndrom]: Befall von weniger als 30 % der Körperoberfläche",
+                "preferred": "Befall von weniger als 30 % der Körperoberfläche",
+                "inclusion": "Toxische epidermale Nekrolyse [Lyell-Syndrom] o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "L51.21",
+              "kind": "category",
+              "label": "Befall von 30 % der Körperoberfläche und mehr",
+              "rubrics": {
+                "preferredLong": "Toxische epidermale Nekrolyse [Lyell-Syndrom]: Befall von 30 % der Körperoberfläche und mehr",
+                "preferred": "Befall von 30 % der Körperoberfläche und mehr",
+                "inclusion": "Schleimhautbefall"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "L51.8",
+          "kind": "category",
+          "label": "Sonstiges Erythema exsudativum multiforme",
+          "rubrics": {
+            "preferred": "Sonstiges Erythema exsudativum multiforme"
+          },
+          "children": []
+        },
+        {
+          "code": "L51.9",
+          "kind": "category",
+          "label": "Erythema exsudativum multiforme, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Erythema exsudativum multiforme, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L52",
+      "kind": "category",
+      "label": "Erythema nodosum",
+      "rubrics": {
+        "preferred": "Erythema nodosum"
+      },
+      "children": []
+    },
+    {
+      "code": "L53",
+      "kind": "category",
+      "label": "Sonstige erythematöse Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige erythematöse Krankheiten",
+        "exclusion": "Erythema:\n\t\t\t\tintertrigoL30.4"
+      },
+      "children": [
+        {
+          "code": "L53.0",
+          "kind": "category",
+          "label": "Erythema toxicum",
+          "rubrics": {
+            "preferred": "Erythema toxicum",
+            "coding-hint": "Soll das exogene Agens angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+            "exclusion": "Erythema toxicum beim NeugeborenenP83.1"
+          },
+          "children": []
+        },
+        {
+          "code": "L53.1",
+          "kind": "category",
+          "label": "Erythema anulare centrifugum",
+          "rubrics": {
+            "preferred": "Erythema anulare centrifugum"
+          },
+          "children": []
+        },
+        {
+          "code": "L53.2",
+          "kind": "category",
+          "label": "Erythema marginatum",
+          "rubrics": {
+            "preferred": "Erythema marginatum"
+          },
+          "children": []
+        },
+        {
+          "code": "L53.3",
+          "kind": "category",
+          "label": "Sonstiges figuriertes chronisches Erythem",
+          "rubrics": {
+            "preferred": "Sonstiges figuriertes chronisches Erythem"
+          },
+          "children": []
+        },
+        {
+          "code": "L53.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete erythematöse Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete erythematöse Krankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "L53.9",
+          "kind": "category",
+          "label": "Erythematöse Krankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Erythematöse Krankheit, nicht näher bezeichnet",
+            "inclusion": "Erythrodermie o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L54",
+      "kind": "category",
+      "label": "Erythem bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Erythem bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "L54.0",
+          "kind": "category",
+          "label": "Erythema marginatum bei akutem rheumatischem FieberI00",
+          "rubrics": {
+            "preferred": "Erythema marginatum bei akutem rheumatischem FieberI00"
+          },
+          "children": []
+        },
+        {
+          "code": "L54.8",
+          "kind": "category",
+          "label": "Erythem bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Erythem bei sonstigen anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "F41.2",
+  "kind": "category",
+  "label": "Angst und depressive Störung, gemischt",
+  "rubrics": {
+    "preferred": "Angst und depressive Störung, gemischt",
+    "definition": "Diese Kategorie soll bei gleichzeitigem Bestehen von Angst und Depression Verwendung finden, jedoch nur, wenn keine der beiden Störungen eindeutig vorherrscht und keine für sich genommen eine eigenständige Diagnose rechtfertigt. Treten ängstliche und depressive Symptome in so starker Ausprägung auf, dass sie einzelne Diagnosen rechtfertigen, sollen beide Diagnosen gestellt und auf diese Kategorie verzichtet werden.",
+    "inclusion": "Ängstliche Depression (leicht oder nicht anhaltend)"
+  },
+  "children": []
+}

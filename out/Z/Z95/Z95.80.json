@@ -1,0 +1,10 @@
+{
+  "code": "Z95.80",
+  "kind": "category",
+  "label": "Vorhandensein eines herzunterstützenden Systems",
+  "rubrics": {
+    "preferred": "Vorhandensein eines herzunterstützenden Systems",
+    "inclusion": "Pumpe:\n\t\t\t\tparakorporal"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "M10.2",
+  "kind": "category",
+  "label": "Arzneimittelinduzierte Gicht",
+  "rubrics": {
+    "preferred": "Arzneimittelinduzierte Gicht",
+    "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

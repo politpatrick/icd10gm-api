@@ -1,0 +1,10 @@
+{
+  "code": "C54.1",
+  "kind": "category",
+  "label": "Endometrium",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Endometrium",
+    "preferred": "Endometrium"
+  },
+  "children": []
+}

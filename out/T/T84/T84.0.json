@@ -1,0 +1,102 @@
+{
+  "code": "T84.0",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch eine Gelenkendoprothese",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch eine Gelenkendoprothese",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch eine Gelenkprothese"
+  },
+  "children": [
+    {
+      "code": "T84.00",
+      "kind": "category",
+      "label": "Schultergelenk",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Schultergelenk",
+        "preferred": "Schultergelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.01",
+      "kind": "category",
+      "label": "Ellenbogengelenk",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Ellenbogengelenk",
+        "preferred": "Ellenbogengelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.02",
+      "kind": "category",
+      "label": "Radiuskopfgelenk",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Radiuskopfgelenk",
+        "preferred": "Radiuskopfgelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.03",
+      "kind": "category",
+      "label": "Handgelenk",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Handgelenk",
+        "preferred": "Handgelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.04",
+      "kind": "category",
+      "label": "Hüftgelenk",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Hüftgelenk",
+        "preferred": "Hüftgelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.05",
+      "kind": "category",
+      "label": "Kniegelenk",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Kniegelenk",
+        "preferred": "Kniegelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.06",
+      "kind": "category",
+      "label": "Sprunggelenk",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Sprunggelenk",
+        "preferred": "Sprunggelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.07",
+      "kind": "category",
+      "label": "Bandscheibe",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Bandscheibe",
+        "preferred": "Bandscheibe"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.08",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Gelenke",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Sonstige näher bezeichnete Gelenke",
+        "preferred": "Sonstige näher bezeichnete Gelenke",
+        "inclusion": "Kiefergelenk"
+      },
+      "children": []
+    }
+  ]
+}

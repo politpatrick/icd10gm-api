@@ -1,0 +1,11 @@
+{
+  "code": "I50.13",
+  "kind": "category",
+  "label": "Mit Beschwerden bei leichterer Belastung",
+  "rubrics": {
+    "preferredLong": "Linksherzinsuffizienz: Mit Beschwerden bei leichterer Belastung",
+    "preferred": "Mit Beschwerden bei leichterer Belastung",
+    "inclusion": "NYHA-Stadium III"
+  },
+  "children": []
+}

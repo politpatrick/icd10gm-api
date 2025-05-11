@@ -1,0 +1,10 @@
+{
+  "code": "M41.1",
+  "kind": "category",
+  "label": "Idiopathische Skoliose beim Jugendlichen",
+  "rubrics": {
+    "preferred": "Idiopathische Skoliose beim Jugendlichen",
+    "inclusion": "Adoleszentenskoliose"
+  },
+  "children": []
+}

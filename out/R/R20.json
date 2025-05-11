@@ -1,0 +1,58 @@
+{
+  "code": "R20",
+  "kind": "category",
+  "label": "Sensibilitätsstörungen der Haut",
+  "rubrics": {
+    "preferred": "Sensibilitätsstörungen der Haut",
+    "exclusion": "Psychogene StörungenF45.8"
+  },
+  "children": [
+    {
+      "code": "R20.0",
+      "kind": "category",
+      "label": "Anästhesie der Haut",
+      "rubrics": {
+        "preferred": "Anästhesie der Haut"
+      },
+      "children": []
+    },
+    {
+      "code": "R20.1",
+      "kind": "category",
+      "label": "Hypästhesie der Haut",
+      "rubrics": {
+        "preferred": "Hypästhesie der Haut"
+      },
+      "children": []
+    },
+    {
+      "code": "R20.2",
+      "kind": "category",
+      "label": "Parästhesie der Haut",
+      "rubrics": {
+        "preferred": "Parästhesie der Haut",
+        "inclusion": "Nadelstichgefühl",
+        "exclusion": "AkroparästhesieI73.8"
+      },
+      "children": []
+    },
+    {
+      "code": "R20.3",
+      "kind": "category",
+      "label": "Hyperästhesie der Haut",
+      "rubrics": {
+        "preferred": "Hyperästhesie der Haut"
+      },
+      "children": []
+    },
+    {
+      "code": "R20.8",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Sensibilitätsstörungen der Haut",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Sensibilitätsstörungen der Haut"
+      },
+      "children": []
+    }
+  ]
+}

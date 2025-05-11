@@ -1,0 +1,10 @@
+{
+  "code": "A15.2",
+  "kind": "category",
+  "label": "Lungentuberkulose, histologisch gesichert",
+  "rubrics": {
+    "preferred": "Lungentuberkulose, histologisch gesichert",
+    "inclusion": "Unter A15.0 aufgeführte Zustände, histologisch gesichert"
+  },
+  "children": []
+}

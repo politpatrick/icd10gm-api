@@ -1,0 +1,48 @@
+{
+  "code": "O14",
+  "kind": "category",
+  "label": "Präeklampsie",
+  "rubrics": {
+    "preferred": "Präeklampsie",
+    "exclusion": "Pfropf-PräeklampsieO11"
+  },
+  "children": [
+    {
+      "code": "O14.0",
+      "kind": "category",
+      "label": "Leichte bis mäßige Präeklampsie",
+      "rubrics": {
+        "preferred": "Leichte bis mäßige Präeklampsie"
+      },
+      "children": []
+    },
+    {
+      "code": "O14.1",
+      "kind": "category",
+      "label": "Schwere Präeklampsie",
+      "rubrics": {
+        "preferred": "Schwere Präeklampsie"
+      },
+      "children": []
+    },
+    {
+      "code": "O14.2",
+      "kind": "category",
+      "label": "HELLP-Syndrom",
+      "rubrics": {
+        "preferred": "HELLP-Syndrom",
+        "inclusion": "Kombination von Hämolyse, erhöhten Leberenzymen und verminderter Thrombozytenzahl"
+      },
+      "children": []
+    },
+    {
+      "code": "O14.9",
+      "kind": "category",
+      "label": "Präeklampsie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Präeklampsie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

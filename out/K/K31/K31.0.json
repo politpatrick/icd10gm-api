@@ -1,0 +1,10 @@
+{
+  "code": "K31.0",
+  "kind": "category",
+  "label": "Akute Magendilatation",
+  "rubrics": {
+    "preferred": "Akute Magendilatation",
+    "inclusion": "Akute Distension des Magens"
+  },
+  "children": []
+}

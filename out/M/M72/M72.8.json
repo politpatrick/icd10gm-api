@@ -1,0 +1,11 @@
+{
+  "code": "M72.8",
+  "kind": "category",
+  "label": "Sonstige Fibromatosen",
+  "rubrics": {
+    "preferred": "Sonstige Fibromatosen",
+    "inclusion": "Faszienabszess",
+    "exclusion": "Fasziitis:\n\t\t\t\tplantarM72.2"
+  },
+  "children": []
+}

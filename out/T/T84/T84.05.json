@@ -1,0 +1,10 @@
+{
+  "code": "T84.05",
+  "kind": "category",
+  "label": "Kniegelenk",
+  "rubrics": {
+    "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Kniegelenk",
+    "preferred": "Kniegelenk"
+  },
+  "children": []
+}

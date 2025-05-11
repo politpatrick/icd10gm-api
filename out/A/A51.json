@@ -1,0 +1,77 @@
+{
+  "code": "A51",
+  "kind": "category",
+  "label": "Frühsyphilis",
+  "rubrics": {
+    "preferred": "Frühsyphilis"
+  },
+  "children": [
+    {
+      "code": "A51.0",
+      "kind": "category",
+      "label": "Primärer syphilitischer Genitalaffekt",
+      "rubrics": {
+        "preferred": "Primärer syphilitischer Genitalaffekt",
+        "inclusion": "Syphilitischer Schanker o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "A51.1",
+      "kind": "category",
+      "label": "Analer Primäraffekt bei Syphilis",
+      "rubrics": {
+        "preferred": "Analer Primäraffekt bei Syphilis"
+      },
+      "children": []
+    },
+    {
+      "code": "A51.2",
+      "kind": "category",
+      "label": "Primäraffekt bei Syphilis, sonstige Lokalisationen",
+      "rubrics": {
+        "preferred": "Primäraffekt bei Syphilis, sonstige Lokalisationen"
+      },
+      "children": []
+    },
+    {
+      "code": "A51.3",
+      "kind": "category",
+      "label": "Sekundäre Syphilis der Haut und der Schleimhäute",
+      "rubrics": {
+        "preferred": "Sekundäre Syphilis der Haut und der Schleimhäute",
+        "inclusion": "Syphilitisch:\n\t\t\t\tSchleimhautpapeln [Plaques muqueuses]"
+      },
+      "children": []
+    },
+    {
+      "code": "A51.4",
+      "kind": "category",
+      "label": "Sonstige sekundäre Syphilis",
+      "rubrics": {
+        "preferred": "Sonstige sekundäre Syphilis",
+        "inclusion": "Sekundäre syphilitische:\n\t\t\t\tPeriostitisM90.1-"
+      },
+      "children": []
+    },
+    {
+      "code": "A51.5",
+      "kind": "category",
+      "label": "Latente Frühsyphilis",
+      "rubrics": {
+        "preferred": "Latente Frühsyphilis",
+        "text": "Syphilis (erworben) ohne klinische Manifestationen, mit positiver Serumreaktion und negativem Liquorbefund, bis zu zwei Jahren nach Infektion."
+      },
+      "children": []
+    },
+    {
+      "code": "A51.9",
+      "kind": "category",
+      "label": "Frühsyphilis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Frühsyphilis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "R70",
+  "kind": "category",
+  "label": "Beschleunigte Blutkörperchensenkungsreaktion und Veränderungen der Plasmaviskosität",
+  "rubrics": {
+    "preferred": "Beschleunigte Blutkörperchensenkungsreaktion und Veränderungen der Plasmaviskosität"
+  },
+  "children": [
+    {
+      "code": "R70.0",
+      "kind": "category",
+      "label": "Beschleunigte Blutkörperchensenkungsreaktion",
+      "rubrics": {
+        "preferred": "Beschleunigte Blutkörperchensenkungsreaktion"
+      },
+      "children": []
+    },
+    {
+      "code": "R70.1",
+      "kind": "category",
+      "label": "Veränderte Plasmaviskosität",
+      "rubrics": {
+        "preferred": "Veränderte Plasmaviskosität"
+      },
+      "children": []
+    }
+  ]
+}

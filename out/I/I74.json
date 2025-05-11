@@ -1,0 +1,86 @@
+{
+  "code": "I74",
+  "kind": "category",
+  "label": "Arterielle Embolie und Thrombose",
+  "rubrics": {
+    "preferred": "Arterielle Embolie und Thrombose",
+    "inclusion": "Verschluss:\n\t\t\t\tthrombotisch",
+    "exclusion": "Embolie und Thrombose:\n\t\t\t\tretinalH34.-"
+  },
+  "children": [
+    {
+      "code": "I74.0",
+      "kind": "category",
+      "label": "Embolie und Thrombose der Aorta abdominalis",
+      "rubrics": {
+        "preferred": "Embolie und Thrombose der Aorta abdominalis",
+        "inclusion": "Aortenbifurkations-Syndrom [Leriche-Syndrom]"
+      },
+      "children": []
+    },
+    {
+      "code": "I74.1",
+      "kind": "category",
+      "label": "Embolie und Thrombose sonstiger und nicht näher bezeichneter Abschnitte der Aorta",
+      "rubrics": {
+        "preferred": "Embolie und Thrombose sonstiger und nicht näher bezeichneter Abschnitte der Aorta"
+      },
+      "children": []
+    },
+    {
+      "code": "I74.2",
+      "kind": "category",
+      "label": "Embolie und Thrombose der Arterien der oberen Extremitäten",
+      "rubrics": {
+        "preferred": "Embolie und Thrombose der Arterien der oberen Extremitäten"
+      },
+      "children": []
+    },
+    {
+      "code": "I74.3",
+      "kind": "category",
+      "label": "Embolie und Thrombose der Arterien der unteren Extremitäten",
+      "rubrics": {
+        "preferred": "Embolie und Thrombose der Arterien der unteren Extremitäten"
+      },
+      "children": []
+    },
+    {
+      "code": "I74.4",
+      "kind": "category",
+      "label": "Embolie und Thrombose der Extremitätenarterien, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Embolie und Thrombose der Extremitätenarterien, nicht näher bezeichnet",
+        "inclusion": "Periphere arterielle Embolie"
+      },
+      "children": []
+    },
+    {
+      "code": "I74.5",
+      "kind": "category",
+      "label": "Embolie und Thrombose der A. iliaca",
+      "rubrics": {
+        "preferred": "Embolie und Thrombose der A. iliaca"
+      },
+      "children": []
+    },
+    {
+      "code": "I74.8",
+      "kind": "category",
+      "label": "Embolie und Thrombose sonstiger Arterien",
+      "rubrics": {
+        "preferred": "Embolie und Thrombose sonstiger Arterien"
+      },
+      "children": []
+    },
+    {
+      "code": "I74.9",
+      "kind": "category",
+      "label": "Embolie und Thrombose nicht näher bezeichneter Arterie",
+      "rubrics": {
+        "preferred": "Embolie und Thrombose nicht näher bezeichneter Arterie"
+      },
+      "children": []
+    }
+  ]
+}

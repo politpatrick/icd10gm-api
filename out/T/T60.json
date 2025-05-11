@@ -1,0 +1,83 @@
+{
+  "code": "T60",
+  "kind": "category",
+  "label": "Toxische Wirkung von Schädlingsbekämpfungsmitteln [Pestiziden]",
+  "rubrics": {
+    "preferred": "Toxische Wirkung von Schädlingsbekämpfungsmitteln [Pestiziden]",
+    "inclusion": "Holzschutzmittel"
+  },
+  "children": [
+    {
+      "code": "T60.0",
+      "kind": "category",
+      "label": "Organophosphat- und Carbamat-Insektizide",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Organophosphat- und Carbamat-Insektizide",
+        "preferred": "Organophosphat- und Carbamat-Insektizide"
+      },
+      "children": []
+    },
+    {
+      "code": "T60.1",
+      "kind": "category",
+      "label": "Halogenierte Insektizide",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Halogenierte Insektizide",
+        "preferred": "Halogenierte Insektizide",
+        "exclusion": "Chlorierte KohlenwasserstoffeT53.-"
+      },
+      "children": []
+    },
+    {
+      "code": "T60.2",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Insektizide",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Sonstige und nicht näher bezeichnete Insektizide",
+        "preferred": "Sonstige und nicht näher bezeichnete Insektizide"
+      },
+      "children": []
+    },
+    {
+      "code": "T60.3",
+      "kind": "category",
+      "label": "Herbizide und Fungizide",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Herbizide und Fungizide",
+        "preferred": "Herbizide und Fungizide"
+      },
+      "children": []
+    },
+    {
+      "code": "T60.4",
+      "kind": "category",
+      "label": "Rodentizide",
+      "rubrics": {
+        "preferred": "Rodentizide",
+        "preferredLong": "Toxische Wirkung: Rodentizide",
+        "exclusion": "Strychnin und dessen Salze T65.1"
+      },
+      "children": []
+    },
+    {
+      "code": "T60.8",
+      "kind": "category",
+      "label": "Sonstige Schädlingsbekämpfungsmittel",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Sonstige Schädlingsbekämpfungsmittel",
+        "preferred": "Sonstige Schädlingsbekämpfungsmittel"
+      },
+      "children": []
+    },
+    {
+      "code": "T60.9",
+      "kind": "category",
+      "label": "Schädlingsbekämpfungsmittel, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Schädlingsbekämpfungsmittel, nicht näher bezeichnet",
+        "preferred": "Schädlingsbekämpfungsmittel, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

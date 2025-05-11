@@ -1,0 +1,10 @@
+{
+  "code": "N50.1",
+  "kind": "category",
+  "label": "Gefäßkrankheiten der männlichen Genitalorgane",
+  "rubrics": {
+    "preferred": "Gefäßkrankheiten der männlichen Genitalorgane",
+    "inclusion": "Thrombose\n\t\t\t\tmännliche Genitalorgane"
+  },
+  "children": []
+}

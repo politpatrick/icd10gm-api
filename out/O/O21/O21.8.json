@@ -1,0 +1,11 @@
+{
+  "code": "O21.8",
+  "kind": "category",
+  "label": "Sonstiges Erbrechen, das die Schwangerschaft kompliziert",
+  "rubrics": {
+    "preferred": "Sonstiges Erbrechen, das die Schwangerschaft kompliziert",
+    "inclusion": "Erbrechen durch anderenorts klassifizierte Krankheiten, das die Schwangerschaft kompliziert",
+    "coding-hint": "Soll die Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+  },
+  "children": []
+}

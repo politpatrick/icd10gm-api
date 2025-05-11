@@ -1,0 +1,29 @@
+{
+  "code": "N30.8",
+  "kind": "category",
+  "label": "Sonstige Zystitis",
+  "rubrics": {
+    "preferred": "Sonstige Zystitis"
+  },
+  "children": [
+    {
+      "code": "N30.80",
+      "kind": "category",
+      "label": "Abszess der Harnblasenwand",
+      "rubrics": {
+        "preferred": "Abszess der Harnblasenwand",
+        "inclusion": "Harnblasenabszess"
+      },
+      "children": []
+    },
+    {
+      "code": "N30.88",
+      "kind": "category",
+      "label": "Sonstige Zystitis",
+      "rubrics": {
+        "preferred": "Sonstige Zystitis"
+      },
+      "children": []
+    }
+  ]
+}

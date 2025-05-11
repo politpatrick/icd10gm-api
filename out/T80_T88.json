@@ -1,0 +1,1538 @@
+{
+  "code": "T80-T88",
+  "kind": "block",
+  "label": "Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert",
+    "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+    "exclusion": "Vergiftung durch und toxische Wirkungen von Arzneimitteln, Drogen und chemische SubstanzenT36-T65"
+  },
+  "children": [
+    {
+      "code": "T80",
+      "kind": "category",
+      "label": "Komplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+      "rubrics": {
+        "preferred": "Komplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+        "inclusion": "Perfusion",
+        "exclusion": "Abstoßung eines KnochenmarktransplantatesT86.00"
+      },
+      "children": [
+        {
+          "code": "T80.0",
+          "kind": "category",
+          "label": "Luftembolie nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+          "rubrics": {
+            "preferred": "Luftembolie nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken"
+          },
+          "children": []
+        },
+        {
+          "code": "T80.1",
+          "kind": "category",
+          "label": "Gefäßkomplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+          "rubrics": {
+            "preferred": "Gefäßkomplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+            "inclusion": "Thrombophlebitis\n\t\t\t\tnach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+            "exclusion": "Aufgeführte Zustände mit der Angabe:\n\t\t\t\tnach medizinischen MaßnahmenT81.7"
+          },
+          "children": []
+        },
+        {
+          "code": "T80.2",
+          "kind": "category",
+          "label": "Infektionen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+          "rubrics": {
+            "preferred": "Infektionen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+            "inclusion": "Sepsis\n\t\t\t\tnach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+            "coding-hint": "Soll das Vorliegen eines septischen Schocks angegeben werden, ist eine zusätzliche Schlüsselnummer (R57.2) zu benutzen.",
+            "exclusion": "PosttransfusionshepatitisB16-B19"
+          },
+          "children": []
+        },
+        {
+          "code": "T80.3",
+          "kind": "category",
+          "label": "AB0-Unverträglichkeitsreaktion",
+          "rubrics": {
+            "preferred": "AB0-Unverträglichkeitsreaktion",
+            "inclusion": "Reaktion durch Blutgruppenunverträglichkeit bei Infusion oder Transfusion"
+          },
+          "children": []
+        },
+        {
+          "code": "T80.4",
+          "kind": "category",
+          "label": "Rh-Unverträglichkeitsreaktion",
+          "rubrics": {
+            "preferred": "Rh-Unverträglichkeitsreaktion",
+            "inclusion": "Reaktionen durch Rh-Faktor bei Infusion oder Transfusion"
+          },
+          "children": []
+        },
+        {
+          "code": "T80.5",
+          "kind": "category",
+          "label": "Anaphylaktischer Schock durch Serum",
+          "rubrics": {
+            "preferred": "Anaphylaktischer Schock durch Serum",
+            "exclusion": "Schock:\n\t\t\t\tanaphylaktisch:\n\t\t\t\to.n.A.T78.2"
+          },
+          "children": []
+        },
+        {
+          "code": "T80.6",
+          "kind": "category",
+          "label": "Sonstige Serumreaktionen",
+          "rubrics": {
+            "preferred": "Sonstige Serumreaktionen",
+            "inclusion": "Serumurtikaria",
+            "exclusion": "SerumhepatitisB16-B19"
+          },
+          "children": []
+        },
+        {
+          "code": "T80.8",
+          "kind": "category",
+          "label": "Sonstige Komplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+          "rubrics": {
+            "preferred": "Sonstige Komplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken"
+          },
+          "children": []
+        },
+        {
+          "code": "T80.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Komplikation nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Komplikation nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+            "inclusion": "Transfusionsreaktion o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T81",
+      "kind": "category",
+      "label": "Komplikationen bei Eingriffen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Komplikationen bei Eingriffen, anderenorts nicht klassifiziert",
+        "exclusion": "Unerwünschte Nebenwirkung von Arzneimitteln oder Drogen o.n.A.T88.7"
+      },
+      "children": [
+        {
+          "code": "T81.0",
+          "kind": "category",
+          "label": "Blutung und Hämatom als Komplikation eines Eingriffes, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Blutung und Hämatom als Komplikation eines Eingriffes, anderenorts nicht klassifiziert",
+            "inclusion": "Blutung an jeder Lokalisation als Folge eines Eingriffes",
+            "exclusion": "Blutung durch Prothesen, Implantate und TransplantateT82.8T83.8T84.8T85.8-"
+          },
+          "children": []
+        },
+        {
+          "code": "T81.1",
+          "kind": "category",
+          "label": "Schock während oder als Folge eines Eingriffes, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Schock während oder als Folge eines Eingriffes, anderenorts nicht klassifiziert",
+            "inclusion": "Postoperativer Schock o.n.A.",
+            "coding-hint": "Soll das Vorliegen eines septischen Schocks angegeben werden, ist eine zusätzliche Schlüsselnummer (R57.2) zu benutzen.",
+            "exclusion": "Schock (durch):\n\t\t\t\ttraumatischT79.4"
+          },
+          "children": []
+        },
+        {
+          "code": "T81.2",
+          "kind": "category",
+          "label": "Versehentliche Stich- oder Risswunde während eines Eingriffes, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Versehentliche Stich- oder Risswunde während eines Eingriffes, anderenorts nicht klassifiziert",
+            "inclusion": "Versehentliche Perforation:\n\t\t\t\tOrgan\n\t\t\t\tdurch\n\t\t\t\tSonde\n\t\t\t\twährend eines Eingriffes",
+            "exclusion": "Perforation, Stich- oder Risswunde, verursacht durch absichtlich im Operationsgebiet belassenes Gerät oder ImplantatT82-T85"
+          },
+          "children": []
+        },
+        {
+          "code": "T81.3",
+          "kind": "category",
+          "label": "Aufreißen einer Operationswunde, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Aufreißen einer Operationswunde, anderenorts nicht klassifiziert",
+            "inclusion": "Ruptur\n\t\t\t\teiner Operationswunde",
+            "exclusion": "Dehiszenz einer:\n\t\t\t\tKaiserschnittwundeO90.0"
+          },
+          "children": []
+        },
+        {
+          "code": "T81.4",
+          "kind": "category",
+          "label": "Infektion nach einem Eingriff, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Infektion nach einem Eingriff, anderenorts nicht klassifiziert",
+            "inclusion": "Sepsis\n\t\t\t\tnach medizinischen Maßnahmen",
+            "exclusion": "Infektion der Wunde nach operativem geburtshilflichen Eingriff O86.0"
+          },
+          "children": []
+        },
+        {
+          "code": "T81.5",
+          "kind": "category",
+          "label": "Fremdkörper, der versehentlich nach einem Eingriff in einer Körperhöhle oder Operationswunde zurückgeblieben ist",
+          "rubrics": {
+            "preferred": "Fremdkörper, der versehentlich nach einem Eingriff in einer Körperhöhle oder Operationswunde zurückgeblieben ist",
+            "inclusion": "Perforation\n\t\t\t\tdurch einen Fremdkörper, der versehentlich in einer Körperhöhle oder Operationswunde zurückgeblieben ist",
+            "exclusion": "Obstruktion oder Perforation, verursacht durch absichtlich im Körper belassene Prothesen und ImplantateT82.0-T82.5T83.0-T83.4T84.0- bis T84.4T85.0-T85.6"
+          },
+          "children": []
+        },
+        {
+          "code": "T81.6",
+          "kind": "category",
+          "label": "Akute Reaktion auf eine während eines Eingriffes versehentlich zurückgebliebene Fremdsubstanz",
+          "rubrics": {
+            "preferred": "Akute Reaktion auf eine während eines Eingriffes versehentlich zurückgebliebene Fremdsubstanz",
+            "inclusion": "Peritonitis:\n\t\t\t\tdurch chemische Substanzen"
+          },
+          "children": []
+        },
+        {
+          "code": "T81.7",
+          "kind": "category",
+          "label": "Gefäßkomplikationen nach einem Eingriff, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Gefäßkomplikationen nach einem Eingriff, anderenorts nicht klassifiziert",
+            "inclusion": "Luftembolie nach einem Eingriff, anderenorts nicht klassifiziert",
+            "exclusion": "Embolie:\n\t\t\t\ttraumatischT79.0"
+          },
+          "children": []
+        },
+        {
+          "code": "T81.8",
+          "kind": "category",
+          "label": "Sonstige Komplikationen bei Eingriffen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige Komplikationen bei Eingriffen, anderenorts nicht klassifiziert",
+            "inclusion": "Persistierende postoperative Fistel",
+            "exclusion": "Hypothermie nach AnästhesieT88.5"
+          },
+          "children": []
+        },
+        {
+          "code": "T81.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Komplikation eines Eingriffes",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Komplikation eines Eingriffes"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T82",
+      "kind": "category",
+      "label": "Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen",
+      "rubrics": {
+        "preferred": "Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen",
+        "exclusion": "Versagen und Abstoßung von transplantierten Organen und GewebenT86.-"
+      },
+      "children": [
+        {
+          "code": "T82.0",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch eine Herzklappenprothese",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch eine Herzklappenprothese",
+            "inclusion": "Versagen (mechanisch)\n\t\t\t\tdurch Herzklappenprothese"
+          },
+          "children": []
+        },
+        {
+          "code": "T82.1",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch ein kardiales elektronisches Gerät",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch ein kardiales elektronisches Gerät",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tImpulsgenerator (Batterie)"
+          },
+          "children": []
+        },
+        {
+          "code": "T82.2",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch Koronararterien-Bypass und Klappentransplantate",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch Koronararterien-Bypass und Klappentransplantate",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch Koronararterien-Bypass und Klappentransplantate"
+          },
+          "children": []
+        },
+        {
+          "code": "T82.3",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch sonstige Gefäßtransplantate",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch sonstige Gefäßtransplantate",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tArterientransplantat (Bypass) (A. carotis) (A. femoralis)"
+          },
+          "children": []
+        },
+        {
+          "code": "T82.4",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch Gefäßkatheter bei Dialyse",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch Gefäßkatheter bei Dialyse",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch Gefäßkatheter bei Dialyse",
+            "exclusion": "Mechanische Komplikation durch Katheter zur PeritonealdialyseT85.6"
+          },
+          "children": []
+        },
+        {
+          "code": "T82.5",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tVena-cava-Schirm",
+            "exclusion": "Mechanische Komplikation durch epiduralen oder subduralen InfusionskatheterT85.6"
+          },
+          "children": []
+        },
+        {
+          "code": "T82.6",
+          "kind": "category",
+          "label": "Infektion und entzündliche Reaktion durch eine Herzklappenprothese",
+          "rubrics": {
+            "preferred": "Infektion und entzündliche Reaktion durch eine Herzklappenprothese"
+          },
+          "children": []
+        },
+        {
+          "code": "T82.7",
+          "kind": "category",
+          "label": "Infektion und entzündliche Reaktion durch sonstige Geräte, Implantate oder Transplantate im Herzen und in den Gefäßen",
+          "rubrics": {
+            "preferred": "Infektion und entzündliche Reaktion durch sonstige Geräte, Implantate oder Transplantate im Herzen und in den Gefäßen"
+          },
+          "children": []
+        },
+        {
+          "code": "T82.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen",
+            "inclusion": "Thrombose\n\t\t\t\tdurch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen"
+          },
+          "children": []
+        },
+        {
+          "code": "T82.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Komplikation durch Prothese, Implantat oder Transplantat im Herzen und in den Gefäßen",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Komplikation durch Prothese, Implantat oder Transplantat im Herzen und in den Gefäßen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T83",
+      "kind": "category",
+      "label": "Komplikationen durch Prothesen, Implantate oder Transplantate im Urogenitaltrakt",
+      "rubrics": {
+        "preferred": "Komplikationen durch Prothesen, Implantate oder Transplantate im Urogenitaltrakt",
+        "exclusion": "Versagen und Abstoßung von transplantierten Organen und GewebenT86.-"
+      },
+      "children": [
+        {
+          "code": "T83.0",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch einen Harnwegskatheter (Verweilkatheter)",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch einen Harnwegskatheter (Verweilkatheter)",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tZystostomiekatheter"
+          },
+          "children": []
+        },
+        {
+          "code": "T83.1",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch sonstige Geräte oder Implantate im Harntrakt",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch sonstige Geräte oder Implantate im Harntrakt",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tStent\n\t\t\t\tim Harntrakt"
+          },
+          "children": []
+        },
+        {
+          "code": "T83.2",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch ein Harnorgantransplantat",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch ein Harnorgantransplantat",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch ein Harnorgantransplantat"
+          },
+          "children": []
+        },
+        {
+          "code": "T83.3",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch ein Intrauterinpessar",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch ein Intrauterinpessar",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch ein Intrauterinpessar"
+          },
+          "children": []
+        },
+        {
+          "code": "T83.4",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch sonstige Prothesen, Implantate oder Transplantate im Genitaltrakt",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch sonstige Prothesen, Implantate oder Transplantate im Genitaltrakt",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch (implantierte) Penisprothese"
+          },
+          "children": []
+        },
+        {
+          "code": "T83.5",
+          "kind": "category",
+          "label": "Infektion und entzündliche Reaktion durch Prothese, Implantat oder Transplantat im Harntrakt",
+          "rubrics": {
+            "preferred": "Infektion und entzündliche Reaktion durch Prothese, Implantat oder Transplantat im Harntrakt"
+          },
+          "children": []
+        },
+        {
+          "code": "T83.6",
+          "kind": "category",
+          "label": "Infektion und entzündliche Reaktion durch Prothese, Implantat oder Transplantat im Genitaltrakt",
+          "rubrics": {
+            "preferred": "Infektion und entzündliche Reaktion durch Prothese, Implantat oder Transplantat im Genitaltrakt"
+          },
+          "children": []
+        },
+        {
+          "code": "T83.8",
+          "kind": "category",
+          "label": "Sonstige Komplikationen durch Prothesen, Implantate oder Transplantate im Urogenitaltrakt",
+          "rubrics": {
+            "preferred": "Sonstige Komplikationen durch Prothesen, Implantate oder Transplantate im Urogenitaltrakt",
+            "inclusion": "Unter T82.8 aufgeführte Zustände durch Prothesen, Implantate oder Transplantate im Urogenitaltrakt"
+          },
+          "children": []
+        },
+        {
+          "code": "T83.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Komplikation durch Prothese, Implantat oder Transplantat im Urogenitaltrakt",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Komplikation durch Prothese, Implantat oder Transplantat im Urogenitaltrakt"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T84",
+      "kind": "category",
+      "label": "Komplikationen durch orthopädische Endoprothesen, Implantate oder Transplantate",
+      "rubrics": {
+        "preferred": "Komplikationen durch orthopädische Endoprothesen, Implantate oder Transplantate",
+        "exclusion": "Versagen und Abstoßung von transplantierten Organen und GewebenT86.-"
+      },
+      "children": [
+        {
+          "code": "T84.0",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch eine Gelenkendoprothese",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch eine Gelenkendoprothese",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch eine Gelenkprothese"
+          },
+          "children": [
+            {
+              "code": "T84.00",
+              "kind": "category",
+              "label": "Schultergelenk",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Schultergelenk",
+                "preferred": "Schultergelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.01",
+              "kind": "category",
+              "label": "Ellenbogengelenk",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Ellenbogengelenk",
+                "preferred": "Ellenbogengelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.02",
+              "kind": "category",
+              "label": "Radiuskopfgelenk",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Radiuskopfgelenk",
+                "preferred": "Radiuskopfgelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.03",
+              "kind": "category",
+              "label": "Handgelenk",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Handgelenk",
+                "preferred": "Handgelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.04",
+              "kind": "category",
+              "label": "Hüftgelenk",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Hüftgelenk",
+                "preferred": "Hüftgelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.05",
+              "kind": "category",
+              "label": "Kniegelenk",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Kniegelenk",
+                "preferred": "Kniegelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.06",
+              "kind": "category",
+              "label": "Sprunggelenk",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Sprunggelenk",
+                "preferred": "Sprunggelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.07",
+              "kind": "category",
+              "label": "Bandscheibe",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Bandscheibe",
+                "preferred": "Bandscheibe"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.08",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Gelenke",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Sonstige näher bezeichnete Gelenke",
+                "preferred": "Sonstige näher bezeichnete Gelenke",
+                "inclusion": "Kiefergelenk"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T84.1",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch eine interne Osteosynthesevorrichtung an Extremitätenknochen"
+          },
+          "children": [
+            {
+              "code": "T84.10",
+              "kind": "category",
+              "label": "Schulterregion",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Schulterregion",
+                "preferred": "Schulterregion",
+                "inclusion": "Sternoklavikulargelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.11",
+              "kind": "category",
+              "label": "Oberarm",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Oberarm",
+                "preferred": "Oberarm",
+                "inclusion": "Ellenbogengelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.12",
+              "kind": "category",
+              "label": "Unterarm",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Unterarm",
+                "preferred": "Unterarm",
+                "inclusion": "Handgelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.13",
+              "kind": "category",
+              "label": "Hand",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Hand",
+                "preferred": "Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.14",
+              "kind": "category",
+              "label": "Beckenregion und Oberschenkel",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Beckenregion und Oberschenkel",
+                "preferred": "Beckenregion und Oberschenkel",
+                "inclusion": "Iliosakralgelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.15",
+              "kind": "category",
+              "label": "Unterschenkel",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Unterschenkel",
+                "preferred": "Unterschenkel",
+                "inclusion": "Kniegelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.16",
+              "kind": "category",
+              "label": "Knöchel und Fuß",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Knöchel und Fuß",
+                "preferred": "Knöchel und Fuß",
+                "inclusion": "Sprunggelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.18",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Extremitätenknochen",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Sonstige näher bezeichnete Extremitätenknochen",
+                "preferred": "Sonstige näher bezeichnete Extremitätenknochen"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T84.2",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an sonstigen Knochen",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an sonstigen Knochen",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch eine interne Osteosynthesevorrichtung an sonstigen Knochen"
+          },
+          "children": [
+            {
+              "code": "T84.20",
+              "kind": "category",
+              "label": "Wirbelsäule",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an sonstigen Knochen: Wirbelsäule",
+                "preferred": "Wirbelsäule"
+              },
+              "children": []
+            },
+            {
+              "code": "T84.28",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Knochen",
+              "rubrics": {
+                "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an sonstigen Knochen: Sonstige näher bezeichnete Knochen",
+                "preferred": "Sonstige näher bezeichnete Knochen",
+                "inclusion": "Sternum"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T84.3",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch sonstige Knochengeräte, -implantate oder -transplantate",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch sonstige Knochengeräte, -implantate oder -transplantate",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tKnochentransplantat"
+          },
+          "children": []
+        },
+        {
+          "code": "T84.4",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch sonstige intern verwendete orthopädische Geräte, Implantate und Transplantate",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch sonstige intern verwendete orthopädische Geräte, Implantate und Transplantate",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch Muskel- oder Sehnentransplantat"
+          },
+          "children": []
+        },
+        {
+          "code": "T84.5",
+          "kind": "category",
+          "label": "Infektion und entzündliche Reaktion durch eine Gelenkendoprothese",
+          "rubrics": {
+            "preferred": "Infektion und entzündliche Reaktion durch eine Gelenkendoprothese",
+            "inclusion": "Periimplantäre (implantatassoziierte) Infektion",
+            "coding-hint": "Benutze eine zusätzliche Schlüsselnummer, um das Vorliegen einer Arthritis M00.-, einer entzündlichen Spondylopathie M46.- oder einer Osteomyelitis M86.- im Rahmen einer periimplantären (implantatassoziierten) Infektion zu kodieren."
+          },
+          "children": []
+        },
+        {
+          "code": "T84.6",
+          "kind": "category",
+          "label": "Infektion und entzündliche Reaktion durch eine interne Osteosynthesevorrichtung [jede Lokalisation]",
+          "rubrics": {
+            "preferred": "Infektion und entzündliche Reaktion durch eine interne Osteosynthesevorrichtung [jede Lokalisation]",
+            "inclusion": "Periimplantäre (implantatassoziierte) Infektion",
+            "coding-hint": "Benutze eine zusätzliche Schlüsselnummer, um das Vorliegen einer Arthritis M00.-, einer entzündlichen Spondylopathie M46.- oder einer Osteomyelitis M86.- im Rahmen einer periimplantären (implantatassoziierten) Infektion zu kodieren."
+          },
+          "children": []
+        },
+        {
+          "code": "T84.7",
+          "kind": "category",
+          "label": "Infektion und entzündliche Reaktion durch sonstige orthopädische Endoprothesen, Implantate oder Transplantate",
+          "rubrics": {
+            "preferred": "Infektion und entzündliche Reaktion durch sonstige orthopädische Endoprothesen, Implantate oder Transplantate",
+            "inclusion": "Periimplantäre (implantatassoziierte) Infektion",
+            "coding-hint": "Benutze eine zusätzliche Schlüsselnummer, um das Vorliegen einer Arthritis M00.-, einer entzündlichen Spondylopathie M46.- oder einer Osteomyelitis M86.- im Rahmen einer periimplantären (implantatassoziierten) Infektion zu kodieren."
+          },
+          "children": []
+        },
+        {
+          "code": "T84.8",
+          "kind": "category",
+          "label": "Sonstige Komplikationen durch orthopädische Endoprothesen, Implantate oder Transplantate",
+          "rubrics": {
+            "preferred": "Sonstige Komplikationen durch orthopädische Endoprothesen, Implantate oder Transplantate",
+            "inclusion": "Unter T82.8 aufgeführte Zustände durch orthopädische Endoprothesen, Implantate oder Transplantate"
+          },
+          "children": []
+        },
+        {
+          "code": "T84.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Komplikation durch orthopädische Endoprothese, Implantat oder Transplantat",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Komplikation durch orthopädische Endoprothese, Implantat oder Transplantat"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T85",
+      "kind": "category",
+      "label": "Komplikationen durch sonstige interne Prothesen, Implantate oder Transplantate",
+      "rubrics": {
+        "preferred": "Komplikationen durch sonstige interne Prothesen, Implantate oder Transplantate",
+        "exclusion": "Versagen und Abstoßung von transplantierten Organen und GewebenT86.-"
+      },
+      "children": [
+        {
+          "code": "T85.0",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch einen ventrikulären, intrakraniellen Shunt",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch einen ventrikulären, intrakraniellen Shunt",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch einen ventrikulären, intrakraniellen Shunt"
+          },
+          "children": []
+        },
+        {
+          "code": "T85.1",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch einen implantierten elektronischen Stimulator des Nervensystems",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch einen implantierten elektronischen Stimulator des Nervensystems",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch elektronischen Nervenstimulator (Elektrode):\n\t\t\t\tRückenmark"
+          },
+          "children": []
+        },
+        {
+          "code": "T85.2",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch eine intraokulare Linse",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch eine intraokulare Linse",
+            "inclusion": "Unter T82.0 aufgeführte Komplikationen durch eine intraokulare Linse, einschließlich Eintrübung einer intraokularen Linse"
+          },
+          "children": []
+        },
+        {
+          "code": "T85.3",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch sonstige Augenprothesen, -implantate oder -transplantate",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch sonstige Augenprothesen, -implantate oder -transplantate",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tOrbitaprothese"
+          },
+          "children": []
+        },
+        {
+          "code": "T85.4",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch Mammaprothese oder -implantat",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch Mammaprothese oder -implantat",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch Mammaprothese oder -implantat"
+          },
+          "children": []
+        },
+        {
+          "code": "T85.5",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch gastrointestinale Prothesen, Implantate oder Transplantate",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch gastrointestinale Prothesen, Implantate oder Transplantate",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tösophageale Antirefluxvorrichtung"
+          },
+          "children": [
+            {
+              "code": "T85.50",
+              "kind": "category",
+              "label": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate im Ösophagus",
+              "rubrics": {
+                "preferred": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate im Ösophagus"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.51",
+              "kind": "category",
+              "label": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate im sonstigen oberen Gastrointestinaltrakt",
+              "rubrics": {
+                "preferred": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate im sonstigen oberen Gastrointestinaltrakt",
+                "inclusion": "Mechanische Komplikation durch perkutan-endoskopische Gastrostomie-Sonde [PEG-Sonde]"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.52",
+              "kind": "category",
+              "label": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate im unteren Gastrointestinaltrakt",
+              "rubrics": {
+                "preferred": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate im unteren Gastrointestinaltrakt",
+                "inclusion": "Mechanische Komplikation durch perkutan-endoskopische Jejunostomie-Sonde [PEJ-Sonde]"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.53",
+              "kind": "category",
+              "label": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate in den Gallenwegen",
+              "rubrics": {
+                "preferred": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate in den Gallenwegen"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.54",
+              "kind": "category",
+              "label": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate im Pankreas",
+              "rubrics": {
+                "preferred": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate im Pankreas"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.59",
+              "kind": "category",
+              "label": "Mechanische Komplikation durch gastrointestinale Prothesen, Implantate oder Transplantate, Lokalisation nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Mechanische Komplikation durch gastrointestinale Prothesen, Implantate oder Transplantate, Lokalisation nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T85.6",
+          "kind": "category",
+          "label": "Mechanische Komplikation durch sonstige näher bezeichnete interne Prothesen, Implantate oder Transplantate",
+          "rubrics": {
+            "preferred": "Mechanische Komplikation durch sonstige näher bezeichnete interne Prothesen, Implantate oder Transplantate",
+            "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tnichtresorbierbares Operationsmaterial o.n.A.",
+            "exclusion": "Mechanische Komplikation durch Dauernähte (Draht) zur Fixierung von KnochenT84.1- bis T84.2-"
+          },
+          "children": []
+        },
+        {
+          "code": "T85.7",
+          "kind": "category",
+          "label": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate",
+          "rubrics": {
+            "preferred": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate"
+          },
+          "children": [
+            {
+              "code": "T85.71",
+              "kind": "category",
+              "label": "Infektion und entzündliche Reaktion durch Katheter zur Peritonealdialyse",
+              "rubrics": {
+                "preferred": "Infektion und entzündliche Reaktion durch Katheter zur Peritonealdialyse"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.72",
+              "kind": "category",
+              "label": "Infektion und entzündliche Reaktion durch interne Prothesen, Implantate oder Transplantate im Nervensystem",
+              "rubrics": {
+                "preferred": "Infektion und entzündliche Reaktion durch interne Prothesen, Implantate oder Transplantate im Nervensystem"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.73",
+              "kind": "category",
+              "label": "Infektion und entzündliche Reaktion durch Mammaprothese oder -implantat",
+              "rubrics": {
+                "preferred": "Infektion und entzündliche Reaktion durch Mammaprothese oder -implantat",
+                "exclusion": "Kapselfibrose der Mamma durch Mammaprothese oder -implantatT85.82"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.74",
+              "kind": "category",
+              "label": "Infektion und entzündliche Reaktion durch perkutan-endoskopische Gastrostomie-Sonde [PEG-Sonde]",
+              "rubrics": {
+                "preferred": "Infektion und entzündliche Reaktion durch perkutan-endoskopische Gastrostomie-Sonde [PEG-Sonde]",
+                "inclusion": "Infektion und entzündliche Reaktion durch perkutan-endoskopische Jejunostomie-Sonde [PEJ-Sonde]"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.75",
+              "kind": "category",
+              "label": "Infektion und entzündliche Reaktion durch interne Prothesen, Implantate oder Transplantate im hepatobiliären System und im Pankreas",
+              "rubrics": {
+                "preferred": "Infektion und entzündliche Reaktion durch interne Prothesen, Implantate oder Transplantate im hepatobiliären System und im Pankreas"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.76",
+              "kind": "category",
+              "label": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate im sonstigen Gastrointestinaltrakt",
+              "rubrics": {
+                "preferred": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate im sonstigen Gastrointestinaltrakt"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.78",
+              "kind": "category",
+              "label": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate",
+              "rubrics": {
+                "preferred": "Infektion und entzündliche Reaktion durch sonstige interne Prothesen, Implantate oder Transplantate"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T85.8",
+          "kind": "category",
+          "label": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate, anderenorts nicht klassifiziert",
+            "inclusion": "Unter T82.8 aufgeführte Zustände durch interne Prothesen, Implantate oder Transplantate, anderenorts nicht klassifiziert"
+          },
+          "children": [
+            {
+              "code": "T85.81",
+              "kind": "category",
+              "label": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate im Nervensystem",
+              "rubrics": {
+                "preferred": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate im Nervensystem"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.82",
+              "kind": "category",
+              "label": "Kapselfibrose der Mamma durch Mammaprothese oder -implantat",
+              "rubrics": {
+                "preferred": "Kapselfibrose der Mamma durch Mammaprothese oder -implantat"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.83",
+              "kind": "category",
+              "label": "Sonstige Komplikationen durch Mammaprothese oder -implantat",
+              "rubrics": {
+                "preferred": "Sonstige Komplikationen durch Mammaprothese oder -implantat"
+              },
+              "children": []
+            },
+            {
+              "code": "T85.88",
+              "kind": "category",
+              "label": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate, anderenorts nicht klassifiziert"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T85.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Komplikation durch interne Prothese, Implantat oder Transplantat",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Komplikation durch interne Prothese, Implantat oder Transplantat",
+            "inclusion": "Komplikation durch interne Prothese, Implantat oder Transplantat o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T86",
+      "kind": "category",
+      "label": "Versagen und Abstoßung von transplantierten Organen und Geweben",
+      "rubrics": {
+        "preferred": "Versagen und Abstoßung von transplantierten Organen und Geweben",
+        "note": "Das Versagen der abgestoßenen Organe und Gewebe (z.B. ein akutes Nierenversagen bei Abstoßung eines Nierentransplantates) ist in der Schlüsselnummer enthalten und daher nicht gesondert zu kodieren."
+      },
+      "children": [
+        {
+          "code": "T86.0",
+          "kind": "category",
+          "label": "Versagen eines Transplantates hämatopoetischer Stammzellen und Graft-versus-Host-Krankheit",
+          "rubrics": {
+            "preferred": "Versagen eines Transplantates hämatopoetischer Stammzellen und Graft-versus-Host-Krankheit",
+            "coding-hint": "Benutze zusätzliche Schlüsselnummern bei den Subkategorien T86.01†, T86.02†, T86.05†, T86.06† und T86.07†, um jede einzelne Organbeteiligung bei Graft-versus-Host-Krankheit zu verschlüsseln.\n\t\t\t\tDie Einteilung der Stadien und Grade der akuten Graft-versus-Host-Krankheit erfolgt nach Meeting Report der Consensus Conference on Acute GVHD Grading (1994), Houston (USA) (Meeting Report, Consensus Conference on Acute GVHD Grading, Przepiorka D, Weisdorf D, Martin P, Klingemann HG, Beatty P, Hows J, Thomas ED, abgedruckt in: Bone Marrow Transplant. 1995 Jun;15(6):825-8).\n\t\t\t\tDie Einteilung der Grade der chronischen Graft-versus-Host-Krankheit erfolgt nach: National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. Diagnosis and staging working group report. Filipovich AH, Weisdorf D, Pavletic S, Socie G, Wingard JR, Lee SJ, Martin P, Chien J, Przepiorka D, Couriel D, Cowen EW, Dinndorf P, Farrell A, Hartzman R, Henslee-Downey J, Jacobsohn D, McDonald G, Mittleman B, Rizzo JD, Robinson M, Schubert M, Schultz K, Shulman H, Turner M, Vogelsang G, Flowers ME, abgedruckt in: Biol Blood Marrow Transplant. 2005 Dec;11(12):945-56."
+          },
+          "children": [
+            {
+              "code": "T86.00",
+              "kind": "category",
+              "label": "Versagen eines Transplantates hämatopoetischer Stammzellen",
+              "rubrics": {
+                "preferred": "Versagen eines Transplantates hämatopoetischer Stammzellen"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.01",
+              "kind": "category",
+              "label": "Akute Graft-versus-Host-Krankheit, Grad I und II",
+              "rubrics": {
+                "preferred": "Akute Graft-versus-Host-Krankheit, Grad I und II",
+                "note": "Der jeweilige Grad der akuten GVHD ist erreicht, wenn mindestens eines der zugeordneten Stadien der genannten akuten Organ-GVHD vorliegt.",
+                "definition": "Grad der akuten GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Haut-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Leber-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Verdauungstrakt-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tI\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1 oder 2\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tKeine Beteiligung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tKeine Beteiligung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tII\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1",
+                "inclusion": "Akute Verdauungstrakt-Graft-versus-Host-Krankheit, Stadium 1K93.21"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.02",
+              "kind": "category",
+              "label": "Akute Graft-versus-Host-Krankheit, Grad III und IV",
+              "rubrics": {
+                "preferred": "Akute Graft-versus-Host-Krankheit, Grad III und IV",
+                "note": "Der jeweilige Grad der akuten GVHD ist erreicht, wenn mindestens eines der zugeordneten Stadien der genannten Organ-GVHD vorliegt. Das Stadium der akuten Haut-GVHD stellt kein Eingangskriterium für den Grad III der GVHD dar, es dient hier lediglich der Dokumentation.",
+                "definition": "Grad der akuten GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Haut-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Leber-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Verdauungstrakt-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIII\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t(1 bis 3)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t2 oder 3\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t2 oder 3\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIV\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t4\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t4\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t4",
+                "inclusion": "Akute Verdauungstrakt-Graft-versus-Host-Krankheit, Stadium 2 bis 4K93.22K93.23K93.24"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.05",
+              "kind": "category",
+              "label": "Chronische Graft-versus-Host-Krankheit, mild",
+              "rubrics": {
+                "preferred": "Chronische Graft-versus-Host-Krankheit, mild",
+                "note": "Die milde Form der chronischen GVHD ist erreicht, wenn mindestens eine oder höchstens zwei der genannten Organ-GVHD im Stadium 1 vorliegen. Eine Lungenbeteiligung darf nicht vorliegen.",
+                "inclusion": "Chronische Vulvovaginal-Graft-versus-Host-Krankheit, Stadium 1N77.21"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.06",
+              "kind": "category",
+              "label": "Chronische Graft-versus-Host-Krankheit, moderat",
+              "rubrics": {
+                "preferred": "Chronische Graft-versus-Host-Krankheit, moderat",
+                "note": "Die moderate Form der chronischen GVHD ist erreicht, wenn eine Lungenbeteiligung im Stadium 1 oder mindestens eine der anderen genannten Organ-GVHD im Stadium 2 oder mindestens drei der anderen genannten Organ-GVHD im Stadium 1 vorliegen.",
+                "inclusion": "Chronische Vulvovaginal-Graft-versus-Host-Krankheit, Stadium 1 und 2N77.21N77.22"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.07",
+              "kind": "category",
+              "label": "Chronische Graft-versus-Host-Krankheit, schwer",
+              "rubrics": {
+                "preferred": "Chronische Graft-versus-Host-Krankheit, schwer",
+                "note": "Die schwere Form der chronischen GVHD ist erreicht, wenn eine Lungenbeteiligung im Stadium 2 oder 3 oder mindestens eine der anderen genannten Organ-GVHD im Stadium 3 vorliegen.",
+                "inclusion": "Chronische Vulvovaginal-Graft-versus-Host-Krankheit, Stadium 3N77.23"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.09",
+              "kind": "category",
+              "label": "Graft-versus-Host-Krankheit, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Graft-versus-Host-Krankheit, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T86.1",
+          "kind": "category",
+          "label": "Funktionsstörung, Versagen und Abstoßung eines Nierentransplantates",
+          "rubrics": {
+            "preferred": "Funktionsstörung, Versagen und Abstoßung eines Nierentransplantates"
+          },
+          "children": [
+            {
+              "code": "T86.10",
+              "kind": "category",
+              "label": "Akute Funktionsverschlechterung eines Nierentransplantates",
+              "rubrics": {
+                "preferred": "Akute Funktionsverschlechterung eines Nierentransplantates",
+                "inclusion": "Akute Funktionsverschlechterung ohne Nachweis einer Abstoßung",
+                "coding-hint": "Soll die Ursache der akuten Funktionsverschlechterung angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "T86.11",
+              "kind": "category",
+              "label": "Chronische Funktionsverschlechterung eines Nierentransplantates",
+              "rubrics": {
+                "preferred": "Chronische Funktionsverschlechterung eines Nierentransplantates",
+                "inclusion": "Chronische Abstoßung eines Nierentransplantates",
+                "coding-hint": "Soll die Ursache der chronischen Funktionsverschlechterung angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "T86.12",
+              "kind": "category",
+              "label": "Verzögerte Aufnahme der Transplantatfunktion",
+              "rubrics": {
+                "preferred": "Verzögerte Aufnahme der Transplantatfunktion"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.19",
+              "kind": "category",
+              "label": "Sonstige und nicht näher bezeichnete Funktionsstörung, Versagen und Abstoßung eines Nierentransplantates",
+              "rubrics": {
+                "preferred": "Sonstige und nicht näher bezeichnete Funktionsstörung, Versagen und Abstoßung eines Nierentransplantates"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T86.2",
+          "kind": "category",
+          "label": "Versagen und Abstoßung eines Herztransplantates",
+          "rubrics": {
+            "preferred": "Versagen und Abstoßung eines Herztransplantates",
+            "exclusion": "Komplikation durch:\n\t\t\t\tKünstliches HerzgerätT82.-"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.3",
+          "kind": "category",
+          "label": "Versagen und Abstoßung eines Herz-Lungen-Transplantates",
+          "rubrics": {
+            "preferred": "Versagen und Abstoßung eines Herz-Lungen-Transplantates"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.4",
+          "kind": "category",
+          "label": "Funktionsstörung, Versagen und Abstoßung eines Lebertransplantates",
+          "rubrics": {
+            "preferred": "Funktionsstörung, Versagen und Abstoßung eines Lebertransplantates"
+          },
+          "children": [
+            {
+              "code": "T86.40",
+              "kind": "category",
+              "label": "Akute Funktionsverschlechterung eines Lebertransplantates",
+              "rubrics": {
+                "preferred": "Akute Funktionsverschlechterung eines Lebertransplantates",
+                "inclusion": "Funktionsverschlechterung\n\t\t\t\tinnerhalb der ersten 28 Tage nach Transplantation"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.41",
+              "kind": "category",
+              "label": "Chronische Funktionsverschlechterung eines Lebertransplantates",
+              "rubrics": {
+                "preferred": "Chronische Funktionsverschlechterung eines Lebertransplantates",
+                "inclusion": "Funktionsverschlechterung\n\t\t\t\t29 Tage nach Transplantation und später"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.49",
+              "kind": "category",
+              "label": "Sonstige und nicht näher bezeichnete Funktionsstörung, Versagen und Abstoßung eines Lebertransplantates",
+              "rubrics": {
+                "preferred": "Sonstige und nicht näher bezeichnete Funktionsstörung, Versagen und Abstoßung eines Lebertransplantates"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T86.5",
+          "kind": "category",
+          "label": "Versagen und Abstoßung eines Hauttransplantates",
+          "rubrics": {
+            "preferred": "Versagen und Abstoßung eines Hauttransplantates",
+            "inclusion": "Myokutanes, fasziokutanes oder lipokutanes Transplantat (durch Lappenplastik)",
+            "exclusion": "Versagen und Abstoßung eines Mammatransplantates ohne HautanteilT86.84"
+          },
+          "children": [
+            {
+              "code": "T86.50",
+              "kind": "category",
+              "label": "Durchblutungsstörung eines Hauttransplantates",
+              "rubrics": {
+                "preferred": "Durchblutungsstörung eines Hauttransplantates"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.51",
+              "kind": "category",
+              "label": "Nekrose eines Hauttransplantates",
+              "rubrics": {
+                "preferred": "Nekrose eines Hauttransplantates"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.52",
+              "kind": "category",
+              "label": "Verlust eines Hauttransplantates",
+              "rubrics": {
+                "preferred": "Verlust eines Hauttransplantates"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.59",
+              "kind": "category",
+              "label": "Sonstiges und nicht näher bezeichnetes Versagen und Abstoßung eines Hauttransplantates",
+              "rubrics": {
+                "preferred": "Sonstiges und nicht näher bezeichnetes Versagen und Abstoßung eines Hauttransplantates"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T86.8",
+          "kind": "category",
+          "label": "Versagen und Abstoßung sonstiger transplantierter Organe und Gewebe",
+          "rubrics": {
+            "preferred": "Versagen und Abstoßung sonstiger transplantierter Organe und Gewebe"
+          },
+          "children": [
+            {
+              "code": "T86.81",
+              "kind": "category",
+              "label": "Lungentransplantat",
+              "rubrics": {
+                "preferredLong": "Versagen und Abstoßung: Lungentransplantat",
+                "preferred": "Lungentransplantat"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.82",
+              "kind": "category",
+              "label": "Pankreastransplantat",
+              "rubrics": {
+                "preferredLong": "Versagen und Abstoßung: Pankreastransplantat",
+                "preferred": "Pankreastransplantat"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.83",
+              "kind": "category",
+              "label": "Hornhauttransplantat des Auges",
+              "rubrics": {
+                "preferredLong": "Versagen und Abstoßung: Hornhauttransplantat des Auges",
+                "preferred": "Hornhauttransplantat des Auges"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.84",
+              "kind": "category",
+              "label": "Mammatransplantat ohne Hautanteil",
+              "rubrics": {
+                "preferredLong": "Versagen und Abstoßung: Mammatransplantat ohne Hautanteil",
+                "preferred": "Mammatransplantat ohne Hautanteil",
+                "exclusion": "Versagen und Abstoßung eines Mammatransplantates mit HautanteilT86.5-"
+              },
+              "children": []
+            },
+            {
+              "code": "T86.88",
+              "kind": "category",
+              "label": "Sonstige transplantierte Organe und Gewebe",
+              "rubrics": {
+                "preferredLong": "Versagen und Abstoßung: Sonstige transplantierte Organe und Gewebe",
+                "preferred": "Sonstige transplantierte Organe und Gewebe",
+                "inclusion": "Transplantatversagen oder -abstoßung von:\n\t\t\t\tKnochen"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T86.9",
+          "kind": "category",
+          "label": "Versagen und Abstoßung eines nicht näher bezeichneten transplantierten Organs und Gewebes",
+          "rubrics": {
+            "preferred": "Versagen und Abstoßung eines nicht näher bezeichneten transplantierten Organs und Gewebes"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T87",
+      "kind": "category",
+      "label": "Komplikationen, die für Replantation und Amputation bezeichnend sind",
+      "rubrics": {
+        "preferred": "Komplikationen, die für Replantation und Amputation bezeichnend sind"
+      },
+      "children": [
+        {
+          "code": "T87.0",
+          "kind": "category",
+          "label": "Komplikationen durch replantierte (Teile der) obere(n) Extremität",
+          "rubrics": {
+            "preferred": "Komplikationen durch replantierte (Teile der) obere(n) Extremität"
+          },
+          "children": []
+        },
+        {
+          "code": "T87.1",
+          "kind": "category",
+          "label": "Komplikationen durch replantierte (Teile der) untere(n) Extremität",
+          "rubrics": {
+            "preferred": "Komplikationen durch replantierte (Teile der) untere(n) Extremität"
+          },
+          "children": []
+        },
+        {
+          "code": "T87.2",
+          "kind": "category",
+          "label": "Komplikationen durch sonstigen replantierten Körperteil",
+          "rubrics": {
+            "preferred": "Komplikationen durch sonstigen replantierten Körperteil"
+          },
+          "children": []
+        },
+        {
+          "code": "T87.3",
+          "kind": "category",
+          "label": "Neurom des Amputationsstumpfes",
+          "rubrics": {
+            "preferred": "Neurom des Amputationsstumpfes"
+          },
+          "children": []
+        },
+        {
+          "code": "T87.4",
+          "kind": "category",
+          "label": "Infektion des Amputationsstumpfes",
+          "rubrics": {
+            "preferred": "Infektion des Amputationsstumpfes"
+          },
+          "children": []
+        },
+        {
+          "code": "T87.5",
+          "kind": "category",
+          "label": "Nekrose des Amputationsstumpfes",
+          "rubrics": {
+            "preferred": "Nekrose des Amputationsstumpfes"
+          },
+          "children": []
+        },
+        {
+          "code": "T87.6",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete Komplikationen am Amputationsstumpf",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete Komplikationen am Amputationsstumpf",
+            "inclusion": "Amputationsstumpf:\n\t\t\t\tÖdem",
+            "exclusion": "PhantomgliedG54.6-G54.7"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T88",
+      "kind": "category",
+      "label": "Sonstige Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert",
+        "exclusion": "Versehentliche Stich- oder Risswunde während eines EingriffesT81.2"
+      },
+      "children": [
+        {
+          "code": "T88.0",
+          "kind": "category",
+          "label": "Infektion nach Impfung [Immunisierung]",
+          "rubrics": {
+            "preferred": "Infektion nach Impfung [Immunisierung]",
+            "inclusion": "Sepsis nach Impfung [Immunisierung]"
+          },
+          "children": []
+        },
+        {
+          "code": "T88.1",
+          "kind": "category",
+          "label": "Sonstige Komplikationen nach Impfung [Immunisierung], anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige Komplikationen nach Impfung [Immunisierung], anderenorts nicht klassifiziert",
+            "inclusion": "Hautausschlag nach Impfung",
+            "exclusion": "Sonstige SerumreaktionenT80.6"
+          },
+          "children": []
+        },
+        {
+          "code": "T88.2",
+          "kind": "category",
+          "label": "Schock durch Anästhesie",
+          "rubrics": {
+            "preferred": "Schock durch Anästhesie",
+            "inclusion": "Schock durch Anästhesie bei ordnungsgemäßer Verabreichung eines indikationsgerechten Arzneimittels",
+            "exclusion": "Postoperativer Schock o.n.A.T81.1"
+          },
+          "children": []
+        },
+        {
+          "code": "T88.3",
+          "kind": "category",
+          "label": "Maligne Hyperthermie durch Anästhesie",
+          "rubrics": {
+            "preferred": "Maligne Hyperthermie durch Anästhesie"
+          },
+          "children": []
+        },
+        {
+          "code": "T88.4",
+          "kind": "category",
+          "label": "Misslungene oder schwierige Intubation",
+          "rubrics": {
+            "preferred": "Misslungene oder schwierige Intubation"
+          },
+          "children": []
+        },
+        {
+          "code": "T88.5",
+          "kind": "category",
+          "label": "Sonstige Komplikationen infolge Anästhesie",
+          "rubrics": {
+            "preferred": "Sonstige Komplikationen infolge Anästhesie",
+            "inclusion": "Hypothermie nach Anästhesie"
+          },
+          "children": []
+        },
+        {
+          "code": "T88.6",
+          "kind": "category",
+          "label": "Anaphylaktischer Schock als unerwünschte Nebenwirkung eines indikationsgerechten Arzneimittels oder einer indikationsgerechten Droge bei ordnungsgemäßer Verabreichung",
+          "rubrics": {
+            "preferred": "Anaphylaktischer Schock als unerwünschte Nebenwirkung eines indikationsgerechten Arzneimittels oder einer indikationsgerechten Droge bei ordnungsgemäßer Verabreichung",
+            "exclusion": "Anaphylaktischer Schock durch SerumT80.5"
+          },
+          "children": []
+        },
+        {
+          "code": "T88.7",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete unerwünschte Nebenwirkung eines Arzneimittels oder einer Droge",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete unerwünschte Nebenwirkung eines Arzneimittels oder einer Droge",
+            "inclusion": "Arzneimittel-:\n\t\t\t\tÜberempfindlichkeit o.n.A.",
+            "exclusion": "Näher bezeichnete unerwünschte Nebenwirkungen von Arzneimitteln und DrogenA00-R99T80-T88.6T88.8"
+          },
+          "children": []
+        },
+        {
+          "code": "T88.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert"
+          },
+          "children": []
+        },
+        {
+          "code": "T88.9",
+          "kind": "category",
+          "label": "Komplikation bei chirurgischen Eingriffen und medizinischer Behandlung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Komplikation bei chirurgischen Eingriffen und medizinischer Behandlung, nicht näher bezeichnet",
+            "exclusion": "Unerwünschte Nebenwirkung o.n.A.T78.9"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

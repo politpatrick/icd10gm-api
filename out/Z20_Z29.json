@@ -1,0 +1,641 @@
+{
+  "code": "Z20-Z29",
+  "kind": "block",
+  "label": "Personen mit potentiellen Gesundheitsrisiken hinsichtlich übertragbarer Krankheiten",
+  "rubrics": {
+    "preferred": "Personen mit potentiellen Gesundheitsrisiken hinsichtlich übertragbarer Krankheiten"
+  },
+  "children": [
+    {
+      "code": "Z20",
+      "kind": "category",
+      "label": "Kontakt mit und Exposition gegenüber übertragbaren Krankheiten",
+      "rubrics": {
+        "preferred": "Kontakt mit und Exposition gegenüber übertragbaren Krankheiten"
+      },
+      "children": [
+        {
+          "code": "Z20.0",
+          "kind": "category",
+          "label": "Kontakt mit und Exposition gegenüber infektiösen Darmkrankheiten",
+          "rubrics": {
+            "preferred": "Kontakt mit und Exposition gegenüber infektiösen Darmkrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "Z20.1",
+          "kind": "category",
+          "label": "Kontakt mit und Exposition gegenüber Tuberkulose",
+          "rubrics": {
+            "preferred": "Kontakt mit und Exposition gegenüber Tuberkulose"
+          },
+          "children": []
+        },
+        {
+          "code": "Z20.2",
+          "kind": "category",
+          "label": "Kontakt mit und Exposition gegenüber Infektionen, die vorwiegend durch Geschlechtsverkehr übertragen werden",
+          "rubrics": {
+            "preferred": "Kontakt mit und Exposition gegenüber Infektionen, die vorwiegend durch Geschlechtsverkehr übertragen werden"
+          },
+          "children": []
+        },
+        {
+          "code": "Z20.3",
+          "kind": "category",
+          "label": "Kontakt mit und Exposition gegenüber Tollwut",
+          "rubrics": {
+            "preferred": "Kontakt mit und Exposition gegenüber Tollwut"
+          },
+          "children": []
+        },
+        {
+          "code": "Z20.4",
+          "kind": "category",
+          "label": "Kontakt mit und Exposition gegenüber Röteln",
+          "rubrics": {
+            "preferred": "Kontakt mit und Exposition gegenüber Röteln"
+          },
+          "children": []
+        },
+        {
+          "code": "Z20.5",
+          "kind": "category",
+          "label": "Kontakt mit und Exposition gegenüber Virushepatitis",
+          "rubrics": {
+            "preferred": "Kontakt mit und Exposition gegenüber Virushepatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "Z20.6",
+          "kind": "category",
+          "label": "Kontakt mit und Exposition gegenüber HIV [Humanes Immundefizienz-Virus]",
+          "rubrics": {
+            "preferred": "Kontakt mit und Exposition gegenüber HIV [Humanes Immundefizienz-Virus]",
+            "exclusion": "Asymptomatische HIV-InfektionZ21"
+          },
+          "children": []
+        },
+        {
+          "code": "Z20.7",
+          "kind": "category",
+          "label": "Kontakt mit und Exposition gegenüber Pedikulose [Läusebefall], Akarinose [Milbenbefall] oder anderem Parasitenbefall",
+          "rubrics": {
+            "preferred": "Kontakt mit und Exposition gegenüber Pedikulose [Läusebefall], Akarinose [Milbenbefall] oder anderem Parasitenbefall"
+          },
+          "children": []
+        },
+        {
+          "code": "Z20.8",
+          "kind": "category",
+          "label": "Kontakt mit und Exposition gegenüber sonstigen übertragbaren Krankheiten",
+          "rubrics": {
+            "preferred": "Kontakt mit und Exposition gegenüber sonstigen übertragbaren Krankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "Z20.9",
+          "kind": "category",
+          "label": "Kontakt mit und Exposition gegenüber nicht näher bezeichneter übertragbarer Krankheit",
+          "rubrics": {
+            "preferred": "Kontakt mit und Exposition gegenüber nicht näher bezeichneter übertragbarer Krankheit"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z21",
+      "kind": "category",
+      "label": "Asymptomatische HIV-Infektion [Humane Immundefizienz-Virusinfektion]",
+      "rubrics": {
+        "preferred": "Asymptomatische HIV-Infektion [Humane Immundefizienz-Virusinfektion]",
+        "inclusion": "HIV-positiv o.n.A.",
+        "exclusion": "Laborhinweis auf HIVR75"
+      },
+      "children": []
+    },
+    {
+      "code": "Z22",
+      "kind": "category",
+      "label": "Keimträger von Infektionskrankheiten",
+      "rubrics": {
+        "preferred": "Keimträger von Infektionskrankheiten",
+        "inclusion": "Verdachtsfälle"
+      },
+      "children": [
+        {
+          "code": "Z22.0",
+          "kind": "category",
+          "label": "Keimträger von Typhus abdominalis",
+          "rubrics": {
+            "preferred": "Keimträger von Typhus abdominalis"
+          },
+          "children": []
+        },
+        {
+          "code": "Z22.1",
+          "kind": "category",
+          "label": "Keimträger anderer infektiöser Darmkrankheiten",
+          "rubrics": {
+            "preferred": "Keimträger anderer infektiöser Darmkrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "Z22.2",
+          "kind": "category",
+          "label": "Keimträger der Diphtherie",
+          "rubrics": {
+            "preferred": "Keimträger der Diphtherie"
+          },
+          "children": []
+        },
+        {
+          "code": "Z22.3",
+          "kind": "category",
+          "label": "Keimträger anderer näher bezeichneter bakterieller Krankheiten",
+          "rubrics": {
+            "preferred": "Keimträger anderer näher bezeichneter bakterieller Krankheiten",
+            "inclusion": "Keimträger bakterieller Krankheit durch:\n\t\t\t\tStreptokokken"
+          },
+          "children": []
+        },
+        {
+          "code": "Z22.4",
+          "kind": "category",
+          "label": "Keimträger von Infektionskrankheiten, die vorwiegend durch Geschlechtsverkehr übertragen werden",
+          "rubrics": {
+            "preferred": "Keimträger von Infektionskrankheiten, die vorwiegend durch Geschlechtsverkehr übertragen werden",
+            "inclusion": "Keimträger von:\n\t\t\t\tSyphilis"
+          },
+          "children": []
+        },
+        {
+          "code": "Z22.6",
+          "kind": "category",
+          "label": "Keimträger von humaner T-Zell-lymphotroper Viruskrankheit, Typ I [HTLV-1]",
+          "rubrics": {
+            "preferred": "Keimträger von humaner T-Zell-lymphotroper Viruskrankheit, Typ I [HTLV-1]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z22.7",
+          "kind": "category",
+          "label": "Latente Tuberkulose",
+          "rubrics": {
+            "preferred": "Latente Tuberkulose",
+            "exclusion": "Abnormes Ergebnis der Mendel-Mantoux-TuberkulinprobeR76.1"
+          },
+          "children": []
+        },
+        {
+          "code": "Z22.8",
+          "kind": "category",
+          "label": "Keimträger sonstiger Infektionskrankheiten",
+          "rubrics": {
+            "preferred": "Keimträger sonstiger Infektionskrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "Z22.9",
+          "kind": "category",
+          "label": "Keimträger von Infektionskrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Keimträger von Infektionskrankheit, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z23",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung [Immunisierung] gegen einzelne bakterielle Krankheiten",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung [Immunisierung] gegen einzelne bakterielle Krankheiten",
+        "exclusion": "Impfung:\n\t\t\t\tnicht durchgeführtZ28"
+      },
+      "children": [
+        {
+          "code": "Z23.0",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Cholera, nicht kombiniert",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Cholera, nicht kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "Z23.1",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Typhus-Paratyphus [TAB], nicht kombiniert",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Typhus-Paratyphus [TAB], nicht kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "Z23.2",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Tuberkulose [BCG]",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Tuberkulose [BCG]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z23.3",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Pest",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Pest"
+          },
+          "children": []
+        },
+        {
+          "code": "Z23.4",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Tularämie",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Tularämie"
+          },
+          "children": []
+        },
+        {
+          "code": "Z23.5",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Tetanus, nicht kombiniert",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Tetanus, nicht kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "Z23.6",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Diphtherie, nicht kombiniert",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Diphtherie, nicht kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "Z23.7",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Keuchhusten [Pertussis], nicht kombiniert",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Keuchhusten [Pertussis], nicht kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "Z23.8",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen sonstige einzelne bakterielle Krankheiten",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen sonstige einzelne bakterielle Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z24",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung [Immunisierung] gegen bestimmte einzelne Viruskrankheiten",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung [Immunisierung] gegen bestimmte einzelne Viruskrankheiten",
+        "exclusion": "Impfung:\n\t\t\t\tnicht durchgeführtZ28"
+      },
+      "children": [
+        {
+          "code": "Z24.0",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Poliomyelitis",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Poliomyelitis"
+          },
+          "children": []
+        },
+        {
+          "code": "Z24.1",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Virusenzephalitis, durch Arthropoden übertragen",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Virusenzephalitis, durch Arthropoden übertragen"
+          },
+          "children": []
+        },
+        {
+          "code": "Z24.2",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Tollwut",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Tollwut"
+          },
+          "children": []
+        },
+        {
+          "code": "Z24.3",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Gelbfieber",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Gelbfieber"
+          },
+          "children": []
+        },
+        {
+          "code": "Z24.4",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Masern, nicht kombiniert",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Masern, nicht kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "Z24.5",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Röteln, nicht kombiniert",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Röteln, nicht kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "Z24.6",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Virushepatitis",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Virushepatitis"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z25",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung [Immunisierung] gegen andere einzelne Viruskrankheiten",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung [Immunisierung] gegen andere einzelne Viruskrankheiten",
+        "exclusion": "Impfung:\n\t\t\t\tnicht durchgeführtZ28"
+      },
+      "children": [
+        {
+          "code": "Z25.0",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Mumps, nicht kombiniert",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Mumps, nicht kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "Z25.1",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Grippe [Influenza]",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Grippe [Influenza]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z25.8",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen sonstige näher bezeichnete einzelne Viruskrankheiten",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen sonstige näher bezeichnete einzelne Viruskrankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z26",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung [Immunisierung] gegen andere einzelne Infektionskrankheiten",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung [Immunisierung] gegen andere einzelne Infektionskrankheiten",
+        "exclusion": "Impfung:\n\t\t\t\tnicht durchgeführtZ28"
+      },
+      "children": [
+        {
+          "code": "Z26.0",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Leishmaniose",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Leishmaniose"
+          },
+          "children": []
+        },
+        {
+          "code": "Z26.8",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen sonstige näher bezeichnete einzelne Infektionskrankheiten",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen sonstige näher bezeichnete einzelne Infektionskrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "Z26.9",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen nicht näher bezeichnete Infektionskrankheit",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen nicht näher bezeichnete Infektionskrankheit",
+            "inclusion": "Notwendigkeit der Impfung o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z27",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung [Immunisierung] gegen Kombinationen von Infektionskrankheiten",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung [Immunisierung] gegen Kombinationen von Infektionskrankheiten",
+        "exclusion": "Impfung nicht durchgeführtZ28"
+      },
+      "children": [
+        {
+          "code": "Z27.0",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Cholera mit Typhus-Paratyphus [Cholera+TAB]",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Cholera mit Typhus-Paratyphus [Cholera+TAB]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z27.1",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Diphtherie-Pertussis-Tetanus [DPT]",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Diphtherie-Pertussis-Tetanus [DPT]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z27.2",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Diphtherie-Pertussis-Tetanus mit Typhus-Paratyphus [DPT+TAB]",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Diphtherie-Pertussis-Tetanus mit Typhus-Paratyphus [DPT+TAB]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z27.3",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Diphtherie-Pertussis-Tetanus mit Poliomyelitis [DPT+Polio]",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Diphtherie-Pertussis-Tetanus mit Poliomyelitis [DPT+Polio]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z27.4",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen Masern-Mumps-Röteln [MMR]",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen Masern-Mumps-Röteln [MMR]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z27.8",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen sonstige Kombinationen von Infektionskrankheiten",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen sonstige Kombinationen von Infektionskrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "Z27.9",
+          "kind": "category",
+          "label": "Notwendigkeit der Impfung gegen nicht näher bezeichnete Kombinationen von Infektionskrankheiten",
+          "rubrics": {
+            "preferred": "Notwendigkeit der Impfung gegen nicht näher bezeichnete Kombinationen von Infektionskrankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z28",
+      "kind": "category",
+      "label": "Nicht durchgeführte Impfung [Immunisierung]",
+      "rubrics": {
+        "preferred": "Nicht durchgeführte Impfung [Immunisierung]",
+        "inclusion": "Impfung nicht durchgeführt wegen:\n\t\t\t\tvom Patienten unabhängige Gründe"
+      },
+      "children": []
+    },
+    {
+      "code": "Z29",
+      "kind": "category",
+      "label": "Notwendigkeit von anderen prophylaktischen Maßnahmen",
+      "rubrics": {
+        "preferred": "Notwendigkeit von anderen prophylaktischen Maßnahmen",
+        "exclusion": "Prophylaktische OperationZ40.-"
+      },
+      "children": [
+        {
+          "code": "Z29.0",
+          "kind": "category",
+          "label": "Isolierung als prophylaktische Maßnahme",
+          "rubrics": {
+            "preferred": "Isolierung als prophylaktische Maßnahme",
+            "inclusion": "Stationäre Aufnahme zur Abschirmung einer Person vor ihrer Umgebung oder zur Isolierung einer Person nach Kontakt mit Infektionskrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "Z29.1",
+          "kind": "category",
+          "label": "Immunprophylaxe",
+          "rubrics": {
+            "preferred": "Immunprophylaxe",
+            "inclusion": "Verabreichung von Immunglobulin"
+          },
+          "children": []
+        },
+        {
+          "code": "Z29.2",
+          "kind": "category",
+          "label": "Sonstige prophylaktische Chemotherapie",
+          "rubrics": {
+            "preferred": "Sonstige prophylaktische Chemotherapie"
+          },
+          "children": [
+            {
+              "code": "Z29.20",
+              "kind": "category",
+              "label": "Lokale prophylaktische Chemotherapie",
+              "rubrics": {
+                "preferred": "Lokale prophylaktische Chemotherapie"
+              },
+              "children": []
+            },
+            {
+              "code": "Z29.21",
+              "kind": "category",
+              "label": "Systemische prophylaktische Chemotherapie",
+              "rubrics": {
+                "preferred": "Systemische prophylaktische Chemotherapie",
+                "exclusion": "HIV-PräexpositionsprophylaxeZ29.22"
+              },
+              "children": []
+            },
+            {
+              "code": "Z29.22",
+              "kind": "category",
+              "label": "HIV-Präexpositionsprophylaxe",
+              "rubrics": {
+                "preferred": "HIV-Präexpositionsprophylaxe"
+              },
+              "children": []
+            },
+            {
+              "code": "Z29.28",
+              "kind": "category",
+              "label": "Sonstige prophylaktische Chemotherapie",
+              "rubrics": {
+                "preferred": "Sonstige prophylaktische Chemotherapie",
+                "inclusion": "Prophylaktische Antibiotikaverabreichung o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Z29.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete prophylaktische Maßnahmen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete prophylaktische Maßnahmen"
+          },
+          "children": []
+        },
+        {
+          "code": "Z29.9",
+          "kind": "category",
+          "label": "Prophylaktische Maßnahme, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Prophylaktische Maßnahme, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

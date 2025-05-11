@@ -1,0 +1,10 @@
+{
+  "code": "K00.6",
+  "kind": "category",
+  "label": "Störungen des Zahndurchbruchs",
+  "rubrics": {
+    "preferred": "Störungen des Zahndurchbruchs",
+    "inclusion": "Vorzeitiger:\n\t\t\t\tZahndurchbruch"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "R72",
+  "kind": "category",
+  "label": "Veränderung der Leukozyten, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Veränderung der Leukozyten, anderenorts nicht klassifiziert",
+    "inclusion": "Auffälliges Differentialblutbild o.n.A.",
+    "exclusion": "LeukozytoseD72.8"
+  },
+  "children": []
+}

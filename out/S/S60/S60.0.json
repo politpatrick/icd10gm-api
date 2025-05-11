@@ -1,0 +1,11 @@
+{
+  "code": "S60.0",
+  "kind": "category",
+  "label": "Prellung eines oder mehrerer Finger ohne Schädigung des Nagels",
+  "rubrics": {
+    "preferred": "Prellung eines oder mehrerer Finger ohne Schädigung des Nagels",
+    "inclusion": "Prellung eines oder mehrerer Finger o.n.A.",
+    "exclusion": "Prellung mit Beteiligung des Nagels oder der NagelmatrixS60.1"
+  },
+  "children": []
+}

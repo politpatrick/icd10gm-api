@@ -1,0 +1,11 @@
+{
+  "code": "R09.3",
+  "kind": "category",
+  "label": "Abnormes Sputum",
+  "rubrics": {
+    "preferred": "Abnormes Sputum",
+    "inclusion": "Vermehrt\n\t\t\t\tSputum",
+    "exclusion": "Blut im SputumR04.2"
+  },
+  "children": []
+}

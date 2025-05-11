@@ -1,0 +1,60 @@
+{
+  "code": "R26",
+  "kind": "category",
+  "label": "Störungen des Ganges und der Mobilität",
+  "rubrics": {
+    "preferred": "Störungen des Ganges und der Mobilität",
+    "exclusion": "Immobilitätssyndrom (paraplegisch)M62.3-"
+  },
+  "children": [
+    {
+      "code": "R26.0",
+      "kind": "category",
+      "label": "Ataktischer Gang",
+      "rubrics": {
+        "preferred": "Ataktischer Gang",
+        "inclusion": "Taumelnder Gang"
+      },
+      "children": []
+    },
+    {
+      "code": "R26.1",
+      "kind": "category",
+      "label": "Paretischer Gang",
+      "rubrics": {
+        "preferred": "Paretischer Gang",
+        "inclusion": "Spastischer Gang"
+      },
+      "children": []
+    },
+    {
+      "code": "R26.2",
+      "kind": "category",
+      "label": "Gehbeschwerden, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Gehbeschwerden, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "R26.3",
+      "kind": "category",
+      "label": "Immobilität",
+      "rubrics": {
+        "preferred": "Immobilität",
+        "inclusion": "Bettlägerigkeit"
+      },
+      "children": []
+    },
+    {
+      "code": "R26.8",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Störungen des Ganges und der Mobilität",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Störungen des Ganges und der Mobilität",
+        "inclusion": "Standunsicherheit o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

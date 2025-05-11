@@ -1,0 +1,41 @@
+{
+  "code": "Z47",
+  "kind": "category",
+  "label": "Andere orthopädische Nachbehandlung",
+  "rubrics": {
+    "preferred": "Andere orthopädische Nachbehandlung",
+    "exclusion": "RehabilitationsmaßnahmenZ50.-"
+  },
+  "children": [
+    {
+      "code": "Z47.0",
+      "kind": "category",
+      "label": "Entfernung einer Metallplatte oder einer anderen inneren Fixationsvorrichtung",
+      "rubrics": {
+        "preferred": "Entfernung einer Metallplatte oder einer anderen inneren Fixationsvorrichtung",
+        "inclusion": "Entfernung:\n\t\t\t\tStäbe",
+        "exclusion": "Entfernung einer äußeren FixationsvorrichtungZ47.8"
+      },
+      "children": []
+    },
+    {
+      "code": "Z47.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete orthopädische Nachbehandlung",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete orthopädische Nachbehandlung",
+        "inclusion": "Wechsel, Kontrolle oder Entfernung:\n\t\t\t\tGipsverband"
+      },
+      "children": []
+    },
+    {
+      "code": "Z47.9",
+      "kind": "category",
+      "label": "Orthopädische Nachbehandlung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Orthopädische Nachbehandlung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

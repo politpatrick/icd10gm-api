@@ -1,0 +1,10 @@
+{
+  "code": "M54.4",
+  "kind": "category",
+  "label": "Lumboischialgie",
+  "rubrics": {
+    "preferred": "Lumboischialgie",
+    "exclusion": "Durch BandscheibenschadenM51.1"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "T81.3",
+  "kind": "category",
+  "label": "Aufreißen einer Operationswunde, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Aufreißen einer Operationswunde, anderenorts nicht klassifiziert",
+    "inclusion": "Ruptur\n\t\t\t\teiner Operationswunde",
+    "exclusion": "Dehiszenz einer:\n\t\t\t\tKaiserschnittwundeO90.0"
+  },
+  "children": []
+}

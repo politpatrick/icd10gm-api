@@ -1,0 +1,67 @@
+{
+  "code": "A40",
+  "kind": "category",
+  "label": "Streptokokkensepsis",
+  "rubrics": {
+    "preferred": "Streptokokkensepsis",
+    "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.80!-U69.82, um den zeitlichen Bezug der Sepsis zur stationären Krankenhausaufnahme anzugeben.",
+    "exclusion": "Unter der GeburtO75.3"
+  },
+  "children": [
+    {
+      "code": "A40.0",
+      "kind": "category",
+      "label": "Sepsis durch Streptokokken, Gruppe A",
+      "rubrics": {
+        "preferred": "Sepsis durch Streptokokken, Gruppe A"
+      },
+      "children": []
+    },
+    {
+      "code": "A40.1",
+      "kind": "category",
+      "label": "Sepsis durch Streptokokken, Gruppe B",
+      "rubrics": {
+        "preferred": "Sepsis durch Streptokokken, Gruppe B"
+      },
+      "children": []
+    },
+    {
+      "code": "A40.2",
+      "kind": "category",
+      "label": "Sepsis durch Streptokokken, Gruppe D, und Enterokokken",
+      "rubrics": {
+        "preferred": "Sepsis durch Streptokokken, Gruppe D, und Enterokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "A40.3",
+      "kind": "category",
+      "label": "Sepsis durch Streptococcus pneumoniae",
+      "rubrics": {
+        "preferred": "Sepsis durch Streptococcus pneumoniae",
+        "inclusion": "Sepsis durch Pneumokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "A40.8",
+      "kind": "category",
+      "label": "Sonstige Sepsis durch Streptokokken",
+      "rubrics": {
+        "preferred": "Sonstige Sepsis durch Streptokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "A40.9",
+      "kind": "category",
+      "label": "Sepsis durch Streptokokken, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Sepsis durch Streptokokken, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

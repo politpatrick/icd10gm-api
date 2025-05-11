@@ -1,0 +1,10 @@
+{
+  "code": "G12.1",
+  "kind": "category",
+  "label": "Sonstige vererbte spinale Muskelatrophie",
+  "rubrics": {
+    "preferred": "Sonstige vererbte spinale Muskelatrophie",
+    "inclusion": "Spinale Muskelatrophie:\n\t\t\t\tskapuloperonäale Form"
+  },
+  "children": []
+}

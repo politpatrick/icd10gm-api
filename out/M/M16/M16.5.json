@@ -1,0 +1,10 @@
+{
+  "code": "M16.5",
+  "kind": "category",
+  "label": "Sonstige posttraumatische Koxarthrose",
+  "rubrics": {
+    "preferred": "Sonstige posttraumatische Koxarthrose",
+    "inclusion": "Posttraumatische Koxarthrose:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

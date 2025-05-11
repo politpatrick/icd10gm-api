@@ -1,0 +1,41 @@
+{
+  "code": "A41.5",
+  "kind": "category",
+  "label": "Sepsis durch sonstige gramnegative Erreger",
+  "rubrics": {
+    "preferred": "Sepsis durch sonstige gramnegative Erreger",
+    "inclusion": "Sepsis durch gramnegative Erreger o.n.A."
+  },
+  "children": [
+    {
+      "code": "A41.51",
+      "kind": "category",
+      "label": "Escherichia coli [E. coli]",
+      "rubrics": {
+        "preferredLong": "Sepsis: Escherichia coli [E. coli]",
+        "preferred": "Escherichia coli [E. coli]"
+      },
+      "children": []
+    },
+    {
+      "code": "A41.52",
+      "kind": "category",
+      "label": "Pseudomonas",
+      "rubrics": {
+        "preferredLong": "Sepsis: Pseudomonas",
+        "preferred": "Pseudomonas"
+      },
+      "children": []
+    },
+    {
+      "code": "A41.58",
+      "kind": "category",
+      "label": "Sonstige gramnegative Erreger",
+      "rubrics": {
+        "preferredLong": "Sepsis: Sonstige gramnegative Erreger",
+        "preferred": "Sonstige gramnegative Erreger"
+      },
+      "children": []
+    }
+  ]
+}

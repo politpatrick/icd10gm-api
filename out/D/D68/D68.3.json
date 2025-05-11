@@ -1,0 +1,73 @@
+{
+  "code": "D68.3",
+  "kind": "category",
+  "label": "Hämorrhagische Diathese durch Antikoagulanzien und Antikörper",
+  "rubrics": {
+    "preferred": "Hämorrhagische Diathese durch Antikoagulanzien und Antikörper"
+  },
+  "children": [
+    {
+      "code": "D68.31",
+      "kind": "category",
+      "label": "Hämorrhagische Diathese durch Vermehrung von Antikörpern gegen Faktor VIII",
+      "rubrics": {
+        "preferred": "Hämorrhagische Diathese durch Vermehrung von Antikörpern gegen Faktor VIII",
+        "inclusion": "Vermehrung von Anti-VIIIa"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.32",
+      "kind": "category",
+      "label": "Hämorrhagische Diathese durch Vermehrung von Antikörpern gegen sonstige Gerinnungsfaktoren",
+      "rubrics": {
+        "preferred": "Hämorrhagische Diathese durch Vermehrung von Antikörpern gegen sonstige Gerinnungsfaktoren",
+        "inclusion": "Vermehrung von:\n\t\t\t\tAntikörpern gegen Von-Willebrand-Faktor"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.33",
+      "kind": "category",
+      "label": "Hämorrhagische Diathese durch Cumarine (Vitamin-K-Antagonisten)",
+      "rubrics": {
+        "preferred": "Hämorrhagische Diathese durch Cumarine (Vitamin-K-Antagonisten)",
+        "inclusion": "Blutung bei Dauertherapie mit Cumarinen (Vitamin-K-Antagonisten)",
+        "exclusion": "Dauertherapie mit Cumarinen ohne BlutungZ92.1"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.34",
+      "kind": "category",
+      "label": "Hämorrhagische Diathese durch Heparine",
+      "rubrics": {
+        "preferred": "Hämorrhagische Diathese durch Heparine",
+        "inclusion": "Blutung bei Dauertherapie mit Heparinen",
+        "exclusion": "Dauertherapie mit Heparinen ohne BlutungZ92.1"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.35",
+      "kind": "category",
+      "label": "Hämorrhagische Diathese durch sonstige Antikoagulanzien",
+      "rubrics": {
+        "preferred": "Hämorrhagische Diathese durch sonstige Antikoagulanzien",
+        "inclusion": "Blutung bei Dauertherapie mit sonstigen Antikoagulanzien",
+        "exclusion": "Dauertherapie mit sonstigen Antikoagulanzien ohne BlutungZ92.1"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.38",
+      "kind": "category",
+      "label": "Sonstige hämorrhagische Diathese durch sonstige und nicht näher bezeichnete Antikörper",
+      "rubrics": {
+        "preferred": "Sonstige hämorrhagische Diathese durch sonstige und nicht näher bezeichnete Antikörper",
+        "coding-hint": "Benutze für Zwecke der Abrechnung der Zusatzentgelte entsprechend Anlage 7 zur FPV eine zusätzliche Schlüsselnummer, um das Vorliegen einer \"dauerhaft erworbenen\" (U69.11!) oder \"temporären\" (U69.12!) Blutgerinnungsstörung anzuzeigen."
+      },
+      "children": []
+    }
+  ]
+}

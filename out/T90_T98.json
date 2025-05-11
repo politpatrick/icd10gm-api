@@ -1,0 +1,571 @@
+{
+  "code": "T90-T98",
+  "kind": "block",
+  "label": "Folgen von Verletzungen, Vergiftungen und sonstigen Auswirkungen äußerer Ursachen",
+  "rubrics": {
+    "preferred": "Folgen von Verletzungen, Vergiftungen und sonstigen Auswirkungen äußerer Ursachen",
+    "note": "Die Kategorien T90-T98 sind zu benutzen, um bei Zuständen aus S00-S99 und T00-T88 anzuzeigen, dass sie anderenorts klassifizierte Spätfolgen verursacht haben. Zu den \"Folgen\" zählen Zustände, die als Folgen oder Spätfolgen bezeichnet sind oder die ein Jahr oder länger nach der akuten Verletzung bestehen."
+  },
+  "children": [
+    {
+      "code": "T90",
+      "kind": "category",
+      "label": "Folgen von Verletzungen des Kopfes",
+      "rubrics": {
+        "preferred": "Folgen von Verletzungen des Kopfes"
+      },
+      "children": [
+        {
+          "code": "T90.0",
+          "kind": "category",
+          "label": "Folgen einer oberflächlichen Verletzung des Kopfes",
+          "rubrics": {
+            "preferred": "Folgen einer oberflächlichen Verletzung des Kopfes",
+            "inclusion": "Folgen einer Verletzung, die unter S00.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T90.1",
+          "kind": "category",
+          "label": "Folgen einer offenen Wunde des Kopfes",
+          "rubrics": {
+            "preferred": "Folgen einer offenen Wunde des Kopfes",
+            "inclusion": "Folgen einer Verletzung, die unter S01.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T90.2",
+          "kind": "category",
+          "label": "Folgen einer Fraktur des Schädels und der Gesichtsschädelknochen",
+          "rubrics": {
+            "preferred": "Folgen einer Fraktur des Schädels und der Gesichtsschädelknochen",
+            "inclusion": "Folgen einer Verletzung, die unter S02.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T90.3",
+          "kind": "category",
+          "label": "Folgen einer Verletzung der Hirnnerven",
+          "rubrics": {
+            "preferred": "Folgen einer Verletzung der Hirnnerven",
+            "inclusion": "Folgen einer Verletzung, die unter S04.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T90.4",
+          "kind": "category",
+          "label": "Folgen einer Verletzung des Auges und der Orbita",
+          "rubrics": {
+            "preferred": "Folgen einer Verletzung des Auges und der Orbita",
+            "inclusion": "Folgen einer Verletzung, die unter S05.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T90.5",
+          "kind": "category",
+          "label": "Folgen einer intrakraniellen Verletzung",
+          "rubrics": {
+            "preferred": "Folgen einer intrakraniellen Verletzung",
+            "inclusion": "Folgen einer Verletzung, die unter S06.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T90.8",
+          "kind": "category",
+          "label": "Folgen sonstiger näher bezeichneter Verletzungen des Kopfes",
+          "rubrics": {
+            "preferred": "Folgen sonstiger näher bezeichneter Verletzungen des Kopfes",
+            "inclusion": "Folgen einer Verletzung, die unter S03.-, S07-S08 und S09.0-S09.8 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T90.9",
+          "kind": "category",
+          "label": "Folgen einer nicht näher bezeichneten Verletzung des Kopfes",
+          "rubrics": {
+            "preferred": "Folgen einer nicht näher bezeichneten Verletzung des Kopfes",
+            "inclusion": "Folgen einer Verletzung, die unter S09.9 klassifizierbar ist"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T91",
+      "kind": "category",
+      "label": "Folgen von Verletzungen des Halses und des Rumpfes",
+      "rubrics": {
+        "preferred": "Folgen von Verletzungen des Halses und des Rumpfes"
+      },
+      "children": [
+        {
+          "code": "T91.0",
+          "kind": "category",
+          "label": "Folgen einer oberflächlichen Verletzung und einer offenen Wunde des Halses und des Rumpfes",
+          "rubrics": {
+            "preferred": "Folgen einer oberflächlichen Verletzung und einer offenen Wunde des Halses und des Rumpfes",
+            "inclusion": "Folgen einer Verletzung, die unter S10-S11, S20-S21, S30-S31 und T09.0-T09.1 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T91.1",
+          "kind": "category",
+          "label": "Folgen einer Fraktur der Wirbelsäule",
+          "rubrics": {
+            "preferred": "Folgen einer Fraktur der Wirbelsäule",
+            "inclusion": "Folgen einer Verletzung, die unter S12.-, S22.0-, S22.1, S32.0-, S32.7 und T08.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T91.2",
+          "kind": "category",
+          "label": "Folgen einer sonstigen Fraktur des Thorax und des Beckens",
+          "rubrics": {
+            "preferred": "Folgen einer sonstigen Fraktur des Thorax und des Beckens",
+            "inclusion": "Folgen einer Verletzung, die unter S22.2-S22.9, S32.1-S32.5 und S32.8- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T91.3",
+          "kind": "category",
+          "label": "Folgen einer Verletzung des Rückenmarkes",
+          "rubrics": {
+            "preferred": "Folgen einer Verletzung des Rückenmarkes",
+            "inclusion": "Folgen einer Verletzung, die unter S14.0-S14.1-, S24.0-S24.1-, S34.0-S34.1 und T09.3 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T91.4",
+          "kind": "category",
+          "label": "Folgen einer Verletzung der intrathorakalen Organe",
+          "rubrics": {
+            "preferred": "Folgen einer Verletzung der intrathorakalen Organe",
+            "inclusion": "Folgen einer Verletzung, die unter S26-S27 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T91.5",
+          "kind": "category",
+          "label": "Folgen einer Verletzung der intraabdominalen Organe und der Beckenorgane",
+          "rubrics": {
+            "preferred": "Folgen einer Verletzung der intraabdominalen Organe und der Beckenorgane",
+            "inclusion": "Folgen einer Verletzung, die unter S36-S37 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T91.8",
+          "kind": "category",
+          "label": "Folgen sonstiger näher bezeichneter Verletzungen des Halses und des Rumpfes",
+          "rubrics": {
+            "preferred": "Folgen sonstiger näher bezeichneter Verletzungen des Halses und des Rumpfes",
+            "inclusion": "Folgen einer Verletzung, die unter S13.-, S14.2-S14.6, S15-S18, S19.7-S19.8-, S23.-, S24.2-S24.6, S25.-, S28.-, S29.0-S29.8-, S33.-, S34.2-S34.8, S35.-, S38.-, S39.0-S39.8, T09.2 und T09.4-T09.8 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T91.9",
+          "kind": "category",
+          "label": "Folgen einer nicht näher bezeichneten Verletzung des Halses und des Rumpfes",
+          "rubrics": {
+            "preferred": "Folgen einer nicht näher bezeichneten Verletzung des Halses und des Rumpfes",
+            "inclusion": "Folgen einer Verletzung, die unter S19.9, S29.9, S39.9 und T09.9 klassifizierbar ist"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T92",
+      "kind": "category",
+      "label": "Folgen von Verletzungen der oberen Extremität",
+      "rubrics": {
+        "preferred": "Folgen von Verletzungen der oberen Extremität"
+      },
+      "children": [
+        {
+          "code": "T92.0",
+          "kind": "category",
+          "label": "Folgen einer offenen Wunde der oberen Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer offenen Wunde der oberen Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S41.-, S51.-, S61.- und T11.1 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T92.1",
+          "kind": "category",
+          "label": "Folgen einer Fraktur des Armes",
+          "rubrics": {
+            "preferred": "Folgen einer Fraktur des Armes",
+            "inclusion": "Folgen einer Verletzung, die unter S42.-, S52.- und T10.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T92.2",
+          "kind": "category",
+          "label": "Folgen einer Fraktur in Höhe des Handgelenkes und der Hand",
+          "rubrics": {
+            "preferred": "Folgen einer Fraktur in Höhe des Handgelenkes und der Hand",
+            "inclusion": "Folgen einer Verletzung, die unter S62.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T92.3",
+          "kind": "category",
+          "label": "Folgen einer Luxation, Verstauchung oder Zerrung der oberen Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer Luxation, Verstauchung oder Zerrung der oberen Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S43.-, S53.-, S63.- und T11.2 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T92.4",
+          "kind": "category",
+          "label": "Folgen einer Verletzung von Nerven der oberen Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer Verletzung von Nerven der oberen Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S44.-, S54.-, S64.- und T11.3 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T92.5",
+          "kind": "category",
+          "label": "Folgen einer Verletzung von Muskeln und Sehnen der oberen Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer Verletzung von Muskeln und Sehnen der oberen Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S46.-, S56.-, S66.- und T11.5 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T92.6",
+          "kind": "category",
+          "label": "Folgen einer Zerquetschung oder einer traumatischen Amputation der oberen Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer Zerquetschung oder einer traumatischen Amputation der oberen Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S47-S48, S57-S58, S67-S68 und T11.6 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T92.8",
+          "kind": "category",
+          "label": "Folgen sonstiger näher bezeichneter Verletzungen der oberen Extremität",
+          "rubrics": {
+            "preferred": "Folgen sonstiger näher bezeichneter Verletzungen der oberen Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S40.-, S45.-, S49.7-S49.8, S50.-, S55.-, S59.7-S59.8, S60.-, S65.-, S69.7-S69.8, T11.0-, T11.4 und T11.8 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T92.9",
+          "kind": "category",
+          "label": "Folgen einer nicht näher bezeichneten Verletzung der oberen Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer nicht näher bezeichneten Verletzung der oberen Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S49.9, S59.9, S69.9 und T11.9 klassifizierbar ist"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T93",
+      "kind": "category",
+      "label": "Folgen von Verletzungen der unteren Extremität",
+      "rubrics": {
+        "preferred": "Folgen von Verletzungen der unteren Extremität"
+      },
+      "children": [
+        {
+          "code": "T93.0",
+          "kind": "category",
+          "label": "Folgen einer offenen Wunde der unteren Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer offenen Wunde der unteren Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S71.-, S81.-, S91.- und T13.1 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T93.1",
+          "kind": "category",
+          "label": "Folgen einer Fraktur des Femurs",
+          "rubrics": {
+            "preferred": "Folgen einer Fraktur des Femurs",
+            "inclusion": "Folgen einer Verletzung, die unter S72.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T93.2",
+          "kind": "category",
+          "label": "Folgen sonstiger Frakturen der unteren Extremität",
+          "rubrics": {
+            "preferred": "Folgen sonstiger Frakturen der unteren Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S82.-, S92.- und T12.- klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T93.3",
+          "kind": "category",
+          "label": "Folgen einer Luxation, Verstauchung oder Zerrung der unteren Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer Luxation, Verstauchung oder Zerrung der unteren Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S73.-, S83.-, S93.- und T13.2 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T93.4",
+          "kind": "category",
+          "label": "Folgen einer Verletzung von Nerven der unteren Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer Verletzung von Nerven der unteren Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S74.-, S84.-, S94.- und T13.3 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T93.5",
+          "kind": "category",
+          "label": "Folgen einer Verletzung von Muskeln und Sehnen der unteren Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer Verletzung von Muskeln und Sehnen der unteren Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S76.-, S86.-, S96.- und T13.5 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T93.6",
+          "kind": "category",
+          "label": "Folgen einer Zerquetschung oder einer traumatischen Amputation der unteren Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer Zerquetschung oder einer traumatischen Amputation der unteren Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S77-S78, S87-S88, S97-S98 und T13.6 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T93.8",
+          "kind": "category",
+          "label": "Folgen sonstiger näher bezeichneter Verletzungen der unteren Extremität",
+          "rubrics": {
+            "preferred": "Folgen sonstiger näher bezeichneter Verletzungen der unteren Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S70.-, S75.-, S79.7-S79.8, S80.-, S85.-, S89.7-S89.8, S90.-, S95.-, S99.7-S99.8, T13.0-, T13.4 und T13.8 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T93.9",
+          "kind": "category",
+          "label": "Folgen einer nicht näher bezeichneten Verletzung der unteren Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer nicht näher bezeichneten Verletzung der unteren Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter S79.9, S89.9, S99.9 und T13.9 klassifizierbar ist"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T94",
+      "kind": "category",
+      "label": "Folgen von Verletzungen mehrerer oder nicht näher bezeichneter Körperregionen",
+      "rubrics": {
+        "preferred": "Folgen von Verletzungen mehrerer oder nicht näher bezeichneter Körperregionen"
+      },
+      "children": [
+        {
+          "code": "T94.0",
+          "kind": "category",
+          "label": "Folgen von Verletzungen mehrerer Körperregionen",
+          "rubrics": {
+            "preferred": "Folgen von Verletzungen mehrerer Körperregionen",
+            "inclusion": "Folgen einer Verletzung, die unter T00-T07 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T94.1",
+          "kind": "category",
+          "label": "Folgen von Verletzungen nicht näher bezeichneter Körperregionen",
+          "rubrics": {
+            "preferred": "Folgen von Verletzungen nicht näher bezeichneter Körperregionen",
+            "inclusion": "Folgen einer Verletzung, die unter T14.- klassifizierbar ist"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T95",
+      "kind": "category",
+      "label": "Folgen von Verbrennungen, Verätzungen oder Erfrierungen",
+      "rubrics": {
+        "preferred": "Folgen von Verbrennungen, Verätzungen oder Erfrierungen"
+      },
+      "children": [
+        {
+          "code": "T95.0",
+          "kind": "category",
+          "label": "Folgen einer Verbrennung, Verätzung oder Erfrierung des Kopfes oder des Halses",
+          "rubrics": {
+            "preferred": "Folgen einer Verbrennung, Verätzung oder Erfrierung des Kopfes oder des Halses",
+            "inclusion": "Folgen einer Verletzung, die unter T20.-, T33.0-T33.1, T34.0-T34.1 und T35.2 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T95.1",
+          "kind": "category",
+          "label": "Folgen einer Verbrennung, Verätzung oder Erfrierung des Rumpfes",
+          "rubrics": {
+            "preferred": "Folgen einer Verbrennung, Verätzung oder Erfrierung des Rumpfes",
+            "inclusion": "Folgen einer Verletzung, die unter T21.-, T33.2-T33.3, T34.2-T34.3 und T35.3 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T95.2",
+          "kind": "category",
+          "label": "Folgen einer Verbrennung, Verätzung oder Erfrierung der oberen Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer Verbrennung, Verätzung oder Erfrierung der oberen Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter T22-T23, T33.4-T33.5, T34.4-T34.5 und T35.4 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T95.3",
+          "kind": "category",
+          "label": "Folgen einer Verbrennung, Verätzung oder Erfrierung der unteren Extremität",
+          "rubrics": {
+            "preferred": "Folgen einer Verbrennung, Verätzung oder Erfrierung der unteren Extremität",
+            "inclusion": "Folgen einer Verletzung, die unter T24-T25, T33.6-T33.8, T34.6-T34.8 und T35.5 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T95.4",
+          "kind": "category",
+          "label": "Folgen einer Verbrennung oder Verätzung, die nur nach der Größe der betroffenen Körperoberfläche klassifizierbar ist",
+          "rubrics": {
+            "preferred": "Folgen einer Verbrennung oder Verätzung, die nur nach der Größe der betroffenen Körperoberfläche klassifizierbar ist",
+            "inclusion": "Folgen einer Verletzung, die unter T31-T32 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T95.8",
+          "kind": "category",
+          "label": "Folgen einer sonstigen näher bezeichneten Verbrennung, Verätzung oder Erfrierung",
+          "rubrics": {
+            "preferred": "Folgen einer sonstigen näher bezeichneten Verbrennung, Verätzung oder Erfrierung",
+            "inclusion": "Folgen einer Verletzung, die unter T26-T29, T35.0-T35.1 und T35.6 klassifizierbar ist"
+          },
+          "children": []
+        },
+        {
+          "code": "T95.9",
+          "kind": "category",
+          "label": "Folgen einer nicht näher bezeichneten Verbrennung, Verätzung oder Erfrierung",
+          "rubrics": {
+            "preferred": "Folgen einer nicht näher bezeichneten Verbrennung, Verätzung oder Erfrierung",
+            "inclusion": "Folgen einer Verletzung, die unter T30.-, T33.9, T34.9 und T35.7 klassifizierbar ist"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T96",
+      "kind": "category",
+      "label": "Folgen einer Vergiftung durch Arzneimittel, Drogen und biologisch aktive Substanzen",
+      "rubrics": {
+        "preferred": "Folgen einer Vergiftung durch Arzneimittel, Drogen und biologisch aktive Substanzen",
+        "inclusion": "Folgen einer Vergiftung, die unter T36-T50 klassifizierbar ist"
+      },
+      "children": []
+    },
+    {
+      "code": "T97",
+      "kind": "category",
+      "label": "Folgen toxischer Wirkungen von vorwiegend nicht medizinisch verwendeten Substanzen",
+      "rubrics": {
+        "preferred": "Folgen toxischer Wirkungen von vorwiegend nicht medizinisch verwendeten Substanzen",
+        "inclusion": "Folgen toxischer Wirkungen, die unter T51-T65 klassifizierbar sind"
+      },
+      "children": []
+    },
+    {
+      "code": "T98",
+      "kind": "category",
+      "label": "Folgen sonstiger und nicht näher bezeichneter Wirkungen äußerer Ursachen",
+      "rubrics": {
+        "preferred": "Folgen sonstiger und nicht näher bezeichneter Wirkungen äußerer Ursachen"
+      },
+      "children": [
+        {
+          "code": "T98.0",
+          "kind": "category",
+          "label": "Folgen der Auswirkungen von Fremdkörpern in natürlichen Körperöffnungen",
+          "rubrics": {
+            "preferred": "Folgen der Auswirkungen von Fremdkörpern in natürlichen Körperöffnungen",
+            "inclusion": "Folgen von Auswirkungen, die unter T15-T19 klassifizierbar sind"
+          },
+          "children": []
+        },
+        {
+          "code": "T98.1",
+          "kind": "category",
+          "label": "Folgen sonstiger und nicht näher bezeichneter Schäden durch äußere Ursachen",
+          "rubrics": {
+            "preferred": "Folgen sonstiger und nicht näher bezeichneter Schäden durch äußere Ursachen",
+            "inclusion": "Folgen von Schäden, die unter T66-T78 klassifizierbar sind"
+          },
+          "children": []
+        },
+        {
+          "code": "T98.2",
+          "kind": "category",
+          "label": "Folgen bestimmter Frühkomplikationen eines Traumas",
+          "rubrics": {
+            "preferred": "Folgen bestimmter Frühkomplikationen eines Traumas",
+            "inclusion": "Folgen von Komplikationen, die unter T79.- klassifizierbar sind"
+          },
+          "children": []
+        },
+        {
+          "code": "T98.3",
+          "kind": "category",
+          "label": "Folgen von Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Folgen von Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert",
+            "inclusion": "Folgen von Komplikationen, die unter T80-T88 klassifizierbar sind"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

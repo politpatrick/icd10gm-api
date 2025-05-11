@@ -1,0 +1,11 @@
+{
+  "code": "B48.80",
+  "kind": "category",
+  "label": "Sepsis durch Pilze, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sepsis durch Pilze, anderenorts nicht klassifiziert",
+    "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.80!-U69.82, um den zeitlichen Bezug der Sepsis zur stationären Krankenhausaufnahme anzugeben.",
+    "exclusion": "Sepsis (durch):\n\t\t\t\tSporothrixB42.70"
+  },
+  "children": []
+}

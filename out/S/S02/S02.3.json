@@ -1,0 +1,11 @@
+{
+  "code": "S02.3",
+  "kind": "category",
+  "label": "Fraktur des Orbitabodens",
+  "rubrics": {
+    "preferred": "Fraktur des Orbitabodens",
+    "inclusion": "Blow-out-Fraktur",
+    "exclusion": "OrbitadachS02.1"
+  },
+  "children": []
+}

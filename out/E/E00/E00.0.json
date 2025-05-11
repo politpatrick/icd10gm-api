@@ -1,0 +1,10 @@
+{
+  "code": "E00.0",
+  "kind": "category",
+  "label": "Angeborenes Jodmangelsyndrom, neurologischer Typ",
+  "rubrics": {
+    "preferred": "Angeborenes Jodmangelsyndrom, neurologischer Typ",
+    "inclusion": "Endemischer Kretinismus, neurologischer Typ"
+  },
+  "children": []
+}

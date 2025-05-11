@@ -1,0 +1,10 @@
+{
+  "code": "T85.51",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate im sonstigen oberen Gastrointestinaltrakt",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch Prothesen, Implantate oder Transplantate im sonstigen oberen Gastrointestinaltrakt",
+    "inclusion": "Mechanische Komplikation durch perkutan-endoskopische Gastrostomie-Sonde [PEG-Sonde]"
+  },
+  "children": []
+}

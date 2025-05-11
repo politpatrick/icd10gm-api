@@ -1,0 +1,11 @@
+{
+  "code": "F44.3",
+  "kind": "category",
+  "label": "Trance- und Besessenheitszustände",
+  "rubrics": {
+    "preferred": "Trance- und Besessenheitszustände",
+    "definition": "Bei diesen Störungen tritt ein zeitweiliger Verlust der persönlichen Identität und der vollständigen Wahrnehmung der Umgebung auf. Hier sind nur Trancezustände zu klassifizieren, die unfreiwillig oder ungewollt sind, und die außerhalb von religiösen oder kulturell akzeptierten Situationen auftreten.",
+    "exclusion": "Zustandsbilder bei:\n\t\t\t\tvorübergehenden akuten psychotischen StörungenF23.-"
+  },
+  "children": []
+}

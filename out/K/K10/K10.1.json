@@ -1,0 +1,11 @@
+{
+  "code": "K10.1",
+  "kind": "category",
+  "label": "Zentrales Riesenzellgranulom der Kiefer",
+  "rubrics": {
+    "preferred": "Zentrales Riesenzellgranulom der Kiefer",
+    "inclusion": "Riesenzellgranulom o.n.A.",
+    "exclusion": "Peripheres RiesenzellgranulomK06.8"
+  },
+  "children": []
+}

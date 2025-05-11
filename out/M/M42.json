@@ -1,0 +1,40 @@
+{
+  "code": "M42",
+  "kind": "category",
+  "label": "Osteochondrose der Wirbelsäule",
+  "rubrics": {
+    "preferred": "Osteochondrose der Wirbelsäule",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]"
+  },
+  "children": [
+    {
+      "code": "M42.0",
+      "kind": "category",
+      "label": "Juvenile Osteochondrose der Wirbelsäule",
+      "rubrics": {
+        "preferred": "Juvenile Osteochondrose der Wirbelsäule",
+        "inclusion": "Vertebra plana [Calvé-Krankheit]",
+        "exclusion": "Kyphose als HaltungsstörungM40.0-"
+      },
+      "children": []
+    },
+    {
+      "code": "M42.1",
+      "kind": "category",
+      "label": "Osteochondrose der Wirbelsäule beim Erwachsenen",
+      "rubrics": {
+        "preferred": "Osteochondrose der Wirbelsäule beim Erwachsenen"
+      },
+      "children": []
+    },
+    {
+      "code": "M42.9",
+      "kind": "category",
+      "label": "Osteochondrose der Wirbelsäule, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Osteochondrose der Wirbelsäule, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "E78.2",
+  "kind": "category",
+  "label": "Gemischte Hyperlipidämie",
+  "rubrics": {
+    "preferred": "Gemischte Hyperlipidämie",
+    "inclusion": "Xanthoma tuberosum",
+    "exclusion": "Zerebrotendinöse Xanthomatose [van-Bogaert-Scherer-Epstein-Syndrom]E75.5"
+  },
+  "children": []
+}

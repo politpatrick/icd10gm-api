@@ -1,0 +1,10 @@
+{
+  "code": "O26.2",
+  "kind": "category",
+  "label": "Schwangerschaftsbetreuung bei Neigung zu habituellem Abort",
+  "rubrics": {
+    "preferred": "Schwangerschaftsbetreuung bei Neigung zu habituellem Abort",
+    "exclusion": "Habituelle Abortneigung:\n\t\t\t\tohne bestehende SchwangerschaftN96"
+  },
+  "children": []
+}

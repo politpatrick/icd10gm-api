@@ -1,0 +1,47 @@
+{
+  "code": "G58",
+  "kind": "category",
+  "label": "Sonstige Mononeuropathien",
+  "rubrics": {
+    "preferred": "Sonstige Mononeuropathien"
+  },
+  "children": [
+    {
+      "code": "G58.0",
+      "kind": "category",
+      "label": "Interkostalneuropathie",
+      "rubrics": {
+        "preferred": "Interkostalneuropathie"
+      },
+      "children": []
+    },
+    {
+      "code": "G58.7",
+      "kind": "category",
+      "label": "Mononeuritis multiplex",
+      "rubrics": {
+        "preferred": "Mononeuritis multiplex",
+        "inclusion": "Mononeuropathia multiplex"
+      },
+      "children": []
+    },
+    {
+      "code": "G58.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Mononeuropathien",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Mononeuropathien"
+      },
+      "children": []
+    },
+    {
+      "code": "G58.9",
+      "kind": "category",
+      "label": "Mononeuropathie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Mononeuropathie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

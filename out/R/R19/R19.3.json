@@ -1,0 +1,10 @@
+{
+  "code": "R19.3",
+  "kind": "category",
+  "label": "Bauchdeckenspannung",
+  "rubrics": {
+    "preferred": "Bauchdeckenspannung",
+    "exclusion": "Mit starken BauchschmerzenR10.0"
+  },
+  "children": []
+}

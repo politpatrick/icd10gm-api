@@ -1,0 +1,45 @@
+{
+  "code": "J04",
+  "kind": "category",
+  "label": "Akute Laryngitis und Tracheitis",
+  "rubrics": {
+    "preferred": "Akute Laryngitis und Tracheitis",
+    "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+    "exclusion": "Laryngismus (stridulus)J38.5"
+  },
+  "children": [
+    {
+      "code": "J04.0",
+      "kind": "category",
+      "label": "Akute Laryngitis",
+      "rubrics": {
+        "preferred": "Akute Laryngitis",
+        "inclusion": "Laryngitis (akut):\n\t\t\t\to.n.A.",
+        "exclusion": "Grippe mit Laryngitis, Influenzaviren:\n\t\t\t\tnicht nachgewiesenJ11.1"
+      },
+      "children": []
+    },
+    {
+      "code": "J04.1",
+      "kind": "category",
+      "label": "Akute Tracheitis",
+      "rubrics": {
+        "preferred": "Akute Tracheitis",
+        "inclusion": "Tracheitis (akut):\n\t\t\t\to.n.A.",
+        "exclusion": "Chronische TracheitisJ42"
+      },
+      "children": []
+    },
+    {
+      "code": "J04.2",
+      "kind": "category",
+      "label": "Akute Laryngotracheitis",
+      "rubrics": {
+        "preferred": "Akute Laryngotracheitis",
+        "inclusion": "Tracheitis (akut) mit Laryngitis (akut)",
+        "exclusion": "Chronische LaryngotracheitisJ37.1"
+      },
+      "children": []
+    }
+  ]
+}

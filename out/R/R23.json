@@ -1,0 +1,72 @@
+{
+  "code": "R23",
+  "kind": "category",
+  "label": "Sonstige Hautveränderungen",
+  "rubrics": {
+    "preferred": "Sonstige Hautveränderungen"
+  },
+  "children": [
+    {
+      "code": "R23.0",
+      "kind": "category",
+      "label": "Zyanose",
+      "rubrics": {
+        "preferred": "Zyanose",
+        "exclusion": "Zyanoseanfälle beim NeugeborenenP28.2"
+      },
+      "children": []
+    },
+    {
+      "code": "R23.1",
+      "kind": "category",
+      "label": "Blässe",
+      "rubrics": {
+        "preferred": "Blässe",
+        "inclusion": "Feuchtkalte Haut"
+      },
+      "children": []
+    },
+    {
+      "code": "R23.2",
+      "kind": "category",
+      "label": "Gesichtsrötung [Flush]",
+      "rubrics": {
+        "preferred": "Gesichtsrötung [Flush]",
+        "inclusion": "Übermäßiges Erröten",
+        "exclusion": "Zustände im Zusammenhang mit der Menopause und dem KlimakteriumN95.1"
+      },
+      "children": []
+    },
+    {
+      "code": "R23.3",
+      "kind": "category",
+      "label": "Spontane Ekchymosen",
+      "rubrics": {
+        "preferred": "Spontane Ekchymosen",
+        "inclusion": "Petechien",
+        "exclusion": "PurpuraD69.-"
+      },
+      "children": []
+    },
+    {
+      "code": "R23.4",
+      "kind": "category",
+      "label": "Veränderungen des Hautreliefs",
+      "rubrics": {
+        "preferred": "Veränderungen des Hautreliefs",
+        "inclusion": "Verhärtung\n\t\t\t\tHaut",
+        "exclusion": "Epidermisverdickung o.n.A.L85.9"
+      },
+      "children": []
+    },
+    {
+      "code": "R23.8",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Hautveränderungen",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Hautveränderungen"
+      },
+      "children": []
+    }
+  ]
+}

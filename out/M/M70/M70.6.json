@@ -1,0 +1,10 @@
+{
+  "code": "M70.6",
+  "kind": "category",
+  "label": "Bursitis trochanterica",
+  "rubrics": {
+    "preferred": "Bursitis trochanterica",
+    "inclusion": "Tendinitis trochanterica"
+  },
+  "children": []
+}

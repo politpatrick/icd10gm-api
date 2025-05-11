@@ -1,0 +1,86 @@
+{
+  "code": "O64",
+  "kind": "category",
+  "label": "Geburtshindernis durch Lage-, Haltungs- und Einstellungsanomalien des Fetus",
+  "rubrics": {
+    "preferred": "Geburtshindernis durch Lage-, Haltungs- und Einstellungsanomalien des Fetus"
+  },
+  "children": [
+    {
+      "code": "O64.0",
+      "kind": "category",
+      "label": "Geburtshindernis durch unvollständige Drehung des kindlichen Kopfes",
+      "rubrics": {
+        "preferred": "Geburtshindernis durch unvollständige Drehung des kindlichen Kopfes",
+        "inclusion": "Tiefer Querstand"
+      },
+      "children": []
+    },
+    {
+      "code": "O64.1",
+      "kind": "category",
+      "label": "Geburtshindernis durch Beckenendlage",
+      "rubrics": {
+        "preferred": "Geburtshindernis durch Beckenendlage"
+      },
+      "children": []
+    },
+    {
+      "code": "O64.2",
+      "kind": "category",
+      "label": "Geburtshindernis durch Gesichtslage",
+      "rubrics": {
+        "preferred": "Geburtshindernis durch Gesichtslage",
+        "inclusion": "Geburtshindernis durch Kinnlage"
+      },
+      "children": []
+    },
+    {
+      "code": "O64.3",
+      "kind": "category",
+      "label": "Geburtshindernis durch Stirnlage",
+      "rubrics": {
+        "preferred": "Geburtshindernis durch Stirnlage"
+      },
+      "children": []
+    },
+    {
+      "code": "O64.4",
+      "kind": "category",
+      "label": "Geburtshindernis durch Querlage",
+      "rubrics": {
+        "preferred": "Geburtshindernis durch Querlage",
+        "inclusion": "Armvorfall",
+        "exclusion": "SchulterdystokieO66.0"
+      },
+      "children": []
+    },
+    {
+      "code": "O64.5",
+      "kind": "category",
+      "label": "Geburtshindernis durch kombinierte Einstellungsanomalien",
+      "rubrics": {
+        "preferred": "Geburtshindernis durch kombinierte Einstellungsanomalien"
+      },
+      "children": []
+    },
+    {
+      "code": "O64.8",
+      "kind": "category",
+      "label": "Geburtshindernis durch sonstige Lage-, Haltungs- und Einstellungsanomalien",
+      "rubrics": {
+        "preferred": "Geburtshindernis durch sonstige Lage-, Haltungs- und Einstellungsanomalien"
+      },
+      "children": []
+    },
+    {
+      "code": "O64.9",
+      "kind": "category",
+      "label": "Geburtshindernis durch Lage-, Haltungs- und Einstellungsanomalien, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Geburtshindernis durch Lage-, Haltungs- und Einstellungsanomalien, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

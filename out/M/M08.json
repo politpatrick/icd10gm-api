@@ -1,0 +1,92 @@
+{
+  "code": "M08",
+  "kind": "category",
+  "label": "Juvenile Arthritis",
+  "rubrics": {
+    "preferred": "Juvenile Arthritis",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+    "inclusion": "Arthritis bei Kindern, Beginn vor Vollendung des 15. Lebensjahres, mit einer Dauer von mehr als 3 Monaten",
+    "exclusion": "Juvenile DermatomyositisM33.0"
+  },
+  "children": [
+    {
+      "code": "M08.0",
+      "kind": "category",
+      "label": "Juvenile chronische Polyarthritis, adulter Typ",
+      "rubrics": {
+        "preferred": "Juvenile chronische Polyarthritis, adulter Typ",
+        "inclusion": "Juvenile chronische Polyarthritis vom Erwachsenentyp der chronischen Polyarthritis, mit oder ohne Rheumafaktor-Nachweis"
+      },
+      "children": []
+    },
+    {
+      "code": "M08.1",
+      "kind": "category",
+      "label": "Juvenile Spondylitis ankylosans",
+      "rubrics": {
+        "preferred": "Juvenile Spondylitis ankylosans",
+        "exclusion": "Axiale Spondyloarthritis [Spondylitis ankylosans] bei ErwachsenenM45.0-"
+      },
+      "children": []
+    },
+    {
+      "code": "M08.2",
+      "kind": "category",
+      "label": "Juvenile chronische Arthritis, systemisch beginnende Form",
+      "rubrics": {
+        "preferred": "Juvenile chronische Arthritis, systemisch beginnende Form",
+        "inclusion": "Still-Krankheit o.n.A.",
+        "exclusion": "Adulte Form der Still-KrankheitM06.1-"
+      },
+      "children": []
+    },
+    {
+      "code": "M08.3",
+      "kind": "category",
+      "label": "Juvenile chronische Arthritis (seronegativ), polyartikuläre Form",
+      "rubrics": {
+        "preferred": "Juvenile chronische Arthritis (seronegativ), polyartikuläre Form",
+        "inclusion": "Oligoartikulär beginnende Form, im Verlauf polyartikulär [extended oligoarthritis]",
+        "coding-hint": "Soll eine begleitende Vaskulitis angegeben werden, so ist eine zusätzliche Schlüsselnummer (M08.7) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "M08.4",
+      "kind": "category",
+      "label": "Juvenile chronische Arthritis, oligoartikuläre Form",
+      "rubrics": {
+        "preferred": "Juvenile chronische Arthritis, oligoartikuläre Form",
+        "exclusion": "im Verlauf polyartikulär [extended oligoarthritis]M08.3"
+      },
+      "children": []
+    },
+    {
+      "code": "M08.7",
+      "kind": "category",
+      "label": "Vaskulitis bei juveniler Arthritis",
+      "rubrics": {
+        "preferred": "Vaskulitis bei juveniler Arthritis"
+      },
+      "children": []
+    },
+    {
+      "code": "M08.8",
+      "kind": "category",
+      "label": "Sonstige juvenile Arthritis",
+      "rubrics": {
+        "preferred": "Sonstige juvenile Arthritis"
+      },
+      "children": []
+    },
+    {
+      "code": "M08.9",
+      "kind": "category",
+      "label": "Juvenile Arthritis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Juvenile Arthritis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

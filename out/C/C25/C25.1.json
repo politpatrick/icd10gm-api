@@ -1,0 +1,10 @@
+{
+  "code": "C25.1",
+  "kind": "category",
+  "label": "Pankreaskörper",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Pankreaskörper",
+    "preferred": "Pankreaskörper"
+  },
+  "children": []
+}

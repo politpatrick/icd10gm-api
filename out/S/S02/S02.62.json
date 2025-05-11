@@ -1,0 +1,10 @@
+{
+  "code": "S02.62",
+  "kind": "category",
+  "label": "Subkondylär",
+  "rubrics": {
+    "preferredLong": "Unterkieferfraktur: Subkondylär",
+    "preferred": "Subkondylär"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "L59.0",
+  "kind": "category",
+  "label": "Erythema ab igne",
+  "rubrics": {
+    "preferred": "Erythema ab igne",
+    "inclusion": "Chronischer Wärmeschaden"
+  },
+  "children": []
+}

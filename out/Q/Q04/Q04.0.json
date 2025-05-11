@@ -1,0 +1,10 @@
+{
+  "code": "Q04.0",
+  "kind": "category",
+  "label": "Angeborene Fehlbildungen des Corpus callosum",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildungen des Corpus callosum",
+    "inclusion": "Agenesie des Corpus callosum"
+  },
+  "children": []
+}

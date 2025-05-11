@@ -1,0 +1,10 @@
+{
+  "code": "N99.8",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Urogenitalsystems nach medizinischen Maßnahmen",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Urogenitalsystems nach medizinischen Maßnahmen",
+    "inclusion": "Residual ovary syndrome"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "S32.00",
+  "kind": "category",
+  "label": "Höhe nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Fraktur eines Lendenwirbels: Höhe nicht näher bezeichnet",
+    "preferred": "Höhe nicht näher bezeichnet",
+    "inclusion": "Lendenwirbelsäule o.n.A."
+  },
+  "children": []
+}

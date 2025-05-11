@@ -1,0 +1,11 @@
+{
+  "code": "Q21.88",
+  "kind": "category",
+  "label": "Sonstige angeborene Fehlbildungen der Herzsepten",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungen der Herzsepten",
+    "inclusion": "Eisenmenger-Defekt",
+    "exclusion": "Eisenmenger:\n\t\t\t\tSyndromI27.8"
+  },
+  "children": []
+}

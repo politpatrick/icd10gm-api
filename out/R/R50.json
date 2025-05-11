@@ -1,0 +1,61 @@
+{
+  "code": "R50",
+  "kind": "category",
+  "label": "Fieber sonstiger und unbekannter Ursache",
+  "rubrics": {
+    "preferred": "Fieber sonstiger und unbekannter Ursache",
+    "exclusion": "Fieber o.n.A. im WochenbettO86.4"
+  },
+  "children": [
+    {
+      "code": "R50.2",
+      "kind": "category",
+      "label": "Medikamenten-induziertes Fieber [Drug fever]",
+      "rubrics": {
+        "preferred": "Medikamenten-induziertes Fieber [Drug fever]",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "R50.8",
+      "kind": "category",
+      "label": "Sonstiges näher bezeichnetes Fieber",
+      "rubrics": {
+        "preferred": "Sonstiges näher bezeichnetes Fieber"
+      },
+      "children": [
+        {
+          "code": "R50.80",
+          "kind": "category",
+          "label": "Fieber unbekannter Ursache",
+          "rubrics": {
+            "preferred": "Fieber unbekannter Ursache"
+          },
+          "children": []
+        },
+        {
+          "code": "R50.88",
+          "kind": "category",
+          "label": "Sonstiges näher bezeichnetes Fieber",
+          "rubrics": {
+            "preferred": "Sonstiges näher bezeichnetes Fieber",
+            "inclusion": "Fieber mit Schüttelfrost"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R50.9",
+      "kind": "category",
+      "label": "Fieber, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Fieber, nicht näher bezeichnet",
+        "inclusion": "Pyrexie o.n.A.",
+        "exclusion": "Maligne Hyperthermie durch AnästhesieT88.3"
+      },
+      "children": []
+    }
+  ]
+}

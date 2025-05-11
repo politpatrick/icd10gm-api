@@ -1,0 +1,87 @@
+{
+  "code": "Q44",
+  "kind": "category",
+  "label": "Angeborene Fehlbildungen der Gallenblase, der Gallengänge und der Leber",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildungen der Gallenblase, der Gallengänge und der Leber"
+  },
+  "children": [
+    {
+      "code": "Q44.0",
+      "kind": "category",
+      "label": "Agenesie, Aplasie und Hypoplasie der Gallenblase",
+      "rubrics": {
+        "preferred": "Agenesie, Aplasie und Hypoplasie der Gallenblase",
+        "inclusion": "Angeborenes Fehlen der Gallenblase"
+      },
+      "children": []
+    },
+    {
+      "code": "Q44.1",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Gallenblase",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Gallenblase",
+        "inclusion": "Intrahepatische Gallenblase"
+      },
+      "children": []
+    },
+    {
+      "code": "Q44.2",
+      "kind": "category",
+      "label": "Atresie der Gallengänge",
+      "rubrics": {
+        "preferred": "Atresie der Gallengänge"
+      },
+      "children": []
+    },
+    {
+      "code": "Q44.3",
+      "kind": "category",
+      "label": "Angeborene Stenose und Striktur der Gallengänge",
+      "rubrics": {
+        "preferred": "Angeborene Stenose und Striktur der Gallengänge"
+      },
+      "children": []
+    },
+    {
+      "code": "Q44.4",
+      "kind": "category",
+      "label": "Choledochuszyste",
+      "rubrics": {
+        "preferred": "Choledochuszyste"
+      },
+      "children": []
+    },
+    {
+      "code": "Q44.5",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Gallengänge",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Gallengänge",
+        "inclusion": "Duplikatur:\n\t\t\t\tGallengang"
+      },
+      "children": []
+    },
+    {
+      "code": "Q44.6",
+      "kind": "category",
+      "label": "Zystische Leberkrankheit [Zystenleber]",
+      "rubrics": {
+        "preferred": "Zystische Leberkrankheit [Zystenleber]",
+        "inclusion": "Fibrozystische Leberkrankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "Q44.7",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Leber",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Leber",
+        "inclusion": "Angeboren:\n\t\t\t\tHepatomegalie"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "code": "D70",
+  "kind": "category",
+  "label": "Agranulozytose und Neutropenie",
+  "rubrics": {
+    "preferred": "Agranulozytose und Neutropenie",
+    "inclusion": "Angina agranulocytotica",
+    "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+    "exclusion": "Transitorische Neutropenie beim NeugeborenenP61.5"
+  },
+  "children": [
+    {
+      "code": "D70.0",
+      "kind": "category",
+      "label": "Angeborene Agranulozytose und Neutropenie",
+      "rubrics": {
+        "preferred": "Angeborene Agranulozytose und Neutropenie",
+        "inclusion": "Kostmann-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "D70.1",
+      "kind": "category",
+      "label": "Arzneimittelinduzierte Agranulozytose und Neutropenie",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierte Agranulozytose und Neutropenie",
+        "inclusion": "Agranulozytose und Neutropenie infolge zytostatischer Therapie",
+        "coding-hint": "Für die Subkategorien D70.10-D70.14 ist nur die kritische Phase der Agranulozytose heranzuziehen, während der die Anzahl der neutrophilen Granulozyten weniger als 500 oder die Anzahl der Leukozyten weniger als 1000 pro Mikroliter Blut beträgt."
+      },
+      "children": [
+        {
+          "code": "D70.10",
+          "kind": "category",
+          "label": "Kritische Phase unter 4 Tage",
+          "rubrics": {
+            "preferred": "Kritische Phase unter 4 Tage",
+            "preferredLong": "Arzneimittelinduzierte Agranulozytose und Neutropenie: Kritische Phase unter 4 Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "D70.11",
+          "kind": "category",
+          "label": "Kritische Phase 10 Tage bis unter 20 Tage",
+          "rubrics": {
+            "preferredLong": "Arzneimittelinduzierte Agranulozytose und Neutropenie: Kritische Phase 10 Tage bis unter 20 Tage",
+            "preferred": "Kritische Phase 10 Tage bis unter 20 Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "D70.12",
+          "kind": "category",
+          "label": "Kritische Phase 20 Tage und mehr",
+          "rubrics": {
+            "preferredLong": "Arzneimittelinduzierte Agranulozytose und Neutropenie: Kritische Phase 20 Tage und mehr",
+            "preferred": "Kritische Phase 20 Tage und mehr"
+          },
+          "children": []
+        },
+        {
+          "code": "D70.13",
+          "kind": "category",
+          "label": "Kritische Phase 4 Tage bis unter 7 Tage",
+          "rubrics": {
+            "preferred": "Kritische Phase 4 Tage bis unter 7 Tage",
+            "preferredLong": "Arzneimittelinduzierte Agranulozytose und Neutropenie: Kritische Phase 4 Tage bis unter 7 Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "D70.14",
+          "kind": "category",
+          "label": "Kritische Phase 7 Tage bis unter 10 Tage",
+          "rubrics": {
+            "preferred": "Kritische Phase 7 Tage bis unter 10 Tage",
+            "preferredLong": "Arzneimittelinduzierte Agranulozytose und Neutropenie: Kritische Phase 7 Tage bis unter 10 Tage"
+          },
+          "children": []
+        },
+        {
+          "code": "D70.18",
+          "kind": "category",
+          "label": "Sonstige Verlaufsformen der arzneimittelinduzierten Agranulozytose und Neutropenie",
+          "rubrics": {
+            "preferred": "Sonstige Verlaufsformen der arzneimittelinduzierten Agranulozytose und Neutropenie"
+          },
+          "children": []
+        },
+        {
+          "code": "D70.19",
+          "kind": "category",
+          "label": "Arzneimittelinduzierte Agranulozytose und Neutropenie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Arzneimittelinduzierte Agranulozytose und Neutropenie, nicht näher bezeichnet",
+            "inclusion": "Arzneimittelinduzierte Agranulozytose und Neutropenie o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D70.3",
+      "kind": "category",
+      "label": "Sonstige Agranulozytose",
+      "rubrics": {
+        "preferred": "Sonstige Agranulozytose",
+        "inclusion": "Agranulozytose o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "D70.5",
+      "kind": "category",
+      "label": "Zyklische Neutropenie",
+      "rubrics": {
+        "preferred": "Zyklische Neutropenie",
+        "inclusion": "Periodische Neutropenie"
+      },
+      "children": []
+    },
+    {
+      "code": "D70.6",
+      "kind": "category",
+      "label": "Sonstige Neutropenie",
+      "rubrics": {
+        "preferred": "Sonstige Neutropenie",
+        "inclusion": "Splenogene (primäre) Neutropenie"
+      },
+      "children": []
+    },
+    {
+      "code": "D70.7",
+      "kind": "category",
+      "label": "Neutropenie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Neutropenie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

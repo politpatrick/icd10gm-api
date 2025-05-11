@@ -1,0 +1,10 @@
+{
+  "code": "N11.9",
+  "kind": "category",
+  "label": "Chronische tubulointerstitielle Nephritis, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Chronische tubulointerstitielle Nephritis, nicht näher bezeichnet",
+    "inclusion": "Chronisch:\n\t\t\t\tPyelonephritis o.n.A."
+  },
+  "children": []
+}

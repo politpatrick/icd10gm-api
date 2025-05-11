@@ -1,0 +1,66 @@
+{
+  "code": "K38",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der Appendix",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der Appendix"
+  },
+  "children": [
+    {
+      "code": "K38.0",
+      "kind": "category",
+      "label": "Hyperplasie der Appendix",
+      "rubrics": {
+        "preferred": "Hyperplasie der Appendix"
+      },
+      "children": []
+    },
+    {
+      "code": "K38.1",
+      "kind": "category",
+      "label": "Appendixkonkremente",
+      "rubrics": {
+        "preferred": "Appendixkonkremente",
+        "inclusion": "Kotstein\n\t\t\t\tAppendix"
+      },
+      "children": []
+    },
+    {
+      "code": "K38.2",
+      "kind": "category",
+      "label": "Appendixdivertikel",
+      "rubrics": {
+        "preferred": "Appendixdivertikel"
+      },
+      "children": []
+    },
+    {
+      "code": "K38.3",
+      "kind": "category",
+      "label": "Appendixfistel",
+      "rubrics": {
+        "preferred": "Appendixfistel"
+      },
+      "children": []
+    },
+    {
+      "code": "K38.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten der Appendix",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten der Appendix",
+        "inclusion": "Invagination der Appendix"
+      },
+      "children": []
+    },
+    {
+      "code": "K38.9",
+      "kind": "category",
+      "label": "Krankheit der Appendix, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit der Appendix, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "H53.0",
+  "kind": "category",
+  "label": "Amblyopia ex anopsia",
+  "rubrics": {
+    "preferred": "Amblyopia ex anopsia",
+    "inclusion": "Amblyopie (durch):\n\t\t\t\tStrabismus"
+  },
+  "children": []
+}

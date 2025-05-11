@@ -1,0 +1,141 @@
+{
+  "code": "B90-B94",
+  "kind": "block",
+  "label": "Folgezustände von infektiösen und parasitären Krankheiten",
+  "rubrics": {
+    "preferred": "Folgezustände von infektiösen und parasitären Krankheiten",
+    "note": "Die Kategorien B90-B94 sind zu benutzen, um bei Krankheitszuständen unter A00-B89 anzuzeigen, dass sie anderenorts klassifizierte Folgezustände verursacht haben. Zu den \"Folgen\" zählen Krankheitszustände, die als Folgen bezeichnet sind. Weiterhin zählen dazu auch Spätfolgen von Krankheiten, wenn diese in den vorstehenden Kategorien klassifizierbar sind und wenn feststeht, dass diese Krankheit selbst nicht mehr besteht. Für den Gebrauch dieser Kategorien sind in der stationären Versorgung die Deutschen Kodierrichtlinien zu beachten."
+  },
+  "children": [
+    {
+      "code": "B90",
+      "kind": "category",
+      "label": "Folgezustände der Tuberkulose",
+      "rubrics": {
+        "preferred": "Folgezustände der Tuberkulose"
+      },
+      "children": [
+        {
+          "code": "B90.0",
+          "kind": "category",
+          "label": "Folgezustände einer Tuberkulose des Zentralnervensystems",
+          "rubrics": {
+            "preferred": "Folgezustände einer Tuberkulose des Zentralnervensystems"
+          },
+          "children": []
+        },
+        {
+          "code": "B90.1",
+          "kind": "category",
+          "label": "Folgezustände einer Tuberkulose des Urogenitalsystems",
+          "rubrics": {
+            "preferred": "Folgezustände einer Tuberkulose des Urogenitalsystems"
+          },
+          "children": []
+        },
+        {
+          "code": "B90.2",
+          "kind": "category",
+          "label": "Folgezustände einer Tuberkulose der Knochen und der Gelenke",
+          "rubrics": {
+            "preferred": "Folgezustände einer Tuberkulose der Knochen und der Gelenke"
+          },
+          "children": []
+        },
+        {
+          "code": "B90.8",
+          "kind": "category",
+          "label": "Folgezustände einer Tuberkulose sonstiger Organe",
+          "rubrics": {
+            "preferred": "Folgezustände einer Tuberkulose sonstiger Organe"
+          },
+          "children": []
+        },
+        {
+          "code": "B90.9",
+          "kind": "category",
+          "label": "Folgezustände einer Tuberkulose der Atmungsorgane und einer nicht näher bezeichneten Tuberkulose",
+          "rubrics": {
+            "preferred": "Folgezustände einer Tuberkulose der Atmungsorgane und einer nicht näher bezeichneten Tuberkulose",
+            "inclusion": "Folgezustände einer Tuberkulose o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B91",
+      "kind": "category",
+      "label": "Folgezustände der Poliomyelitis",
+      "rubrics": {
+        "preferred": "Folgezustände der Poliomyelitis",
+        "exclusion": "Postpolio-Syndrom G14"
+      },
+      "children": []
+    },
+    {
+      "code": "B92",
+      "kind": "category",
+      "label": "Folgezustände der Lepra",
+      "rubrics": {
+        "preferred": "Folgezustände der Lepra"
+      },
+      "children": []
+    },
+    {
+      "code": "B94",
+      "kind": "category",
+      "label": "Folgezustände sonstiger und nicht näher bezeichneter infektiöser und parasitärer Krankheiten",
+      "rubrics": {
+        "preferred": "Folgezustände sonstiger und nicht näher bezeichneter infektiöser und parasitärer Krankheiten"
+      },
+      "children": [
+        {
+          "code": "B94.0",
+          "kind": "category",
+          "label": "Folgezustände des Trachoms",
+          "rubrics": {
+            "preferred": "Folgezustände des Trachoms"
+          },
+          "children": []
+        },
+        {
+          "code": "B94.1",
+          "kind": "category",
+          "label": "Folgezustände der Virusenzephalitis",
+          "rubrics": {
+            "preferred": "Folgezustände der Virusenzephalitis"
+          },
+          "children": []
+        },
+        {
+          "code": "B94.2",
+          "kind": "category",
+          "label": "Folgezustände der Virushepatitis",
+          "rubrics": {
+            "preferred": "Folgezustände der Virushepatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "B94.8",
+          "kind": "category",
+          "label": "Folgezustände sonstiger näher bezeichneter infektiöser und parasitärer Krankheiten",
+          "rubrics": {
+            "preferred": "Folgezustände sonstiger näher bezeichneter infektiöser und parasitärer Krankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "B94.9",
+          "kind": "category",
+          "label": "Folgezustände nicht näher bezeichneter infektiöser oder parasitärer Krankheit",
+          "rubrics": {
+            "preferred": "Folgezustände nicht näher bezeichneter infektiöser oder parasitärer Krankheit"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

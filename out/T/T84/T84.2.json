@@ -1,0 +1,32 @@
+{
+  "code": "T84.2",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an sonstigen Knochen",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an sonstigen Knochen",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch eine interne Osteosynthesevorrichtung an sonstigen Knochen"
+  },
+  "children": [
+    {
+      "code": "T84.20",
+      "kind": "category",
+      "label": "Wirbelsäule",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an sonstigen Knochen: Wirbelsäule",
+        "preferred": "Wirbelsäule"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.28",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Knochen",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an sonstigen Knochen: Sonstige näher bezeichnete Knochen",
+        "preferred": "Sonstige näher bezeichnete Knochen",
+        "inclusion": "Sternum"
+      },
+      "children": []
+    }
+  ]
+}

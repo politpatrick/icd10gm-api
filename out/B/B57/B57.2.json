@@ -1,0 +1,10 @@
+{
+  "code": "B57.2",
+  "kind": "category",
+  "label": "Chagas-Krankheit (chronisch) mit Herzbeteiligung",
+  "rubrics": {
+    "preferred": "Chagas-Krankheit (chronisch) mit Herzbeteiligung",
+    "inclusion": "Trypanosomiasis o.n.A., in Gebieten, in denen Chagas-Krankheit häufig vorkommt"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "O99.2",
+  "kind": "category",
+  "label": "Endokrine, Ernährungs- und Stoffwechselkrankheiten, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+  "rubrics": {
+    "preferred": "Endokrine, Ernährungs- und Stoffwechselkrankheiten, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+    "inclusion": "Krankheitszustände unter E00-E90",
+    "exclusion": "Postpartale ThyreoiditisO90.5"
+  },
+  "children": []
+}

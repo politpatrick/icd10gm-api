@@ -1,0 +1,10 @@
+{
+  "code": "S72.01",
+  "kind": "category",
+  "label": "Intrakapsulär",
+  "rubrics": {
+    "preferredLong": "Schenkelhalsfraktur: Intrakapsulär",
+    "preferred": "Intrakapsulär"
+  },
+  "children": []
+}

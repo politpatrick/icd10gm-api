@@ -1,0 +1,40 @@
+{
+  "code": "O45",
+  "kind": "category",
+  "label": "Vorzeitige Plazentalösung [Abruptio placentae]",
+  "rubrics": {
+    "preferred": "Vorzeitige Plazentalösung [Abruptio placentae]"
+  },
+  "children": [
+    {
+      "code": "O45.0",
+      "kind": "category",
+      "label": "Vorzeitige Plazentalösung bei Gerinnungsstörung",
+      "rubrics": {
+        "preferred": "Vorzeitige Plazentalösung bei Gerinnungsstörung",
+        "coding-hint": "Benutze eine zusätzliche Schlüsselnummer D65-D69, um die Art der Blutgerinnungsstörung anzugeben.",
+        "inclusion": "Abruptio [Ablatio] placentae mit (verstärkter) Blutung im Zusammenhang mit:\n\t\t\t\tHypofibrinogenämie"
+      },
+      "children": []
+    },
+    {
+      "code": "O45.8",
+      "kind": "category",
+      "label": "Sonstige vorzeitige Plazentalösung",
+      "rubrics": {
+        "preferred": "Sonstige vorzeitige Plazentalösung"
+      },
+      "children": []
+    },
+    {
+      "code": "O45.9",
+      "kind": "category",
+      "label": "Vorzeitige Plazentalösung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Vorzeitige Plazentalösung, nicht näher bezeichnet",
+        "inclusion": "Abruptio placentae o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

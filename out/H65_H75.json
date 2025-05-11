@@ -1,0 +1,544 @@
+{
+  "code": "H65-H75",
+  "kind": "block",
+  "label": "Krankheiten des Mittelohres und des Warzenfortsatzes",
+  "rubrics": {
+    "preferred": "Krankheiten des Mittelohres und des Warzenfortsatzes"
+  },
+  "children": [
+    {
+      "code": "H65",
+      "kind": "category",
+      "label": "Nichteitrige Otitis media",
+      "rubrics": {
+        "preferred": "Nichteitrige Otitis media",
+        "inclusion": "Mit Myringitis",
+        "coding-hint": "Soll das Vorliegen einer Trommelfellperforation angegeben werden, ist eine zusätzliche Schlüsselnummer (H72.-) zu benutzen."
+      },
+      "children": [
+        {
+          "code": "H65.0",
+          "kind": "category",
+          "label": "Akute seröse Otitis media",
+          "rubrics": {
+            "preferred": "Akute seröse Otitis media",
+            "inclusion": "Akute und subakute sezernierende Otitis media"
+          },
+          "children": []
+        },
+        {
+          "code": "H65.1",
+          "kind": "category",
+          "label": "Sonstige akute nichteitrige Otitis media",
+          "rubrics": {
+            "preferred": "Sonstige akute nichteitrige Otitis media",
+            "inclusion": "Otitis media, akut und subakut:\n\t\t\t\tseromukös",
+            "exclusion": "Otitis media (akut) o.n.A.H66.9"
+          },
+          "children": []
+        },
+        {
+          "code": "H65.2",
+          "kind": "category",
+          "label": "Chronische seröse Otitis media",
+          "rubrics": {
+            "preferred": "Chronische seröse Otitis media",
+            "inclusion": "Chronischer Tubenmittelohrkatarrh"
+          },
+          "children": []
+        },
+        {
+          "code": "H65.3",
+          "kind": "category",
+          "label": "Chronische muköse Otitis media",
+          "rubrics": {
+            "preferred": "Chronische muköse Otitis media",
+            "inclusion": "Otitis media, chronisch:\n\t\t\t\ttranssudativ",
+            "exclusion": "Adhäsivprozess nach Otitis mediaH74.1"
+          },
+          "children": []
+        },
+        {
+          "code": "H65.4",
+          "kind": "category",
+          "label": "Sonstige chronische nichteitrige Otitis media",
+          "rubrics": {
+            "preferred": "Sonstige chronische nichteitrige Otitis media",
+            "inclusion": "Otitis media, chronisch:\n\t\t\t\tseromukös"
+          },
+          "children": []
+        },
+        {
+          "code": "H65.9",
+          "kind": "category",
+          "label": "Nichteitrige Otitis media, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Nichteitrige Otitis media, nicht näher bezeichnet",
+            "inclusion": "Otitis media:\n\t\t\t\ttranssudativ"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H66",
+      "kind": "category",
+      "label": "Eitrige und nicht näher bezeichnete Otitis media",
+      "rubrics": {
+        "preferred": "Eitrige und nicht näher bezeichnete Otitis media",
+        "inclusion": "Mit Myringitis",
+        "coding-hint": "Soll das Vorliegen einer Trommelfellperforation angegeben werden, ist eine zusätzliche Schlüsselnummer (H72.-) zu benutzen."
+      },
+      "children": [
+        {
+          "code": "H66.0",
+          "kind": "category",
+          "label": "Akute eitrige Otitis media",
+          "rubrics": {
+            "preferred": "Akute eitrige Otitis media"
+          },
+          "children": []
+        },
+        {
+          "code": "H66.1",
+          "kind": "category",
+          "label": "Chronische mesotympanale eitrige Otitis media",
+          "rubrics": {
+            "preferred": "Chronische mesotympanale eitrige Otitis media",
+            "inclusion": "Chronische Tubenmittelohrkrankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "H66.2",
+          "kind": "category",
+          "label": "Chronische epitympanale Otitis media",
+          "rubrics": {
+            "preferred": "Chronische epitympanale Otitis media",
+            "inclusion": "Chronische Krankheit des Epitympanums"
+          },
+          "children": []
+        },
+        {
+          "code": "H66.3",
+          "kind": "category",
+          "label": "Sonstige chronische eitrige Otitis media",
+          "rubrics": {
+            "preferred": "Sonstige chronische eitrige Otitis media",
+            "inclusion": "Chronische eitrige Otitis media o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "H66.4",
+          "kind": "category",
+          "label": "Eitrige Otitis media, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Eitrige Otitis media, nicht näher bezeichnet",
+            "inclusion": "Purulente Otitis media o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "H66.9",
+          "kind": "category",
+          "label": "Otitis media, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Otitis media, nicht näher bezeichnet",
+            "inclusion": "Otitis media:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H67",
+      "kind": "category",
+      "label": "Otitis media bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Otitis media bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "H67.0",
+          "kind": "category",
+          "label": "Otitis media bei anderenorts klassifizierten bakteriellen Krankheiten",
+          "rubrics": {
+            "preferred": "Otitis media bei anderenorts klassifizierten bakteriellen Krankheiten",
+            "inclusion": "Otitis media bei:\n\t\t\t\tTuberkuloseA18.6"
+          },
+          "children": []
+        },
+        {
+          "code": "H67.1",
+          "kind": "category",
+          "label": "Otitis media bei anderenorts klassifizierten Viruskrankheiten",
+          "rubrics": {
+            "preferred": "Otitis media bei anderenorts klassifizierten Viruskrankheiten",
+            "inclusion": "Otitis media bei:\n\t\t\t\tMasernB05.3"
+          },
+          "children": []
+        },
+        {
+          "code": "H67.8",
+          "kind": "category",
+          "label": "Otitis media bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Otitis media bei sonstigen anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H68",
+      "kind": "category",
+      "label": "Entzündung und Verschluss der Tuba auditiva",
+      "rubrics": {
+        "preferred": "Entzündung und Verschluss der Tuba auditiva"
+      },
+      "children": [
+        {
+          "code": "H68.0",
+          "kind": "category",
+          "label": "Entzündung der Tuba auditiva",
+          "rubrics": {
+            "preferred": "Entzündung der Tuba auditiva"
+          },
+          "children": []
+        },
+        {
+          "code": "H68.1",
+          "kind": "category",
+          "label": "Verschluss der Tuba auditiva",
+          "rubrics": {
+            "preferred": "Verschluss der Tuba auditiva",
+            "inclusion": "Striktur\n\t\t\t\tTuba auditiva"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H69",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Tuba auditiva",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Tuba auditiva"
+      },
+      "children": [
+        {
+          "code": "H69.0",
+          "kind": "category",
+          "label": "Erweiterte Tuba auditiva",
+          "rubrics": {
+            "preferred": "Erweiterte Tuba auditiva",
+            "inclusion": "Klaffende Tube"
+          },
+          "children": []
+        },
+        {
+          "code": "H69.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten der Tuba auditiva",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten der Tuba auditiva"
+          },
+          "children": []
+        },
+        {
+          "code": "H69.9",
+          "kind": "category",
+          "label": "Krankheit der Tuba auditiva, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der Tuba auditiva, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H70",
+      "kind": "category",
+      "label": "Mastoiditis und verwandte Zustände",
+      "rubrics": {
+        "preferred": "Mastoiditis und verwandte Zustände"
+      },
+      "children": [
+        {
+          "code": "H70.0",
+          "kind": "category",
+          "label": "Akute Mastoiditis",
+          "rubrics": {
+            "preferred": "Akute Mastoiditis",
+            "inclusion": "Empyem\n\t\t\t\tWarzenfortsatz"
+          },
+          "children": []
+        },
+        {
+          "code": "H70.1",
+          "kind": "category",
+          "label": "Chronische Mastoiditis",
+          "rubrics": {
+            "preferred": "Chronische Mastoiditis",
+            "inclusion": "Karies\n\t\t\t\tWarzenfortsatz"
+          },
+          "children": []
+        },
+        {
+          "code": "H70.2",
+          "kind": "category",
+          "label": "Petrositis",
+          "rubrics": {
+            "preferred": "Petrositis",
+            "inclusion": "Entzündung des Felsenbeins (akut) (chronisch)"
+          },
+          "children": []
+        },
+        {
+          "code": "H70.8",
+          "kind": "category",
+          "label": "Sonstige Mastoiditis und verwandte Zustände",
+          "rubrics": {
+            "preferred": "Sonstige Mastoiditis und verwandte Zustände"
+          },
+          "children": []
+        },
+        {
+          "code": "H70.9",
+          "kind": "category",
+          "label": "Mastoiditis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Mastoiditis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H71",
+      "kind": "category",
+      "label": "Cholesteatom des Mittelohres",
+      "rubrics": {
+        "preferred": "Cholesteatom des Mittelohres",
+        "inclusion": "Cholesteatom im Cavum tympani",
+        "exclusion": "Rezidivierendes Cholesteatom in der Mastoidhöhle nach MastoidektomieH95.0"
+      },
+      "children": []
+    },
+    {
+      "code": "H72",
+      "kind": "category",
+      "label": "Trommelfellperforation",
+      "rubrics": {
+        "preferred": "Trommelfellperforation",
+        "inclusion": "Trommelfellperforation:\n\t\t\t\tpersistierend-posttraumatisch",
+        "exclusion": "Traumatische TrommelfellrupturS09.2"
+      },
+      "children": [
+        {
+          "code": "H72.0",
+          "kind": "category",
+          "label": "Zentrale Perforation des Trommelfells",
+          "rubrics": {
+            "preferred": "Zentrale Perforation des Trommelfells"
+          },
+          "children": []
+        },
+        {
+          "code": "H72.1",
+          "kind": "category",
+          "label": "Trommelfellperforation am Recessus epitympanicus",
+          "rubrics": {
+            "preferred": "Trommelfellperforation am Recessus epitympanicus",
+            "inclusion": "Perforation der Pars flaccida"
+          },
+          "children": []
+        },
+        {
+          "code": "H72.2",
+          "kind": "category",
+          "label": "Sonstige randständige Trommelfellperforationen",
+          "rubrics": {
+            "preferred": "Sonstige randständige Trommelfellperforationen"
+          },
+          "children": []
+        },
+        {
+          "code": "H72.8",
+          "kind": "category",
+          "label": "Sonstige Trommelfellperforationen",
+          "rubrics": {
+            "preferred": "Sonstige Trommelfellperforationen",
+            "inclusion": "Perforation:\n\t\t\t\ttotal\n\t\t\t\tTrommelfell"
+          },
+          "children": []
+        },
+        {
+          "code": "H72.9",
+          "kind": "category",
+          "label": "Trommelfellperforation, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Trommelfellperforation, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H73",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Trommelfells",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Trommelfells"
+      },
+      "children": [
+        {
+          "code": "H73.0",
+          "kind": "category",
+          "label": "Akute Myringitis",
+          "rubrics": {
+            "preferred": "Akute Myringitis",
+            "inclusion": "Bullöse Myringitis",
+            "exclusion": "Mit Otitis mediaH65-H66"
+          },
+          "children": []
+        },
+        {
+          "code": "H73.1",
+          "kind": "category",
+          "label": "Chronische Myringitis",
+          "rubrics": {
+            "preferred": "Chronische Myringitis",
+            "inclusion": "Chronische Tympanitis",
+            "exclusion": "Mit Otitis mediaH65-H66"
+          },
+          "children": []
+        },
+        {
+          "code": "H73.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Trommelfells",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Trommelfells"
+          },
+          "children": []
+        },
+        {
+          "code": "H73.9",
+          "kind": "category",
+          "label": "Krankheit des Trommelfells, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des Trommelfells, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H74",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Mittelohres und des Warzenfortsatzes",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Mittelohres und des Warzenfortsatzes"
+      },
+      "children": [
+        {
+          "code": "H74.0",
+          "kind": "category",
+          "label": "Tympanosklerose",
+          "rubrics": {
+            "preferred": "Tympanosklerose"
+          },
+          "children": []
+        },
+        {
+          "code": "H74.1",
+          "kind": "category",
+          "label": "Otitis media adhaesiva",
+          "rubrics": {
+            "preferred": "Otitis media adhaesiva",
+            "inclusion": "Adhäsivprozess nach Otitis media",
+            "exclusion": "LeimohrH65.3"
+          },
+          "children": []
+        },
+        {
+          "code": "H74.2",
+          "kind": "category",
+          "label": "Kontinuitätsunterbrechung oder Dislokation der Gehörknöchelchenkette",
+          "rubrics": {
+            "preferred": "Kontinuitätsunterbrechung oder Dislokation der Gehörknöchelchenkette"
+          },
+          "children": []
+        },
+        {
+          "code": "H74.3",
+          "kind": "category",
+          "label": "Sonstige erworbene Anomalien der Gehörknöchelchen",
+          "rubrics": {
+            "preferred": "Sonstige erworbene Anomalien der Gehörknöchelchen",
+            "inclusion": "Partieller Verlust\n\t\t\t\tGehörknöchelchen"
+          },
+          "children": []
+        },
+        {
+          "code": "H74.4",
+          "kind": "category",
+          "label": "Polyp im Mittelohr",
+          "rubrics": {
+            "preferred": "Polyp im Mittelohr"
+          },
+          "children": []
+        },
+        {
+          "code": "H74.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Mittelohres und des Warzenfortsatzes",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Mittelohres und des Warzenfortsatzes"
+          },
+          "children": []
+        },
+        {
+          "code": "H74.9",
+          "kind": "category",
+          "label": "Krankheit des Mittelohres und des Warzenfortsatzes, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des Mittelohres und des Warzenfortsatzes, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H75",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Mittelohres und des Warzenfortsatzes bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Mittelohres und des Warzenfortsatzes bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "H75.0",
+          "kind": "category",
+          "label": "Mastoiditis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+          "rubrics": {
+            "preferred": "Mastoiditis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+            "inclusion": "Tuberkulöse MastoiditisA18.0"
+          },
+          "children": []
+        },
+        {
+          "code": "H75.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Mittelohres und des Warzenfortsatzes bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Mittelohres und des Warzenfortsatzes bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

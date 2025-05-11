@@ -1,0 +1,468 @@
+{
+  "code": "H00-H06",
+  "kind": "block",
+  "label": "Affektionen des Augenlides, des Tränenapparates und der Orbita",
+  "rubrics": {
+    "preferred": "Affektionen des Augenlides, des Tränenapparates und der Orbita"
+  },
+  "children": [
+    {
+      "code": "H00",
+      "kind": "category",
+      "label": "Hordeolum und Chalazion",
+      "rubrics": {
+        "preferred": "Hordeolum und Chalazion"
+      },
+      "children": [
+        {
+          "code": "H00.0",
+          "kind": "category",
+          "label": "Hordeolum und sonstige tiefe Entzündung des Augenlides",
+          "rubrics": {
+            "preferred": "Hordeolum und sonstige tiefe Entzündung des Augenlides",
+            "inclusion": "Gerstenkorn\n\t\t\t\tAugenlid"
+          },
+          "children": []
+        },
+        {
+          "code": "H00.1",
+          "kind": "category",
+          "label": "Chalazion",
+          "rubrics": {
+            "preferred": "Chalazion",
+            "inclusion": "Hagelkorn"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H01",
+      "kind": "category",
+      "label": "Sonstige Entzündung des Augenlides",
+      "rubrics": {
+        "preferred": "Sonstige Entzündung des Augenlides"
+      },
+      "children": [
+        {
+          "code": "H01.0",
+          "kind": "category",
+          "label": "Blepharitis",
+          "rubrics": {
+            "preferred": "Blepharitis",
+            "exclusion": "BlepharokonjunktivitisH10.5"
+          },
+          "children": []
+        },
+        {
+          "code": "H01.1",
+          "kind": "category",
+          "label": "Nichtinfektiöse Dermatosen des Augenlides",
+          "rubrics": {
+            "preferred": "Nichtinfektiöse Dermatosen des Augenlides",
+            "inclusion": "Xeroderma\n\t\t\t\tAugenlid"
+          },
+          "children": []
+        },
+        {
+          "code": "H01.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Entzündungen des Augenlides",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Entzündungen des Augenlides"
+          },
+          "children": []
+        },
+        {
+          "code": "H01.9",
+          "kind": "category",
+          "label": "Entzündung des Augenlides, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Entzündung des Augenlides, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H02",
+      "kind": "category",
+      "label": "Sonstige Affektionen des Augenlides",
+      "rubrics": {
+        "preferred": "Sonstige Affektionen des Augenlides",
+        "exclusion": "Angeborene Fehlbildungen des AugenlidesQ10.0-Q10.3"
+      },
+      "children": [
+        {
+          "code": "H02.0",
+          "kind": "category",
+          "label": "Entropium und Trichiasis des Augenlides",
+          "rubrics": {
+            "preferred": "Entropium und Trichiasis des Augenlides"
+          },
+          "children": []
+        },
+        {
+          "code": "H02.1",
+          "kind": "category",
+          "label": "Ektropium des Augenlides",
+          "rubrics": {
+            "preferred": "Ektropium des Augenlides"
+          },
+          "children": []
+        },
+        {
+          "code": "H02.2",
+          "kind": "category",
+          "label": "Lagophthalmus",
+          "rubrics": {
+            "preferred": "Lagophthalmus"
+          },
+          "children": []
+        },
+        {
+          "code": "H02.3",
+          "kind": "category",
+          "label": "Blepharochalasis",
+          "rubrics": {
+            "preferred": "Blepharochalasis"
+          },
+          "children": []
+        },
+        {
+          "code": "H02.4",
+          "kind": "category",
+          "label": "Ptosis des Augenlides",
+          "rubrics": {
+            "preferred": "Ptosis des Augenlides"
+          },
+          "children": []
+        },
+        {
+          "code": "H02.5",
+          "kind": "category",
+          "label": "Sonstige Affektionen mit Auswirkung auf die Augenlidfunktion",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen mit Auswirkung auf die Augenlidfunktion",
+            "inclusion": "Lidretraktion",
+            "exclusion": "Tic (-Störung):\n\t\t\t\tpsychogenF95.-"
+          },
+          "children": []
+        },
+        {
+          "code": "H02.6",
+          "kind": "category",
+          "label": "Xanthelasma palpebrarum",
+          "rubrics": {
+            "preferred": "Xanthelasma palpebrarum"
+          },
+          "children": []
+        },
+        {
+          "code": "H02.7",
+          "kind": "category",
+          "label": "Sonstige degenerative Affektionen des Augenlides und der Umgebung des Auges",
+          "rubrics": {
+            "preferred": "Sonstige degenerative Affektionen des Augenlides und der Umgebung des Auges",
+            "inclusion": "Vitiligo\n\t\t\t\tAugenlid"
+          },
+          "children": []
+        },
+        {
+          "code": "H02.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Affektionen des Augenlides",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Affektionen des Augenlides",
+            "inclusion": "Verbliebener Fremdkörper im Augenlid"
+          },
+          "children": []
+        },
+        {
+          "code": "H02.9",
+          "kind": "category",
+          "label": "Affektion des Augenlides, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Affektion des Augenlides, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H03",
+      "kind": "category",
+      "label": "Affektionen des Augenlides bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Affektionen des Augenlides bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "H03.0",
+          "kind": "category",
+          "label": "Parasitenbefall des Augenlides bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Parasitenbefall des Augenlides bei anderenorts klassifizierten Krankheiten",
+            "inclusion": "Parasitenbefall des Augenlides bei:\n\t\t\t\tPhthiriasisB85.3"
+          },
+          "children": []
+        },
+        {
+          "code": "H03.1",
+          "kind": "category",
+          "label": "Beteiligung des Augenlides bei sonstigen anderenorts klassifizierten Infektionskrankheiten",
+          "rubrics": {
+            "preferred": "Beteiligung des Augenlides bei sonstigen anderenorts klassifizierten Infektionskrankheiten",
+            "inclusion": "Beteiligung des Augenlides bei:\n\t\t\t\tZosterB02.3"
+          },
+          "children": []
+        },
+        {
+          "code": "H03.8",
+          "kind": "category",
+          "label": "Beteiligung des Augenlides bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Beteiligung des Augenlides bei sonstigen anderenorts klassifizierten Krankheiten",
+            "inclusion": "Beteiligung des Augenlides bei ImpetigoL01.0"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H04",
+      "kind": "category",
+      "label": "Affektionen des Tränenapparates",
+      "rubrics": {
+        "preferred": "Affektionen des Tränenapparates",
+        "exclusion": "Angeborene Fehlbildungen des TränenapparatesQ10.4-Q10.6"
+      },
+      "children": [
+        {
+          "code": "H04.0",
+          "kind": "category",
+          "label": "Dakryoadenitis",
+          "rubrics": {
+            "preferred": "Dakryoadenitis",
+            "inclusion": "Chronische Vergrößerung der Tränendrüse"
+          },
+          "children": []
+        },
+        {
+          "code": "H04.1",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Tränendrüse",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Tränendrüse",
+            "inclusion": "Zyste"
+          },
+          "children": []
+        },
+        {
+          "code": "H04.2",
+          "kind": "category",
+          "label": "Epiphora",
+          "rubrics": {
+            "preferred": "Epiphora"
+          },
+          "children": []
+        },
+        {
+          "code": "H04.3",
+          "kind": "category",
+          "label": "Akute und nicht näher bezeichnete Entzündung der Tränenwege",
+          "rubrics": {
+            "preferred": "Akute und nicht näher bezeichnete Entzündung der Tränenwege",
+            "inclusion": "Peridakryozystitis\n\t\t\t\takut, subakut oder nicht näher bezeichnet",
+            "exclusion": "Dakryozystitis beim NeugeborenenP39.1"
+          },
+          "children": []
+        },
+        {
+          "code": "H04.4",
+          "kind": "category",
+          "label": "Chronische Entzündung der Tränenwege",
+          "rubrics": {
+            "preferred": "Chronische Entzündung der Tränenwege",
+            "inclusion": "Mukozele des Tränenapparates\n\t\t\t\tchronisch"
+          },
+          "children": []
+        },
+        {
+          "code": "H04.5",
+          "kind": "category",
+          "label": "Stenose und Insuffizienz der Tränenwege",
+          "rubrics": {
+            "preferred": "Stenose und Insuffizienz der Tränenwege",
+            "inclusion": "Stenose:\n\t\t\t\tTränensack"
+          },
+          "children": []
+        },
+        {
+          "code": "H04.6",
+          "kind": "category",
+          "label": "Sonstige Veränderungen an den Tränenwegen",
+          "rubrics": {
+            "preferred": "Sonstige Veränderungen an den Tränenwegen",
+            "inclusion": "Fistel"
+          },
+          "children": []
+        },
+        {
+          "code": "H04.8",
+          "kind": "category",
+          "label": "Sonstige Affektionen des Tränenapparates",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen des Tränenapparates"
+          },
+          "children": []
+        },
+        {
+          "code": "H04.9",
+          "kind": "category",
+          "label": "Affektion des Tränenapparates, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Affektion des Tränenapparates, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H05",
+      "kind": "category",
+      "label": "Affektionen der Orbita",
+      "rubrics": {
+        "preferred": "Affektionen der Orbita",
+        "exclusion": "Angeborene Fehlbildung der OrbitaQ10.7"
+      },
+      "children": [
+        {
+          "code": "H05.0",
+          "kind": "category",
+          "label": "Akute Entzündung der Orbita",
+          "rubrics": {
+            "preferred": "Akute Entzündung der Orbita",
+            "inclusion": "Tenonitis"
+          },
+          "children": []
+        },
+        {
+          "code": "H05.1",
+          "kind": "category",
+          "label": "Chronische entzündliche Affektionen der Orbita",
+          "rubrics": {
+            "preferred": "Chronische entzündliche Affektionen der Orbita",
+            "inclusion": "Granulom der Orbita"
+          },
+          "children": []
+        },
+        {
+          "code": "H05.2",
+          "kind": "category",
+          "label": "Exophthalmus",
+          "rubrics": {
+            "preferred": "Exophthalmus",
+            "inclusion": "Lageveränderung des Augapfels (lateral) o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "H05.3",
+          "kind": "category",
+          "label": "Deformation der Orbita",
+          "rubrics": {
+            "preferred": "Deformation der Orbita",
+            "inclusion": "Exostose\n\t\t\t\tOrbita"
+          },
+          "children": []
+        },
+        {
+          "code": "H05.4",
+          "kind": "category",
+          "label": "Enophthalmus",
+          "rubrics": {
+            "preferred": "Enophthalmus"
+          },
+          "children": []
+        },
+        {
+          "code": "H05.5",
+          "kind": "category",
+          "label": "Verbliebener (alter) Fremdkörper nach perforierender Verletzung der Orbita",
+          "rubrics": {
+            "preferred": "Verbliebener (alter) Fremdkörper nach perforierender Verletzung der Orbita",
+            "inclusion": "Retrobulbärer Fremdkörper"
+          },
+          "children": []
+        },
+        {
+          "code": "H05.8",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Orbita",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Orbita",
+            "inclusion": "Zyste der Orbita"
+          },
+          "children": []
+        },
+        {
+          "code": "H05.9",
+          "kind": "category",
+          "label": "Affektion der Orbita, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Affektion der Orbita, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "H06",
+      "kind": "category",
+      "label": "Affektionen des Tränenapparates und der Orbita bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Affektionen des Tränenapparates und der Orbita bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "H06.0",
+          "kind": "category",
+          "label": "Affektionen des Tränenapparates bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Affektionen des Tränenapparates bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "H06.1",
+          "kind": "category",
+          "label": "Parasitenbefall der Orbita bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Parasitenbefall der Orbita bei anderenorts klassifizierten Krankheiten",
+            "inclusion": "Myiasis der OrbitaB87.2"
+          },
+          "children": []
+        },
+        {
+          "code": "H06.2",
+          "kind": "category",
+          "label": "Exophthalmus bei Funktionsstörung der SchilddrüseE05.-",
+          "rubrics": {
+            "preferred": "Exophthalmus bei Funktionsstörung der SchilddrüseE05.-"
+          },
+          "children": []
+        },
+        {
+          "code": "H06.3",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Orbita bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Orbita bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

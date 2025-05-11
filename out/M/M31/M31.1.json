@@ -1,0 +1,10 @@
+{
+  "code": "M31.1",
+  "kind": "category",
+  "label": "Thrombotische Mikroangiopathie",
+  "rubrics": {
+    "preferred": "Thrombotische Mikroangiopathie",
+    "inclusion": "Thrombotische thrombozytopenische Purpura [Moschcowitz]"
+  },
+  "children": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "H01",
+  "kind": "category",
+  "label": "Sonstige Entzündung des Augenlides",
+  "rubrics": {
+    "preferred": "Sonstige Entzündung des Augenlides"
+  },
+  "children": [
+    {
+      "code": "H01.0",
+      "kind": "category",
+      "label": "Blepharitis",
+      "rubrics": {
+        "preferred": "Blepharitis",
+        "exclusion": "BlepharokonjunktivitisH10.5"
+      },
+      "children": []
+    },
+    {
+      "code": "H01.1",
+      "kind": "category",
+      "label": "Nichtinfektiöse Dermatosen des Augenlides",
+      "rubrics": {
+        "preferred": "Nichtinfektiöse Dermatosen des Augenlides",
+        "inclusion": "Xeroderma\n\t\t\t\tAugenlid"
+      },
+      "children": []
+    },
+    {
+      "code": "H01.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Entzündungen des Augenlides",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Entzündungen des Augenlides"
+      },
+      "children": []
+    },
+    {
+      "code": "H01.9",
+      "kind": "category",
+      "label": "Entzündung des Augenlides, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Entzündung des Augenlides, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

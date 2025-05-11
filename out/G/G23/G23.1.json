@@ -1,0 +1,10 @@
+{
+  "code": "G23.1",
+  "kind": "category",
+  "label": "Progressive supranukleäre Ophthalmoplegie [Steele-Richardson-Olszewski-Syndrom]",
+  "rubrics": {
+    "preferred": "Progressive supranukleäre Ophthalmoplegie [Steele-Richardson-Olszewski-Syndrom]",
+    "inclusion": "Progressive supranukleäre Parese"
+  },
+  "children": []
+}

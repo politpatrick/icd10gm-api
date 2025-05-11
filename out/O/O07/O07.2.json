@@ -1,0 +1,10 @@
+{
+  "code": "O07.2",
+  "kind": "category",
+  "label": "Misslungene ärztliche Aborteinleitung, kompliziert durch Embolie",
+  "rubrics": {
+    "preferred": "Misslungene ärztliche Aborteinleitung, kompliziert durch Embolie",
+    "inclusion": "Mit Zuständen, die unter O08.2 aufgeführt sind"
+  },
+  "children": []
+}

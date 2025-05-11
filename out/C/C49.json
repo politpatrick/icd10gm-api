@@ -1,0 +1,111 @@
+{
+  "code": "C49",
+  "kind": "category",
+  "label": "Bösartige Neubildung sonstigen Bindegewebes und anderer Weichteilgewebe",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung sonstigen Bindegewebes und anderer Weichteilgewebe",
+    "inclusion": "Synovialmembran",
+    "exclusion": "RetroperitoneumC48.0"
+  },
+  "children": [
+    {
+      "code": "C49.0",
+      "kind": "category",
+      "label": "Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses",
+        "preferred": "Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses",
+        "inclusion": "Bindegewebe:\n\t\t\t\tOhr",
+        "exclusion": "Bindegewebe der OrbitaC69.6"
+      },
+      "children": []
+    },
+    {
+      "code": "C49.1",
+      "kind": "category",
+      "label": "Bindegewebe und andere Weichteilgewebe der oberen Extremität, einschließlich Schulter",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe der oberen Extremität, einschließlich Schulter",
+        "preferred": "Bindegewebe und andere Weichteilgewebe der oberen Extremität, einschließlich Schulter"
+      },
+      "children": []
+    },
+    {
+      "code": "C49.2",
+      "kind": "category",
+      "label": "Bindegewebe und andere Weichteilgewebe der unteren Extremität, einschließlich Hüfte",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe der unteren Extremität, einschließlich Hüfte",
+        "preferred": "Bindegewebe und andere Weichteilgewebe der unteren Extremität, einschließlich Hüfte"
+      },
+      "children": []
+    },
+    {
+      "code": "C49.3",
+      "kind": "category",
+      "label": "Bindegewebe und andere Weichteilgewebe des Thorax",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Thorax",
+        "preferred": "Bindegewebe und andere Weichteilgewebe des Thorax",
+        "inclusion": "Zwerchfell",
+        "exclusion": "ThymusC37"
+      },
+      "children": []
+    },
+    {
+      "code": "C49.4",
+      "kind": "category",
+      "label": "Bindegewebe und andere Weichteilgewebe des Abdomens",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Abdomens",
+        "preferred": "Bindegewebe und andere Weichteilgewebe des Abdomens",
+        "inclusion": "Hypochondrium"
+      },
+      "children": []
+    },
+    {
+      "code": "C49.5",
+      "kind": "category",
+      "label": "Bindegewebe und andere Weichteilgewebe des Beckens",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Beckens",
+        "preferred": "Bindegewebe und andere Weichteilgewebe des Beckens",
+        "inclusion": "Leistengegend"
+      },
+      "children": []
+    },
+    {
+      "code": "C49.6",
+      "kind": "category",
+      "label": "Bindegewebe und andere Weichteilgewebe des Rumpfes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Rumpfes, nicht näher bezeichnet",
+        "preferred": "Bindegewebe und andere Weichteilgewebe des Rumpfes, nicht näher bezeichnet",
+        "inclusion": "Rücken o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "C49.8",
+      "kind": "category",
+      "label": "Bindegewebe und andere Weichteilgewebe, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe, mehrere Teilbereiche überlappend",
+        "preferred": "Bindegewebe und andere Weichteilgewebe, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]",
+        "inclusion": "Bösartige Neubildung des Bindegewebes und anderer Weichteilgewebe, deren Ursprungsort nicht unter den Kategorien C47-C49.6 klassifiziert werden kann"
+      },
+      "children": []
+    },
+    {
+      "code": "C49.9",
+      "kind": "category",
+      "label": "Bindegewebe und andere Weichteilgewebe, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe, nicht näher bezeichnet",
+        "preferred": "Bindegewebe und andere Weichteilgewebe, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

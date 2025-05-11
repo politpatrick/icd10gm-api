@@ -1,0 +1,44 @@
+{
+  "code": "J02",
+  "kind": "category",
+  "label": "Akute Pharyngitis",
+  "rubrics": {
+    "preferred": "Akute Pharyngitis",
+    "inclusion": "Akute Halsentzündung",
+    "exclusion": "Chronische PharyngitisJ31.2"
+  },
+  "children": [
+    {
+      "code": "J02.0",
+      "kind": "category",
+      "label": "Streptokokken-Pharyngitis",
+      "rubrics": {
+        "preferred": "Streptokokken-Pharyngitis",
+        "inclusion": "Rachenentzündung durch Streptokokken",
+        "exclusion": "ScharlachA38"
+      },
+      "children": []
+    },
+    {
+      "code": "J02.8",
+      "kind": "category",
+      "label": "Akute Pharyngitis durch sonstige näher bezeichnete Erreger",
+      "rubrics": {
+        "preferred": "Akute Pharyngitis durch sonstige näher bezeichnete Erreger",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+        "exclusion": "Vesikuläre PharyngitisB08.5"
+      },
+      "children": []
+    },
+    {
+      "code": "J02.9",
+      "kind": "category",
+      "label": "Akute Pharyngitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Akute Pharyngitis, nicht näher bezeichnet",
+        "inclusion": "Rachenentzündung (akut) o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "C96.2",
+  "kind": "category",
+  "label": "Bösartiger Mastzelltumor",
+  "rubrics": {
+    "preferred": "Bösartiger Mastzelltumor",
+    "inclusion": "Mastzellsarkom",
+    "exclusion": "MastzellenleukämieC94.3-"
+  },
+  "children": []
+}

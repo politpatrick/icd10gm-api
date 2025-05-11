@@ -1,0 +1,11 @@
+{
+  "code": "C11.3",
+  "kind": "category",
+  "label": "Vorderwand des Nasopharynx",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Vorderwand des Nasopharynx",
+    "preferred": "Vorderwand des Nasopharynx",
+    "inclusion": "Nasopharyngeale (anteriore) (posteriore) Fläche des weichen Gaumens"
+  },
+  "children": []
+}

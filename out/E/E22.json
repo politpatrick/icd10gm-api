@@ -1,0 +1,60 @@
+{
+  "code": "E22",
+  "kind": "category",
+  "label": "Überfunktion der Hypophyse",
+  "rubrics": {
+    "preferred": "Überfunktion der Hypophyse",
+    "exclusion": "Überproduktion von:\n\t\t\t\tThyreotropinE05.8"
+  },
+  "children": [
+    {
+      "code": "E22.0",
+      "kind": "category",
+      "label": "Akromegalie und hypophysärer Hochwuchs",
+      "rubrics": {
+        "preferred": "Akromegalie und hypophysärer Hochwuchs",
+        "inclusion": "Überproduktion von Somatotropin [Wachstumshormon]",
+        "exclusion": "Konstitutioneller HochwuchsE34.4"
+      },
+      "children": []
+    },
+    {
+      "code": "E22.1",
+      "kind": "category",
+      "label": "Hyperprolaktinämie",
+      "rubrics": {
+        "preferred": "Hyperprolaktinämie",
+        "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "E22.2",
+      "kind": "category",
+      "label": "Syndrom der inadäquaten Sekretion von Adiuretin",
+      "rubrics": {
+        "preferred": "Syndrom der inadäquaten Sekretion von Adiuretin"
+      },
+      "children": []
+    },
+    {
+      "code": "E22.8",
+      "kind": "category",
+      "label": "Sonstige Überfunktion der Hypophyse",
+      "rubrics": {
+        "preferred": "Sonstige Überfunktion der Hypophyse",
+        "inclusion": "Zentral ausgelöste Pubertas praecox"
+      },
+      "children": []
+    },
+    {
+      "code": "E22.9",
+      "kind": "category",
+      "label": "Überfunktion der Hypophyse, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Überfunktion der Hypophyse, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

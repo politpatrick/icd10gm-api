@@ -1,0 +1,11 @@
+{
+  "code": "S02.41",
+  "kind": "category",
+  "label": "Arcus zygomaticus des Jochbeins",
+  "rubrics": {
+    "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Arcus zygomaticus des Jochbeins",
+    "preferred": "Arcus zygomaticus des Jochbeins",
+    "inclusion": "Jochbogen"
+  },
+  "children": []
+}

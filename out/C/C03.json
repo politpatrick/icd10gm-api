@@ -1,0 +1,42 @@
+{
+  "code": "C03",
+  "kind": "category",
+  "label": "Bösartige Neubildung des Zahnfleisches",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung des Zahnfleisches",
+    "inclusion": "Gingiva",
+    "exclusion": "Bösartige odontogene NeubildungenC41.02-C41.1"
+  },
+  "children": [
+    {
+      "code": "C03.0",
+      "kind": "category",
+      "label": "Oberkieferzahnfleisch",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Oberkieferzahnfleisch",
+        "preferred": "Oberkieferzahnfleisch"
+      },
+      "children": []
+    },
+    {
+      "code": "C03.1",
+      "kind": "category",
+      "label": "Unterkieferzahnfleisch",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Unterkieferzahnfleisch",
+        "preferred": "Unterkieferzahnfleisch"
+      },
+      "children": []
+    },
+    {
+      "code": "C03.9",
+      "kind": "category",
+      "label": "Zahnfleisch, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Zahnfleisch, nicht näher bezeichnet",
+        "preferred": "Zahnfleisch, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

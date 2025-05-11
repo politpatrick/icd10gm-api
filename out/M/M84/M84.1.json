@@ -1,0 +1,10 @@
+{
+  "code": "M84.1",
+  "kind": "category",
+  "label": "Nichtvereinigung der Frakturenden [Pseudarthrose]",
+  "rubrics": {
+    "preferred": "Nichtvereinigung der Frakturenden [Pseudarthrose]",
+    "exclusion": "Pseudarthrose nach Fusion oder ArthrodeseM96.0"
+  },
+  "children": []
+}

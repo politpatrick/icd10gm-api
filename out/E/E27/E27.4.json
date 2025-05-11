@@ -1,0 +1,11 @@
+{
+  "code": "E27.4",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Nebennierenrindeninsuffizienz",
+  "rubrics": {
+    "preferred": "Sonstige und nicht näher bezeichnete Nebennierenrindeninsuffizienz",
+    "inclusion": "Nebennierenrindeninsuffizienz o.n.A.",
+    "exclusion": "Waterhouse-Friderichsen-SyndromA39.1"
+  },
+  "children": []
+}

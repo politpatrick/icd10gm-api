@@ -1,0 +1,72 @@
+{
+  "code": "E10-E14",
+  "kind": "block",
+  "label": "Diabetes mellitus",
+  "rubrics": {
+    "preferred": "Diabetes mellitus",
+    "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": [
+    {
+      "code": "E10",
+      "kind": "category",
+      "label": "Diabetes mellitus, Typ 1",
+      "rubrics": {
+        "preferred": "Diabetes mellitus, Typ 1",
+        "modifierlink": "[4. und 5. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Diabetes mellitus:\n\t\t\t\tmit Ketoseneigung",
+        "exclusion": "Postoperative Hypoinsulinämie, außer pankreopriver Diabetes mellitusE89.1",
+        "coding-hint": "Soll das Vorliegen einer Insulinresistenz bei Diabetes mellitus, Typ 1, bei Personen von 18 Jahren und älter angegeben werden, ist eine zusätzliche SchlüsselnummerU69.75 zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "E11",
+      "kind": "category",
+      "label": "Diabetes mellitus, Typ 2",
+      "rubrics": {
+        "preferred": "Diabetes mellitus, Typ 2",
+        "modifierlink": "[4. und 5. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Typ-2-Diabetes unter Insulinbehandlung",
+        "exclusion": "Postoperative Hypoinsulinämie, außer pankreopriver Diabetes mellitusE89.1"
+      },
+      "children": []
+    },
+    {
+      "code": "E12",
+      "kind": "category",
+      "label": "Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition]",
+      "rubrics": {
+        "preferred": "Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition]",
+        "modifierlink": "[4. und 5. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition]:\n\t\t\t\tTyp 2",
+        "exclusion": "Postoperative Hypoinsulinämie, außer pankreopriver Diabetes mellitusE89.1"
+      },
+      "children": []
+    },
+    {
+      "code": "E13",
+      "kind": "category",
+      "label": "Sonstiger näher bezeichneter Diabetes mellitus",
+      "rubrics": {
+        "preferred": "Sonstiger näher bezeichneter Diabetes mellitus",
+        "modifierlink": "[4. und 5. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Pankreopriver Diabetes mellitus",
+        "exclusion": "Postoperative Hypoinsulinämie, außer pankreopriver Diabetes mellitusE89.1"
+      },
+      "children": []
+    },
+    {
+      "code": "E14",
+      "kind": "category",
+      "label": "Nicht näher bezeichneter Diabetes mellitus",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichneter Diabetes mellitus",
+        "modifierlink": "[4. und 5. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Diabetes mellitus o.n.A.",
+        "exclusion": "Postoperative Hypoinsulinämie, außer pankreopriver Diabetes mellitusE89.1"
+      },
+      "children": []
+    }
+  ]
+}

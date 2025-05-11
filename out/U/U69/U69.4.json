@@ -1,0 +1,20 @@
+{
+  "code": "U69.4",
+  "kind": "category",
+  "label": "Sekundäre Schlüsselnummern für die Spezifizierung von Infektionen",
+  "rubrics": {
+    "preferred": "Sekundäre Schlüsselnummern für die Spezifizierung von Infektionen"
+  },
+  "children": [
+    {
+      "code": "U69.40",
+      "kind": "category",
+      "label": "Rekurrente Infektion mit Clostridium difficile",
+      "rubrics": {
+        "preferred": "Rekurrente Infektion mit Clostridium difficile",
+        "definition": "Die Schlüsselnummer dient der Spezifizierung einer Infektion mit Clostridium difficile als rekurrente Infektion. Der jeweilige Zeitraum, in dem eine wieder aufgetretene Infektion als rekurrent zu bezeichnen ist, richtet sich nach den Empfehlungen des Robert Koch-Instituts (RKI)."
+      },
+      "children": []
+    }
+  ]
+}

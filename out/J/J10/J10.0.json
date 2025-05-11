@@ -1,0 +1,11 @@
+{
+  "code": "J10.0",
+  "kind": "category",
+  "label": "Grippe mit Pneumonie, saisonale Influenzaviren nachgewiesen",
+  "rubrics": {
+    "preferred": "Grippe mit Pneumonie, saisonale Influenzaviren nachgewiesen",
+    "inclusion": "Grippe(broncho)pneumonie, saisonale Influenzaviren nachgewiesen",
+    "coding-hint": "Benutze für Zwecke der externen Qualitätssicherung nach § 137 SGB V eine zusätzliche Schlüsselnummer U69.01U69.04, um den zeitlichen Bezug einer vollstationär behandelten Pneumonie bei erwachsenen Personen (18 Jahre und älter) zur stationären Krankenhausaufnahme anzugeben."
+  },
+  "children": []
+}

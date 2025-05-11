@@ -1,0 +1,10 @@
+{
+  "code": "Z83.2",
+  "kind": "category",
+  "label": "Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems in der Familienanamnese",
+  "rubrics": {
+    "preferred": "Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems in der Familienanamnese",
+    "inclusion": "Zustände, klassifizierbar unter D50-D89"
+  },
+  "children": []
+}

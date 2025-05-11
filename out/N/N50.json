@@ -1,0 +1,49 @@
+{
+  "code": "N50",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der männlichen Genitalorgane",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der männlichen Genitalorgane",
+    "exclusion": "HydatidentorsionN44.1"
+  },
+  "children": [
+    {
+      "code": "N50.0",
+      "kind": "category",
+      "label": "Hodenatrophie",
+      "rubrics": {
+        "preferred": "Hodenatrophie"
+      },
+      "children": []
+    },
+    {
+      "code": "N50.1",
+      "kind": "category",
+      "label": "Gefäßkrankheiten der männlichen Genitalorgane",
+      "rubrics": {
+        "preferred": "Gefäßkrankheiten der männlichen Genitalorgane",
+        "inclusion": "Thrombose\n\t\t\t\tmännliche Genitalorgane"
+      },
+      "children": []
+    },
+    {
+      "code": "N50.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten der männlichen Genitalorgane",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten der männlichen Genitalorgane",
+        "inclusion": "Striktur:\n\t\t\t\tTunica vaginalis testis"
+      },
+      "children": []
+    },
+    {
+      "code": "N50.9",
+      "kind": "category",
+      "label": "Krankheit der männlichen Genitalorgane, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit der männlichen Genitalorgane, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

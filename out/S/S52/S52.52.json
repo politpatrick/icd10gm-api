@@ -1,0 +1,11 @@
+{
+  "code": "S52.52",
+  "kind": "category",
+  "label": "Flexionsfraktur",
+  "rubrics": {
+    "preferredLong": "Distale Fraktur des Radius: Flexionsfraktur",
+    "preferred": "Flexionsfraktur",
+    "inclusion": "Smith-Fraktur"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "M92.1",
+  "kind": "category",
+  "label": "Juvenile Osteochondrose des Radius und der Ulna",
+  "rubrics": {
+    "preferred": "Juvenile Osteochondrose des Radius und der Ulna",
+    "inclusion": "Osteochondrose (juvenile):\n\t\t\t\tdistale Ulnaepiphyse [Burns-Krankheit]"
+  },
+  "children": []
+}

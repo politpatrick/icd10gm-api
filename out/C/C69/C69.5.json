@@ -1,0 +1,11 @@
+{
+  "code": "C69.5",
+  "kind": "category",
+  "label": "Tränendrüse und Tränenwege",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Tränendrüse und Tränenwege",
+    "preferred": "Tränendrüse und Tränenwege",
+    "inclusion": "Tränensack"
+  },
+  "children": []
+}

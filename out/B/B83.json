@@ -1,0 +1,82 @@
+{
+  "code": "B83",
+  "kind": "category",
+  "label": "Sonstige Helminthosen",
+  "rubrics": {
+    "preferred": "Sonstige Helminthosen",
+    "exclusion": "Kapillariasis:\n\t\t\t\to.n.A.B81.1"
+  },
+  "children": [
+    {
+      "code": "B83.0",
+      "kind": "category",
+      "label": "Larva migrans visceralis",
+      "rubrics": {
+        "preferred": "Larva migrans visceralis",
+        "inclusion": "Toxokariasis"
+      },
+      "children": []
+    },
+    {
+      "code": "B83.1",
+      "kind": "category",
+      "label": "Gnathostomiasis",
+      "rubrics": {
+        "preferred": "Gnathostomiasis"
+      },
+      "children": []
+    },
+    {
+      "code": "B83.2",
+      "kind": "category",
+      "label": "Angiostrongyliasis durch Parastrongylus cantonensis",
+      "rubrics": {
+        "preferred": "Angiostrongyliasis durch Parastrongylus cantonensis",
+        "inclusion": "Eosinophile MeningoenzephalitisG05.2",
+        "exclusion": "Intestinale AngiostrongyliasisB81.3"
+      },
+      "children": []
+    },
+    {
+      "code": "B83.3",
+      "kind": "category",
+      "label": "Syngamiasis",
+      "rubrics": {
+        "preferred": "Syngamiasis",
+        "inclusion": "Syngamosis"
+      },
+      "children": []
+    },
+    {
+      "code": "B83.4",
+      "kind": "category",
+      "label": "Hirudiniasis interna",
+      "rubrics": {
+        "preferred": "Hirudiniasis interna",
+        "exclusion": "Hirudiniasis externaB88.3"
+      },
+      "children": []
+    },
+    {
+      "code": "B83.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Helminthosen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Helminthosen",
+        "inclusion": "Thelaziasis"
+      },
+      "children": []
+    },
+    {
+      "code": "B83.9",
+      "kind": "category",
+      "label": "Helminthose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Helminthose, nicht näher bezeichnet",
+        "inclusion": "Würmer o.n.A.",
+        "exclusion": "Intestinale Helminthose o.n.A.B82.0"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "F25.0",
+  "kind": "category",
+  "label": "Schizoaffektive Störung, gegenwärtig manisch",
+  "rubrics": {
+    "preferred": "Schizoaffektive Störung, gegenwärtig manisch",
+    "definition": "Eine Störung, bei der sowohl schizophrene als auch manische Symptome vorliegen und deshalb weder die Diagnose einer Schizophrenie noch einer manischen Episode gerechtfertigt ist. Diese Kategorie ist sowohl für einzelne Episoden als auch für rezidivierende Störungen zu verwenden, bei denen die Mehrzahl der Episoden schizomanisch ist.",
+    "inclusion": "Schizophreniforme Psychose, manischer Typ"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "A02.0",
+  "kind": "category",
+  "label": "Salmonellenenteritis",
+  "rubrics": {
+    "preferred": "Salmonellenenteritis",
+    "inclusion": "Enteritis infectiosa durch Salmonellen"
+  },
+  "children": []
+}

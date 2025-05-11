@@ -1,0 +1,48 @@
+{
+  "code": "P27",
+  "kind": "category",
+  "label": "Chronische Atemwegskrankheit mit Ursprung in der Perinatalperiode",
+  "rubrics": {
+    "preferred": "Chronische Atemwegskrankheit mit Ursprung in der Perinatalperiode"
+  },
+  "children": [
+    {
+      "code": "P27.0",
+      "kind": "category",
+      "label": "Mikity-Wilson-Syndrom",
+      "rubrics": {
+        "preferred": "Mikity-Wilson-Syndrom",
+        "inclusion": "Pulmonale Dysmaturität"
+      },
+      "children": []
+    },
+    {
+      "code": "P27.1",
+      "kind": "category",
+      "label": "Bronchopulmonale Dysplasie mit Ursprung in der Perinatalperiode",
+      "rubrics": {
+        "preferred": "Bronchopulmonale Dysplasie mit Ursprung in der Perinatalperiode"
+      },
+      "children": []
+    },
+    {
+      "code": "P27.8",
+      "kind": "category",
+      "label": "Sonstige chronische Atemwegskrankheiten mit Ursprung in der Perinatalperiode",
+      "rubrics": {
+        "preferred": "Sonstige chronische Atemwegskrankheiten mit Ursprung in der Perinatalperiode",
+        "inclusion": "Beatmungslunge beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P27.9",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete chronische Atemwegskrankheit mit Ursprung in der Perinatalperiode",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete chronische Atemwegskrankheit mit Ursprung in der Perinatalperiode"
+      },
+      "children": []
+    }
+  ]
+}

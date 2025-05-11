@@ -1,0 +1,76 @@
+{
+  "code": "Q31",
+  "kind": "category",
+  "label": "Angeborene Fehlbildungen des Kehlkopfes",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildungen des Kehlkopfes",
+    "exclusion": "Stridor congenitus (laryngis) o.n.A.P28.8"
+  },
+  "children": [
+    {
+      "code": "Q31.0",
+      "kind": "category",
+      "label": "Kehlkopfsegel",
+      "rubrics": {
+        "preferred": "Kehlkopfsegel",
+        "inclusion": "Kehlkopfsegel:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "Q31.1",
+      "kind": "category",
+      "label": "Angeborene subglottische Stenose",
+      "rubrics": {
+        "preferred": "Angeborene subglottische Stenose"
+      },
+      "children": []
+    },
+    {
+      "code": "Q31.2",
+      "kind": "category",
+      "label": "Hypoplasie des Kehlkopfes",
+      "rubrics": {
+        "preferred": "Hypoplasie des Kehlkopfes"
+      },
+      "children": []
+    },
+    {
+      "code": "Q31.3",
+      "kind": "category",
+      "label": "Laryngozele (angeboren)",
+      "rubrics": {
+        "preferred": "Laryngozele (angeboren)"
+      },
+      "children": []
+    },
+    {
+      "code": "Q31.5",
+      "kind": "category",
+      "label": "Angeborene Laryngomalazie",
+      "rubrics": {
+        "preferred": "Angeborene Laryngomalazie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q31.8",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Kehlkopfes",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Kehlkopfes",
+        "inclusion": "Schildknorpelspalte"
+      },
+      "children": []
+    },
+    {
+      "code": "Q31.9",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung des Kehlkopfes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung des Kehlkopfes, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

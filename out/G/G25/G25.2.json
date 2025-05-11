@@ -1,0 +1,10 @@
+{
+  "code": "G25.2",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Tremorformen",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Tremorformen",
+    "inclusion": "Intentionstremor"
+  },
+  "children": []
+}

@@ -1,0 +1,12 @@
+{
+  "code": "D07.1",
+  "kind": "category",
+  "label": "Vulva",
+  "rubrics": {
+    "preferredLong": "Carcinoma in situ: Vulva",
+    "preferred": "Vulva",
+    "inclusion": "Intraepitheliale Neoplasie der Vulva [VIN] III. Grades, mit oder ohne Angabe einer hochgradigen Dysplasie",
+    "exclusion": "Hochgradige Dysplasie der Vulva o.n.A.N90.2"
+  },
+  "children": []
+}

@@ -1,0 +1,93 @@
+{
+  "code": "Z12",
+  "kind": "category",
+  "label": "Spezielle Verfahren zur Untersuchung auf Neubildungen",
+  "rubrics": {
+    "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildungen"
+  },
+  "children": [
+    {
+      "code": "Z12.0",
+      "kind": "category",
+      "label": "Spezielle Verfahren zur Untersuchung auf Neubildung des Magens",
+      "rubrics": {
+        "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildung des Magens"
+      },
+      "children": []
+    },
+    {
+      "code": "Z12.1",
+      "kind": "category",
+      "label": "Spezielle Verfahren zur Untersuchung auf Neubildung des Darmtraktes",
+      "rubrics": {
+        "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildung des Darmtraktes"
+      },
+      "children": []
+    },
+    {
+      "code": "Z12.2",
+      "kind": "category",
+      "label": "Spezielle Verfahren zur Untersuchung auf Neubildung der Atmungsorgane",
+      "rubrics": {
+        "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildung der Atmungsorgane"
+      },
+      "children": []
+    },
+    {
+      "code": "Z12.3",
+      "kind": "category",
+      "label": "Spezielle Verfahren zur Untersuchung auf Neubildung der Mamma [Brustdrüse]",
+      "rubrics": {
+        "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildung der Mamma [Brustdrüse]",
+        "exclusion": "Routinemäßiges MammogrammZ01.6"
+      },
+      "children": []
+    },
+    {
+      "code": "Z12.4",
+      "kind": "category",
+      "label": "Spezielle Verfahren zur Untersuchung auf Neubildung der Cervix uteri",
+      "rubrics": {
+        "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildung der Cervix uteri",
+        "exclusion": "Routinemäßiger Test oder Teil einer allgemeinen gynäkologischen UntersuchungZ01.4"
+      },
+      "children": []
+    },
+    {
+      "code": "Z12.5",
+      "kind": "category",
+      "label": "Spezielle Verfahren zur Untersuchung auf Neubildung der Prostata",
+      "rubrics": {
+        "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildung der Prostata"
+      },
+      "children": []
+    },
+    {
+      "code": "Z12.6",
+      "kind": "category",
+      "label": "Spezielle Verfahren zur Untersuchung auf Neubildung der Harnblase",
+      "rubrics": {
+        "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildung der Harnblase"
+      },
+      "children": []
+    },
+    {
+      "code": "Z12.8",
+      "kind": "category",
+      "label": "Spezielle Verfahren zur Untersuchung auf Neubildungen sonstiger Lokalisationen",
+      "rubrics": {
+        "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildungen sonstiger Lokalisationen"
+      },
+      "children": []
+    },
+    {
+      "code": "Z12.9",
+      "kind": "category",
+      "label": "Spezielle Verfahren zur Untersuchung auf Neubildung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

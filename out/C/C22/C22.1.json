@@ -1,0 +1,10 @@
+{
+  "code": "C22.1",
+  "kind": "category",
+  "label": "Intrahepatisches Gallengangskarzinom",
+  "rubrics": {
+    "preferred": "Intrahepatisches Gallengangskarzinom",
+    "inclusion": "Cholangiokarzinom"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "I79.2",
+  "kind": "category",
+  "label": "Periphere Angiopathie bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Periphere Angiopathie bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Periphere diabetische AngiopathieE10-E14, vierte Stelle .5"
+  },
+  "children": []
+}

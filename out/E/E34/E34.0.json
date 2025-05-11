@@ -1,0 +1,10 @@
+{
+  "code": "E34.0",
+  "kind": "category",
+  "label": "Karzinoid-Syndrom",
+  "rubrics": {
+    "preferred": "Karzinoid-Syndrom",
+    "note": "Kann als zusätzliche Schlüsselnummer angegeben werden, um die mit einem Karzinoid zusammenhängende funktionelle Aktivität auszuweisen."
+  },
+  "children": []
+}

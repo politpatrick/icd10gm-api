@@ -1,0 +1,11 @@
+{
+  "code": "C25.4",
+  "kind": "category",
+  "label": "Endokriner Drüsenanteil des Pankreas",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Endokriner Drüsenanteil des Pankreas",
+    "preferred": "Endokriner Drüsenanteil des Pankreas",
+    "inclusion": "Langerhans-Inseln"
+  },
+  "children": []
+}

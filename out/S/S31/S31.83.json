@@ -1,0 +1,10 @@
+{
+  "code": "S31.83",
+  "kind": "category",
+  "label": "Offene Wunde (jeder Teil des Abdomens, der Lumbosakralgegend und des Beckens) mit Verbindung zu einer intraabdominalen Verletzung",
+  "rubrics": {
+    "preferred": "Offene Wunde (jeder Teil des Abdomens, der Lumbosakralgegend und des Beckens) mit Verbindung zu einer intraabdominalen Verletzung",
+    "coding-hint": "Kodiere zuerst die intraabdominale Verletzung (S36-S37)"
+  },
+  "children": []
+}

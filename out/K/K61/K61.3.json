@@ -1,0 +1,10 @@
+{
+  "code": "K61.3",
+  "kind": "category",
+  "label": "Ischiorektalabszess",
+  "rubrics": {
+    "preferred": "Ischiorektalabszess",
+    "inclusion": "Abszess der Fossa ischioanalis"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "T38.2",
+  "kind": "category",
+  "label": "Thyreostatika",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Thyreostatika",
+    "preferred": "Thyreostatika"
+  },
+  "children": []
+}

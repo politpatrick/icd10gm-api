@@ -1,0 +1,10 @@
+{
+  "code": "N95.0",
+  "kind": "category",
+  "label": "Postmenopausenblutung",
+  "rubrics": {
+    "preferred": "Postmenopausenblutung",
+    "exclusion": "Im Zusammenhang mit artifizieller MenopauseN95.3"
+  },
+  "children": []
+}

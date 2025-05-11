@@ -1,0 +1,10 @@
+{
+  "code": "T13.1",
+  "kind": "category",
+  "label": "Offene Wunde der unteren Extremität, Höhe nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Offene Wunde der unteren Extremität, Höhe nicht näher bezeichnet",
+    "coding-hint": "Benutze zusätzlich T89.0- um das Vorliegen von Komplikationen wie Fremdkörper, Infektion oder verzögerte Heilung und Behandlung anzuzeigen."
+  },
+  "children": []
+}

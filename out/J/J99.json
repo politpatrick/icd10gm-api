@@ -1,0 +1,76 @@
+{
+  "code": "J99",
+  "kind": "category",
+  "label": "Krankheiten der Atemwege bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten der Atemwege bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "J99.0",
+      "kind": "category",
+      "label": "Lungenkrankheit bei seropositiver chronischer PolyarthritisM05.1-",
+      "rubrics": {
+        "preferred": "Lungenkrankheit bei seropositiver chronischer PolyarthritisM05.1-"
+      },
+      "children": []
+    },
+    {
+      "code": "J99.1",
+      "kind": "category",
+      "label": "Krankheiten der Atemwege bei sonstigen diffusen Bindegewebskrankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten der Atemwege bei sonstigen diffusen Bindegewebskrankheiten",
+        "inclusion": "Atemwegskrankheiten bei:\n\t\t\t\tsystemischer SkleroseM34.8"
+      },
+      "children": []
+    },
+    {
+      "code": "J99.2",
+      "kind": "category",
+      "label": "Beteiligung der Lunge bei der chronischen Graft-versus-Host-Krankheit",
+      "rubrics": {
+        "preferred": "Beteiligung der Lunge bei der chronischen Graft-versus-Host-Krankheit"
+      },
+      "children": [
+        {
+          "code": "J99.21",
+          "kind": "category",
+          "label": "Stadium 1 der chronischen Lungen-Graft-versus-Host-KrankheitT86.06",
+          "rubrics": {
+            "preferred": "Stadium 1 der chronischen Lungen-Graft-versus-Host-KrankheitT86.06"
+          },
+          "children": []
+        },
+        {
+          "code": "J99.22",
+          "kind": "category",
+          "label": "Stadium 2 der chronischen Lungen-Graft-versus-Host-KrankheitT86.07",
+          "rubrics": {
+            "preferred": "Stadium 2 der chronischen Lungen-Graft-versus-Host-KrankheitT86.07"
+          },
+          "children": []
+        },
+        {
+          "code": "J99.23",
+          "kind": "category",
+          "label": "Stadium 3 der chronischen Lungen-Graft-versus-Host-KrankheitT86.07",
+          "rubrics": {
+            "preferred": "Stadium 3 der chronischen Lungen-Graft-versus-Host-KrankheitT86.07"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "J99.8",
+      "kind": "category",
+      "label": "Krankheiten der Atemwege bei sonstigen anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten der Atemwege bei sonstigen anderenorts klassifizierten Krankheiten",
+        "inclusion": "Atemwegskrankheiten bei:\n\t\t\t\tSyphilisA52.7"
+      },
+      "children": []
+    }
+  ]
+}

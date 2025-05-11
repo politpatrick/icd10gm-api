@@ -1,0 +1,10 @@
+{
+  "code": "Q24.0",
+  "kind": "category",
+  "label": "Dextrokardie",
+  "rubrics": {
+    "preferred": "Dextrokardie",
+    "exclusion": "Vorhofisomerismus (mit Asplenie oder Polysplenie)Q20.6"
+  },
+  "children": []
+}

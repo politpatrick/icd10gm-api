@@ -1,0 +1,85 @@
+{
+  "code": "D38",
+  "kind": "category",
+  "label": "Neubildung unsicheren oder unbekannten Verhaltens des Mittelohres, der Atmungsorgane und der intrathorakalen Organe",
+  "rubrics": {
+    "preferred": "Neubildung unsicheren oder unbekannten Verhaltens des Mittelohres, der Atmungsorgane und der intrathorakalen Organe",
+    "exclusion": "HerzD48.7"
+  },
+  "children": [
+    {
+      "code": "D38.0",
+      "kind": "category",
+      "label": "Larynx",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Larynx",
+        "preferred": "Larynx",
+        "inclusion": "Epiglottis (suprahyoidaler Anteil)",
+        "exclusion": "Aryepiglottische Falte:\n\t\t\t\to.n.A.D37.0"
+      },
+      "children": []
+    },
+    {
+      "code": "D38.1",
+      "kind": "category",
+      "label": "Trachea, Bronchus und Lunge",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Trachea, Bronchus und Lunge",
+        "preferred": "Trachea, Bronchus und Lunge"
+      },
+      "children": []
+    },
+    {
+      "code": "D38.2",
+      "kind": "category",
+      "label": "Pleura",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Pleura",
+        "preferred": "Pleura"
+      },
+      "children": []
+    },
+    {
+      "code": "D38.3",
+      "kind": "category",
+      "label": "Mediastinum",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Mediastinum",
+        "preferred": "Mediastinum"
+      },
+      "children": []
+    },
+    {
+      "code": "D38.4",
+      "kind": "category",
+      "label": "Thymus",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Thymus",
+        "preferred": "Thymus"
+      },
+      "children": []
+    },
+    {
+      "code": "D38.5",
+      "kind": "category",
+      "label": "Sonstige Atmungsorgane",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Atmungsorgane",
+        "preferred": "Sonstige Atmungsorgane",
+        "inclusion": "Nasennebenhöhlen",
+        "exclusion": "Ohr (äußeres) (Haut)D48.5"
+      },
+      "children": []
+    },
+    {
+      "code": "D38.6",
+      "kind": "category",
+      "label": "Atmungsorgan, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Atmungsorgan, nicht näher bezeichnet",
+        "preferred": "Atmungsorgan, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "I85.0",
+  "kind": "category",
+  "label": "Ösophagusvarizen mit Blutung",
+  "rubrics": {
+    "preferred": "Ösophagusvarizen mit Blutung",
+    "exclusion": "Ösophagusvarizen mit Angabe einer Blutung bei:\n\t\t\t\tSchistosomiasisB65.-I98.3"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "T92.1",
+  "kind": "category",
+  "label": "Folgen einer Fraktur des Armes",
+  "rubrics": {
+    "preferred": "Folgen einer Fraktur des Armes",
+    "inclusion": "Folgen einer Verletzung, die unter S42.-, S52.- und T10.- klassifizierbar ist"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "E61.1",
+  "kind": "category",
+  "label": "Eisenmangel",
+  "rubrics": {
+    "preferred": "Eisenmangel",
+    "exclusion": "EisenmangelanämieD50.-"
+  },
+  "children": []
+}

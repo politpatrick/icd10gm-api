@@ -1,0 +1,12 @@
+{
+  "code": "C02.0",
+  "kind": "category",
+  "label": "Zungenrücken",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Zungenrücken",
+    "preferred": "Zungenrücken",
+    "inclusion": "Vordere zwei Drittel der Zunge, Dorsalfläche",
+    "exclusion": "Dorsalfläche der ZungenbasisC01"
+  },
+  "children": []
+}

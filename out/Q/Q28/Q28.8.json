@@ -1,0 +1,37 @@
+{
+  "code": "Q28.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete angeborene Fehlbildungen des Kreislaufsystems",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen des Kreislaufsystems"
+  },
+  "children": [
+    {
+      "code": "Q28.80",
+      "kind": "category",
+      "label": "Sonstiges angeborenes Aneurysma",
+      "rubrics": {
+        "preferred": "Sonstiges angeborenes Aneurysma"
+      },
+      "children": []
+    },
+    {
+      "code": "Q28.81",
+      "kind": "category",
+      "label": "Sonstige angeborene Fistel des Kreislaufsystems",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fistel des Kreislaufsystems"
+      },
+      "children": []
+    },
+    {
+      "code": "Q28.88",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete angeborene Fehlbildungen des Kreislaufsystems",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen des Kreislaufsystems"
+      },
+      "children": []
+    }
+  ]
+}

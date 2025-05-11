@@ -1,0 +1,68 @@
+{
+  "code": "H43",
+  "kind": "category",
+  "label": "Affektionen des Glaskörpers",
+  "rubrics": {
+    "preferred": "Affektionen des Glaskörpers"
+  },
+  "children": [
+    {
+      "code": "H43.0",
+      "kind": "category",
+      "label": "Glaskörperprolaps",
+      "rubrics": {
+        "preferred": "Glaskörperprolaps",
+        "exclusion": "Glaskörperkomplikation nach KataraktextraktionH59.0"
+      },
+      "children": []
+    },
+    {
+      "code": "H43.1",
+      "kind": "category",
+      "label": "Glaskörperblutung",
+      "rubrics": {
+        "preferred": "Glaskörperblutung"
+      },
+      "children": []
+    },
+    {
+      "code": "H43.2",
+      "kind": "category",
+      "label": "Kristalline Ablagerungen im Glaskörper",
+      "rubrics": {
+        "preferred": "Kristalline Ablagerungen im Glaskörper"
+      },
+      "children": []
+    },
+    {
+      "code": "H43.3",
+      "kind": "category",
+      "label": "Sonstige Glaskörpertrübungen",
+      "rubrics": {
+        "preferred": "Sonstige Glaskörpertrübungen",
+        "inclusion": "Glaskörpermembranen und Glaskörperstränge"
+      },
+      "children": []
+    },
+    {
+      "code": "H43.8",
+      "kind": "category",
+      "label": "Sonstige Affektionen des Glaskörpers",
+      "rubrics": {
+        "preferred": "Sonstige Affektionen des Glaskörpers",
+        "inclusion": "Glaskörper-:\n\t\t\t\tDegeneration",
+        "exclusion": "Proliferative Vitreoretinopathie mit NetzhautablösungH33.4"
+      },
+      "children": []
+    },
+    {
+      "code": "H43.9",
+      "kind": "category",
+      "label": "Affektion des Glaskörpers, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Affektion des Glaskörpers, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

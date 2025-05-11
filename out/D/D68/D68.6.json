@@ -1,0 +1,11 @@
+{
+  "code": "D68.6",
+  "kind": "category",
+  "label": "Sonstige Thrombophilien",
+  "rubrics": {
+    "preferred": "Sonstige Thrombophilien",
+    "inclusion": "Vorhandensein des Lupus-Antikoagulans",
+    "exclusion": "HyperhomocysteinämieE72.1"
+  },
+  "children": []
+}

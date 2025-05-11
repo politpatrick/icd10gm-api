@@ -1,0 +1,105 @@
+{
+  "code": "J15",
+  "kind": "category",
+  "label": "Pneumonie durch Bakterien, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Pneumonie durch Bakterien, anderenorts nicht klassifiziert",
+    "inclusion": "Bronchopneumonie durch andere Bakterien als Streptococcus pneumoniae und Haemophilus influenzae",
+    "exclusion": "Pneumonie durch ChlamydienJ16.0",
+    "coding-hint": "Benutze für Zwecke der externen Qualitätssicherung nach § 137 SGB V eine zusätzliche Schlüsselnummer U69.01U69.04, um den zeitlichen Bezug einer vollstationär behandelten Pneumonie bei erwachsenen Personen (18 Jahre und älter) zur stationären Krankenhausaufnahme anzugeben."
+  },
+  "children": [
+    {
+      "code": "J15.0",
+      "kind": "category",
+      "label": "Pneumonie durch Klebsiella pneumoniae",
+      "rubrics": {
+        "preferred": "Pneumonie durch Klebsiella pneumoniae"
+      },
+      "children": []
+    },
+    {
+      "code": "J15.1",
+      "kind": "category",
+      "label": "Pneumonie durch Pseudomonas",
+      "rubrics": {
+        "preferred": "Pneumonie durch Pseudomonas"
+      },
+      "children": []
+    },
+    {
+      "code": "J15.2",
+      "kind": "category",
+      "label": "Pneumonie durch Staphylokokken",
+      "rubrics": {
+        "preferred": "Pneumonie durch Staphylokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "J15.3",
+      "kind": "category",
+      "label": "Pneumonie durch Streptokokken der Gruppe B",
+      "rubrics": {
+        "preferred": "Pneumonie durch Streptokokken der Gruppe B"
+      },
+      "children": []
+    },
+    {
+      "code": "J15.4",
+      "kind": "category",
+      "label": "Pneumonie durch sonstige Streptokokken",
+      "rubrics": {
+        "preferred": "Pneumonie durch sonstige Streptokokken",
+        "exclusion": "Pneumonie durch:\n\t\t\t\tStreptococcus pneumoniaeJ13"
+      },
+      "children": []
+    },
+    {
+      "code": "J15.5",
+      "kind": "category",
+      "label": "Pneumonie durch Escherichia coli",
+      "rubrics": {
+        "preferred": "Pneumonie durch Escherichia coli"
+      },
+      "children": []
+    },
+    {
+      "code": "J15.6",
+      "kind": "category",
+      "label": "Pneumonie durch andere gramnegative Bakterien",
+      "rubrics": {
+        "preferred": "Pneumonie durch andere gramnegative Bakterien",
+        "inclusion": "Pneumonie durch:\n\t\t\t\tSerratia marcescens"
+      },
+      "children": []
+    },
+    {
+      "code": "J15.7",
+      "kind": "category",
+      "label": "Pneumonie durch Mycoplasma pneumoniae",
+      "rubrics": {
+        "preferred": "Pneumonie durch Mycoplasma pneumoniae"
+      },
+      "children": []
+    },
+    {
+      "code": "J15.8",
+      "kind": "category",
+      "label": "Sonstige bakterielle Pneumonie",
+      "rubrics": {
+        "preferred": "Sonstige bakterielle Pneumonie"
+      },
+      "children": []
+    },
+    {
+      "code": "J15.9",
+      "kind": "category",
+      "label": "Bakterielle Pneumonie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Bakterielle Pneumonie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D48.3",
+  "kind": "category",
+  "label": "Retroperitoneum",
+  "rubrics": {
+    "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Retroperitoneum",
+    "preferred": "Retroperitoneum"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "N13.5",
+  "kind": "category",
+  "label": "Abknickung und Striktur des Ureters ohne Hydronephrose",
+  "rubrics": {
+    "preferred": "Abknickung und Striktur des Ureters ohne Hydronephrose",
+    "exclusion": "Mit Infektion der NiereN13.67",
+    "coding-hint": "Soll die zugrunde liegende Krankheit angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+  },
+  "children": []
+}

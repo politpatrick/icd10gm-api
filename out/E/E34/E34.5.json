@@ -1,0 +1,40 @@
+{
+  "code": "E34.5",
+  "kind": "category",
+  "label": "Androgenresistenz-Syndrom",
+  "rubrics": {
+    "preferred": "Androgenresistenz-Syndrom",
+    "inclusion": "Pseudohermaphroditismus masculinus mit Androgenresistenz"
+  },
+  "children": [
+    {
+      "code": "E34.50",
+      "kind": "category",
+      "label": "Partielles Androgenresistenz-Syndrom",
+      "rubrics": {
+        "preferred": "Partielles Androgenresistenz-Syndrom",
+        "inclusion": "Reifenstein-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "E34.51",
+      "kind": "category",
+      "label": "Komplettes Androgenresistenz-Syndrom",
+      "rubrics": {
+        "preferred": "Komplettes Androgenresistenz-Syndrom",
+        "inclusion": "Testikuläre Feminisierung (Syndrom)"
+      },
+      "children": []
+    },
+    {
+      "code": "E34.59",
+      "kind": "category",
+      "label": "Androgenresistenz-Syndrom, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Androgenresistenz-Syndrom, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "code": "W93",
+  "kind": "category",
+  "label": "Exposition gegenüber übermäßiger, künstlich erzeugter Kälte",
+  "rubrics": {
+    "preferred": "Exposition gegenüber übermäßiger, künstlich erzeugter Kälte"
+  },
+  "children": [
+    {
+      "code": "W93.9",
+      "kind": "category",
+      "label": "Unfall durch künstliche Kälte",
+      "rubrics": {
+        "preferred": "Unfall durch künstliche Kälte",
+        "inclusion": "Exposition gegenüber übermäßiger, künstlich erzeugter Kälte",
+        "exclusion": "Zwischenfall während chirurgischer oder sonstiger medizinischer MaßnahmenY69"
+      },
+      "children": []
+    }
+  ]
+}

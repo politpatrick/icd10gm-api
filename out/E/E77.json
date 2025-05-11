@@ -1,0 +1,48 @@
+{
+  "code": "E77",
+  "kind": "category",
+  "label": "Störungen des Glykoproteinstoffwechsels",
+  "rubrics": {
+    "preferred": "Störungen des Glykoproteinstoffwechsels"
+  },
+  "children": [
+    {
+      "code": "E77.0",
+      "kind": "category",
+      "label": "Defekte der posttranslationalen Modifikation lysosomaler Enzyme",
+      "rubrics": {
+        "preferred": "Defekte der posttranslationalen Modifikation lysosomaler Enzyme",
+        "inclusion": "Mukolipidose III [Pseudo-Hurler-Polydystrophie]"
+      },
+      "children": []
+    },
+    {
+      "code": "E77.1",
+      "kind": "category",
+      "label": "Defekte beim Glykoproteinabbau",
+      "rubrics": {
+        "preferred": "Defekte beim Glykoproteinabbau",
+        "inclusion": "Sialidose [Mukolipidose I]"
+      },
+      "children": []
+    },
+    {
+      "code": "E77.8",
+      "kind": "category",
+      "label": "Sonstige Störungen des Glykoproteinstoffwechsels",
+      "rubrics": {
+        "preferred": "Sonstige Störungen des Glykoproteinstoffwechsels"
+      },
+      "children": []
+    },
+    {
+      "code": "E77.9",
+      "kind": "category",
+      "label": "Störung des Glykoproteinstoffwechsels, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Störung des Glykoproteinstoffwechsels, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

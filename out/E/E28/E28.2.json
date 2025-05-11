@@ -1,0 +1,10 @@
+{
+  "code": "E28.2",
+  "kind": "category",
+  "label": "Syndrom polyzystischer Ovarien",
+  "rubrics": {
+    "preferred": "Syndrom polyzystischer Ovarien",
+    "inclusion": "Syndrom sklerozystischer Ovarien"
+  },
+  "children": []
+}

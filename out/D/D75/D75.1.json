@@ -1,0 +1,11 @@
+{
+  "code": "D75.1",
+  "kind": "category",
+  "label": "Sekundäre Polyglobulie [Polyzythämie]",
+  "rubrics": {
+    "preferred": "Sekundäre Polyglobulie [Polyzythämie]",
+    "inclusion": "Polyglobulie:\n\t\t\t\to.n.A.",
+    "exclusion": "Polyglobulie beim NeugeborenenP61.1"
+  },
+  "children": []
+}

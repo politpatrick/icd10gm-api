@@ -1,0 +1,10 @@
+{
+  "code": "N39.1",
+  "kind": "category",
+  "label": "Persistierende Proteinurie, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Persistierende Proteinurie, nicht näher bezeichnet",
+    "exclusion": "Mit Angabe morphologischer VeränderungenN06.-"
+  },
+  "children": []
+}

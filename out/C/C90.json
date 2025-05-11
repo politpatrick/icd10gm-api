@@ -1,0 +1,50 @@
+{
+  "code": "C90",
+  "kind": "category",
+  "label": "Plasmozytom und bösartige Plasmazellen-Neubildungen",
+  "rubrics": {
+    "preferred": "Plasmozytom und bösartige Plasmazellen-Neubildungen"
+  },
+  "children": [
+    {
+      "code": "C90.0",
+      "kind": "category",
+      "label": "Multiples Myelom",
+      "rubrics": {
+        "preferred": "Multiples Myelom",
+        "inclusion": "Plasmazellmyelom",
+        "exclusion": "Solitäres PlasmozytomC90.3-"
+      },
+      "children": []
+    },
+    {
+      "code": "C90.1",
+      "kind": "category",
+      "label": "Plasmazellenleukämie",
+      "rubrics": {
+        "preferred": "Plasmazellenleukämie",
+        "inclusion": "Plasmazytische Leukämie"
+      },
+      "children": []
+    },
+    {
+      "code": "C90.2",
+      "kind": "category",
+      "label": "Extramedulläres Plasmozytom",
+      "rubrics": {
+        "preferred": "Extramedulläres Plasmozytom"
+      },
+      "children": []
+    },
+    {
+      "code": "C90.3",
+      "kind": "category",
+      "label": "Solitäres Plasmozytom",
+      "rubrics": {
+        "preferred": "Solitäres Plasmozytom",
+        "inclusion": "Solitäres Myelom"
+      },
+      "children": []
+    }
+  ]
+}

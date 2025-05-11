@@ -1,0 +1,10 @@
+{
+  "code": "F51.9",
+  "kind": "category",
+  "label": "Nichtorganische Schlafstörung, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Nichtorganische Schlafstörung, nicht näher bezeichnet",
+    "inclusion": "Emotional bedingte Schlafstörung o.n.A."
+  },
+  "children": []
+}

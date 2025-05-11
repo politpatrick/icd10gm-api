@@ -1,0 +1,93 @@
+{
+  "code": "H54",
+  "kind": "category",
+  "label": "Blindheit und Sehbeeinträchtigung",
+  "rubrics": {
+    "preferred": "Blindheit und Sehbeeinträchtigung",
+    "note": "Stufen der Sehbeeinträchtigung siehe Tabelle am Ende der Gruppe (H53-H54)",
+    "exclusion": "Amaurosis fugax G45.3-"
+  },
+  "children": [
+    {
+      "code": "H54.0",
+      "kind": "category",
+      "label": "Blindheit und hochgradige Sehbehinderung, binokular",
+      "rubrics": {
+        "preferred": "Blindheit und hochgradige Sehbehinderung, binokular",
+        "text": "Stufen 3, 4 und 5 der Sehbeeinträchtigung"
+      },
+      "children": []
+    },
+    {
+      "code": "H54.1",
+      "kind": "category",
+      "label": "Schwere Sehbeeinträchtigung, binokular",
+      "rubrics": {
+        "preferred": "Schwere Sehbeeinträchtigung, binokular",
+        "text": "Stufe 2 der Sehbeeinträchtigung"
+      },
+      "children": []
+    },
+    {
+      "code": "H54.2",
+      "kind": "category",
+      "label": "Mittelschwere Sehbeeinträchtigung, binokular",
+      "rubrics": {
+        "preferred": "Mittelschwere Sehbeeinträchtigung, binokular",
+        "text": "Stufe 1 der Sehbeeinträchtigung"
+      },
+      "children": []
+    },
+    {
+      "code": "H54.3",
+      "kind": "category",
+      "label": "Leichte Sehbeeinträchtigung, binokular",
+      "rubrics": {
+        "preferred": "Leichte Sehbeeinträchtigung, binokular",
+        "text": "Stufe 0 der Sehbeeinträchtigung mit mindestens einer leichten Sehbeeinträchtigung auf einem Auge"
+      },
+      "children": []
+    },
+    {
+      "code": "H54.4",
+      "kind": "category",
+      "label": "Blindheit und hochgradige Sehbehinderung, monokular",
+      "rubrics": {
+        "preferred": "Blindheit und hochgradige Sehbehinderung, monokular",
+        "text": "Stufen 3, 4 und 5 der Sehbeeinträchtigung eines Auges mit Stufen 0, 1, 2 oder 9 des anderen Auges"
+      },
+      "children": []
+    },
+    {
+      "code": "H54.5",
+      "kind": "category",
+      "label": "Schwere Sehbeeinträchtigung, monokular",
+      "rubrics": {
+        "preferred": "Schwere Sehbeeinträchtigung, monokular",
+        "text": "Stufe 2 der Sehbeeinträchtigung eines Auges mit Stufen 0, 1 oder 9 des anderen Auges"
+      },
+      "children": []
+    },
+    {
+      "code": "H54.6",
+      "kind": "category",
+      "label": "Mittelschwere Sehbeeinträchtigung, monokular",
+      "rubrics": {
+        "preferred": "Mittelschwere Sehbeeinträchtigung, monokular",
+        "text": "Stufe 1 der Sehbeeinträchtigung eines Auges mit Stufen 0 oder 9 des anderen Auges"
+      },
+      "children": []
+    },
+    {
+      "code": "H54.9",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Sehbeeinträchtigung (binokular)",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Sehbeeinträchtigung (binokular)",
+        "text": "Stufe 9 der Sehbeeinträchtigung o.n.A.",
+        "coding-hint": "Stufen\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSehschärfe mit bestmöglicher Korrektur (in Ferne)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tgleich oder geringer als:\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\thöher als:\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t0 - leichte oder keine Sehbeeinträchtigung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t6/18\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3/10 (0,3)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/70\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1 - mittelschwere Sehbeeinträchtigung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t6/18\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t6/60\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3/10 (0,3)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/10 (0,1)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/70\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/200\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t2 - schwere Sehbeeinträchtigung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t6/60\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3/60\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/10 (0,1)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/20 (0,05)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/200\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/400\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3 - hochgradige Sehbehinderung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3/60\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/60 (Fingerzählen bei 1 m)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/20 (0,05)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/50 (0,02)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/400\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t5/300 (20/1200)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t4 - Blindheit\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/60 (Fingerzählen bei 1 m)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tLichtwahrnehmung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/50 (0,02)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t5/300 (20/1200)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t5 - Blindheit\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tkeine Lichtwahrnehmung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t9\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tunbestimmt oder nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

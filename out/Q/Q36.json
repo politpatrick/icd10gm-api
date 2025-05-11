@@ -1,0 +1,42 @@
+{
+  "code": "Q36",
+  "kind": "category",
+  "label": "Lippenspalte",
+  "rubrics": {
+    "preferred": "Lippenspalte",
+    "inclusion": "Cheiloschisis",
+    "exclusion": "Lippenspalte mit GaumenspalteQ37.-"
+  },
+  "children": [
+    {
+      "code": "Q36.0",
+      "kind": "category",
+      "label": "Lippenspalte, beidseitig",
+      "rubrics": {
+        "preferred": "Lippenspalte, beidseitig",
+        "text": "LAHS-Kode:\n\t\t\t\tL - - - - - L"
+      },
+      "children": []
+    },
+    {
+      "code": "Q36.1",
+      "kind": "category",
+      "label": "Lippenspalte, median",
+      "rubrics": {
+        "preferred": "Lippenspalte, median"
+      },
+      "children": []
+    },
+    {
+      "code": "Q36.9",
+      "kind": "category",
+      "label": "Lippenspalte, einseitig",
+      "rubrics": {
+        "preferred": "Lippenspalte, einseitig",
+        "text": "LAHS-Kodes:\n\t\t\t\tL - - - - - -\n\t\t\t\t- - - - - - L",
+        "inclusion": "Lippenspalte o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

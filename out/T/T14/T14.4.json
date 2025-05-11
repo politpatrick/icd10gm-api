@@ -1,0 +1,11 @@
+{
+  "code": "T14.4",
+  "kind": "category",
+  "label": "Verletzung eines oder mehrerer Nerven an einer nicht näher bezeichneten Körperregion",
+  "rubrics": {
+    "preferred": "Verletzung eines oder mehrerer Nerven an einer nicht näher bezeichneten Körperregion",
+    "inclusion": "Traumatisch:\n\t\t\t\tNervendurchtrennung\n\t\t\t\to.n.A.",
+    "exclusion": "Multiple Verletzungen von Nerven o.n.A.T06.2"
+  },
+  "children": []
+}

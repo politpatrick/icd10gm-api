@@ -1,0 +1,11 @@
+{
+  "code": "K00.3",
+  "kind": "category",
+  "label": "Schmelzflecken [Mottled teeth]",
+  "rubrics": {
+    "preferred": "Schmelzflecken [Mottled teeth]",
+    "inclusion": "Nicht durch Fluor bedingte Schmelzopazitäten",
+    "exclusion": "Auflagerungen [Beläge] auf den ZähnenK03.6"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "S24.70",
+  "kind": "category",
+  "label": "Höhe nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Verletzung des thorakalen Rückenmarkes: Höhe nicht näher bezeichnet",
+    "preferred": "Höhe nicht näher bezeichnet",
+    "inclusion": "Brustmark o.n.A."
+  },
+  "children": []
+}

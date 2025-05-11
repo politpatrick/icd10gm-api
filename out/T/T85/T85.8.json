@@ -1,0 +1,47 @@
+{
+  "code": "T85.8",
+  "kind": "category",
+  "label": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate, anderenorts nicht klassifiziert",
+    "inclusion": "Unter T82.8 aufgeführte Zustände durch interne Prothesen, Implantate oder Transplantate, anderenorts nicht klassifiziert"
+  },
+  "children": [
+    {
+      "code": "T85.81",
+      "kind": "category",
+      "label": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate im Nervensystem",
+      "rubrics": {
+        "preferred": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate im Nervensystem"
+      },
+      "children": []
+    },
+    {
+      "code": "T85.82",
+      "kind": "category",
+      "label": "Kapselfibrose der Mamma durch Mammaprothese oder -implantat",
+      "rubrics": {
+        "preferred": "Kapselfibrose der Mamma durch Mammaprothese oder -implantat"
+      },
+      "children": []
+    },
+    {
+      "code": "T85.83",
+      "kind": "category",
+      "label": "Sonstige Komplikationen durch Mammaprothese oder -implantat",
+      "rubrics": {
+        "preferred": "Sonstige Komplikationen durch Mammaprothese oder -implantat"
+      },
+      "children": []
+    },
+    {
+      "code": "T85.88",
+      "kind": "category",
+      "label": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Komplikationen durch interne Prothesen, Implantate oder Transplantate, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    }
+  ]
+}

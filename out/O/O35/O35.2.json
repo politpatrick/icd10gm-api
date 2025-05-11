@@ -1,0 +1,10 @@
+{
+  "code": "O35.2",
+  "kind": "category",
+  "label": "Betreuung der Mutter bei (Verdacht auf) hereditäre Krankheit beim Fetus",
+  "rubrics": {
+    "preferred": "Betreuung der Mutter bei (Verdacht auf) hereditäre Krankheit beim Fetus",
+    "exclusion": "Chromosomenanomalie beim FetusO35.1"
+  },
+  "children": []
+}

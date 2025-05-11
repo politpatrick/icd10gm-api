@@ -1,0 +1,11 @@
+{
+  "code": "D12.0",
+  "kind": "category",
+  "label": "Zäkum",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Zäkum",
+    "preferred": "Zäkum",
+    "inclusion": "Ileozäkalklappe [Bauhin]"
+  },
+  "children": []
+}

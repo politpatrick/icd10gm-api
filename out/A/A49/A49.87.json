@@ -1,0 +1,10 @@
+{
+  "code": "A49.87",
+  "kind": "category",
+  "label": "Infektion durch sonstige näher bezeichnete grampositive anaerobe, nicht sporenbildende Erreger nicht näher bezeichneter Lokalisation",
+  "rubrics": {
+    "preferred": "Infektion durch sonstige näher bezeichnete grampositive anaerobe, nicht sporenbildende Erreger nicht näher bezeichneter Lokalisation",
+    "inclusion": "Bakteriämie durch:\n\t\t\t\tPropionibakterien"
+  },
+  "children": []
+}

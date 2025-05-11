@@ -1,0 +1,10 @@
+{
+  "code": "H01.1",
+  "kind": "category",
+  "label": "Nichtinfektiöse Dermatosen des Augenlides",
+  "rubrics": {
+    "preferred": "Nichtinfektiöse Dermatosen des Augenlides",
+    "inclusion": "Xeroderma\n\t\t\t\tAugenlid"
+  },
+  "children": []
+}

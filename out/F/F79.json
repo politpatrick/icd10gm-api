@@ -1,0 +1,12 @@
+{
+  "code": "F79",
+  "kind": "category",
+  "label": "Nicht näher bezeichnete Intelligenzminderung",
+  "rubrics": {
+    "preferred": "Nicht näher bezeichnete Intelligenzminderung",
+    "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+    "definition": "Die Informationen sind nicht ausreichend, die Intelligenzminderung in eine der oben genannten Kategorien einzuordnen.",
+    "inclusion": "Geistig:\n\t\t\t\tDefizite o.n.A."
+  },
+  "children": []
+}

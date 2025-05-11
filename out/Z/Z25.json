@@ -1,0 +1,38 @@
+{
+  "code": "Z25",
+  "kind": "category",
+  "label": "Notwendigkeit der Impfung [Immunisierung] gegen andere einzelne Viruskrankheiten",
+  "rubrics": {
+    "preferred": "Notwendigkeit der Impfung [Immunisierung] gegen andere einzelne Viruskrankheiten",
+    "exclusion": "Impfung:\n\t\t\t\tnicht durchgeführtZ28"
+  },
+  "children": [
+    {
+      "code": "Z25.0",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen Mumps, nicht kombiniert",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen Mumps, nicht kombiniert"
+      },
+      "children": []
+    },
+    {
+      "code": "Z25.1",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen Grippe [Influenza]",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen Grippe [Influenza]"
+      },
+      "children": []
+    },
+    {
+      "code": "Z25.8",
+      "kind": "category",
+      "label": "Notwendigkeit der Impfung gegen sonstige näher bezeichnete einzelne Viruskrankheiten",
+      "rubrics": {
+        "preferred": "Notwendigkeit der Impfung gegen sonstige näher bezeichnete einzelne Viruskrankheiten"
+      },
+      "children": []
+    }
+  ]
+}

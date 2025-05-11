@@ -1,0 +1,12 @@
+{
+  "code": "F43.2",
+  "kind": "category",
+  "label": "Anpassungsstörungen",
+  "rubrics": {
+    "preferred": "Anpassungsstörungen",
+    "definition": "Hierbei handelt es sich um Zustände von subjektiver Bedrängnis und emotionaler Beeinträchtigung, die im Allgemeinen soziale Funktionen und Leistungen behindern und während des Anpassungsprozesses nach einer entscheidenden Lebensveränderung oder nach belastenden Lebensereignissen auftreten. Die Belastung kann das soziale Netz des Betroffenen beschädigt haben (wie bei einem Trauerfall oder Trennungserlebnissen) oder das weitere Umfeld sozialer Unterstützung oder soziale Werte (wie bei Emigration oder nach Flucht). Sie kann auch in einem größeren Entwicklungsschritt oder einer Krise bestehen (wie Schulbesuch, Elternschaft, Misserfolg, Erreichen eines ersehnten Zieles und Ruhestand). Die individuelle Prädisposition oder Vulnerabilität spielt bei dem möglichen Auftreten und bei der Form der Anpassungsstörung eine bedeutsame Rolle; es ist aber dennoch davon auszugehen, dass das Krankheitsbild ohne die Belastung nicht entstanden wäre. Die Anzeichen sind unterschiedlich und umfassen depressive Stimmung, Angst oder Sorge (oder eine Mischung von diesen). Außerdem kann ein Gefühl bestehen, mit den alltäglichen Gegebenheiten nicht zurechtzukommen, diese nicht vorausplanen oder fortsetzen zu können. Störungen des Sozialverhaltens können insbesondere bei Jugendlichen ein zusätzliches Symptom sein.\n\t\t\t\tHervorstechendes Merkmal kann eine kurze oder längere depressive Reaktion oder eine Störung anderer Gefühle und des Sozialverhaltens sein.",
+    "inclusion": "Trauerreaktion",
+    "exclusion": "Trennungsangst in der KindheitF93.0"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D26.1",
+  "kind": "category",
+  "label": "Corpus uteri",
+  "rubrics": {
+    "preferredLong": "Sonstige gutartige Neubildungen: Corpus uteri",
+    "preferred": "Corpus uteri"
+  },
+  "children": []
+}

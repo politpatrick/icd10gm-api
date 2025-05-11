@@ -1,0 +1,10 @@
+{
+  "code": "M53.3",
+  "kind": "category",
+  "label": "Krankheiten der Sakrokokzygealregion, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Krankheiten der Sakrokokzygealregion, anderenorts nicht klassifiziert",
+    "inclusion": "Kokzygodynie"
+  },
+  "children": []
+}

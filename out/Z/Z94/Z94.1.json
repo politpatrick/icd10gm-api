@@ -1,0 +1,10 @@
+{
+  "code": "Z94.1",
+  "kind": "category",
+  "label": "Zustand nach Herztransplantation",
+  "rubrics": {
+    "preferred": "Zustand nach Herztransplantation",
+    "exclusion": "Zustand nach HerzklappenersatzZ95.2-Z95.4"
+  },
+  "children": []
+}

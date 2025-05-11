@@ -1,0 +1,10 @@
+{
+  "code": "R19.1",
+  "kind": "category",
+  "label": "Abnorme Darmgeräusche",
+  "rubrics": {
+    "preferred": "Abnorme Darmgeräusche",
+    "inclusion": "Übermäßige Darmgeräusche"
+  },
+  "children": []
+}

@@ -1,0 +1,78 @@
+{
+  "code": "J68",
+  "kind": "category",
+  "label": "Krankheiten der Atmungsorgane durch Einatmen von chemischen Substanzen, Gasen, Rauch und Dämpfen",
+  "rubrics": {
+    "preferred": "Krankheiten der Atmungsorgane durch Einatmen von chemischen Substanzen, Gasen, Rauch und Dämpfen",
+    "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": [
+    {
+      "code": "J68.0",
+      "kind": "category",
+      "label": "Bronchitis und Pneumonie durch chemische Substanzen, Gase, Rauch und Dämpfe",
+      "rubrics": {
+        "preferred": "Bronchitis und Pneumonie durch chemische Substanzen, Gase, Rauch und Dämpfe",
+        "inclusion": "Bronchitis (akut) durch chemische Substanzen"
+      },
+      "children": []
+    },
+    {
+      "code": "J68.1",
+      "kind": "category",
+      "label": "Lungenödem durch chemische Substanzen, Gase, Rauch und Dämpfe",
+      "rubrics": {
+        "preferred": "Lungenödem durch chemische Substanzen, Gase, Rauch und Dämpfe",
+        "inclusion": "Lungenödem (akut) durch chemische Substanzen"
+      },
+      "children": []
+    },
+    {
+      "code": "J68.2",
+      "kind": "category",
+      "label": "Entzündung der oberen Atemwege durch chemische Substanzen, Gase, Rauch und Dämpfe, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Entzündung der oberen Atemwege durch chemische Substanzen, Gase, Rauch und Dämpfe, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "J68.3",
+      "kind": "category",
+      "label": "Sonstige akute und subakute Krankheiten der Atmungsorgane durch chemische Substanzen, Gase, Rauch und Dämpfe",
+      "rubrics": {
+        "preferred": "Sonstige akute und subakute Krankheiten der Atmungsorgane durch chemische Substanzen, Gase, Rauch und Dämpfe",
+        "inclusion": "Reaktive Atemwegskrankheiten [Reactive airways dysfunction syndrome]"
+      },
+      "children": []
+    },
+    {
+      "code": "J68.4",
+      "kind": "category",
+      "label": "Chronische Krankheiten der Atmungsorgane durch chemische Substanzen, Gase, Rauch und Dämpfe",
+      "rubrics": {
+        "preferred": "Chronische Krankheiten der Atmungsorgane durch chemische Substanzen, Gase, Rauch und Dämpfe",
+        "inclusion": "Obliterierende Bronchiolitis (chronisch) (subakut)\n\t\t\t\tdurch Einatmen von chemischen Substanzen, Gasen, Rauch und Dämpfen"
+      },
+      "children": []
+    },
+    {
+      "code": "J68.8",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Atmungsorgane durch chemische Substanzen, Gase, Rauch und Dämpfe",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Atmungsorgane durch chemische Substanzen, Gase, Rauch und Dämpfe"
+      },
+      "children": []
+    },
+    {
+      "code": "J68.9",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Krankheit der Atmungsorgane durch chemische Substanzen, Gase, Rauch und Dämpfe",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Krankheit der Atmungsorgane durch chemische Substanzen, Gase, Rauch und Dämpfe"
+      },
+      "children": []
+    }
+  ]
+}

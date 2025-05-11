@@ -1,0 +1,10 @@
+{
+  "code": "H91.9",
+  "kind": "category",
+  "label": "Hörverlust, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Hörverlust, nicht näher bezeichnet",
+    "inclusion": "Schwerhörigkeit oder Taubheit:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

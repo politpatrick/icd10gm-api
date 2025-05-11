@@ -1,0 +1,10 @@
+{
+  "code": "H50.0",
+  "kind": "category",
+  "label": "Strabismus concomitans convergens",
+  "rubrics": {
+    "preferred": "Strabismus concomitans convergens",
+    "inclusion": "Esotropie (alternierend) (unilateral), ausgenommen intermittierend"
+  },
+  "children": []
+}

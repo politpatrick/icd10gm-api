@@ -1,0 +1,10 @@
+{
+  "code": "M01.3",
+  "kind": "category",
+  "label": "Arthritis bei sonstigen anderenorts klassifizierten bakteriellen Krankheiten",
+  "rubrics": {
+    "preferred": "Arthritis bei sonstigen anderenorts klassifizierten bakteriellen Krankheiten",
+    "inclusion": "Arthritis durch GonokokkenA54.4"
+  },
+  "children": []
+}

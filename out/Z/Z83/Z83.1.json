@@ -1,0 +1,10 @@
+{
+  "code": "Z83.1",
+  "kind": "category",
+  "label": "Infektiöse oder parasitäre Krankheiten in der Familienanamnese",
+  "rubrics": {
+    "preferred": "Infektiöse oder parasitäre Krankheiten in der Familienanamnese",
+    "inclusion": "Zustände, klassifizierbar unter A00-B94, B99"
+  },
+  "children": []
+}

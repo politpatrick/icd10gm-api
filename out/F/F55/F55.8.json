@@ -1,0 +1,10 @@
+{
+  "code": "F55.8",
+  "kind": "category",
+  "label": "Sonstige Substanzen",
+  "rubrics": {
+    "preferredLong": "Schädlicher Gebrauch von nichtabhängigkeitserzeugenden Substanzen: Sonstige Substanzen",
+    "preferred": "Sonstige Substanzen"
+  },
+  "children": []
+}

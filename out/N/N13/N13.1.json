@@ -1,0 +1,10 @@
+{
+  "code": "N13.1",
+  "kind": "category",
+  "label": "Hydronephrose bei Ureterstriktur, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Hydronephrose bei Ureterstriktur, anderenorts nicht klassifiziert",
+    "exclusion": "Mit Infektion der NiereN13.61"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "Z10",
+  "kind": "category",
+  "label": "Allgemeine Reihenuntersuchung bestimmter Bevölkerungsgruppen",
+  "rubrics": {
+    "preferred": "Allgemeine Reihenuntersuchung bestimmter Bevölkerungsgruppen",
+    "inclusion": "Arbeitsmedizinische Untersuchung",
+    "exclusion": "Ärztliche Untersuchung aus administrativen GründenZ02"
+  },
+  "children": []
+}

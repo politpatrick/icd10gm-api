@@ -1,0 +1,10 @@
+{
+  "code": "C86.1",
+  "kind": "category",
+  "label": "Hepatosplenisches T-Zell-Lymphom",
+  "rubrics": {
+    "preferred": "Hepatosplenisches T-Zell-Lymphom",
+    "inclusion": "Enthält Alpha/Beta- und Gamma/Delta-Typen"
+  },
+  "children": []
+}

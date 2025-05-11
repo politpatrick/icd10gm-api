@@ -1,0 +1,11 @@
+{
+  "code": "J04.0",
+  "kind": "category",
+  "label": "Akute Laryngitis",
+  "rubrics": {
+    "preferred": "Akute Laryngitis",
+    "inclusion": "Laryngitis (akut):\n\t\t\t\to.n.A.",
+    "exclusion": "Grippe mit Laryngitis, Influenzaviren:\n\t\t\t\tnicht nachgewiesenJ11.1"
+  },
+  "children": []
+}

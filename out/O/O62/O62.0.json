@@ -1,0 +1,10 @@
+{
+  "code": "O62.0",
+  "kind": "category",
+  "label": "Primäre Wehenschwäche",
+  "rubrics": {
+    "preferred": "Primäre Wehenschwäche",
+    "inclusion": "Wehenschwäche während der Latenzphase"
+  },
+  "children": []
+}

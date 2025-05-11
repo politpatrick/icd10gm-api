@@ -1,0 +1,10 @@
+{
+  "code": "E80.0",
+  "kind": "category",
+  "label": "Hereditäre erythropoetische Porphyrie",
+  "rubrics": {
+    "preferred": "Hereditäre erythropoetische Porphyrie",
+    "inclusion": "Erythropoetische Protoporphyrie"
+  },
+  "children": []
+}

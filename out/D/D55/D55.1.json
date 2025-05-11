@@ -1,0 +1,10 @@
+{
+  "code": "D55.1",
+  "kind": "category",
+  "label": "Anämie durch sonstige Störungen des Glutathionstoffwechsels",
+  "rubrics": {
+    "preferred": "Anämie durch sonstige Störungen des Glutathionstoffwechsels",
+    "inclusion": "Anämie (durch):\n\t\t\t\thämolytisch, nichtsphärozytär (hereditär), Typ I"
+  },
+  "children": []
+}

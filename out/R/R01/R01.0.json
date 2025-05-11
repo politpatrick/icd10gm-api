@@ -1,0 +1,10 @@
+{
+  "code": "R01.0",
+  "kind": "category",
+  "label": "Benigne und akzidentelle Herzgeräusche",
+  "rubrics": {
+    "preferred": "Benigne und akzidentelle Herzgeräusche",
+    "inclusion": "Funktionelles Herzgeräusch"
+  },
+  "children": []
+}

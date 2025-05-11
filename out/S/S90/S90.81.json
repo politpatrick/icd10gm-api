@@ -1,0 +1,10 @@
+{
+  "code": "S90.81",
+  "kind": "category",
+  "label": "Schürfwunde",
+  "rubrics": {
+    "preferredLong": "Sonstige oberflächliche Verletzungen der Knöchelregion und des Fußes: Schürfwunde",
+    "preferred": "Schürfwunde"
+  },
+  "children": []
+}

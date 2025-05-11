@@ -1,0 +1,77 @@
+{
+  "code": "G21",
+  "kind": "category",
+  "label": "Sekundäres Parkinson-Syndrom",
+  "rubrics": {
+    "preferred": "Sekundäres Parkinson-Syndrom",
+    "inclusion": "Sekundärer Parkinsonismus"
+  },
+  "children": [
+    {
+      "code": "G21.0",
+      "kind": "category",
+      "label": "Malignes Neuroleptika-Syndrom",
+      "rubrics": {
+        "preferred": "Malignes Neuroleptika-Syndrom",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "G21.1",
+      "kind": "category",
+      "label": "Sonstiges arzneimittelinduziertes Parkinson-Syndrom",
+      "rubrics": {
+        "preferred": "Sonstiges arzneimittelinduziertes Parkinson-Syndrom",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "G21.2",
+      "kind": "category",
+      "label": "Parkinson-Syndrom durch sonstige exogene Agenzien",
+      "rubrics": {
+        "preferred": "Parkinson-Syndrom durch sonstige exogene Agenzien",
+        "coding-hint": "Soll das exogene Agens angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "G21.3",
+      "kind": "category",
+      "label": "Postenzephalitisches Parkinson-Syndrom",
+      "rubrics": {
+        "preferred": "Postenzephalitisches Parkinson-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "G21.4",
+      "kind": "category",
+      "label": "Vaskuläres Parkinson-Syndrom",
+      "rubrics": {
+        "preferred": "Vaskuläres Parkinson-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "G21.8",
+      "kind": "category",
+      "label": "Sonstiges sekundäres Parkinson-Syndrom",
+      "rubrics": {
+        "preferred": "Sonstiges sekundäres Parkinson-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "G21.9",
+      "kind": "category",
+      "label": "Sekundäres Parkinson-Syndrom, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Sekundäres Parkinson-Syndrom, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "code": "D26",
+  "kind": "category",
+  "label": "Sonstige gutartige Neubildungen des Uterus",
+  "rubrics": {
+    "preferred": "Sonstige gutartige Neubildungen des Uterus"
+  },
+  "children": [
+    {
+      "code": "D26.0",
+      "kind": "category",
+      "label": "Cervix uteri",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Cervix uteri",
+        "preferred": "Cervix uteri"
+      },
+      "children": []
+    },
+    {
+      "code": "D26.1",
+      "kind": "category",
+      "label": "Corpus uteri",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Corpus uteri",
+        "preferred": "Corpus uteri"
+      },
+      "children": []
+    },
+    {
+      "code": "D26.7",
+      "kind": "category",
+      "label": "Sonstige Teile des Uterus",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Sonstige Teile des Uterus",
+        "preferred": "Sonstige Teile des Uterus"
+      },
+      "children": []
+    },
+    {
+      "code": "D26.9",
+      "kind": "category",
+      "label": "Uterus, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Uterus, nicht näher bezeichnet",
+        "preferred": "Uterus, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

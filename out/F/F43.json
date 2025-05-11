@@ -1,0 +1,63 @@
+{
+  "code": "F43",
+  "kind": "category",
+  "label": "Reaktionen auf schwere Belastungen und Anpassungsstörungen",
+  "rubrics": {
+    "preferred": "Reaktionen auf schwere Belastungen und Anpassungsstörungen",
+    "definition": "Die Störungen dieses Abschnittes unterscheiden sich von den übrigen nicht nur aufgrund der Symptomatologie und des Verlaufs, sondern auch durch die Angabe von ein oder zwei ursächlichen Faktoren: ein außergewöhnlich belastendes Lebensereignis, das eine akute Belastungsreaktion hervorruft, oder eine besondere Veränderung im Leben, die zu einer anhaltend unangenehmen Situation geführt hat und eine Anpassungsstörung hervorruft. Obwohl weniger schwere psychosoziale Belastungen (\"life events\") den Beginn und das Erscheinungsbild auch zahlreicher anderer Störungen dieses Kapitels auslösen und beeinflussen können, ist ihre ätiologische Bedeutung doch nicht immer ganz klar. In jedem Fall hängt sie zusammen mit der individuellen, häufig idiosynkratischen Vulnerabilität, das heißt, die Lebensereignisse sind weder notwendig noch ausreichend, um das Auftreten und die Art der Krankheit zu erklären. Im Gegensatz dazu entstehen die hier aufgeführten Störungen immer als direkte Folge der akuten schweren Belastung oder des kontinuierlichen Traumas. Das belastende Ereignis oder die andauernden, unangenehmen Umstände sind primäre und ausschlaggebende Kausalfaktoren, und die Störung wäre ohne ihre Einwirkung nicht entstanden. Die Störungen dieses Abschnittes können insofern als Anpassungsstörungen bei schwerer oder kontinuierlicher Belastung angesehen werden, als sie erfolgreiche Bewältigungsstrategien behindern und aus diesem Grunde zu Problemen der sozialen Funktionsfähigkeit führen."
+  },
+  "children": [
+    {
+      "code": "F43.0",
+      "kind": "category",
+      "label": "Akute Belastungsreaktion",
+      "rubrics": {
+        "preferred": "Akute Belastungsreaktion",
+        "definition": "Eine vorübergehende Störung, die sich bei einem psychisch nicht manifest gestörten Menschen als Reaktion auf eine außergewöhnliche physische oder psychische Belastung entwickelt, und die im Allgemeinen innerhalb von Stunden oder Tagen abklingt. Die individuelle Vulnerabilität und die zur Verfügung stehenden Bewältigungsmechanismen (Coping-Strategien) spielen bei Auftreten und Schweregrad der akuten Belastungsreaktionen eine Rolle. Die Symptomatik zeigt typischerweise ein gemischtes und wechselndes Bild, beginnend mit einer Art von \"Betäubung\", mit einer gewissen Bewusstseinseinengung und eingeschränkten Aufmerksamkeit, einer Unfähigkeit, Reize zu verarbeiten und Desorientiertheit. Diesem Zustand kann ein weiteres Sichzurückziehen aus der Umweltsituation folgen (bis hin zu dissoziativem Stupor, siehe F44.2) oder aber ein Unruhezustand und Überaktivität (wie Fluchtreaktion oder Fugue). Vegetative Zeichen panischer Angst wie Tachykardie, Schwitzen und Erröten treten zumeist auf. Die Symptome erscheinen im Allgemeinen innerhalb von Minuten nach dem belastenden Ereignis und gehen innerhalb von zwei oder drei Tagen, oft innerhalb von Stunden zurück. Teilweise oder vollständige Amnesie (siehe F44.0) bezüglich dieser Episode kann vorkommen. Wenn die Symptome andauern, sollte eine Änderung der Diagnose in Erwägung gezogen werden.",
+        "inclusion": "Psychischer Schock"
+      },
+      "children": []
+    },
+    {
+      "code": "F43.1",
+      "kind": "category",
+      "label": "Posttraumatische Belastungsstörung",
+      "rubrics": {
+        "preferred": "Posttraumatische Belastungsstörung",
+        "definition": "Diese entsteht als eine verzögerte oder protrahierte Reaktion auf ein belastendes Ereignis oder eine Situation kürzerer oder längerer Dauer, mit außergewöhnlicher Bedrohung oder katastrophenartigem Ausmaß, die bei fast jedem eine tiefe Verzweiflung hervorrufen würde. Prädisponierende Faktoren wie bestimmte, z.B. zwanghafte oder asthenische Persönlichkeitszüge oder neurotische Krankheiten in der Vorgeschichte können die Schwelle für die Entwicklung dieses Syndroms senken und seinen Verlauf erschweren, aber die letztgenannten Faktoren sind weder notwendig noch ausreichend, um das Auftreten der Störung zu erklären. Typische Merkmale sind das wiederholte Erleben des Traumas in sich aufdrängenden Erinnerungen (Nachhallerinnerungen, Flashbacks), Träumen oder Albträumen, die vor dem Hintergrund eines andauernden Gefühls von Betäubtsein und emotionaler Stumpfheit auftreten. Ferner finden sich Gleichgültigkeit gegenüber anderen Menschen, Teilnahmslosigkeit der Umgebung gegenüber, Freudlosigkeit sowie Vermeidung von Aktivitäten und Situationen, die Erinnerungen an das Trauma wachrufen könnten. Meist tritt ein Zustand von vegetativer Übererregtheit mit Vigilanzsteigerung, einer übermäßigen Schreckhaftigkeit und Schlafstörung auf. Angst und Depression sind häufig mit den genannten Symptomen und Merkmalen assoziiert und Suizidgedanken sind nicht selten. Der Beginn folgt dem Trauma mit einer Latenz, die wenige Wochen bis Monate dauern kann. Der Verlauf ist wechselhaft, in der Mehrzahl der Fälle kann jedoch eine Heilung erwartet werden. In wenigen Fällen nimmt die Störung über viele Jahre einen chronischen Verlauf und geht dann in eine andauernde Persönlichkeitsänderung (F62.0) über.",
+        "inclusion": "Traumatische Neurose"
+      },
+      "children": []
+    },
+    {
+      "code": "F43.2",
+      "kind": "category",
+      "label": "Anpassungsstörungen",
+      "rubrics": {
+        "preferred": "Anpassungsstörungen",
+        "definition": "Hierbei handelt es sich um Zustände von subjektiver Bedrängnis und emotionaler Beeinträchtigung, die im Allgemeinen soziale Funktionen und Leistungen behindern und während des Anpassungsprozesses nach einer entscheidenden Lebensveränderung oder nach belastenden Lebensereignissen auftreten. Die Belastung kann das soziale Netz des Betroffenen beschädigt haben (wie bei einem Trauerfall oder Trennungserlebnissen) oder das weitere Umfeld sozialer Unterstützung oder soziale Werte (wie bei Emigration oder nach Flucht). Sie kann auch in einem größeren Entwicklungsschritt oder einer Krise bestehen (wie Schulbesuch, Elternschaft, Misserfolg, Erreichen eines ersehnten Zieles und Ruhestand). Die individuelle Prädisposition oder Vulnerabilität spielt bei dem möglichen Auftreten und bei der Form der Anpassungsstörung eine bedeutsame Rolle; es ist aber dennoch davon auszugehen, dass das Krankheitsbild ohne die Belastung nicht entstanden wäre. Die Anzeichen sind unterschiedlich und umfassen depressive Stimmung, Angst oder Sorge (oder eine Mischung von diesen). Außerdem kann ein Gefühl bestehen, mit den alltäglichen Gegebenheiten nicht zurechtzukommen, diese nicht vorausplanen oder fortsetzen zu können. Störungen des Sozialverhaltens können insbesondere bei Jugendlichen ein zusätzliches Symptom sein.\n\t\t\t\tHervorstechendes Merkmal kann eine kurze oder längere depressive Reaktion oder eine Störung anderer Gefühle und des Sozialverhaltens sein.",
+        "inclusion": "Trauerreaktion",
+        "exclusion": "Trennungsangst in der KindheitF93.0"
+      },
+      "children": []
+    },
+    {
+      "code": "F43.8",
+      "kind": "category",
+      "label": "Sonstige Reaktionen auf schwere Belastung",
+      "rubrics": {
+        "preferred": "Sonstige Reaktionen auf schwere Belastung"
+      },
+      "children": []
+    },
+    {
+      "code": "F43.9",
+      "kind": "category",
+      "label": "Reaktion auf schwere Belastung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Reaktion auf schwere Belastung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

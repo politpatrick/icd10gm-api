@@ -1,0 +1,10 @@
+{
+  "code": "G03.9",
+  "kind": "category",
+  "label": "Meningitis, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Meningitis, nicht näher bezeichnet",
+    "inclusion": "Arachnoiditis (spinal) o.n.A."
+  },
+  "children": []
+}

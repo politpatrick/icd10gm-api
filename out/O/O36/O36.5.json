@@ -1,0 +1,10 @@
+{
+  "code": "O36.5",
+  "kind": "category",
+  "label": "Betreuung der Mutter wegen fetaler Wachstumsretardierung",
+  "rubrics": {
+    "preferred": "Betreuung der Mutter wegen fetaler Wachstumsretardierung",
+    "inclusion": "Betreuung der Mutter wegen festgestellter oder vermuteter fetaler Retardierung:\n\t\t\t\tzu leicht für das Gestationsalter [Light-for-dates]"
+  },
+  "children": []
+}

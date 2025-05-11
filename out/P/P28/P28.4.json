@@ -1,0 +1,11 @@
+{
+  "code": "P28.4",
+  "kind": "category",
+  "label": "Sonstige Apnoe beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Sonstige Apnoe beim Neugeborenen",
+    "inclusion": "Obstruktive Apnoe beim Neugeborenen",
+    "exclusion": "Obstruktive Schlafapnoe beim NeugeborenenP28.3"
+  },
+  "children": []
+}

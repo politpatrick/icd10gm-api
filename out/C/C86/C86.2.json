@@ -1,0 +1,10 @@
+{
+  "code": "C86.2",
+  "kind": "category",
+  "label": "T-Zell-Lymphom vom Enteropathie-Typ",
+  "rubrics": {
+    "preferred": "T-Zell-Lymphom vom Enteropathie-Typ",
+    "inclusion": "Enteropathie-assoziiertes T-Zell-Lymphom"
+  },
+  "children": []
+}

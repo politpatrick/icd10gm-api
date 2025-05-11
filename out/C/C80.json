@@ -1,0 +1,30 @@
+{
+  "code": "C80",
+  "kind": "category",
+  "label": "Bösartige Neubildung ohne Angabe der Lokalisation",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung ohne Angabe der Lokalisation"
+  },
+  "children": [
+    {
+      "code": "C80.0",
+      "kind": "category",
+      "label": "Bösartige Neubildung, primäre Lokalisation unbekannt, so bezeichnet",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung, primäre Lokalisation unbekannt, so bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "C80.9",
+      "kind": "category",
+      "label": "Bösartige Neubildung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung, nicht näher bezeichnet",
+        "inclusion": "Multipler Krebs o.n.A.",
+        "exclusion": "Sekundäre bösartige Neubildung nicht näher bezeichneter LokalisationC79.9"
+      },
+      "children": []
+    }
+  ]
+}

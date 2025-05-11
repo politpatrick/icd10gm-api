@@ -1,0 +1,11 @@
+{
+  "code": "S83.40",
+  "kind": "category",
+  "label": "Nicht näher bezeichnetes Seitenband",
+  "rubrics": {
+    "preferredLong": "Verstauchung und Zerrung des Kniegelenkes: Nicht näher bezeichnetes Seitenband",
+    "preferred": "Nicht näher bezeichnetes Seitenband",
+    "inclusion": "Seitenbandriss o.n.A."
+  },
+  "children": []
+}

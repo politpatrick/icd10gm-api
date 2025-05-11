@@ -1,0 +1,11 @@
+{
+  "code": "K06.2",
+  "kind": "category",
+  "label": "Gingivaläsionen und Läsionen des zahnlosen Alveolarkammes in Verbindung mit Trauma",
+  "rubrics": {
+    "preferred": "Gingivaläsionen und Läsionen des zahnlosen Alveolarkammes in Verbindung mit Trauma",
+    "inclusion": "Irritative Hyperplasie des zahnlosen Alveolarkammes [Hyperplasie durch Zahnprothese]",
+    "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "D74.8",
+  "kind": "category",
+  "label": "Sonstige Methämoglobinämien",
+  "rubrics": {
+    "preferred": "Sonstige Methämoglobinämien",
+    "inclusion": "Toxische Methämoglobinämie",
+    "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

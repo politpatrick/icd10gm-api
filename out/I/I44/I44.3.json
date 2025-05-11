@@ -1,0 +1,10 @@
+{
+  "code": "I44.3",
+  "kind": "category",
+  "label": "Sonstiger und nicht näher bezeichneter atrioventrikulärer Block",
+  "rubrics": {
+    "preferred": "Sonstiger und nicht näher bezeichneter atrioventrikulärer Block",
+    "inclusion": "Atrioventrikulärer Block o.n.A."
+  },
+  "children": []
+}

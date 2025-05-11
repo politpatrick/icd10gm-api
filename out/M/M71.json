@@ -1,0 +1,90 @@
+{
+  "code": "M71",
+  "kind": "category",
+  "label": "Sonstige Bursopathien",
+  "rubrics": {
+    "preferred": "Sonstige Bursopathien",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+    "exclusion": "FußballenentzündungM20.1"
+  },
+  "children": [
+    {
+      "code": "M71.0",
+      "kind": "category",
+      "label": "Schleimbeutelabszess",
+      "rubrics": {
+        "preferred": "Schleimbeutelabszess"
+      },
+      "children": []
+    },
+    {
+      "code": "M71.1",
+      "kind": "category",
+      "label": "Sonstige infektiöse Bursitis",
+      "rubrics": {
+        "preferred": "Sonstige infektiöse Bursitis"
+      },
+      "children": []
+    },
+    {
+      "code": "M71.2",
+      "kind": "category",
+      "label": "Synovialzyste im Bereich der Kniekehle [Baker-Zyste]",
+      "rubrics": {
+        "preferred": "Synovialzyste im Bereich der Kniekehle [Baker-Zyste]",
+        "exclusion": "Bei RupturM66.0"
+      },
+      "children": []
+    },
+    {
+      "code": "M71.3",
+      "kind": "category",
+      "label": "Sonstige Schleimbeutelzyste",
+      "rubrics": {
+        "preferred": "Sonstige Schleimbeutelzyste",
+        "inclusion": "Synovialzyste o.n.A.",
+        "exclusion": "Ruptur einer SynovialzysteM66.1-"
+      },
+      "children": []
+    },
+    {
+      "code": "M71.4",
+      "kind": "category",
+      "label": "Bursitis calcarea",
+      "rubrics": {
+        "preferred": "Bursitis calcarea",
+        "exclusion": "Im SchulterbereichM75.3"
+      },
+      "children": []
+    },
+    {
+      "code": "M71.5",
+      "kind": "category",
+      "label": "Sonstige Bursitis, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Bursitis, anderenorts nicht klassifiziert",
+        "exclusion": "Bursitis:\n\t\t\t\to.n.A.M71.9-"
+      },
+      "children": []
+    },
+    {
+      "code": "M71.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Bursopathien",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Bursopathien"
+      },
+      "children": []
+    },
+    {
+      "code": "M71.9",
+      "kind": "category",
+      "label": "Bursopathie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Bursopathie, nicht näher bezeichnet",
+        "inclusion": "Bursitis o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

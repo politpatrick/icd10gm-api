@@ -1,0 +1,10 @@
+{
+  "code": "E24.3",
+  "kind": "category",
+  "label": "Ektopisches ACTH-Syndrom",
+  "rubrics": {
+    "preferred": "Ektopisches ACTH-Syndrom",
+    "inclusion": "Cushing-Syndrom als Folge von ektopischem ACTH-bildendem Tumor"
+  },
+  "children": []
+}

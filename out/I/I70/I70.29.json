@@ -1,0 +1,11 @@
+{
+  "code": "I70.29",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Atherosklerose der Extremitätenarterien",
+  "rubrics": {
+    "preferredLong": "Atherosklerose der Extremitätenarterien: Sonstige und nicht näher bezeichnet",
+    "preferred": "Sonstige und nicht näher bezeichnete Atherosklerose der Extremitätenarterien",
+    "inclusion": "Periphere arterielle Verschlusskrankheit [pAVK] o.n.A."
+  },
+  "children": []
+}

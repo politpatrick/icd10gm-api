@@ -1,0 +1,32 @@
+{
+  "code": "D69.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete hämorrhagische Diathesen",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete hämorrhagische Diathesen"
+  },
+  "children": [
+    {
+      "code": "D69.80",
+      "kind": "category",
+      "label": "Hämorrhagische Diathese durch Thrombozytenaggregationshemmer",
+      "rubrics": {
+        "preferred": "Hämorrhagische Diathese durch Thrombozytenaggregationshemmer",
+        "inclusion": "Blutung bei Dauertherapie mit Thrombozytenaggregationshemmern",
+        "exclusion": "Dauertherapie mit Thrombozytenaggregationshemmern ohne BlutungZ92.2"
+      },
+      "children": []
+    },
+    {
+      "code": "D69.88",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete hämorrhagische Diathesen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete hämorrhagische Diathesen",
+        "inclusion": "Vaskuläre Pseudohämophilie",
+        "coding-hint": "Benutze für Zwecke der Abrechnung der Zusatzentgelte entsprechend Anlage 7 zur FPV eine zusätzliche Schlüsselnummer, um das Vorliegen einer \"dauerhaft erworbenen\" (U69.11!) oder \"temporären\" (U69.12!) Blutgerinnungsstörung anzuzeigen."
+      },
+      "children": []
+    }
+  ]
+}

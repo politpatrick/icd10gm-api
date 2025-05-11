@@ -1,0 +1,400 @@
+{
+  "code": "C30-C39",
+  "kind": "block",
+  "label": "Bösartige Neubildungen der Atmungsorgane und sonstiger intrathorakaler Organe",
+  "rubrics": {
+    "preferred": "Bösartige Neubildungen der Atmungsorgane und sonstiger intrathorakaler Organe",
+    "inclusion": "Mittelohr",
+    "exclusion": "MesotheliomC45.-"
+  },
+  "children": [
+    {
+      "code": "C30",
+      "kind": "category",
+      "label": "Bösartige Neubildung der Nasenhöhle und des Mittelohres",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung der Nasenhöhle und des Mittelohres"
+      },
+      "children": [
+        {
+          "code": "C30.0",
+          "kind": "category",
+          "label": "Nasenhöhle",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Nasenhöhle",
+            "preferred": "Nasenhöhle",
+            "inclusion": "Vestibulum nasi",
+            "exclusion": "NasenbeinC41.02"
+          },
+          "children": []
+        },
+        {
+          "code": "C30.1",
+          "kind": "category",
+          "label": "Mittelohr",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Mittelohr",
+            "preferred": "Mittelohr",
+            "inclusion": "Tuba auditiva [Eustachio]",
+            "exclusion": "OhrknorpelC49.0"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "C31",
+      "kind": "category",
+      "label": "Bösartige Neubildung der Nasennebenhöhlen",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung der Nasennebenhöhlen"
+      },
+      "children": [
+        {
+          "code": "C31.0",
+          "kind": "category",
+          "label": "Sinus maxillaris [Kieferhöhle]",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Sinus maxillaris [Kieferhöhle]",
+            "preferred": "Sinus maxillaris [Kieferhöhle]",
+            "inclusion": "Antrum maxillare [Highmore-Höhle]"
+          },
+          "children": []
+        },
+        {
+          "code": "C31.1",
+          "kind": "category",
+          "label": "Sinus ethmoidalis [Siebbeinzellen]",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Sinus ethmoidalis [Siebbeinzellen]",
+            "preferred": "Sinus ethmoidalis [Siebbeinzellen]"
+          },
+          "children": []
+        },
+        {
+          "code": "C31.2",
+          "kind": "category",
+          "label": "Sinus frontalis [Stirnhöhle]",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Sinus frontalis [Stirnhöhle]",
+            "preferred": "Sinus frontalis [Stirnhöhle]"
+          },
+          "children": []
+        },
+        {
+          "code": "C31.3",
+          "kind": "category",
+          "label": "Sinus sphenoidalis [Keilbeinhöhle]",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Sinus sphenoidalis [Keilbeinhöhle]",
+            "preferred": "Sinus sphenoidalis [Keilbeinhöhle]"
+          },
+          "children": []
+        },
+        {
+          "code": "C31.8",
+          "kind": "category",
+          "label": "Nasennebenhöhlen, mehrere Teilbereiche überlappend",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Nasennebenhöhlen, mehrere Teilbereiche überlappend",
+            "preferred": "Nasennebenhöhlen, mehrere Teilbereiche überlappend",
+            "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+          },
+          "children": []
+        },
+        {
+          "code": "C31.9",
+          "kind": "category",
+          "label": "Nasennebenhöhle, nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Nasennebenhöhle, nicht näher bezeichnet",
+            "preferred": "Nasennebenhöhle, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "C32",
+      "kind": "category",
+      "label": "Bösartige Neubildung des Larynx",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung des Larynx"
+      },
+      "children": [
+        {
+          "code": "C32.0",
+          "kind": "category",
+          "label": "Glottis",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Glottis",
+            "preferred": "Glottis",
+            "inclusion": "Ventriculus laryngis"
+          },
+          "children": []
+        },
+        {
+          "code": "C32.1",
+          "kind": "category",
+          "label": "Supraglottis",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Supraglottis",
+            "preferred": "Supraglottis",
+            "inclusion": "Vestibulum laryngis",
+            "exclusion": "Vorderfläche der EpiglottisC10.1"
+          },
+          "children": []
+        },
+        {
+          "code": "C32.2",
+          "kind": "category",
+          "label": "Subglottis",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Subglottis",
+            "preferred": "Subglottis"
+          },
+          "children": []
+        },
+        {
+          "code": "C32.3",
+          "kind": "category",
+          "label": "Larynxknorpel",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Larynxknorpel",
+            "preferred": "Larynxknorpel"
+          },
+          "children": []
+        },
+        {
+          "code": "C32.8",
+          "kind": "category",
+          "label": "Larynx, mehrere Teilbereiche überlappend",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Larynx, mehrere Teilbereiche überlappend",
+            "preferred": "Larynx, mehrere Teilbereiche überlappend",
+            "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+          },
+          "children": []
+        },
+        {
+          "code": "C32.9",
+          "kind": "category",
+          "label": "Larynx, nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Larynx, nicht näher bezeichnet",
+            "preferred": "Larynx, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "C33",
+      "kind": "category",
+      "label": "Bösartige Neubildung der Trachea",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung der Trachea"
+      },
+      "children": []
+    },
+    {
+      "code": "C34",
+      "kind": "category",
+      "label": "Bösartige Neubildung der Bronchien und der Lunge",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung der Bronchien und der Lunge"
+      },
+      "children": [
+        {
+          "code": "C34.0",
+          "kind": "category",
+          "label": "Hauptbronchus",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Hauptbronchus",
+            "preferred": "Hauptbronchus",
+            "inclusion": "Hilus (Lunge)"
+          },
+          "children": []
+        },
+        {
+          "code": "C34.1",
+          "kind": "category",
+          "label": "Oberlappen (-Bronchus)",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Oberlappen (-Bronchus)",
+            "preferred": "Oberlappen (-Bronchus)"
+          },
+          "children": []
+        },
+        {
+          "code": "C34.2",
+          "kind": "category",
+          "label": "Mittellappen (-Bronchus)",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Mittellappen (-Bronchus)",
+            "preferred": "Mittellappen (-Bronchus)"
+          },
+          "children": []
+        },
+        {
+          "code": "C34.3",
+          "kind": "category",
+          "label": "Unterlappen (-Bronchus)",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Unterlappen (-Bronchus)",
+            "preferred": "Unterlappen (-Bronchus)"
+          },
+          "children": []
+        },
+        {
+          "code": "C34.8",
+          "kind": "category",
+          "label": "Bronchus und Lunge, mehrere Teilbereiche überlappend",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Bronchus und Lunge, mehrere Teilbereiche überlappend",
+            "preferred": "Bronchus und Lunge, mehrere Teilbereiche überlappend",
+            "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+          },
+          "children": []
+        },
+        {
+          "code": "C34.9",
+          "kind": "category",
+          "label": "Bronchus oder Lunge, nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Bronchus oder Lunge, nicht näher bezeichnet",
+            "preferred": "Bronchus oder Lunge, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "C37",
+      "kind": "category",
+      "label": "Bösartige Neubildung des Thymus",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung des Thymus"
+      },
+      "children": []
+    },
+    {
+      "code": "C38",
+      "kind": "category",
+      "label": "Bösartige Neubildung des Herzens, des Mediastinums und der Pleura",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung des Herzens, des Mediastinums und der Pleura",
+        "exclusion": "MesotheliomC45.-"
+      },
+      "children": [
+        {
+          "code": "C38.0",
+          "kind": "category",
+          "label": "Herz",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Herz",
+            "preferred": "Herz",
+            "inclusion": "Perikard",
+            "exclusion": "Große GefäßeC49.3"
+          },
+          "children": []
+        },
+        {
+          "code": "C38.1",
+          "kind": "category",
+          "label": "Vorderes Mediastinum",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Vorderes Mediastinum",
+            "preferred": "Vorderes Mediastinum"
+          },
+          "children": []
+        },
+        {
+          "code": "C38.2",
+          "kind": "category",
+          "label": "Hinteres Mediastinum",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Hinteres Mediastinum",
+            "preferred": "Hinteres Mediastinum"
+          },
+          "children": []
+        },
+        {
+          "code": "C38.3",
+          "kind": "category",
+          "label": "Mediastinum, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Mediastinum, Teil nicht näher bezeichnet",
+            "preferred": "Mediastinum, Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "C38.4",
+          "kind": "category",
+          "label": "Pleura",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Pleura",
+            "preferred": "Pleura"
+          },
+          "children": []
+        },
+        {
+          "code": "C38.8",
+          "kind": "category",
+          "label": "Herz, Mediastinum und Pleura, mehrere Teilbereiche überlappend",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Herz, Mediastinum und Pleura, mehrere Teilbereiche überlappend",
+            "preferred": "Herz, Mediastinum und Pleura, mehrere Teilbereiche überlappend",
+            "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "C39",
+      "kind": "category",
+      "label": "Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen des Atmungssystems und sonstiger intrathorakaler Organe",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen des Atmungssystems und sonstiger intrathorakaler Organe",
+        "exclusion": "Thorakal o.n.A.C76.1"
+      },
+      "children": [
+        {
+          "code": "C39.0",
+          "kind": "category",
+          "label": "Obere Atemwege, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Obere Atemwege, Teil nicht näher bezeichnet",
+            "preferred": "Obere Atemwege, Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "C39.8",
+          "kind": "category",
+          "label": "Atmungsorgane und sonstige intrathorakale Organe, mehrere Teilbereiche überlappend",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Atmungsorgane und sonstige intrathorakale Organe, mehrere Teilbereiche überlappend",
+            "preferred": "Atmungsorgane und sonstige intrathorakale Organe, mehrere Teilbereiche überlappend",
+            "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]",
+            "inclusion": "Bösartige Neubildung der Atmungsorgane und sonstiger intrathorakaler Organe, deren Ursprungsort nicht unter den Kategorien C30-C39.0 klassifiziert werden kann"
+          },
+          "children": []
+        },
+        {
+          "code": "C39.9",
+          "kind": "category",
+          "label": "Ungenau bezeichnete Lokalisationen des Atmungssystems",
+          "rubrics": {
+            "preferredLong": "Bösartige Neubildung: Ungenau bezeichnete Lokalisationen des Atmungssystems",
+            "preferred": "Ungenau bezeichnete Lokalisationen des Atmungssystems",
+            "inclusion": "Respirationstrakt o.n.A."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

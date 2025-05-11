@@ -1,0 +1,10 @@
+{
+  "code": "M35.6",
+  "kind": "category",
+  "label": "Rezidivierende Pannikulitis [Pfeifer-Weber-Christian-Krankheit]",
+  "rubrics": {
+    "preferred": "Rezidivierende Pannikulitis [Pfeifer-Weber-Christian-Krankheit]",
+    "exclusion": "Pannikulitis:\n\t\t\t\to.n.A.M79.3-"
+  },
+  "children": []
+}

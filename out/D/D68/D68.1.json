@@ -1,0 +1,10 @@
+{
+  "code": "D68.1",
+  "kind": "category",
+  "label": "Hereditärer Faktor-XI-Mangel",
+  "rubrics": {
+    "preferred": "Hereditärer Faktor-XI-Mangel",
+    "inclusion": "Plasma-Thromboplastin-Antecedent[PTA]-Mangel"
+  },
+  "children": []
+}

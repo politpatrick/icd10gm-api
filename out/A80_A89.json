@@ -1,0 +1,484 @@
+{
+  "code": "A80-A89",
+  "kind": "block",
+  "label": "Virusinfektionen des Zentralnervensystems",
+  "rubrics": {
+    "preferred": "Virusinfektionen des Zentralnervensystems",
+    "exclusion": "Folgezustände von:\n\t\t\t\tVirusenzephalitisB94.1"
+  },
+  "children": [
+    {
+      "code": "A80",
+      "kind": "category",
+      "label": "Akute Poliomyelitis [Spinale Kinderlähmung]",
+      "rubrics": {
+        "preferred": "Akute Poliomyelitis [Spinale Kinderlähmung]"
+      },
+      "children": [
+        {
+          "code": "A80.0",
+          "kind": "category",
+          "label": "Akute paralytische Poliomyelitis durch Impfvirus",
+          "rubrics": {
+            "preferred": "Akute paralytische Poliomyelitis durch Impfvirus"
+          },
+          "children": []
+        },
+        {
+          "code": "A80.1",
+          "kind": "category",
+          "label": "Akute paralytische Poliomyelitis durch importiertes Wildvirus",
+          "rubrics": {
+            "preferred": "Akute paralytische Poliomyelitis durch importiertes Wildvirus"
+          },
+          "children": []
+        },
+        {
+          "code": "A80.2",
+          "kind": "category",
+          "label": "Akute paralytische Poliomyelitis durch einheimisches Wildvirus",
+          "rubrics": {
+            "preferred": "Akute paralytische Poliomyelitis durch einheimisches Wildvirus"
+          },
+          "children": []
+        },
+        {
+          "code": "A80.3",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete akute paralytische Poliomyelitis",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete akute paralytische Poliomyelitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A80.4",
+          "kind": "category",
+          "label": "Akute nichtparalytische Poliomyelitis",
+          "rubrics": {
+            "preferred": "Akute nichtparalytische Poliomyelitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A80.9",
+          "kind": "category",
+          "label": "Akute Poliomyelitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Akute Poliomyelitis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A81",
+      "kind": "category",
+      "label": "Atypische Virusinfektionen des Zentralnervensystems",
+      "rubrics": {
+        "preferred": "Atypische Virusinfektionen des Zentralnervensystems",
+        "inclusion": "Prionen-Krankheiten des Zentralnervensystems"
+      },
+      "children": [
+        {
+          "code": "A81.0",
+          "kind": "category",
+          "label": "Creutzfeldt-Jakob-Krankheit",
+          "rubrics": {
+            "preferred": "Creutzfeldt-Jakob-Krankheit",
+            "inclusion": "Subakute spongioforme Enzephalopathie"
+          },
+          "children": []
+        },
+        {
+          "code": "A81.1",
+          "kind": "category",
+          "label": "Subakute sklerosierende Panenzephalitis",
+          "rubrics": {
+            "preferred": "Subakute sklerosierende Panenzephalitis",
+            "inclusion": "Sklerosierende Leukenzephalopathie [van Bogaert]"
+          },
+          "children": []
+        },
+        {
+          "code": "A81.2",
+          "kind": "category",
+          "label": "Progressive multifokale Leukenzephalopathie",
+          "rubrics": {
+            "preferred": "Progressive multifokale Leukenzephalopathie",
+            "inclusion": "Multifokale Leukenzephalopathie o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "A81.8",
+          "kind": "category",
+          "label": "Sonstige atypische Virusinfektionen des Zentralnervensystems",
+          "rubrics": {
+            "preferred": "Sonstige atypische Virusinfektionen des Zentralnervensystems",
+            "inclusion": "Kuru"
+          },
+          "children": []
+        },
+        {
+          "code": "A81.9",
+          "kind": "category",
+          "label": "Atypische Virusinfektion des Zentralnervensystems, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Atypische Virusinfektion des Zentralnervensystems, nicht näher bezeichnet",
+            "inclusion": "Prionen-Krankheit des Zentralnervensystems o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A82",
+      "kind": "category",
+      "label": "Tollwut [Rabies]",
+      "rubrics": {
+        "preferred": "Tollwut [Rabies]"
+      },
+      "children": [
+        {
+          "code": "A82.0",
+          "kind": "category",
+          "label": "Wildtier-Tollwut",
+          "rubrics": {
+            "preferred": "Wildtier-Tollwut"
+          },
+          "children": []
+        },
+        {
+          "code": "A82.1",
+          "kind": "category",
+          "label": "Haustier-Tollwut",
+          "rubrics": {
+            "preferred": "Haustier-Tollwut"
+          },
+          "children": []
+        },
+        {
+          "code": "A82.9",
+          "kind": "category",
+          "label": "Tollwut, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Tollwut, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A83",
+      "kind": "category",
+      "label": "Virusenzephalitis, durch Moskitos [Stechmücken] übertragen",
+      "rubrics": {
+        "preferred": "Virusenzephalitis, durch Moskitos [Stechmücken] übertragen",
+        "inclusion": "Virusmeningoenzephalitis, durch Moskitos übertragen",
+        "exclusion": "Venezolanische PferdeenzephalitisA92.2"
+      },
+      "children": [
+        {
+          "code": "A83.0",
+          "kind": "category",
+          "label": "Japanische Enzephalitis",
+          "rubrics": {
+            "preferred": "Japanische Enzephalitis",
+            "inclusion": "Japan-B-Enzephalitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A83.1",
+          "kind": "category",
+          "label": "Westliche Pferdeenzephalitis [Western-Equine-Encephalitis]",
+          "rubrics": {
+            "preferred": "Westliche Pferdeenzephalitis [Western-Equine-Encephalitis]"
+          },
+          "children": []
+        },
+        {
+          "code": "A83.2",
+          "kind": "category",
+          "label": "Östliche Pferdeenzephalitis [Eastern-Equine-Encephalitis]",
+          "rubrics": {
+            "preferred": "Östliche Pferdeenzephalitis [Eastern-Equine-Encephalitis]"
+          },
+          "children": []
+        },
+        {
+          "code": "A83.3",
+          "kind": "category",
+          "label": "St.-Louis-Enzephalitis",
+          "rubrics": {
+            "preferred": "St.-Louis-Enzephalitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A83.4",
+          "kind": "category",
+          "label": "Australische Enzephalitis",
+          "rubrics": {
+            "preferred": "Australische Enzephalitis",
+            "inclusion": "Murray-Valley-Enzephalitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A83.5",
+          "kind": "category",
+          "label": "Kalifornische Enzephalitis",
+          "rubrics": {
+            "preferred": "Kalifornische Enzephalitis",
+            "inclusion": "LaCrosse-Enzephalitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A83.6",
+          "kind": "category",
+          "label": "Rocio-Virusenzephalitis",
+          "rubrics": {
+            "preferred": "Rocio-Virusenzephalitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A83.8",
+          "kind": "category",
+          "label": "Sonstige Virusenzephalitis, durch Moskitos übertragen",
+          "rubrics": {
+            "preferred": "Sonstige Virusenzephalitis, durch Moskitos übertragen"
+          },
+          "children": []
+        },
+        {
+          "code": "A83.9",
+          "kind": "category",
+          "label": "Virusenzephalitis, durch Moskitos übertragen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Virusenzephalitis, durch Moskitos übertragen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A84",
+      "kind": "category",
+      "label": "Virusenzephalitis, durch Zecken übertragen",
+      "rubrics": {
+        "preferred": "Virusenzephalitis, durch Zecken übertragen",
+        "inclusion": "Virusmeningoenzephalitis, durch Zecken übertragen"
+      },
+      "children": [
+        {
+          "code": "A84.0",
+          "kind": "category",
+          "label": "Fernöstliche Enzephalitis, durch Zecken übertragen [Russische Frühsommer-Enzephalitis]",
+          "rubrics": {
+            "preferred": "Fernöstliche Enzephalitis, durch Zecken übertragen [Russische Frühsommer-Enzephalitis]"
+          },
+          "children": []
+        },
+        {
+          "code": "A84.1",
+          "kind": "category",
+          "label": "Mitteleuropäische Enzephalitis, durch Zecken übertragen",
+          "rubrics": {
+            "preferred": "Mitteleuropäische Enzephalitis, durch Zecken übertragen",
+            "inclusion": "Zentraleuropäische Frühsommer-Meningoenzephalitis [FSME]"
+          },
+          "children": []
+        },
+        {
+          "code": "A84.8",
+          "kind": "category",
+          "label": "Sonstige Virusenzephalitis, durch Zecken übertragen",
+          "rubrics": {
+            "preferred": "Sonstige Virusenzephalitis, durch Zecken übertragen",
+            "inclusion": "Powassan-Enzephalitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A84.9",
+          "kind": "category",
+          "label": "Virusenzephalitis, durch Zecken übertragen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Virusenzephalitis, durch Zecken übertragen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A85",
+      "kind": "category",
+      "label": "Sonstige Virusenzephalitis, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Virusenzephalitis, anderenorts nicht klassifiziert",
+        "inclusion": "Virusmeningoenzephalitis durch näher bezeichnete Viren, anderenorts nicht klassifiziert",
+        "exclusion": "Myalgische EnzephalomyelitisG93.3"
+      },
+      "children": [
+        {
+          "code": "A85.0",
+          "kind": "category",
+          "label": "Enzephalitis durch EnterovirenG05.1",
+          "rubrics": {
+            "preferred": "Enzephalitis durch EnterovirenG05.1",
+            "inclusion": "Enzephalomyelitis durch Enteroviren"
+          },
+          "children": []
+        },
+        {
+          "code": "A85.1",
+          "kind": "category",
+          "label": "Enzephalitis durch AdenovirenG05.1",
+          "rubrics": {
+            "preferred": "Enzephalitis durch AdenovirenG05.1",
+            "inclusion": "Meningoenzephalitis durch Adenoviren"
+          },
+          "children": []
+        },
+        {
+          "code": "A85.2",
+          "kind": "category",
+          "label": "Virusenzephalitis, durch Arthropoden übertragen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Virusenzephalitis, durch Arthropoden übertragen, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "A85.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Virusenzephalitis",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Virusenzephalitis",
+            "inclusion": "Encephalitis lethargica sive epidemica"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A86",
+      "kind": "category",
+      "label": "Virusenzephalitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Virusenzephalitis, nicht näher bezeichnet",
+        "inclusion": "Virusmeningoenzephalitis o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "A87",
+      "kind": "category",
+      "label": "Virusmeningitis",
+      "rubrics": {
+        "preferred": "Virusmeningitis",
+        "exclusion": "Meningitis durch:\n\t\t\t\tVarizella-Zoster-VirusB02.1"
+      },
+      "children": [
+        {
+          "code": "A87.0",
+          "kind": "category",
+          "label": "Meningitis durch EnterovirenG02.0",
+          "rubrics": {
+            "preferred": "Meningitis durch EnterovirenG02.0",
+            "inclusion": "Meningitis durch ECHO-Viren"
+          },
+          "children": []
+        },
+        {
+          "code": "A87.1",
+          "kind": "category",
+          "label": "Meningitis durch AdenovirenG02.0",
+          "rubrics": {
+            "preferred": "Meningitis durch AdenovirenG02.0"
+          },
+          "children": []
+        },
+        {
+          "code": "A87.2",
+          "kind": "category",
+          "label": "Lymphozytäre Choriomeningitis",
+          "rubrics": {
+            "preferred": "Lymphozytäre Choriomeningitis",
+            "inclusion": "Lymphozytäre Meningoenzephalitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A87.8",
+          "kind": "category",
+          "label": "Sonstige Virusmeningitis",
+          "rubrics": {
+            "preferred": "Sonstige Virusmeningitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A87.9",
+          "kind": "category",
+          "label": "Virusmeningitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Virusmeningitis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A88",
+      "kind": "category",
+      "label": "Sonstige Virusinfektionen des Zentralnervensystems, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Virusinfektionen des Zentralnervensystems, anderenorts nicht klassifiziert",
+        "exclusion": "Virusmeningitis o.n.A.A87.9"
+      },
+      "children": [
+        {
+          "code": "A88.0",
+          "kind": "category",
+          "label": "Fieber und Exanthem durch Enteroviren [Boston-Exanthem]",
+          "rubrics": {
+            "preferred": "Fieber und Exanthem durch Enteroviren [Boston-Exanthem]"
+          },
+          "children": []
+        },
+        {
+          "code": "A88.1",
+          "kind": "category",
+          "label": "Epidemischer Schwindel",
+          "rubrics": {
+            "preferred": "Epidemischer Schwindel"
+          },
+          "children": []
+        },
+        {
+          "code": "A88.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Virusinfektionen des Zentralnervensystems",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Virusinfektionen des Zentralnervensystems"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A89",
+      "kind": "category",
+      "label": "Virusinfektion des Zentralnervensystems, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Virusinfektion des Zentralnervensystems, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

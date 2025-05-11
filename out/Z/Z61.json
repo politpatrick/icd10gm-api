@@ -1,0 +1,11 @@
+{
+  "code": "Z61",
+  "kind": "category",
+  "label": "Kontaktanlässe mit Bezug auf Kindheitserlebnisse",
+  "rubrics": {
+    "preferred": "Kontaktanlässe mit Bezug auf Kindheitserlebnisse",
+    "inclusion": "Verlust einer nahen Bezugsperson in der Kindheit",
+    "exclusion": "Missbrauch von PersonenT74.-"
+  },
+  "children": []
+}

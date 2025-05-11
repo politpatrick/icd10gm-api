@@ -1,0 +1,10 @@
+{
+  "code": "O61.1",
+  "kind": "category",
+  "label": "Misslungene instrumentelle Geburtseinleitung",
+  "rubrics": {
+    "preferred": "Misslungene instrumentelle Geburtseinleitung",
+    "inclusion": "Misslungene Geburtseinleitung:\n\t\t\t\toperativ"
+  },
+  "children": []
+}

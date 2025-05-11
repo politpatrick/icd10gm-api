@@ -1,0 +1,11 @@
+{
+  "code": "N81.1",
+  "kind": "category",
+  "label": "Zystozele",
+  "rubrics": {
+    "preferred": "Zystozele",
+    "inclusion": "Zystozele mit Urethrozele",
+    "exclusion": "Zystozele mit UterusprolapsN81.2-N81.4"
+  },
+  "children": []
+}

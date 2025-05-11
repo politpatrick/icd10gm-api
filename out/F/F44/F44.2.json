@@ -1,0 +1,11 @@
+{
+  "code": "F44.2",
+  "kind": "category",
+  "label": "Dissoziativer Stupor",
+  "rubrics": {
+    "preferred": "Dissoziativer Stupor",
+    "definition": "Dissoziativer Stupor wird aufgrund einer beträchtlichen Verringerung oder des Fehlens von willkürlichen Bewegungen und normalen Reaktionen auf äußere Reize wie Licht, Geräusche oder Berührung diagnostiziert. Dabei lassen Befragung und Untersuchung keinen Anhalt für eine körperliche Ursache erkennen. Zusätzliche Hinweise auf die psychogene Verursachung geben kurz vorhergegangene belastende Ereignisse oder Probleme.",
+    "exclusion": "Stupor:\n\t\t\t\to.n.A.R40.1"
+  },
+  "children": []
+}

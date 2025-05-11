@@ -1,0 +1,10 @@
+{
+  "code": "H30.2",
+  "kind": "category",
+  "label": "Cyclitis posterior",
+  "rubrics": {
+    "preferred": "Cyclitis posterior",
+    "inclusion": "Entzündung der Pars plana corporis ciliaris"
+  },
+  "children": []
+}

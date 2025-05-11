@@ -1,0 +1,10 @@
+{
+  "code": "T85.4",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch Mammaprothese oder -implantat",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch Mammaprothese oder -implantat",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch Mammaprothese oder -implantat"
+  },
+  "children": []
+}

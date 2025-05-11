@@ -1,0 +1,10 @@
+{
+  "code": "E26.8",
+  "kind": "category",
+  "label": "Sonstiger Hyperaldosteronismus",
+  "rubrics": {
+    "preferred": "Sonstiger Hyperaldosteronismus",
+    "inclusion": "Bartter-Syndrom"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "B80",
+  "kind": "category",
+  "label": "Enterobiasis",
+  "rubrics": {
+    "preferred": "Enterobiasis",
+    "inclusion": "Oxyuriasis"
+  },
+  "children": []
+}

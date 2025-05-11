@@ -1,0 +1,31 @@
+{
+  "code": "S72.1",
+  "kind": "category",
+  "label": "Pertrochantäre Fraktur",
+  "rubrics": {
+    "preferred": "Pertrochantäre Fraktur"
+  },
+  "children": [
+    {
+      "code": "S72.10",
+      "kind": "category",
+      "label": "Trochantär, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Femurfraktur: Trochantär, nicht näher bezeichnet",
+        "preferred": "Trochantär, nicht näher bezeichnet",
+        "inclusion": "Trochanter minor"
+      },
+      "children": []
+    },
+    {
+      "code": "S72.11",
+      "kind": "category",
+      "label": "Intertrochantär",
+      "rubrics": {
+        "preferredLong": "Femurfraktur: Intertrochantär",
+        "preferred": "Intertrochantär"
+      },
+      "children": []
+    }
+  ]
+}

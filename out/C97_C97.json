@@ -1,0 +1,20 @@
+{
+  "code": "C97-C97",
+  "kind": "block",
+  "label": "Bösartige Neubildungen als Primärtumore an mehreren Lokalisationen",
+  "rubrics": {
+    "preferred": "Bösartige Neubildungen als Primärtumore an mehreren Lokalisationen"
+  },
+  "children": [
+    {
+      "code": "C97",
+      "kind": "category",
+      "label": "Bösartige Neubildungen als Primärtumore an mehreren Lokalisationen",
+      "rubrics": {
+        "preferred": "Bösartige Neubildungen als Primärtumore an mehreren Lokalisationen",
+        "note": "Die einzelnen bösartigen Neubildungen sind separat zu kodieren. Die Schlüsselnummer C97! kann auch dann verwendet werden, wenn die einzelnen bösartigen Primärtumore nur durch eine einzige Schlüsselnummer (z.B. C43.5 Bösartiges Melanom des Rumpfes) kodiert werden."
+      },
+      "children": []
+    }
+  ]
+}

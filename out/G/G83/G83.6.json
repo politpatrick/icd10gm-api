@@ -1,0 +1,11 @@
+{
+  "code": "G83.6",
+  "kind": "category",
+  "label": "Zentrale faziale Parese",
+  "rubrics": {
+    "preferred": "Zentrale faziale Parese",
+    "inclusion": "Faziale Parese (Lähmung) (Schwäche) durch Läsion des oberen Motoneurons",
+    "exclusion": "Fazialisparese (durch Läsion des unteren Motoneurons)G51.0"
+  },
+  "children": []
+}

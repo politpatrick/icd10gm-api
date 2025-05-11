@@ -1,0 +1,151 @@
+{
+  "code": "Z52",
+  "kind": "category",
+  "label": "Spender von Organen oder Geweben",
+  "rubrics": {
+    "preferred": "Spender von Organen oder Geweben",
+    "exclusion": "Untersuchung eines potentiellen SpendersZ00.5"
+  },
+  "children": [
+    {
+      "code": "Z52.0",
+      "kind": "category",
+      "label": "Blutspender",
+      "rubrics": {
+        "preferred": "Blutspender"
+      },
+      "children": [
+        {
+          "code": "Z52.00",
+          "kind": "category",
+          "label": "Vollblutspender",
+          "rubrics": {
+            "preferred": "Vollblutspender"
+          },
+          "children": []
+        },
+        {
+          "code": "Z52.01",
+          "kind": "category",
+          "label": "Stammzellenspender",
+          "rubrics": {
+            "preferred": "Stammzellenspender"
+          },
+          "children": []
+        },
+        {
+          "code": "Z52.08",
+          "kind": "category",
+          "label": "Spender sonstiger Blutbestandteile",
+          "rubrics": {
+            "preferred": "Spender sonstiger Blutbestandteile",
+            "inclusion": "Thrombozyten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z52.1",
+      "kind": "category",
+      "label": "Hautspender",
+      "rubrics": {
+        "preferred": "Hautspender"
+      },
+      "children": []
+    },
+    {
+      "code": "Z52.2",
+      "kind": "category",
+      "label": "Knochenspender",
+      "rubrics": {
+        "preferred": "Knochenspender"
+      },
+      "children": []
+    },
+    {
+      "code": "Z52.3",
+      "kind": "category",
+      "label": "Knochenmarkspender",
+      "rubrics": {
+        "preferred": "Knochenmarkspender"
+      },
+      "children": []
+    },
+    {
+      "code": "Z52.4",
+      "kind": "category",
+      "label": "Nierenspender",
+      "rubrics": {
+        "preferred": "Nierenspender"
+      },
+      "children": []
+    },
+    {
+      "code": "Z52.5",
+      "kind": "category",
+      "label": "Korneaspender",
+      "rubrics": {
+        "preferred": "Korneaspender"
+      },
+      "children": []
+    },
+    {
+      "code": "Z52.6",
+      "kind": "category",
+      "label": "Leberspender",
+      "rubrics": {
+        "preferred": "Leberspender"
+      },
+      "children": []
+    },
+    {
+      "code": "Z52.7",
+      "kind": "category",
+      "label": "Herzspender",
+      "rubrics": {
+        "preferred": "Herzspender"
+      },
+      "children": []
+    },
+    {
+      "code": "Z52.8",
+      "kind": "category",
+      "label": "Spender sonstiger Organe oder Gewebe",
+      "rubrics": {
+        "preferred": "Spender sonstiger Organe oder Gewebe"
+      },
+      "children": [
+        {
+          "code": "Z52.80",
+          "kind": "category",
+          "label": "Lungenspender",
+          "rubrics": {
+            "preferred": "Lungenspender"
+          },
+          "children": []
+        },
+        {
+          "code": "Z52.88",
+          "kind": "category",
+          "label": "Spender sonstiger Organe oder Gewebe",
+          "rubrics": {
+            "preferred": "Spender sonstiger Organe oder Gewebe",
+            "inclusion": "Spermienspender"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z52.9",
+      "kind": "category",
+      "label": "Spender eines nicht näher bezeichneten Organs oder Gewebes",
+      "rubrics": {
+        "preferred": "Spender eines nicht näher bezeichneten Organs oder Gewebes",
+        "inclusion": "Spender o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

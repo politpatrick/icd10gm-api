@@ -1,0 +1,104 @@
+{
+  "code": "C47",
+  "kind": "category",
+  "label": "Bösartige Neubildung der peripheren Nerven und des autonomen Nervensystems",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung der peripheren Nerven und des autonomen Nervensystems",
+    "inclusion": "Sympathische und parasympathische Nerven und Ganglien",
+    "exclusion": "HirnnervenC72.2-C72.5"
+  },
+  "children": [
+    {
+      "code": "C47.0",
+      "kind": "category",
+      "label": "Periphere Nerven des Kopfes, des Gesichtes und des Halses",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Periphere Nerven des Kopfes, des Gesichtes und des Halses",
+        "preferred": "Periphere Nerven des Kopfes, des Gesichtes und des Halses",
+        "exclusion": "Periphere Nerven der OrbitaC69.6"
+      },
+      "children": []
+    },
+    {
+      "code": "C47.1",
+      "kind": "category",
+      "label": "Periphere Nerven der oberen Extremität, einschließlich Schulter",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Periphere Nerven der oberen Extremität, einschließlich Schulter",
+        "preferred": "Periphere Nerven der oberen Extremität, einschließlich Schulter"
+      },
+      "children": []
+    },
+    {
+      "code": "C47.2",
+      "kind": "category",
+      "label": "Periphere Nerven der unteren Extremität, einschließlich Hüfte",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Periphere Nerven der unteren Extremität, einschließlich Hüfte",
+        "preferred": "Periphere Nerven der unteren Extremität, einschließlich Hüfte"
+      },
+      "children": []
+    },
+    {
+      "code": "C47.3",
+      "kind": "category",
+      "label": "Periphere Nerven des Thorax",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Periphere Nerven des Thorax",
+        "preferred": "Periphere Nerven des Thorax"
+      },
+      "children": []
+    },
+    {
+      "code": "C47.4",
+      "kind": "category",
+      "label": "Periphere Nerven des Abdomens",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Periphere Nerven des Abdomens",
+        "preferred": "Periphere Nerven des Abdomens"
+      },
+      "children": []
+    },
+    {
+      "code": "C47.5",
+      "kind": "category",
+      "label": "Periphere Nerven des Beckens",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Periphere Nerven des Beckens",
+        "preferred": "Periphere Nerven des Beckens"
+      },
+      "children": []
+    },
+    {
+      "code": "C47.6",
+      "kind": "category",
+      "label": "Periphere Nerven des Rumpfes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Periphere Nerven des Rumpfes, nicht näher bezeichnet",
+        "preferred": "Periphere Nerven des Rumpfes, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "C47.8",
+      "kind": "category",
+      "label": "Periphere Nerven und autonomes Nervensystem, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Periphere Nerven und autonomes Nervensystem, mehrere Teilbereiche überlappend",
+        "preferred": "Periphere Nerven und autonomes Nervensystem, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+      },
+      "children": []
+    },
+    {
+      "code": "C47.9",
+      "kind": "category",
+      "label": "Periphere Nerven und autonomes Nervensystem, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Periphere Nerven und autonomes Nervensystem, nicht näher bezeichnet",
+        "preferred": "Periphere Nerven und autonomes Nervensystem, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

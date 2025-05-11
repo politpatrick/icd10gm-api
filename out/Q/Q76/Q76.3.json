@@ -1,0 +1,10 @@
+{
+  "code": "Q76.3",
+  "kind": "category",
+  "label": "Angeborene Skoliose durch angeborene Knochenfehlbildung",
+  "rubrics": {
+    "preferred": "Angeborene Skoliose durch angeborene Knochenfehlbildung",
+    "inclusion": "Halbwirbelverschmelzung oder Segmentationsfehler mit Skoliose"
+  },
+  "children": []
+}

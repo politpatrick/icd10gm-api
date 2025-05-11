@@ -1,0 +1,10 @@
+{
+  "code": "M91.8",
+  "kind": "category",
+  "label": "Sonstige juvenile Osteochondrose der Hüfte und des Beckens",
+  "rubrics": {
+    "preferred": "Sonstige juvenile Osteochondrose der Hüfte und des Beckens",
+    "inclusion": "Juvenile Osteochondrose nach Korrektur einer angeborenen Hüftluxation"
+  },
+  "children": []
+}

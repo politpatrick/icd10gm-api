@@ -1,0 +1,81 @@
+{
+  "code": "I62",
+  "kind": "category",
+  "label": "Sonstige nichttraumatische intrakranielle Blutung",
+  "rubrics": {
+    "preferred": "Sonstige nichttraumatische intrakranielle Blutung",
+    "coding-hint": "Soll die Ursache der intrakraniellen Blutung angegeben werden, ist eine zusätzliche Schlüsselnummer aus I67.0-I67.1- oder aus Q28.0-Q28.3- zu verwenden.",
+    "exclusion": "Folgen einer intrakraniellen BlutungI69.2"
+  },
+  "children": [
+    {
+      "code": "I62.0",
+      "kind": "category",
+      "label": "Nichttraumatische subdurale Blutung",
+      "rubrics": {
+        "preferred": "Nichttraumatische subdurale Blutung"
+      },
+      "children": [
+        {
+          "code": "I62.00",
+          "kind": "category",
+          "label": "Akut",
+          "rubrics": {
+            "preferredLong": "Nichttraumatische subdurale Blutung: Akut",
+            "preferred": "Akut"
+          },
+          "children": []
+        },
+        {
+          "code": "I62.01",
+          "kind": "category",
+          "label": "Subakut",
+          "rubrics": {
+            "preferredLong": "Nichttraumatische subdurale Blutung: Subakut",
+            "preferred": "Subakut"
+          },
+          "children": []
+        },
+        {
+          "code": "I62.02",
+          "kind": "category",
+          "label": "Chronisch",
+          "rubrics": {
+            "preferredLong": "Nichttraumatische subdurale Blutung: Chronisch",
+            "preferred": "Chronisch"
+          },
+          "children": []
+        },
+        {
+          "code": "I62.09",
+          "kind": "category",
+          "label": "Nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Nichttraumatische subdurale Blutung: Nicht näher bezeichnet",
+            "preferred": "Nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I62.1",
+      "kind": "category",
+      "label": "Nichttraumatische extradurale Blutung",
+      "rubrics": {
+        "preferred": "Nichttraumatische extradurale Blutung",
+        "inclusion": "Nichttraumatische epidurale Blutung"
+      },
+      "children": []
+    },
+    {
+      "code": "I62.9",
+      "kind": "category",
+      "label": "Intrakranielle Blutung (nichttraumatisch), nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Intrakranielle Blutung (nichttraumatisch), nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

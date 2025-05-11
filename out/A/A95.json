@@ -1,0 +1,38 @@
+{
+  "code": "A95",
+  "kind": "category",
+  "label": "Gelbfieber",
+  "rubrics": {
+    "preferred": "Gelbfieber"
+  },
+  "children": [
+    {
+      "code": "A95.0",
+      "kind": "category",
+      "label": "Buschgelbfieber",
+      "rubrics": {
+        "preferred": "Buschgelbfieber",
+        "inclusion": "Silvatisches Gelbfieber"
+      },
+      "children": []
+    },
+    {
+      "code": "A95.1",
+      "kind": "category",
+      "label": "Urbanes Gelbfieber",
+      "rubrics": {
+        "preferred": "Urbanes Gelbfieber"
+      },
+      "children": []
+    },
+    {
+      "code": "A95.9",
+      "kind": "category",
+      "label": "Gelbfieber, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Gelbfieber, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

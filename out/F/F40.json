@@ -1,0 +1,84 @@
+{
+  "code": "F40",
+  "kind": "category",
+  "label": "Phobische Störungen",
+  "rubrics": {
+    "preferred": "Phobische Störungen",
+    "definition": "Eine Gruppe von Störungen, bei der Angst ausschließlich oder überwiegend durch eindeutig definierte, eigentlich ungefährliche Situationen hervorgerufen wird. In der Folge werden diese Situationen typischerweise vermieden oder mit Furcht ertragen. Die Befürchtungen des Patienten können sich auf Einzelsymptome wie Herzklopfen oder Schwächegefühl beziehen, häufig gemeinsam mit sekundären Ängsten vor dem Sterben, Kontrollverlust oder dem Gefühl, wahnsinnig zu werden. Allein die Vorstellung, dass die phobische Situation eintreten könnte, erzeugt meist schon Erwartungsangst. Phobische Angst tritt häufig gleichzeitig mit Depression auf. Ob zwei Diagnosen, phobische Störung und depressive Episode, erforderlich sind, richtet sich nach dem zeitlichen Verlauf beider Zustandsbilder und nach therapeutischen Erwägungen zum Zeitpunkt der Konsultation."
+  },
+  "children": [
+    {
+      "code": "F40.0",
+      "kind": "category",
+      "label": "Agoraphobie",
+      "rubrics": {
+        "preferred": "Agoraphobie",
+        "definition": "Eine relativ gut definierte Gruppe von Phobien, mit Befürchtungen, das Haus zu verlassen, Geschäfte zu betreten, in Menschenmengen und auf öffentlichen Plätzen zu sein, alleine mit Bahn, Bus oder Flugzeug zu reisen. Eine Panikstörung kommt als häufiges Merkmal bei gegenwärtigen oder zurückliegenden Episoden vor. Depressive und zwanghafte Symptome sowie soziale Phobien sind als zusätzliche Merkmale gleichfalls häufig vorhanden. Die Vermeidung der phobischen Situation steht oft im Vordergrund, und einige Agoraphobiker erleben nur wenig Angst, da sie die phobischen Situationen meiden können."
+      },
+      "children": [
+        {
+          "code": "F40.00",
+          "kind": "category",
+          "label": "Ohne Angabe einer Panikstörung",
+          "rubrics": {
+            "preferredLong": "Agoraphobie: Ohne Angabe einer Panikstörung",
+            "preferred": "Ohne Angabe einer Panikstörung"
+          },
+          "children": []
+        },
+        {
+          "code": "F40.01",
+          "kind": "category",
+          "label": "Mit Panikstörung",
+          "rubrics": {
+            "preferredLong": "Agoraphobie: Mit Panikstörung",
+            "preferred": "Mit Panikstörung"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F40.1",
+      "kind": "category",
+      "label": "Soziale Phobien",
+      "rubrics": {
+        "preferred": "Soziale Phobien",
+        "definition": "Furcht vor prüfender Betrachtung durch andere Menschen, die zu Vermeidung sozialer Situationen führt. Umfassendere soziale Phobien sind in der Regel mit niedrigem Selbstwertgefühl und Furcht vor Kritik verbunden. Sie können sich in Beschwerden wie Erröten, Händezittern, Übelkeit oder Drang zum Wasserlassen äußern. Dabei meint die betreffende Person manchmal, dass eine dieser sekundären Manifestationen der Angst das primäre Problem darstellt. Die Symptome können sich bis zu Panikattacken steigern.",
+        "inclusion": "Soziale Neurose"
+      },
+      "children": []
+    },
+    {
+      "code": "F40.2",
+      "kind": "category",
+      "label": "Spezifische (isolierte) Phobien",
+      "rubrics": {
+        "preferred": "Spezifische (isolierte) Phobien",
+        "definition": "Phobien, die auf eng umschriebene Situationen wie Nähe von bestimmten Tieren, Höhen, Donner, Dunkelheit, Fliegen, geschlossene Räume, Urinieren oder Defäkieren auf öffentlichen Toiletten, Genuss bestimmter Speisen, Zahnarztbesuch oder auf den Anblick von Blut oder Verletzungen beschränkt sind. Obwohl die auslösende Situation streng begrenzt ist, kann sie Panikzustände wie bei Agoraphobie oder sozialer Phobie hervorrufen.",
+        "inclusion": "Tierphobien",
+        "exclusion": "NosophobieF45.2"
+      },
+      "children": []
+    },
+    {
+      "code": "F40.8",
+      "kind": "category",
+      "label": "Sonstige phobische Störungen",
+      "rubrics": {
+        "preferred": "Sonstige phobische Störungen"
+      },
+      "children": []
+    },
+    {
+      "code": "F40.9",
+      "kind": "category",
+      "label": "Phobische Störung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Phobische Störung, nicht näher bezeichnet",
+        "inclusion": "Phobischer Zustand o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

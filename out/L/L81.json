@@ -1,0 +1,105 @@
+{
+  "code": "L81",
+  "kind": "category",
+  "label": "Sonstige Störungen der Hautpigmentierung",
+  "rubrics": {
+    "preferred": "Sonstige Störungen der Hautpigmentierung",
+    "exclusion": "Peutz-Jeghers-SyndromQ85.8"
+  },
+  "children": [
+    {
+      "code": "L81.0",
+      "kind": "category",
+      "label": "Postinflammatorische Hyperpigmentierung",
+      "rubrics": {
+        "preferred": "Postinflammatorische Hyperpigmentierung"
+      },
+      "children": []
+    },
+    {
+      "code": "L81.1",
+      "kind": "category",
+      "label": "Chloasma [Melasma]",
+      "rubrics": {
+        "preferred": "Chloasma [Melasma]"
+      },
+      "children": []
+    },
+    {
+      "code": "L81.2",
+      "kind": "category",
+      "label": "Epheliden",
+      "rubrics": {
+        "preferred": "Epheliden",
+        "inclusion": "Sommersprossen"
+      },
+      "children": []
+    },
+    {
+      "code": "L81.3",
+      "kind": "category",
+      "label": "Café-au-lait-Flecken",
+      "rubrics": {
+        "preferred": "Café-au-lait-Flecken"
+      },
+      "children": []
+    },
+    {
+      "code": "L81.4",
+      "kind": "category",
+      "label": "Sonstige Melanin-Hyperpigmentierung",
+      "rubrics": {
+        "preferred": "Sonstige Melanin-Hyperpigmentierung",
+        "inclusion": "Lentigo"
+      },
+      "children": []
+    },
+    {
+      "code": "L81.5",
+      "kind": "category",
+      "label": "Leukoderm, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Leukoderm, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "L81.6",
+      "kind": "category",
+      "label": "Sonstige Störungen durch verminderte Melaninbildung",
+      "rubrics": {
+        "preferred": "Sonstige Störungen durch verminderte Melaninbildung"
+      },
+      "children": []
+    },
+    {
+      "code": "L81.7",
+      "kind": "category",
+      "label": "Pigmentpurpura",
+      "rubrics": {
+        "preferred": "Pigmentpurpura",
+        "inclusion": "Essentielle Teleangiektasie"
+      },
+      "children": []
+    },
+    {
+      "code": "L81.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Störungen der Hautpigmentierung",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Störungen der Hautpigmentierung",
+        "inclusion": "Tätowierung"
+      },
+      "children": []
+    },
+    {
+      "code": "L81.9",
+      "kind": "category",
+      "label": "Störung der Hautpigmentierung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Störung der Hautpigmentierung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

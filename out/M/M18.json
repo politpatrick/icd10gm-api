@@ -1,0 +1,76 @@
+{
+  "code": "M18",
+  "kind": "category",
+  "label": "Rhizarthrose [Arthrose des Daumensattelgelenkes]",
+  "rubrics": {
+    "preferred": "Rhizarthrose [Arthrose des Daumensattelgelenkes]"
+  },
+  "children": [
+    {
+      "code": "M18.0",
+      "kind": "category",
+      "label": "Primäre Rhizarthrose, beidseitig",
+      "rubrics": {
+        "preferred": "Primäre Rhizarthrose, beidseitig"
+      },
+      "children": []
+    },
+    {
+      "code": "M18.1",
+      "kind": "category",
+      "label": "Sonstige primäre Rhizarthrose",
+      "rubrics": {
+        "preferred": "Sonstige primäre Rhizarthrose",
+        "inclusion": "Primäre Rhizarthrose:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "M18.2",
+      "kind": "category",
+      "label": "Posttraumatische Rhizarthrose, beidseitig",
+      "rubrics": {
+        "preferred": "Posttraumatische Rhizarthrose, beidseitig"
+      },
+      "children": []
+    },
+    {
+      "code": "M18.3",
+      "kind": "category",
+      "label": "Sonstige posttraumatische Rhizarthrose",
+      "rubrics": {
+        "preferred": "Sonstige posttraumatische Rhizarthrose",
+        "inclusion": "Posttraumatische Rhizarthrose:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "M18.4",
+      "kind": "category",
+      "label": "Sonstige sekundäre Rhizarthrose, beidseitig",
+      "rubrics": {
+        "preferred": "Sonstige sekundäre Rhizarthrose, beidseitig"
+      },
+      "children": []
+    },
+    {
+      "code": "M18.5",
+      "kind": "category",
+      "label": "Sonstige sekundäre Rhizarthrose",
+      "rubrics": {
+        "preferred": "Sonstige sekundäre Rhizarthrose",
+        "inclusion": "Sekundäre Rhizarthrose:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "M18.9",
+      "kind": "category",
+      "label": "Rhizarthrose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Rhizarthrose, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

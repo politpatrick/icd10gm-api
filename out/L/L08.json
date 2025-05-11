@@ -1,0 +1,48 @@
+{
+  "code": "L08",
+  "kind": "category",
+  "label": "Sonstige lokale Infektionen der Haut und der Unterhaut",
+  "rubrics": {
+    "preferred": "Sonstige lokale Infektionen der Haut und der Unterhaut"
+  },
+  "children": [
+    {
+      "code": "L08.0",
+      "kind": "category",
+      "label": "Pyodermie",
+      "rubrics": {
+        "preferred": "Pyodermie",
+        "inclusion": "Dermatitis:\n\t\t\t\tsuppurativa",
+        "exclusion": "Pyoderma gangraenosumL88"
+      },
+      "children": []
+    },
+    {
+      "code": "L08.1",
+      "kind": "category",
+      "label": "Erythrasma",
+      "rubrics": {
+        "preferred": "Erythrasma"
+      },
+      "children": []
+    },
+    {
+      "code": "L08.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete lokale Infektionen der Haut und der Unterhaut",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete lokale Infektionen der Haut und der Unterhaut"
+      },
+      "children": []
+    },
+    {
+      "code": "L08.9",
+      "kind": "category",
+      "label": "Lokale Infektion der Haut und der Unterhaut, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Lokale Infektion der Haut und der Unterhaut, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

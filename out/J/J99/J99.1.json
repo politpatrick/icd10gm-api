@@ -1,0 +1,10 @@
+{
+  "code": "J99.1",
+  "kind": "category",
+  "label": "Krankheiten der Atemwege bei sonstigen diffusen Bindegewebskrankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten der Atemwege bei sonstigen diffusen Bindegewebskrankheiten",
+    "inclusion": "Atemwegskrankheiten bei:\n\t\t\t\tsystemischer SkleroseM34.8"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "Q82.4",
+  "kind": "category",
+  "label": "Ektodermale Dysplasie (anhidrotisch)",
+  "rubrics": {
+    "preferred": "Ektodermale Dysplasie (anhidrotisch)",
+    "exclusion": "Ellis-van-Creveld-SyndromQ77.6"
+  },
+  "children": []
+}

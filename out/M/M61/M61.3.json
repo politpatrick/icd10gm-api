@@ -1,0 +1,10 @@
+{
+  "code": "M61.3",
+  "kind": "category",
+  "label": "Kalzifikation und Ossifikation von Muskeln bei Verbrennungen",
+  "rubrics": {
+    "preferred": "Kalzifikation und Ossifikation von Muskeln bei Verbrennungen",
+    "inclusion": "Myositis ossificans bei Verbrennungen"
+  },
+  "children": []
+}

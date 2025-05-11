@@ -1,0 +1,430 @@
+{
+  "code": "S36",
+  "kind": "category",
+  "label": "Verletzung von intraabdominalen Organen",
+  "rubrics": {
+    "preferred": "Verletzung von intraabdominalen Organen",
+    "coding-hint": "Benutze die zusätzliche Schlüsselnummer S31.83! (Offene Wunde mit Verbindung zu einer intraabdominalen Verletzung) zusammen mit S36.-, um eine offene intraabdominale Verletzung zu verschlüsseln."
+  },
+  "children": [
+    {
+      "code": "S36.0",
+      "kind": "category",
+      "label": "Verletzung der Milz",
+      "rubrics": {
+        "preferred": "Verletzung der Milz"
+      },
+      "children": [
+        {
+          "code": "S36.00",
+          "kind": "category",
+          "label": "Verletzung der Milz, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung der Milz, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.01",
+          "kind": "category",
+          "label": "Hämatom der Milz",
+          "rubrics": {
+            "preferred": "Hämatom der Milz"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.02",
+          "kind": "category",
+          "label": "Kapselriss der Milz, ohne größeren Einriss des Parenchyms",
+          "rubrics": {
+            "preferred": "Kapselriss der Milz, ohne größeren Einriss des Parenchyms"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.03",
+          "kind": "category",
+          "label": "Rissverletzung der Milz mit Beteiligung des Parenchyms",
+          "rubrics": {
+            "preferred": "Rissverletzung der Milz mit Beteiligung des Parenchyms"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.04",
+          "kind": "category",
+          "label": "Massive Parenchymruptur der Milz",
+          "rubrics": {
+            "preferred": "Massive Parenchymruptur der Milz",
+            "inclusion": "Abriss des Milzhilus",
+            "exclusion": "Verletzung der V. lienalisS35.3"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.08",
+          "kind": "category",
+          "label": "Sonstige Verletzungen der Milz",
+          "rubrics": {
+            "preferred": "Sonstige Verletzungen der Milz"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S36.1",
+      "kind": "category",
+      "label": "Verletzung der Leber oder der Gallenblase",
+      "rubrics": {
+        "preferred": "Verletzung der Leber oder der Gallenblase"
+      },
+      "children": [
+        {
+          "code": "S36.10",
+          "kind": "category",
+          "label": "Verletzung der Leber, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung der Leber, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.11",
+          "kind": "category",
+          "label": "Prellung und Hämatom der Leber",
+          "rubrics": {
+            "preferred": "Prellung und Hämatom der Leber"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.12",
+          "kind": "category",
+          "label": "Rissverletzung der Leber, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Rissverletzung der Leber, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.13",
+          "kind": "category",
+          "label": "Leichte Rissverletzung der Leber",
+          "rubrics": {
+            "preferred": "Leichte Rissverletzung der Leber",
+            "text": "Rissverletzung, die nur die Kapsel betrifft oder ohne bedeutendere Beteiligung des Leberparenchyms (weniger als 1 cm tief)"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.14",
+          "kind": "category",
+          "label": "Mittelschwere Rissverletzung der Leber",
+          "rubrics": {
+            "preferred": "Mittelschwere Rissverletzung der Leber",
+            "text": "Rissverletzung mit Beteiligung des Leberparenchyms, aber ohne größere Zerreißung des Parenchyms (weniger als 10 cm lang und weniger als 3 cm tief)"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.15",
+          "kind": "category",
+          "label": "Schwere Rissverletzung der Leber",
+          "rubrics": {
+            "preferred": "Schwere Rissverletzung der Leber",
+            "text": "Rissverletzung mit bedeutender Zerreißung des Leberparenchyms (mindestens 10 cm lang und mindestens 3 cm tief)",
+            "inclusion": "Multiple mittelschwere Rissverletzungen, mit oder ohne Hämatom"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.16",
+          "kind": "category",
+          "label": "Sonstige Verletzungen der Leber",
+          "rubrics": {
+            "preferred": "Sonstige Verletzungen der Leber"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.17",
+          "kind": "category",
+          "label": "Gallenblase",
+          "rubrics": {
+            "preferredLong": "Verletzung: Gallenblase",
+            "preferred": "Gallenblase"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.18",
+          "kind": "category",
+          "label": "Gallengang",
+          "rubrics": {
+            "preferredLong": "Verletzung: Gallengang",
+            "preferred": "Gallengang"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S36.2",
+      "kind": "category",
+      "label": "Verletzung des Pankreas",
+      "rubrics": {
+        "preferred": "Verletzung des Pankreas"
+      },
+      "children": [
+        {
+          "code": "S36.20",
+          "kind": "category",
+          "label": "Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Verletzung des Pankreas: Teil nicht näher bezeichnet",
+            "preferred": "Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.21",
+          "kind": "category",
+          "label": "Kopf",
+          "rubrics": {
+            "preferredLong": "Verletzung des Pankreas: Kopf",
+            "preferred": "Kopf"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.22",
+          "kind": "category",
+          "label": "Körper",
+          "rubrics": {
+            "preferredLong": "Verletzung des Pankreas: Körper",
+            "preferred": "Körper"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.23",
+          "kind": "category",
+          "label": "Schwanz",
+          "rubrics": {
+            "preferredLong": "Verletzung des Pankreas: Schwanz",
+            "preferred": "Schwanz"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.29",
+          "kind": "category",
+          "label": "Sonstige und mehrere Teile",
+          "rubrics": {
+            "preferredLong": "Verletzung des Pankreas: Sonstige und mehrere Teile",
+            "preferred": "Sonstige und mehrere Teile"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S36.3",
+      "kind": "category",
+      "label": "Verletzung des Magens",
+      "rubrics": {
+        "preferred": "Verletzung des Magens"
+      },
+      "children": []
+    },
+    {
+      "code": "S36.4",
+      "kind": "category",
+      "label": "Verletzung des Dünndarmes",
+      "rubrics": {
+        "preferred": "Verletzung des Dünndarmes"
+      },
+      "children": [
+        {
+          "code": "S36.40",
+          "kind": "category",
+          "label": "Dünndarm, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Verletzung: Dünndarm, Teil nicht näher bezeichnet",
+            "preferred": "Dünndarm, Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.41",
+          "kind": "category",
+          "label": "Duodenum",
+          "rubrics": {
+            "preferredLong": "Verletzung: Duodenum",
+            "preferred": "Duodenum"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.49",
+          "kind": "category",
+          "label": "Sonstiger und mehrere Teile des Dünndarmes",
+          "rubrics": {
+            "preferredLong": "Verletzung: Sonstiger und mehrere Teile des Dünndarmes",
+            "preferred": "Sonstiger und mehrere Teile des Dünndarmes"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S36.5",
+      "kind": "category",
+      "label": "Verletzung des Dickdarmes",
+      "rubrics": {
+        "preferred": "Verletzung des Dickdarmes"
+      },
+      "children": [
+        {
+          "code": "S36.50",
+          "kind": "category",
+          "label": "Dickdarm, Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Verletzung: Dickdarm, Teil nicht näher bezeichnet",
+            "preferred": "Dickdarm, Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.51",
+          "kind": "category",
+          "label": "Colon ascendens",
+          "rubrics": {
+            "preferredLong": "Verletzung: Colon ascendens",
+            "preferred": "Colon ascendens"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.52",
+          "kind": "category",
+          "label": "Colon transversum",
+          "rubrics": {
+            "preferredLong": "Verletzung: Colon transversum",
+            "preferred": "Colon transversum"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.53",
+          "kind": "category",
+          "label": "Colon descendens",
+          "rubrics": {
+            "preferredLong": "Verletzung: Colon descendens",
+            "preferred": "Colon descendens"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.54",
+          "kind": "category",
+          "label": "Colon sigmoideum",
+          "rubrics": {
+            "preferredLong": "Verletzung: Colon sigmoideum",
+            "preferred": "Colon sigmoideum"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.59",
+          "kind": "category",
+          "label": "Sonstige und mehrere Teile des Dickdarmes",
+          "rubrics": {
+            "preferredLong": "Verletzung: Sonstige und mehrere Teile des Dickdarmes",
+            "preferred": "Sonstige und mehrere Teile des Dickdarmes"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S36.6",
+      "kind": "category",
+      "label": "Verletzung des Rektums",
+      "rubrics": {
+        "preferred": "Verletzung des Rektums"
+      },
+      "children": []
+    },
+    {
+      "code": "S36.7",
+      "kind": "category",
+      "label": "Verletzung mehrerer intraabdominaler Organe",
+      "rubrics": {
+        "preferred": "Verletzung mehrerer intraabdominaler Organe"
+      },
+      "children": []
+    },
+    {
+      "code": "S36.8",
+      "kind": "category",
+      "label": "Verletzung sonstiger intraabdominaler Organe",
+      "rubrics": {
+        "preferred": "Verletzung sonstiger intraabdominaler Organe"
+      },
+      "children": [
+        {
+          "code": "S36.81",
+          "kind": "category",
+          "label": "Peritoneum",
+          "rubrics": {
+            "preferredLong": "Verletzung: Peritoneum",
+            "preferred": "Peritoneum"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.82",
+          "kind": "category",
+          "label": "Mesenterium",
+          "rubrics": {
+            "preferredLong": "Verletzung: Mesenterium",
+            "preferred": "Mesenterium"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.83",
+          "kind": "category",
+          "label": "Retroperitoneum",
+          "rubrics": {
+            "preferredLong": "Verletzung: Retroperitoneum",
+            "preferred": "Retroperitoneum"
+          },
+          "children": []
+        },
+        {
+          "code": "S36.88",
+          "kind": "category",
+          "label": "Sonstige intraabdominale Organe",
+          "rubrics": {
+            "preferredLong": "Verletzung: Sonstige intraabdominale Organe",
+            "preferred": "Sonstige intraabdominale Organe"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S36.9",
+      "kind": "category",
+      "label": "Verletzung eines nicht näher bezeichneten intraabdominalen Organs",
+      "rubrics": {
+        "preferred": "Verletzung eines nicht näher bezeichneten intraabdominalen Organs"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "A41.4",
+  "kind": "category",
+  "label": "Sepsis durch Anaerobier",
+  "rubrics": {
+    "preferred": "Sepsis durch Anaerobier",
+    "exclusion": "GasbrandA48.0"
+  },
+  "children": []
+}

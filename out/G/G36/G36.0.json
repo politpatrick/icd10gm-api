@@ -1,0 +1,11 @@
+{
+  "code": "G36.0",
+  "kind": "category",
+  "label": "Neuromyelitis optica [Devic-Krankheit]",
+  "rubrics": {
+    "preferred": "Neuromyelitis optica [Devic-Krankheit]",
+    "inclusion": "Demyelinisation bei Neuritis nervi optici",
+    "exclusion": "Neuritis nervi optici o.n.A.H46"
+  },
+  "children": []
+}

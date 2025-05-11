@@ -1,0 +1,10 @@
+{
+  "code": "G57.0",
+  "kind": "category",
+  "label": "Läsion des N. ischiadicus",
+  "rubrics": {
+    "preferred": "Läsion des N. ischiadicus",
+    "exclusion": "Ischialgie:\n\t\t\t\to.n.A.M54.3"
+  },
+  "children": []
+}

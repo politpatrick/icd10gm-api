@@ -1,0 +1,11 @@
+{
+  "code": "C91.1",
+  "kind": "category",
+  "label": "Chronische lymphatische Leukämie vom B-Zell-Typ [CLL]",
+  "rubrics": {
+    "preferred": "Chronische lymphatische Leukämie vom B-Zell-Typ [CLL]",
+    "inclusion": "Richter-Syndrom",
+    "exclusion": "Lymphoplasmozytoides LymphomC83.0"
+  },
+  "children": []
+}

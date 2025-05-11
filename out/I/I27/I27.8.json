@@ -1,0 +1,10 @@
+{
+  "code": "I27.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete pulmonale Herzkrankheiten",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete pulmonale Herzkrankheiten",
+    "exclusion": "Eisenmenger-DefektQ21.88"
+  },
+  "children": []
+}

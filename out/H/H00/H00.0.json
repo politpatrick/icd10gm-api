@@ -1,0 +1,10 @@
+{
+  "code": "H00.0",
+  "kind": "category",
+  "label": "Hordeolum und sonstige tiefe Entzündung des Augenlides",
+  "rubrics": {
+    "preferred": "Hordeolum und sonstige tiefe Entzündung des Augenlides",
+    "inclusion": "Gerstenkorn\n\t\t\t\tAugenlid"
+  },
+  "children": []
+}

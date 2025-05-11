@@ -1,0 +1,11 @@
+{
+  "code": "D11.7",
+  "kind": "category",
+  "label": "Sonstige große Speicheldrüsen",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Sonstige große Speicheldrüsen",
+    "preferred": "Sonstige große Speicheldrüsen",
+    "inclusion": "Glandula:\n\t\t\t\tsubmandibularis"
+  },
+  "children": []
+}

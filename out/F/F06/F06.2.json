@@ -1,0 +1,12 @@
+{
+  "code": "F06.2",
+  "kind": "category",
+  "label": "Organische wahnhafte [schizophreniforme] Störung",
+  "rubrics": {
+    "preferred": "Organische wahnhafte [schizophreniforme] Störung",
+    "definition": "Eine Störung, bei der anhaltende oder immer wieder auftretende Wahnideen das klinische Bild bestimmen. Die Wahnideen können von Halluzinationen begleitet werden. Einige Merkmale, die auf Schizophrenie hinweisen, wie bizarre Halluzinationen oder Denkstörungen, können vorliegen.",
+    "inclusion": "Schizophreniforme Psychose bei Epilepsie",
+    "exclusion": "SchizophrenieF20.-"
+  },
+  "children": []
+}

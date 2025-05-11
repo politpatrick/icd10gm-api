@@ -1,0 +1,10 @@
+{
+  "code": "L43.2",
+  "kind": "category",
+  "label": "Lichenoide Arzneimittelreaktion",
+  "rubrics": {
+    "preferred": "Lichenoide Arzneimittelreaktion",
+    "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

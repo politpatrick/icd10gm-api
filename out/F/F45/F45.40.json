@@ -1,0 +1,12 @@
+{
+  "code": "F45.40",
+  "kind": "category",
+  "label": "Anhaltende somatoforme Schmerzstörung",
+  "rubrics": {
+    "preferred": "Anhaltende somatoforme Schmerzstörung",
+    "definition": "Die vorherrschende Beschwerde ist ein andauernder, schwerer und quälender Schmerz, der durch einen physiologischen Prozess oder eine körperliche Störung nicht hinreichend erklärt werden kann. Er tritt in Verbindung mit emotionalen Konflikten oder psychosozialen Belastungen auf, denen die Hauptrolle für Beginn, Schweregrad, Exazerbation oder Aufrechterhaltung der Schmerzen zukommt. Die Folge ist meist eine beträchtlich gesteigerte persönliche oder medizinische Hilfe und Unterstützung.",
+    "inclusion": "Somatoforme Schmerzstörung",
+    "exclusion": "SpannungskopfschmerzG44.2"
+  },
+  "children": []
+}

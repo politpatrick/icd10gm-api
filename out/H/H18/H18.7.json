@@ -1,0 +1,11 @@
+{
+  "code": "H18.7",
+  "kind": "category",
+  "label": "Sonstige Hornhautdeformitäten",
+  "rubrics": {
+    "preferred": "Sonstige Hornhautdeformitäten",
+    "inclusion": "Hornhaut:\n\t\t\t\tStaphylom",
+    "exclusion": "Angeborene Fehlbildungen der HornhautQ13.3-Q13.4"
+  },
+  "children": []
+}

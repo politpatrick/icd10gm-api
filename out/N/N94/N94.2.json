@@ -1,0 +1,10 @@
+{
+  "code": "N94.2",
+  "kind": "category",
+  "label": "Vaginismus",
+  "rubrics": {
+    "preferred": "Vaginismus",
+    "exclusion": "Psychogener VaginismusF52.5"
+  },
+  "children": []
+}

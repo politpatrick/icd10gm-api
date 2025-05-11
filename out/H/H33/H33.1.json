@@ -1,0 +1,11 @@
+{
+  "code": "H33.1",
+  "kind": "category",
+  "label": "Retinoschisis und Zysten der Netzhaut",
+  "rubrics": {
+    "preferred": "Retinoschisis und Zysten der Netzhaut",
+    "inclusion": "Zyste der Ora serrata",
+    "exclusion": "Mikrozystoide Degeneration der NetzhautH35.4"
+  },
+  "children": []
+}

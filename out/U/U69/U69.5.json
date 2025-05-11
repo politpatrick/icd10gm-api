@@ -1,0 +1,67 @@
+{
+  "code": "U69.5",
+  "kind": "category",
+  "label": "Sekundäre Schlüsselnummern zur Angabe mehrerer Regionen bei sekundärer und nicht näher bezeichneter bösartiger Neubildung der Lymphknoten",
+  "rubrics": {
+    "preferred": "Sekundäre Schlüsselnummern zur Angabe mehrerer Regionen bei sekundärer und nicht näher bezeichneter bösartiger Neubildung der Lymphknoten",
+    "definition": "Sollen bei Vorliegen eines Befalls mehrerer Lymphknotenregionen bei sekundärer und nicht näher bezeichneter bösartiger Neubildung der Lymphknoten C77.8 die Regionen spezifisch angegeben werden, so sind zusätzliche Schlüsselnummern (U69.5-!) zu verwenden."
+  },
+  "children": [
+    {
+      "code": "U69.50",
+      "kind": "category",
+      "label": "Lymphknoten des Kopfes, des Gesichtes und des Halses",
+      "rubrics": {
+        "preferred": "Lymphknoten des Kopfes, des Gesichtes und des Halses",
+        "inclusion": "Supraklavikuläre Lymphknoten"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.51",
+      "kind": "category",
+      "label": "Intrathorakale Lymphknoten",
+      "rubrics": {
+        "preferred": "Intrathorakale Lymphknoten"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.52",
+      "kind": "category",
+      "label": "Intraabdominale Lymphknoten",
+      "rubrics": {
+        "preferred": "Intraabdominale Lymphknoten"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.53",
+      "kind": "category",
+      "label": "Axilläre Lymphknoten und Lymphknoten der oberen Extremität",
+      "rubrics": {
+        "preferred": "Axilläre Lymphknoten und Lymphknoten der oberen Extremität",
+        "inclusion": "Pektorale Lymphknoten"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.54",
+      "kind": "category",
+      "label": "Inguinale Lymphknoten und Lymphknoten der unteren Extremität",
+      "rubrics": {
+        "preferred": "Inguinale Lymphknoten und Lymphknoten der unteren Extremität"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.55",
+      "kind": "category",
+      "label": "Intrapelvine Lymphknoten",
+      "rubrics": {
+        "preferred": "Intrapelvine Lymphknoten"
+      },
+      "children": []
+    }
+  ]
+}

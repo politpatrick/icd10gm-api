@@ -1,0 +1,139 @@
+{
+  "code": "N48",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Penis",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Penis"
+  },
+  "children": [
+    {
+      "code": "N48.0",
+      "kind": "category",
+      "label": "Leukoplakie des Penis",
+      "rubrics": {
+        "preferred": "Leukoplakie des Penis",
+        "inclusion": "Kraurosis des Penis",
+        "exclusion": "Carcinoma in situ des PenisD07.4"
+      },
+      "children": []
+    },
+    {
+      "code": "N48.1",
+      "kind": "category",
+      "label": "Balanoposthitis",
+      "rubrics": {
+        "preferred": "Balanoposthitis",
+        "inclusion": "Balanitis",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "N48.2",
+      "kind": "category",
+      "label": "Sonstige entzündliche Krankheiten des Penis",
+      "rubrics": {
+        "preferred": "Sonstige entzündliche Krankheiten des Penis",
+        "inclusion": "Kavernitis (Penis)",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "N48.3",
+      "kind": "category",
+      "label": "Priapismus",
+      "rubrics": {
+        "preferred": "Priapismus",
+        "inclusion": "Schmerzhafte Dauererektion"
+      },
+      "children": [
+        {
+          "code": "N48.30",
+          "kind": "category",
+          "label": "Priapismus vom Low-Flow-Typ",
+          "rubrics": {
+            "preferred": "Priapismus vom Low-Flow-Typ"
+          },
+          "children": []
+        },
+        {
+          "code": "N48.31",
+          "kind": "category",
+          "label": "Priapismus vom High-Flow-Typ",
+          "rubrics": {
+            "preferred": "Priapismus vom High-Flow-Typ"
+          },
+          "children": []
+        },
+        {
+          "code": "N48.38",
+          "kind": "category",
+          "label": "Sonstiger Priapismus",
+          "rubrics": {
+            "preferred": "Sonstiger Priapismus"
+          },
+          "children": []
+        },
+        {
+          "code": "N48.39",
+          "kind": "category",
+          "label": "Priapismus, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Priapismus, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N48.4",
+      "kind": "category",
+      "label": "Impotenz organischen Ursprungs",
+      "rubrics": {
+        "preferred": "Impotenz organischen Ursprungs",
+        "coding-hint": "Soll die Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen.",
+        "exclusion": "Psychogene ImpotenzF52.2"
+      },
+      "children": []
+    },
+    {
+      "code": "N48.5",
+      "kind": "category",
+      "label": "Ulkus des Penis",
+      "rubrics": {
+        "preferred": "Ulkus des Penis"
+      },
+      "children": []
+    },
+    {
+      "code": "N48.6",
+      "kind": "category",
+      "label": "Induratio penis plastica",
+      "rubrics": {
+        "preferred": "Induratio penis plastica",
+        "inclusion": "Peyronie-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "N48.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Penis",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Penis",
+        "inclusion": "Thrombose\n\t\t\t\tCorpus cavernosum und Penis"
+      },
+      "children": []
+    },
+    {
+      "code": "N48.9",
+      "kind": "category",
+      "label": "Krankheit des Penis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit des Penis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "code": "B25",
+  "kind": "category",
+  "label": "Zytomegalie",
+  "rubrics": {
+    "preferred": "Zytomegalie",
+    "exclusion": "Mononukleose durch ZytomegalievirenB27.1"
+  },
+  "children": [
+    {
+      "code": "B25.0",
+      "kind": "category",
+      "label": "Pneumonie durch ZytomegalievirenJ17.1",
+      "rubrics": {
+        "preferred": "Pneumonie durch ZytomegalievirenJ17.1"
+      },
+      "children": []
+    },
+    {
+      "code": "B25.1",
+      "kind": "category",
+      "label": "Hepatitis durch ZytomegalievirenK77.0",
+      "rubrics": {
+        "preferred": "Hepatitis durch ZytomegalievirenK77.0"
+      },
+      "children": []
+    },
+    {
+      "code": "B25.2",
+      "kind": "category",
+      "label": "Pankreatitis durch ZytomegalievirenK87.1",
+      "rubrics": {
+        "preferred": "Pankreatitis durch ZytomegalievirenK87.1"
+      },
+      "children": []
+    },
+    {
+      "code": "B25.8",
+      "kind": "category",
+      "label": "Sonstige Zytomegalie",
+      "rubrics": {
+        "preferred": "Sonstige Zytomegalie"
+      },
+      "children": [
+        {
+          "code": "B25.80",
+          "kind": "category",
+          "label": "Infektion des Verdauungstraktes durch Zytomegalieviren",
+          "rubrics": {
+            "preferred": "Infektion des Verdauungstraktes durch Zytomegalieviren",
+            "inclusion": "ÖsophagitisK23.8\n\t\t\t\tdurch Zytomegalieviren"
+          },
+          "children": []
+        },
+        {
+          "code": "B25.88",
+          "kind": "category",
+          "label": "Sonstige Zytomegalie",
+          "rubrics": {
+            "preferred": "Sonstige Zytomegalie"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B25.9",
+      "kind": "category",
+      "label": "Zytomegalie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Zytomegalie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

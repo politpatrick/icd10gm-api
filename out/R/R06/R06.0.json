@@ -1,0 +1,11 @@
+{
+  "code": "R06.0",
+  "kind": "category",
+  "label": "Dyspnoe",
+  "rubrics": {
+    "preferred": "Dyspnoe",
+    "inclusion": "Orthopnoe",
+    "exclusion": "Transitorische Tachypnoe beim NeugeborenenP22.1"
+  },
+  "children": []
+}

@@ -1,0 +1,12 @@
+{
+  "code": "C63.8",
+  "kind": "category",
+  "label": "Männliche Genitalorgane, mehrere Teilbereiche überlappend",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Männliche Genitalorgane, mehrere Teilbereiche überlappend",
+    "preferred": "Männliche Genitalorgane, mehrere Teilbereiche überlappend",
+    "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]",
+    "inclusion": "Bösartige Neubildungen der männlichen Genitalorgane, deren Ursprungsort nicht unter den Kategorien C60-C63.7 klassifiziert werden kann"
+  },
+  "children": []
+}

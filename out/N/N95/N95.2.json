@@ -1,0 +1,11 @@
+{
+  "code": "N95.2",
+  "kind": "category",
+  "label": "Atrophische Kolpitis in der Postmenopause",
+  "rubrics": {
+    "preferred": "Atrophische Kolpitis in der Postmenopause",
+    "inclusion": "Senile (atrophische) Kolpitis",
+    "exclusion": "Im Zusammenhang mit artifizieller MenopauseN95.3"
+  },
+  "children": []
+}

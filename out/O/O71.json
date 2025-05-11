@@ -1,0 +1,107 @@
+{
+  "code": "O71",
+  "kind": "category",
+  "label": "Sonstige Verletzungen unter der Geburt",
+  "rubrics": {
+    "preferred": "Sonstige Verletzungen unter der Geburt",
+    "inclusion": "Schädigung durch Instrumente"
+  },
+  "children": [
+    {
+      "code": "O71.0",
+      "kind": "category",
+      "label": "Uterusruptur vor Wehenbeginn",
+      "rubrics": {
+        "preferred": "Uterusruptur vor Wehenbeginn"
+      },
+      "children": []
+    },
+    {
+      "code": "O71.1",
+      "kind": "category",
+      "label": "Uterusruptur während der Geburt",
+      "rubrics": {
+        "preferred": "Uterusruptur während der Geburt",
+        "inclusion": "Uterusruptur ohne Angabe, ob vor Wehenbeginn eingetreten"
+      },
+      "children": []
+    },
+    {
+      "code": "O71.2",
+      "kind": "category",
+      "label": "Inversio uteri, postpartal",
+      "rubrics": {
+        "preferred": "Inversio uteri, postpartal"
+      },
+      "children": []
+    },
+    {
+      "code": "O71.3",
+      "kind": "category",
+      "label": "Zervixriss unter der Geburt",
+      "rubrics": {
+        "preferred": "Zervixriss unter der Geburt",
+        "inclusion": "Ringförmige Zervixabtrennung"
+      },
+      "children": []
+    },
+    {
+      "code": "O71.4",
+      "kind": "category",
+      "label": "Hoher Scheidenriss unter der Geburt",
+      "rubrics": {
+        "preferred": "Hoher Scheidenriss unter der Geburt"
+      },
+      "children": []
+    },
+    {
+      "code": "O71.5",
+      "kind": "category",
+      "label": "Sonstige Verletzung von Beckenorganen unter der Geburt",
+      "rubrics": {
+        "preferred": "Sonstige Verletzung von Beckenorganen unter der Geburt",
+        "inclusion": "Verletzung unter der Geburt:\n\t\t\t\tUrethra",
+        "exclusion": "Verletzung (geringfügig) mit ausschließlicher Beteiligung des periurethralen GewebesO70.0"
+      },
+      "children": []
+    },
+    {
+      "code": "O71.6",
+      "kind": "category",
+      "label": "Schädigung von Beckengelenken und -bändern unter der Geburt",
+      "rubrics": {
+        "preferred": "Schädigung von Beckengelenken und -bändern unter der Geburt",
+        "inclusion": "Traumatische Symphysensprengung\n\t\t\t\tunter der Geburt"
+      },
+      "children": []
+    },
+    {
+      "code": "O71.7",
+      "kind": "category",
+      "label": "Beckenhämatom unter der Geburt",
+      "rubrics": {
+        "preferred": "Beckenhämatom unter der Geburt",
+        "inclusion": "Hämatom unter der Geburt:\n\t\t\t\tVulva"
+      },
+      "children": []
+    },
+    {
+      "code": "O71.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Verletzungen unter der Geburt",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Verletzungen unter der Geburt"
+      },
+      "children": []
+    },
+    {
+      "code": "O71.9",
+      "kind": "category",
+      "label": "Verletzung unter der Geburt, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Verletzung unter der Geburt, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

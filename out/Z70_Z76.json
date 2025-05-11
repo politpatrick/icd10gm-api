@@ -1,0 +1,291 @@
+{
+  "code": "Z70-Z76",
+  "kind": "block",
+  "label": "Personen, die das Gesundheitswesen aus sonstigen Gründen in Anspruch nehmen",
+  "rubrics": {
+    "preferred": "Personen, die das Gesundheitswesen aus sonstigen Gründen in Anspruch nehmen"
+  },
+  "children": [
+    {
+      "code": "Z70",
+      "kind": "category",
+      "label": "Beratung in Bezug auf Sexualeinstellung, -verhalten oder -orientierung",
+      "rubrics": {
+        "preferred": "Beratung in Bezug auf Sexualeinstellung, -verhalten oder -orientierung",
+        "inclusion": "Beratung in Bezug auf Sexualverhalten oder -orientierung Dritter",
+        "exclusion": "Beratung zur Kontrazeption oder FertilisationZ30-Z31"
+      },
+      "children": []
+    },
+    {
+      "code": "Z71",
+      "kind": "category",
+      "label": "Personen, die das Gesundheitswesen zum Zwecke anderer Beratung oder ärztlicher Konsultation in Anspruch nehmen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Personen, die das Gesundheitswesen zum Zwecke anderer Beratung oder ärztlicher Konsultation in Anspruch nehmen, anderenorts nicht klassifiziert",
+        "inclusion": "Person mit Furcht vor Krankheit, bei der keine Diagnose gestellt wird",
+        "exclusion": "SexualberatungZ70"
+      },
+      "children": []
+    },
+    {
+      "code": "Z72",
+      "kind": "category",
+      "label": "Probleme mit Bezug auf die Lebensführung",
+      "rubrics": {
+        "preferred": "Probleme mit Bezug auf die Lebensführung",
+        "exclusion": "Probleme mit Bezug auf:\n\t\t\t\tsozioökonomische oder psychosoziale UmständeZ55-Z65"
+      },
+      "children": [
+        {
+          "code": "Z72.0",
+          "kind": "category",
+          "label": "Konsum von Alkohol, Tabak, Arzneimitteln oder Drogen",
+          "rubrics": {
+            "preferredLong": "Probleme mit Bezug auf: Konsum von Alkohol, Tabak, Arzneimitteln oder Drogen",
+            "preferred": "Konsum von Alkohol, Tabak, Arzneimitteln oder Drogen",
+            "exclusion": "NikotinabhängigkeitF17.2"
+          },
+          "children": []
+        },
+        {
+          "code": "Z72.8",
+          "kind": "category",
+          "label": "Sonstige Probleme mit Bezug auf die Lebensführung",
+          "rubrics": {
+            "preferred": "Sonstige Probleme mit Bezug auf die Lebensführung",
+            "inclusion": "Ungeeignete Ernährungs- oder Essgewohnheiten",
+            "exclusion": "Zwanghaftes und pathologisches SpielenF63.0"
+          },
+          "children": []
+        },
+        {
+          "code": "Z72.9",
+          "kind": "category",
+          "label": "Problem mit Bezug auf die Lebensführung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Problem mit Bezug auf die Lebensführung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z73",
+      "kind": "category",
+      "label": "Probleme mit Bezug auf Schwierigkeiten bei der Lebensbewältigung",
+      "rubrics": {
+        "preferred": "Probleme mit Bezug auf Schwierigkeiten bei der Lebensbewältigung",
+        "inclusion": "Zustand der totalen Erschöpfung",
+        "exclusion": "Probleme mit Bezug auf sozioökonomische oder psychosoziale UmständeZ55-Z65"
+      },
+      "children": []
+    },
+    {
+      "code": "Z74",
+      "kind": "category",
+      "label": "Probleme mit Bezug auf Pflegebedürftigkeit",
+      "rubrics": {
+        "preferred": "Probleme mit Bezug auf Pflegebedürftigkeit",
+        "exclusion": "Abhängigkeit von unterstützenden Apparaten, medizinischen Geräten oder Hilfsmitteln, anderenorts nicht klassifiziertZ99.-"
+      },
+      "children": [
+        {
+          "code": "Z74.0",
+          "kind": "category",
+          "label": "Hilfsbedürftigkeit wegen eingeschränkter Mobilität",
+          "rubrics": {
+            "preferredLong": "Probleme mit Bezug auf: Hilfsbedürftigkeit wegen eingeschränkter Mobilität",
+            "preferred": "Hilfsbedürftigkeit wegen eingeschränkter Mobilität"
+          },
+          "children": []
+        },
+        {
+          "code": "Z74.1",
+          "kind": "category",
+          "label": "Notwendigkeit der Hilfestellung bei der Körperpflege",
+          "rubrics": {
+            "preferredLong": "Probleme mit Bezug auf: Notwendigkeit der Hilfestellung bei der Körperpflege",
+            "preferred": "Notwendigkeit der Hilfestellung bei der Körperpflege"
+          },
+          "children": []
+        },
+        {
+          "code": "Z74.2",
+          "kind": "category",
+          "label": "Notwendigkeit der Hilfeleistung im Haushalt, wenn kein anderer Haushaltsangehöriger die Betreuung übernehmen kann",
+          "rubrics": {
+            "preferredLong": "Probleme mit Bezug auf: Notwendigkeit der Hilfeleistung im Haushalt, wenn kein anderer Haushaltsangehöriger die Betreuung übernehmen kann",
+            "preferred": "Notwendigkeit der Hilfeleistung im Haushalt, wenn kein anderer Haushaltsangehöriger die Betreuung übernehmen kann"
+          },
+          "children": []
+        },
+        {
+          "code": "Z74.3",
+          "kind": "category",
+          "label": "Notwendigkeit der ständigen Beaufsichtigung",
+          "rubrics": {
+            "preferredLong": "Probleme mit Bezug auf: Notwendigkeit der ständigen Beaufsichtigung",
+            "preferred": "Notwendigkeit der ständigen Beaufsichtigung"
+          },
+          "children": []
+        },
+        {
+          "code": "Z74.8",
+          "kind": "category",
+          "label": "Sonstige Probleme mit Bezug auf Pflegebedürftigkeit",
+          "rubrics": {
+            "preferred": "Sonstige Probleme mit Bezug auf Pflegebedürftigkeit"
+          },
+          "children": []
+        },
+        {
+          "code": "Z74.9",
+          "kind": "category",
+          "label": "Problem mit Bezug auf Pflegebedürftigkeit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Problem mit Bezug auf Pflegebedürftigkeit, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z75",
+      "kind": "category",
+      "label": "Probleme mit Bezug auf medizinische Betreuungsmöglichkeiten oder andere Gesundheitsversorgung",
+      "rubrics": {
+        "preferred": "Probleme mit Bezug auf medizinische Betreuungsmöglichkeiten oder andere Gesundheitsversorgung",
+        "exclusion": "Erfolgte Registrierung zur LungentransplantationU55.2-"
+      },
+      "children": [
+        {
+          "code": "Z75.2",
+          "kind": "category",
+          "label": "Wartezeit auf eine Untersuchung oder Behandlung",
+          "rubrics": {
+            "preferred": "Wartezeit auf eine Untersuchung oder Behandlung"
+          },
+          "children": []
+        },
+        {
+          "code": "Z75.6",
+          "kind": "category",
+          "label": "Erfolgte Registrierung zur Organtransplantation ohne Dringlichkeitsstufe HU (High Urgency)",
+          "rubrics": {
+            "preferred": "Erfolgte Registrierung zur Organtransplantation ohne Dringlichkeitsstufe HU (High Urgency)",
+            "coding-hint": "Diese Schlüsselnummer ist zu verwenden, wenn eine Registrierung zur Organtransplantation erfolgt ist und diese weiterhin Gültigkeit besitzt. Die Registrierung muss nicht im aktuellen stationären Aufenthalt erfolgt sein."
+          },
+          "children": []
+        },
+        {
+          "code": "Z75.7",
+          "kind": "category",
+          "label": "Erfolgte Registrierung zur Organtransplantation mit Dringlichkeitsstufe HU (High Urgency)",
+          "rubrics": {
+            "preferred": "Erfolgte Registrierung zur Organtransplantation mit Dringlichkeitsstufe HU (High Urgency)",
+            "coding-hint": "Diese Schlüsselnummer ist zu verwenden, wenn eine Registrierung zur Organtransplantation erfolgt ist und diese weiterhin Gültigkeit besitzt. Die Registrierung muss nicht im aktuellen stationären Aufenthalt erfolgt sein."
+          },
+          "children": []
+        },
+        {
+          "code": "Z75.8",
+          "kind": "category",
+          "label": "Sonstige Probleme mit Bezug auf medizinische Betreuungsmöglichkeiten oder andere Gesundheitsversorgung",
+          "rubrics": {
+            "preferred": "Sonstige Probleme mit Bezug auf medizinische Betreuungsmöglichkeiten oder andere Gesundheitsversorgung",
+            "inclusion": "Person, die auf Aufnahme in eine angemessene Betreuungseinrichtung wartet",
+            "exclusion": "Unmöglichkeit der Übernahme der Betreuung durch einen anderen HaushaltsangehörigenZ74.2"
+          },
+          "children": []
+        },
+        {
+          "code": "Z75.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnetes Problem mit Bezug auf medizinische Betreuungsmöglichkeiten oder andere Gesundheitsversorgung",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnetes Problem mit Bezug auf medizinische Betreuungsmöglichkeiten oder andere Gesundheitsversorgung"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z76",
+      "kind": "category",
+      "label": "Personen, die das Gesundheitswesen aus sonstigen Gründen in Anspruch nehmen",
+      "rubrics": {
+        "preferred": "Personen, die das Gesundheitswesen aus sonstigen Gründen in Anspruch nehmen"
+      },
+      "children": [
+        {
+          "code": "Z76.0",
+          "kind": "category",
+          "label": "Ausstellung wiederholter Verordnung",
+          "rubrics": {
+            "preferred": "Ausstellung wiederholter Verordnung",
+            "inclusion": "Wiederverordnung:\n\t\t\t\tBrille",
+            "exclusion": "Wiederverordnung von KontrazeptivaZ30.4"
+          },
+          "children": []
+        },
+        {
+          "code": "Z76.1",
+          "kind": "category",
+          "label": "Gesundheitsüberwachung und Betreuung eines Findelkindes",
+          "rubrics": {
+            "preferred": "Gesundheitsüberwachung und Betreuung eines Findelkindes"
+          },
+          "children": []
+        },
+        {
+          "code": "Z76.2",
+          "kind": "category",
+          "label": "Gesundheitsüberwachung und Betreuung eines anderen gesunden Säuglings und Kindes",
+          "rubrics": {
+            "preferred": "Gesundheitsüberwachung und Betreuung eines anderen gesunden Säuglings und Kindes",
+            "inclusion": "Medizinische oder pflegerische Betreuung oder Überwachung eines gesunden Säuglings bei Umständen wie z.B.:\n\t\t\t\tWarten auf eine Pflegestelle oder Adoption"
+          },
+          "children": []
+        },
+        {
+          "code": "Z76.3",
+          "kind": "category",
+          "label": "Gesunde Begleitperson einer kranken Person",
+          "rubrics": {
+            "preferred": "Gesunde Begleitperson einer kranken Person"
+          },
+          "children": []
+        },
+        {
+          "code": "Z76.4",
+          "kind": "category",
+          "label": "Andere in eine Gesundheitsbetreuungseinrichtung aufgenommene Person",
+          "rubrics": {
+            "preferred": "Andere in eine Gesundheitsbetreuungseinrichtung aufgenommene Person",
+            "exclusion": "ObdachlosigkeitZ59"
+          },
+          "children": []
+        },
+        {
+          "code": "Z76.8",
+          "kind": "category",
+          "label": "Personen, die das Gesundheitswesen aus sonstigen näher bezeichneten Gründen in Anspruch nehmen",
+          "rubrics": {
+            "preferred": "Personen, die das Gesundheitswesen aus sonstigen näher bezeichneten Gründen in Anspruch nehmen"
+          },
+          "children": []
+        },
+        {
+          "code": "Z76.9",
+          "kind": "category",
+          "label": "Person, die das Gesundheitswesen aus nicht näher bezeichneten Gründen in Anspruch nimmt",
+          "rubrics": {
+            "preferred": "Person, die das Gesundheitswesen aus nicht näher bezeichneten Gründen in Anspruch nimmt"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

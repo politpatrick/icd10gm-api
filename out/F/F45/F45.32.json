@@ -1,0 +1,10 @@
+{
+  "code": "F45.32",
+  "kind": "category",
+  "label": "Unteres Verdauungssystem",
+  "rubrics": {
+    "preferredLong": "Somatoforme autonome Funktionsstörung: Unteres Verdauungssystem",
+    "preferred": "Unteres Verdauungssystem"
+  },
+  "children": []
+}

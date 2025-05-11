@@ -1,0 +1,62 @@
+{
+  "code": "F25",
+  "kind": "category",
+  "label": "Schizoaffektive Störungen",
+  "rubrics": {
+    "preferred": "Schizoaffektive Störungen",
+    "definition": "Episodische Störungen, bei denen sowohl affektive als auch schizophrene Symptome auftreten, aber die weder die Kriterien für Schizophrenie noch für eine depressive oder manische Episode erfüllen. Andere Zustandsbilder, bei denen affektive Symptome eine vorher bestehende Schizophrenie überlagern, oder bei denen sie mit anderen anhaltenden Wahnkrankheiten gemeinsam auftreten oder alternieren, sind unter F20-F29 zu kodieren. Parathyme psychotische Symptome bei affektiven Störungen rechtfertigen die Diagnose einer schizoaffektiven Störung nicht."
+  },
+  "children": [
+    {
+      "code": "F25.0",
+      "kind": "category",
+      "label": "Schizoaffektive Störung, gegenwärtig manisch",
+      "rubrics": {
+        "preferred": "Schizoaffektive Störung, gegenwärtig manisch",
+        "definition": "Eine Störung, bei der sowohl schizophrene als auch manische Symptome vorliegen und deshalb weder die Diagnose einer Schizophrenie noch einer manischen Episode gerechtfertigt ist. Diese Kategorie ist sowohl für einzelne Episoden als auch für rezidivierende Störungen zu verwenden, bei denen die Mehrzahl der Episoden schizomanisch ist.",
+        "inclusion": "Schizophreniforme Psychose, manischer Typ"
+      },
+      "children": []
+    },
+    {
+      "code": "F25.1",
+      "kind": "category",
+      "label": "Schizoaffektive Störung, gegenwärtig depressiv",
+      "rubrics": {
+        "preferred": "Schizoaffektive Störung, gegenwärtig depressiv",
+        "definition": "Eine Störung, bei der sowohl schizophrene als auch depressive Symptome vorliegen und deshalb weder die Diagnose einer Schizophrenie noch einer depressiven Episode gerechtfertigt ist. Diese Kategorie ist sowohl für einzelne Episoden als auch für rezidivierende Störungen zu verwenden, bei denen die Mehrzahl der Episoden schizodepressiv ist.",
+        "inclusion": "Schizophreniforme Psychose, depressiver Typ"
+      },
+      "children": []
+    },
+    {
+      "code": "F25.2",
+      "kind": "category",
+      "label": "Gemischte schizoaffektive Störung",
+      "rubrics": {
+        "preferred": "Gemischte schizoaffektive Störung",
+        "inclusion": "Zyklische Schizophrenie"
+      },
+      "children": []
+    },
+    {
+      "code": "F25.8",
+      "kind": "category",
+      "label": "Sonstige schizoaffektive Störungen",
+      "rubrics": {
+        "preferred": "Sonstige schizoaffektive Störungen"
+      },
+      "children": []
+    },
+    {
+      "code": "F25.9",
+      "kind": "category",
+      "label": "Schizoaffektive Störung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Schizoaffektive Störung, nicht näher bezeichnet",
+        "inclusion": "Schizoaffektive Psychose o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

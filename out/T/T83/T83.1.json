@@ -1,0 +1,10 @@
+{
+  "code": "T83.1",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch sonstige Geräte oder Implantate im Harntrakt",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch sonstige Geräte oder Implantate im Harntrakt",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tStent\n\t\t\t\tim Harntrakt"
+  },
+  "children": []
+}

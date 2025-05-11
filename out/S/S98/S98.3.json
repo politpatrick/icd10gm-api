@@ -1,0 +1,10 @@
+{
+  "code": "S98.3",
+  "kind": "category",
+  "label": "Traumatische Amputation sonstiger Teile des Fußes",
+  "rubrics": {
+    "preferred": "Traumatische Amputation sonstiger Teile des Fußes",
+    "inclusion": "Kombinierte traumatische Amputation einer oder mehrerer Zehen mit anderen Teilen des Fußes"
+  },
+  "children": []
+}

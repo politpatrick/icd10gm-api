@@ -1,0 +1,11 @@
+{
+  "code": "P96.1",
+  "kind": "category",
+  "label": "Entzugssymptome beim Neugeborenen bei Einnahme von abhängigkeitserzeugenden Arzneimitteln oder Drogen durch die Mutter",
+  "rubrics": {
+    "preferred": "Entzugssymptome beim Neugeborenen bei Einnahme von abhängigkeitserzeugenden Arzneimitteln oder Drogen durch die Mutter",
+    "inclusion": "Neonatales Abstinenzsyndrom",
+    "exclusion": "Reaktionen und Intoxikationen durch Opiate und Tranquilizer, die der Mutter während der Wehen und Entbindung verabreicht wurden P04.0"
+  },
+  "children": []
+}

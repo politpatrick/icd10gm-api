@@ -1,0 +1,10 @@
+{
+  "code": "R07.3",
+  "kind": "category",
+  "label": "Sonstige Brustschmerzen",
+  "rubrics": {
+    "preferred": "Sonstige Brustschmerzen",
+    "inclusion": "Schmerzen in der vorderen Brustwand o.n.A."
+  },
+  "children": []
+}

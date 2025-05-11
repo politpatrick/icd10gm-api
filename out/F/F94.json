@@ -1,0 +1,65 @@
+{
+  "code": "F94",
+  "kind": "category",
+  "label": "Störungen sozialer Funktionen mit Beginn in der Kindheit und Jugend",
+  "rubrics": {
+    "preferred": "Störungen sozialer Funktionen mit Beginn in der Kindheit und Jugend",
+    "definition": "Es handelt sich um eine etwas heterogene Gruppe von Störungen, mit Abweichungen in der sozialen Funktionsfähigkeit und Beginn in der Entwicklungszeit. Anders als die tief greifenden Entwicklungsstörungen sind sie jedoch nicht primär durch eine offensichtliche konstitutionelle soziale Beeinträchtigung oder Defizite in allen Bereichen sozialer Funktionen charakterisiert. In vielen Fällen spielen schwerwiegende Milieuschäden oder Deprivationen eine vermutlich entscheidende Rolle in der Ätiologie."
+  },
+  "children": [
+    {
+      "code": "F94.0",
+      "kind": "category",
+      "label": "Elektiver Mutismus",
+      "rubrics": {
+        "preferred": "Elektiver Mutismus",
+        "definition": "Dieser ist durch eine deutliche, emotional bedingte Selektivität des Sprechens charakterisiert, so dass das Kind in einigen Situationen spricht, in anderen definierbaren Situationen jedoch nicht. Diese Störung ist üblicherweise mit besonderen Persönlichkeitsmerkmalen wie Sozialangst, Rückzug, Empfindsamkeit oder Widerstand verbunden.",
+        "inclusion": "Selektiver Mutismus",
+        "exclusion": "Umschriebene Entwicklungsstörungen des Sprechens und der SpracheF80.-"
+      },
+      "children": []
+    },
+    {
+      "code": "F94.1",
+      "kind": "category",
+      "label": "Reaktive Bindungsstörung des Kindesalters",
+      "rubrics": {
+        "preferred": "Reaktive Bindungsstörung des Kindesalters",
+        "definition": "Diese tritt in den ersten fünf Lebensjahren auf und ist durch anhaltende Auffälligkeiten im sozialen Beziehungsmuster des Kindes charakterisiert. Diese sind von einer emotionalen Störung begleitet und reagieren auf Wechsel in den Milieuverhältnissen. Die Symptome bestehen aus Furchtsamkeit und Übervorsichtigkeit, eingeschränkten sozialen Interaktionen mit Gleichaltrigen, gegen sich selbst oder andere gerichteten Aggressionen, Unglücklichsein und in einigen Fällen Wachstumsverzögerung. Das Syndrom tritt wahrscheinlich als direkte Folge schwerer elterlicher Vernachlässigung, Missbrauch oder schwerer Misshandlung auf.",
+        "coding-hint": "Soll eine begleitende Gedeih- oder Wachstumsstörung angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen.",
+        "exclusion": "Psychosoziale Probleme infolge von sexueller oder körperlicher Misshandlung im KindesalterZ61"
+      },
+      "children": []
+    },
+    {
+      "code": "F94.2",
+      "kind": "category",
+      "label": "Bindungsstörung des Kindesalters mit Enthemmung",
+      "rubrics": {
+        "preferred": "Bindungsstörung des Kindesalters mit Enthemmung",
+        "definition": "Ein spezifisches abnormes soziales Funktionsmuster, das während der ersten fünf Lebensjahre auftritt mit einer Tendenz, trotz deutlicher Änderungen in den Milieubedingungen zu persistieren. Dieses kann z.B. in diffusem, nichtselektivem Bindungsverhalten bestehen, in aufmerksamkeitssuchendem und wahllos freundlichem Verhalten und kaum modulierten Interaktionen mit Gleichaltrigen; je nach Umständen kommen auch emotionale und Verhaltensstörungen vor.",
+        "inclusion": "Hospitalismus",
+        "exclusion": "Reaktive Bindungsstörung des KindesaltersF94.1"
+      },
+      "children": []
+    },
+    {
+      "code": "F94.8",
+      "kind": "category",
+      "label": "Sonstige Störungen sozialer Funktionen mit Beginn in der Kindheit",
+      "rubrics": {
+        "preferred": "Sonstige Störungen sozialer Funktionen mit Beginn in der Kindheit"
+      },
+      "children": []
+    },
+    {
+      "code": "F94.9",
+      "kind": "category",
+      "label": "Störung sozialer Funktionen mit Beginn in der Kindheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Störung sozialer Funktionen mit Beginn in der Kindheit, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

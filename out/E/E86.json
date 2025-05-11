@@ -1,0 +1,11 @@
+{
+  "code": "E86",
+  "kind": "category",
+  "label": "Volumenmangel",
+  "rubrics": {
+    "preferred": "Volumenmangel",
+    "inclusion": "Hypovolämie",
+    "exclusion": "Hypovolämischer Schock:\n\t\t\t\to.n.A.R57.1"
+  },
+  "children": []
+}

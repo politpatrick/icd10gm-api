@@ -1,0 +1,11 @@
+{
+  "code": "N13.7",
+  "kind": "category",
+  "label": "Uropathie in Zusammenhang mit vesikoureteralem Reflux",
+  "rubrics": {
+    "preferred": "Uropathie in Zusammenhang mit vesikoureteralem Reflux",
+    "inclusion": "Vesikoureteraler Reflux:\n\t\t\t\to.n.A.",
+    "exclusion": "Pyelonephritis in Verbindung mit RefluxN11.0"
+  },
+  "children": []
+}

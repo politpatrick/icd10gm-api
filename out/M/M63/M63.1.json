@@ -1,0 +1,10 @@
+{
+  "code": "M63.1",
+  "kind": "category",
+  "label": "Myositis bei anderenorts klassifizierten Protozoen- und Parasiteninfektionen",
+  "rubrics": {
+    "preferred": "Myositis bei anderenorts klassifizierten Protozoen- und Parasiteninfektionen",
+    "inclusion": "Myositis bei:\n\t\t\t\tZystizerkoseB69.8"
+  },
+  "children": []
+}

@@ -1,0 +1,38 @@
+{
+  "code": "P57",
+  "kind": "category",
+  "label": "Kernikterus",
+  "rubrics": {
+    "preferred": "Kernikterus"
+  },
+  "children": [
+    {
+      "code": "P57.0",
+      "kind": "category",
+      "label": "Kernikterus durch Isoimmunisierung",
+      "rubrics": {
+        "preferred": "Kernikterus durch Isoimmunisierung"
+      },
+      "children": []
+    },
+    {
+      "code": "P57.8",
+      "kind": "category",
+      "label": "Sonstiger näher bezeichneter Kernikterus",
+      "rubrics": {
+        "preferred": "Sonstiger näher bezeichneter Kernikterus",
+        "exclusion": "Crigler-Najjar-SyndromE80.5"
+      },
+      "children": []
+    },
+    {
+      "code": "P57.9",
+      "kind": "category",
+      "label": "Kernikterus, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Kernikterus, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

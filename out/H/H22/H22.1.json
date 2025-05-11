@@ -1,0 +1,10 @@
+{
+  "code": "H22.1",
+  "kind": "category",
+  "label": "Iridozyklitis bei sonstigen anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Iridozyklitis bei sonstigen anderenorts klassifizierten Krankheiten",
+    "inclusion": "Iridozyklitis bei:\n\t\t\t\tSarkoidoseD86.8"
+  },
+  "children": []
+}

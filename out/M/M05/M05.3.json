@@ -1,0 +1,10 @@
+{
+  "code": "M05.3",
+  "kind": "category",
+  "label": "Seropositive chronische Polyarthritis mit Beteiligung sonstiger Organe und Organsysteme",
+  "rubrics": {
+    "preferred": "Seropositive chronische Polyarthritis mit Beteiligung sonstiger Organe und Organsysteme",
+    "inclusion": "PolyneuropathieG63.6\n\t\t\t\tbei seropositiver chronischer Polyarthritis"
+  },
+  "children": []
+}

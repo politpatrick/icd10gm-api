@@ -1,0 +1,109 @@
+{
+  "code": "K11",
+  "kind": "category",
+  "label": "Krankheiten der Speicheldrüsen",
+  "rubrics": {
+    "preferred": "Krankheiten der Speicheldrüsen"
+  },
+  "children": [
+    {
+      "code": "K11.0",
+      "kind": "category",
+      "label": "Speicheldrüsenatrophie",
+      "rubrics": {
+        "preferred": "Speicheldrüsenatrophie"
+      },
+      "children": []
+    },
+    {
+      "code": "K11.1",
+      "kind": "category",
+      "label": "Speicheldrüsenhypertrophie",
+      "rubrics": {
+        "preferred": "Speicheldrüsenhypertrophie"
+      },
+      "children": []
+    },
+    {
+      "code": "K11.2",
+      "kind": "category",
+      "label": "Sialadenitis",
+      "rubrics": {
+        "preferred": "Sialadenitis",
+        "exclusion": "Parotitis epidemicaB26.-"
+      },
+      "children": []
+    },
+    {
+      "code": "K11.3",
+      "kind": "category",
+      "label": "Speicheldrüsenabszess",
+      "rubrics": {
+        "preferred": "Speicheldrüsenabszess"
+      },
+      "children": []
+    },
+    {
+      "code": "K11.4",
+      "kind": "category",
+      "label": "Speicheldrüsenfistel",
+      "rubrics": {
+        "preferred": "Speicheldrüsenfistel",
+        "exclusion": "Angeborene SpeicheldrüsenfistelQ38.4"
+      },
+      "children": []
+    },
+    {
+      "code": "K11.5",
+      "kind": "category",
+      "label": "Sialolithiasis",
+      "rubrics": {
+        "preferred": "Sialolithiasis",
+        "inclusion": "Speichelstein\n\t\t\t\tSpeicheldrüse oder Speicheldrüsenausführungsgang"
+      },
+      "children": []
+    },
+    {
+      "code": "K11.6",
+      "kind": "category",
+      "label": "Mukozele der Speicheldrüsen",
+      "rubrics": {
+        "preferred": "Mukozele der Speicheldrüsen",
+        "inclusion": "Ranula"
+      },
+      "children": []
+    },
+    {
+      "code": "K11.7",
+      "kind": "category",
+      "label": "Störungen der Speichelsekretion",
+      "rubrics": {
+        "preferred": "Störungen der Speichelsekretion",
+        "inclusion": "Xerostomie",
+        "exclusion": "Mundtrockenheit o.n.A.R68.2"
+      },
+      "children": []
+    },
+    {
+      "code": "K11.8",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Speicheldrüsen",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Speicheldrüsen",
+        "inclusion": "Striktur\n\t\t\t\tSpeicheldrüsenausführungsgang",
+        "exclusion": "Sicca-Syndrom [Sjögren-Syndrom]M35.0"
+      },
+      "children": []
+    },
+    {
+      "code": "K11.9",
+      "kind": "category",
+      "label": "Krankheit der Speicheldrüsen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit der Speicheldrüsen, nicht näher bezeichnet",
+        "inclusion": "Sialoadenopathie o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

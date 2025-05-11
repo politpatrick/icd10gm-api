@@ -1,0 +1,74 @@
+{
+  "code": "E28",
+  "kind": "category",
+  "label": "Ovarielle Dysfunktion",
+  "rubrics": {
+    "preferred": "Ovarielle Dysfunktion",
+    "exclusion": "Ovarialinsuffizienz nach medizinischen MaßnahmenE89.4"
+  },
+  "children": [
+    {
+      "code": "E28.0",
+      "kind": "category",
+      "label": "Östrogenüberschuss",
+      "rubrics": {
+        "preferredLong": "Ovarielle Dysfunktion: Östrogenüberschuss",
+        "preferred": "Östrogenüberschuss",
+        "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "E28.1",
+      "kind": "category",
+      "label": "Androgenüberschuss",
+      "rubrics": {
+        "preferredLong": "Ovarielle Dysfunktion: Androgenüberschuss",
+        "preferred": "Androgenüberschuss",
+        "inclusion": "Hypersekretion ovarieller Androgene",
+        "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "E28.2",
+      "kind": "category",
+      "label": "Syndrom polyzystischer Ovarien",
+      "rubrics": {
+        "preferred": "Syndrom polyzystischer Ovarien",
+        "inclusion": "Syndrom sklerozystischer Ovarien"
+      },
+      "children": []
+    },
+    {
+      "code": "E28.3",
+      "kind": "category",
+      "label": "Primäre Ovarialinsuffizienz",
+      "rubrics": {
+        "preferred": "Primäre Ovarialinsuffizienz",
+        "inclusion": "Vorzeitige Menopause o.n.A.",
+        "exclusion": "Turner-SyndromQ96.-"
+      },
+      "children": []
+    },
+    {
+      "code": "E28.8",
+      "kind": "category",
+      "label": "Sonstige ovarielle Dysfunktion",
+      "rubrics": {
+        "preferred": "Sonstige ovarielle Dysfunktion",
+        "inclusion": "Ovarielle Überfunktion o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "E28.9",
+      "kind": "category",
+      "label": "Ovarielle Dysfunktion, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Ovarielle Dysfunktion, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

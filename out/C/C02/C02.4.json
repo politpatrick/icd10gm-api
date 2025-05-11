@@ -1,0 +1,11 @@
+{
+  "code": "C02.4",
+  "kind": "category",
+  "label": "Zungentonsille",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Zungentonsille",
+    "preferred": "Zungentonsille",
+    "exclusion": "Tonsille o.n.A.C09.9"
+  },
+  "children": []
+}

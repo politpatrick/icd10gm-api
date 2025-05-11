@@ -1,0 +1,10 @@
+{
+  "code": "R17.0",
+  "kind": "category",
+  "label": "Hyperbilirubinämie mit Angabe von Gelbsucht, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Hyperbilirubinämie mit Angabe von Gelbsucht, anderenorts nicht klassifiziert",
+    "inclusion": "Gelbsucht o.n.A."
+  },
+  "children": []
+}

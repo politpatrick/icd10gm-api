@@ -1,0 +1,11 @@
+{
+  "code": "E72.2",
+  "kind": "category",
+  "label": "Störungen des Harnstoffzyklus",
+  "rubrics": {
+    "preferred": "Störungen des Harnstoffzyklus",
+    "inclusion": "Zitrullinämie",
+    "exclusion": "Störungen des OrnithinstoffwechselsE72.4"
+  },
+  "children": []
+}

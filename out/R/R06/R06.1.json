@@ -1,0 +1,10 @@
+{
+  "code": "R06.1",
+  "kind": "category",
+  "label": "Stridor",
+  "rubrics": {
+    "preferred": "Stridor",
+    "exclusion": "Laryngismus (stridulus)J38.5"
+  },
+  "children": []
+}

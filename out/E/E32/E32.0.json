@@ -1,0 +1,10 @@
+{
+  "code": "E32.0",
+  "kind": "category",
+  "label": "Persistierende Thymushyperplasie",
+  "rubrics": {
+    "preferred": "Persistierende Thymushyperplasie",
+    "inclusion": "Thymushypertrophie"
+  },
+  "children": []
+}

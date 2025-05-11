@@ -1,0 +1,52 @@
+{
+  "code": "I22",
+  "kind": "category",
+  "label": "Rezidivierender Myokardinfarkt",
+  "rubrics": {
+    "preferred": "Rezidivierender Myokardinfarkt",
+    "note": "Benutze diese Kategorie zur Morbiditätskodierung für Myokardinfarkte jeglicher Lokalisation mit Eintritt innerhalb von vier Wochen (28 Tagen) oder weniger nach Eintritt des vorausgegangenen Infarktes.",
+    "inclusion": "Rezidivinfarkt",
+    "exclusion": "Als chronisch bezeichnet oder mit Angabe einer Dauer von mehr als vier Wochen (mehr als 28 Tagen) nach Eintritt des Infarktes I25.8"
+  },
+  "children": [
+    {
+      "code": "I22.0",
+      "kind": "category",
+      "label": "Rezidivierender Myokardinfarkt der Vorderwand",
+      "rubrics": {
+        "preferred": "Rezidivierender Myokardinfarkt der Vorderwand",
+        "inclusion": "Rezidivinfarkt (akut):\n\t\t\t\tVorderwand o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "I22.1",
+      "kind": "category",
+      "label": "Rezidivierender Myokardinfarkt der Hinterwand",
+      "rubrics": {
+        "preferred": "Rezidivierender Myokardinfarkt der Hinterwand",
+        "inclusion": "Rezidivinfarkt (akut):\n\t\t\t\tinferoposterior"
+      },
+      "children": []
+    },
+    {
+      "code": "I22.8",
+      "kind": "category",
+      "label": "Rezidivierender Myokardinfarkt an sonstigen Lokalisationen",
+      "rubrics": {
+        "preferred": "Rezidivierender Myokardinfarkt an sonstigen Lokalisationen",
+        "inclusion": "Rezidivinfarkt (akut):\n\t\t\t\tseptal o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "I22.9",
+      "kind": "category",
+      "label": "Rezidivierender Myokardinfarkt an nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Rezidivierender Myokardinfarkt an nicht näher bezeichneter Lokalisation"
+      },
+      "children": []
+    }
+  ]
+}

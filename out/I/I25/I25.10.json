@@ -1,0 +1,10 @@
+{
+  "code": "I25.10",
+  "kind": "category",
+  "label": "Ohne hämodynamisch wirksame Stenosen",
+  "rubrics": {
+    "preferredLong": "Atherosklerotische Herzkrankheit: Ohne hämodynamisch wirksame Stenosen",
+    "preferred": "Ohne hämodynamisch wirksame Stenosen"
+  },
+  "children": []
+}

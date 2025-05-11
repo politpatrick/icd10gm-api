@@ -1,0 +1,40 @@
+{
+  "code": "B50",
+  "kind": "category",
+  "label": "Malaria tropica durch Plasmodium falciparum",
+  "rubrics": {
+    "preferred": "Malaria tropica durch Plasmodium falciparum",
+    "inclusion": "Mischinfektionen von Plasmodium falciparum mit anderen Plasmodienarten"
+  },
+  "children": [
+    {
+      "code": "B50.0",
+      "kind": "category",
+      "label": "Malaria tropica mit zerebralen Komplikationen",
+      "rubrics": {
+        "preferred": "Malaria tropica mit zerebralen Komplikationen",
+        "inclusion": "Zerebrale Malaria o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "B50.8",
+      "kind": "category",
+      "label": "Sonstige schwere Formen oder Komplikationen der Malaria tropica",
+      "rubrics": {
+        "preferred": "Sonstige schwere Formen oder Komplikationen der Malaria tropica",
+        "inclusion": "Schwere Formen oder Komplikationen der Malaria tropica o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "B50.9",
+      "kind": "category",
+      "label": "Malaria tropica, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Malaria tropica, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

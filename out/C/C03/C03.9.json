@@ -1,0 +1,10 @@
+{
+  "code": "C03.9",
+  "kind": "category",
+  "label": "Zahnfleisch, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Zahnfleisch, nicht näher bezeichnet",
+    "preferred": "Zahnfleisch, nicht näher bezeichnet"
+  },
+  "children": []
+}

@@ -1,0 +1,49 @@
+{
+  "code": "E71",
+  "kind": "category",
+  "label": "Störungen des Stoffwechsels verzweigter Aminosäuren und des Fettsäurestoffwechsels",
+  "rubrics": {
+    "preferred": "Störungen des Stoffwechsels verzweigter Aminosäuren und des Fettsäurestoffwechsels"
+  },
+  "children": [
+    {
+      "code": "E71.0",
+      "kind": "category",
+      "label": "Ahornsirup- (Harn-) Krankheit",
+      "rubrics": {
+        "preferred": "Ahornsirup- (Harn-) Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "E71.1",
+      "kind": "category",
+      "label": "Sonstige Störungen des Stoffwechsels verzweigter Aminosäuren",
+      "rubrics": {
+        "preferred": "Sonstige Störungen des Stoffwechsels verzweigter Aminosäuren",
+        "inclusion": "Propionazidämie"
+      },
+      "children": []
+    },
+    {
+      "code": "E71.2",
+      "kind": "category",
+      "label": "Störung des Stoffwechsels verzweigter Aminosäuren, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Störung des Stoffwechsels verzweigter Aminosäuren, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "E71.3",
+      "kind": "category",
+      "label": "Störungen des Fettsäurestoffwechsels",
+      "rubrics": {
+        "preferred": "Störungen des Fettsäurestoffwechsels",
+        "inclusion": "Mangel an sehr langkettiger Acyl-CoA-Dehydrogenase",
+        "exclusion": "Schilder-KrankheitG37.0"
+      },
+      "children": []
+    }
+  ]
+}

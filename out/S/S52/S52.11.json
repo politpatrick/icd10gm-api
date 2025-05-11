@@ -1,0 +1,10 @@
+{
+  "code": "S52.11",
+  "kind": "category",
+  "label": "Kopf",
+  "rubrics": {
+    "preferredLong": "Fraktur des proximalen Endes des Radius: Kopf",
+    "preferred": "Kopf"
+  },
+  "children": []
+}

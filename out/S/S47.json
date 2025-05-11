@@ -1,0 +1,11 @@
+{
+  "code": "S47",
+  "kind": "category",
+  "label": "Zerquetschung der Schulter und des Oberarmes",
+  "rubrics": {
+    "preferred": "Zerquetschung der Schulter und des Oberarmes",
+    "coding-hint": "Verschlüssele gegebenenfalls auch Crush-Syndrom T79.5.",
+    "exclusion": "Zerquetschung des EllenbogensS57.0"
+  },
+  "children": []
+}

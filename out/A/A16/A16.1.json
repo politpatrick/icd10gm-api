@@ -1,0 +1,10 @@
+{
+  "code": "A16.1",
+  "kind": "category",
+  "label": "Lungentuberkulose, bakteriologische, molekularbiologische und histologische Untersuchung nicht durchgeführt",
+  "rubrics": {
+    "preferred": "Lungentuberkulose, bakteriologische, molekularbiologische und histologische Untersuchung nicht durchgeführt",
+    "inclusion": "Unter A16.0 aufgeführte Zustände, bakteriologische, molekularbiologische und histologische Untersuchung nicht durchgeführt"
+  },
+  "children": []
+}

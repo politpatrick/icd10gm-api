@@ -1,0 +1,10 @@
+{
+  "code": "Q93.5",
+  "kind": "category",
+  "label": "Sonstige Deletionen eines Chromosomenteils",
+  "rubrics": {
+    "preferred": "Sonstige Deletionen eines Chromosomenteils",
+    "inclusion": "Angelman-Syndrom"
+  },
+  "children": []
+}

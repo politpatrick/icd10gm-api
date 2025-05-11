@@ -1,0 +1,57 @@
+{
+  "code": "A28",
+  "kind": "category",
+  "label": "Sonstige bakterielle Zoonosen, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige bakterielle Zoonosen, anderenorts nicht klassifiziert"
+  },
+  "children": [
+    {
+      "code": "A28.0",
+      "kind": "category",
+      "label": "Pasteurellose",
+      "rubrics": {
+        "preferred": "Pasteurellose"
+      },
+      "children": []
+    },
+    {
+      "code": "A28.1",
+      "kind": "category",
+      "label": "Katzenkratzkrankheit",
+      "rubrics": {
+        "preferred": "Katzenkratzkrankheit",
+        "inclusion": "Katzenkratzfieber"
+      },
+      "children": []
+    },
+    {
+      "code": "A28.2",
+      "kind": "category",
+      "label": "Extraintestinale Yersiniose",
+      "rubrics": {
+        "preferred": "Extraintestinale Yersiniose",
+        "exclusion": "PestA20.-"
+      },
+      "children": []
+    },
+    {
+      "code": "A28.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete bakterielle Zoonosen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete bakterielle Zoonosen, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "A28.9",
+      "kind": "category",
+      "label": "Bakterielle Zoonose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Bakterielle Zoonose, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

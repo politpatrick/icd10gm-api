@@ -1,0 +1,10 @@
+{
+  "code": "K12.28",
+  "kind": "category",
+  "label": "Sonstige Phlegmone und Abszess des Mundes",
+  "rubrics": {
+    "preferred": "Sonstige Phlegmone und Abszess des Mundes",
+    "inclusion": "Perimandibularabszess"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "K14.9",
+  "kind": "category",
+  "label": "Krankheit der Zunge, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Krankheit der Zunge, nicht näher bezeichnet",
+    "inclusion": "Zungenkrankheit o.n.A."
+  },
+  "children": []
+}

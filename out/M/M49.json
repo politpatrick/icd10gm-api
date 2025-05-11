@@ -1,0 +1,79 @@
+{
+  "code": "M49",
+  "kind": "category",
+  "label": "Spondylopathien bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Spondylopathien bei anderenorts klassifizierten Krankheiten",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]",
+    "exclusion": "Arthritis psoriatica und Arthritiden bei gastrointestinalen GrundkrankheitenM07.-M09.-"
+  },
+  "children": [
+    {
+      "code": "M49.0",
+      "kind": "category",
+      "label": "Tuberkulose der WirbelsäuleA18.0",
+      "rubrics": {
+        "preferred": "Tuberkulose der WirbelsäuleA18.0",
+        "inclusion": "Pott-Gibbus"
+      },
+      "children": []
+    },
+    {
+      "code": "M49.1",
+      "kind": "category",
+      "label": "Spondylitis brucellosaA23.-",
+      "rubrics": {
+        "preferred": "Spondylitis brucellosaA23.-"
+      },
+      "children": []
+    },
+    {
+      "code": "M49.2",
+      "kind": "category",
+      "label": "Spondylitis durch bakterielle DarminfektionA01-A04",
+      "rubrics": {
+        "preferred": "Spondylitis durch bakterielle DarminfektionA01-A04"
+      },
+      "children": []
+    },
+    {
+      "code": "M49.3",
+      "kind": "category",
+      "label": "Spondylopathie bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+      "rubrics": {
+        "preferred": "Spondylopathie bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+        "exclusion": "Neuropathische Spondylopathie bei Tabes dorsalisM49.4-"
+      },
+      "children": []
+    },
+    {
+      "code": "M49.4",
+      "kind": "category",
+      "label": "Neuropathische Spondylopathie",
+      "rubrics": {
+        "preferred": "Neuropathische Spondylopathie",
+        "inclusion": "Neuropathische Spondylopathie bei:\n\t\t\t\tTabes dorsalisA52.1"
+      },
+      "children": []
+    },
+    {
+      "code": "M49.5",
+      "kind": "category",
+      "label": "Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten",
+        "inclusion": "Wirbelfraktur infolge von MetastasenC79.5"
+      },
+      "children": []
+    },
+    {
+      "code": "M49.8",
+      "kind": "category",
+      "label": "Spondylopathie bei sonstigen anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Spondylopathie bei sonstigen anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

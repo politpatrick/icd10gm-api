@@ -1,0 +1,29 @@
+{
+  "code": "K57.8",
+  "kind": "category",
+  "label": "Divertikelkrankheit des Darmes, Teil nicht näher bezeichnet, mit Perforation und Abszess",
+  "rubrics": {
+    "preferred": "Divertikelkrankheit des Darmes, Teil nicht näher bezeichnet, mit Perforation und Abszess",
+    "inclusion": "Divertikulitis des Darmes o.n.A. mit Peritonitis"
+  },
+  "children": [
+    {
+      "code": "K57.82",
+      "kind": "category",
+      "label": "Divertikulitis des Darmes, Teil nicht näher bezeichnet, mit Perforation und Abszess, ohne Angabe einer Blutung",
+      "rubrics": {
+        "preferred": "Divertikulitis des Darmes, Teil nicht näher bezeichnet, mit Perforation und Abszess, ohne Angabe einer Blutung"
+      },
+      "children": []
+    },
+    {
+      "code": "K57.83",
+      "kind": "category",
+      "label": "Divertikulitis des Darmes, Teil nicht näher bezeichnet, mit Perforation, Abszess und Blutung",
+      "rubrics": {
+        "preferred": "Divertikulitis des Darmes, Teil nicht näher bezeichnet, mit Perforation, Abszess und Blutung"
+      },
+      "children": []
+    }
+  ]
+}

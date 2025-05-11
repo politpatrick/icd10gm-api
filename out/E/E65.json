@@ -1,0 +1,10 @@
+{
+  "code": "E65",
+  "kind": "category",
+  "label": "Lokalisierte Adipositas",
+  "rubrics": {
+    "preferred": "Lokalisierte Adipositas",
+    "inclusion": "Fettpolster"
+  },
+  "children": []
+}

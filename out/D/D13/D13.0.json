@@ -1,0 +1,10 @@
+{
+  "code": "D13.0",
+  "kind": "category",
+  "label": "Ösophagus",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Ösophagus",
+    "preferred": "Ösophagus"
+  },
+  "children": []
+}

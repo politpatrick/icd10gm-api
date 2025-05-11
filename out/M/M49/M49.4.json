@@ -1,0 +1,10 @@
+{
+  "code": "M49.4",
+  "kind": "category",
+  "label": "Neuropathische Spondylopathie",
+  "rubrics": {
+    "preferred": "Neuropathische Spondylopathie",
+    "inclusion": "Neuropathische Spondylopathie bei:\n\t\t\t\tTabes dorsalisA52.1"
+  },
+  "children": []
+}

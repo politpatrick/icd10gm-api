@@ -1,0 +1,60 @@
+{
+  "code": "K72.7",
+  "kind": "category",
+  "label": "Hepatische Enzephalopathie und Coma hepaticum",
+  "rubrics": {
+    "preferred": "Hepatische Enzephalopathie und Coma hepaticum",
+    "note": "Die Gradeinteilung erfolgt nach den West-Haven-Kriterien."
+  },
+  "children": [
+    {
+      "code": "K72.71",
+      "kind": "category",
+      "label": "Hepatische Enzephalopathie Grad 1",
+      "rubrics": {
+        "preferred": "Hepatische Enzephalopathie Grad 1",
+        "definition": "Euphorie oder Ängstlichkeit; Aufmerksamkeitsdefizit; Schwierigkeiten, zu addieren"
+      },
+      "children": []
+    },
+    {
+      "code": "K72.72",
+      "kind": "category",
+      "label": "Hepatische Enzephalopathie Grad 2",
+      "rubrics": {
+        "preferred": "Hepatische Enzephalopathie Grad 2",
+        "definition": "Lethargie, Apathie; minimale Desorientierung zu Zeit und Raum; subtile Persönlichkeitsveränderungen; unangepasstes Verhalten; Schwierigkeiten, zu subtrahieren"
+      },
+      "children": []
+    },
+    {
+      "code": "K72.73",
+      "kind": "category",
+      "label": "Hepatische Enzephalopathie Grad 3",
+      "rubrics": {
+        "preferred": "Hepatische Enzephalopathie Grad 3",
+        "definition": "Somnolenz bis Stupor; Reaktion auf verbale Stimuli; Verwirrtheit; Desorientierung zu Zeit und Raum"
+      },
+      "children": []
+    },
+    {
+      "code": "K72.74",
+      "kind": "category",
+      "label": "Hepatische Enzephalopathie Grad 4",
+      "rubrics": {
+        "preferred": "Hepatische Enzephalopathie Grad 4",
+        "definition": "Koma; keine Reaktion auf verbale Reize oder Schmerzstimulation"
+      },
+      "children": []
+    },
+    {
+      "code": "K72.79",
+      "kind": "category",
+      "label": "Hepatische Enzephalopathie, Grad nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hepatische Enzephalopathie, Grad nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

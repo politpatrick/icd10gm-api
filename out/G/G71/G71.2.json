@@ -1,0 +1,10 @@
+{
+  "code": "G71.2",
+  "kind": "category",
+  "label": "Angeborene Myopathien",
+  "rubrics": {
+    "preferred": "Angeborene Myopathien",
+    "inclusion": "Zentralfibrillenmyopathie [Central-Core-Krankheit]"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "G95.9",
+  "kind": "category",
+  "label": "Krankheit des Rückenmarkes, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Krankheit des Rückenmarkes, nicht näher bezeichnet",
+    "inclusion": "Myelopathie o.n.A."
+  },
+  "children": []
+}

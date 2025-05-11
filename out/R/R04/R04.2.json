@@ -1,0 +1,10 @@
+{
+  "code": "R04.2",
+  "kind": "category",
+  "label": "Hämoptoe",
+  "rubrics": {
+    "preferred": "Hämoptoe",
+    "inclusion": "Blut im Sputum"
+  },
+  "children": []
+}

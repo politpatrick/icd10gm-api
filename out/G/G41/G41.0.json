@@ -1,0 +1,11 @@
+{
+  "code": "G41.0",
+  "kind": "category",
+  "label": "Grand-Mal-Status",
+  "rubrics": {
+    "preferred": "Grand-Mal-Status",
+    "inclusion": "Status mit tonisch-klonischen Anfällen",
+    "exclusion": "Epilepsia partialis continua [Kojewnikow-Syndrom]G40.5"
+  },
+  "children": []
+}

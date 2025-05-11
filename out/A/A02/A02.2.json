@@ -1,0 +1,10 @@
+{
+  "code": "A02.2",
+  "kind": "category",
+  "label": "Lokalisierte Salmonelleninfektionen",
+  "rubrics": {
+    "preferred": "Lokalisierte Salmonelleninfektionen",
+    "inclusion": "Tubulointerstitielle NierenkrankheitN16.0\n\t\t\t\tdurch Salmonellen"
+  },
+  "children": []
+}

@@ -1,0 +1,216 @@
+{
+  "code": "G10-G14",
+  "kind": "block",
+  "label": "Systematrophien, die vorwiegend das Zentralnervensystem betreffen",
+  "rubrics": {
+    "preferred": "Systematrophien, die vorwiegend das Zentralnervensystem betreffen"
+  },
+  "children": [
+    {
+      "code": "G10",
+      "kind": "category",
+      "label": "Chorea Huntington",
+      "rubrics": {
+        "preferred": "Chorea Huntington",
+        "inclusion": "Huntington-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "G11",
+      "kind": "category",
+      "label": "Hereditäre Ataxie",
+      "rubrics": {
+        "preferred": "Hereditäre Ataxie",
+        "exclusion": "StoffwechselstörungenE70-E90"
+      },
+      "children": [
+        {
+          "code": "G11.0",
+          "kind": "category",
+          "label": "Angeborene nichtprogressive Ataxie",
+          "rubrics": {
+            "preferred": "Angeborene nichtprogressive Ataxie"
+          },
+          "children": []
+        },
+        {
+          "code": "G11.1",
+          "kind": "category",
+          "label": "Früh beginnende zerebellare Ataxie",
+          "rubrics": {
+            "preferred": "Früh beginnende zerebellare Ataxie",
+            "note": "Beginn gewöhnlich vor dem 20. Lebensjahr",
+            "inclusion": "X-chromosomal-rezessive spinozerebellare Ataxie"
+          },
+          "children": []
+        },
+        {
+          "code": "G11.2",
+          "kind": "category",
+          "label": "Spät beginnende zerebellare Ataxie",
+          "rubrics": {
+            "preferred": "Spät beginnende zerebellare Ataxie",
+            "note": "Beginn gewöhnlich nach dem 20. Lebensjahr"
+          },
+          "children": []
+        },
+        {
+          "code": "G11.3",
+          "kind": "category",
+          "label": "Zerebellare Ataxie mit defektem DNA-Reparatursystem",
+          "rubrics": {
+            "preferred": "Zerebellare Ataxie mit defektem DNA-Reparatursystem",
+            "inclusion": "Ataxia teleangiectatica [Louis-Bar-Syndrom]",
+            "exclusion": "Xeroderma pigmentosumQ82.1"
+          },
+          "children": []
+        },
+        {
+          "code": "G11.4",
+          "kind": "category",
+          "label": "Hereditäre spastische Paraplegie",
+          "rubrics": {
+            "preferred": "Hereditäre spastische Paraplegie"
+          },
+          "children": []
+        },
+        {
+          "code": "G11.8",
+          "kind": "category",
+          "label": "Sonstige hereditäre Ataxien",
+          "rubrics": {
+            "preferred": "Sonstige hereditäre Ataxien"
+          },
+          "children": []
+        },
+        {
+          "code": "G11.9",
+          "kind": "category",
+          "label": "Hereditäre Ataxie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Hereditäre Ataxie, nicht näher bezeichnet",
+            "inclusion": "Hereditäre(s) zerebellare(s):\n\t\t\t\tSyndrom"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G12",
+      "kind": "category",
+      "label": "Spinale Muskelatrophie und verwandte Syndrome",
+      "rubrics": {
+        "preferred": "Spinale Muskelatrophie und verwandte Syndrome"
+      },
+      "children": [
+        {
+          "code": "G12.0",
+          "kind": "category",
+          "label": "Infantile spinale Muskelatrophie, Typ I [Typ Werdnig-Hoffmann]",
+          "rubrics": {
+            "preferred": "Infantile spinale Muskelatrophie, Typ I [Typ Werdnig-Hoffmann]"
+          },
+          "children": []
+        },
+        {
+          "code": "G12.1",
+          "kind": "category",
+          "label": "Sonstige vererbte spinale Muskelatrophie",
+          "rubrics": {
+            "preferred": "Sonstige vererbte spinale Muskelatrophie",
+            "inclusion": "Spinale Muskelatrophie:\n\t\t\t\tskapuloperonäale Form"
+          },
+          "children": []
+        },
+        {
+          "code": "G12.2",
+          "kind": "category",
+          "label": "Motoneuron-Krankheit",
+          "rubrics": {
+            "preferred": "Motoneuron-Krankheit",
+            "inclusion": "Spinobulbäre Muskelatrophie Typ Kennedy [Kennedy-Krankheit]"
+          },
+          "children": []
+        },
+        {
+          "code": "G12.8",
+          "kind": "category",
+          "label": "Sonstige spinale Muskelatrophien und verwandte Syndrome",
+          "rubrics": {
+            "preferred": "Sonstige spinale Muskelatrophien und verwandte Syndrome"
+          },
+          "children": []
+        },
+        {
+          "code": "G12.9",
+          "kind": "category",
+          "label": "Spinale Muskelatrophie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Spinale Muskelatrophie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G13",
+      "kind": "category",
+      "label": "Systematrophien, vorwiegend das Zentralnervensystem betreffend, bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Systematrophien, vorwiegend das Zentralnervensystem betreffend, bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "G13.0",
+          "kind": "category",
+          "label": "Paraneoplastische Neuromyopathie und Neuropathie",
+          "rubrics": {
+            "preferred": "Paraneoplastische Neuromyopathie und Neuropathie",
+            "inclusion": "Sensorische paraneoplastische Neuropathie, Typ Denny-BrownC00-D48"
+          },
+          "children": []
+        },
+        {
+          "code": "G13.1",
+          "kind": "category",
+          "label": "Sonstige Systematrophien, vorwiegend das Zentralnervensystem betreffend, bei Neubildungen",
+          "rubrics": {
+            "preferred": "Sonstige Systematrophien, vorwiegend das Zentralnervensystem betreffend, bei Neubildungen",
+            "inclusion": "Paraneoplastische limbische EnzephalopathieC00-D48"
+          },
+          "children": []
+        },
+        {
+          "code": "G13.2",
+          "kind": "category",
+          "label": "Systematrophie, vorwiegend das Zentralnervensystem betreffend, bei MyxödemE00.1E03.-",
+          "rubrics": {
+            "preferred": "Systematrophie, vorwiegend das Zentralnervensystem betreffend, bei MyxödemE00.1E03.-"
+          },
+          "children": []
+        },
+        {
+          "code": "G13.8",
+          "kind": "category",
+          "label": "Systematrophien, vorwiegend das Zentralnervensystem betreffend, bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Systematrophien, vorwiegend das Zentralnervensystem betreffend, bei sonstigen anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G14",
+      "kind": "category",
+      "label": "Postpolio-Syndrom",
+      "rubrics": {
+        "preferred": "Postpolio-Syndrom",
+        "inclusion": "Postpoliomyelitis-Syndrom",
+        "exclusion": "Folgezustände der PoliomyelitisB91"
+      },
+      "children": []
+    }
+  ]
+}

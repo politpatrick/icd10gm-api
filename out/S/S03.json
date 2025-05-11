@@ -1,0 +1,67 @@
+{
+  "code": "S03",
+  "kind": "category",
+  "label": "Luxation, Verstauchung und Zerrung von Gelenken und Bändern des Kopfes",
+  "rubrics": {
+    "preferred": "Luxation, Verstauchung und Zerrung von Gelenken und Bändern des Kopfes",
+    "coding-hint": "Benutze eine zusätzliche Schlüsselnummer aus S01.84!-S01.89! zusammen mit S03.0-S03.3, um den Schweregrad des Weichteilschadens bei einer Luxation zu verschlüsseln."
+  },
+  "children": [
+    {
+      "code": "S03.0",
+      "kind": "category",
+      "label": "Kieferluxation",
+      "rubrics": {
+        "preferred": "Kieferluxation",
+        "inclusion": "Mandibula"
+      },
+      "children": []
+    },
+    {
+      "code": "S03.1",
+      "kind": "category",
+      "label": "Luxation des knorpeligen Nasenseptums",
+      "rubrics": {
+        "preferred": "Luxation des knorpeligen Nasenseptums"
+      },
+      "children": []
+    },
+    {
+      "code": "S03.2",
+      "kind": "category",
+      "label": "Zahnluxation",
+      "rubrics": {
+        "preferred": "Zahnluxation"
+      },
+      "children": []
+    },
+    {
+      "code": "S03.3",
+      "kind": "category",
+      "label": "Luxation sonstiger und nicht näher bezeichneter Teile des Kopfes",
+      "rubrics": {
+        "preferred": "Luxation sonstiger und nicht näher bezeichneter Teile des Kopfes"
+      },
+      "children": []
+    },
+    {
+      "code": "S03.4",
+      "kind": "category",
+      "label": "Verstauchung und Zerrung des Kiefers",
+      "rubrics": {
+        "preferred": "Verstauchung und Zerrung des Kiefers",
+        "inclusion": "Kiefer (-Gelenk) (-Band)"
+      },
+      "children": []
+    },
+    {
+      "code": "S03.5",
+      "kind": "category",
+      "label": "Verstauchung und Zerrung von Gelenken und Bändern sonstiger und nicht näher bezeichneter Teile des Kopfes",
+      "rubrics": {
+        "preferred": "Verstauchung und Zerrung von Gelenken und Bändern sonstiger und nicht näher bezeichneter Teile des Kopfes"
+      },
+      "children": []
+    }
+  ]
+}

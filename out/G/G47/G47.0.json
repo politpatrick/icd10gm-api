@@ -1,0 +1,10 @@
+{
+  "code": "G47.0",
+  "kind": "category",
+  "label": "Ein- und Durchschlafstörungen",
+  "rubrics": {
+    "preferred": "Ein- und Durchschlafstörungen",
+    "inclusion": "Insomnie"
+  },
+  "children": []
+}

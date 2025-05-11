@@ -1,0 +1,10 @@
+{
+  "code": "I21.1",
+  "kind": "category",
+  "label": "Akuter transmuraler Myokardinfarkt der Hinterwand",
+  "rubrics": {
+    "preferred": "Akuter transmuraler Myokardinfarkt der Hinterwand",
+    "inclusion": "Transmuraler Infarkt (akut):\n\t\t\t\tinferoposterior"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "H44.1",
+  "kind": "category",
+  "label": "Sonstige Endophthalmitis",
+  "rubrics": {
+    "preferred": "Sonstige Endophthalmitis",
+    "inclusion": "Sympathische Uveitis"
+  },
+  "children": []
+}

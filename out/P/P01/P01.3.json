@@ -1,0 +1,10 @@
+{
+  "code": "P01.3",
+  "kind": "category",
+  "label": "Schädigung des Fetus und Neugeborenen durch Polyhydramnion",
+  "rubrics": {
+    "preferred": "Schädigung des Fetus und Neugeborenen durch Polyhydramnion",
+    "inclusion": "Hydramnion"
+  },
+  "children": []
+}

@@ -1,0 +1,42 @@
+{
+  "code": "K44",
+  "kind": "category",
+  "label": "Hernia diaphragmatica",
+  "rubrics": {
+    "preferred": "Hernia diaphragmatica",
+    "inclusion": "Paraösophageale Hernie",
+    "exclusion": "Angeboren:\n\t\t\t\tZwerchfellhernieQ79.0"
+  },
+  "children": [
+    {
+      "code": "K44.0",
+      "kind": "category",
+      "label": "Hernia diaphragmatica mit Einklemmung, ohne Gangrän",
+      "rubrics": {
+        "preferred": "Hernia diaphragmatica mit Einklemmung, ohne Gangrän",
+        "inclusion": "Hernia diaphragmatica:\n\t\t\t\tVerschluss verursachend\n\t\t\t\tohne Gangrän"
+      },
+      "children": []
+    },
+    {
+      "code": "K44.1",
+      "kind": "category",
+      "label": "Hernia diaphragmatica mit Gangrän",
+      "rubrics": {
+        "preferred": "Hernia diaphragmatica mit Gangrän",
+        "inclusion": "Hernia diaphragmatica gangraenosa"
+      },
+      "children": []
+    },
+    {
+      "code": "K44.9",
+      "kind": "category",
+      "label": "Hernia diaphragmatica ohne Einklemmung und ohne Gangrän",
+      "rubrics": {
+        "preferred": "Hernia diaphragmatica ohne Einklemmung und ohne Gangrän",
+        "inclusion": "Hernia diaphragmatica o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

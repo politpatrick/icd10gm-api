@@ -1,0 +1,10 @@
+{
+  "code": "E21.0",
+  "kind": "category",
+  "label": "Primärer Hyperparathyreoidismus",
+  "rubrics": {
+    "preferred": "Primärer Hyperparathyreoidismus",
+    "inclusion": "Osteodystrophia fibrosa cystica generalisata [von-Recklinghausen-Krankheit des Knochens]"
+  },
+  "children": []
+}

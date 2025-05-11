@@ -1,0 +1,10 @@
+{
+  "code": "A30.2",
+  "kind": "category",
+  "label": "Borderline-tuberkuloide Lepra",
+  "rubrics": {
+    "preferred": "Borderline-tuberkuloide Lepra",
+    "inclusion": "BT-Lepra"
+  },
+  "children": []
+}

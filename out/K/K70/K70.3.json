@@ -1,0 +1,11 @@
+{
+  "code": "K70.3",
+  "kind": "category",
+  "label": "Alkoholische Leberzirrhose",
+  "rubrics": {
+    "preferred": "Alkoholische Leberzirrhose",
+    "inclusion": "Alkoholische Zirrhose o.n.A.",
+    "coding-hint": "Soll das Stadium einer Leberzirrhose angegeben werden, ist eine zusätzliche Schlüsselnummer ausK74.7- zu benutzen."
+  },
+  "children": []
+}

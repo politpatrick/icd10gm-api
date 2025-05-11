@@ -1,0 +1,11 @@
+{
+  "code": "G24.0",
+  "kind": "category",
+  "label": "Arzneimittelinduzierte Dystonie",
+  "rubrics": {
+    "preferred": "Arzneimittelinduzierte Dystonie",
+    "inclusion": "Dyskinesia tarda",
+    "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

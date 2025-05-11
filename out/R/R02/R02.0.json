@@ -1,0 +1,102 @@
+{
+  "code": "R02.0",
+  "kind": "category",
+  "label": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert"
+  },
+  "children": [
+    {
+      "code": "R02.00",
+      "kind": "category",
+      "label": "Kopf und Hals",
+      "rubrics": {
+        "preferredLong": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert: Kopf und Hals",
+        "preferred": "Kopf und Hals"
+      },
+      "children": []
+    },
+    {
+      "code": "R02.01",
+      "kind": "category",
+      "label": "Schulterregion, Oberarm und Ellenbogen",
+      "rubrics": {
+        "preferredLong": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert: Schulterregion, Oberarm und Ellenbogen",
+        "preferred": "Schulterregion, Oberarm und Ellenbogen"
+      },
+      "children": []
+    },
+    {
+      "code": "R02.02",
+      "kind": "category",
+      "label": "Unterarm und Handgelenk",
+      "rubrics": {
+        "preferredLong": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert: Unterarm und Handgelenk",
+        "preferred": "Unterarm und Handgelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "R02.03",
+      "kind": "category",
+      "label": "Hand und Finger",
+      "rubrics": {
+        "preferredLong": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert: Hand und Finger",
+        "preferred": "Hand und Finger"
+      },
+      "children": []
+    },
+    {
+      "code": "R02.04",
+      "kind": "category",
+      "label": "Rumpf",
+      "rubrics": {
+        "preferredLong": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert: Rumpf",
+        "preferred": "Rumpf",
+        "inclusion": "Rücken [jeder Teil, ausgenommen Gesäß]"
+      },
+      "children": []
+    },
+    {
+      "code": "R02.05",
+      "kind": "category",
+      "label": "Beckenregion und Oberschenkel",
+      "rubrics": {
+        "preferredLong": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert: Beckenregion und Oberschenkel",
+        "preferred": "Beckenregion und Oberschenkel",
+        "inclusion": "Hüfte"
+      },
+      "children": []
+    },
+    {
+      "code": "R02.06",
+      "kind": "category",
+      "label": "Unterschenkel und Knie",
+      "rubrics": {
+        "preferredLong": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert: Unterschenkel und Knie",
+        "preferred": "Unterschenkel und Knie"
+      },
+      "children": []
+    },
+    {
+      "code": "R02.07",
+      "kind": "category",
+      "label": "Knöchelregion, Fuß und Zehen",
+      "rubrics": {
+        "preferredLong": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert: Knöchelregion, Fuß und Zehen",
+        "preferred": "Knöchelregion, Fuß und Zehen"
+      },
+      "children": []
+    },
+    {
+      "code": "R02.09",
+      "kind": "category",
+      "label": "Lokalisation nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Nekrose der Haut und Unterhaut, anderenorts nicht klassifiziert: Lokalisation nicht näher bezeichnet",
+        "preferred": "Lokalisation nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

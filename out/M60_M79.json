@@ -1,0 +1,1305 @@
+{
+  "code": "M60-M79",
+  "kind": "block",
+  "label": "Krankheiten der Weichteilgewebe",
+  "rubrics": {
+    "preferred": "Krankheiten der Weichteilgewebe"
+  },
+  "children": [
+    {
+      "code": "M60-M63",
+      "kind": "block",
+      "label": "Krankheiten der Muskeln",
+      "rubrics": {
+        "preferred": "Krankheiten der Muskeln",
+        "exclusion": "Myopathie bei:\n\t\t\t\tsystemischem Lupus erythematodesM32.-"
+      },
+      "children": [
+        {
+          "code": "M60",
+          "kind": "category",
+          "label": "Myositis",
+          "rubrics": {
+            "preferred": "Myositis",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+          },
+          "children": [
+            {
+              "code": "M60.0",
+              "kind": "category",
+              "label": "Infektiöse Myositis",
+              "rubrics": {
+                "preferred": "Infektiöse Myositis",
+                "inclusion": "Tropische Pyomyositis",
+                "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "M60.1",
+              "kind": "category",
+              "label": "Interstitielle Myositis",
+              "rubrics": {
+                "preferred": "Interstitielle Myositis"
+              },
+              "children": []
+            },
+            {
+              "code": "M60.2",
+              "kind": "category",
+              "label": "Fremdkörpergranulom im Weichteilgewebe, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Fremdkörpergranulom im Weichteilgewebe, anderenorts nicht klassifiziert",
+                "exclusion": "Fremdkörpergranulom in der Haut und im UnterhautgewebeL92.3"
+              },
+              "children": []
+            },
+            {
+              "code": "M60.8",
+              "kind": "category",
+              "label": "Sonstige Myositis",
+              "rubrics": {
+                "preferred": "Sonstige Myositis"
+              },
+              "children": []
+            },
+            {
+              "code": "M60.9",
+              "kind": "category",
+              "label": "Myositis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Myositis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M61",
+          "kind": "category",
+          "label": "Kalzifikation und Ossifikation von Muskeln",
+          "rubrics": {
+            "preferred": "Kalzifikation und Ossifikation von Muskeln",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+          },
+          "children": [
+            {
+              "code": "M61.0",
+              "kind": "category",
+              "label": "Traumatische Myositis ossificans",
+              "rubrics": {
+                "preferred": "Traumatische Myositis ossificans"
+              },
+              "children": []
+            },
+            {
+              "code": "M61.1",
+              "kind": "category",
+              "label": "Myositis ossificans progressiva",
+              "rubrics": {
+                "preferred": "Myositis ossificans progressiva",
+                "inclusion": "Fibrodysplasia ossificans progressiva"
+              },
+              "children": []
+            },
+            {
+              "code": "M61.2",
+              "kind": "category",
+              "label": "Kalzifikation und Ossifikation von Muskeln bei Lähmungen",
+              "rubrics": {
+                "preferred": "Kalzifikation und Ossifikation von Muskeln bei Lähmungen",
+                "inclusion": "Myositis ossificans bei Tetraplegie oder Paraplegie"
+              },
+              "children": []
+            },
+            {
+              "code": "M61.3",
+              "kind": "category",
+              "label": "Kalzifikation und Ossifikation von Muskeln bei Verbrennungen",
+              "rubrics": {
+                "preferred": "Kalzifikation und Ossifikation von Muskeln bei Verbrennungen",
+                "inclusion": "Myositis ossificans bei Verbrennungen"
+              },
+              "children": []
+            },
+            {
+              "code": "M61.4",
+              "kind": "category",
+              "label": "Sonstige Kalzifikation von Muskeln",
+              "rubrics": {
+                "preferred": "Sonstige Kalzifikation von Muskeln",
+                "exclusion": "Tendinitis calcarea im SchulterbereichM75.3"
+              },
+              "children": []
+            },
+            {
+              "code": "M61.5",
+              "kind": "category",
+              "label": "Sonstige Ossifikation von Muskeln",
+              "rubrics": {
+                "preferred": "Sonstige Ossifikation von Muskeln"
+              },
+              "children": []
+            },
+            {
+              "code": "M61.9",
+              "kind": "category",
+              "label": "Kalzifikation und Ossifikation von Muskeln, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Kalzifikation und Ossifikation von Muskeln, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M62",
+          "kind": "category",
+          "label": "Sonstige Muskelkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Muskelkrankheiten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Stiff-Person-SyndromG25.88"
+          },
+          "children": [
+            {
+              "code": "M62.0",
+              "kind": "category",
+              "label": "Muskeldiastase",
+              "rubrics": {
+                "preferred": "Muskeldiastase"
+              },
+              "children": []
+            },
+            {
+              "code": "M62.1",
+              "kind": "category",
+              "label": "Sonstiger Muskelriss (nichttraumatisch)",
+              "rubrics": {
+                "preferred": "Sonstiger Muskelriss (nichttraumatisch)",
+                "exclusion": "Traumatischer Muskelriss - siehe Muskelverletzung nach Körperregion"
+              },
+              "children": []
+            },
+            {
+              "code": "M62.2",
+              "kind": "category",
+              "label": "Ischämischer Muskelinfarkt (nichttraumatisch)",
+              "rubrics": {
+                "preferred": "Ischämischer Muskelinfarkt (nichttraumatisch)",
+                "inclusion": "Nichttraumatisches Kompartmentsyndrom",
+                "exclusion": "Volkmann-Kontraktur [ischämische Muskelkontraktur]T79.60"
+              },
+              "children": []
+            },
+            {
+              "code": "M62.3",
+              "kind": "category",
+              "label": "Immobilitätssyndrom (paraplegisch)",
+              "rubrics": {
+                "preferred": "Immobilitätssyndrom (paraplegisch)"
+              },
+              "children": []
+            },
+            {
+              "code": "M62.4",
+              "kind": "category",
+              "label": "Muskelkontraktur",
+              "rubrics": {
+                "preferred": "Muskelkontraktur",
+                "exclusion": "GelenkkontrakturM24.5-"
+              },
+              "children": []
+            },
+            {
+              "code": "M62.5",
+              "kind": "category",
+              "label": "Muskelschwund und -atrophie, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Muskelschwund und -atrophie, anderenorts nicht klassifiziert",
+                "inclusion": "Sarkopenie"
+              },
+              "children": []
+            },
+            {
+              "code": "M62.6",
+              "kind": "category",
+              "label": "Muskelzerrung",
+              "rubrics": {
+                "preferred": "Muskelzerrung",
+                "exclusion": "Akute Verletzung - siehe Muskelverletzung nach Körperregion"
+              },
+              "children": []
+            },
+            {
+              "code": "M62.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Muskelkrankheiten",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Muskelkrankheiten",
+                "inclusion": "Nichttraumatisches Muskelhämatom"
+              },
+              "children": []
+            },
+            {
+              "code": "M62.9",
+              "kind": "category",
+              "label": "Muskelkrankheit, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Muskelkrankheit, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M63",
+          "kind": "category",
+          "label": "Muskelkrankheiten bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Muskelkrankheiten bei anderenorts klassifizierten Krankheiten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Myopathie bei:\n\t\t\t\tStoffwechselkrankheitenG73.6"
+          },
+          "children": [
+            {
+              "code": "M63.0",
+              "kind": "category",
+              "label": "Myositis bei anderenorts klassifizierten bakteriellen Krankheiten",
+              "rubrics": {
+                "preferred": "Myositis bei anderenorts klassifizierten bakteriellen Krankheiten",
+                "inclusion": "Myositis bei:\n\t\t\t\tSyphilisA51.4A52.7"
+              },
+              "children": []
+            },
+            {
+              "code": "M63.1",
+              "kind": "category",
+              "label": "Myositis bei anderenorts klassifizierten Protozoen- und Parasiteninfektionen",
+              "rubrics": {
+                "preferred": "Myositis bei anderenorts klassifizierten Protozoen- und Parasiteninfektionen",
+                "inclusion": "Myositis bei:\n\t\t\t\tZystizerkoseB69.8"
+              },
+              "children": []
+            },
+            {
+              "code": "M63.2",
+              "kind": "category",
+              "label": "Myositis bei sonstigen anderenorts klassifizierten Infektionskrankheiten",
+              "rubrics": {
+                "preferred": "Myositis bei sonstigen anderenorts klassifizierten Infektionskrankheiten",
+                "inclusion": "Myositis bei MykosenB35-B49"
+              },
+              "children": []
+            },
+            {
+              "code": "M63.3",
+              "kind": "category",
+              "label": "Myositis bei SarkoidoseD86.8",
+              "rubrics": {
+                "preferred": "Myositis bei SarkoidoseD86.8"
+              },
+              "children": []
+            },
+            {
+              "code": "M63.8",
+              "kind": "category",
+              "label": "Sonstige Muskelkrankheiten bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Muskelkrankheiten bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M65-M68",
+      "kind": "block",
+      "label": "Krankheiten der Synovialis und der Sehnen",
+      "rubrics": {
+        "preferred": "Krankheiten der Synovialis und der Sehnen"
+      },
+      "children": [
+        {
+          "code": "M65",
+          "kind": "category",
+          "label": "Synovitis und Tenosynovitis",
+          "rubrics": {
+            "preferred": "Synovitis und Tenosynovitis",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Krankheiten des Weichteilgewebes im Zusammenhang mit Beanspruchung, Überbeanspruchung und DruckM70.-"
+          },
+          "children": [
+            {
+              "code": "M65.0",
+              "kind": "category",
+              "label": "Sehnenscheidenabszess",
+              "rubrics": {
+                "preferred": "Sehnenscheidenabszess",
+                "coding-hint": "Soll der bakterielle Erreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B96) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "M65.1",
+              "kind": "category",
+              "label": "Sonstige infektiöse (Teno-)Synovitis",
+              "rubrics": {
+                "preferred": "Sonstige infektiöse (Teno-)Synovitis"
+              },
+              "children": []
+            },
+            {
+              "code": "M65.2",
+              "kind": "category",
+              "label": "Tendinitis calcarea",
+              "rubrics": {
+                "preferred": "Tendinitis calcarea",
+                "exclusion": "Näher bezeichnete TendinitisM75-M77"
+              },
+              "children": []
+            },
+            {
+              "code": "M65.3",
+              "kind": "category",
+              "label": "Schnellender Finger",
+              "rubrics": {
+                "preferred": "Schnellender Finger",
+                "inclusion": "Tendopathia nodosa"
+              },
+              "children": []
+            },
+            {
+              "code": "M65.4",
+              "kind": "category",
+              "label": "Tendovaginitis stenosans [de Quervain]",
+              "rubrics": {
+                "preferred": "Tendovaginitis stenosans [de Quervain]"
+              },
+              "children": []
+            },
+            {
+              "code": "M65.8",
+              "kind": "category",
+              "label": "Sonstige Synovitis und Tenosynovitis",
+              "rubrics": {
+                "preferred": "Sonstige Synovitis und Tenosynovitis",
+                "inclusion": "Reizhüfte"
+              },
+              "children": []
+            },
+            {
+              "code": "M65.9",
+              "kind": "category",
+              "label": "Synovitis und Tenosynovitis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Synovitis und Tenosynovitis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M66",
+          "kind": "category",
+          "label": "Spontanruptur der Synovialis und von Sehnen",
+          "rubrics": {
+            "preferred": "Spontanruptur der Synovialis und von Sehnen",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "inclusion": "Rupturen, die durch Einwirken normaler Kräfte auf ein Gewebe eintreten, lassen auf eine verminderte Gewebefestigkeit schließen.",
+            "exclusion": "Rupturen, die bei Einwirkung übernormaler Kräfte auf normal ausgebildetes Gewebe eintreten - siehe Sehnenverletzung nach Körperregion"
+          },
+          "children": [
+            {
+              "code": "M66.0",
+              "kind": "category",
+              "label": "Ruptur einer Poplitealzyste",
+              "rubrics": {
+                "preferred": "Ruptur einer Poplitealzyste"
+              },
+              "children": []
+            },
+            {
+              "code": "M66.1",
+              "kind": "category",
+              "label": "Ruptur der Synovialis",
+              "rubrics": {
+                "preferred": "Ruptur der Synovialis",
+                "inclusion": "Ruptur einer Synovialzyste",
+                "exclusion": "Ruptur einer PoplitealzysteM66.0"
+              },
+              "children": []
+            },
+            {
+              "code": "M66.2",
+              "kind": "category",
+              "label": "Spontanruptur von Strecksehnen",
+              "rubrics": {
+                "preferred": "Spontanruptur von Strecksehnen"
+              },
+              "children": []
+            },
+            {
+              "code": "M66.3",
+              "kind": "category",
+              "label": "Spontanruptur von Beugesehnen",
+              "rubrics": {
+                "preferred": "Spontanruptur von Beugesehnen"
+              },
+              "children": []
+            },
+            {
+              "code": "M66.4",
+              "kind": "category",
+              "label": "Spontanruptur sonstiger Sehnen",
+              "rubrics": {
+                "preferred": "Spontanruptur sonstiger Sehnen"
+              },
+              "children": []
+            },
+            {
+              "code": "M66.5",
+              "kind": "category",
+              "label": "Spontanruptur von nicht näher bezeichneten Sehnen",
+              "rubrics": {
+                "preferred": "Spontanruptur von nicht näher bezeichneten Sehnen",
+                "inclusion": "Ruptur der Muskel-Sehnen-Verbindung, nichttraumatisch"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M67",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Synovialis und der Sehnen",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Synovialis und der Sehnen",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Xanthomatose der SehnenE78.2"
+          },
+          "children": [
+            {
+              "code": "M67.0",
+              "kind": "category",
+              "label": "Achillessehnenverkürzung (erworben)",
+              "rubrics": {
+                "preferred": "Achillessehnenverkürzung (erworben)"
+              },
+              "children": []
+            },
+            {
+              "code": "M67.1",
+              "kind": "category",
+              "label": "Sonstige Sehnen- (Scheiden-) Kontraktur",
+              "rubrics": {
+                "preferred": "Sonstige Sehnen- (Scheiden-) Kontraktur",
+                "exclusion": "Mit GelenkkontrakturM24.5-"
+              },
+              "children": []
+            },
+            {
+              "code": "M67.2",
+              "kind": "category",
+              "label": "Hypertrophie der Synovialis, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Hypertrophie der Synovialis, anderenorts nicht klassifiziert",
+                "exclusion": "Villonoduläre Synovitis (pigmentiert)M12.2-"
+              },
+              "children": []
+            },
+            {
+              "code": "M67.3",
+              "kind": "category",
+              "label": "Transitorische Synovitis",
+              "rubrics": {
+                "preferred": "Transitorische Synovitis",
+                "inclusion": "Toxische Synovitis",
+                "exclusion": "Palindromer RheumatismusM12.3-"
+              },
+              "children": []
+            },
+            {
+              "code": "M67.4",
+              "kind": "category",
+              "label": "Ganglion",
+              "rubrics": {
+                "preferred": "Ganglion",
+                "inclusion": "Ganglion eines Gelenkes oder einer Sehne oder Sehnenscheide",
+                "exclusion": "SynovialzysteM71.2-M71.3"
+              },
+              "children": []
+            },
+            {
+              "code": "M67.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der Synovialis und der Sehnen",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der Synovialis und der Sehnen"
+              },
+              "children": []
+            },
+            {
+              "code": "M67.9",
+              "kind": "category",
+              "label": "Krankheit der Synovialis und der Sehnen, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Synovialis und der Sehnen, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M68",
+          "kind": "category",
+          "label": "Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+          },
+          "children": [
+            {
+              "code": "M68.0",
+              "kind": "category",
+              "label": "Synovitis und Tenosynovitis bei anderenorts klassifizierten bakteriellen Krankheiten",
+              "rubrics": {
+                "preferred": "Synovitis und Tenosynovitis bei anderenorts klassifizierten bakteriellen Krankheiten",
+                "inclusion": "Synovitis oder Tenosynovitis bei:\n\t\t\t\tTuberkuloseA18.0"
+              },
+              "children": []
+            },
+            {
+              "code": "M68.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M70-M79",
+      "kind": "block",
+      "label": "Sonstige Krankheiten des Weichteilgewebes",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Weichteilgewebes"
+      },
+      "children": [
+        {
+          "code": "M70",
+          "kind": "category",
+          "label": "Krankheiten des Weichteilgewebes im Zusammenhang mit Beanspruchung, Überbeanspruchung und Druck",
+          "rubrics": {
+            "preferred": "Krankheiten des Weichteilgewebes im Zusammenhang mit Beanspruchung, Überbeanspruchung und Druck",
+            "inclusion": "Krankheiten des Weichteilgewebes, berufsbedingt",
+            "exclusion": "Enthesopathien M76-M77"
+          },
+          "children": [
+            {
+              "code": "M70.0",
+              "kind": "category",
+              "label": "Chronische Tenosynovitis crepitans der Hand und des Handgelenkes",
+              "rubrics": {
+                "preferred": "Chronische Tenosynovitis crepitans der Hand und des Handgelenkes"
+              },
+              "children": []
+            },
+            {
+              "code": "M70.1",
+              "kind": "category",
+              "label": "Bursitis im Bereich der Hand",
+              "rubrics": {
+                "preferred": "Bursitis im Bereich der Hand"
+              },
+              "children": []
+            },
+            {
+              "code": "M70.2",
+              "kind": "category",
+              "label": "Bursitis olecrani",
+              "rubrics": {
+                "preferred": "Bursitis olecrani"
+              },
+              "children": []
+            },
+            {
+              "code": "M70.3",
+              "kind": "category",
+              "label": "Sonstige Bursitis im Bereich des Ellenbogens",
+              "rubrics": {
+                "preferred": "Sonstige Bursitis im Bereich des Ellenbogens"
+              },
+              "children": []
+            },
+            {
+              "code": "M70.4",
+              "kind": "category",
+              "label": "Bursitis praepatellaris",
+              "rubrics": {
+                "preferred": "Bursitis praepatellaris"
+              },
+              "children": []
+            },
+            {
+              "code": "M70.5",
+              "kind": "category",
+              "label": "Sonstige Bursitis im Bereich des Knies",
+              "rubrics": {
+                "preferred": "Sonstige Bursitis im Bereich des Knies"
+              },
+              "children": []
+            },
+            {
+              "code": "M70.6",
+              "kind": "category",
+              "label": "Bursitis trochanterica",
+              "rubrics": {
+                "preferred": "Bursitis trochanterica",
+                "inclusion": "Tendinitis trochanterica"
+              },
+              "children": []
+            },
+            {
+              "code": "M70.7",
+              "kind": "category",
+              "label": "Sonstige Bursitis im Bereich der Hüfte",
+              "rubrics": {
+                "preferred": "Sonstige Bursitis im Bereich der Hüfte",
+                "inclusion": "Bursitis im Bereich des Os ischii"
+              },
+              "children": []
+            },
+            {
+              "code": "M70.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten des Weichteilgewebes durch Beanspruchung, Überbeanspruchung und Druck",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten des Weichteilgewebes durch Beanspruchung, Überbeanspruchung und Druck"
+              },
+              "children": []
+            },
+            {
+              "code": "M70.9",
+              "kind": "category",
+              "label": "Nicht näher bezeichnete Krankheit des Weichteilgewebes durch Beanspruchung, Überbeanspruchung und Druck",
+              "rubrics": {
+                "preferred": "Nicht näher bezeichnete Krankheit des Weichteilgewebes durch Beanspruchung, Überbeanspruchung und Druck"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M71",
+          "kind": "category",
+          "label": "Sonstige Bursopathien",
+          "rubrics": {
+            "preferred": "Sonstige Bursopathien",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "FußballenentzündungM20.1"
+          },
+          "children": [
+            {
+              "code": "M71.0",
+              "kind": "category",
+              "label": "Schleimbeutelabszess",
+              "rubrics": {
+                "preferred": "Schleimbeutelabszess"
+              },
+              "children": []
+            },
+            {
+              "code": "M71.1",
+              "kind": "category",
+              "label": "Sonstige infektiöse Bursitis",
+              "rubrics": {
+                "preferred": "Sonstige infektiöse Bursitis"
+              },
+              "children": []
+            },
+            {
+              "code": "M71.2",
+              "kind": "category",
+              "label": "Synovialzyste im Bereich der Kniekehle [Baker-Zyste]",
+              "rubrics": {
+                "preferred": "Synovialzyste im Bereich der Kniekehle [Baker-Zyste]",
+                "exclusion": "Bei RupturM66.0"
+              },
+              "children": []
+            },
+            {
+              "code": "M71.3",
+              "kind": "category",
+              "label": "Sonstige Schleimbeutelzyste",
+              "rubrics": {
+                "preferred": "Sonstige Schleimbeutelzyste",
+                "inclusion": "Synovialzyste o.n.A.",
+                "exclusion": "Ruptur einer SynovialzysteM66.1-"
+              },
+              "children": []
+            },
+            {
+              "code": "M71.4",
+              "kind": "category",
+              "label": "Bursitis calcarea",
+              "rubrics": {
+                "preferred": "Bursitis calcarea",
+                "exclusion": "Im SchulterbereichM75.3"
+              },
+              "children": []
+            },
+            {
+              "code": "M71.5",
+              "kind": "category",
+              "label": "Sonstige Bursitis, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sonstige Bursitis, anderenorts nicht klassifiziert",
+                "exclusion": "Bursitis:\n\t\t\t\to.n.A.M71.9-"
+              },
+              "children": []
+            },
+            {
+              "code": "M71.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Bursopathien",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Bursopathien"
+              },
+              "children": []
+            },
+            {
+              "code": "M71.9",
+              "kind": "category",
+              "label": "Bursopathie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Bursopathie, nicht näher bezeichnet",
+                "inclusion": "Bursitis o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M72",
+          "kind": "category",
+          "label": "Fibromatosen",
+          "rubrics": {
+            "preferred": "Fibromatosen",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Retroperitoneale FibroseD48.3"
+          },
+          "children": [
+            {
+              "code": "M72.0",
+              "kind": "category",
+              "label": "Fibromatose der Palmarfaszie [Dupuytren-Kontraktur]",
+              "rubrics": {
+                "preferred": "Fibromatose der Palmarfaszie [Dupuytren-Kontraktur]"
+              },
+              "children": []
+            },
+            {
+              "code": "M72.1",
+              "kind": "category",
+              "label": "Fingerknöchelpolster [Knuckle pads]",
+              "rubrics": {
+                "preferred": "Fingerknöchelpolster [Knuckle pads]"
+              },
+              "children": []
+            },
+            {
+              "code": "M72.2",
+              "kind": "category",
+              "label": "Fibromatose der Plantarfaszie [Ledderhose-Kontraktur]",
+              "rubrics": {
+                "preferred": "Fibromatose der Plantarfaszie [Ledderhose-Kontraktur]",
+                "inclusion": "Fasciitis plantaris"
+              },
+              "children": []
+            },
+            {
+              "code": "M72.4",
+              "kind": "category",
+              "label": "Pseudosarkomatöse Fibromatose",
+              "rubrics": {
+                "preferred": "Pseudosarkomatöse Fibromatose",
+                "inclusion": "Fasciitis nodularis"
+              },
+              "children": []
+            },
+            {
+              "code": "M72.6",
+              "kind": "category",
+              "label": "Nekrotisierende Fasziitis",
+              "rubrics": {
+                "preferred": "Nekrotisierende Fasziitis",
+                "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "M72.8",
+              "kind": "category",
+              "label": "Sonstige Fibromatosen",
+              "rubrics": {
+                "preferred": "Sonstige Fibromatosen",
+                "inclusion": "Faszienabszess",
+                "exclusion": "Fasziitis:\n\t\t\t\tplantarM72.2"
+              },
+              "children": []
+            },
+            {
+              "code": "M72.9",
+              "kind": "category",
+              "label": "Fibromatose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Fibromatose, nicht näher bezeichnet",
+                "inclusion": "Fibromatose o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M73",
+          "kind": "category",
+          "label": "Krankheiten des Weichteilgewebes bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten des Weichteilgewebes bei anderenorts klassifizierten Krankheiten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+          },
+          "children": [
+            {
+              "code": "M73.0",
+              "kind": "category",
+              "label": "Bursitis gonorrhoicaA54.4",
+              "rubrics": {
+                "preferred": "Bursitis gonorrhoicaA54.4"
+              },
+              "children": []
+            },
+            {
+              "code": "M73.1",
+              "kind": "category",
+              "label": "Bursitis syphiliticaA52.7",
+              "rubrics": {
+                "preferred": "Bursitis syphiliticaA52.7"
+              },
+              "children": []
+            },
+            {
+              "code": "M73.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten des Weichteilgewebes bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten des Weichteilgewebes bei sonstigen anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M75",
+          "kind": "category",
+          "label": "Schulterläsionen",
+          "rubrics": {
+            "preferred": "Schulterläsionen",
+            "exclusion": "Schulter-Hand-SyndromM89.0-"
+          },
+          "children": [
+            {
+              "code": "M75.0",
+              "kind": "category",
+              "label": "Adhäsive Entzündung der Schultergelenkkapsel",
+              "rubrics": {
+                "preferred": "Adhäsive Entzündung der Schultergelenkkapsel",
+                "inclusion": "Periarthropathia humeroscapularis"
+              },
+              "children": []
+            },
+            {
+              "code": "M75.1",
+              "kind": "category",
+              "label": "Läsionen der Rotatorenmanschette",
+              "rubrics": {
+                "preferred": "Läsionen der Rotatorenmanschette",
+                "inclusion": "Supraspinatus-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "M75.2",
+              "kind": "category",
+              "label": "Tendinitis des M. biceps brachii",
+              "rubrics": {
+                "preferred": "Tendinitis des M. biceps brachii"
+              },
+              "children": []
+            },
+            {
+              "code": "M75.3",
+              "kind": "category",
+              "label": "Tendinitis calcarea im Schulterbereich",
+              "rubrics": {
+                "preferred": "Tendinitis calcarea im Schulterbereich",
+                "inclusion": "Bursitis calcarea im Schulterbereich"
+              },
+              "children": []
+            },
+            {
+              "code": "M75.4",
+              "kind": "category",
+              "label": "Impingement-Syndrom der Schulter",
+              "rubrics": {
+                "preferred": "Impingement-Syndrom der Schulter"
+              },
+              "children": []
+            },
+            {
+              "code": "M75.5",
+              "kind": "category",
+              "label": "Bursitis im Schulterbereich",
+              "rubrics": {
+                "preferred": "Bursitis im Schulterbereich"
+              },
+              "children": []
+            },
+            {
+              "code": "M75.6",
+              "kind": "category",
+              "label": "Läsion des Labrums bei degenerativer Veränderung des Schultergelenkes",
+              "rubrics": {
+                "preferred": "Läsion des Labrums bei degenerativer Veränderung des Schultergelenkes",
+                "inclusion": "Läsion des Labrums, nicht als traumatisch bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "M75.8",
+              "kind": "category",
+              "label": "Sonstige Schulterläsionen",
+              "rubrics": {
+                "preferred": "Sonstige Schulterläsionen"
+              },
+              "children": []
+            },
+            {
+              "code": "M75.9",
+              "kind": "category",
+              "label": "Schulterläsion, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Schulterläsion, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M76",
+          "kind": "category",
+          "label": "Enthesopathien der unteren Extremität mit Ausnahme des Fußes",
+          "rubrics": {
+            "preferred": "Enthesopathien der unteren Extremität mit Ausnahme des Fußes",
+            "note": "Die scheinbar spezifischen Begriffe Bursitis, Kapsulitis und Tendinitis werden gewöhnlich ohne Unterschied für verschiedene Störungen der peripheren Band- und Muskelansätze benutzt; die Mehrzahl dieser Krankheitszustände ist unter dem Oberbegriff \"Enthesopathien\" zusammengeführt.",
+            "exclusion": "Bursitis durch Beanspruchung, Überbeanspruchung und DruckM70.-"
+          },
+          "children": [
+            {
+              "code": "M76.0",
+              "kind": "category",
+              "label": "Tendinitis der Glutäus-Sehne(n)",
+              "rubrics": {
+                "preferred": "Tendinitis der Glutäus-Sehne(n)"
+              },
+              "children": []
+            },
+            {
+              "code": "M76.1",
+              "kind": "category",
+              "label": "Tendinitis der Iliopsoas-Sehne",
+              "rubrics": {
+                "preferred": "Tendinitis der Iliopsoas-Sehne"
+              },
+              "children": []
+            },
+            {
+              "code": "M76.2",
+              "kind": "category",
+              "label": "Knochensporn am Darmbeinkamm",
+              "rubrics": {
+                "preferred": "Knochensporn am Darmbeinkamm"
+              },
+              "children": []
+            },
+            {
+              "code": "M76.3",
+              "kind": "category",
+              "label": "Tractus-iliotibialis-Scheuersyndrom [Iliotibial band syndrome]",
+              "rubrics": {
+                "preferred": "Tractus-iliotibialis-Scheuersyndrom [Iliotibial band syndrome]"
+              },
+              "children": []
+            },
+            {
+              "code": "M76.4",
+              "kind": "category",
+              "label": "Bursitis im Bereich des Lig. collaterale tibiale [Stieda-Pellegrini]",
+              "rubrics": {
+                "preferred": "Bursitis im Bereich des Lig. collaterale tibiale [Stieda-Pellegrini]"
+              },
+              "children": []
+            },
+            {
+              "code": "M76.5",
+              "kind": "category",
+              "label": "Tendinitis der Patellarsehne",
+              "rubrics": {
+                "preferred": "Tendinitis der Patellarsehne"
+              },
+              "children": []
+            },
+            {
+              "code": "M76.6",
+              "kind": "category",
+              "label": "Tendinitis der Achillessehne",
+              "rubrics": {
+                "preferred": "Tendinitis der Achillessehne",
+                "inclusion": "Bursitis subachillea"
+              },
+              "children": []
+            },
+            {
+              "code": "M76.7",
+              "kind": "category",
+              "label": "Tendinitis der Peronäussehne(n)",
+              "rubrics": {
+                "preferred": "Tendinitis der Peronäussehne(n)"
+              },
+              "children": []
+            },
+            {
+              "code": "M76.8",
+              "kind": "category",
+              "label": "Sonstige Enthesopathien der unteren Extremität mit Ausnahme des Fußes",
+              "rubrics": {
+                "preferred": "Sonstige Enthesopathien der unteren Extremität mit Ausnahme des Fußes",
+                "inclusion": "Tendinitis des M. tibialis posterior"
+              },
+              "children": []
+            },
+            {
+              "code": "M76.9",
+              "kind": "category",
+              "label": "Enthesopathie der unteren Extremität, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Enthesopathie der unteren Extremität, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M77",
+          "kind": "category",
+          "label": "Sonstige Enthesopathien",
+          "rubrics": {
+            "preferred": "Sonstige Enthesopathien",
+            "exclusion": "Spinale EnthesopathieM46.0-"
+          },
+          "children": [
+            {
+              "code": "M77.0",
+              "kind": "category",
+              "label": "Epicondylitis ulnaris humeri",
+              "rubrics": {
+                "preferred": "Epicondylitis ulnaris humeri"
+              },
+              "children": []
+            },
+            {
+              "code": "M77.1",
+              "kind": "category",
+              "label": "Epicondylitis radialis humeri",
+              "rubrics": {
+                "preferred": "Epicondylitis radialis humeri",
+                "inclusion": "Tennisellenbogen"
+              },
+              "children": []
+            },
+            {
+              "code": "M77.2",
+              "kind": "category",
+              "label": "Periarthritis im Bereich des Handgelenkes",
+              "rubrics": {
+                "preferred": "Periarthritis im Bereich des Handgelenkes"
+              },
+              "children": []
+            },
+            {
+              "code": "M77.3",
+              "kind": "category",
+              "label": "Kalkaneussporn",
+              "rubrics": {
+                "preferred": "Kalkaneussporn"
+              },
+              "children": []
+            },
+            {
+              "code": "M77.4",
+              "kind": "category",
+              "label": "Metatarsalgie",
+              "rubrics": {
+                "preferred": "Metatarsalgie",
+                "exclusion": "Morton-Neuralgie [Morton-Metatarsalgie]G57.6"
+              },
+              "children": []
+            },
+            {
+              "code": "M77.5",
+              "kind": "category",
+              "label": "Sonstige Enthesopathie des Fußes",
+              "rubrics": {
+                "preferred": "Sonstige Enthesopathie des Fußes"
+              },
+              "children": []
+            },
+            {
+              "code": "M77.8",
+              "kind": "category",
+              "label": "Sonstige Enthesopathien, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sonstige Enthesopathien, anderenorts nicht klassifiziert"
+              },
+              "children": []
+            },
+            {
+              "code": "M77.9",
+              "kind": "category",
+              "label": "Enthesopathie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Enthesopathie, nicht näher bezeichnet",
+                "inclusion": "Tendinitis\n\t\t\t\to.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M79",
+          "kind": "category",
+          "label": "Sonstige Krankheiten des Weichteilgewebes, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten des Weichteilgewebes, anderenorts nicht klassifiziert",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Psychogene Schmerzen im WeichteilgewebeF45.40"
+          },
+          "children": [
+            {
+              "code": "M79.0",
+              "kind": "category",
+              "label": "Rheumatismus, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Rheumatismus, nicht näher bezeichnet",
+                "exclusion": "Palindromer RheumatismusM12.3-"
+              },
+              "children": []
+            },
+            {
+              "code": "M79.1",
+              "kind": "category",
+              "label": "Myalgie",
+              "rubrics": {
+                "preferred": "Myalgie",
+                "exclusion": "MyositisM60.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M79.2",
+              "kind": "category",
+              "label": "Neuralgie und Neuritis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Neuralgie und Neuritis, nicht näher bezeichnet",
+                "exclusion": "Radikulitis:\n\t\t\t\to.n.A.M54.19"
+              },
+              "children": []
+            },
+            {
+              "code": "M79.3",
+              "kind": "category",
+              "label": "Pannikulitis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Pannikulitis, nicht näher bezeichnet",
+                "exclusion": "Pannikulitis:\n\t\t\t\trezidivierend [Pfeifer-Weber-Christian-Krankheit]M35.6"
+              },
+              "children": []
+            },
+            {
+              "code": "M79.4",
+              "kind": "category",
+              "label": "Hypertrophie des Corpus adiposum (infrapatellare) [Hoffa-Kastert-Syndrom]",
+              "rubrics": {
+                "preferred": "Hypertrophie des Corpus adiposum (infrapatellare) [Hoffa-Kastert-Syndrom]"
+              },
+              "children": []
+            },
+            {
+              "code": "M79.5",
+              "kind": "category",
+              "label": "Verbliebener Fremdkörper im Weichteilgewebe",
+              "rubrics": {
+                "preferred": "Verbliebener Fremdkörper im Weichteilgewebe",
+                "exclusion": "Fremdkörpergranulom:\n\t\t\t\tWeichteilgewebeM60.2-"
+              },
+              "children": []
+            },
+            {
+              "code": "M79.6",
+              "kind": "category",
+              "label": "Schmerzen in den Extremitäten",
+              "rubrics": {
+                "preferred": "Schmerzen in den Extremitäten"
+              },
+              "children": []
+            },
+            {
+              "code": "M79.7",
+              "kind": "category",
+              "label": "Fibromyalgie",
+              "rubrics": {
+                "preferred": "Fibromyalgie",
+                "inclusion": "Myofibrositis"
+              },
+              "children": []
+            },
+            {
+              "code": "M79.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten des Weichteilgewebes",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten des Weichteilgewebes"
+              },
+              "children": []
+            },
+            {
+              "code": "M79.9",
+              "kind": "category",
+              "label": "Krankheit des Weichteilgewebes, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit des Weichteilgewebes, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

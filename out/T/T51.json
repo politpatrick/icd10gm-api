@@ -1,0 +1,75 @@
+{
+  "code": "T51",
+  "kind": "category",
+  "label": "Toxische Wirkung von Alkohol",
+  "rubrics": {
+    "preferred": "Toxische Wirkung von Alkohol"
+  },
+  "children": [
+    {
+      "code": "T51.0",
+      "kind": "category",
+      "label": "Äthanol",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Äthanol",
+        "preferred": "Äthanol",
+        "inclusion": "Äthylalkohol",
+        "exclusion": "TrunkenheitF10.0"
+      },
+      "children": []
+    },
+    {
+      "code": "T51.1",
+      "kind": "category",
+      "label": "Methanol",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Methanol",
+        "preferred": "Methanol",
+        "inclusion": "Methylalkohol"
+      },
+      "children": []
+    },
+    {
+      "code": "T51.2",
+      "kind": "category",
+      "label": "2-Propanol",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: 2-Propanol",
+        "preferred": "2-Propanol",
+        "inclusion": "Isopropylalkohol"
+      },
+      "children": []
+    },
+    {
+      "code": "T51.3",
+      "kind": "category",
+      "label": "Fuselöl",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Fuselöl",
+        "preferred": "Fuselöl",
+        "inclusion": "Alkohol:\n\t\t\t\tPropyl- [1-Propanol]"
+      },
+      "children": []
+    },
+    {
+      "code": "T51.8",
+      "kind": "category",
+      "label": "Sonstige Alkohole",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Sonstige Alkohole",
+        "preferred": "Sonstige Alkohole"
+      },
+      "children": []
+    },
+    {
+      "code": "T51.9",
+      "kind": "category",
+      "label": "Alkohol, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Alkohol, nicht näher bezeichnet",
+        "preferred": "Alkohol, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "B83.4",
+  "kind": "category",
+  "label": "Hirudiniasis interna",
+  "rubrics": {
+    "preferred": "Hirudiniasis interna",
+    "exclusion": "Hirudiniasis externaB88.3"
+  },
+  "children": []
+}

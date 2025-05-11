@@ -1,0 +1,111 @@
+{
+  "code": "K76",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der Leber",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der Leber",
+    "exclusion": "Zystische Leberkrankheit (angeboren)Q44.6"
+  },
+  "children": [
+    {
+      "code": "K76.0",
+      "kind": "category",
+      "label": "Fettleber [fettige Degeneration], anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Fettleber [fettige Degeneration], anderenorts nicht klassifiziert",
+        "inclusion": "Nicht-alkoholische Fettleber",
+        "exclusion": "Nicht-alkoholische Steatohepatitis [NASH]K75.8"
+      },
+      "children": []
+    },
+    {
+      "code": "K76.1",
+      "kind": "category",
+      "label": "Chronische Stauungsleber",
+      "rubrics": {
+        "preferred": "Chronische Stauungsleber",
+        "inclusion": "Kardiale:\n\t\t\t\tLeberzirrhose (so genannt)"
+      },
+      "children": []
+    },
+    {
+      "code": "K76.2",
+      "kind": "category",
+      "label": "Zentrale hämorrhagische Lebernekrose",
+      "rubrics": {
+        "preferred": "Zentrale hämorrhagische Lebernekrose",
+        "exclusion": "Lebernekrose (mit Leberversagen)K72.-"
+      },
+      "children": []
+    },
+    {
+      "code": "K76.3",
+      "kind": "category",
+      "label": "Leberinfarkt",
+      "rubrics": {
+        "preferred": "Leberinfarkt"
+      },
+      "children": []
+    },
+    {
+      "code": "K76.4",
+      "kind": "category",
+      "label": "Peliosis hepatis",
+      "rubrics": {
+        "preferred": "Peliosis hepatis",
+        "inclusion": "Angiomatose der Leber"
+      },
+      "children": []
+    },
+    {
+      "code": "K76.5",
+      "kind": "category",
+      "label": "Veno-okklusive Leberkrankheit",
+      "rubrics": {
+        "preferred": "Veno-okklusive Leberkrankheit",
+        "exclusion": "Toxische veno-okklusive LeberkrankheitK71.80"
+      },
+      "children": []
+    },
+    {
+      "code": "K76.6",
+      "kind": "category",
+      "label": "Portale Hypertonie",
+      "rubrics": {
+        "preferred": "Portale Hypertonie"
+      },
+      "children": []
+    },
+    {
+      "code": "K76.7",
+      "kind": "category",
+      "label": "Hepatorenales Syndrom",
+      "rubrics": {
+        "preferred": "Hepatorenales Syndrom",
+        "inclusion": "Benutze zusätzliche Schlüsselnummern, um die zugrunde liegenden Zustände anzugeben.",
+        "exclusion": "Nach Wehen und EntbindungO90.4"
+      },
+      "children": []
+    },
+    {
+      "code": "K76.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten der Leber",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten der Leber",
+        "inclusion": "Hepatoptose",
+        "exclusion": "Vorhandensein eines transjugulären intrahepatischen portosystemischen Shunts [TIPS]Z95.88"
+      },
+      "children": []
+    },
+    {
+      "code": "K76.9",
+      "kind": "category",
+      "label": "Leberkrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Leberkrankheit, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

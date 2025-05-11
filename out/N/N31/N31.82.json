@@ -1,0 +1,10 @@
+{
+  "code": "N31.82",
+  "kind": "category",
+  "label": "Instabile Blase ohne neurologisches Substrat",
+  "rubrics": {
+    "preferred": "Instabile Blase ohne neurologisches Substrat",
+    "inclusion": "Urgency"
+  },
+  "children": []
+}

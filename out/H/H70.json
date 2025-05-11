@@ -1,0 +1,58 @@
+{
+  "code": "H70",
+  "kind": "category",
+  "label": "Mastoiditis und verwandte Zustände",
+  "rubrics": {
+    "preferred": "Mastoiditis und verwandte Zustände"
+  },
+  "children": [
+    {
+      "code": "H70.0",
+      "kind": "category",
+      "label": "Akute Mastoiditis",
+      "rubrics": {
+        "preferred": "Akute Mastoiditis",
+        "inclusion": "Empyem\n\t\t\t\tWarzenfortsatz"
+      },
+      "children": []
+    },
+    {
+      "code": "H70.1",
+      "kind": "category",
+      "label": "Chronische Mastoiditis",
+      "rubrics": {
+        "preferred": "Chronische Mastoiditis",
+        "inclusion": "Karies\n\t\t\t\tWarzenfortsatz"
+      },
+      "children": []
+    },
+    {
+      "code": "H70.2",
+      "kind": "category",
+      "label": "Petrositis",
+      "rubrics": {
+        "preferred": "Petrositis",
+        "inclusion": "Entzündung des Felsenbeins (akut) (chronisch)"
+      },
+      "children": []
+    },
+    {
+      "code": "H70.8",
+      "kind": "category",
+      "label": "Sonstige Mastoiditis und verwandte Zustände",
+      "rubrics": {
+        "preferred": "Sonstige Mastoiditis und verwandte Zustände"
+      },
+      "children": []
+    },
+    {
+      "code": "H70.9",
+      "kind": "category",
+      "label": "Mastoiditis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Mastoiditis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

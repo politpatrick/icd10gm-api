@@ -1,0 +1,11 @@
+{
+  "code": "C16.9",
+  "kind": "category",
+  "label": "Magen, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Magen, nicht näher bezeichnet",
+    "preferred": "Magen, nicht näher bezeichnet",
+    "inclusion": "Magenkrebs o.n.A."
+  },
+  "children": []
+}

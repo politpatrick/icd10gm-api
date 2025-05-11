@@ -1,0 +1,82 @@
+{
+  "code": "T03",
+  "kind": "category",
+  "label": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Körperregionen",
+  "rubrics": {
+    "preferred": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Körperregionen"
+  },
+  "children": [
+    {
+      "code": "T03.0",
+      "kind": "category",
+      "label": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung von Kopf und Hals",
+      "rubrics": {
+        "preferred": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung von Kopf und Hals",
+        "inclusion": "Luxationen, Verstauchungen und Zerrungen an Lokalisationen, die unter S03.- und S13.- klassifizierbar sind",
+        "exclusion": "In Kombination mit Luxationen, Verstauchungen und Zerrungen sonstiger Körperregion(en)T03.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T03.1",
+      "kind": "category",
+      "label": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung von Thorax und Lumbosakralgegend oder von Thorax und Becken",
+      "rubrics": {
+        "preferred": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung von Thorax und Lumbosakralgegend oder von Thorax und Becken",
+        "inclusion": "Luxationen, Verstauchungen und Zerrungen an Lokalisationen, die unter S23.-, S33.- und T09.2 klassifizierbar sind",
+        "exclusion": "In Kombination mit Luxationen, Verstauchungen und Zerrungen sonstiger Körperregion(en)T03.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T03.2",
+      "kind": "category",
+      "label": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Regionen der oberen Extremität(en)",
+      "rubrics": {
+        "preferred": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Regionen der oberen Extremität(en)",
+        "inclusion": "Luxationen, Verstauchungen und Zerrungen an Lokalisationen, die unter S43.-, S53.-, S63.- und T11.2 klassifizierbar sind",
+        "exclusion": "In Kombination mit Luxationen, Verstauchungen und Zerrungen:\n\t\t\t\tdes Thorax, der Lumbosakralgegend und des BeckensT03.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T03.3",
+      "kind": "category",
+      "label": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Regionen der unteren Extremität(en)",
+      "rubrics": {
+        "preferred": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Regionen der unteren Extremität(en)",
+        "inclusion": "Luxationen, Verstauchungen und Zerrungen an Lokalisationen, die unter S73.-, S83.-, S93.- und T13.2 klassifizierbar sind",
+        "exclusion": "In Kombination mit Luxationen, Verstauchungen und Zerrungen:\n\t\t\t\tdes Thorax, der Lumbosakralgegend und des BeckensT03.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T03.4",
+      "kind": "category",
+      "label": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Regionen der oberen Extremität(en) und mehrerer Regionen der unteren Extremität(en)",
+      "rubrics": {
+        "preferred": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Regionen der oberen Extremität(en) und mehrerer Regionen der unteren Extremität(en)",
+        "exclusion": "In Kombination mit Luxationen, Verstauchungen und Zerrungen des Thorax, der Lumbosakralgegend und des BeckensT03.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T03.8",
+      "kind": "category",
+      "label": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung sonstiger Kombinationen von Körperregionen",
+      "rubrics": {
+        "preferred": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung sonstiger Kombinationen von Körperregionen"
+      },
+      "children": []
+    },
+    {
+      "code": "T03.9",
+      "kind": "category",
+      "label": "Multiple Luxationen, Verstauchungen und Zerrungen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Multiple Luxationen, Verstauchungen und Zerrungen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

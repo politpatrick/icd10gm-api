@@ -1,0 +1,11 @@
+{
+  "code": "A97.1",
+  "kind": "category",
+  "label": "Dengue mit Warnzeichen",
+  "rubrics": {
+    "preferred": "Dengue mit Warnzeichen",
+    "definition": "Klinische Warnzeichen sind: Abdominalschmerz oder abdominaler Druckschmerz, Mukosablutung, Lethargie und/oder Unruhe, schneller Abfall der Thrombozyten, Anstieg des Hämatokrit. Andere Hinweise sind: anhaltendes Erbrechen, sichtbare Flüssigkeitseinlagerung, Lebervergrößerung um mehr als 2 cm.",
+    "inclusion": "Hämorrhagisches Dengue-Fieber mit Warnzeichen"
+  },
+  "children": []
+}

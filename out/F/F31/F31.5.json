@@ -1,0 +1,10 @@
+{
+  "code": "F31.5",
+  "kind": "category",
+  "label": "Bipolare affektive Störung, gegenwärtig schwere depressive Episode mit psychotischen Symptomen",
+  "rubrics": {
+    "preferred": "Bipolare affektive Störung, gegenwärtig schwere depressive Episode mit psychotischen Symptomen",
+    "definition": "Der betroffene Patient ist gegenwärtig depressiv, wie bei einer schweren depressiven Episode mit psychotischen Symptomen (siehe F32.3) und hatte wenigstens eine eindeutig diagnostizierte hypomanische, manische oder gemischte Episode in der Anamnese."
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "T52.1",
+  "kind": "category",
+  "label": "Benzol",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Benzol",
+    "preferred": "Benzol",
+    "exclusion": "Nitro- und Aminoderivate von Benzol und dessen HomologenT65.3"
+  },
+  "children": []
+}

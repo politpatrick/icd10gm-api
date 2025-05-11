@@ -1,0 +1,10 @@
+{
+  "code": "E04.0",
+  "kind": "category",
+  "label": "Nichttoxische diffuse Struma",
+  "rubrics": {
+    "preferred": "Nichttoxische diffuse Struma",
+    "inclusion": "Struma, nichttoxisch:\n\t\t\t\tsimplex"
+  },
+  "children": []
+}

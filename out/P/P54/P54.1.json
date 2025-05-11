@@ -1,0 +1,10 @@
+{
+  "code": "P54.1",
+  "kind": "category",
+  "label": "Meläna beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Meläna beim Neugeborenen",
+    "exclusion": "Meläna durch Verschlucken mütterlichen BlutesP78.2"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "P25.1",
+  "kind": "category",
+  "label": "Pneumothorax mit Ursprung in der Perinatalperiode",
+  "rubrics": {
+    "preferred": "Pneumothorax mit Ursprung in der Perinatalperiode",
+    "exclusion": "Iatrogener PneumothoraxJ95.80"
+  },
+  "children": []
+}

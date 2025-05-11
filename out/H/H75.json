@@ -1,0 +1,29 @@
+{
+  "code": "H75",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Mittelohres und des Warzenfortsatzes bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Mittelohres und des Warzenfortsatzes bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "H75.0",
+      "kind": "category",
+      "label": "Mastoiditis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+      "rubrics": {
+        "preferred": "Mastoiditis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+        "inclusion": "Tuberkulöse MastoiditisA18.0"
+      },
+      "children": []
+    },
+    {
+      "code": "H75.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Mittelohres und des Warzenfortsatzes bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Mittelohres und des Warzenfortsatzes bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

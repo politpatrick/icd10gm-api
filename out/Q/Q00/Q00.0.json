@@ -1,0 +1,10 @@
+{
+  "code": "Q00.0",
+  "kind": "category",
+  "label": "Anenzephalie",
+  "rubrics": {
+    "preferred": "Anenzephalie",
+    "inclusion": "Hemizephalie"
+  },
+  "children": []
+}

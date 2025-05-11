@@ -1,0 +1,11 @@
+{
+  "code": "E55.0",
+  "kind": "category",
+  "label": "Floride Rachitis",
+  "rubrics": {
+    "preferred": "Floride Rachitis",
+    "inclusion": "Osteomalazie:\n\t\t\t\tim Kindesalter",
+    "exclusion": "Rachitis (bei):\n\t\t\t\tZöliakieK90.0"
+  },
+  "children": []
+}

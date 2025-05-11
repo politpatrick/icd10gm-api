@@ -1,0 +1,81 @@
+{
+  "code": "M23.8",
+  "kind": "category",
+  "label": "Sonstige Binnenschädigungen des Kniegelenkes",
+  "rubrics": {
+    "preferred": "Sonstige Binnenschädigungen des Kniegelenkes",
+    "inclusion": "Schnappendes Knie"
+  },
+  "children": [
+    {
+      "code": "M23.80",
+      "kind": "category",
+      "label": "Mehrere Lokalisationen",
+      "rubrics": {
+        "preferred": "Mehrere Lokalisationen",
+        "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Mehrere Lokalisationen"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.81",
+      "kind": "category",
+      "label": "Vorderes Kreuzband",
+      "rubrics": {
+        "preferred": "Vorderes Kreuzband",
+        "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Vorderes Kreuzband"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.82",
+      "kind": "category",
+      "label": "Hinteres Kreuzband",
+      "rubrics": {
+        "preferred": "Hinteres Kreuzband",
+        "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Hinteres Kreuzband"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.83",
+      "kind": "category",
+      "label": "Innenband [Lig. collaterale tibiale]",
+      "rubrics": {
+        "preferred": "Innenband [Lig. collaterale tibiale]",
+        "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Innenband [Lig. collaterale tibiale]"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.84",
+      "kind": "category",
+      "label": "Außenband [Lig. collaterale fibulare]",
+      "rubrics": {
+        "preferred": "Außenband [Lig. collaterale fibulare]",
+        "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Außenband [Lig. collaterale fibulare]"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.87",
+      "kind": "category",
+      "label": "Kapselband",
+      "rubrics": {
+        "preferred": "Kapselband",
+        "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Kapselband"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.89",
+      "kind": "category",
+      "label": "Nicht näher bezeichnetes Band",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnetes Band",
+        "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Nicht näher bezeichnetes Band"
+      },
+      "children": []
+    }
+  ]
+}

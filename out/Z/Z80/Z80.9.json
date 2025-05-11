@@ -1,0 +1,10 @@
+{
+  "code": "Z80.9",
+  "kind": "category",
+  "label": "Bösartige Neubildung in der Familienanamnese, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung in der Familienanamnese, nicht näher bezeichnet",
+    "inclusion": "Zustände, klassifizierbar unter C80.-"
+  },
+  "children": []
+}

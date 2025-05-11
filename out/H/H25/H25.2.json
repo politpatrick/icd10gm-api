@@ -1,0 +1,10 @@
+{
+  "code": "H25.2",
+  "kind": "category",
+  "label": "Cataracta senilis, Morgagni-Typ",
+  "rubrics": {
+    "preferred": "Cataracta senilis, Morgagni-Typ",
+    "inclusion": "Cataracta senilis hypermatura"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "M75.1",
+  "kind": "category",
+  "label": "Läsionen der Rotatorenmanschette",
+  "rubrics": {
+    "preferred": "Läsionen der Rotatorenmanschette",
+    "inclusion": "Supraspinatus-Syndrom"
+  },
+  "children": []
+}

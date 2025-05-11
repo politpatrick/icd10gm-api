@@ -1,0 +1,49 @@
+{
+  "code": "N35",
+  "kind": "category",
+  "label": "Harnröhrenstriktur",
+  "rubrics": {
+    "preferred": "Harnröhrenstriktur",
+    "exclusion": "Harnröhrenstriktur nach medizinischen MaßnahmenN99.1-"
+  },
+  "children": [
+    {
+      "code": "N35.0",
+      "kind": "category",
+      "label": "Posttraumatische Harnröhrenstriktur",
+      "rubrics": {
+        "preferred": "Posttraumatische Harnröhrenstriktur",
+        "inclusion": "Harnröhrenstriktur als Folge von:\n\t\t\t\tVerletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "N35.1",
+      "kind": "category",
+      "label": "Postinfektiöse Harnröhrenstriktur, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Postinfektiöse Harnröhrenstriktur, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "N35.8",
+      "kind": "category",
+      "label": "Sonstige Harnröhrenstriktur",
+      "rubrics": {
+        "preferred": "Sonstige Harnröhrenstriktur"
+      },
+      "children": []
+    },
+    {
+      "code": "N35.9",
+      "kind": "category",
+      "label": "Harnröhrenstriktur, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Harnröhrenstriktur, nicht näher bezeichnet",
+        "inclusion": "Meatusstenose o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

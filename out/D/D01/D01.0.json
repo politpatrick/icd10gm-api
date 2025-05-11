@@ -1,0 +1,11 @@
+{
+  "code": "D01.0",
+  "kind": "category",
+  "label": "Kolon",
+  "rubrics": {
+    "preferredLong": "Carcinoma in situ: Kolon",
+    "preferred": "Kolon",
+    "exclusion": "Rektosigmoid, ÜbergangD01.1"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "R82.7",
+  "kind": "category",
+  "label": "Abnorme Befunde bei der mikrobiologischen Urinuntersuchung",
+  "rubrics": {
+    "preferred": "Abnorme Befunde bei der mikrobiologischen Urinuntersuchung",
+    "inclusion": "Positive Kulturen"
+  },
+  "children": []
+}

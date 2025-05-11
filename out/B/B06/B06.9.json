@@ -1,0 +1,10 @@
+{
+  "code": "B06.9",
+  "kind": "category",
+  "label": "Röteln ohne Komplikation",
+  "rubrics": {
+    "preferred": "Röteln ohne Komplikation",
+    "inclusion": "Röteln o.n.A."
+  },
+  "children": []
+}

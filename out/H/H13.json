@@ -1,0 +1,56 @@
+{
+  "code": "H13",
+  "kind": "category",
+  "label": "Affektionen der Konjunktiva bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Affektionen der Konjunktiva bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "H13.0",
+      "kind": "category",
+      "label": "Filarienbefall der KonjunktivaB74.-",
+      "rubrics": {
+        "preferred": "Filarienbefall der KonjunktivaB74.-"
+      },
+      "children": []
+    },
+    {
+      "code": "H13.1",
+      "kind": "category",
+      "label": "Konjunktivitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+      "rubrics": {
+        "preferred": "Konjunktivitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+        "inclusion": "Konjunktivitis (durch):\n\t\t\t\tNewcastle-B30.8"
+      },
+      "children": []
+    },
+    {
+      "code": "H13.2",
+      "kind": "category",
+      "label": "Konjunktivitis bei sonstigen anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Konjunktivitis bei sonstigen anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "H13.3",
+      "kind": "category",
+      "label": "Okuläres PemphigoidL12.-",
+      "rubrics": {
+        "preferred": "Okuläres PemphigoidL12.-"
+      },
+      "children": []
+    },
+    {
+      "code": "H13.8",
+      "kind": "category",
+      "label": "Sonstige Affektionen der Konjunktiva bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Affektionen der Konjunktiva bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

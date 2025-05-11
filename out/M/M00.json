@@ -1,0 +1,59 @@
+{
+  "code": "M00",
+  "kind": "category",
+  "label": "Eitrige Arthritis",
+  "rubrics": {
+    "preferred": "Eitrige Arthritis",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+    "coding-hint": "Benutze eine zusätzliche Schlüsselnummer T84.5-T84.7, um das Vorliegen einer Arthritis im Rahmen einer periimplantären (implantatassoziierten) Infektion zu kodieren."
+  },
+  "children": [
+    {
+      "code": "M00.0",
+      "kind": "category",
+      "label": "Arthritis und Polyarthritis durch Staphylokokken",
+      "rubrics": {
+        "preferred": "Arthritis und Polyarthritis durch Staphylokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "M00.1",
+      "kind": "category",
+      "label": "Arthritis und Polyarthritis durch Pneumokokken",
+      "rubrics": {
+        "preferred": "Arthritis und Polyarthritis durch Pneumokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "M00.2",
+      "kind": "category",
+      "label": "Arthritis und Polyarthritis durch sonstige Streptokokken",
+      "rubrics": {
+        "preferred": "Arthritis und Polyarthritis durch sonstige Streptokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "M00.8",
+      "kind": "category",
+      "label": "Arthritis und Polyarthritis durch sonstige näher bezeichnete bakterielle Erreger",
+      "rubrics": {
+        "preferred": "Arthritis und Polyarthritis durch sonstige näher bezeichnete bakterielle Erreger",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "M00.9",
+      "kind": "category",
+      "label": "Eitrige Arthritis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Eitrige Arthritis, nicht näher bezeichnet",
+        "inclusion": "Infektiöse Arthritis o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

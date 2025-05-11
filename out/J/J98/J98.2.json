@@ -1,0 +1,11 @@
+{
+  "code": "J98.2",
+  "kind": "category",
+  "label": "Interstitielles Emphysem",
+  "rubrics": {
+    "preferred": "Interstitielles Emphysem",
+    "inclusion": "Mediastinalemphysem",
+    "exclusion": "Emphysem:\n\t\t\t\to.n.A.J43.9"
+  },
+  "children": []
+}

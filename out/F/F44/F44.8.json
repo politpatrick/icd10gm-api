@@ -1,0 +1,47 @@
+{
+  "code": "F44.8",
+  "kind": "category",
+  "label": "Sonstige dissoziative Störungen [Konversionsstörungen]",
+  "rubrics": {
+    "preferred": "Sonstige dissoziative Störungen [Konversionsstörungen]"
+  },
+  "children": [
+    {
+      "code": "F44.80",
+      "kind": "category",
+      "label": "Ganser-Syndrom",
+      "rubrics": {
+        "preferred": "Ganser-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "F44.81",
+      "kind": "category",
+      "label": "Multiple Persönlichkeit(sstörung)",
+      "rubrics": {
+        "preferred": "Multiple Persönlichkeit(sstörung)"
+      },
+      "children": []
+    },
+    {
+      "code": "F44.82",
+      "kind": "category",
+      "label": "Transitorische dissoziative Störungen [Konversionsstörungen] in Kindheit und Jugend",
+      "rubrics": {
+        "preferred": "Transitorische dissoziative Störungen [Konversionsstörungen] in Kindheit und Jugend"
+      },
+      "children": []
+    },
+    {
+      "code": "F44.88",
+      "kind": "category",
+      "label": "Sonstige dissoziative Störungen [Konversionsstörungen]",
+      "rubrics": {
+        "preferred": "Sonstige dissoziative Störungen [Konversionsstörungen]",
+        "inclusion": "Psychogen:\n\t\t\t\tVerwirrtheit"
+      },
+      "children": []
+    }
+  ]
+}

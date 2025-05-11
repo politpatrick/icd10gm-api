@@ -1,0 +1,80 @@
+{
+  "code": "M23.5",
+  "kind": "category",
+  "label": "Chronische Instabilität des Kniegelenkes",
+  "rubrics": {
+    "preferred": "Chronische Instabilität des Kniegelenkes"
+  },
+  "children": [
+    {
+      "code": "M23.50",
+      "kind": "category",
+      "label": "Mehrere Lokalisationen",
+      "rubrics": {
+        "preferred": "Mehrere Lokalisationen",
+        "preferredLong": "Chronische Instabilität des Kniegelenkes: Mehrere Lokalisationen"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.51",
+      "kind": "category",
+      "label": "Vorderes Kreuzband",
+      "rubrics": {
+        "preferred": "Vorderes Kreuzband",
+        "preferredLong": "Chronische Instabilität des Kniegelenkes: Vorderes Kreuzband"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.52",
+      "kind": "category",
+      "label": "Hinteres Kreuzband",
+      "rubrics": {
+        "preferred": "Hinteres Kreuzband",
+        "preferredLong": "Chronische Instabilität des Kniegelenkes: Hinteres Kreuzband"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.53",
+      "kind": "category",
+      "label": "Innenband [Lig. collaterale tibiale]",
+      "rubrics": {
+        "preferred": "Innenband [Lig. collaterale tibiale]",
+        "preferredLong": "Chronische Instabilität des Kniegelenkes: Innenband [Lig. collaterale tibiale]"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.54",
+      "kind": "category",
+      "label": "Außenband [Lig. collaterale fibulare]",
+      "rubrics": {
+        "preferred": "Außenband [Lig. collaterale fibulare]",
+        "preferredLong": "Chronische Instabilität des Kniegelenkes: Außenband [Lig. collaterale fibulare]"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.57",
+      "kind": "category",
+      "label": "Kapselband",
+      "rubrics": {
+        "preferred": "Kapselband",
+        "preferredLong": "Chronische Instabilität des Kniegelenkes: Kapselband"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.59",
+      "kind": "category",
+      "label": "Nicht näher bezeichnetes Band",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnetes Band",
+        "preferredLong": "Chronische Instabilität des Kniegelenkes: Nicht näher bezeichnetes Band"
+      },
+      "children": []
+    }
+  ]
+}

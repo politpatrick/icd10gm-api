@@ -1,0 +1,10 @@
+{
+  "code": "A49.15",
+  "kind": "category",
+  "label": "Infektion durch Streptococcus pneumoniae nicht näher bezeichneter Lokalisation",
+  "rubrics": {
+    "preferred": "Infektion durch Streptococcus pneumoniae nicht näher bezeichneter Lokalisation",
+    "inclusion": "Infektion durch Pneumokokken nicht näher bezeichneter Lokalisation"
+  },
+  "children": []
+}

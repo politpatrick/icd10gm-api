@@ -1,0 +1,12 @@
+{
+  "code": "F60.2",
+  "kind": "category",
+  "label": "Dissoziale Persönlichkeitsstörung",
+  "rubrics": {
+    "preferred": "Dissoziale Persönlichkeitsstörung",
+    "definition": "Eine Persönlichkeitsstörung, die durch eine Missachtung sozialer Verpflichtungen und herzloses Unbeteiligtsein an Gefühlen für andere gekennzeichnet ist. Zwischen dem Verhalten und den herrschenden sozialen Normen besteht eine erhebliche Diskrepanz. Das Verhalten erscheint durch nachteilige Erlebnisse, einschließlich Bestrafung, nicht änderungsfähig. Es besteht eine geringe Frustrationstoleranz und eine niedrige Schwelle für aggressives, auch gewalttätiges Verhalten, eine Neigung, andere zu beschuldigen oder vordergründige Rationalisierungen für das Verhalten anzubieten, durch das der betreffende Patient in einen Konflikt mit der Gesellschaft geraten ist.",
+    "inclusion": "Persönlichkeit(sstörung):\n\t\t\t\tsoziopathisch",
+    "exclusion": "Störungen des SozialverhaltensF91.-"
+  },
+  "children": []
+}

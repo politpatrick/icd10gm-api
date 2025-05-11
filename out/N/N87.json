@@ -1,0 +1,51 @@
+{
+  "code": "N87",
+  "kind": "category",
+  "label": "Dysplasie der Cervix uteri",
+  "rubrics": {
+    "preferred": "Dysplasie der Cervix uteri",
+    "exclusion": "Carcinoma in situ der Cervix uteriD06.-"
+  },
+  "children": [
+    {
+      "code": "N87.0",
+      "kind": "category",
+      "label": "Niedriggradige Dysplasie der Cervix uteri",
+      "rubrics": {
+        "preferred": "Niedriggradige Dysplasie der Cervix uteri",
+        "inclusion": "Zervikale intraepitheliale Neoplasie [CIN] I. Grades"
+      },
+      "children": []
+    },
+    {
+      "code": "N87.1",
+      "kind": "category",
+      "label": "Mittelgradige Dysplasie der Cervix uteri",
+      "rubrics": {
+        "preferred": "Mittelgradige Dysplasie der Cervix uteri",
+        "inclusion": "Zervikale intraepitheliale Neoplasie [CIN] II. Grades"
+      },
+      "children": []
+    },
+    {
+      "code": "N87.2",
+      "kind": "category",
+      "label": "Hochgradige Dysplasie der Cervix uteri, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Hochgradige Dysplasie der Cervix uteri, anderenorts nicht klassifiziert",
+        "inclusion": "Hochgradige zervikale Dysplasie o.n.A.",
+        "exclusion": "Zervikale intraepitheliale Neoplasie [CIN] III. Grades, mit oder ohne Angabe einer hochgradigen DysplasieD06.-"
+      },
+      "children": []
+    },
+    {
+      "code": "N87.9",
+      "kind": "category",
+      "label": "Dysplasie der Cervix uteri, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Dysplasie der Cervix uteri, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

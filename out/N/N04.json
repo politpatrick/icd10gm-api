@@ -1,0 +1,11 @@
+{
+  "code": "N04",
+  "kind": "category",
+  "label": "Nephrotisches Syndrom",
+  "rubrics": {
+    "preferred": "Nephrotisches Syndrom",
+    "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+    "inclusion": "Lipoidnephrose"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "G94.32",
+  "kind": "category",
+  "label": "Septische Enzephalopathie",
+  "rubrics": {
+    "preferred": "Septische Enzephalopathie",
+    "inclusion": "Enzephalopathie bei Sepsis durch Viren o.n.A.B34.80",
+    "exclusion": "Enzephalopathie bei anderenorts klassifizierten infektiösen und parasitären Krankheiten ohne Vorliegen einer SepsisG94.31"
+  },
+  "children": []
+}

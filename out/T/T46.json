@@ -1,0 +1,118 @@
+{
+  "code": "T46",
+  "kind": "category",
+  "label": "Vergiftung durch primär auf das Herz-Kreislaufsystem wirkende Mittel",
+  "rubrics": {
+    "preferred": "Vergiftung durch primär auf das Herz-Kreislaufsystem wirkende Mittel",
+    "exclusion": "MetaraminolT44.4"
+  },
+  "children": [
+    {
+      "code": "T46.0",
+      "kind": "category",
+      "label": "Herzglykoside und Arzneimittel mit ähnlicher Wirkung",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Herzglykoside und Arzneimittel mit ähnlicher Wirkung",
+        "preferred": "Herzglykoside und Arzneimittel mit ähnlicher Wirkung"
+      },
+      "children": []
+    },
+    {
+      "code": "T46.1",
+      "kind": "category",
+      "label": "Kalziumantagonisten",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Kalziumantagonisten",
+        "preferred": "Kalziumantagonisten"
+      },
+      "children": []
+    },
+    {
+      "code": "T46.2",
+      "kind": "category",
+      "label": "Sonstige Antiarrhythmika, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige Antiarrhythmika, anderenorts nicht klassifiziert",
+        "preferred": "Sonstige Antiarrhythmika, anderenorts nicht klassifiziert",
+        "exclusion": "Beta-RezeptorenblockerT44.7"
+      },
+      "children": []
+    },
+    {
+      "code": "T46.3",
+      "kind": "category",
+      "label": "Koronardilatatoren, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Koronardilatatoren, anderenorts nicht klassifiziert",
+        "preferred": "Koronardilatatoren, anderenorts nicht klassifiziert",
+        "inclusion": "Dipyridamol",
+        "exclusion": "KalziumantagonistenT46.1"
+      },
+      "children": []
+    },
+    {
+      "code": "T46.4",
+      "kind": "category",
+      "label": "Angiotensin-Konversionsenzym-Hemmer [ACE-Hemmer]",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Angiotensin-Konversionsenzym-Hemmer [ACE-Hemmer]",
+        "preferred": "Angiotensin-Konversionsenzym-Hemmer [ACE-Hemmer]"
+      },
+      "children": []
+    },
+    {
+      "code": "T46.5",
+      "kind": "category",
+      "label": "Sonstige Antihypertensiva, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige Antihypertensiva, anderenorts nicht klassifiziert",
+        "preferred": "Sonstige Antihypertensiva, anderenorts nicht klassifiziert",
+        "inclusion": "Rauwolfiaalkaloide",
+        "exclusion": "KalziumantagonistenT46.1"
+      },
+      "children": []
+    },
+    {
+      "code": "T46.6",
+      "kind": "category",
+      "label": "Antihyperlipidämika und Arzneimittel gegen Arteriosklerose",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Antihyperlipidämika und Arzneimittel gegen Arteriosklerose",
+        "preferred": "Antihyperlipidämika und Arzneimittel gegen Arteriosklerose"
+      },
+      "children": []
+    },
+    {
+      "code": "T46.7",
+      "kind": "category",
+      "label": "Periphere Vasodilatatoren",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Periphere Vasodilatatoren",
+        "preferred": "Periphere Vasodilatatoren",
+        "inclusion": "Nikotinsäure (-Derivate)",
+        "exclusion": "PapaverinT44.3"
+      },
+      "children": []
+    },
+    {
+      "code": "T46.8",
+      "kind": "category",
+      "label": "Antivarikosa, einschließlich Verödungsmitteln",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Antivarikosa, einschließlich Verödungsmitteln",
+        "preferred": "Antivarikosa, einschließlich Verödungsmitteln"
+      },
+      "children": []
+    },
+    {
+      "code": "T46.9",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete, primär auf das Herz-Kreislaufsystem wirkende Mittel",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige und nicht näher bezeichnete, primär auf das Herz-Kreislaufsystem wirkende Mittel",
+        "preferred": "Sonstige und nicht näher bezeichnete, primär auf das Herz-Kreislaufsystem wirkende Mittel"
+      },
+      "children": []
+    }
+  ]
+}

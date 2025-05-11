@@ -1,0 +1,50 @@
+{
+  "code": "A79",
+  "kind": "category",
+  "label": "Sonstige Rickettsiosen",
+  "rubrics": {
+    "preferred": "Sonstige Rickettsiosen"
+  },
+  "children": [
+    {
+      "code": "A79.0",
+      "kind": "category",
+      "label": "Wolhynisches Fieber",
+      "rubrics": {
+        "preferred": "Wolhynisches Fieber",
+        "inclusion": "Trench-Fever"
+      },
+      "children": []
+    },
+    {
+      "code": "A79.1",
+      "kind": "category",
+      "label": "Rickettsienpocken durch Rickettsia akari",
+      "rubrics": {
+        "preferred": "Rickettsienpocken durch Rickettsia akari",
+        "inclusion": "Bläschenrickettsiose"
+      },
+      "children": []
+    },
+    {
+      "code": "A79.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Rickettsiosen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Rickettsiosen",
+        "inclusion": "Rickettsiose durch Neorickettsia sennetsu [Ehrlichia sennetsu]"
+      },
+      "children": []
+    },
+    {
+      "code": "A79.9",
+      "kind": "category",
+      "label": "Rickettsiose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Rickettsiose, nicht näher bezeichnet",
+        "inclusion": "Rickettsien-Infektion o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

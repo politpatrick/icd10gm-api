@@ -1,0 +1,10 @@
+{
+  "code": "O48",
+  "kind": "category",
+  "label": "Übertragene Schwangerschaft",
+  "rubrics": {
+    "preferred": "Übertragene Schwangerschaft",
+    "inclusion": "Tragzeitüberschreitung"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "K50.1",
+  "kind": "category",
+  "label": "Crohn-Krankheit des Dickdarmes",
+  "rubrics": {
+    "preferred": "Crohn-Krankheit des Dickdarmes",
+    "inclusion": "Crohn-Krankheit [Enteritis regionalis]:\n\t\t\t\tRektum",
+    "exclusion": "Crohn-Krankheit des Dünn- und DickdarmesK50.82"
+  },
+  "children": []
+}

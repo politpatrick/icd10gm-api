@@ -1,0 +1,11 @@
+{
+  "code": "D24",
+  "kind": "category",
+  "label": "Gutartige Neubildung der Brustdrüse [Mamma]",
+  "rubrics": {
+    "preferred": "Gutartige Neubildung der Brustdrüse [Mamma]",
+    "inclusion": "Brustdrüse:\n\t\t\t\tWeichteile",
+    "exclusion": "Haut der BrustdrüseD22.5D23.5"
+  },
+  "children": []
+}

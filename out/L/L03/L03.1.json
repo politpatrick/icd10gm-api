@@ -1,0 +1,32 @@
+{
+  "code": "L03.1",
+  "kind": "category",
+  "label": "Phlegmone an sonstigen Teilen der Extremitäten",
+  "rubrics": {
+    "preferred": "Phlegmone an sonstigen Teilen der Extremitäten"
+  },
+  "children": [
+    {
+      "code": "L03.10",
+      "kind": "category",
+      "label": "Phlegmone an der oberen Extremität",
+      "rubrics": {
+        "preferred": "Phlegmone an der oberen Extremität",
+        "inclusion": "Unterarm",
+        "exclusion": "FingerL03.01"
+      },
+      "children": []
+    },
+    {
+      "code": "L03.11",
+      "kind": "category",
+      "label": "Phlegmone an der unteren Extremität",
+      "rubrics": {
+        "preferred": "Phlegmone an der unteren Extremität",
+        "inclusion": "Unterschenkel",
+        "exclusion": "ZeheL03.02"
+      },
+      "children": []
+    }
+  ]
+}

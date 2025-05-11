@@ -1,0 +1,438 @@
+{
+  "code": "B25-B34",
+  "kind": "block",
+  "label": "Sonstige Viruskrankheiten",
+  "rubrics": {
+    "preferred": "Sonstige Viruskrankheiten"
+  },
+  "children": [
+    {
+      "code": "B25",
+      "kind": "category",
+      "label": "Zytomegalie",
+      "rubrics": {
+        "preferred": "Zytomegalie",
+        "exclusion": "Mononukleose durch ZytomegalievirenB27.1"
+      },
+      "children": [
+        {
+          "code": "B25.0",
+          "kind": "category",
+          "label": "Pneumonie durch ZytomegalievirenJ17.1",
+          "rubrics": {
+            "preferred": "Pneumonie durch ZytomegalievirenJ17.1"
+          },
+          "children": []
+        },
+        {
+          "code": "B25.1",
+          "kind": "category",
+          "label": "Hepatitis durch ZytomegalievirenK77.0",
+          "rubrics": {
+            "preferred": "Hepatitis durch ZytomegalievirenK77.0"
+          },
+          "children": []
+        },
+        {
+          "code": "B25.2",
+          "kind": "category",
+          "label": "Pankreatitis durch ZytomegalievirenK87.1",
+          "rubrics": {
+            "preferred": "Pankreatitis durch ZytomegalievirenK87.1"
+          },
+          "children": []
+        },
+        {
+          "code": "B25.8",
+          "kind": "category",
+          "label": "Sonstige Zytomegalie",
+          "rubrics": {
+            "preferred": "Sonstige Zytomegalie"
+          },
+          "children": [
+            {
+              "code": "B25.80",
+              "kind": "category",
+              "label": "Infektion des Verdauungstraktes durch Zytomegalieviren",
+              "rubrics": {
+                "preferred": "Infektion des Verdauungstraktes durch Zytomegalieviren",
+                "inclusion": "ÖsophagitisK23.8\n\t\t\t\tdurch Zytomegalieviren"
+              },
+              "children": []
+            },
+            {
+              "code": "B25.88",
+              "kind": "category",
+              "label": "Sonstige Zytomegalie",
+              "rubrics": {
+                "preferred": "Sonstige Zytomegalie"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "B25.9",
+          "kind": "category",
+          "label": "Zytomegalie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Zytomegalie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B26",
+      "kind": "category",
+      "label": "Mumps",
+      "rubrics": {
+        "preferred": "Mumps",
+        "inclusion": "Parotitis epidemica"
+      },
+      "children": [
+        {
+          "code": "B26.0",
+          "kind": "category",
+          "label": "Mumps-OrchitisN51.1",
+          "rubrics": {
+            "preferred": "Mumps-OrchitisN51.1"
+          },
+          "children": []
+        },
+        {
+          "code": "B26.1",
+          "kind": "category",
+          "label": "Mumps-MeningitisG02.0",
+          "rubrics": {
+            "preferred": "Mumps-MeningitisG02.0"
+          },
+          "children": []
+        },
+        {
+          "code": "B26.2",
+          "kind": "category",
+          "label": "Mumps-EnzephalitisG05.1",
+          "rubrics": {
+            "preferred": "Mumps-EnzephalitisG05.1"
+          },
+          "children": []
+        },
+        {
+          "code": "B26.3",
+          "kind": "category",
+          "label": "Mumps-PankreatitisK87.1",
+          "rubrics": {
+            "preferred": "Mumps-PankreatitisK87.1"
+          },
+          "children": []
+        },
+        {
+          "code": "B26.8",
+          "kind": "category",
+          "label": "Mumps mit sonstigen Komplikationen",
+          "rubrics": {
+            "preferred": "Mumps mit sonstigen Komplikationen",
+            "inclusion": "Mumps:\n\t\t\t\tPolyneuropathieG63.0"
+          },
+          "children": []
+        },
+        {
+          "code": "B26.9",
+          "kind": "category",
+          "label": "Mumps ohne Komplikation",
+          "rubrics": {
+            "preferred": "Mumps ohne Komplikation",
+            "inclusion": "Mumps-Parotitis o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B27",
+      "kind": "category",
+      "label": "Infektiöse Mononukleose",
+      "rubrics": {
+        "preferred": "Infektiöse Mononukleose",
+        "inclusion": "Pfeiffer-Drüsenfieber"
+      },
+      "children": [
+        {
+          "code": "B27.0",
+          "kind": "category",
+          "label": "Mononukleose durch Gamma-Herpesviren",
+          "rubrics": {
+            "preferred": "Mononukleose durch Gamma-Herpesviren",
+            "inclusion": "Mononukleose durch Epstein-Barr-Viren"
+          },
+          "children": []
+        },
+        {
+          "code": "B27.1",
+          "kind": "category",
+          "label": "Mononukleose durch Zytomegalieviren",
+          "rubrics": {
+            "preferred": "Mononukleose durch Zytomegalieviren"
+          },
+          "children": []
+        },
+        {
+          "code": "B27.8",
+          "kind": "category",
+          "label": "Sonstige infektiöse Mononukleose",
+          "rubrics": {
+            "preferred": "Sonstige infektiöse Mononukleose"
+          },
+          "children": []
+        },
+        {
+          "code": "B27.9",
+          "kind": "category",
+          "label": "Infektiöse Mononukleose, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Infektiöse Mononukleose, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B30",
+      "kind": "category",
+      "label": "Viruskonjunktivitis",
+      "rubrics": {
+        "preferred": "Viruskonjunktivitis",
+        "exclusion": "Augenkrankheit (durch) (bei):\n\t\t\t\tZosterB02.3"
+      },
+      "children": [
+        {
+          "code": "B30.0",
+          "kind": "category",
+          "label": "Keratokonjunktivitis durch AdenovirenH19.2",
+          "rubrics": {
+            "preferred": "Keratokonjunktivitis durch AdenovirenH19.2",
+            "inclusion": "Keratoconjunctivitis epidemica"
+          },
+          "children": []
+        },
+        {
+          "code": "B30.1",
+          "kind": "category",
+          "label": "Konjunktivitis durch AdenovirenH13.1",
+          "rubrics": {
+            "preferred": "Konjunktivitis durch AdenovirenH13.1",
+            "inclusion": "Schwimmbadkonjunktivitis"
+          },
+          "children": []
+        },
+        {
+          "code": "B30.2",
+          "kind": "category",
+          "label": "Pharyngokonjunktivalfieber (durch Viren)",
+          "rubrics": {
+            "preferred": "Pharyngokonjunktivalfieber (durch Viren)"
+          },
+          "children": []
+        },
+        {
+          "code": "B30.3",
+          "kind": "category",
+          "label": "Akute epidemische hämorrhagische Konjunktivitis (durch Enteroviren)H13.1",
+          "rubrics": {
+            "preferred": "Akute epidemische hämorrhagische Konjunktivitis (durch Enteroviren)H13.1",
+            "inclusion": "Konjunktivitis durch:\n\t\t\t\tEnterovirus 70"
+          },
+          "children": []
+        },
+        {
+          "code": "B30.8",
+          "kind": "category",
+          "label": "Sonstige Konjunktivitis durch VirenH13.1",
+          "rubrics": {
+            "preferred": "Sonstige Konjunktivitis durch VirenH13.1",
+            "inclusion": "Newcastle-Keratokonjunktivitis"
+          },
+          "children": []
+        },
+        {
+          "code": "B30.9",
+          "kind": "category",
+          "label": "Konjunktivitis durch Viren, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Konjunktivitis durch Viren, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B33",
+      "kind": "category",
+      "label": "Sonstige Viruskrankheiten, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Viruskrankheiten, anderenorts nicht klassifiziert"
+      },
+      "children": [
+        {
+          "code": "B33.0",
+          "kind": "category",
+          "label": "Pleurodynia epidemica",
+          "rubrics": {
+            "preferred": "Pleurodynia epidemica",
+            "inclusion": "Myalgia epidemica"
+          },
+          "children": []
+        },
+        {
+          "code": "B33.1",
+          "kind": "category",
+          "label": "Ross-River-Krankheit",
+          "rubrics": {
+            "preferred": "Ross-River-Krankheit",
+            "inclusion": "Ross-River-Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "B33.2",
+          "kind": "category",
+          "label": "Karditis durch Viren",
+          "rubrics": {
+            "preferred": "Karditis durch Viren"
+          },
+          "children": []
+        },
+        {
+          "code": "B33.3",
+          "kind": "category",
+          "label": "Infektion durch Retroviren, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Infektion durch Retroviren, anderenorts nicht klassifiziert",
+            "inclusion": "Infektion durch Retroviren o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "B33.4",
+          "kind": "category",
+          "label": "Hantavirus- (Herz-) LungensyndromJ17.1",
+          "rubrics": {
+            "preferred": "Hantavirus- (Herz-) LungensyndromJ17.1",
+            "inclusion": "Sin-nombre-Virus-Krankheit",
+            "coding-hint": "Soll ein mit dem Hantavirus- (Herz-) Lungensyndrom verbundenes Nierenversagen durch das Andes-, Bayou- und Black-Creek-Canal-Hantavirus angegeben werden, ist eine zusätzliche SchlüsselnummerN17.9- zu benutzen.",
+            "exclusion": "Hämorrhagisches Fieber mit renaler BeteiligungA98.5N08.0"
+          },
+          "children": []
+        },
+        {
+          "code": "B33.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Viruskrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Viruskrankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B34",
+      "kind": "category",
+      "label": "Viruskrankheit nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Viruskrankheit nicht näher bezeichneter Lokalisation",
+        "exclusion": "Zytomegalie o.n.A.B25.9"
+      },
+      "children": [
+        {
+          "code": "B34.0",
+          "kind": "category",
+          "label": "Infektion durch Adenoviren nicht näher bezeichneter Lokalisation",
+          "rubrics": {
+            "preferred": "Infektion durch Adenoviren nicht näher bezeichneter Lokalisation"
+          },
+          "children": []
+        },
+        {
+          "code": "B34.1",
+          "kind": "category",
+          "label": "Infektion durch Enteroviren nicht näher bezeichneter Lokalisation",
+          "rubrics": {
+            "preferred": "Infektion durch Enteroviren nicht näher bezeichneter Lokalisation",
+            "inclusion": "Infektion durch ECHO-Viren o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "B34.2",
+          "kind": "category",
+          "label": "Infektion durch Coronaviren nicht näher bezeichneter Lokalisation",
+          "rubrics": {
+            "preferred": "Infektion durch Coronaviren nicht näher bezeichneter Lokalisation",
+            "exclusion": "Schweres akutes respiratorisches Syndrom [SARS]U04.9"
+          },
+          "children": []
+        },
+        {
+          "code": "B34.3",
+          "kind": "category",
+          "label": "Infektion durch Parvoviren nicht näher bezeichneter Lokalisation",
+          "rubrics": {
+            "preferred": "Infektion durch Parvoviren nicht näher bezeichneter Lokalisation"
+          },
+          "children": []
+        },
+        {
+          "code": "B34.4",
+          "kind": "category",
+          "label": "Infektion durch Papovaviren nicht näher bezeichneter Lokalisation",
+          "rubrics": {
+            "preferred": "Infektion durch Papovaviren nicht näher bezeichneter Lokalisation"
+          },
+          "children": []
+        },
+        {
+          "code": "B34.8",
+          "kind": "category",
+          "label": "Sonstige Virusinfektionen nicht näher bezeichneter Lokalisation",
+          "rubrics": {
+            "preferred": "Sonstige Virusinfektionen nicht näher bezeichneter Lokalisation"
+          },
+          "children": [
+            {
+              "code": "B34.80",
+              "kind": "category",
+              "label": "Sepsis durch Viren, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sepsis durch Viren, anderenorts nicht klassifiziert",
+                "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.80!-U69.82, um den zeitlichen Bezug der Sepsis zur stationären Krankenhausaufnahme anzugeben.",
+                "exclusion": "Sepsis durch HerpesvirenB00.70"
+              },
+              "children": []
+            },
+            {
+              "code": "B34.88",
+              "kind": "category",
+              "label": "Sonstige Virusinfektionen nicht näher bezeichneter Lokalisation",
+              "rubrics": {
+                "preferred": "Sonstige Virusinfektionen nicht näher bezeichneter Lokalisation"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "B34.9",
+          "kind": "category",
+          "label": "Virusinfektion, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Virusinfektion, nicht näher bezeichnet",
+            "inclusion": "Virämie o.n.A."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "P13.1",
+  "kind": "category",
+  "label": "Sonstige Geburtsverletzung des Schädels",
+  "rubrics": {
+    "preferred": "Sonstige Geburtsverletzung des Schädels",
+    "exclusion": "KephalhämatomP12.0"
+  },
+  "children": []
+}

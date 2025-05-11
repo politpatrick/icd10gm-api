@@ -1,0 +1,68 @@
+{
+  "code": "S09",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Verletzungen des Kopfes",
+  "rubrics": {
+    "preferred": "Sonstige und nicht näher bezeichnete Verletzungen des Kopfes"
+  },
+  "children": [
+    {
+      "code": "S09.0",
+      "kind": "category",
+      "label": "Verletzung von Blutgefäßen des Kopfes, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Verletzung von Blutgefäßen des Kopfes, anderenorts nicht klassifiziert",
+        "exclusion": "Verletzung:\n\t\t\t\tintrakranielle GefäßeS06.-"
+      },
+      "children": []
+    },
+    {
+      "code": "S09.1",
+      "kind": "category",
+      "label": "Verletzung von Muskeln und Sehnen des Kopfes",
+      "rubrics": {
+        "preferred": "Verletzung von Muskeln und Sehnen des Kopfes"
+      },
+      "children": []
+    },
+    {
+      "code": "S09.2",
+      "kind": "category",
+      "label": "Traumatische Trommelfellruptur",
+      "rubrics": {
+        "preferred": "Traumatische Trommelfellruptur"
+      },
+      "children": []
+    },
+    {
+      "code": "S09.7",
+      "kind": "category",
+      "label": "Multiple Verletzungen des Kopfes",
+      "rubrics": {
+        "preferred": "Multiple Verletzungen des Kopfes",
+        "inclusion": "Verletzungen, die in mehr als einer der Kategorien S00-S09.2 klassifizierbar sind",
+        "coding-hint": "Bezüglich der Verschlüsselung multipler Verletzungen sind in der stationären Versorgung die Deutschen Kodierrichtlinien heranzuziehen."
+      },
+      "children": []
+    },
+    {
+      "code": "S09.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Verletzungen des Kopfes",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Verletzungen des Kopfes"
+      },
+      "children": []
+    },
+    {
+      "code": "S09.9",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Verletzung des Kopfes",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Verletzung des Kopfes",
+        "inclusion": "Verletzung:\n\t\t\t\tOhr o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

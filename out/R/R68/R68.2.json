@@ -1,0 +1,10 @@
+{
+  "code": "R68.2",
+  "kind": "category",
+  "label": "Mundtrockenheit, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Mundtrockenheit, nicht näher bezeichnet",
+    "exclusion": "Unterfunktion der SpeicheldrüsenK11.7"
+  },
+  "children": []
+}

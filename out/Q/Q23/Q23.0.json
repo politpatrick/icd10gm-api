@@ -1,0 +1,11 @@
+{
+  "code": "Q23.0",
+  "kind": "category",
+  "label": "Angeborene Aortenklappenstenose",
+  "rubrics": {
+    "preferred": "Angeborene Aortenklappenstenose",
+    "inclusion": "Angeborene Aortenstenose",
+    "exclusion": "Bei hypoplastischem LinksherzsyndromQ23.4"
+  },
+  "children": []
+}

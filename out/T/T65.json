@@ -1,0 +1,102 @@
+{
+  "code": "T65",
+  "kind": "category",
+  "label": "Toxische Wirkung sonstiger und nicht näher bezeichneter Substanzen",
+  "rubrics": {
+    "preferred": "Toxische Wirkung sonstiger und nicht näher bezeichneter Substanzen"
+  },
+  "children": [
+    {
+      "code": "T65.0",
+      "kind": "category",
+      "label": "Zyanide",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Zyanide",
+        "preferred": "Zyanide",
+        "exclusion": "BlausäureT57.3"
+      },
+      "children": []
+    },
+    {
+      "code": "T65.1",
+      "kind": "category",
+      "label": "Strychnin und dessen Salze",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Strychnin und dessen Salze",
+        "preferred": "Strychnin und dessen Salze"
+      },
+      "children": []
+    },
+    {
+      "code": "T65.2",
+      "kind": "category",
+      "label": "Tabak und Nikotin",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Tabak und Nikotin",
+        "preferred": "Tabak und Nikotin"
+      },
+      "children": []
+    },
+    {
+      "code": "T65.3",
+      "kind": "category",
+      "label": "Nitro- und Aminoderivate von Benzol und dessen Homologen",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Nitro- und Aminoderivate von Benzol und dessen Homologen",
+        "preferred": "Nitro- und Aminoderivate von Benzol und dessen Homologen",
+        "inclusion": "Trinitrotoluol"
+      },
+      "children": []
+    },
+    {
+      "code": "T65.4",
+      "kind": "category",
+      "label": "Schwefelkohlenstoff",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Schwefelkohlenstoff",
+        "preferred": "Schwefelkohlenstoff"
+      },
+      "children": []
+    },
+    {
+      "code": "T65.5",
+      "kind": "category",
+      "label": "Glyzeroltrinitrat, Sauerstoffsäuren des Stickstoffs und deren Ester",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Glyzeroltrinitrat, Sauerstoffsäuren des Stickstoffs und deren Ester",
+        "preferred": "Glyzeroltrinitrat, Sauerstoffsäuren des Stickstoffs und deren Ester",
+        "inclusion": "1,2,3-Propantriol, Trinitrat"
+      },
+      "children": []
+    },
+    {
+      "code": "T65.6",
+      "kind": "category",
+      "label": "Farben und Farbstoffe, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Toxische Wirkung: Farben und Farbstoffe, anderenorts nicht klassifiziert",
+        "preferred": "Farben und Farbstoffe, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "T65.8",
+      "kind": "category",
+      "label": "Toxische Wirkung sonstiger näher bezeichneter Substanzen",
+      "rubrics": {
+        "preferred": "Toxische Wirkung sonstiger näher bezeichneter Substanzen"
+      },
+      "children": []
+    },
+    {
+      "code": "T65.9",
+      "kind": "category",
+      "label": "Toxische Wirkung einer nicht näher bezeichneten Substanz",
+      "rubrics": {
+        "preferred": "Toxische Wirkung einer nicht näher bezeichneten Substanz",
+        "inclusion": "Vergiftung o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

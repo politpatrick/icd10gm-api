@@ -1,0 +1,12 @@
+{
+  "code": "D14.1",
+  "kind": "category",
+  "label": "Larynx",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Larynx",
+    "preferred": "Larynx",
+    "inclusion": "Epiglottis (suprahyoidaler Anteil)",
+    "exclusion": "Stimmlippen- und LarynxpolypJ38.1"
+  },
+  "children": []
+}

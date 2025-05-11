@@ -1,0 +1,11 @@
+{
+  "code": "T88.2",
+  "kind": "category",
+  "label": "Schock durch Anästhesie",
+  "rubrics": {
+    "preferred": "Schock durch Anästhesie",
+    "inclusion": "Schock durch Anästhesie bei ordnungsgemäßer Verabreichung eines indikationsgerechten Arzneimittels",
+    "exclusion": "Postoperativer Schock o.n.A.T81.1"
+  },
+  "children": []
+}

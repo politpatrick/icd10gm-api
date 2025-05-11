@@ -1,0 +1,10 @@
+{
+  "code": "A52.3",
+  "kind": "category",
+  "label": "Neurosyphilis, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Neurosyphilis, nicht näher bezeichnet",
+    "inclusion": "Syphilom\n\t\t\t\tZentralnervensystem, o.n.A."
+  },
+  "children": []
+}

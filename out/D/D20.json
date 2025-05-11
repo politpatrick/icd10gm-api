@@ -1,0 +1,31 @@
+{
+  "code": "D20",
+  "kind": "category",
+  "label": "Gutartige Neubildung des Weichteilgewebes des Retroperitoneums und des Peritoneums",
+  "rubrics": {
+    "preferred": "Gutartige Neubildung des Weichteilgewebes des Retroperitoneums und des Peritoneums",
+    "exclusion": "Mesotheliales GewebeD19.-"
+  },
+  "children": [
+    {
+      "code": "D20.0",
+      "kind": "category",
+      "label": "Retroperitoneum",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Retroperitoneum",
+        "preferred": "Retroperitoneum"
+      },
+      "children": []
+    },
+    {
+      "code": "D20.1",
+      "kind": "category",
+      "label": "Peritoneum",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Peritoneum",
+        "preferred": "Peritoneum"
+      },
+      "children": []
+    }
+  ]
+}

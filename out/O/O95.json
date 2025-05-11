@@ -1,0 +1,10 @@
+{
+  "code": "O95",
+  "kind": "category",
+  "label": "Sterbefall während der Gestationsperiode nicht näher bezeichneter Ursache",
+  "rubrics": {
+    "preferred": "Sterbefall während der Gestationsperiode nicht näher bezeichneter Ursache",
+    "inclusion": "Tod der Mutter infolge nicht näher bezeichneter Ursache während der Schwangerschaft, der Wehen und Geburt oder im Wochenbett"
+  },
+  "children": []
+}

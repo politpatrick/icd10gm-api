@@ -1,0 +1,393 @@
+{
+  "code": "A92-A99",
+  "kind": "block",
+  "label": "Durch Arthropoden übertragene Viruskrankheiten und virale hämorrhagische Fieber",
+  "rubrics": {
+    "preferred": "Durch Arthropoden übertragene Viruskrankheiten und virale hämorrhagische Fieber"
+  },
+  "children": [
+    {
+      "code": "A92",
+      "kind": "category",
+      "label": "Sonstige durch Moskitos [Stechmücken] übertragene Viruskrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige durch Moskitos [Stechmücken] übertragene Viruskrankheiten",
+        "exclusion": "Ross-River-KrankheitB33.1"
+      },
+      "children": [
+        {
+          "code": "A92.0",
+          "kind": "category",
+          "label": "Chikungunya-Viruskrankheit",
+          "rubrics": {
+            "preferred": "Chikungunya-Viruskrankheit",
+            "inclusion": "(Hämorrhagisches) Chikungunya-Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A92.1",
+          "kind": "category",
+          "label": "O'Nyong-nyong-Fieber",
+          "rubrics": {
+            "preferred": "O'Nyong-nyong-Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A92.2",
+          "kind": "category",
+          "label": "Venezolanisches Pferdefieber",
+          "rubrics": {
+            "preferred": "Venezolanisches Pferdefieber",
+            "inclusion": "Venezuela-Pferdeenzephalomyelitis"
+          },
+          "children": []
+        },
+        {
+          "code": "A92.3",
+          "kind": "category",
+          "label": "West-Nil-Virusinfektion",
+          "rubrics": {
+            "preferred": "West-Nil-Virusinfektion",
+            "inclusion": "West-Nil-Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A92.4",
+          "kind": "category",
+          "label": "Rifttalfieber",
+          "rubrics": {
+            "preferred": "Rifttalfieber",
+            "inclusion": "Rift-Valley-Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A92.5",
+          "kind": "category",
+          "label": "Zika-Viruskrankheit",
+          "rubrics": {
+            "preferred": "Zika-Viruskrankheit",
+            "inclusion": "Zika-Virus-:\n\t\t\t\tInfektion",
+            "exclusion": "Angeborene Zika-ViruskrankheitP35.4"
+          },
+          "children": []
+        },
+        {
+          "code": "A92.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete, durch Moskitos übertragene Viruskrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete, durch Moskitos übertragene Viruskrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "A92.9",
+          "kind": "category",
+          "label": "Durch Moskitos übertragene Viruskrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Durch Moskitos übertragene Viruskrankheit, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A93",
+      "kind": "category",
+      "label": "Sonstige durch Arthropoden übertragene Viruskrankheiten, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige durch Arthropoden übertragene Viruskrankheiten, anderenorts nicht klassifiziert"
+      },
+      "children": [
+        {
+          "code": "A93.0",
+          "kind": "category",
+          "label": "Oropouche-Viruskrankheit",
+          "rubrics": {
+            "preferred": "Oropouche-Viruskrankheit",
+            "inclusion": "Oropouche-Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A93.1",
+          "kind": "category",
+          "label": "Pappataci-Fieber",
+          "rubrics": {
+            "preferred": "Pappataci-Fieber",
+            "inclusion": "Sandfliegenfieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A93.2",
+          "kind": "category",
+          "label": "Colorado-Zeckenfieber",
+          "rubrics": {
+            "preferred": "Colorado-Zeckenfieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A93.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete, durch Arthropoden übertragene Viruskrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete, durch Arthropoden übertragene Viruskrankheiten",
+            "inclusion": "Stomatitis-vesicularis-Viruskrankheit [Indiana-Fieber]"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A94",
+      "kind": "category",
+      "label": "Durch Arthropoden übertragene Viruskrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Durch Arthropoden übertragene Viruskrankheit, nicht näher bezeichnet",
+        "inclusion": "Arboviruskrankheit o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "A95",
+      "kind": "category",
+      "label": "Gelbfieber",
+      "rubrics": {
+        "preferred": "Gelbfieber"
+      },
+      "children": [
+        {
+          "code": "A95.0",
+          "kind": "category",
+          "label": "Buschgelbfieber",
+          "rubrics": {
+            "preferred": "Buschgelbfieber",
+            "inclusion": "Silvatisches Gelbfieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A95.1",
+          "kind": "category",
+          "label": "Urbanes Gelbfieber",
+          "rubrics": {
+            "preferred": "Urbanes Gelbfieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A95.9",
+          "kind": "category",
+          "label": "Gelbfieber, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Gelbfieber, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A96",
+      "kind": "category",
+      "label": "Hämorrhagisches Fieber durch Arenaviren",
+      "rubrics": {
+        "preferred": "Hämorrhagisches Fieber durch Arenaviren"
+      },
+      "children": [
+        {
+          "code": "A96.0",
+          "kind": "category",
+          "label": "Hämorrhagisches Fieber durch Junin-Viren",
+          "rubrics": {
+            "preferred": "Hämorrhagisches Fieber durch Junin-Viren",
+            "inclusion": "Argentinisches hämorrhagisches Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A96.1",
+          "kind": "category",
+          "label": "Hämorrhagisches Fieber durch Machupo-Viren",
+          "rubrics": {
+            "preferred": "Hämorrhagisches Fieber durch Machupo-Viren",
+            "inclusion": "Bolivianisches hämorrhagisches Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A96.2",
+          "kind": "category",
+          "label": "Lassa-Fieber",
+          "rubrics": {
+            "preferred": "Lassa-Fieber",
+            "inclusion": "Hämorrhagisches Fieber durch Lassa-Viren"
+          },
+          "children": []
+        },
+        {
+          "code": "A96.8",
+          "kind": "category",
+          "label": "Sonstiges hämorrhagisches Fieber durch Arenaviren",
+          "rubrics": {
+            "preferred": "Sonstiges hämorrhagisches Fieber durch Arenaviren"
+          },
+          "children": []
+        },
+        {
+          "code": "A96.9",
+          "kind": "category",
+          "label": "Hämorrhagisches Fieber durch Arenaviren, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Hämorrhagisches Fieber durch Arenaviren, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A97",
+      "kind": "category",
+      "label": "Dengue",
+      "rubrics": {
+        "preferred": "Dengue",
+        "definition": "Dengue ist eine Infektionskrankheit, die von Stechmücken übertragen wird, die mit dem Denguevirus infiziert sind. Es ist eine Krankheitsentität mit unterschiedlichen klinischen Manifestationen und oft nicht vorhersagbarem klinischen Verlauf und Ausgang. Die meisten Patienten genesen nach einem sich selbst limitierenden klinischen Verlauf mit Übelkeit, Erbrechen und Schmerzen. Ein kleiner Anteil entwickelt jedoch eine schwere Erkrankung, überwiegend charakterisiert durch Plasmaverlust mit oder ohne Blutungen, wobei schwere Blutungen oder Organschäden, mit oder ohne Dengue-Schocksyndrom, vorkommen."
+      },
+      "children": [
+        {
+          "code": "A97.0",
+          "kind": "category",
+          "label": "Dengue ohne Warnzeichen",
+          "rubrics": {
+            "preferred": "Dengue ohne Warnzeichen",
+            "inclusion": "Hämorrhagisches Dengue-Fieber ohne Warnzeichen"
+          },
+          "children": []
+        },
+        {
+          "code": "A97.1",
+          "kind": "category",
+          "label": "Dengue mit Warnzeichen",
+          "rubrics": {
+            "preferred": "Dengue mit Warnzeichen",
+            "definition": "Klinische Warnzeichen sind: Abdominalschmerz oder abdominaler Druckschmerz, Mukosablutung, Lethargie und/oder Unruhe, schneller Abfall der Thrombozyten, Anstieg des Hämatokrit. Andere Hinweise sind: anhaltendes Erbrechen, sichtbare Flüssigkeitseinlagerung, Lebervergrößerung um mehr als 2 cm.",
+            "inclusion": "Hämorrhagisches Dengue-Fieber mit Warnzeichen"
+          },
+          "children": []
+        },
+        {
+          "code": "A97.2",
+          "kind": "category",
+          "label": "Schweres Dengue",
+          "rubrics": {
+            "preferred": "Schweres Dengue",
+            "definition": "Klinische Zeichen beinhalten: 1. Schwerer Plasmaverlust, der zu Schock (Dengue-Schocksyndrom, DSS) und/oder Flüssigkeitseinlagerung mit respiratorischem Disstress führt. 2. Schwere Blutung, durch Arzt festgestellt. 3. Schwere Organbeteiligung: Leber-AST oder -ALT größer oder gleich 1000 U/l, ZNS: Bewusstseinseinschränkung (Enzephalitis), Beteiligung anderer Organe, z.B. Myokarditis oder Nephritis.",
+            "inclusion": "Schweres hämorrhagisches Dengue-Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A97.9",
+          "kind": "category",
+          "label": "Dengue, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Dengue, nicht näher bezeichnet",
+            "inclusion": "Dengue-Fieber [DF] o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A98",
+      "kind": "category",
+      "label": "Sonstige hämorrhagische Viruskrankheiten, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige hämorrhagische Viruskrankheiten, anderenorts nicht klassifiziert",
+        "exclusion": "Hämorrhagisches Dengue-FieberA97.-"
+      },
+      "children": [
+        {
+          "code": "A98.0",
+          "kind": "category",
+          "label": "Hämorrhagisches Krim-Kongo-Fieber",
+          "rubrics": {
+            "preferred": "Hämorrhagisches Krim-Kongo-Fieber",
+            "inclusion": "Zentralasiatisches hämorrhagisches Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A98.1",
+          "kind": "category",
+          "label": "Hämorrhagisches Omsk-Fieber",
+          "rubrics": {
+            "preferred": "Hämorrhagisches Omsk-Fieber"
+          },
+          "children": []
+        },
+        {
+          "code": "A98.2",
+          "kind": "category",
+          "label": "Kyasanur-Wald-Krankheit",
+          "rubrics": {
+            "preferred": "Kyasanur-Wald-Krankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "A98.3",
+          "kind": "category",
+          "label": "Marburg-Viruskrankheit",
+          "rubrics": {
+            "preferred": "Marburg-Viruskrankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "A98.4",
+          "kind": "category",
+          "label": "Ebola-Viruskrankheit",
+          "rubrics": {
+            "preferred": "Ebola-Viruskrankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "A98.5",
+          "kind": "category",
+          "label": "Hämorrhagisches Fieber mit renalem Syndrom",
+          "rubrics": {
+            "preferred": "Hämorrhagisches Fieber mit renalem Syndrom",
+            "inclusion": "Infektion durch Hantan-Viren",
+            "exclusion": "Hantavirus- (Herz-) LungensyndromB33.4J17.1"
+          },
+          "children": []
+        },
+        {
+          "code": "A98.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete hämorrhagische Viruskrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete hämorrhagische Viruskrankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "A99",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete hämorrhagische Viruskrankheit",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete hämorrhagische Viruskrankheit"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D82.0",
+  "kind": "category",
+  "label": "Wiskott-Aldrich-Syndrom",
+  "rubrics": {
+    "preferred": "Wiskott-Aldrich-Syndrom",
+    "inclusion": "Immundefekt mit Thrombozytopenie und Ekzem"
+  },
+  "children": []
+}

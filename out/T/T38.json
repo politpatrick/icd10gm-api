@@ -1,0 +1,116 @@
+{
+  "code": "T38",
+  "kind": "category",
+  "label": "Vergiftung durch Hormone und deren synthetische Ersatzstoffe und Antagonisten, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Vergiftung durch Hormone und deren synthetische Ersatzstoffe und Antagonisten, anderenorts nicht klassifiziert",
+    "exclusion": "Nebenschilddrüsenhormone und deren DerivateT50.9"
+  },
+  "children": [
+    {
+      "code": "T38.0",
+      "kind": "category",
+      "label": "Glukokortikoide und synthetische Analoga",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Glukokortikoide und synthetische Analoga",
+        "preferred": "Glukokortikoide und synthetische Analoga",
+        "exclusion": "Glukokortikoide bei topischer AnwendungT49.-"
+      },
+      "children": []
+    },
+    {
+      "code": "T38.1",
+      "kind": "category",
+      "label": "Schilddrüsenhormone und Ersatzstoffe",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Schilddrüsenhormone und Ersatzstoffe",
+        "preferred": "Schilddrüsenhormone und Ersatzstoffe"
+      },
+      "children": []
+    },
+    {
+      "code": "T38.2",
+      "kind": "category",
+      "label": "Thyreostatika",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Thyreostatika",
+        "preferred": "Thyreostatika"
+      },
+      "children": []
+    },
+    {
+      "code": "T38.3",
+      "kind": "category",
+      "label": "Insulin und orale blutzuckersenkende Arzneimittel [Antidiabetika]",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Insulin und orale blutzuckersenkende Arzneimittel [Antidiabetika]",
+        "preferred": "Insulin und orale blutzuckersenkende Arzneimittel [Antidiabetika]"
+      },
+      "children": []
+    },
+    {
+      "code": "T38.4",
+      "kind": "category",
+      "label": "Orale Kontrazeptiva",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Orale Kontrazeptiva",
+        "preferred": "Orale Kontrazeptiva",
+        "inclusion": "Mono- und Kombinationspräparate"
+      },
+      "children": []
+    },
+    {
+      "code": "T38.5",
+      "kind": "category",
+      "label": "Sonstige Östrogene und Gestagene",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige Östrogene und Gestagene",
+        "preferred": "Sonstige Östrogene und Gestagene",
+        "inclusion": "Mixturen und Ersatzstoffe"
+      },
+      "children": []
+    },
+    {
+      "code": "T38.6",
+      "kind": "category",
+      "label": "Antigonadotropine, Antiöstrogene und Antiandrogene, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Antigonadotropine, Antiöstrogene und Antiandrogene, anderenorts nicht klassifiziert",
+        "preferred": "Antigonadotropine, Antiöstrogene und Antiandrogene, anderenorts nicht klassifiziert",
+        "inclusion": "Tamoxifen"
+      },
+      "children": []
+    },
+    {
+      "code": "T38.7",
+      "kind": "category",
+      "label": "Androgene und verwandte Anabolika",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Androgene und verwandte Anabolika",
+        "preferred": "Androgene und verwandte Anabolika"
+      },
+      "children": []
+    },
+    {
+      "code": "T38.8",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Hormone und synthetische Ersatzstoffe",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige und nicht näher bezeichnete Hormone und synthetische Ersatzstoffe",
+        "preferred": "Sonstige und nicht näher bezeichnete Hormone und synthetische Ersatzstoffe",
+        "inclusion": "Hypophysenvorderlappenhormone [Adenohypophysenhormone]"
+      },
+      "children": []
+    },
+    {
+      "code": "T38.9",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Hormon-Antagonisten",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige und nicht näher bezeichnete Hormon-Antagonisten",
+        "preferred": "Sonstige und nicht näher bezeichnete Hormon-Antagonisten"
+      },
+      "children": []
+    }
+  ]
+}

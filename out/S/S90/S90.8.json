@@ -1,0 +1,70 @@
+{
+  "code": "S90.8",
+  "kind": "category",
+  "label": "Sonstige oberflächliche Verletzungen der Knöchelregion und des Fußes",
+  "rubrics": {
+    "preferred": "Sonstige oberflächliche Verletzungen der Knöchelregion und des Fußes"
+  },
+  "children": [
+    {
+      "code": "S90.81",
+      "kind": "category",
+      "label": "Schürfwunde",
+      "rubrics": {
+        "preferredLong": "Sonstige oberflächliche Verletzungen der Knöchelregion und des Fußes: Schürfwunde",
+        "preferred": "Schürfwunde"
+      },
+      "children": []
+    },
+    {
+      "code": "S90.82",
+      "kind": "category",
+      "label": "Blasenbildung (nichtthermisch)",
+      "rubrics": {
+        "preferredLong": "Sonstige oberflächliche Verletzungen der Knöchelregion und des Fußes: Blasenbildung (nichtthermisch)",
+        "preferred": "Blasenbildung (nichtthermisch)"
+      },
+      "children": []
+    },
+    {
+      "code": "S90.83",
+      "kind": "category",
+      "label": "Insektenbiss oder -stich (ungiftig)",
+      "rubrics": {
+        "preferredLong": "Sonstige oberflächliche Verletzungen der Knöchelregion und des Fußes: Insektenbiss oder -stich (ungiftig)",
+        "preferred": "Insektenbiss oder -stich (ungiftig)"
+      },
+      "children": []
+    },
+    {
+      "code": "S90.84",
+      "kind": "category",
+      "label": "Oberflächlicher Fremdkörper (Splitter)",
+      "rubrics": {
+        "preferredLong": "Sonstige oberflächliche Verletzungen der Knöchelregion und des Fußes: Oberflächlicher Fremdkörper (Splitter)",
+        "preferred": "Oberflächlicher Fremdkörper (Splitter)"
+      },
+      "children": []
+    },
+    {
+      "code": "S90.86",
+      "kind": "category",
+      "label": "Subkutanes (geschlossenes) Décollement",
+      "rubrics": {
+        "preferredLong": "Sonstige oberflächliche Verletzungen der Knöchelregion und des Fußes: Subkutanes (geschlossenes) Décollement",
+        "preferred": "Subkutanes (geschlossenes) Décollement"
+      },
+      "children": []
+    },
+    {
+      "code": "S90.88",
+      "kind": "category",
+      "label": "Sonstige",
+      "rubrics": {
+        "preferredLong": "Sonstige oberflächliche Verletzungen der Knöchelregion und des Fußes: Sonstige",
+        "preferred": "Sonstige"
+      },
+      "children": []
+    }
+  ]
+}

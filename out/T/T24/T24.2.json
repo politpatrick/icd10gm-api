@@ -1,0 +1,29 @@
+{
+  "code": "T24.2",
+  "kind": "category",
+  "label": "Verbrennung 2. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+  "rubrics": {
+    "preferred": "Verbrennung 2. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+  },
+  "children": [
+    {
+      "code": "T24.20",
+      "kind": "category",
+      "label": "Verbrennung Grad 2a der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+      "rubrics": {
+        "preferred": "Verbrennung Grad 2a der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+        "inclusion": "Verbrennung nicht näher bezeichneten 2. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+      },
+      "children": []
+    },
+    {
+      "code": "T24.21",
+      "kind": "category",
+      "label": "Verbrennung Grad 2b der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+      "rubrics": {
+        "preferred": "Verbrennung Grad 2b der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+      },
+      "children": []
+    }
+  ]
+}

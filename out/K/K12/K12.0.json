@@ -1,0 +1,10 @@
+{
+  "code": "K12.0",
+  "kind": "category",
+  "label": "Rezidivierende orale Aphthen",
+  "rubrics": {
+    "preferred": "Rezidivierende orale Aphthen",
+    "inclusion": "Stomatitis herpetiformis"
+  },
+  "children": []
+}

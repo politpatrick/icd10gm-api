@@ -1,0 +1,10 @@
+{
+  "code": "P76.1",
+  "kind": "category",
+  "label": "Transitorischer Ileus beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Transitorischer Ileus beim Neugeborenen",
+    "exclusion": "Hirschsprung-KrankheitQ43.1"
+  },
+  "children": []
+}

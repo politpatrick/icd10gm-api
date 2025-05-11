@@ -1,0 +1,11 @@
+{
+  "code": "Z59",
+  "kind": "category",
+  "label": "Kontaktanlässe mit Bezug auf das Wohnumfeld oder die wirtschaftliche Lage",
+  "rubrics": {
+    "preferred": "Kontaktanlässe mit Bezug auf das Wohnumfeld oder die wirtschaftliche Lage",
+    "inclusion": "Unstimmigkeit mit Nachbarn, Mietern oder Vermieter",
+    "exclusion": "Unzulängliche TrinkwasserversorgungZ58"
+  },
+  "children": []
+}

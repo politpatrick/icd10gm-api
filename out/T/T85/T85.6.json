@@ -1,0 +1,11 @@
+{
+  "code": "T85.6",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch sonstige näher bezeichnete interne Prothesen, Implantate oder Transplantate",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch sonstige näher bezeichnete interne Prothesen, Implantate oder Transplantate",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tnichtresorbierbares Operationsmaterial o.n.A.",
+    "exclusion": "Mechanische Komplikation durch Dauernähte (Draht) zur Fixierung von KnochenT84.1- bis T84.2-"
+  },
+  "children": []
+}

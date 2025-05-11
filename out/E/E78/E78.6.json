@@ -1,0 +1,10 @@
+{
+  "code": "E78.6",
+  "kind": "category",
+  "label": "Lipoproteinmangel",
+  "rubrics": {
+    "preferred": "Lipoproteinmangel",
+    "inclusion": "Tangier-Krankheit"
+  },
+  "children": []
+}

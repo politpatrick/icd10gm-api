@@ -1,0 +1,10 @@
+{
+  "code": "O36.4",
+  "kind": "category",
+  "label": "Betreuung der Mutter wegen intrauterinen Fruchttodes",
+  "rubrics": {
+    "preferred": "Betreuung der Mutter wegen intrauterinen Fruchttodes",
+    "exclusion": "Missed abortionO02.1"
+  },
+  "children": []
+}

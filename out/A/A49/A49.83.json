@@ -1,0 +1,11 @@
+{
+  "code": "A49.83",
+  "kind": "category",
+  "label": "Infektion durch Haemophilus und Moraxella nicht näher bezeichneter Lokalisation",
+  "rubrics": {
+    "preferred": "Infektion durch Haemophilus und Moraxella nicht näher bezeichneter Lokalisation",
+    "inclusion": "Bakteriämie durch Erreger der HACEK-Gruppe [Haemophilus parainfluenzae, Aggregatibacter, Cardiobacterium, Eikenella, Kingella]",
+    "exclusion": "Bakteriämie durch Haemophilus influenzaeA49.2"
+  },
+  "children": []
+}

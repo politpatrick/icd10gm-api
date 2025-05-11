@@ -1,0 +1,11 @@
+{
+  "code": "S02.1",
+  "kind": "category",
+  "label": "Schädelbasisfraktur",
+  "rubrics": {
+    "preferred": "Schädelbasisfraktur",
+    "inclusion": "Sinus:\n\t\t\t\tfrontalis",
+    "exclusion": "Os temporale, Pars squamosaS02.0"
+  },
+  "children": []
+}

@@ -1,0 +1,594 @@
+{
+  "code": "K80-K87",
+  "kind": "block",
+  "label": "Krankheiten der Gallenblase, der Gallenwege und des Pankreas",
+  "rubrics": {
+    "preferred": "Krankheiten der Gallenblase, der Gallenwege und des Pankreas"
+  },
+  "children": [
+    {
+      "code": "K80",
+      "kind": "category",
+      "label": "Cholelithiasis",
+      "rubrics": {
+        "preferred": "Cholelithiasis"
+      },
+      "children": [
+        {
+          "code": "K80.0",
+          "kind": "category",
+          "label": "Gallenblasenstein mit akuter Cholezystitis",
+          "rubrics": {
+            "preferred": "Gallenblasenstein mit akuter Cholezystitis",
+            "inclusion": "Jeder unter K80.2- aufgeführte Zustand mit akuter Cholezystitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K80.1",
+          "kind": "category",
+          "label": "Gallenblasenstein mit sonstiger Cholezystitis",
+          "rubrics": {
+            "preferred": "Gallenblasenstein mit sonstiger Cholezystitis",
+            "inclusion": "Jeder unter K80.2- aufgeführte Zustand mit Cholezystitis (chronisch)"
+          },
+          "children": []
+        },
+        {
+          "code": "K80.2",
+          "kind": "category",
+          "label": "Gallenblasenstein ohne Cholezystitis",
+          "rubrics": {
+            "preferred": "Gallenblasenstein ohne Cholezystitis",
+            "inclusion": "Gallenstein (eingeklemmt):\n\t\t\t\tGallenblase\n\t\t\t\tnicht näher bezeichnet oder ohne Cholezystitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K80.3",
+          "kind": "category",
+          "label": "Gallengangsstein mit Cholangitis",
+          "rubrics": {
+            "preferred": "Gallengangsstein mit Cholangitis",
+            "inclusion": "Jeder unter K80.5- aufgeführte Zustand mit Cholangitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K80.4",
+          "kind": "category",
+          "label": "Gallengangsstein mit Cholezystitis",
+          "rubrics": {
+            "preferred": "Gallengangsstein mit Cholezystitis",
+            "inclusion": "Jeder unter K80.5- aufgeführte Zustand mit Cholezystitis (mit Cholangitis)"
+          },
+          "children": []
+        },
+        {
+          "code": "K80.5",
+          "kind": "category",
+          "label": "Gallengangsstein ohne Cholangitis oder Cholezystitis",
+          "rubrics": {
+            "preferred": "Gallengangsstein ohne Cholangitis oder Cholezystitis",
+            "inclusion": "Leberkolik (rezidivierend)\n\t\t\t\tnicht näher bezeichnet oder ohne Cholangitis oder Cholezystitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K80.8",
+          "kind": "category",
+          "label": "Sonstige Cholelithiasis",
+          "rubrics": {
+            "preferred": "Sonstige Cholelithiasis"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K81",
+      "kind": "category",
+      "label": "Cholezystitis",
+      "rubrics": {
+        "preferred": "Cholezystitis",
+        "exclusion": "Mit CholelithiasisK80.-"
+      },
+      "children": [
+        {
+          "code": "K81.0",
+          "kind": "category",
+          "label": "Akute Cholezystitis",
+          "rubrics": {
+            "preferred": "Akute Cholezystitis",
+            "inclusion": "Gallenblasengangrän\n\t\t\t\tohne Gallenstein"
+          },
+          "children": []
+        },
+        {
+          "code": "K81.1",
+          "kind": "category",
+          "label": "Chronische Cholezystitis",
+          "rubrics": {
+            "preferred": "Chronische Cholezystitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K81.8",
+          "kind": "category",
+          "label": "Sonstige Formen der Cholezystitis",
+          "rubrics": {
+            "preferred": "Sonstige Formen der Cholezystitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K81.9",
+          "kind": "category",
+          "label": "Cholezystitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Cholezystitis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K82",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Gallenblase",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Gallenblase",
+        "exclusion": "Postcholezystektomie-SyndromK91.5"
+      },
+      "children": [
+        {
+          "code": "K82.0",
+          "kind": "category",
+          "label": "Verschluss der Gallenblase",
+          "rubrics": {
+            "preferred": "Verschluss der Gallenblase",
+            "inclusion": "Striktur\n\t\t\t\tDuctus cysticus oder Gallenblase, ohne Stein",
+            "exclusion": "Mit CholelithiasisK80.-"
+          },
+          "children": []
+        },
+        {
+          "code": "K82.1",
+          "kind": "category",
+          "label": "Hydrops der Gallenblase",
+          "rubrics": {
+            "preferred": "Hydrops der Gallenblase",
+            "inclusion": "Mukozele der Gallenblase"
+          },
+          "children": []
+        },
+        {
+          "code": "K82.2",
+          "kind": "category",
+          "label": "Perforation der Gallenblase",
+          "rubrics": {
+            "preferred": "Perforation der Gallenblase",
+            "inclusion": "Ruptur von Ductus cysticus oder Gallenblase"
+          },
+          "children": []
+        },
+        {
+          "code": "K82.3",
+          "kind": "category",
+          "label": "Gallenblasenfistel",
+          "rubrics": {
+            "preferred": "Gallenblasenfistel",
+            "inclusion": "Fistula:\n\t\t\t\tcholecystoduodenalis"
+          },
+          "children": []
+        },
+        {
+          "code": "K82.4",
+          "kind": "category",
+          "label": "Cholesteatose der Gallenblase",
+          "rubrics": {
+            "preferred": "Cholesteatose der Gallenblase",
+            "inclusion": "Stippchengallenblase"
+          },
+          "children": []
+        },
+        {
+          "code": "K82.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten der Gallenblase",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten der Gallenblase",
+            "inclusion": "Zyste\n\t\t\t\tDuctus cysticus oder Gallenblase"
+          },
+          "children": []
+        },
+        {
+          "code": "K82.9",
+          "kind": "category",
+          "label": "Krankheit der Gallenblase, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der Gallenblase, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K83",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Gallenwege",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Gallenwege",
+        "exclusion": "Postcholezystektomie-SyndromK91.5"
+      },
+      "children": [
+        {
+          "code": "K83.0",
+          "kind": "category",
+          "label": "Cholangitis",
+          "rubrics": {
+            "preferred": "Cholangitis",
+            "exclusion": "Chronische nichteitrige destruktive CholangitisK74.3"
+          },
+          "children": [
+            {
+              "code": "K83.00",
+              "kind": "category",
+              "label": "Primär sklerosierende Cholangitis",
+              "rubrics": {
+                "preferred": "Primär sklerosierende Cholangitis"
+              },
+              "children": []
+            },
+            {
+              "code": "K83.01",
+              "kind": "category",
+              "label": "Sekundär sklerosierende Cholangitis",
+              "rubrics": {
+                "preferred": "Sekundär sklerosierende Cholangitis"
+              },
+              "children": []
+            },
+            {
+              "code": "K83.08",
+              "kind": "category",
+              "label": "Sonstige Cholangitis",
+              "rubrics": {
+                "preferred": "Sonstige Cholangitis",
+                "inclusion": "Cholangitis:\n\t\t\t\tstenosierend"
+              },
+              "children": []
+            },
+            {
+              "code": "K83.09",
+              "kind": "category",
+              "label": "Cholangitis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Cholangitis, nicht näher bezeichnet",
+                "inclusion": "Cholangitis o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "K83.1",
+          "kind": "category",
+          "label": "Verschluss des Gallenganges",
+          "rubrics": {
+            "preferred": "Verschluss des Gallenganges",
+            "inclusion": "Striktur\n\t\t\t\tGallengang ohne Gallenstein",
+            "exclusion": "Mit CholelithiasisK80.-"
+          },
+          "children": []
+        },
+        {
+          "code": "K83.2",
+          "kind": "category",
+          "label": "Perforation des Gallenganges",
+          "rubrics": {
+            "preferred": "Perforation des Gallenganges",
+            "inclusion": "Ruptur des Gallenganges"
+          },
+          "children": []
+        },
+        {
+          "code": "K83.3",
+          "kind": "category",
+          "label": "Fistel des Gallenganges",
+          "rubrics": {
+            "preferred": "Fistel des Gallenganges",
+            "inclusion": "Choledochoduodenalfistel"
+          },
+          "children": []
+        },
+        {
+          "code": "K83.4",
+          "kind": "category",
+          "label": "Spasmus des Sphinkter Oddi",
+          "rubrics": {
+            "preferred": "Spasmus des Sphinkter Oddi"
+          },
+          "children": []
+        },
+        {
+          "code": "K83.5",
+          "kind": "category",
+          "label": "Biliäre Zyste",
+          "rubrics": {
+            "preferred": "Biliäre Zyste"
+          },
+          "children": []
+        },
+        {
+          "code": "K83.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten der Gallenwege",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten der Gallenwege",
+            "inclusion": "Ulkus\n\t\t\t\tGallengang"
+          },
+          "children": []
+        },
+        {
+          "code": "K83.9",
+          "kind": "category",
+          "label": "Krankheit der Gallenwege, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der Gallenwege, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K85",
+      "kind": "category",
+      "label": "Akute Pankreatitis",
+      "rubrics": {
+        "preferred": "Akute Pankreatitis"
+      },
+      "children": [
+        {
+          "code": "K85.0",
+          "kind": "category",
+          "label": "Idiopathische akute Pankreatitis",
+          "rubrics": {
+            "preferred": "Idiopathische akute Pankreatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K85.1",
+          "kind": "category",
+          "label": "Biliäre akute Pankreatitis",
+          "rubrics": {
+            "preferred": "Biliäre akute Pankreatitis",
+            "inclusion": "Gallenstein-Pankreatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K85.2",
+          "kind": "category",
+          "label": "Alkoholinduzierte akute Pankreatitis",
+          "rubrics": {
+            "preferred": "Alkoholinduzierte akute Pankreatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K85.3",
+          "kind": "category",
+          "label": "Medikamenten-induzierte akute Pankreatitis",
+          "rubrics": {
+            "preferred": "Medikamenten-induzierte akute Pankreatitis",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "K85.8",
+          "kind": "category",
+          "label": "Sonstige akute Pankreatitis",
+          "rubrics": {
+            "preferred": "Sonstige akute Pankreatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K85.9",
+          "kind": "category",
+          "label": "Akute Pankreatitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Akute Pankreatitis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K86",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Pankreas",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Pankreas",
+        "exclusion": "Zystische PankreasfibroseE84.-"
+      },
+      "children": [
+        {
+          "code": "K86.0",
+          "kind": "category",
+          "label": "Alkoholinduzierte chronische Pankreatitis",
+          "rubrics": {
+            "preferred": "Alkoholinduzierte chronische Pankreatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K86.1",
+          "kind": "category",
+          "label": "Sonstige chronische Pankreatitis",
+          "rubrics": {
+            "preferred": "Sonstige chronische Pankreatitis"
+          },
+          "children": [
+            {
+              "code": "K86.10",
+              "kind": "category",
+              "label": "Autoimmunpankreatitis [AIP]",
+              "rubrics": {
+                "preferred": "Autoimmunpankreatitis [AIP]",
+                "inclusion": "Autoimmune Pankreatitis"
+              },
+              "children": []
+            },
+            {
+              "code": "K86.11",
+              "kind": "category",
+              "label": "Hereditäre Pankreatitis",
+              "rubrics": {
+                "preferred": "Hereditäre Pankreatitis",
+                "inclusion": "Genetisch bedingte Pankreatitis"
+              },
+              "children": []
+            },
+            {
+              "code": "K86.18",
+              "kind": "category",
+              "label": "Sonstige chronische Pankreatitis",
+              "rubrics": {
+                "preferred": "Sonstige chronische Pankreatitis",
+                "inclusion": "Chronische Pankreatitis:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "K86.2",
+          "kind": "category",
+          "label": "Pankreaszyste",
+          "rubrics": {
+            "preferred": "Pankreaszyste"
+          },
+          "children": []
+        },
+        {
+          "code": "K86.3",
+          "kind": "category",
+          "label": "Pseudozyste des Pankreas",
+          "rubrics": {
+            "preferred": "Pseudozyste des Pankreas"
+          },
+          "children": []
+        },
+        {
+          "code": "K86.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Pankreas",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Pankreas"
+          },
+          "children": [
+            {
+              "code": "K86.80",
+              "kind": "category",
+              "label": "Pankreasgangstein ohne Pankreasgangstenose",
+              "rubrics": {
+                "preferred": "Pankreasgangstein ohne Pankreasgangstenose"
+              },
+              "children": []
+            },
+            {
+              "code": "K86.81",
+              "kind": "category",
+              "label": "Pankreasgangstein mit Pankreasgangstenose",
+              "rubrics": {
+                "preferred": "Pankreasgangstein mit Pankreasgangstenose"
+              },
+              "children": []
+            },
+            {
+              "code": "K86.82",
+              "kind": "category",
+              "label": "Sonstige Pankreasgangstenose",
+              "rubrics": {
+                "preferred": "Sonstige Pankreasgangstenose",
+                "inclusion": "Pankreasgangstenose o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "K86.83",
+              "kind": "category",
+              "label": "Exokrine Pankreasinsuffizienz",
+              "rubrics": {
+                "preferred": "Exokrine Pankreasinsuffizienz"
+              },
+              "children": []
+            },
+            {
+              "code": "K86.84",
+              "kind": "category",
+              "label": "Pankreatoduodenale Fistel",
+              "rubrics": {
+                "preferred": "Pankreatoduodenale Fistel"
+              },
+              "children": []
+            },
+            {
+              "code": "K86.88",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten des Pankreas",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten des Pankreas",
+                "inclusion": "Pankreasnekrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "K86.9",
+          "kind": "category",
+          "label": "Krankheit des Pankreas, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des Pankreas, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K87",
+      "kind": "category",
+      "label": "Krankheiten der Gallenblase, der Gallenwege und des Pankreas bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten der Gallenblase, der Gallenwege und des Pankreas bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "K87.0",
+          "kind": "category",
+          "label": "Krankheiten der Gallenblase und der Gallenwege bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten der Gallenblase und der Gallenwege bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "K87.1",
+          "kind": "category",
+          "label": "Krankheiten des Pankreas bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten des Pankreas bei anderenorts klassifizierten Krankheiten",
+            "inclusion": "Pankreatitis bei ZytomegalieB25.2"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

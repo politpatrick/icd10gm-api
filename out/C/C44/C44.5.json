@@ -1,0 +1,34 @@
+{
+  "code": "C44.5",
+  "kind": "category",
+  "label": "Haut des Rumpfes",
+  "rubrics": {
+    "preferredLong": "Sonstige bösartige Neubildungen: Haut des Rumpfes",
+    "preferred": "Haut des Rumpfes"
+  },
+  "children": [
+    {
+      "code": "C44.50",
+      "kind": "category",
+      "label": "Perianalhaut",
+      "rubrics": {
+        "inclusion": "Anus:\n\t\t\t\tRand (-Gebiet)",
+        "exclusion": "Anus o.n.A.C21.0",
+        "preferred": "Perianalhaut",
+        "preferredLong": "Sonstige bösartige Neubildungen der Haut: Perianalhaut"
+      },
+      "children": []
+    },
+    {
+      "code": "C44.59",
+      "kind": "category",
+      "label": "Haut sonstiger und nicht näher bezeichneter Teile des Rumpfes",
+      "rubrics": {
+        "preferred": "Haut sonstiger und nicht näher bezeichneter Teile des Rumpfes",
+        "inclusion": "Haut der Brustdrüse",
+        "preferredLong": "Sonstige bösartige Neubildungen der Haut: Haut sonstiger und nicht näher bezeichneter Teile des Rumpfes"
+      },
+      "children": []
+    }
+  ]
+}

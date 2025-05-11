@@ -1,0 +1,677 @@
+{
+  "code": "L20-L30",
+  "kind": "block",
+  "label": "Dermatitis und Ekzem",
+  "rubrics": {
+    "preferred": "Dermatitis und Ekzem",
+    "note": "In diesem Abschnitt sind die Begriffe Dermatitis und Ekzem gleichbedeutend und austauschbar zu benutzen.",
+    "exclusion": "XerodermieL85.3"
+  },
+  "children": [
+    {
+      "code": "L20",
+      "kind": "category",
+      "label": "Atopisches [endogenes] Ekzem",
+      "rubrics": {
+        "preferred": "Atopisches [endogenes] Ekzem",
+        "exclusion": "Neurodermitis chronica circumscriptaL28.0"
+      },
+      "children": [
+        {
+          "code": "L20.0",
+          "kind": "category",
+          "label": "Prurigo Besnier",
+          "rubrics": {
+            "preferred": "Prurigo Besnier"
+          },
+          "children": []
+        },
+        {
+          "code": "L20.8",
+          "kind": "category",
+          "label": "Sonstiges atopisches [endogenes] Ekzem",
+          "rubrics": {
+            "preferred": "Sonstiges atopisches [endogenes] Ekzem",
+            "inclusion": "Neurodermitis:\n\t\t\t\tdiffusa"
+          },
+          "children": []
+        },
+        {
+          "code": "L20.9",
+          "kind": "category",
+          "label": "Atopisches [endogenes] Ekzem, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Atopisches [endogenes] Ekzem, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L21",
+      "kind": "category",
+      "label": "Seborrhoisches Ekzem",
+      "rubrics": {
+        "preferred": "Seborrhoisches Ekzem",
+        "inclusion": "Seborrhoische Dermatitis",
+        "exclusion": "Infektiöse DermatitisL30.3"
+      },
+      "children": [
+        {
+          "code": "L21.0",
+          "kind": "category",
+          "label": "Seborrhoea capitis",
+          "rubrics": {
+            "preferred": "Seborrhoea capitis",
+            "inclusion": "Milchschorf, seborrhoisch"
+          },
+          "children": []
+        },
+        {
+          "code": "L21.1",
+          "kind": "category",
+          "label": "Seborrhoisches Ekzem der Kinder",
+          "rubrics": {
+            "preferred": "Seborrhoisches Ekzem der Kinder"
+          },
+          "children": []
+        },
+        {
+          "code": "L21.8",
+          "kind": "category",
+          "label": "Sonstiges seborrhoisches Ekzem",
+          "rubrics": {
+            "preferred": "Sonstiges seborrhoisches Ekzem"
+          },
+          "children": []
+        },
+        {
+          "code": "L21.9",
+          "kind": "category",
+          "label": "Seborrhoisches Ekzem, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Seborrhoisches Ekzem, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L22",
+      "kind": "category",
+      "label": "Windeldermatitis",
+      "rubrics": {
+        "preferred": "Windeldermatitis",
+        "inclusion": "Windel-:\n\t\t\t\tErythem"
+      },
+      "children": []
+    },
+    {
+      "code": "L23",
+      "kind": "category",
+      "label": "Allergische Kontaktdermatitis",
+      "rubrics": {
+        "preferred": "Allergische Kontaktdermatitis",
+        "inclusion": "Allergisches Kontaktekzem",
+        "exclusion": "Krankheiten der Haut und der Unterhaut durch StrahleneinwirkungL55-L59"
+      },
+      "children": [
+        {
+          "code": "L23.0",
+          "kind": "category",
+          "label": "Allergische Kontaktdermatitis durch Metalle",
+          "rubrics": {
+            "preferred": "Allergische Kontaktdermatitis durch Metalle",
+            "inclusion": "Nickel"
+          },
+          "children": []
+        },
+        {
+          "code": "L23.1",
+          "kind": "category",
+          "label": "Allergische Kontaktdermatitis durch Klebstoffe",
+          "rubrics": {
+            "preferred": "Allergische Kontaktdermatitis durch Klebstoffe"
+          },
+          "children": []
+        },
+        {
+          "code": "L23.2",
+          "kind": "category",
+          "label": "Allergische Kontaktdermatitis durch Kosmetika",
+          "rubrics": {
+            "preferred": "Allergische Kontaktdermatitis durch Kosmetika"
+          },
+          "children": []
+        },
+        {
+          "code": "L23.3",
+          "kind": "category",
+          "label": "Allergische Kontaktdermatitis durch Drogen oder Arzneimittel bei Hautkontakt",
+          "rubrics": {
+            "preferred": "Allergische Kontaktdermatitis durch Drogen oder Arzneimittel bei Hautkontakt",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+            "exclusion": "Dermatitis durch eingenommene Drogen oder ArzneimittelL27.0-L27.1"
+          },
+          "children": []
+        },
+        {
+          "code": "L23.4",
+          "kind": "category",
+          "label": "Allergische Kontaktdermatitis durch Farbstoffe",
+          "rubrics": {
+            "preferred": "Allergische Kontaktdermatitis durch Farbstoffe"
+          },
+          "children": []
+        },
+        {
+          "code": "L23.5",
+          "kind": "category",
+          "label": "Allergische Kontaktdermatitis durch sonstige chemische Produkte",
+          "rubrics": {
+            "preferred": "Allergische Kontaktdermatitis durch sonstige chemische Produkte",
+            "inclusion": "Zement"
+          },
+          "children": []
+        },
+        {
+          "code": "L23.6",
+          "kind": "category",
+          "label": "Allergische Kontaktdermatitis durch Nahrungsmittel bei Hautkontakt",
+          "rubrics": {
+            "preferred": "Allergische Kontaktdermatitis durch Nahrungsmittel bei Hautkontakt",
+            "exclusion": "Dermatitis durch aufgenommene NahrungsmittelL27.2"
+          },
+          "children": []
+        },
+        {
+          "code": "L23.7",
+          "kind": "category",
+          "label": "Allergische Kontaktdermatitis durch Pflanzen, ausgenommen Nahrungsmittel",
+          "rubrics": {
+            "preferred": "Allergische Kontaktdermatitis durch Pflanzen, ausgenommen Nahrungsmittel"
+          },
+          "children": []
+        },
+        {
+          "code": "L23.8",
+          "kind": "category",
+          "label": "Allergische Kontaktdermatitis durch sonstige Agenzien",
+          "rubrics": {
+            "preferred": "Allergische Kontaktdermatitis durch sonstige Agenzien"
+          },
+          "children": []
+        },
+        {
+          "code": "L23.9",
+          "kind": "category",
+          "label": "Allergische Kontaktdermatitis, nicht näher bezeichnete Ursache",
+          "rubrics": {
+            "preferred": "Allergische Kontaktdermatitis, nicht näher bezeichnete Ursache",
+            "inclusion": "Allergisches Kontaktekzem o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L24",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis",
+        "inclusion": "Toxisches (irritatives) Kontaktekzem",
+        "exclusion": "Krankheiten der Haut und der Unterhaut durch StrahleneinwirkungL55-L59"
+      },
+      "children": [
+        {
+          "code": "L24.0",
+          "kind": "category",
+          "label": "Toxische Kontaktdermatitis durch Detergenzien",
+          "rubrics": {
+            "preferred": "Toxische Kontaktdermatitis durch Detergenzien"
+          },
+          "children": []
+        },
+        {
+          "code": "L24.1",
+          "kind": "category",
+          "label": "Toxische Kontaktdermatitis durch Öle und Fette",
+          "rubrics": {
+            "preferred": "Toxische Kontaktdermatitis durch Öle und Fette"
+          },
+          "children": []
+        },
+        {
+          "code": "L24.2",
+          "kind": "category",
+          "label": "Toxische Kontaktdermatitis durch Lösungsmittel",
+          "rubrics": {
+            "preferred": "Toxische Kontaktdermatitis durch Lösungsmittel",
+            "inclusion": "Lösungsmittel:\n\t\t\t\tKohlenwasserstoff"
+          },
+          "children": []
+        },
+        {
+          "code": "L24.3",
+          "kind": "category",
+          "label": "Toxische Kontaktdermatitis durch Kosmetika",
+          "rubrics": {
+            "preferred": "Toxische Kontaktdermatitis durch Kosmetika"
+          },
+          "children": []
+        },
+        {
+          "code": "L24.4",
+          "kind": "category",
+          "label": "Toxische Kontaktdermatitis durch Drogen oder Arzneimittel bei Hautkontakt",
+          "rubrics": {
+            "preferred": "Toxische Kontaktdermatitis durch Drogen oder Arzneimittel bei Hautkontakt",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+            "exclusion": "Dermatitis durch eingenommene Drogen oder ArzneimittelL27.0-L27.1"
+          },
+          "children": []
+        },
+        {
+          "code": "L24.5",
+          "kind": "category",
+          "label": "Toxische Kontaktdermatitis durch sonstige chemische Produkte",
+          "rubrics": {
+            "preferred": "Toxische Kontaktdermatitis durch sonstige chemische Produkte",
+            "inclusion": "Zement"
+          },
+          "children": []
+        },
+        {
+          "code": "L24.6",
+          "kind": "category",
+          "label": "Toxische Kontaktdermatitis durch Nahrungsmittel bei Hautkontakt",
+          "rubrics": {
+            "preferred": "Toxische Kontaktdermatitis durch Nahrungsmittel bei Hautkontakt",
+            "exclusion": "Dermatitis durch aufgenommene NahrungsmittelL27.2"
+          },
+          "children": []
+        },
+        {
+          "code": "L24.7",
+          "kind": "category",
+          "label": "Toxische Kontaktdermatitis durch Pflanzen, ausgenommen Nahrungsmittel",
+          "rubrics": {
+            "preferred": "Toxische Kontaktdermatitis durch Pflanzen, ausgenommen Nahrungsmittel"
+          },
+          "children": []
+        },
+        {
+          "code": "L24.8",
+          "kind": "category",
+          "label": "Toxische Kontaktdermatitis durch sonstige Agenzien",
+          "rubrics": {
+            "preferred": "Toxische Kontaktdermatitis durch sonstige Agenzien",
+            "inclusion": "Farbstoffe"
+          },
+          "children": []
+        },
+        {
+          "code": "L24.9",
+          "kind": "category",
+          "label": "Toxische Kontaktdermatitis, nicht näher bezeichnete Ursache",
+          "rubrics": {
+            "preferred": "Toxische Kontaktdermatitis, nicht näher bezeichnete Ursache",
+            "inclusion": "Toxisches Kontaktekzem o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L25",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Kontaktdermatitis",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Kontaktdermatitis",
+        "inclusion": "Nicht näher bezeichnetes Kontaktekzem",
+        "exclusion": "Krankheiten der Haut und der Unterhaut durch StrahleneinwirkungL55-L59"
+      },
+      "children": [
+        {
+          "code": "L25.0",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Kontaktdermatitis durch Kosmetika",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Kontaktdermatitis durch Kosmetika"
+          },
+          "children": []
+        },
+        {
+          "code": "L25.1",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Kontaktdermatitis durch Drogen oder Arzneimittel bei Hautkontakt",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Kontaktdermatitis durch Drogen oder Arzneimittel bei Hautkontakt",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen",
+            "exclusion": "Dermatitis durch eingenommene Drogen oder ArzneimittelL27.0-L27.1"
+          },
+          "children": []
+        },
+        {
+          "code": "L25.2",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Kontaktdermatitis durch Farbstoffe",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Kontaktdermatitis durch Farbstoffe"
+          },
+          "children": []
+        },
+        {
+          "code": "L25.3",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Kontaktdermatitis durch sonstige chemische Produkte",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Kontaktdermatitis durch sonstige chemische Produkte",
+            "inclusion": "Zement"
+          },
+          "children": []
+        },
+        {
+          "code": "L25.4",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Kontaktdermatitis durch Nahrungsmittel bei Hautkontakt",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Kontaktdermatitis durch Nahrungsmittel bei Hautkontakt",
+            "exclusion": "Dermatitis durch aufgenommene NahrungsmittelL27.2"
+          },
+          "children": []
+        },
+        {
+          "code": "L25.5",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Kontaktdermatitis durch Pflanzen, ausgenommen Nahrungsmittel",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Kontaktdermatitis durch Pflanzen, ausgenommen Nahrungsmittel"
+          },
+          "children": []
+        },
+        {
+          "code": "L25.8",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Kontaktdermatitis durch sonstige Agenzien",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Kontaktdermatitis durch sonstige Agenzien"
+          },
+          "children": []
+        },
+        {
+          "code": "L25.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Kontaktdermatitis, nicht näher bezeichnete Ursache",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Kontaktdermatitis, nicht näher bezeichnete Ursache",
+            "inclusion": "Kontakt-:\n\t\t\t\tEkzem (berufsbedingt) o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L26",
+      "kind": "category",
+      "label": "Exfoliative Dermatitis",
+      "rubrics": {
+        "preferred": "Exfoliative Dermatitis",
+        "inclusion": "Pityriasis rubra [Hebra]",
+        "exclusion": "Dermatitis exfoliativa neonatorum [Ritter (-von-Rittershain)]L00.-"
+      },
+      "children": []
+    },
+    {
+      "code": "L27",
+      "kind": "category",
+      "label": "Dermatitis durch oral, enteral oder parenteral aufgenommene Substanzen",
+      "rubrics": {
+        "preferred": "Dermatitis durch oral, enteral oder parenteral aufgenommene Substanzen",
+        "exclusion": "UrtikariaL50.-"
+      },
+      "children": [
+        {
+          "code": "L27.0",
+          "kind": "category",
+          "label": "Generalisierte Hauteruption durch Drogen oder Arzneimittel",
+          "rubrics": {
+            "preferred": "Generalisierte Hauteruption durch Drogen oder Arzneimittel",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "L27.1",
+          "kind": "category",
+          "label": "Lokalisierte Hauteruption durch Drogen oder Arzneimittel",
+          "rubrics": {
+            "preferred": "Lokalisierte Hauteruption durch Drogen oder Arzneimittel",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "L27.2",
+          "kind": "category",
+          "label": "Dermatitis durch aufgenommene Nahrungsmittel",
+          "rubrics": {
+            "preferred": "Dermatitis durch aufgenommene Nahrungsmittel",
+            "exclusion": "Dermatitis durch Nahrungsmittel bei HautkontaktL23.6L24.6L25.4"
+          },
+          "children": []
+        },
+        {
+          "code": "L27.8",
+          "kind": "category",
+          "label": "Dermatitis durch sonstige oral, enteral oder parenteral aufgenommene Substanzen",
+          "rubrics": {
+            "preferred": "Dermatitis durch sonstige oral, enteral oder parenteral aufgenommene Substanzen"
+          },
+          "children": []
+        },
+        {
+          "code": "L27.9",
+          "kind": "category",
+          "label": "Dermatitis durch nicht näher bezeichnete oral, enteral oder parenteral aufgenommene Substanz",
+          "rubrics": {
+            "preferred": "Dermatitis durch nicht näher bezeichnete oral, enteral oder parenteral aufgenommene Substanz"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L28",
+      "kind": "category",
+      "label": "Lichen simplex chronicus und Prurigo",
+      "rubrics": {
+        "preferred": "Lichen simplex chronicus und Prurigo"
+      },
+      "children": [
+        {
+          "code": "L28.0",
+          "kind": "category",
+          "label": "Lichen simplex chronicus [Vidal]",
+          "rubrics": {
+            "preferred": "Lichen simplex chronicus [Vidal]",
+            "inclusion": "Neurodermitis chronica circumscripta"
+          },
+          "children": []
+        },
+        {
+          "code": "L28.1",
+          "kind": "category",
+          "label": "Prurigo nodularis",
+          "rubrics": {
+            "preferred": "Prurigo nodularis"
+          },
+          "children": []
+        },
+        {
+          "code": "L28.2",
+          "kind": "category",
+          "label": "Sonstige Prurigo",
+          "rubrics": {
+            "preferred": "Sonstige Prurigo",
+            "inclusion": "Urticaria papulosa"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L29",
+      "kind": "category",
+      "label": "Pruritus",
+      "rubrics": {
+        "preferred": "Pruritus",
+        "exclusion": "Psychogener PruritusF45.8"
+      },
+      "children": [
+        {
+          "code": "L29.0",
+          "kind": "category",
+          "label": "Pruritus ani",
+          "rubrics": {
+            "preferred": "Pruritus ani"
+          },
+          "children": []
+        },
+        {
+          "code": "L29.1",
+          "kind": "category",
+          "label": "Pruritus scrotalis",
+          "rubrics": {
+            "preferred": "Pruritus scrotalis"
+          },
+          "children": []
+        },
+        {
+          "code": "L29.2",
+          "kind": "category",
+          "label": "Pruritus vulvae",
+          "rubrics": {
+            "preferred": "Pruritus vulvae"
+          },
+          "children": []
+        },
+        {
+          "code": "L29.3",
+          "kind": "category",
+          "label": "Pruritus anogenitalis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Pruritus anogenitalis, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "L29.8",
+          "kind": "category",
+          "label": "Sonstiger Pruritus",
+          "rubrics": {
+            "preferred": "Sonstiger Pruritus"
+          },
+          "children": []
+        },
+        {
+          "code": "L29.9",
+          "kind": "category",
+          "label": "Pruritus, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Pruritus, nicht näher bezeichnet",
+            "inclusion": "Juckreiz o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L30",
+      "kind": "category",
+      "label": "Sonstige Dermatitis",
+      "rubrics": {
+        "preferred": "Sonstige Dermatitis",
+        "exclusion": "XerodermieL85.3"
+      },
+      "children": [
+        {
+          "code": "L30.0",
+          "kind": "category",
+          "label": "Nummuläres Ekzem",
+          "rubrics": {
+            "preferred": "Nummuläres Ekzem"
+          },
+          "children": []
+        },
+        {
+          "code": "L30.1",
+          "kind": "category",
+          "label": "Dyshidrosis [Pompholyx]",
+          "rubrics": {
+            "preferred": "Dyshidrosis [Pompholyx]"
+          },
+          "children": []
+        },
+        {
+          "code": "L30.2",
+          "kind": "category",
+          "label": "Autosensibilisierung der Haut [Id-Reaktion]",
+          "rubrics": {
+            "preferred": "Autosensibilisierung der Haut [Id-Reaktion]",
+            "inclusion": "Ekzematid"
+          },
+          "children": []
+        },
+        {
+          "code": "L30.3",
+          "kind": "category",
+          "label": "Ekzematoide Dermatitis",
+          "rubrics": {
+            "preferred": "Ekzematoide Dermatitis",
+            "inclusion": "Superinfiziertes Ekzem"
+          },
+          "children": []
+        },
+        {
+          "code": "L30.4",
+          "kind": "category",
+          "label": "Intertriginöses Ekzem",
+          "rubrics": {
+            "preferred": "Intertriginöses Ekzem"
+          },
+          "children": []
+        },
+        {
+          "code": "L30.5",
+          "kind": "category",
+          "label": "Pityriasis alba faciei",
+          "rubrics": {
+            "preferred": "Pityriasis alba faciei"
+          },
+          "children": []
+        },
+        {
+          "code": "L30.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Dermatitis",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Dermatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "L30.9",
+          "kind": "category",
+          "label": "Dermatitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Dermatitis, nicht näher bezeichnet",
+            "inclusion": "Ekzem o.n.A."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

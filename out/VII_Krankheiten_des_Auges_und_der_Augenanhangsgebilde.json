@@ -1,0 +1,3198 @@
+{
+  "code": "VII",
+  "kind": "chapter",
+  "label": "Krankheiten des Auges und der Augenanhangsgebilde",
+  "rubrics": {
+    "preferred": "Krankheiten des Auges und der Augenanhangsgebilde",
+    "exclusion": "Symptome und abnorme klinische und Laborbefunde, die anderenorts nicht klassifiziert sindR00-R99"
+  },
+  "children": [
+    {
+      "code": "H00-H06",
+      "kind": "block",
+      "label": "Affektionen des Augenlides, des Tränenapparates und der Orbita",
+      "rubrics": {
+        "preferred": "Affektionen des Augenlides, des Tränenapparates und der Orbita"
+      },
+      "children": [
+        {
+          "code": "H00",
+          "kind": "category",
+          "label": "Hordeolum und Chalazion",
+          "rubrics": {
+            "preferred": "Hordeolum und Chalazion"
+          },
+          "children": [
+            {
+              "code": "H00.0",
+              "kind": "category",
+              "label": "Hordeolum und sonstige tiefe Entzündung des Augenlides",
+              "rubrics": {
+                "preferred": "Hordeolum und sonstige tiefe Entzündung des Augenlides",
+                "inclusion": "Gerstenkorn\n\t\t\t\tAugenlid"
+              },
+              "children": []
+            },
+            {
+              "code": "H00.1",
+              "kind": "category",
+              "label": "Chalazion",
+              "rubrics": {
+                "preferred": "Chalazion",
+                "inclusion": "Hagelkorn"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H01",
+          "kind": "category",
+          "label": "Sonstige Entzündung des Augenlides",
+          "rubrics": {
+            "preferred": "Sonstige Entzündung des Augenlides"
+          },
+          "children": [
+            {
+              "code": "H01.0",
+              "kind": "category",
+              "label": "Blepharitis",
+              "rubrics": {
+                "preferred": "Blepharitis",
+                "exclusion": "BlepharokonjunktivitisH10.5"
+              },
+              "children": []
+            },
+            {
+              "code": "H01.1",
+              "kind": "category",
+              "label": "Nichtinfektiöse Dermatosen des Augenlides",
+              "rubrics": {
+                "preferred": "Nichtinfektiöse Dermatosen des Augenlides",
+                "inclusion": "Xeroderma\n\t\t\t\tAugenlid"
+              },
+              "children": []
+            },
+            {
+              "code": "H01.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Entzündungen des Augenlides",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Entzündungen des Augenlides"
+              },
+              "children": []
+            },
+            {
+              "code": "H01.9",
+              "kind": "category",
+              "label": "Entzündung des Augenlides, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Entzündung des Augenlides, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H02",
+          "kind": "category",
+          "label": "Sonstige Affektionen des Augenlides",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen des Augenlides",
+            "exclusion": "Angeborene Fehlbildungen des AugenlidesQ10.0-Q10.3"
+          },
+          "children": [
+            {
+              "code": "H02.0",
+              "kind": "category",
+              "label": "Entropium und Trichiasis des Augenlides",
+              "rubrics": {
+                "preferred": "Entropium und Trichiasis des Augenlides"
+              },
+              "children": []
+            },
+            {
+              "code": "H02.1",
+              "kind": "category",
+              "label": "Ektropium des Augenlides",
+              "rubrics": {
+                "preferred": "Ektropium des Augenlides"
+              },
+              "children": []
+            },
+            {
+              "code": "H02.2",
+              "kind": "category",
+              "label": "Lagophthalmus",
+              "rubrics": {
+                "preferred": "Lagophthalmus"
+              },
+              "children": []
+            },
+            {
+              "code": "H02.3",
+              "kind": "category",
+              "label": "Blepharochalasis",
+              "rubrics": {
+                "preferred": "Blepharochalasis"
+              },
+              "children": []
+            },
+            {
+              "code": "H02.4",
+              "kind": "category",
+              "label": "Ptosis des Augenlides",
+              "rubrics": {
+                "preferred": "Ptosis des Augenlides"
+              },
+              "children": []
+            },
+            {
+              "code": "H02.5",
+              "kind": "category",
+              "label": "Sonstige Affektionen mit Auswirkung auf die Augenlidfunktion",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen mit Auswirkung auf die Augenlidfunktion",
+                "inclusion": "Lidretraktion",
+                "exclusion": "Tic (-Störung):\n\t\t\t\tpsychogenF95.-"
+              },
+              "children": []
+            },
+            {
+              "code": "H02.6",
+              "kind": "category",
+              "label": "Xanthelasma palpebrarum",
+              "rubrics": {
+                "preferred": "Xanthelasma palpebrarum"
+              },
+              "children": []
+            },
+            {
+              "code": "H02.7",
+              "kind": "category",
+              "label": "Sonstige degenerative Affektionen des Augenlides und der Umgebung des Auges",
+              "rubrics": {
+                "preferred": "Sonstige degenerative Affektionen des Augenlides und der Umgebung des Auges",
+                "inclusion": "Vitiligo\n\t\t\t\tAugenlid"
+              },
+              "children": []
+            },
+            {
+              "code": "H02.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Affektionen des Augenlides",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Affektionen des Augenlides",
+                "inclusion": "Verbliebener Fremdkörper im Augenlid"
+              },
+              "children": []
+            },
+            {
+              "code": "H02.9",
+              "kind": "category",
+              "label": "Affektion des Augenlides, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion des Augenlides, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H03",
+          "kind": "category",
+          "label": "Affektionen des Augenlides bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Affektionen des Augenlides bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H03.0",
+              "kind": "category",
+              "label": "Parasitenbefall des Augenlides bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Parasitenbefall des Augenlides bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Parasitenbefall des Augenlides bei:\n\t\t\t\tPhthiriasisB85.3"
+              },
+              "children": []
+            },
+            {
+              "code": "H03.1",
+              "kind": "category",
+              "label": "Beteiligung des Augenlides bei sonstigen anderenorts klassifizierten Infektionskrankheiten",
+              "rubrics": {
+                "preferred": "Beteiligung des Augenlides bei sonstigen anderenorts klassifizierten Infektionskrankheiten",
+                "inclusion": "Beteiligung des Augenlides bei:\n\t\t\t\tZosterB02.3"
+              },
+              "children": []
+            },
+            {
+              "code": "H03.8",
+              "kind": "category",
+              "label": "Beteiligung des Augenlides bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Beteiligung des Augenlides bei sonstigen anderenorts klassifizierten Krankheiten",
+                "inclusion": "Beteiligung des Augenlides bei ImpetigoL01.0"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H04",
+          "kind": "category",
+          "label": "Affektionen des Tränenapparates",
+          "rubrics": {
+            "preferred": "Affektionen des Tränenapparates",
+            "exclusion": "Angeborene Fehlbildungen des TränenapparatesQ10.4-Q10.6"
+          },
+          "children": [
+            {
+              "code": "H04.0",
+              "kind": "category",
+              "label": "Dakryoadenitis",
+              "rubrics": {
+                "preferred": "Dakryoadenitis",
+                "inclusion": "Chronische Vergrößerung der Tränendrüse"
+              },
+              "children": []
+            },
+            {
+              "code": "H04.1",
+              "kind": "category",
+              "label": "Sonstige Affektionen der Tränendrüse",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen der Tränendrüse",
+                "inclusion": "Zyste"
+              },
+              "children": []
+            },
+            {
+              "code": "H04.2",
+              "kind": "category",
+              "label": "Epiphora",
+              "rubrics": {
+                "preferred": "Epiphora"
+              },
+              "children": []
+            },
+            {
+              "code": "H04.3",
+              "kind": "category",
+              "label": "Akute und nicht näher bezeichnete Entzündung der Tränenwege",
+              "rubrics": {
+                "preferred": "Akute und nicht näher bezeichnete Entzündung der Tränenwege",
+                "inclusion": "Peridakryozystitis\n\t\t\t\takut, subakut oder nicht näher bezeichnet",
+                "exclusion": "Dakryozystitis beim NeugeborenenP39.1"
+              },
+              "children": []
+            },
+            {
+              "code": "H04.4",
+              "kind": "category",
+              "label": "Chronische Entzündung der Tränenwege",
+              "rubrics": {
+                "preferred": "Chronische Entzündung der Tränenwege",
+                "inclusion": "Mukozele des Tränenapparates\n\t\t\t\tchronisch"
+              },
+              "children": []
+            },
+            {
+              "code": "H04.5",
+              "kind": "category",
+              "label": "Stenose und Insuffizienz der Tränenwege",
+              "rubrics": {
+                "preferred": "Stenose und Insuffizienz der Tränenwege",
+                "inclusion": "Stenose:\n\t\t\t\tTränensack"
+              },
+              "children": []
+            },
+            {
+              "code": "H04.6",
+              "kind": "category",
+              "label": "Sonstige Veränderungen an den Tränenwegen",
+              "rubrics": {
+                "preferred": "Sonstige Veränderungen an den Tränenwegen",
+                "inclusion": "Fistel"
+              },
+              "children": []
+            },
+            {
+              "code": "H04.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen des Tränenapparates",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen des Tränenapparates"
+              },
+              "children": []
+            },
+            {
+              "code": "H04.9",
+              "kind": "category",
+              "label": "Affektion des Tränenapparates, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion des Tränenapparates, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H05",
+          "kind": "category",
+          "label": "Affektionen der Orbita",
+          "rubrics": {
+            "preferred": "Affektionen der Orbita",
+            "exclusion": "Angeborene Fehlbildung der OrbitaQ10.7"
+          },
+          "children": [
+            {
+              "code": "H05.0",
+              "kind": "category",
+              "label": "Akute Entzündung der Orbita",
+              "rubrics": {
+                "preferred": "Akute Entzündung der Orbita",
+                "inclusion": "Tenonitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H05.1",
+              "kind": "category",
+              "label": "Chronische entzündliche Affektionen der Orbita",
+              "rubrics": {
+                "preferred": "Chronische entzündliche Affektionen der Orbita",
+                "inclusion": "Granulom der Orbita"
+              },
+              "children": []
+            },
+            {
+              "code": "H05.2",
+              "kind": "category",
+              "label": "Exophthalmus",
+              "rubrics": {
+                "preferred": "Exophthalmus",
+                "inclusion": "Lageveränderung des Augapfels (lateral) o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "H05.3",
+              "kind": "category",
+              "label": "Deformation der Orbita",
+              "rubrics": {
+                "preferred": "Deformation der Orbita",
+                "inclusion": "Exostose\n\t\t\t\tOrbita"
+              },
+              "children": []
+            },
+            {
+              "code": "H05.4",
+              "kind": "category",
+              "label": "Enophthalmus",
+              "rubrics": {
+                "preferred": "Enophthalmus"
+              },
+              "children": []
+            },
+            {
+              "code": "H05.5",
+              "kind": "category",
+              "label": "Verbliebener (alter) Fremdkörper nach perforierender Verletzung der Orbita",
+              "rubrics": {
+                "preferred": "Verbliebener (alter) Fremdkörper nach perforierender Verletzung der Orbita",
+                "inclusion": "Retrobulbärer Fremdkörper"
+              },
+              "children": []
+            },
+            {
+              "code": "H05.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen der Orbita",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen der Orbita",
+                "inclusion": "Zyste der Orbita"
+              },
+              "children": []
+            },
+            {
+              "code": "H05.9",
+              "kind": "category",
+              "label": "Affektion der Orbita, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion der Orbita, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H06",
+          "kind": "category",
+          "label": "Affektionen des Tränenapparates und der Orbita bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Affektionen des Tränenapparates und der Orbita bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H06.0",
+              "kind": "category",
+              "label": "Affektionen des Tränenapparates bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Affektionen des Tränenapparates bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            },
+            {
+              "code": "H06.1",
+              "kind": "category",
+              "label": "Parasitenbefall der Orbita bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Parasitenbefall der Orbita bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Myiasis der OrbitaB87.2"
+              },
+              "children": []
+            },
+            {
+              "code": "H06.2",
+              "kind": "category",
+              "label": "Exophthalmus bei Funktionsstörung der SchilddrüseE05.-",
+              "rubrics": {
+                "preferred": "Exophthalmus bei Funktionsstörung der SchilddrüseE05.-"
+              },
+              "children": []
+            },
+            {
+              "code": "H06.3",
+              "kind": "category",
+              "label": "Sonstige Affektionen der Orbita bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen der Orbita bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H10-H13",
+      "kind": "block",
+      "label": "Affektionen der Konjunktiva",
+      "rubrics": {
+        "preferred": "Affektionen der Konjunktiva"
+      },
+      "children": [
+        {
+          "code": "H10",
+          "kind": "category",
+          "label": "Konjunktivitis",
+          "rubrics": {
+            "preferred": "Konjunktivitis",
+            "exclusion": "KeratokonjunktivitisH16.2"
+          },
+          "children": [
+            {
+              "code": "H10.0",
+              "kind": "category",
+              "label": "Mukopurulente Konjunktivitis",
+              "rubrics": {
+                "preferred": "Mukopurulente Konjunktivitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H10.1",
+              "kind": "category",
+              "label": "Akute allergische Konjunktivitis",
+              "rubrics": {
+                "preferred": "Akute allergische Konjunktivitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H10.2",
+              "kind": "category",
+              "label": "Sonstige akute Konjunktivitis",
+              "rubrics": {
+                "preferred": "Sonstige akute Konjunktivitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H10.3",
+              "kind": "category",
+              "label": "Akute Konjunktivitis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Akute Konjunktivitis, nicht näher bezeichnet",
+                "exclusion": "Ophthalmia neonatorum o.n.A.P39.1"
+              },
+              "children": []
+            },
+            {
+              "code": "H10.4",
+              "kind": "category",
+              "label": "Chronische Konjunktivitis",
+              "rubrics": {
+                "preferred": "Chronische Konjunktivitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H10.5",
+              "kind": "category",
+              "label": "Blepharokonjunktivitis",
+              "rubrics": {
+                "preferred": "Blepharokonjunktivitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H10.8",
+              "kind": "category",
+              "label": "Sonstige Konjunktivitis",
+              "rubrics": {
+                "preferred": "Sonstige Konjunktivitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H10.9",
+              "kind": "category",
+              "label": "Konjunktivitis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Konjunktivitis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H11",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Konjunktiva",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Konjunktiva",
+            "exclusion": "KeratokonjunktivitisH16.2"
+          },
+          "children": [
+            {
+              "code": "H11.0",
+              "kind": "category",
+              "label": "Pterygium",
+              "rubrics": {
+                "preferred": "Pterygium",
+                "exclusion": "PseudopterygiumH11.8"
+              },
+              "children": []
+            },
+            {
+              "code": "H11.1",
+              "kind": "category",
+              "label": "Konjunktivadegeneration und -einlagerungen",
+              "rubrics": {
+                "preferred": "Konjunktivadegeneration und -einlagerungen",
+                "inclusion": "Xerosis conjunctivae o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "H11.2",
+              "kind": "category",
+              "label": "Narben der Konjunktiva",
+              "rubrics": {
+                "preferred": "Narben der Konjunktiva",
+                "inclusion": "Symblepharon"
+              },
+              "children": []
+            },
+            {
+              "code": "H11.3",
+              "kind": "category",
+              "label": "Blutung der Konjunktiva",
+              "rubrics": {
+                "preferred": "Blutung der Konjunktiva",
+                "inclusion": "Subkonjunktivale Blutung"
+              },
+              "children": []
+            },
+            {
+              "code": "H11.4",
+              "kind": "category",
+              "label": "Sonstige Gefäßkrankheiten und Zysten der Konjunktiva",
+              "rubrics": {
+                "preferred": "Sonstige Gefäßkrankheiten und Zysten der Konjunktiva",
+                "inclusion": "Konjunktivale(s):\n\t\t\t\tÖdem"
+              },
+              "children": []
+            },
+            {
+              "code": "H11.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Affektionen der Konjunktiva",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Affektionen der Konjunktiva",
+                "inclusion": "Pseudopterygium"
+              },
+              "children": []
+            },
+            {
+              "code": "H11.9",
+              "kind": "category",
+              "label": "Affektion der Konjunktiva, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion der Konjunktiva, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H13",
+          "kind": "category",
+          "label": "Affektionen der Konjunktiva bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Affektionen der Konjunktiva bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H13.0",
+              "kind": "category",
+              "label": "Filarienbefall der KonjunktivaB74.-",
+              "rubrics": {
+                "preferred": "Filarienbefall der KonjunktivaB74.-"
+              },
+              "children": []
+            },
+            {
+              "code": "H13.1",
+              "kind": "category",
+              "label": "Konjunktivitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Konjunktivitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "inclusion": "Konjunktivitis (durch):\n\t\t\t\tNewcastle-B30.8"
+              },
+              "children": []
+            },
+            {
+              "code": "H13.2",
+              "kind": "category",
+              "label": "Konjunktivitis bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Konjunktivitis bei sonstigen anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            },
+            {
+              "code": "H13.3",
+              "kind": "category",
+              "label": "Okuläres PemphigoidL12.-",
+              "rubrics": {
+                "preferred": "Okuläres PemphigoidL12.-"
+              },
+              "children": []
+            },
+            {
+              "code": "H13.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen der Konjunktiva bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen der Konjunktiva bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H15-H22",
+      "kind": "block",
+      "label": "Affektionen der Sklera, der Hornhaut, der Iris und des Ziliarkörpers",
+      "rubrics": {
+        "preferred": "Affektionen der Sklera, der Hornhaut, der Iris und des Ziliarkörpers"
+      },
+      "children": [
+        {
+          "code": "H15",
+          "kind": "category",
+          "label": "Affektionen der Sklera",
+          "rubrics": {
+            "preferred": "Affektionen der Sklera"
+          },
+          "children": [
+            {
+              "code": "H15.0",
+              "kind": "category",
+              "label": "Skleritis",
+              "rubrics": {
+                "preferred": "Skleritis"
+              },
+              "children": []
+            },
+            {
+              "code": "H15.1",
+              "kind": "category",
+              "label": "Episkleritis",
+              "rubrics": {
+                "preferred": "Episkleritis"
+              },
+              "children": []
+            },
+            {
+              "code": "H15.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen der Sklera",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen der Sklera",
+                "inclusion": "Ektasie der Sklera",
+                "exclusion": "Degenerative MyopieH44.2"
+              },
+              "children": []
+            },
+            {
+              "code": "H15.9",
+              "kind": "category",
+              "label": "Affektion der Sklera, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion der Sklera, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H16",
+          "kind": "category",
+          "label": "Keratitis",
+          "rubrics": {
+            "preferred": "Keratitis"
+          },
+          "children": [
+            {
+              "code": "H16.0",
+              "kind": "category",
+              "label": "Ulcus corneae",
+              "rubrics": {
+                "preferred": "Ulcus corneae",
+                "inclusion": "Ulcus corneae rodens [Mooren]"
+              },
+              "children": []
+            },
+            {
+              "code": "H16.1",
+              "kind": "category",
+              "label": "Sonstige oberflächliche Keratitis ohne Konjunktivitis",
+              "rubrics": {
+                "preferred": "Sonstige oberflächliche Keratitis ohne Konjunktivitis",
+                "inclusion": "Schneeblindheit"
+              },
+              "children": []
+            },
+            {
+              "code": "H16.2",
+              "kind": "category",
+              "label": "Keratokonjunktivitis",
+              "rubrics": {
+                "preferred": "Keratokonjunktivitis",
+                "inclusion": "Ophthalmia nodosa"
+              },
+              "children": []
+            },
+            {
+              "code": "H16.3",
+              "kind": "category",
+              "label": "Interstitielle und tiefe Keratitis",
+              "rubrics": {
+                "preferred": "Interstitielle und tiefe Keratitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H16.4",
+              "kind": "category",
+              "label": "Neovaskularisation der Hornhaut",
+              "rubrics": {
+                "preferred": "Neovaskularisation der Hornhaut",
+                "inclusion": "Pannus"
+              },
+              "children": []
+            },
+            {
+              "code": "H16.8",
+              "kind": "category",
+              "label": "Sonstige Formen der Keratitis",
+              "rubrics": {
+                "preferred": "Sonstige Formen der Keratitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H16.9",
+              "kind": "category",
+              "label": "Keratitis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Keratitis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H17",
+          "kind": "category",
+          "label": "Hornhautnarben und -trübungen",
+          "rubrics": {
+            "preferred": "Hornhautnarben und -trübungen"
+          },
+          "children": [
+            {
+              "code": "H17.0",
+              "kind": "category",
+              "label": "Leukoma adhaerens",
+              "rubrics": {
+                "preferred": "Leukoma adhaerens"
+              },
+              "children": []
+            },
+            {
+              "code": "H17.1",
+              "kind": "category",
+              "label": "Sonstige zentrale Hornhauttrübung",
+              "rubrics": {
+                "preferred": "Sonstige zentrale Hornhauttrübung"
+              },
+              "children": []
+            },
+            {
+              "code": "H17.8",
+              "kind": "category",
+              "label": "Sonstige Hornhautnarben und -trübungen",
+              "rubrics": {
+                "preferred": "Sonstige Hornhautnarben und -trübungen"
+              },
+              "children": []
+            },
+            {
+              "code": "H17.9",
+              "kind": "category",
+              "label": "Hornhautnarbe und -trübung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Hornhautnarbe und -trübung, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H18",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Hornhaut",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Hornhaut"
+          },
+          "children": [
+            {
+              "code": "H18.0",
+              "kind": "category",
+              "label": "Hornhautpigmentierungen und -einlagerungen",
+              "rubrics": {
+                "preferred": "Hornhautpigmentierungen und -einlagerungen",
+                "inclusion": "Stähli-Linie",
+                "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "H18.1",
+              "kind": "category",
+              "label": "Keratopathia bullosa",
+              "rubrics": {
+                "preferred": "Keratopathia bullosa",
+                "exclusion": "Keratopathie (bullös-aphak) nach KataraktextraktionH59.0"
+              },
+              "children": []
+            },
+            {
+              "code": "H18.2",
+              "kind": "category",
+              "label": "Sonstiges Hornhautödem",
+              "rubrics": {
+                "preferred": "Sonstiges Hornhautödem"
+              },
+              "children": []
+            },
+            {
+              "code": "H18.3",
+              "kind": "category",
+              "label": "Veränderungen an den Hornhautmembranen",
+              "rubrics": {
+                "preferred": "Veränderungen an den Hornhautmembranen",
+                "inclusion": "Ruptur\n\t\t\t\tDescemet-Membran"
+              },
+              "children": []
+            },
+            {
+              "code": "H18.4",
+              "kind": "category",
+              "label": "Hornhautdegeneration",
+              "rubrics": {
+                "preferred": "Hornhautdegeneration",
+                "inclusion": "Bandförmige Keratopathie",
+                "exclusion": "Ulcus corneae rodens [Mooren]H16.0"
+              },
+              "children": []
+            },
+            {
+              "code": "H18.5",
+              "kind": "category",
+              "label": "Hereditäre Hornhautdystrophien",
+              "rubrics": {
+                "preferred": "Hereditäre Hornhautdystrophien",
+                "inclusion": "Hornhautdystrophie:\n\t\t\t\tgranulär"
+              },
+              "children": []
+            },
+            {
+              "code": "H18.6",
+              "kind": "category",
+              "label": "Keratokonus",
+              "rubrics": {
+                "preferred": "Keratokonus"
+              },
+              "children": []
+            },
+            {
+              "code": "H18.7",
+              "kind": "category",
+              "label": "Sonstige Hornhautdeformitäten",
+              "rubrics": {
+                "preferred": "Sonstige Hornhautdeformitäten",
+                "inclusion": "Hornhaut:\n\t\t\t\tStaphylom",
+                "exclusion": "Angeborene Fehlbildungen der HornhautQ13.3-Q13.4"
+              },
+              "children": []
+            },
+            {
+              "code": "H18.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Affektionen der Hornhaut",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Affektionen der Hornhaut",
+                "inclusion": "Rezidivierende Hornhauterosionen"
+              },
+              "children": []
+            },
+            {
+              "code": "H18.9",
+              "kind": "category",
+              "label": "Affektion der Hornhaut, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion der Hornhaut, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H19",
+          "kind": "category",
+          "label": "Affektionen der Sklera und der Hornhaut bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Affektionen der Sklera und der Hornhaut bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H19.0",
+              "kind": "category",
+              "label": "Skleritis und Episkleritis bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Skleritis und Episkleritis bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Tuberkulöse EpiskleritisA18.5"
+              },
+              "children": []
+            },
+            {
+              "code": "H19.1",
+              "kind": "category",
+              "label": "Keratitis und Keratokonjunktivitis durch HerpesvirenB00.5",
+              "rubrics": {
+                "preferred": "Keratitis und Keratokonjunktivitis durch HerpesvirenB00.5",
+                "inclusion": "Keratitis dendritica und disciformis"
+              },
+              "children": []
+            },
+            {
+              "code": "H19.2",
+              "kind": "category",
+              "label": "Keratitis und Keratokonjunktivitis bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Keratitis und Keratokonjunktivitis bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "inclusion": "Keratoconjunctivitis epidemicaB30.0"
+              },
+              "children": []
+            },
+            {
+              "code": "H19.3",
+              "kind": "category",
+              "label": "Keratitis und Keratokonjunktivitis bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Keratitis und Keratokonjunktivitis bei sonstigen anderenorts klassifizierten Krankheiten",
+                "inclusion": "Keratoconjunctivitis siccaM35.0"
+              },
+              "children": []
+            },
+            {
+              "code": "H19.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen der Sklera und der Hornhaut bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen der Sklera und der Hornhaut bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Keratokonus bei Down-SyndromQ90.-"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H20",
+          "kind": "category",
+          "label": "Iridozyklitis",
+          "rubrics": {
+            "preferred": "Iridozyklitis"
+          },
+          "children": [
+            {
+              "code": "H20.0",
+              "kind": "category",
+              "label": "Akute und subakute Iridozyklitis",
+              "rubrics": {
+                "preferred": "Akute und subakute Iridozyklitis",
+                "inclusion": "Zyklitis\n\t\t\t\takut, rezidivierend oder subakut"
+              },
+              "children": []
+            },
+            {
+              "code": "H20.1",
+              "kind": "category",
+              "label": "Chronische Iridozyklitis",
+              "rubrics": {
+                "preferred": "Chronische Iridozyklitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H20.2",
+              "kind": "category",
+              "label": "Phakogene Iridozyklitis",
+              "rubrics": {
+                "preferred": "Phakogene Iridozyklitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H20.8",
+              "kind": "category",
+              "label": "Sonstige Iridozyklitis",
+              "rubrics": {
+                "preferred": "Sonstige Iridozyklitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H20.9",
+              "kind": "category",
+              "label": "Iridozyklitis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Iridozyklitis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H21",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Iris und des Ziliarkörpers",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Iris und des Ziliarkörpers",
+            "exclusion": "Sympathische UveitisH44.1"
+          },
+          "children": [
+            {
+              "code": "H21.0",
+              "kind": "category",
+              "label": "Hyphäma",
+              "rubrics": {
+                "preferred": "Hyphäma",
+                "exclusion": "Hyphäma, traumatischS05.1"
+              },
+              "children": []
+            },
+            {
+              "code": "H21.1",
+              "kind": "category",
+              "label": "Sonstige Gefäßkrankheiten der Iris und des Ziliarkörpers",
+              "rubrics": {
+                "preferred": "Sonstige Gefäßkrankheiten der Iris und des Ziliarkörpers",
+                "inclusion": "Rubeosis iridis"
+              },
+              "children": []
+            },
+            {
+              "code": "H21.2",
+              "kind": "category",
+              "label": "Degeneration der Iris und des Ziliarkörpers",
+              "rubrics": {
+                "preferred": "Degeneration der Iris und des Ziliarkörpers",
+                "inclusion": "Miotische Pupillenzyste"
+              },
+              "children": []
+            },
+            {
+              "code": "H21.3",
+              "kind": "category",
+              "label": "Zyste der Iris, des Ziliarkörpers und der Vorderkammer",
+              "rubrics": {
+                "preferred": "Zyste der Iris, des Ziliarkörpers und der Vorderkammer",
+                "inclusion": "Zyste der Iris, des Ziliarkörpers oder der Vorderkammer:\n\t\t\t\to.n.A.",
+                "exclusion": "Miotische PupillenzysteH21.2"
+              },
+              "children": []
+            },
+            {
+              "code": "H21.4",
+              "kind": "category",
+              "label": "Pupillarmembranen",
+              "rubrics": {
+                "preferred": "Pupillarmembranen",
+                "inclusion": "Seclusio pupillae"
+              },
+              "children": []
+            },
+            {
+              "code": "H21.5",
+              "kind": "category",
+              "label": "Sonstige Adhäsionen und Abriss der Iris und des Ziliarkörpers",
+              "rubrics": {
+                "preferred": "Sonstige Adhäsionen und Abriss der Iris und des Ziliarkörpers",
+                "inclusion": "Synechien (Iris):\n\t\t\t\to.n.A.",
+                "exclusion": "Ektopia pupillae [Korektopie]Q13.2"
+              },
+              "children": []
+            },
+            {
+              "code": "H21.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Affektionen der Iris und des Ziliarkörpers",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Affektionen der Iris und des Ziliarkörpers"
+              },
+              "children": []
+            },
+            {
+              "code": "H21.9",
+              "kind": "category",
+              "label": "Affektion der Iris und des Ziliarkörpers, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion der Iris und des Ziliarkörpers, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H22",
+          "kind": "category",
+          "label": "Affektionen der Iris und des Ziliarkörpers bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Affektionen der Iris und des Ziliarkörpers bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H22.0",
+              "kind": "category",
+              "label": "Iridozyklitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Iridozyklitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "inclusion": "Iridozyklitis bei:\n\t\t\t\tZosterB02.3"
+              },
+              "children": []
+            },
+            {
+              "code": "H22.1",
+              "kind": "category",
+              "label": "Iridozyklitis bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Iridozyklitis bei sonstigen anderenorts klassifizierten Krankheiten",
+                "inclusion": "Iridozyklitis bei:\n\t\t\t\tSarkoidoseD86.8"
+              },
+              "children": []
+            },
+            {
+              "code": "H22.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen der Iris und des Ziliarkörpers bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen der Iris und des Ziliarkörpers bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H25-H28",
+      "kind": "block",
+      "label": "Affektionen der Linse",
+      "rubrics": {
+        "preferred": "Affektionen der Linse"
+      },
+      "children": [
+        {
+          "code": "H25",
+          "kind": "category",
+          "label": "Cataracta senilis",
+          "rubrics": {
+            "preferred": "Cataracta senilis",
+            "exclusion": "Kapsuläres Glaukom mit Pseudoexfoliation der LinsenH40.1"
+          },
+          "children": [
+            {
+              "code": "H25.0",
+              "kind": "category",
+              "label": "Cataracta senilis incipiens",
+              "rubrics": {
+                "preferred": "Cataracta senilis incipiens",
+                "inclusion": "Wasserspalten-Speichen-Katarakt"
+              },
+              "children": []
+            },
+            {
+              "code": "H25.1",
+              "kind": "category",
+              "label": "Cataracta nuclearis senilis",
+              "rubrics": {
+                "preferred": "Cataracta nuclearis senilis",
+                "inclusion": "Linsenkernsklerose"
+              },
+              "children": []
+            },
+            {
+              "code": "H25.2",
+              "kind": "category",
+              "label": "Cataracta senilis, Morgagni-Typ",
+              "rubrics": {
+                "preferred": "Cataracta senilis, Morgagni-Typ",
+                "inclusion": "Cataracta senilis hypermatura"
+              },
+              "children": []
+            },
+            {
+              "code": "H25.8",
+              "kind": "category",
+              "label": "Sonstige senile Kataraktformen",
+              "rubrics": {
+                "preferred": "Sonstige senile Kataraktformen",
+                "inclusion": "Kombinierte Formen der senilen Katarakt"
+              },
+              "children": []
+            },
+            {
+              "code": "H25.9",
+              "kind": "category",
+              "label": "Senile Katarakt, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Senile Katarakt, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H26",
+          "kind": "category",
+          "label": "Sonstige Kataraktformen",
+          "rubrics": {
+            "preferred": "Sonstige Kataraktformen",
+            "exclusion": "Cataracta congenitaQ12.0"
+          },
+          "children": [
+            {
+              "code": "H26.0",
+              "kind": "category",
+              "label": "Infantile, juvenile und präsenile Katarakt",
+              "rubrics": {
+                "preferred": "Infantile, juvenile und präsenile Katarakt"
+              },
+              "children": []
+            },
+            {
+              "code": "H26.1",
+              "kind": "category",
+              "label": "Cataracta traumatica",
+              "rubrics": {
+                "preferred": "Cataracta traumatica",
+                "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "H26.2",
+              "kind": "category",
+              "label": "Cataracta complicata",
+              "rubrics": {
+                "preferred": "Cataracta complicata",
+                "inclusion": "Katarakt infolge anderer Augenkrankheiten"
+              },
+              "children": []
+            },
+            {
+              "code": "H26.3",
+              "kind": "category",
+              "label": "Arzneimittelinduzierte Katarakt",
+              "rubrics": {
+                "preferred": "Arzneimittelinduzierte Katarakt",
+                "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "H26.4",
+              "kind": "category",
+              "label": "Cataracta secundaria",
+              "rubrics": {
+                "preferred": "Cataracta secundaria",
+                "inclusion": "Ringstar nach Soemmering"
+              },
+              "children": []
+            },
+            {
+              "code": "H26.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Kataraktformen",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Kataraktformen"
+              },
+              "children": []
+            },
+            {
+              "code": "H26.9",
+              "kind": "category",
+              "label": "Katarakt, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Katarakt, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H27",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Linse",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Linse",
+            "exclusion": "PseudophakieZ96.1"
+          },
+          "children": [
+            {
+              "code": "H27.0",
+              "kind": "category",
+              "label": "Aphakie",
+              "rubrics": {
+                "preferred": "Aphakie"
+              },
+              "children": []
+            },
+            {
+              "code": "H27.1",
+              "kind": "category",
+              "label": "Luxation der Linse",
+              "rubrics": {
+                "preferred": "Luxation der Linse"
+              },
+              "children": []
+            },
+            {
+              "code": "H27.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Affektionen der Linse",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Affektionen der Linse"
+              },
+              "children": []
+            },
+            {
+              "code": "H27.9",
+              "kind": "category",
+              "label": "Affektion der Linse, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion der Linse, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H28",
+          "kind": "category",
+          "label": "Katarakt und sonstige Affektionen der Linse bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Katarakt und sonstige Affektionen der Linse bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H28.0",
+              "kind": "category",
+              "label": "Diabetische KataraktE10-E14, vierte Stelle .3",
+              "rubrics": {
+                "preferred": "Diabetische KataraktE10-E14, vierte Stelle .3"
+              },
+              "children": []
+            },
+            {
+              "code": "H28.1",
+              "kind": "category",
+              "label": "Katarakt bei sonstigen endokrinen, Ernährungs- und Stoffwechselkrankheiten",
+              "rubrics": {
+                "preferred": "Katarakt bei sonstigen endokrinen, Ernährungs- und Stoffwechselkrankheiten",
+                "inclusion": "Katarakt durch Mangelernährung und DehydrationE40-E46"
+              },
+              "children": []
+            },
+            {
+              "code": "H28.2",
+              "kind": "category",
+              "label": "Katarakt bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Katarakt bei sonstigen anderenorts klassifizierten Krankheiten",
+                "inclusion": "Cataracta myotonicaG71.1"
+              },
+              "children": []
+            },
+            {
+              "code": "H28.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen der Linse bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen der Linse bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H30-H36",
+      "kind": "block",
+      "label": "Affektionen der Aderhaut und der Netzhaut",
+      "rubrics": {
+        "preferred": "Affektionen der Aderhaut und der Netzhaut"
+      },
+      "children": [
+        {
+          "code": "H30",
+          "kind": "category",
+          "label": "Chorioretinitis",
+          "rubrics": {
+            "preferred": "Chorioretinitis"
+          },
+          "children": [
+            {
+              "code": "H30.0",
+              "kind": "category",
+              "label": "Fokale Chorioretinitis",
+              "rubrics": {
+                "preferred": "Fokale Chorioretinitis",
+                "inclusion": "Herdförmige:\n\t\t\t\tRetinochorioiditis"
+              },
+              "children": []
+            },
+            {
+              "code": "H30.1",
+              "kind": "category",
+              "label": "Disseminierte Chorioretinitis",
+              "rubrics": {
+                "preferred": "Disseminierte Chorioretinitis",
+                "inclusion": "Disseminierte:\n\t\t\t\tRetinochorioiditis",
+                "exclusion": "Exsudative RetinopathieH35.0"
+              },
+              "children": []
+            },
+            {
+              "code": "H30.2",
+              "kind": "category",
+              "label": "Cyclitis posterior",
+              "rubrics": {
+                "preferred": "Cyclitis posterior",
+                "inclusion": "Entzündung der Pars plana corporis ciliaris"
+              },
+              "children": []
+            },
+            {
+              "code": "H30.8",
+              "kind": "category",
+              "label": "Sonstige Chorioretinitiden",
+              "rubrics": {
+                "preferred": "Sonstige Chorioretinitiden",
+                "inclusion": "Vogt-Koyanagi-Harada-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "H30.9",
+              "kind": "category",
+              "label": "Chorioretinitis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Chorioretinitis, nicht näher bezeichnet",
+                "inclusion": "Retinochorioiditis\n\t\t\t\to.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H31",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Aderhaut",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Aderhaut"
+          },
+          "children": [
+            {
+              "code": "H31.0",
+              "kind": "category",
+              "label": "Chorioretinale Narben",
+              "rubrics": {
+                "preferred": "Chorioretinale Narben",
+                "inclusion": "Retinopathia solaris"
+              },
+              "children": []
+            },
+            {
+              "code": "H31.1",
+              "kind": "category",
+              "label": "Degenerative Veränderung der Aderhaut",
+              "rubrics": {
+                "preferred": "Degenerative Veränderung der Aderhaut",
+                "inclusion": "Sklerose\n\t\t\t\tAderhaut",
+                "exclusion": "Gefäßähnliche Streifen [Angioid streaks]H35.38"
+              },
+              "children": []
+            },
+            {
+              "code": "H31.2",
+              "kind": "category",
+              "label": "Hereditäre Dystrophie der Aderhaut",
+              "rubrics": {
+                "preferred": "Hereditäre Dystrophie der Aderhaut",
+                "inclusion": "Dystrophie der Aderhaut (zentral areolär) (generalisiert) (peripapillär)",
+                "exclusion": "OrnithinämieE72.4"
+              },
+              "children": []
+            },
+            {
+              "code": "H31.3",
+              "kind": "category",
+              "label": "Blutung und Ruptur der Aderhaut",
+              "rubrics": {
+                "preferred": "Blutung und Ruptur der Aderhaut",
+                "inclusion": "Aderhautblutung:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "H31.4",
+              "kind": "category",
+              "label": "Ablatio chorioideae",
+              "rubrics": {
+                "preferred": "Ablatio chorioideae"
+              },
+              "children": []
+            },
+            {
+              "code": "H31.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Affektionen der Aderhaut",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Affektionen der Aderhaut",
+                "inclusion": "Choroidale Neovaskularisation"
+              },
+              "children": []
+            },
+            {
+              "code": "H31.9",
+              "kind": "category",
+              "label": "Affektion der Aderhaut, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion der Aderhaut, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H32",
+          "kind": "category",
+          "label": "Chorioretinale Affektionen bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Chorioretinale Affektionen bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H32.0",
+              "kind": "category",
+              "label": "Chorioretinitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Chorioretinitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "inclusion": "Chorioretinitis bei:\n\t\t\t\tTuberkuloseA18.5"
+              },
+              "children": []
+            },
+            {
+              "code": "H32.8",
+              "kind": "category",
+              "label": "Sonstige chorioretinale Affektionen bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige chorioretinale Affektionen bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Renale RetinitisN18.-"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H33",
+          "kind": "category",
+          "label": "Netzhautablösung und Netzhautriss",
+          "rubrics": {
+            "preferred": "Netzhautablösung und Netzhautriss",
+            "exclusion": "Abhebung des retinalen PigmentepithelsH35.7"
+          },
+          "children": [
+            {
+              "code": "H33.0",
+              "kind": "category",
+              "label": "Netzhautablösung mit Netzhautriss",
+              "rubrics": {
+                "preferred": "Netzhautablösung mit Netzhautriss",
+                "inclusion": "Rhegmatogene Ablatio retinae"
+              },
+              "children": []
+            },
+            {
+              "code": "H33.1",
+              "kind": "category",
+              "label": "Retinoschisis und Zysten der Netzhaut",
+              "rubrics": {
+                "preferred": "Retinoschisis und Zysten der Netzhaut",
+                "inclusion": "Zyste der Ora serrata",
+                "exclusion": "Mikrozystoide Degeneration der NetzhautH35.4"
+              },
+              "children": []
+            },
+            {
+              "code": "H33.2",
+              "kind": "category",
+              "label": "Seröse Netzhautablösung",
+              "rubrics": {
+                "preferred": "Seröse Netzhautablösung",
+                "inclusion": "Netzhautablösung:\n\t\t\t\to.n.A.",
+                "exclusion": "Chorioretinopathia centralis serosaH35.7"
+              },
+              "children": []
+            },
+            {
+              "code": "H33.3",
+              "kind": "category",
+              "label": "Netzhautriss ohne Netzhautablösung",
+              "rubrics": {
+                "preferred": "Netzhautriss ohne Netzhautablösung",
+                "inclusion": "Netzhautriss o.n.A.",
+                "exclusion": "Periphere Netzhautdegeneration ohne RissH35.4"
+              },
+              "children": []
+            },
+            {
+              "code": "H33.4",
+              "kind": "category",
+              "label": "Traktionsablösung der Netzhaut",
+              "rubrics": {
+                "preferred": "Traktionsablösung der Netzhaut",
+                "inclusion": "Proliferative Vitreoretinopathie mit Netzhautablösung"
+              },
+              "children": []
+            },
+            {
+              "code": "H33.5",
+              "kind": "category",
+              "label": "Sonstige Netzhautablösungen",
+              "rubrics": {
+                "preferred": "Sonstige Netzhautablösungen"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H34",
+          "kind": "category",
+          "label": "Netzhautgefäßverschluss",
+          "rubrics": {
+            "preferred": "Netzhautgefäßverschluss",
+            "exclusion": "Amaurosis fugaxG45.3-"
+          },
+          "children": [
+            {
+              "code": "H34.0",
+              "kind": "category",
+              "label": "Transitorischer arterieller retinaler Gefäßverschluss",
+              "rubrics": {
+                "preferred": "Transitorischer arterieller retinaler Gefäßverschluss"
+              },
+              "children": []
+            },
+            {
+              "code": "H34.1",
+              "kind": "category",
+              "label": "Verschluss der A. centralis retinae",
+              "rubrics": {
+                "preferred": "Verschluss der A. centralis retinae"
+              },
+              "children": []
+            },
+            {
+              "code": "H34.2",
+              "kind": "category",
+              "label": "Sonstiger Verschluss retinaler Arterien",
+              "rubrics": {
+                "preferred": "Sonstiger Verschluss retinaler Arterien",
+                "inclusion": "Retinale Mikroembolie"
+              },
+              "children": []
+            },
+            {
+              "code": "H34.8",
+              "kind": "category",
+              "label": "Sonstiger Netzhautgefäßverschluss",
+              "rubrics": {
+                "preferred": "Sonstiger Netzhautgefäßverschluss",
+                "inclusion": "Venöser retinaler Gefäßverschluss:\n\t\t\t\tzentral"
+              },
+              "children": []
+            },
+            {
+              "code": "H34.9",
+              "kind": "category",
+              "label": "Netzhautgefäßverschluss, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Netzhautgefäßverschluss, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H35",
+          "kind": "category",
+          "label": "Sonstige Affektionen der Netzhaut",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen der Netzhaut"
+          },
+          "children": [
+            {
+              "code": "H35.0",
+              "kind": "category",
+              "label": "Retinopathien des Augenhintergrundes und Veränderungen der Netzhautgefäße",
+              "rubrics": {
+                "preferred": "Retinopathien des Augenhintergrundes und Veränderungen der Netzhautgefäße",
+                "inclusion": "Veränderungen im Erscheinungsbild der Netzhautgefäße"
+              },
+              "children": []
+            },
+            {
+              "code": "H35.1",
+              "kind": "category",
+              "label": "Retinopathia praematurorum",
+              "rubrics": {
+                "preferred": "Retinopathia praematurorum",
+                "inclusion": "Retrolentale Fibroplasie"
+              },
+              "children": []
+            },
+            {
+              "code": "H35.2",
+              "kind": "category",
+              "label": "Sonstige proliferative Retinopathie",
+              "rubrics": {
+                "preferred": "Sonstige proliferative Retinopathie",
+                "inclusion": "Proliferative Vitreoretinopathie",
+                "exclusion": "Proliferative Vitreoretinopathie mit NetzhautablösungH33.4"
+              },
+              "children": []
+            },
+            {
+              "code": "H35.3",
+              "kind": "category",
+              "label": "Degeneration der Makula und des hinteren Poles",
+              "rubrics": {
+                "preferred": "Degeneration der Makula und des hinteren Poles"
+              },
+              "children": [
+                {
+                  "code": "H35.30",
+                  "kind": "category",
+                  "label": "Altersbedingte feuchte Makuladegeneration",
+                  "rubrics": {
+                    "preferred": "Altersbedingte feuchte Makuladegeneration",
+                    "inclusion": "Altersbedingte neovaskuläre Degeneration der Makula"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "H35.31",
+                  "kind": "category",
+                  "label": "Altersbedingte trockene Makuladegeneration",
+                  "rubrics": {
+                    "preferred": "Altersbedingte trockene Makuladegeneration",
+                    "inclusion": "Drusenmakulopathie"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "H35.38",
+                  "kind": "category",
+                  "label": "Sonstige Degeneration der Makula und des hinteren Poles",
+                  "rubrics": {
+                    "preferred": "Sonstige Degeneration der Makula und des hinteren Poles",
+                    "inclusion": "Vitreomakuläre Traktion",
+                    "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+                  },
+                  "children": []
+                },
+                {
+                  "code": "H35.39",
+                  "kind": "category",
+                  "label": "Degeneration der Makula und des hinteren Poles, nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Degeneration der Makula und des hinteren Poles, nicht näher bezeichnet"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "H35.4",
+              "kind": "category",
+              "label": "Periphere Netzhautdegeneration",
+              "rubrics": {
+                "preferred": "Periphere Netzhautdegeneration",
+                "inclusion": "Degeneration der Netzhaut:\n\t\t\t\to.n.A.",
+                "exclusion": "mit NetzhautrissH33.3"
+              },
+              "children": []
+            },
+            {
+              "code": "H35.5",
+              "kind": "category",
+              "label": "Hereditäre Netzhautdystrophie",
+              "rubrics": {
+                "preferred": "Hereditäre Netzhautdystrophie",
+                "inclusion": "Stargardt-Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "H35.6",
+              "kind": "category",
+              "label": "Netzhautblutung",
+              "rubrics": {
+                "preferred": "Netzhautblutung"
+              },
+              "children": []
+            },
+            {
+              "code": "H35.7",
+              "kind": "category",
+              "label": "Abhebung von Netzhautschichten",
+              "rubrics": {
+                "preferred": "Abhebung von Netzhautschichten",
+                "inclusion": "Chorioretinopathia centralis serosa"
+              },
+              "children": []
+            },
+            {
+              "code": "H35.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Affektionen der Netzhaut",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Affektionen der Netzhaut"
+              },
+              "children": []
+            },
+            {
+              "code": "H35.9",
+              "kind": "category",
+              "label": "Affektion der Netzhaut, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion der Netzhaut, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H36",
+          "kind": "category",
+          "label": "Affektionen der Netzhaut bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Affektionen der Netzhaut bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H36.0",
+              "kind": "category",
+              "label": "Retinopathia diabeticaE10-E14, vierte Stelle .3",
+              "rubrics": {
+                "preferred": "Retinopathia diabeticaE10-E14, vierte Stelle .3"
+              },
+              "children": []
+            },
+            {
+              "code": "H36.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen der Netzhaut bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen der Netzhaut bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Proliferative SichelzellenretinopathieD57.-"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H40-H42",
+      "kind": "block",
+      "label": "Glaukom",
+      "rubrics": {
+        "preferred": "Glaukom"
+      },
+      "children": [
+        {
+          "code": "H40",
+          "kind": "category",
+          "label": "Glaukom",
+          "rubrics": {
+            "preferred": "Glaukom",
+            "exclusion": "Traumatisches Glaukom durch GeburtsverletzungP15.3"
+          },
+          "children": [
+            {
+              "code": "H40.0",
+              "kind": "category",
+              "label": "Glaukomverdacht",
+              "rubrics": {
+                "preferred": "Glaukomverdacht",
+                "inclusion": "Okuläre Hypertension"
+              },
+              "children": []
+            },
+            {
+              "code": "H40.1",
+              "kind": "category",
+              "label": "Primäres Weitwinkelglaukom",
+              "rubrics": {
+                "preferred": "Primäres Weitwinkelglaukom",
+                "inclusion": "Glaukom (primär) (Restzustand):\n\t\t\t\tPigment-"
+              },
+              "children": []
+            },
+            {
+              "code": "H40.2",
+              "kind": "category",
+              "label": "Primäres Engwinkelglaukom",
+              "rubrics": {
+                "preferred": "Primäres Engwinkelglaukom",
+                "inclusion": "Primäres Winkelblockglaukom"
+              },
+              "children": []
+            },
+            {
+              "code": "H40.3",
+              "kind": "category",
+              "label": "Glaukom (sekundär) nach Verletzung des Auges",
+              "rubrics": {
+                "preferred": "Glaukom (sekundär) nach Verletzung des Auges",
+                "coding-hint": "Soll die Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "H40.4",
+              "kind": "category",
+              "label": "Glaukom (sekundär) nach Entzündung des Auges",
+              "rubrics": {
+                "preferred": "Glaukom (sekundär) nach Entzündung des Auges",
+                "coding-hint": "Soll die Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "H40.5",
+              "kind": "category",
+              "label": "Glaukom (sekundär) nach sonstigen Affektionen des Auges",
+              "rubrics": {
+                "preferred": "Glaukom (sekundär) nach sonstigen Affektionen des Auges",
+                "coding-hint": "Soll die Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "H40.6",
+              "kind": "category",
+              "label": "Glaukom (sekundär) nach Arzneimittelverabreichung",
+              "rubrics": {
+                "preferred": "Glaukom (sekundär) nach Arzneimittelverabreichung",
+                "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "H40.8",
+              "kind": "category",
+              "label": "Sonstiges Glaukom",
+              "rubrics": {
+                "preferred": "Sonstiges Glaukom"
+              },
+              "children": []
+            },
+            {
+              "code": "H40.9",
+              "kind": "category",
+              "label": "Glaukom, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Glaukom, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H42",
+          "kind": "category",
+          "label": "Glaukom bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Glaukom bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H42.0",
+              "kind": "category",
+              "label": "Glaukom bei endokrinen, Ernährungs- und Stoffwechselkrankheiten",
+              "rubrics": {
+                "preferred": "Glaukom bei endokrinen, Ernährungs- und Stoffwechselkrankheiten",
+                "inclusion": "Glaukom bei:\n\t\t\t\tLowe-SyndromE72.0"
+              },
+              "children": []
+            },
+            {
+              "code": "H42.8",
+              "kind": "category",
+              "label": "Glaukom bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Glaukom bei sonstigen anderenorts klassifizierten Krankheiten",
+                "inclusion": "Glaukom bei OnchozerkoseB73"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H43-H45",
+      "kind": "block",
+      "label": "Affektionen des Glaskörpers und des Augapfels",
+      "rubrics": {
+        "preferred": "Affektionen des Glaskörpers und des Augapfels"
+      },
+      "children": [
+        {
+          "code": "H43",
+          "kind": "category",
+          "label": "Affektionen des Glaskörpers",
+          "rubrics": {
+            "preferred": "Affektionen des Glaskörpers"
+          },
+          "children": [
+            {
+              "code": "H43.0",
+              "kind": "category",
+              "label": "Glaskörperprolaps",
+              "rubrics": {
+                "preferred": "Glaskörperprolaps",
+                "exclusion": "Glaskörperkomplikation nach KataraktextraktionH59.0"
+              },
+              "children": []
+            },
+            {
+              "code": "H43.1",
+              "kind": "category",
+              "label": "Glaskörperblutung",
+              "rubrics": {
+                "preferred": "Glaskörperblutung"
+              },
+              "children": []
+            },
+            {
+              "code": "H43.2",
+              "kind": "category",
+              "label": "Kristalline Ablagerungen im Glaskörper",
+              "rubrics": {
+                "preferred": "Kristalline Ablagerungen im Glaskörper"
+              },
+              "children": []
+            },
+            {
+              "code": "H43.3",
+              "kind": "category",
+              "label": "Sonstige Glaskörpertrübungen",
+              "rubrics": {
+                "preferred": "Sonstige Glaskörpertrübungen",
+                "inclusion": "Glaskörpermembranen und Glaskörperstränge"
+              },
+              "children": []
+            },
+            {
+              "code": "H43.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen des Glaskörpers",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen des Glaskörpers",
+                "inclusion": "Glaskörper-:\n\t\t\t\tDegeneration",
+                "exclusion": "Proliferative Vitreoretinopathie mit NetzhautablösungH33.4"
+              },
+              "children": []
+            },
+            {
+              "code": "H43.9",
+              "kind": "category",
+              "label": "Affektion des Glaskörpers, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion des Glaskörpers, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H44",
+          "kind": "category",
+          "label": "Affektionen des Augapfels",
+          "rubrics": {
+            "preferred": "Affektionen des Augapfels",
+            "inclusion": "Krankheiten, die mehrere Strukturen des Auges betreffen"
+          },
+          "children": [
+            {
+              "code": "H44.0",
+              "kind": "category",
+              "label": "Purulente Endophthalmitis",
+              "rubrics": {
+                "preferred": "Purulente Endophthalmitis",
+                "inclusion": "Panophthalmie"
+              },
+              "children": []
+            },
+            {
+              "code": "H44.1",
+              "kind": "category",
+              "label": "Sonstige Endophthalmitis",
+              "rubrics": {
+                "preferred": "Sonstige Endophthalmitis",
+                "inclusion": "Sympathische Uveitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H44.2",
+              "kind": "category",
+              "label": "Degenerative Myopie",
+              "rubrics": {
+                "preferred": "Degenerative Myopie",
+                "inclusion": "Maligne Myopie"
+              },
+              "children": []
+            },
+            {
+              "code": "H44.3",
+              "kind": "category",
+              "label": "Sonstige degenerative Affektionen des Augapfels",
+              "rubrics": {
+                "preferred": "Sonstige degenerative Affektionen des Augapfels",
+                "inclusion": "Siderose des Auges"
+              },
+              "children": []
+            },
+            {
+              "code": "H44.4",
+              "kind": "category",
+              "label": "Hypotonia bulbi",
+              "rubrics": {
+                "preferred": "Hypotonia bulbi"
+              },
+              "children": []
+            },
+            {
+              "code": "H44.5",
+              "kind": "category",
+              "label": "Degenerationszustände des Augapfels",
+              "rubrics": {
+                "preferred": "Degenerationszustände des Augapfels",
+                "inclusion": "Phthisis bulbi"
+              },
+              "children": []
+            },
+            {
+              "code": "H44.6",
+              "kind": "category",
+              "label": "Verbliebener (alter) magnetischer intraokularer Fremdkörper",
+              "rubrics": {
+                "preferred": "Verbliebener (alter) magnetischer intraokularer Fremdkörper",
+                "inclusion": "Verbliebener (alter) magnetischer Fremdkörper (in):\n\t\t\t\tZiliarkörper"
+              },
+              "children": []
+            },
+            {
+              "code": "H44.7",
+              "kind": "category",
+              "label": "Verbliebener (alter) amagnetischer intraokularer Fremdkörper",
+              "rubrics": {
+                "preferred": "Verbliebener (alter) amagnetischer intraokularer Fremdkörper",
+                "inclusion": "Verbliebener (alter) amagnetischer Fremdkörper (in):\n\t\t\t\tZiliarkörper"
+              },
+              "children": []
+            },
+            {
+              "code": "H44.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen des Augapfels",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen des Augapfels",
+                "inclusion": "Luxatio bulbi"
+              },
+              "children": []
+            },
+            {
+              "code": "H44.9",
+              "kind": "category",
+              "label": "Affektion des Augapfels, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion des Augapfels, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H45",
+          "kind": "category",
+          "label": "Affektionen des Glaskörpers und des Augapfels bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Affektionen des Glaskörpers und des Augapfels bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H45.0",
+              "kind": "category",
+              "label": "Glaskörperblutung bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Glaskörperblutung bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            },
+            {
+              "code": "H45.1",
+              "kind": "category",
+              "label": "Endophthalmitis bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Endophthalmitis bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Endophthalmitis bei:\n\t\t\t\tZystizerkoseB69.1"
+              },
+              "children": []
+            },
+            {
+              "code": "H45.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen des Glaskörpers und des Augapfels bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen des Glaskörpers und des Augapfels bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H46-H48",
+      "kind": "block",
+      "label": "Affektionen des N. opticus und der Sehbahn",
+      "rubrics": {
+        "preferred": "Affektionen des N. opticus und der Sehbahn"
+      },
+      "children": [
+        {
+          "code": "H46",
+          "kind": "category",
+          "label": "Neuritis nervi optici",
+          "rubrics": {
+            "preferred": "Neuritis nervi optici",
+            "inclusion": "Retrobulbäre Neuritis o.n.A.",
+            "exclusion": "Neuromyelitis optica [Devic-Krankheit]G36.0"
+          },
+          "children": []
+        },
+        {
+          "code": "H47",
+          "kind": "category",
+          "label": "Sonstige Affektionen des N. opticus [II. Hirnnerv] und der Sehbahn",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen des N. opticus [II. Hirnnerv] und der Sehbahn"
+          },
+          "children": [
+            {
+              "code": "H47.0",
+              "kind": "category",
+              "label": "Affektionen des N. opticus, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Affektionen des N. opticus, anderenorts nicht klassifiziert",
+                "inclusion": "Kompression des N. opticus"
+              },
+              "children": []
+            },
+            {
+              "code": "H47.1",
+              "kind": "category",
+              "label": "Stauungspapille, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Stauungspapille, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "H47.2",
+              "kind": "category",
+              "label": "Optikusatrophie",
+              "rubrics": {
+                "preferred": "Optikusatrophie",
+                "inclusion": "Temporale Abblassung der Papille"
+              },
+              "children": []
+            },
+            {
+              "code": "H47.3",
+              "kind": "category",
+              "label": "Sonstige Affektionen der Papille",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen der Papille",
+                "inclusion": "Pseudostauungspapille"
+              },
+              "children": []
+            },
+            {
+              "code": "H47.4",
+              "kind": "category",
+              "label": "Affektionen des Chiasma opticum",
+              "rubrics": {
+                "preferred": "Affektionen des Chiasma opticum"
+              },
+              "children": []
+            },
+            {
+              "code": "H47.5",
+              "kind": "category",
+              "label": "Affektionen sonstiger Teile der Sehbahn",
+              "rubrics": {
+                "preferred": "Affektionen sonstiger Teile der Sehbahn",
+                "inclusion": "Krankheiten des Tractus opticus, des Corpus geniculatum und der Sehstrahlung"
+              },
+              "children": []
+            },
+            {
+              "code": "H47.6",
+              "kind": "category",
+              "label": "Affektionen der Sehrinde",
+              "rubrics": {
+                "preferred": "Affektionen der Sehrinde"
+              },
+              "children": []
+            },
+            {
+              "code": "H47.7",
+              "kind": "category",
+              "label": "Affektion der Sehbahn, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion der Sehbahn, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H48",
+          "kind": "category",
+          "label": "Affektionen des N. opticus [II. Hirnnerv] und der Sehbahn bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Affektionen des N. opticus [II. Hirnnerv] und der Sehbahn bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H48.0",
+              "kind": "category",
+              "label": "Optikusatrophie bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Optikusatrophie bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Optikusatrophie bei SpätsyphilisA52.1"
+              },
+              "children": []
+            },
+            {
+              "code": "H48.1",
+              "kind": "category",
+              "label": "Retrobulbäre Neuritis bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Retrobulbäre Neuritis bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Retrobulbäre Neuritis bei:\n\t\t\t\tSpätsyphilisA52.1"
+              },
+              "children": []
+            },
+            {
+              "code": "H48.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen des N. opticus und der Sehbahn bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen des N. opticus und der Sehbahn bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H49-H52",
+      "kind": "block",
+      "label": "Affektionen der Augenmuskeln, Störungen der Blickbewegungen sowie Akkommodationsstörungen und Refraktionsfehler",
+      "rubrics": {
+        "preferred": "Affektionen der Augenmuskeln, Störungen der Blickbewegungen sowie Akkommodationsstörungen und Refraktionsfehler",
+        "exclusion": "Nystagmus und sonstige abnorme AugenbewegungenH55"
+      },
+      "children": [
+        {
+          "code": "H49",
+          "kind": "category",
+          "label": "Strabismus paralyticus",
+          "rubrics": {
+            "preferred": "Strabismus paralyticus",
+            "exclusion": "Ophthalmoplegia:\n\t\t\t\tprogressiva supranuclearisG23.1"
+          },
+          "children": [
+            {
+              "code": "H49.0",
+              "kind": "category",
+              "label": "Lähmung des N. oculomotorius [III. Hirnnerv]",
+              "rubrics": {
+                "preferred": "Lähmung des N. oculomotorius [III. Hirnnerv]"
+              },
+              "children": []
+            },
+            {
+              "code": "H49.1",
+              "kind": "category",
+              "label": "Lähmung des N. trochlearis [IV. Hirnnerv]",
+              "rubrics": {
+                "preferred": "Lähmung des N. trochlearis [IV. Hirnnerv]"
+              },
+              "children": []
+            },
+            {
+              "code": "H49.2",
+              "kind": "category",
+              "label": "Lähmung des N. abducens [VI. Hirnnerv]",
+              "rubrics": {
+                "preferred": "Lähmung des N. abducens [VI. Hirnnerv]"
+              },
+              "children": []
+            },
+            {
+              "code": "H49.3",
+              "kind": "category",
+              "label": "Ophthalmoplegia totalis externa",
+              "rubrics": {
+                "preferred": "Ophthalmoplegia totalis externa"
+              },
+              "children": []
+            },
+            {
+              "code": "H49.4",
+              "kind": "category",
+              "label": "Ophthalmoplegia progressiva externa",
+              "rubrics": {
+                "preferred": "Ophthalmoplegia progressiva externa"
+              },
+              "children": []
+            },
+            {
+              "code": "H49.8",
+              "kind": "category",
+              "label": "Sonstiger Strabismus paralyticus",
+              "rubrics": {
+                "preferred": "Sonstiger Strabismus paralyticus",
+                "inclusion": "Ophthalmoplegia externa o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "H49.9",
+              "kind": "category",
+              "label": "Strabismus paralyticus, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Strabismus paralyticus, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H50",
+          "kind": "category",
+          "label": "Sonstiger Strabismus",
+          "rubrics": {
+            "preferred": "Sonstiger Strabismus"
+          },
+          "children": [
+            {
+              "code": "H50.0",
+              "kind": "category",
+              "label": "Strabismus concomitans convergens",
+              "rubrics": {
+                "preferred": "Strabismus concomitans convergens",
+                "inclusion": "Esotropie (alternierend) (unilateral), ausgenommen intermittierend"
+              },
+              "children": []
+            },
+            {
+              "code": "H50.1",
+              "kind": "category",
+              "label": "Strabismus concomitans divergens",
+              "rubrics": {
+                "preferred": "Strabismus concomitans divergens",
+                "inclusion": "Exotropie (alternierend) (unilateral), ausgenommen intermittierend"
+              },
+              "children": []
+            },
+            {
+              "code": "H50.2",
+              "kind": "category",
+              "label": "Strabismus verticalis",
+              "rubrics": {
+                "preferred": "Strabismus verticalis",
+                "inclusion": "Hypotropie"
+              },
+              "children": []
+            },
+            {
+              "code": "H50.3",
+              "kind": "category",
+              "label": "Intermittierender Strabismus concomitans",
+              "rubrics": {
+                "preferred": "Intermittierender Strabismus concomitans",
+                "inclusion": "Intermittierend:\n\t\t\t\tStrabismus divergens\n\t\t\t\t(alternierend) (unilateral)"
+              },
+              "children": []
+            },
+            {
+              "code": "H50.4",
+              "kind": "category",
+              "label": "Sonstiger und nicht näher bezeichneter Strabismus concomitans",
+              "rubrics": {
+                "preferred": "Sonstiger und nicht näher bezeichneter Strabismus concomitans",
+                "inclusion": "Zyklotropie"
+              },
+              "children": []
+            },
+            {
+              "code": "H50.5",
+              "kind": "category",
+              "label": "Heterophorie",
+              "rubrics": {
+                "preferred": "Heterophorie",
+                "inclusion": "Latentes Schielen"
+              },
+              "children": []
+            },
+            {
+              "code": "H50.6",
+              "kind": "category",
+              "label": "Mechanisch bedingter Strabismus",
+              "rubrics": {
+                "preferred": "Mechanisch bedingter Strabismus",
+                "inclusion": "Strabismus durch traumatische Ursache"
+              },
+              "children": []
+            },
+            {
+              "code": "H50.8",
+              "kind": "category",
+              "label": "Sonstiger näher bezeichneter Strabismus",
+              "rubrics": {
+                "preferred": "Sonstiger näher bezeichneter Strabismus",
+                "inclusion": "Stilling-Türk-Duane-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "H50.9",
+              "kind": "category",
+              "label": "Strabismus, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Strabismus, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H51",
+          "kind": "category",
+          "label": "Sonstige Störungen der Blickbewegungen",
+          "rubrics": {
+            "preferred": "Sonstige Störungen der Blickbewegungen"
+          },
+          "children": [
+            {
+              "code": "H51.0",
+              "kind": "category",
+              "label": "Konjugierte Blicklähmung",
+              "rubrics": {
+                "preferred": "Konjugierte Blicklähmung"
+              },
+              "children": []
+            },
+            {
+              "code": "H51.1",
+              "kind": "category",
+              "label": "Konvergenzschwäche und Konvergenzexzess",
+              "rubrics": {
+                "preferred": "Konvergenzschwäche und Konvergenzexzess"
+              },
+              "children": []
+            },
+            {
+              "code": "H51.2",
+              "kind": "category",
+              "label": "Internukleäre Ophthalmoplegie",
+              "rubrics": {
+                "preferred": "Internukleäre Ophthalmoplegie"
+              },
+              "children": []
+            },
+            {
+              "code": "H51.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Störungen der Blickbewegungen",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Störungen der Blickbewegungen"
+              },
+              "children": []
+            },
+            {
+              "code": "H51.9",
+              "kind": "category",
+              "label": "Störung der Blickbewegungen, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung der Blickbewegungen, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H52",
+          "kind": "category",
+          "label": "Akkommodationsstörungen und Refraktionsfehler",
+          "rubrics": {
+            "preferred": "Akkommodationsstörungen und Refraktionsfehler"
+          },
+          "children": [
+            {
+              "code": "H52.0",
+              "kind": "category",
+              "label": "Hypermetropie",
+              "rubrics": {
+                "preferred": "Hypermetropie"
+              },
+              "children": []
+            },
+            {
+              "code": "H52.1",
+              "kind": "category",
+              "label": "Myopie",
+              "rubrics": {
+                "preferred": "Myopie",
+                "exclusion": "Degenerative MyopieH44.2"
+              },
+              "children": []
+            },
+            {
+              "code": "H52.2",
+              "kind": "category",
+              "label": "Astigmatismus",
+              "rubrics": {
+                "preferred": "Astigmatismus"
+              },
+              "children": []
+            },
+            {
+              "code": "H52.3",
+              "kind": "category",
+              "label": "Anisometropie und Aniseikonie",
+              "rubrics": {
+                "preferred": "Anisometropie und Aniseikonie"
+              },
+              "children": []
+            },
+            {
+              "code": "H52.4",
+              "kind": "category",
+              "label": "Presbyopie",
+              "rubrics": {
+                "preferred": "Presbyopie"
+              },
+              "children": []
+            },
+            {
+              "code": "H52.5",
+              "kind": "category",
+              "label": "Akkommodationsstörungen",
+              "rubrics": {
+                "preferred": "Akkommodationsstörungen",
+                "inclusion": "Ophthalmoplegia interna (totalis)"
+              },
+              "children": []
+            },
+            {
+              "code": "H52.6",
+              "kind": "category",
+              "label": "Sonstige Refraktionsfehler",
+              "rubrics": {
+                "preferred": "Sonstige Refraktionsfehler"
+              },
+              "children": []
+            },
+            {
+              "code": "H52.7",
+              "kind": "category",
+              "label": "Refraktionsfehler, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Refraktionsfehler, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H53-H54",
+      "kind": "block",
+      "label": "Sehstörungen und Blindheit",
+      "rubrics": {
+        "preferred": "Sehstörungen und Blindheit"
+      },
+      "children": [
+        {
+          "code": "H53",
+          "kind": "category",
+          "label": "Sehstörungen",
+          "rubrics": {
+            "preferred": "Sehstörungen"
+          },
+          "children": [
+            {
+              "code": "H53.0",
+              "kind": "category",
+              "label": "Amblyopia ex anopsia",
+              "rubrics": {
+                "preferred": "Amblyopia ex anopsia",
+                "inclusion": "Amblyopie (durch):\n\t\t\t\tStrabismus"
+              },
+              "children": []
+            },
+            {
+              "code": "H53.1",
+              "kind": "category",
+              "label": "Subjektive Sehstörungen",
+              "rubrics": {
+                "preferred": "Subjektive Sehstörungen",
+                "inclusion": "Tagblindheit",
+                "exclusion": "Optische HalluzinationenR44.1"
+              },
+              "children": []
+            },
+            {
+              "code": "H53.2",
+              "kind": "category",
+              "label": "Diplopie",
+              "rubrics": {
+                "preferred": "Diplopie",
+                "inclusion": "Doppeltsehen"
+              },
+              "children": []
+            },
+            {
+              "code": "H53.3",
+              "kind": "category",
+              "label": "Sonstige Störungen des binokularen Sehens",
+              "rubrics": {
+                "preferred": "Sonstige Störungen des binokularen Sehens",
+                "inclusion": "Suppression des binokularen Sehens"
+              },
+              "children": []
+            },
+            {
+              "code": "H53.4",
+              "kind": "category",
+              "label": "Gesichtsfelddefekte",
+              "rubrics": {
+                "preferred": "Gesichtsfelddefekte",
+                "inclusion": "Vergrößerter blinder Fleck"
+              },
+              "children": []
+            },
+            {
+              "code": "H53.5",
+              "kind": "category",
+              "label": "Farbsinnstörungen",
+              "rubrics": {
+                "preferred": "Farbsinnstörungen",
+                "inclusion": "Tritanopie",
+                "exclusion": "TagblindheitH53.1"
+              },
+              "children": []
+            },
+            {
+              "code": "H53.6",
+              "kind": "category",
+              "label": "Nachtblindheit",
+              "rubrics": {
+                "preferred": "Nachtblindheit",
+                "exclusion": "Durch Vitamin-A-MangelE50.5"
+              },
+              "children": []
+            },
+            {
+              "code": "H53.8",
+              "kind": "category",
+              "label": "Sonstige Sehstörungen",
+              "rubrics": {
+                "preferred": "Sonstige Sehstörungen"
+              },
+              "children": []
+            },
+            {
+              "code": "H53.9",
+              "kind": "category",
+              "label": "Sehstörung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Sehstörung, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H54",
+          "kind": "category",
+          "label": "Blindheit und Sehbeeinträchtigung",
+          "rubrics": {
+            "preferred": "Blindheit und Sehbeeinträchtigung",
+            "note": "Stufen der Sehbeeinträchtigung siehe Tabelle am Ende der Gruppe (H53-H54)",
+            "exclusion": "Amaurosis fugax G45.3-"
+          },
+          "children": [
+            {
+              "code": "H54.0",
+              "kind": "category",
+              "label": "Blindheit und hochgradige Sehbehinderung, binokular",
+              "rubrics": {
+                "preferred": "Blindheit und hochgradige Sehbehinderung, binokular",
+                "text": "Stufen 3, 4 und 5 der Sehbeeinträchtigung"
+              },
+              "children": []
+            },
+            {
+              "code": "H54.1",
+              "kind": "category",
+              "label": "Schwere Sehbeeinträchtigung, binokular",
+              "rubrics": {
+                "preferred": "Schwere Sehbeeinträchtigung, binokular",
+                "text": "Stufe 2 der Sehbeeinträchtigung"
+              },
+              "children": []
+            },
+            {
+              "code": "H54.2",
+              "kind": "category",
+              "label": "Mittelschwere Sehbeeinträchtigung, binokular",
+              "rubrics": {
+                "preferred": "Mittelschwere Sehbeeinträchtigung, binokular",
+                "text": "Stufe 1 der Sehbeeinträchtigung"
+              },
+              "children": []
+            },
+            {
+              "code": "H54.3",
+              "kind": "category",
+              "label": "Leichte Sehbeeinträchtigung, binokular",
+              "rubrics": {
+                "preferred": "Leichte Sehbeeinträchtigung, binokular",
+                "text": "Stufe 0 der Sehbeeinträchtigung mit mindestens einer leichten Sehbeeinträchtigung auf einem Auge"
+              },
+              "children": []
+            },
+            {
+              "code": "H54.4",
+              "kind": "category",
+              "label": "Blindheit und hochgradige Sehbehinderung, monokular",
+              "rubrics": {
+                "preferred": "Blindheit und hochgradige Sehbehinderung, monokular",
+                "text": "Stufen 3, 4 und 5 der Sehbeeinträchtigung eines Auges mit Stufen 0, 1, 2 oder 9 des anderen Auges"
+              },
+              "children": []
+            },
+            {
+              "code": "H54.5",
+              "kind": "category",
+              "label": "Schwere Sehbeeinträchtigung, monokular",
+              "rubrics": {
+                "preferred": "Schwere Sehbeeinträchtigung, monokular",
+                "text": "Stufe 2 der Sehbeeinträchtigung eines Auges mit Stufen 0, 1 oder 9 des anderen Auges"
+              },
+              "children": []
+            },
+            {
+              "code": "H54.6",
+              "kind": "category",
+              "label": "Mittelschwere Sehbeeinträchtigung, monokular",
+              "rubrics": {
+                "preferred": "Mittelschwere Sehbeeinträchtigung, monokular",
+                "text": "Stufe 1 der Sehbeeinträchtigung eines Auges mit Stufen 0 oder 9 des anderen Auges"
+              },
+              "children": []
+            },
+            {
+              "code": "H54.9",
+              "kind": "category",
+              "label": "Nicht näher bezeichnete Sehbeeinträchtigung (binokular)",
+              "rubrics": {
+                "preferred": "Nicht näher bezeichnete Sehbeeinträchtigung (binokular)",
+                "text": "Stufe 9 der Sehbeeinträchtigung o.n.A.",
+                "coding-hint": "Stufen\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSehschärfe mit bestmöglicher Korrektur (in Ferne)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tgleich oder geringer als:\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\thöher als:\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t0 - leichte oder keine Sehbeeinträchtigung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t6/18\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3/10 (0,3)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/70\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1 - mittelschwere Sehbeeinträchtigung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t6/18\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t6/60\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3/10 (0,3)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/10 (0,1)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/70\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/200\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t2 - schwere Sehbeeinträchtigung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t6/60\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3/60\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/10 (0,1)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/20 (0,05)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/200\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/400\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3 - hochgradige Sehbehinderung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3/60\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/60 (Fingerzählen bei 1 m)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/20 (0,05)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/50 (0,02)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t20/400\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t5/300 (20/1200)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t4 - Blindheit\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/60 (Fingerzählen bei 1 m)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tLichtwahrnehmung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1/50 (0,02)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t5/300 (20/1200)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t5 - Blindheit\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tkeine Lichtwahrnehmung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t9\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tunbestimmt oder nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "H55-H59",
+      "kind": "block",
+      "label": "Sonstige Affektionen des Auges und der Augenanhangsgebilde",
+      "rubrics": {
+        "preferred": "Sonstige Affektionen des Auges und der Augenanhangsgebilde"
+      },
+      "children": [
+        {
+          "code": "H55",
+          "kind": "category",
+          "label": "Nystagmus und sonstige abnorme Augenbewegungen",
+          "rubrics": {
+            "preferred": "Nystagmus und sonstige abnorme Augenbewegungen",
+            "inclusion": "Nystagmus:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "H57",
+          "kind": "category",
+          "label": "Sonstige Affektionen des Auges und der Augenanhangsgebilde",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen des Auges und der Augenanhangsgebilde"
+          },
+          "children": [
+            {
+              "code": "H57.0",
+              "kind": "category",
+              "label": "Pupillenfunktionsstörungen",
+              "rubrics": {
+                "preferred": "Pupillenfunktionsstörungen"
+              },
+              "children": []
+            },
+            {
+              "code": "H57.1",
+              "kind": "category",
+              "label": "Augenschmerzen",
+              "rubrics": {
+                "preferred": "Augenschmerzen"
+              },
+              "children": []
+            },
+            {
+              "code": "H57.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Affektionen des Auges und der Augenanhangsgebilde",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Affektionen des Auges und der Augenanhangsgebilde"
+              },
+              "children": []
+            },
+            {
+              "code": "H57.9",
+              "kind": "category",
+              "label": "Affektion des Auges und der Augenanhangsgebilde, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion des Auges und der Augenanhangsgebilde, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H58",
+          "kind": "category",
+          "label": "Sonstige Affektionen des Auges und der Augenanhangsgebilde bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Affektionen des Auges und der Augenanhangsgebilde bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "H58.0",
+              "kind": "category",
+              "label": "Anomalien der Pupillenreaktion bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Anomalien der Pupillenreaktion bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Argyll-Robertson-Phänomen oder reflektorische Pupillenstarre, syphilitischA52.1"
+              },
+              "children": []
+            },
+            {
+              "code": "H58.1",
+              "kind": "category",
+              "label": "Sehstörungen bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sehstörungen bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            },
+            {
+              "code": "H58.2",
+              "kind": "category",
+              "label": "Beteiligung des Auges und der Augenanhangsgebilde bei der chronischen Graft-versus-Host-Krankheit",
+              "rubrics": {
+                "preferred": "Beteiligung des Auges und der Augenanhangsgebilde bei der chronischen Graft-versus-Host-Krankheit"
+              },
+              "children": [
+                {
+                  "code": "H58.21",
+                  "kind": "category",
+                  "label": "Stadium 1 der chronischen Augen-Graft-versus-Host-Krankheit T86.05T86.06",
+                  "rubrics": {
+                    "preferred": "Stadium 1 der chronischen Augen-Graft-versus-Host-Krankheit T86.05T86.06"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "H58.22",
+                  "kind": "category",
+                  "label": "Stadium 2 der chronischen Augen-Graft-versus-Host-Krankheit T86.06",
+                  "rubrics": {
+                    "preferred": "Stadium 2 der chronischen Augen-Graft-versus-Host-Krankheit T86.06"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "H58.23",
+                  "kind": "category",
+                  "label": "Stadium 3 der chronischen Augen-Graft-versus-Host-KrankheitT86.07",
+                  "rubrics": {
+                    "preferred": "Stadium 3 der chronischen Augen-Graft-versus-Host-KrankheitT86.07"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "H58.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Affektionen der Augen und der Augenanhangsgebilde bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Affektionen der Augen und der Augenanhangsgebilde bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Syphilitische Okulopathie, anderenorts nicht klassifiziert, bei:\n\t\t\t\tSpätsyphilisA52.7"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "H59",
+          "kind": "category",
+          "label": "Affektionen des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Affektionen des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+            "exclusion": "PseudophakieZ96.1"
+          },
+          "children": [
+            {
+              "code": "H59.0",
+              "kind": "category",
+              "label": "Keratopathie (bullös-aphak) nach Kataraktextraktion",
+              "rubrics": {
+                "preferred": "Keratopathie (bullös-aphak) nach Kataraktextraktion",
+                "inclusion": "Glaskörper-Hornhaut-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "H59.8",
+              "kind": "category",
+              "label": "Sonstige Affektionen des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Sonstige Affektionen des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen",
+                "inclusion": "Sickerkissen-assoziierte Endophthalmitis"
+              },
+              "children": []
+            },
+            {
+              "code": "H59.9",
+              "kind": "category",
+              "label": "Affektion des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Affektion des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

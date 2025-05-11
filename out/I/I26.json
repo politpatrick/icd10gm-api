@@ -1,0 +1,32 @@
+{
+  "code": "I26",
+  "kind": "category",
+  "label": "Lungenembolie",
+  "rubrics": {
+    "preferred": "Lungenembolie",
+    "inclusion": "Pulmonal (-Arterien) (-Venen):\n\t\t\t\tThrombose",
+    "exclusion": "Als Komplikation bei:\n\t\t\t\tSchwangerschaft, Geburt oder WochenbettO88.-"
+  },
+  "children": [
+    {
+      "code": "I26.0",
+      "kind": "category",
+      "label": "Lungenembolie mit Angabe eines akuten Cor pulmonale",
+      "rubrics": {
+        "preferred": "Lungenembolie mit Angabe eines akuten Cor pulmonale",
+        "inclusion": "Massive Lungenembolie"
+      },
+      "children": []
+    },
+    {
+      "code": "I26.9",
+      "kind": "category",
+      "label": "Lungenembolie ohne Angabe eines akuten Cor pulmonale",
+      "rubrics": {
+        "preferred": "Lungenembolie ohne Angabe eines akuten Cor pulmonale",
+        "inclusion": "Nichtmassive Lungenembolie"
+      },
+      "children": []
+    }
+  ]
+}

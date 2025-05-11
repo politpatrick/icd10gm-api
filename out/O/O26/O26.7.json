@@ -1,0 +1,10 @@
+{
+  "code": "O26.7",
+  "kind": "category",
+  "label": "Subluxation der Symphysis (pubica) während der Schwangerschaft, der Geburt und des Wochenbettes",
+  "rubrics": {
+    "preferred": "Subluxation der Symphysis (pubica) während der Schwangerschaft, der Geburt und des Wochenbettes",
+    "exclusion": "Traumatische Symphysensprengung (Symphysis pubica) unter der GeburtO71.6"
+  },
+  "children": []
+}

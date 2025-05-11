@@ -1,0 +1,105 @@
+{
+  "code": "D23",
+  "kind": "category",
+  "label": "Sonstige gutartige Neubildungen der Haut",
+  "rubrics": {
+    "preferred": "Sonstige gutartige Neubildungen der Haut",
+    "inclusion": "Gutartige Neubildung:\n\t\t\t\tTalgdrüsen",
+    "exclusion": "MelanozytennävusD22.-"
+  },
+  "children": [
+    {
+      "code": "D23.0",
+      "kind": "category",
+      "label": "Lippenhaut",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Lippenhaut",
+        "preferred": "Lippenhaut",
+        "exclusion": "LippenrotgrenzeD10.0"
+      },
+      "children": []
+    },
+    {
+      "code": "D23.1",
+      "kind": "category",
+      "label": "Haut des Augenlides, einschließlich Kanthus",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Haut des Augenlides, einschließlich Kanthus",
+        "preferred": "Haut des Augenlides, einschließlich Kanthus"
+      },
+      "children": []
+    },
+    {
+      "code": "D23.2",
+      "kind": "category",
+      "label": "Haut des Ohres und des äußeren Gehörganges",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Haut des Ohres und des äußeren Gehörganges",
+        "preferred": "Haut des Ohres und des äußeren Gehörganges"
+      },
+      "children": []
+    },
+    {
+      "code": "D23.3",
+      "kind": "category",
+      "label": "Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes",
+        "preferred": "Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes"
+      },
+      "children": []
+    },
+    {
+      "code": "D23.4",
+      "kind": "category",
+      "label": "Behaarte Kopfhaut und Haut des Halses",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Behaarte Kopfhaut und Haut des Halses",
+        "preferred": "Behaarte Kopfhaut und Haut des Halses"
+      },
+      "children": []
+    },
+    {
+      "code": "D23.5",
+      "kind": "category",
+      "label": "Haut des Rumpfes",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Haut des Rumpfes",
+        "preferred": "Haut des Rumpfes",
+        "inclusion": "Perianalhaut",
+        "exclusion": "Haut der GenitalorganeD28-D29"
+      },
+      "children": []
+    },
+    {
+      "code": "D23.6",
+      "kind": "category",
+      "label": "Haut der oberen Extremität, einschließlich Schulter",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Haut der oberen Extremität, einschließlich Schulter",
+        "preferred": "Haut der oberen Extremität, einschließlich Schulter"
+      },
+      "children": []
+    },
+    {
+      "code": "D23.7",
+      "kind": "category",
+      "label": "Haut der unteren Extremität, einschließlich Hüfte",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Haut der unteren Extremität, einschließlich Hüfte",
+        "preferred": "Haut der unteren Extremität, einschließlich Hüfte"
+      },
+      "children": []
+    },
+    {
+      "code": "D23.9",
+      "kind": "category",
+      "label": "Haut, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Sonstige gutartige Neubildungen: Haut, nicht näher bezeichnet",
+        "preferred": "Haut, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

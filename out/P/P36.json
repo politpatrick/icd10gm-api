@@ -1,0 +1,83 @@
+{
+  "code": "P36",
+  "kind": "category",
+  "label": "Bakterielle Sepsis beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Bakterielle Sepsis beim Neugeborenen",
+    "inclusion": "Angeborene Sepsis"
+  },
+  "children": [
+    {
+      "code": "P36.0",
+      "kind": "category",
+      "label": "Sepsis beim Neugeborenen durch Streptokokken, Gruppe B",
+      "rubrics": {
+        "preferred": "Sepsis beim Neugeborenen durch Streptokokken, Gruppe B"
+      },
+      "children": []
+    },
+    {
+      "code": "P36.1",
+      "kind": "category",
+      "label": "Sepsis beim Neugeborenen durch sonstige und nicht näher bezeichnete Streptokokken",
+      "rubrics": {
+        "preferred": "Sepsis beim Neugeborenen durch sonstige und nicht näher bezeichnete Streptokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "P36.2",
+      "kind": "category",
+      "label": "Sepsis beim Neugeborenen durch Staphylococcus aureus",
+      "rubrics": {
+        "preferred": "Sepsis beim Neugeborenen durch Staphylococcus aureus"
+      },
+      "children": []
+    },
+    {
+      "code": "P36.3",
+      "kind": "category",
+      "label": "Sepsis beim Neugeborenen durch sonstige und nicht näher bezeichnete Staphylokokken",
+      "rubrics": {
+        "preferred": "Sepsis beim Neugeborenen durch sonstige und nicht näher bezeichnete Staphylokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "P36.4",
+      "kind": "category",
+      "label": "Sepsis beim Neugeborenen durch Escherichia coli",
+      "rubrics": {
+        "preferred": "Sepsis beim Neugeborenen durch Escherichia coli"
+      },
+      "children": []
+    },
+    {
+      "code": "P36.5",
+      "kind": "category",
+      "label": "Sepsis beim Neugeborenen durch Anaerobier",
+      "rubrics": {
+        "preferred": "Sepsis beim Neugeborenen durch Anaerobier"
+      },
+      "children": []
+    },
+    {
+      "code": "P36.8",
+      "kind": "category",
+      "label": "Sonstige bakterielle Sepsis beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige bakterielle Sepsis beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P36.9",
+      "kind": "category",
+      "label": "Bakterielle Sepsis beim Neugeborenen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Bakterielle Sepsis beim Neugeborenen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

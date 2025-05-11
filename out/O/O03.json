@@ -1,0 +1,11 @@
+{
+  "code": "O03",
+  "kind": "category",
+  "label": "Spontanabort",
+  "rubrics": {
+    "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+    "preferred": "Spontanabort",
+    "inclusion": "Fehlgeburt"
+  },
+  "children": []
+}

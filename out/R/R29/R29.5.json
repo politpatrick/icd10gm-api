@@ -1,0 +1,10 @@
+{
+  "code": "R29.5",
+  "kind": "category",
+  "label": "Neurologischer Neglect",
+  "rubrics": {
+    "preferred": "Neurologischer Neglect",
+    "inclusion": "Visuell-räumlicher Neglect"
+  },
+  "children": []
+}

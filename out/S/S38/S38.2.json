@@ -1,0 +1,10 @@
+{
+  "code": "S38.2",
+  "kind": "category",
+  "label": "Traumatische Amputation der äußeren Genitalorgane",
+  "rubrics": {
+    "preferred": "Traumatische Amputation der äußeren Genitalorgane",
+    "inclusion": "Vulva"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D64.1",
+  "kind": "category",
+  "label": "Sekundäre sideroachrestische [sideroblastische] Anämie (krankheitsbedingt)",
+  "rubrics": {
+    "preferred": "Sekundäre sideroachrestische [sideroblastische] Anämie (krankheitsbedingt)",
+    "coding-hint": "Soll die Krankheit angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+  },
+  "children": []
+}

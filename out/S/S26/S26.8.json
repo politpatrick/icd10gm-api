@@ -1,0 +1,46 @@
+{
+  "code": "S26.8",
+  "kind": "category",
+  "label": "Sonstige Verletzungen des Herzens",
+  "rubrics": {
+    "preferred": "Sonstige Verletzungen des Herzens"
+  },
+  "children": [
+    {
+      "code": "S26.81",
+      "kind": "category",
+      "label": "Prellung des Herzens",
+      "rubrics": {
+        "preferred": "Prellung des Herzens"
+      },
+      "children": []
+    },
+    {
+      "code": "S26.82",
+      "kind": "category",
+      "label": "Rissverletzung des Herzens ohne Eröffnung einer Herzhöhle",
+      "rubrics": {
+        "preferred": "Rissverletzung des Herzens ohne Eröffnung einer Herzhöhle"
+      },
+      "children": []
+    },
+    {
+      "code": "S26.83",
+      "kind": "category",
+      "label": "Rissverletzung des Herzens mit Eröffnung einer Herzhöhle",
+      "rubrics": {
+        "preferred": "Rissverletzung des Herzens mit Eröffnung einer Herzhöhle"
+      },
+      "children": []
+    },
+    {
+      "code": "S26.88",
+      "kind": "category",
+      "label": "Sonstige Verletzungen des Herzens",
+      "rubrics": {
+        "preferred": "Sonstige Verletzungen des Herzens"
+      },
+      "children": []
+    }
+  ]
+}

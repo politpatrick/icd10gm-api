@@ -1,0 +1,10 @@
+{
+  "code": "H61.3",
+  "kind": "category",
+  "label": "Erworbene Stenose des äußeren Gehörganges",
+  "rubrics": {
+    "preferred": "Erworbene Stenose des äußeren Gehörganges",
+    "inclusion": "Verengung des äußeren Gehörganges"
+  },
+  "children": []
+}

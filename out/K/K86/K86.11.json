@@ -1,0 +1,10 @@
+{
+  "code": "K86.11",
+  "kind": "category",
+  "label": "Hereditäre Pankreatitis",
+  "rubrics": {
+    "preferred": "Hereditäre Pankreatitis",
+    "inclusion": "Genetisch bedingte Pankreatitis"
+  },
+  "children": []
+}

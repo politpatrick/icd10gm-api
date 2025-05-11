@@ -1,0 +1,30 @@
+{
+  "code": "O43.2",
+  "kind": "category",
+  "label": "Krankhaft anhaftende Plazenta",
+  "rubrics": {
+    "preferred": "Krankhaft anhaftende Plazenta",
+    "coding-hint": "Soll einer der folgenden Krankheitszustände angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen:\n\t\t\t\tRetention der Plazenta ohne Blutung (O73.0)"
+  },
+  "children": [
+    {
+      "code": "O43.20",
+      "kind": "category",
+      "label": "Placenta accreta",
+      "rubrics": {
+        "preferred": "Placenta accreta",
+        "inclusion": "Placenta adhaerens"
+      },
+      "children": []
+    },
+    {
+      "code": "O43.21",
+      "kind": "category",
+      "label": "Placenta increta oder percreta",
+      "rubrics": {
+        "preferred": "Placenta increta oder percreta"
+      },
+      "children": []
+    }
+  ]
+}

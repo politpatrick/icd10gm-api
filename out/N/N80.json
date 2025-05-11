@@ -1,0 +1,93 @@
+{
+  "code": "N80",
+  "kind": "category",
+  "label": "Endometriose",
+  "rubrics": {
+    "preferred": "Endometriose"
+  },
+  "children": [
+    {
+      "code": "N80.0",
+      "kind": "category",
+      "label": "Endometriose des Uterus",
+      "rubrics": {
+        "preferred": "Endometriose des Uterus",
+        "inclusion": "Adenomyosis uteri"
+      },
+      "children": []
+    },
+    {
+      "code": "N80.1",
+      "kind": "category",
+      "label": "Endometriose des Ovars",
+      "rubrics": {
+        "preferred": "Endometriose des Ovars"
+      },
+      "children": []
+    },
+    {
+      "code": "N80.2",
+      "kind": "category",
+      "label": "Endometriose der Tuba uterina",
+      "rubrics": {
+        "preferred": "Endometriose der Tuba uterina"
+      },
+      "children": []
+    },
+    {
+      "code": "N80.3",
+      "kind": "category",
+      "label": "Endometriose des Beckenperitoneums",
+      "rubrics": {
+        "preferred": "Endometriose des Beckenperitoneums"
+      },
+      "children": []
+    },
+    {
+      "code": "N80.4",
+      "kind": "category",
+      "label": "Endometriose des Septum rectovaginale und der Vagina",
+      "rubrics": {
+        "preferred": "Endometriose des Septum rectovaginale und der Vagina"
+      },
+      "children": []
+    },
+    {
+      "code": "N80.5",
+      "kind": "category",
+      "label": "Endometriose des Darmes",
+      "rubrics": {
+        "preferred": "Endometriose des Darmes"
+      },
+      "children": []
+    },
+    {
+      "code": "N80.6",
+      "kind": "category",
+      "label": "Endometriose in Hautnarbe",
+      "rubrics": {
+        "preferred": "Endometriose in Hautnarbe"
+      },
+      "children": []
+    },
+    {
+      "code": "N80.8",
+      "kind": "category",
+      "label": "Sonstige Endometriose",
+      "rubrics": {
+        "preferred": "Sonstige Endometriose",
+        "inclusion": "Thorakale Endometriose"
+      },
+      "children": []
+    },
+    {
+      "code": "N80.9",
+      "kind": "category",
+      "label": "Endometriose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Endometriose, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

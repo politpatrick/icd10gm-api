@@ -1,0 +1,10 @@
+{
+  "code": "S83.51",
+  "kind": "category",
+  "label": "Distorsion des vorderen Kreuzbandes",
+  "rubrics": {
+    "preferredLong": "Verstauchung und Zerrung des Kniegelenkes: Distorsion des vorderen Kreuzbandes",
+    "preferred": "Distorsion des vorderen Kreuzbandes"
+  },
+  "children": []
+}

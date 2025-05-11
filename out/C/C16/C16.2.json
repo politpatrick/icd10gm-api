@@ -1,0 +1,10 @@
+{
+  "code": "C16.2",
+  "kind": "category",
+  "label": "Corpus ventriculi",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Corpus ventriculi",
+    "preferred": "Corpus ventriculi"
+  },
+  "children": []
+}

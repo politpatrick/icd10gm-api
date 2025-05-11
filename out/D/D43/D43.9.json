@@ -1,0 +1,11 @@
+{
+  "code": "D43.9",
+  "kind": "category",
+  "label": "Zentralnervensystem, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Zentralnervensystem, nicht näher bezeichnet",
+    "preferred": "Zentralnervensystem, nicht näher bezeichnet",
+    "inclusion": "Nervensystem (ZNS) o.n.A."
+  },
+  "children": []
+}

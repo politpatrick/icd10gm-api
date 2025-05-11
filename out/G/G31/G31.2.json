@@ -1,0 +1,10 @@
+{
+  "code": "G31.2",
+  "kind": "category",
+  "label": "Degeneration des Nervensystems durch Alkohol",
+  "rubrics": {
+    "preferred": "Degeneration des Nervensystems durch Alkohol",
+    "inclusion": "Dysfunktion des autonomen Nervensystems durch Alkohol"
+  },
+  "children": []
+}

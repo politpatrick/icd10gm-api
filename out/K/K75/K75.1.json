@@ -1,0 +1,11 @@
+{
+  "code": "K75.1",
+  "kind": "category",
+  "label": "Phlebitis der Pfortader",
+  "rubrics": {
+    "preferred": "Phlebitis der Pfortader",
+    "inclusion": "Pylephlebitis",
+    "exclusion": "Pylephlebitischer LeberabszessK75.0"
+  },
+  "children": []
+}

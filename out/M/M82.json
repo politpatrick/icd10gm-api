@@ -1,0 +1,38 @@
+{
+  "code": "M82",
+  "kind": "category",
+  "label": "Osteoporose bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Osteoporose bei anderenorts klassifizierten Krankheiten",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+  },
+  "children": [
+    {
+      "code": "M82.0",
+      "kind": "category",
+      "label": "Osteoporose bei PlasmozytomC90.0-",
+      "rubrics": {
+        "preferred": "Osteoporose bei PlasmozytomC90.0-"
+      },
+      "children": []
+    },
+    {
+      "code": "M82.1",
+      "kind": "category",
+      "label": "Osteoporose bei endokrinen StörungenE00-E34",
+      "rubrics": {
+        "preferred": "Osteoporose bei endokrinen StörungenE00-E34"
+      },
+      "children": []
+    },
+    {
+      "code": "M82.8",
+      "kind": "category",
+      "label": "Osteoporose bei sonstigen anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Osteoporose bei sonstigen anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

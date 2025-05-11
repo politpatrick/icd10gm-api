@@ -1,0 +1,10 @@
+{
+  "code": "N39.3",
+  "kind": "category",
+  "label": "Belastungsinkontinenz [Stressinkontinenz]",
+  "rubrics": {
+    "preferred": "Belastungsinkontinenz [Stressinkontinenz]",
+    "coding-hint": "Soll nach einer durchgeführten Harninkontinenzoperation das erneute Auftreten der ursprünglich diagnostizierten Inkontinenz (Rezidivinkontinenz) angegeben werden, ist eine zusätzliche Schlüsselnummer (N39.47!) zu benutzen."
+  },
+  "children": []
+}

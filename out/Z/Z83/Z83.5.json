@@ -1,0 +1,11 @@
+{
+  "code": "Z83.5",
+  "kind": "category",
+  "label": "Augen- oder Ohrenkrankheiten in der Familienanamnese",
+  "rubrics": {
+    "preferred": "Augen- oder Ohrenkrankheiten in der Familienanamnese",
+    "inclusion": "Zustände, klassifizierbar unter H00-H53, H55-H83, H92-H95",
+    "exclusion": "Familienanamnese:\n\t\t\t\tTaubheit oder HörverlustZ82"
+  },
+  "children": []
+}

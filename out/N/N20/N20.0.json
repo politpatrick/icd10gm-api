@@ -1,0 +1,10 @@
+{
+  "code": "N20.0",
+  "kind": "category",
+  "label": "Nierenstein",
+  "rubrics": {
+    "preferred": "Nierenstein",
+    "inclusion": "Parenchymstein"
+  },
+  "children": []
+}

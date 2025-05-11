@@ -1,0 +1,11 @@
+{
+  "code": "H04.3",
+  "kind": "category",
+  "label": "Akute und nicht näher bezeichnete Entzündung der Tränenwege",
+  "rubrics": {
+    "preferred": "Akute und nicht näher bezeichnete Entzündung der Tränenwege",
+    "inclusion": "Peridakryozystitis\n\t\t\t\takut, subakut oder nicht näher bezeichnet",
+    "exclusion": "Dakryozystitis beim NeugeborenenP39.1"
+  },
+  "children": []
+}

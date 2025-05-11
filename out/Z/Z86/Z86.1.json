@@ -1,0 +1,11 @@
+{
+  "code": "Z86.1",
+  "kind": "category",
+  "label": "Infektiöse oder parasitäre Krankheiten in der Eigenanamnese",
+  "rubrics": {
+    "preferred": "Infektiöse oder parasitäre Krankheiten in der Eigenanamnese",
+    "inclusion": "Zustände, klassifizierbar unter A00-B89, B99",
+    "exclusion": "Folgezustände von infektiösen oder parasitären KrankheitenB90-B94"
+  },
+  "children": []
+}

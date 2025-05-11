@@ -1,0 +1,11 @@
+{
+  "code": "R15",
+  "kind": "category",
+  "label": "Stuhlinkontinenz",
+  "rubrics": {
+    "preferred": "Stuhlinkontinenz",
+    "inclusion": "Enkopresis o.n.A.",
+    "exclusion": "Nichtorganische EnkopresisF98.1"
+  },
+  "children": []
+}

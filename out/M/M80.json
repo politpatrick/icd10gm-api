@@ -1,0 +1,86 @@
+{
+  "code": "M80",
+  "kind": "category",
+  "label": "Osteoporose mit pathologischer Fraktur",
+  "rubrics": {
+    "preferred": "Osteoporose mit pathologischer Fraktur",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+    "inclusion": "Osteoporotische Wirbelkörperkompression und Keilwirbel",
+    "exclusion": "Wirbelkörperkompression o.n.A.M48.5-"
+  },
+  "children": [
+    {
+      "code": "M80.0",
+      "kind": "category",
+      "label": "Postmenopausale Osteoporose mit pathologischer Fraktur",
+      "rubrics": {
+        "preferred": "Postmenopausale Osteoporose mit pathologischer Fraktur"
+      },
+      "children": []
+    },
+    {
+      "code": "M80.1",
+      "kind": "category",
+      "label": "Osteoporose mit pathologischer Fraktur nach Ovarektomie",
+      "rubrics": {
+        "preferred": "Osteoporose mit pathologischer Fraktur nach Ovarektomie"
+      },
+      "children": []
+    },
+    {
+      "code": "M80.2",
+      "kind": "category",
+      "label": "Inaktivitätsosteoporose mit pathologischer Fraktur",
+      "rubrics": {
+        "preferred": "Inaktivitätsosteoporose mit pathologischer Fraktur"
+      },
+      "children": []
+    },
+    {
+      "code": "M80.3",
+      "kind": "category",
+      "label": "Osteoporose mit pathologischer Fraktur infolge Malabsorption nach chirurgischem Eingriff",
+      "rubrics": {
+        "preferred": "Osteoporose mit pathologischer Fraktur infolge Malabsorption nach chirurgischem Eingriff"
+      },
+      "children": []
+    },
+    {
+      "code": "M80.4",
+      "kind": "category",
+      "label": "Arzneimittelinduzierte Osteoporose mit pathologischer Fraktur",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierte Osteoporose mit pathologischer Fraktur",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "M80.5",
+      "kind": "category",
+      "label": "Idiopathische Osteoporose mit pathologischer Fraktur",
+      "rubrics": {
+        "preferred": "Idiopathische Osteoporose mit pathologischer Fraktur"
+      },
+      "children": []
+    },
+    {
+      "code": "M80.8",
+      "kind": "category",
+      "label": "Sonstige Osteoporose mit pathologischer Fraktur",
+      "rubrics": {
+        "preferred": "Sonstige Osteoporose mit pathologischer Fraktur"
+      },
+      "children": []
+    },
+    {
+      "code": "M80.9",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Osteoporose mit pathologischer Fraktur",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Osteoporose mit pathologischer Fraktur"
+      },
+      "children": []
+    }
+  ]
+}

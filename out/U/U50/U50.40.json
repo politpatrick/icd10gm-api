@@ -1,0 +1,10 @@
+{
+  "code": "U50.40",
+  "kind": "category",
+  "label": "Barthel-Index: 20-35 Punkte",
+  "rubrics": {
+    "preferredLong": "Schwere motorische Funktionseinschränkung: Barthel-Index: 20-35 Punkte",
+    "preferred": "Barthel-Index: 20-35 Punkte"
+  },
+  "children": []
+}

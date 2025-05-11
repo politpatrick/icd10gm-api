@@ -1,0 +1,183 @@
+{
+  "code": "S53",
+  "kind": "category",
+  "label": "Luxation, Verstauchung und Zerrung des Ellenbogengelenkes und von Bändern des Ellenbogens",
+  "rubrics": {
+    "preferred": "Luxation, Verstauchung und Zerrung des Ellenbogengelenkes und von Bändern des Ellenbogens",
+    "coding-hint": "Benutze eine zusätzliche Schlüsselnummer aus S51.84!-S51.89! zusammen mit S53.0-S53.1, um den Schweregrad des Weichteilschadens bei einer Luxation zu verschlüsseln.",
+    "exclusion": "Verstauchung und Zerrung von Muskeln und Sehnen in Höhe des UnterarmesS56.-"
+  },
+  "children": [
+    {
+      "code": "S53.0",
+      "kind": "category",
+      "label": "Luxation des Radiuskopfes",
+      "rubrics": {
+        "preferred": "Luxation des Radiuskopfes",
+        "inclusion": "Articulatio humeroradialis",
+        "exclusion": "Monteggia- (Luxations-) FrakturS52.21"
+      },
+      "children": []
+    },
+    {
+      "code": "S53.1",
+      "kind": "category",
+      "label": "Luxation sonstiger und nicht näher bezeichneter Teile des Ellenbogens",
+      "rubrics": {
+        "preferred": "Luxation sonstiger und nicht näher bezeichneter Teile des Ellenbogens",
+        "inclusion": "Articulatio humeroulnaris",
+        "exclusion": "Luxation des Radiuskopfes, isoliertS53.0"
+      },
+      "children": [
+        {
+          "code": "S53.10",
+          "kind": "category",
+          "label": "Nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Luxation des Ellenbogens: Nicht näher bezeichnet",
+            "preferred": "Nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S53.11",
+          "kind": "category",
+          "label": "Nach vorne",
+          "rubrics": {
+            "preferredLong": "Sonstige und nicht näher bezeichnete Luxation des Ellenbogens: Nach vorne",
+            "preferred": "Nach vorne"
+          },
+          "children": []
+        },
+        {
+          "code": "S53.12",
+          "kind": "category",
+          "label": "Nach hinten",
+          "rubrics": {
+            "preferredLong": "Sonstige und nicht näher bezeichnete Luxation des Ellenbogens: Nach hinten",
+            "preferred": "Nach hinten"
+          },
+          "children": []
+        },
+        {
+          "code": "S53.13",
+          "kind": "category",
+          "label": "Nach medial",
+          "rubrics": {
+            "preferredLong": "Sonstige und nicht näher bezeichnete Luxation des Ellenbogens: Nach medial",
+            "preferred": "Nach medial"
+          },
+          "children": []
+        },
+        {
+          "code": "S53.14",
+          "kind": "category",
+          "label": "Nach lateral",
+          "rubrics": {
+            "preferredLong": "Sonstige und nicht näher bezeichnete Luxation des Ellenbogens: Nach lateral",
+            "preferred": "Nach lateral"
+          },
+          "children": []
+        },
+        {
+          "code": "S53.18",
+          "kind": "category",
+          "label": "Sonstige",
+          "rubrics": {
+            "preferredLong": "Luxation des Ellenbogens: Sonstige",
+            "preferred": "Sonstige"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S53.2",
+      "kind": "category",
+      "label": "Traumatische Ruptur des Lig. collaterale radiale",
+      "rubrics": {
+        "preferred": "Traumatische Ruptur des Lig. collaterale radiale"
+      },
+      "children": []
+    },
+    {
+      "code": "S53.3",
+      "kind": "category",
+      "label": "Traumatische Ruptur des Lig. collaterale ulnare",
+      "rubrics": {
+        "preferred": "Traumatische Ruptur des Lig. collaterale ulnare"
+      },
+      "children": []
+    },
+    {
+      "code": "S53.4",
+      "kind": "category",
+      "label": "Verstauchung und Zerrung des Ellenbogens",
+      "rubrics": {
+        "preferred": "Verstauchung und Zerrung des Ellenbogens"
+      },
+      "children": [
+        {
+          "code": "S53.40",
+          "kind": "category",
+          "label": "Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Ellenbogens: Teil nicht näher bezeichnet",
+            "preferred": "Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S53.41",
+          "kind": "category",
+          "label": "Lig. collaterale radiale",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Ellenbogens: Lig. collaterale radiale",
+            "preferred": "Lig. collaterale radiale"
+          },
+          "children": []
+        },
+        {
+          "code": "S53.42",
+          "kind": "category",
+          "label": "Lig. collaterale ulnare",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Ellenbogens: Lig. collaterale ulnare",
+            "preferred": "Lig. collaterale ulnare"
+          },
+          "children": []
+        },
+        {
+          "code": "S53.43",
+          "kind": "category",
+          "label": "Humeroradial (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Ellenbogens: Humeroradial (-Gelenk)",
+            "preferred": "Humeroradial (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S53.44",
+          "kind": "category",
+          "label": "Humeroulnar (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Ellenbogens: Humeroulnar (-Gelenk)",
+            "preferred": "Humeroulnar (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S53.48",
+          "kind": "category",
+          "label": "Sonstige Teile",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Ellenbogens: Sonstige Teile",
+            "preferred": "Sonstige Teile"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

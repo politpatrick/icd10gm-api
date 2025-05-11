@@ -1,0 +1,10 @@
+{
+  "code": "C91.7",
+  "kind": "category",
+  "label": "Sonstige lymphatische Leukämie",
+  "rubrics": {
+    "preferred": "Sonstige lymphatische Leukämie",
+    "inclusion": "Leukämie grob-granulierter Lymphozyten vom T-Zell-Typ (assoziiert mit rheumatoider Arthritis)"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "T52.9",
+  "kind": "category",
+  "label": "Organisches Lösungsmittel, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Organisches Lösungsmittel, nicht näher bezeichnet",
+    "preferred": "Organisches Lösungsmittel, nicht näher bezeichnet"
+  },
+  "children": []
+}

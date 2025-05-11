@@ -1,0 +1,10 @@
+{
+  "code": "R04.0",
+  "kind": "category",
+  "label": "Epistaxis",
+  "rubrics": {
+    "preferred": "Epistaxis",
+    "inclusion": "Nasenbluten"
+  },
+  "children": []
+}

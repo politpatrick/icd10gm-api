@@ -1,0 +1,10 @@
+{
+  "code": "G80.3",
+  "kind": "category",
+  "label": "Dyskinetische Zerebralparese",
+  "rubrics": {
+    "preferred": "Dyskinetische Zerebralparese",
+    "inclusion": "Dystone zerebrale Lähmung"
+  },
+  "children": []
+}

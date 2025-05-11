@@ -1,0 +1,10 @@
+{
+  "code": "B26.8",
+  "kind": "category",
+  "label": "Mumps mit sonstigen Komplikationen",
+  "rubrics": {
+    "preferred": "Mumps mit sonstigen Komplikationen",
+    "inclusion": "Mumps:\n\t\t\t\tPolyneuropathieG63.0"
+  },
+  "children": []
+}

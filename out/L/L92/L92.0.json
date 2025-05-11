@@ -1,0 +1,10 @@
+{
+  "code": "L92.0",
+  "kind": "category",
+  "label": "Granuloma anulare",
+  "rubrics": {
+    "preferred": "Granuloma anulare",
+    "inclusion": "Granuloma anulare perforans"
+  },
+  "children": []
+}

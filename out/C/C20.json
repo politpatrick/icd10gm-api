@@ -1,0 +1,10 @@
+{
+  "code": "C20",
+  "kind": "category",
+  "label": "Bösartige Neubildung des Rektums",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung des Rektums",
+    "inclusion": "Ampulla recti"
+  },
+  "children": []
+}

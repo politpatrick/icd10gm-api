@@ -1,0 +1,10 @@
+{
+  "code": "A20.8",
+  "kind": "category",
+  "label": "Sonstige Formen der Pest",
+  "rubrics": {
+    "preferred": "Sonstige Formen der Pest",
+    "inclusion": "Pestis minor"
+  },
+  "children": []
+}

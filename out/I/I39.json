@@ -1,0 +1,65 @@
+{
+  "code": "I39",
+  "kind": "category",
+  "label": "Endokarditis und Herzklappenkrankheiten bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Endokarditis und Herzklappenkrankheiten bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Endokardbeteiligung bei:\n\t\t\t\tTyphus abdominalisA01.0"
+  },
+  "children": [
+    {
+      "code": "I39.0",
+      "kind": "category",
+      "label": "Mitralklappenkrankheiten bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Mitralklappenkrankheiten bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "I39.1",
+      "kind": "category",
+      "label": "Aortenklappenkrankheiten bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Aortenklappenkrankheiten bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "I39.2",
+      "kind": "category",
+      "label": "Trikuspidalklappenkrankheiten bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Trikuspidalklappenkrankheiten bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "I39.3",
+      "kind": "category",
+      "label": "Pulmonalklappenkrankheiten bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Pulmonalklappenkrankheiten bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "I39.4",
+      "kind": "category",
+      "label": "Krankheiten mehrerer Herzklappen bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten mehrerer Herzklappen bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "I39.8",
+      "kind": "category",
+      "label": "Endokarditis bei anderenorts klassifizierten Krankheiten, Herzklappe nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Endokarditis bei anderenorts klassifizierten Krankheiten, Herzklappe nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

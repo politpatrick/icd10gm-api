@@ -1,0 +1,277 @@
+{
+  "code": "D60-D64",
+  "kind": "block",
+  "label": "Aplastische und sonstige Anämien",
+  "rubrics": {
+    "preferred": "Aplastische und sonstige Anämien"
+  },
+  "children": [
+    {
+      "code": "D60",
+      "kind": "category",
+      "label": "Erworbene isolierte aplastische Anämie [Erythroblastopenie] [pure red cell aplasia]",
+      "rubrics": {
+        "preferred": "Erworbene isolierte aplastische Anämie [Erythroblastopenie] [pure red cell aplasia]",
+        "inclusion": "Isolierte aplastische Anämie (erworben) (beim Erwachsenen) (bei Thymom)"
+      },
+      "children": [
+        {
+          "code": "D60.0",
+          "kind": "category",
+          "label": "Chronische erworbene isolierte aplastische Anämie",
+          "rubrics": {
+            "preferred": "Chronische erworbene isolierte aplastische Anämie"
+          },
+          "children": []
+        },
+        {
+          "code": "D60.1",
+          "kind": "category",
+          "label": "Transitorische erworbene isolierte aplastische Anämie",
+          "rubrics": {
+            "preferred": "Transitorische erworbene isolierte aplastische Anämie"
+          },
+          "children": []
+        },
+        {
+          "code": "D60.8",
+          "kind": "category",
+          "label": "Sonstige erworbene isolierte aplastische Anämien",
+          "rubrics": {
+            "preferred": "Sonstige erworbene isolierte aplastische Anämien"
+          },
+          "children": []
+        },
+        {
+          "code": "D60.9",
+          "kind": "category",
+          "label": "Erworbene isolierte aplastische Anämie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Erworbene isolierte aplastische Anämie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D61",
+      "kind": "category",
+      "label": "Sonstige aplastische Anämien",
+      "rubrics": {
+        "preferred": "Sonstige aplastische Anämien",
+        "coding-hint": "Benutze zusätzliche Schlüsselnummern, um das Vorliegen einer Thrombozytopenie (D69.4-, D69.5-, D69.6-) oder einer Agranulozytose und Neutropenie (D70.-) anzugeben.",
+        "exclusion": "Agranulozytose D70.-"
+      },
+      "children": [
+        {
+          "code": "D61.0",
+          "kind": "category",
+          "label": "Angeborene aplastische Anämie",
+          "rubrics": {
+            "preferred": "Angeborene aplastische Anämie",
+            "inclusion": "Panzytopenie mit Fehlbildungen"
+          },
+          "children": []
+        },
+        {
+          "code": "D61.1",
+          "kind": "category",
+          "label": "Arzneimittelinduzierte aplastische Anämie",
+          "rubrics": {
+            "preferred": "Arzneimittelinduzierte aplastische Anämie",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+            "inclusion": "Arzneimittelinduzierte Panzytopenie"
+          },
+          "children": [
+            {
+              "code": "D61.10",
+              "kind": "category",
+              "label": "Aplastische Anämie infolge zytostatischer Therapie",
+              "rubrics": {
+                "preferred": "Aplastische Anämie infolge zytostatischer Therapie"
+              },
+              "children": []
+            },
+            {
+              "code": "D61.18",
+              "kind": "category",
+              "label": "Sonstige arzneimittelinduzierte aplastische Anämie",
+              "rubrics": {
+                "preferred": "Sonstige arzneimittelinduzierte aplastische Anämie"
+              },
+              "children": []
+            },
+            {
+              "code": "D61.19",
+              "kind": "category",
+              "label": "Arzneimittelinduzierte aplastische Anämie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Arzneimittelinduzierte aplastische Anämie, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "D61.2",
+          "kind": "category",
+          "label": "Aplastische Anämie infolge sonstiger äußerer Ursachen",
+          "rubrics": {
+            "preferred": "Aplastische Anämie infolge sonstiger äußerer Ursachen",
+            "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "D61.3",
+          "kind": "category",
+          "label": "Idiopathische aplastische Anämie",
+          "rubrics": {
+            "preferred": "Idiopathische aplastische Anämie"
+          },
+          "children": []
+        },
+        {
+          "code": "D61.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete aplastische Anämien",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete aplastische Anämien"
+          },
+          "children": []
+        },
+        {
+          "code": "D61.9",
+          "kind": "category",
+          "label": "Aplastische Anämie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Aplastische Anämie, nicht näher bezeichnet",
+            "inclusion": "Panmyelophthise"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D62",
+      "kind": "category",
+      "label": "Akute Blutungsanämie",
+      "rubrics": {
+        "preferred": "Akute Blutungsanämie",
+        "inclusion": "Anämie nach intra- und postoperativer Blutung",
+        "exclusion": "Angeborene Anämie durch fetalen BlutverlustP61.3"
+      },
+      "children": []
+    },
+    {
+      "code": "D63",
+      "kind": "category",
+      "label": "Anämie bei chronischen, anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Anämie bei chronischen, anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "D63.0",
+          "kind": "category",
+          "label": "Anämie bei NeubildungenC00-D48",
+          "rubrics": {
+            "preferred": "Anämie bei NeubildungenC00-D48"
+          },
+          "children": []
+        },
+        {
+          "code": "D63.8",
+          "kind": "category",
+          "label": "Anämie bei sonstigen chronischen, anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Anämie bei sonstigen chronischen, anderenorts klassifizierten Krankheiten",
+            "inclusion": "Anämie bei chronischer Nierenkrankheit größer oder gleich Stadium 3 N18.3-N18.5"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D64",
+      "kind": "category",
+      "label": "Sonstige Anämien",
+      "rubrics": {
+        "preferred": "Sonstige Anämien",
+        "exclusion": "Refraktäre Anämie:\n\t\t\t\to.n.A.D46.4"
+      },
+      "children": [
+        {
+          "code": "D64.0",
+          "kind": "category",
+          "label": "Hereditäre sideroachrestische [sideroblastische] Anämie",
+          "rubrics": {
+            "preferred": "Hereditäre sideroachrestische [sideroblastische] Anämie",
+            "inclusion": "X-chromosomal-gebundene hypochrome sideroachrestische Anämie"
+          },
+          "children": []
+        },
+        {
+          "code": "D64.1",
+          "kind": "category",
+          "label": "Sekundäre sideroachrestische [sideroblastische] Anämie (krankheitsbedingt)",
+          "rubrics": {
+            "preferred": "Sekundäre sideroachrestische [sideroblastische] Anämie (krankheitsbedingt)",
+            "coding-hint": "Soll die Krankheit angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "D64.2",
+          "kind": "category",
+          "label": "Sekundäre sideroachrestische [sideroblastische] Anämie durch Arzneimittel oder Toxine",
+          "rubrics": {
+            "preferred": "Sekundäre sideroachrestische [sideroblastische] Anämie durch Arzneimittel oder Toxine",
+            "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "D64.3",
+          "kind": "category",
+          "label": "Sonstige sideroachrestische [sideroblastische] Anämien",
+          "rubrics": {
+            "preferred": "Sonstige sideroachrestische [sideroblastische] Anämien",
+            "inclusion": "Sideroachrestische Anämie:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "D64.4",
+          "kind": "category",
+          "label": "Kongenitale dyserythropoetische Anämie",
+          "rubrics": {
+            "preferred": "Kongenitale dyserythropoetische Anämie",
+            "inclusion": "Dyshäm(at)opoetische Anämie (angeboren)",
+            "exclusion": "Di-Guglielmo-KrankheitC94.0-"
+          },
+          "children": []
+        },
+        {
+          "code": "D64.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Anämien",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Anämien",
+            "inclusion": "Leukoerythroblastische Anämie"
+          },
+          "children": []
+        },
+        {
+          "code": "D64.9",
+          "kind": "category",
+          "label": "Anämie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Anämie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

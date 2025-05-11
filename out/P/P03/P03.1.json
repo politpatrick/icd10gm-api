@@ -1,0 +1,10 @@
+{
+  "code": "P03.1",
+  "kind": "category",
+  "label": "Schädigung des Fetus und Neugeborenen durch sonstige Lage-, Haltungs- und Einstellungsanomalien sowie Missverhältnis während Wehen und Entbindung",
+  "rubrics": {
+    "preferred": "Schädigung des Fetus und Neugeborenen durch sonstige Lage-, Haltungs- und Einstellungsanomalien sowie Missverhältnis während Wehen und Entbindung",
+    "inclusion": "Schädigung des Fetus oder Neugeborenen durch Zustände, die unter O64-O66 klassifizierbar sind"
+  },
+  "children": []
+}

@@ -1,0 +1,49 @@
+{
+  "code": "N20",
+  "kind": "category",
+  "label": "Nieren- und Ureterstein",
+  "rubrics": {
+    "preferred": "Nieren- und Ureterstein",
+    "exclusion": "Mit Hydronephrose N13.2-"
+  },
+  "children": [
+    {
+      "code": "N20.0",
+      "kind": "category",
+      "label": "Nierenstein",
+      "rubrics": {
+        "preferred": "Nierenstein",
+        "inclusion": "Parenchymstein"
+      },
+      "children": []
+    },
+    {
+      "code": "N20.1",
+      "kind": "category",
+      "label": "Ureterstein",
+      "rubrics": {
+        "preferred": "Ureterstein",
+        "inclusion": "Harnleiterstein"
+      },
+      "children": []
+    },
+    {
+      "code": "N20.2",
+      "kind": "category",
+      "label": "Nierenstein und Ureterstein gleichzeitig",
+      "rubrics": {
+        "preferred": "Nierenstein und Ureterstein gleichzeitig"
+      },
+      "children": []
+    },
+    {
+      "code": "N20.9",
+      "kind": "category",
+      "label": "Harnstein, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Harnstein, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

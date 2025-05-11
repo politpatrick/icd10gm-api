@@ -1,0 +1,12 @@
+{
+  "code": "C30.0",
+  "kind": "category",
+  "label": "Nasenhöhle",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Nasenhöhle",
+    "preferred": "Nasenhöhle",
+    "inclusion": "Vestibulum nasi",
+    "exclusion": "NasenbeinC41.02"
+  },
+  "children": []
+}

@@ -1,0 +1,52 @@
+{
+  "code": "O02",
+  "kind": "category",
+  "label": "Sonstige abnorme Konzeptionsprodukte",
+  "rubrics": {
+    "preferred": "Sonstige abnorme Konzeptionsprodukte",
+    "coding-hint": "Soll eine begleitende Komplikation angegeben werden, ist zusätzlich eine Schlüsselnummer aus O08.- zu benutzen.",
+    "exclusion": "Fetus papyraceusO31.0"
+  },
+  "children": [
+    {
+      "code": "O02.0",
+      "kind": "category",
+      "label": "Abortivei und sonstige Molen",
+      "rubrics": {
+        "preferred": "Abortivei und sonstige Molen",
+        "inclusion": "Pathologische Eizelle"
+      },
+      "children": []
+    },
+    {
+      "code": "O02.1",
+      "kind": "category",
+      "label": "Missed abortion [Verhaltene Fehlgeburt]",
+      "rubrics": {
+        "preferred": "Missed abortion [Verhaltene Fehlgeburt]",
+        "inclusion": "Früher Fetaltod mit Retention des toten Fetus",
+        "exclusion": "Missed abortion mit:\n\t\t\t\tMole:\n\t\t\t\tsonstigeO02.0"
+      },
+      "children": []
+    },
+    {
+      "code": "O02.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete abnorme Konzeptionsprodukte",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete abnorme Konzeptionsprodukte",
+        "exclusion": "Abnorme Konzeptionsprodukte mit:\n\t\t\t\tMole:\n\t\t\t\tsonstigeO02.0"
+      },
+      "children": []
+    },
+    {
+      "code": "O02.9",
+      "kind": "category",
+      "label": "Anomales Konzeptionsprodukt, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Anomales Konzeptionsprodukt, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

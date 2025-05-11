@@ -1,0 +1,10 @@
+{
+  "code": "E34.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete endokrine Störungen",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete endokrine Störungen",
+    "inclusion": "Progerie"
+  },
+  "children": []
+}

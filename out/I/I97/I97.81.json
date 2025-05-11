@@ -1,0 +1,10 @@
+{
+  "code": "I97.81",
+  "kind": "category",
+  "label": "Lymphödem nach medizinischen Maßnahmen am axillären Lymphabflussgebiet, Stadium I",
+  "rubrics": {
+    "preferred": "Lymphödem nach medizinischen Maßnahmen am axillären Lymphabflussgebiet, Stadium I",
+    "exclusion": "Lymphödem nach (partieller) Mastektomie mit axillärer Lymphadenektomie, Stadium II97.20"
+  },
+  "children": []
+}

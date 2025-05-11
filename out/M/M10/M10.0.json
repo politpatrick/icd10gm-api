@@ -1,0 +1,10 @@
+{
+  "code": "M10.0",
+  "kind": "category",
+  "label": "Idiopathische Gicht",
+  "rubrics": {
+    "preferred": "Idiopathische Gicht",
+    "inclusion": "Primäre Gicht"
+  },
+  "children": []
+}

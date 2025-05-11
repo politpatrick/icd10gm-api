@@ -1,0 +1,10 @@
+{
+  "code": "I83.9",
+  "kind": "category",
+  "label": "Varizen der unteren Extremitäten ohne Ulzeration oder Entzündung",
+  "rubrics": {
+    "preferred": "Varizen der unteren Extremitäten ohne Ulzeration oder Entzündung",
+    "inclusion": "Variköse Venen\n\t\t\t\tuntere Extremität [jeder Abschnitt] oder nicht näher bezeichnete Lokalisation"
+  },
+  "children": []
+}

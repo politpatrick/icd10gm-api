@@ -1,0 +1,77 @@
+{
+  "code": "F63",
+  "kind": "category",
+  "label": "Abnorme Gewohnheiten und Störungen der Impulskontrolle",
+  "rubrics": {
+    "preferred": "Abnorme Gewohnheiten und Störungen der Impulskontrolle",
+    "definition": "In dieser Kategorie sind verschiedene nicht an anderer Stelle klassifizierbare Verhaltensstörungen zusammengefasst. Sie sind durch wiederholte Handlungen ohne vernünftige Motivation gekennzeichnet, die nicht kontrolliert werden können und die meist die Interessen des betroffenen Patienten oder anderer Menschen schädigen. Der betroffene Patient berichtet von impulshaftem Verhalten. Die Ursachen dieser Störungen sind unklar, sie sind wegen deskriptiver Ähnlichkeiten hier gemeinsam aufgeführt, nicht weil sie andere wichtige Merkmale teilen.",
+    "exclusion": "Gewohnheitsmäßiger exzessiver Gebrauch von Alkohol oder psychotropen SubstanzenF10-F19"
+  },
+  "children": [
+    {
+      "code": "F63.0",
+      "kind": "category",
+      "label": "Pathologisches Spielen",
+      "rubrics": {
+        "preferred": "Pathologisches Spielen",
+        "definition": "Die Störung besteht in häufigem und wiederholtem episodenhaften Glücksspiel, das die Lebensführung des betroffenen Patienten beherrscht und zum Verfall der sozialen, beruflichen, materiellen und familiären Werte und Verpflichtungen führt.",
+        "inclusion": "Zwanghaftes Spielen",
+        "exclusion": "Spielen und Wetten o.n.A.Z72.8"
+      },
+      "children": []
+    },
+    {
+      "code": "F63.1",
+      "kind": "category",
+      "label": "Pathologische Brandstiftung [Pyromanie]",
+      "rubrics": {
+        "preferred": "Pathologische Brandstiftung [Pyromanie]",
+        "definition": "Die Störung ist durch häufige tatsächliche oder versuchte Brandstiftung an Gebäuden oder anderem Eigentum ohne verständliches Motiv und durch eine anhaltende Beschäftigung der betroffenen Person mit Feuer und Brand charakterisiert. Das Verhalten ist häufig mit wachsender innerer Spannung vor der Handlung und starker Erregung sofort nach ihrer Ausführung verbunden.",
+        "exclusion": "Brandstiftung:\n\t\t\t\tdurch Erwachsene mit dissozialer PersönlichkeitsstörungF60.2"
+      },
+      "children": []
+    },
+    {
+      "code": "F63.2",
+      "kind": "category",
+      "label": "Pathologisches Stehlen [Kleptomanie]",
+      "rubrics": {
+        "preferred": "Pathologisches Stehlen [Kleptomanie]",
+        "definition": "Die Störung charakterisiert wiederholtes Versagen Impulsen zu widerstehen, Dinge zu stehlen, die nicht dem persönlichen Gebrauch oder der Bereicherung dienen. Statt dessen werden die Gegenstände weggeworfen, weggegeben oder gehortet. Dieses Verhalten ist meist mit wachsender innerer Spannung vor der Handlung und einem Gefühl von Befriedigung während und sofort nach der Tat verbunden.",
+        "exclusion": "Stehlen bei depressiver StörungF31-F33"
+      },
+      "children": []
+    },
+    {
+      "code": "F63.3",
+      "kind": "category",
+      "label": "Trichotillomanie",
+      "rubrics": {
+        "preferred": "Trichotillomanie",
+        "definition": "Bei dieser Störung kommt es nach immer wieder misslungenem Versuch, sich gegen Impulse zum Ausreißen der Haare zu wehren, zu einem beachtlichen Haarverlust. Das Ausreißen der Haare ist häufig mit dem Gefühl wachsender Spannung verbunden und einem anschließenden Gefühl von Erleichterung und Befriedigung. Diese Diagnose soll nicht gestellt werden, wenn zuvor eine Hautentzündung bestand oder wenn das Ausreißen der Haare eine Reaktion auf ein Wahnphänomen oder eine Halluzination ist.",
+        "exclusion": "Stereotype Bewegungsstörung mit HaarezupfenF98.4-"
+      },
+      "children": []
+    },
+    {
+      "code": "F63.8",
+      "kind": "category",
+      "label": "Sonstige abnorme Gewohnheiten und Störungen der Impulskontrolle",
+      "rubrics": {
+        "preferred": "Sonstige abnorme Gewohnheiten und Störungen der Impulskontrolle",
+        "definition": "In diese Kategorie fallen andere Arten sich dauernd wiederholenden unangepassten Verhaltens, die nicht Folge eines erkennbaren psychiatrischen Syndroms sind und bei denen der betroffene Patient den Impulsen, das pathologische Verhalten auszuführen, nicht widerstehen kann. Nach einer vorausgehenden Periode mit Anspannung folgt während des Handlungsablaufs ein Gefühl der Erleichterung.",
+        "inclusion": "Störung mit intermittierend auftretender Reizbarkeit"
+      },
+      "children": []
+    },
+    {
+      "code": "F63.9",
+      "kind": "category",
+      "label": "Abnorme Gewohnheit und Störung der Impulskontrolle, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Abnorme Gewohnheit und Störung der Impulskontrolle, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

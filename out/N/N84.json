@@ -1,0 +1,69 @@
+{
+  "code": "N84",
+  "kind": "category",
+  "label": "Polyp des weiblichen Genitaltraktes",
+  "rubrics": {
+    "preferred": "Polyp des weiblichen Genitaltraktes",
+    "exclusion": "PlazentapolypO90.8"
+  },
+  "children": [
+    {
+      "code": "N84.0",
+      "kind": "category",
+      "label": "Polyp des Corpus uteri",
+      "rubrics": {
+        "preferred": "Polyp des Corpus uteri",
+        "inclusion": "Polyp:\n\t\t\t\tUterus o.n.A.",
+        "exclusion": "Polypoide Hyperplasie des EndometriumsN85.0"
+      },
+      "children": []
+    },
+    {
+      "code": "N84.1",
+      "kind": "category",
+      "label": "Polyp der Cervix uteri",
+      "rubrics": {
+        "preferred": "Polyp der Cervix uteri",
+        "inclusion": "Schleimhautpolyp der Zervix"
+      },
+      "children": []
+    },
+    {
+      "code": "N84.2",
+      "kind": "category",
+      "label": "Polyp der Vagina",
+      "rubrics": {
+        "preferred": "Polyp der Vagina"
+      },
+      "children": []
+    },
+    {
+      "code": "N84.3",
+      "kind": "category",
+      "label": "Polyp der Vulva",
+      "rubrics": {
+        "preferred": "Polyp der Vulva",
+        "inclusion": "Polyp der Labien"
+      },
+      "children": []
+    },
+    {
+      "code": "N84.8",
+      "kind": "category",
+      "label": "Polyp an sonstigen Teilen des weiblichen Genitaltraktes",
+      "rubrics": {
+        "preferred": "Polyp an sonstigen Teilen des weiblichen Genitaltraktes"
+      },
+      "children": []
+    },
+    {
+      "code": "N84.9",
+      "kind": "category",
+      "label": "Polyp des weiblichen Genitaltraktes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Polyp des weiblichen Genitaltraktes, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

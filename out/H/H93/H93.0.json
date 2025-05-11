@@ -1,0 +1,11 @@
+{
+  "code": "H93.0",
+  "kind": "category",
+  "label": "Degenerative und vaskuläre Krankheiten des Ohres",
+  "rubrics": {
+    "preferred": "Degenerative und vaskuläre Krankheiten des Ohres",
+    "inclusion": "Transitorische ischämische Schwerhörigkeit oder Taubheit",
+    "exclusion": "PresbyakusisH91.1"
+  },
+  "children": []
+}

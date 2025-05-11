@@ -1,0 +1,10 @@
+{
+  "code": "R78.8",
+  "kind": "category",
+  "label": "Nachweis sonstiger näher bezeichneter Substanzen, die normalerweise nicht im Blut vorhanden sind",
+  "rubrics": {
+    "preferred": "Nachweis sonstiger näher bezeichneter Substanzen, die normalerweise nicht im Blut vorhanden sind",
+    "inclusion": "Nachweis eines abnormen Lithium-Blutwertes"
+  },
+  "children": []
+}

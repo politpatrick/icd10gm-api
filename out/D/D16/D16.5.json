@@ -1,0 +1,11 @@
+{
+  "code": "D16.5",
+  "kind": "category",
+  "label": "Unterkieferknochen",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung des Knochens und des Gelenkknorpels: Unterkieferknochen",
+    "preferred": "Unterkieferknochen",
+    "inclusion": "Mandibula"
+  },
+  "children": []
+}

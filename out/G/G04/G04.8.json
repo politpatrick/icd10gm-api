@@ -1,0 +1,10 @@
+{
+  "code": "G04.8",
+  "kind": "category",
+  "label": "Sonstige Enzephalitis, Myelitis und Enzephalomyelitis",
+  "rubrics": {
+    "preferred": "Sonstige Enzephalitis, Myelitis und Enzephalomyelitis",
+    "inclusion": "Postinfektiöse Enzephalitis und Enzephalomyelitis o.n.A."
+  },
+  "children": []
+}

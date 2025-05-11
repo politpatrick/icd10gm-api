@@ -1,0 +1,154 @@
+{
+  "code": "M21",
+  "kind": "category",
+  "label": "Sonstige erworbene Deformitäten der Extremitäten",
+  "rubrics": {
+    "preferred": "Sonstige erworbene Deformitäten der Extremitäten",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+    "exclusion": "Verlust von ExtremitätenZ89.-"
+  },
+  "children": [
+    {
+      "code": "M21.0",
+      "kind": "category",
+      "label": "Valgusdeformität, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Valgusdeformität, anderenorts nicht klassifiziert",
+        "exclusion": "Pes calcaneovalgus congenitusQ66.4"
+      },
+      "children": []
+    },
+    {
+      "code": "M21.1",
+      "kind": "category",
+      "label": "Varusdeformität, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Varusdeformität, anderenorts nicht klassifiziert",
+        "exclusion": "Tibia varaM92.5"
+      },
+      "children": []
+    },
+    {
+      "code": "M21.2",
+      "kind": "category",
+      "label": "Flexionsdeformität",
+      "rubrics": {
+        "preferred": "Flexionsdeformität"
+      },
+      "children": []
+    },
+    {
+      "code": "M21.3",
+      "kind": "category",
+      "label": "Fallhand oder Hängefuß (erworben)",
+      "rubrics": {
+        "preferred": "Fallhand oder Hängefuß (erworben)"
+      },
+      "children": []
+    },
+    {
+      "code": "M21.4",
+      "kind": "category",
+      "label": "Plattfuß [Pes planus] (erworben)",
+      "rubrics": {
+        "preferred": "Plattfuß [Pes planus] (erworben)",
+        "exclusion": "Pes planus congenitusQ66.5"
+      },
+      "children": []
+    },
+    {
+      "code": "M21.5",
+      "kind": "category",
+      "label": "Erworbene Klauenhand, Klumphand, erworbener Klauenfuß und Klumpfuß",
+      "rubrics": {
+        "preferred": "Erworbene Klauenhand, Klumphand, erworbener Klauenfuß und Klumpfuß",
+        "exclusion": "Klumpfuß, nicht als erworben bezeichnetQ66.0"
+      },
+      "children": []
+    },
+    {
+      "code": "M21.6",
+      "kind": "category",
+      "label": "Sonstige erworbene Deformitäten des Knöchels und des Fußes",
+      "rubrics": {
+        "preferred": "Sonstige erworbene Deformitäten des Knöchels und des Fußes",
+        "exclusion": "Deformitäten der Zehe (erworben)M20.1-M20.6"
+      },
+      "children": [
+        {
+          "code": "M21.60",
+          "kind": "category",
+          "label": "Erworbener Hohlfuß [Pes cavus]",
+          "rubrics": {
+            "preferred": "Erworbener Hohlfuß [Pes cavus]"
+          },
+          "children": []
+        },
+        {
+          "code": "M21.61",
+          "kind": "category",
+          "label": "Erworbener Knick-Plattfuß [Pes planovalgus]",
+          "rubrics": {
+            "preferred": "Erworbener Knick-Plattfuß [Pes planovalgus]"
+          },
+          "children": []
+        },
+        {
+          "code": "M21.62",
+          "kind": "category",
+          "label": "Erworbener Spitzfuß [Pes equinus]",
+          "rubrics": {
+            "preferred": "Erworbener Spitzfuß [Pes equinus]",
+            "exclusion": "Hängefuß (erworben)M21.37"
+          },
+          "children": []
+        },
+        {
+          "code": "M21.63",
+          "kind": "category",
+          "label": "Erworbener Spreizfuß",
+          "rubrics": {
+            "preferred": "Erworbener Spreizfuß"
+          },
+          "children": []
+        },
+        {
+          "code": "M21.68",
+          "kind": "category",
+          "label": "Sonstige erworbene Deformitäten des Knöchels und des Fußes",
+          "rubrics": {
+            "preferred": "Sonstige erworbene Deformitäten des Knöchels und des Fußes"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M21.7",
+      "kind": "category",
+      "label": "Unterschiedliche Extremitätenlänge (erworben)",
+      "rubrics": {
+        "preferred": "Unterschiedliche Extremitätenlänge (erworben)"
+      },
+      "children": []
+    },
+    {
+      "code": "M21.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete erworbene Deformitäten der Extremitäten",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete erworbene Deformitäten der Extremitäten"
+      },
+      "children": []
+    },
+    {
+      "code": "M21.9",
+      "kind": "category",
+      "label": "Erworbene Deformität einer Extremität, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Erworbene Deformität einer Extremität, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

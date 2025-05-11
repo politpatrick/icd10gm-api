@@ -1,0 +1,10 @@
+{
+  "code": "Z08.1",
+  "kind": "category",
+  "label": "Nachuntersuchung nach Strahlentherapie wegen bösartiger Neubildung",
+  "rubrics": {
+    "preferred": "Nachuntersuchung nach Strahlentherapie wegen bösartiger Neubildung",
+    "exclusion": "Strahlentherapie-SitzungZ51.0"
+  },
+  "children": []
+}

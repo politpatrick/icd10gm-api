@@ -1,0 +1,48 @@
+{
+  "code": "E56",
+  "kind": "category",
+  "label": "Sonstige Vitaminmangelzustände",
+  "rubrics": {
+    "preferred": "Sonstige Vitaminmangelzustände",
+    "exclusion": "Folgen sonstiger VitaminmangelzuständeE64.8"
+  },
+  "children": [
+    {
+      "code": "E56.0",
+      "kind": "category",
+      "label": "Vitamin-E-Mangel",
+      "rubrics": {
+        "preferred": "Vitamin-E-Mangel"
+      },
+      "children": []
+    },
+    {
+      "code": "E56.1",
+      "kind": "category",
+      "label": "Vitamin-K-Mangel",
+      "rubrics": {
+        "preferred": "Vitamin-K-Mangel",
+        "exclusion": "Vitamin-K-Mangel beim NeugeborenenP53"
+      },
+      "children": []
+    },
+    {
+      "code": "E56.8",
+      "kind": "category",
+      "label": "Mangel an sonstigen Vitaminen",
+      "rubrics": {
+        "preferred": "Mangel an sonstigen Vitaminen"
+      },
+      "children": []
+    },
+    {
+      "code": "E56.9",
+      "kind": "category",
+      "label": "Vitaminmangel, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Vitaminmangel, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "O33.5",
+  "kind": "category",
+  "label": "Betreuung der Mutter bei Missverhältnis durch ungewöhnlich großen Fetus",
+  "rubrics": {
+    "preferred": "Betreuung der Mutter bei Missverhältnis durch ungewöhnlich großen Fetus",
+    "inclusion": "Missverhältnis fetaler Ursache bei normal ausgebildetem Fetus"
+  },
+  "children": []
+}

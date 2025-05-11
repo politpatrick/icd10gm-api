@@ -1,0 +1,11 @@
+{
+  "code": "S42.29",
+  "kind": "category",
+  "label": "Sonstige und multiple Teile",
+  "rubrics": {
+    "preferredLong": "Fraktur des proximalen Endes des Humerus: Sonstige und multiple Teile",
+    "preferred": "Sonstige und multiple Teile",
+    "inclusion": "Tuberculum minus"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "S05.5",
+  "kind": "category",
+  "label": "Penetrierende Wunde des Augapfels mit Fremdkörper",
+  "rubrics": {
+    "preferred": "Penetrierende Wunde des Augapfels mit Fremdkörper",
+    "exclusion": "Verbliebener (alter) intraokularer FremdkörperH44.6-H44.7"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "F02.2",
+  "kind": "category",
+  "label": "Demenz bei Chorea HuntingtonG10",
+  "rubrics": {
+    "preferred": "Demenz bei Chorea HuntingtonG10",
+    "definition": "Eine Demenz, die im Rahmen einer ausgeprägten Hirndegeneration auftritt. Die Störung ist autosomal dominant erblich. Die Symptomatik beginnt typischerweise im dritten und vierten Lebensjahrzehnt. Bei langsamer Progredienz führt die Krankheit meist innerhalb von 10 - 15 Jahren zum Tode.",
+    "inclusion": "Demenz bei Huntington-Krankheit"
+  },
+  "children": []
+}

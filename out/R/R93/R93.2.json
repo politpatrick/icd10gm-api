@@ -1,0 +1,10 @@
+{
+  "code": "R93.2",
+  "kind": "category",
+  "label": "Abnorme Befunde bei der bildgebenden Diagnostik der Leber und der Gallenwege",
+  "rubrics": {
+    "preferred": "Abnorme Befunde bei der bildgebenden Diagnostik der Leber und der Gallenwege",
+    "inclusion": "Nichtdarstellung der Gallenblase"
+  },
+  "children": []
+}

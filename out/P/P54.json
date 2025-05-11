@@ -1,0 +1,97 @@
+{
+  "code": "P54",
+  "kind": "category",
+  "label": "Sonstige Blutungen beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Sonstige Blutungen beim Neugeborenen",
+    "exclusion": "Lungenblutung mit Ursprung in der PerinatalperiodeP26.-"
+  },
+  "children": [
+    {
+      "code": "P54.0",
+      "kind": "category",
+      "label": "Hämatemesis beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Hämatemesis beim Neugeborenen",
+        "exclusion": "Hämatemesis durch Verschlucken mütterlichen BlutesP78.2"
+      },
+      "children": []
+    },
+    {
+      "code": "P54.1",
+      "kind": "category",
+      "label": "Meläna beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Meläna beim Neugeborenen",
+        "exclusion": "Meläna durch Verschlucken mütterlichen BlutesP78.2"
+      },
+      "children": []
+    },
+    {
+      "code": "P54.2",
+      "kind": "category",
+      "label": "Rektumblutung beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Rektumblutung beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P54.3",
+      "kind": "category",
+      "label": "Sonstige gastrointestinale Blutung beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige gastrointestinale Blutung beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P54.4",
+      "kind": "category",
+      "label": "Nebennierenblutung beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Nebennierenblutung beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P54.5",
+      "kind": "category",
+      "label": "Hautblutung beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Hautblutung beim Neugeborenen",
+        "inclusion": "Quetschwunde\n\t\t\t\tbeim Fetus oder Neugeborenen",
+        "exclusion": "Quetschwunde der behaarten Kopfhaut durch GeburtsverletzungP12.3"
+      },
+      "children": []
+    },
+    {
+      "code": "P54.6",
+      "kind": "category",
+      "label": "Blutung aus der Vagina beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Blutung aus der Vagina beim Neugeborenen",
+        "inclusion": "Pseudomenstruation"
+      },
+      "children": []
+    },
+    {
+      "code": "P54.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Blutungen beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Blutungen beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P54.9",
+      "kind": "category",
+      "label": "Blutung beim Neugeborenen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Blutung beim Neugeborenen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

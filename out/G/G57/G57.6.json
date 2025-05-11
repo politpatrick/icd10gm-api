@@ -1,0 +1,10 @@
+{
+  "code": "G57.6",
+  "kind": "category",
+  "label": "Läsion des N. plantaris",
+  "rubrics": {
+    "preferred": "Läsion des N. plantaris",
+    "inclusion": "Morton-Neuralgie [Metatarsalgie]"
+  },
+  "children": []
+}

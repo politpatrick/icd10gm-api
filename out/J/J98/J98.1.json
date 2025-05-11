@@ -1,0 +1,48 @@
+{
+  "code": "J98.1",
+  "kind": "category",
+  "label": "Lungenkollaps",
+  "rubrics": {
+    "preferred": "Lungenkollaps",
+    "exclusion": "Atelektase:\n\t\t\t\ttuberkulös (aktuelle Krankheit)A15-A16"
+  },
+  "children": [
+    {
+      "code": "J98.10",
+      "kind": "category",
+      "label": "Dystelektase",
+      "rubrics": {
+        "preferred": "Dystelektase"
+      },
+      "children": []
+    },
+    {
+      "code": "J98.11",
+      "kind": "category",
+      "label": "Partielle Atelektase",
+      "rubrics": {
+        "preferred": "Partielle Atelektase"
+      },
+      "children": []
+    },
+    {
+      "code": "J98.12",
+      "kind": "category",
+      "label": "Totalatelektase",
+      "rubrics": {
+        "preferred": "Totalatelektase"
+      },
+      "children": []
+    },
+    {
+      "code": "J98.18",
+      "kind": "category",
+      "label": "Sonstiger und nicht näher bezeichneter Lungenkollaps",
+      "rubrics": {
+        "preferred": "Sonstiger und nicht näher bezeichneter Lungenkollaps",
+        "inclusion": "Lungenkollaps o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

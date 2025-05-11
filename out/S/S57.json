@@ -1,0 +1,39 @@
+{
+  "code": "S57",
+  "kind": "category",
+  "label": "Zerquetschung des Unterarmes",
+  "rubrics": {
+    "preferred": "Zerquetschung des Unterarmes",
+    "coding-hint": "Verschlüssele gegebenenfalls auch Crush-Syndrom T79.5.",
+    "exclusion": "Zerquetschung des Handgelenkes und der HandS67.-"
+  },
+  "children": [
+    {
+      "code": "S57.0",
+      "kind": "category",
+      "label": "Zerquetschung des Ellenbogens",
+      "rubrics": {
+        "preferred": "Zerquetschung des Ellenbogens"
+      },
+      "children": []
+    },
+    {
+      "code": "S57.8",
+      "kind": "category",
+      "label": "Zerquetschung sonstiger Teile des Unterarmes",
+      "rubrics": {
+        "preferred": "Zerquetschung sonstiger Teile des Unterarmes"
+      },
+      "children": []
+    },
+    {
+      "code": "S57.9",
+      "kind": "category",
+      "label": "Zerquetschung des Unterarmes, Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Zerquetschung des Unterarmes, Teil nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

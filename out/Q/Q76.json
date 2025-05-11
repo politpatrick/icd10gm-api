@@ -1,0 +1,129 @@
+{
+  "code": "Q76",
+  "kind": "category",
+  "label": "Angeborene Fehlbildungen der Wirbelsäule und des knöchernen Thorax",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildungen der Wirbelsäule und des knöchernen Thorax",
+    "exclusion": "Angeborene Muskel-Skelett-Deformitäten der Wirbelsäule und des ThoraxQ67.5-Q67.8"
+  },
+  "children": [
+    {
+      "code": "Q76.0",
+      "kind": "category",
+      "label": "Spina bifida occulta",
+      "rubrics": {
+        "preferred": "Spina bifida occulta",
+        "exclusion": "Spina bifida (aperta) (cystica)Q05.-"
+      },
+      "children": []
+    },
+    {
+      "code": "Q76.1",
+      "kind": "category",
+      "label": "Klippel-Feil-Syndrom",
+      "rubrics": {
+        "preferred": "Klippel-Feil-Syndrom",
+        "inclusion": "Verschmelzung von Halswirbelkörpern"
+      },
+      "children": []
+    },
+    {
+      "code": "Q76.2",
+      "kind": "category",
+      "label": "Angeborene Spondylolisthesis und Spondylolyse",
+      "rubrics": {
+        "preferred": "Angeborene Spondylolisthesis und Spondylolyse",
+        "exclusion": "Spondylolyse (erworben)M43.0-"
+      },
+      "children": [
+        {
+          "code": "Q76.21",
+          "kind": "category",
+          "label": "Angeborene Spondylolisthesis",
+          "rubrics": {
+            "preferred": "Angeborene Spondylolisthesis"
+          },
+          "children": []
+        },
+        {
+          "code": "Q76.22",
+          "kind": "category",
+          "label": "Angeborene Spondylolyse",
+          "rubrics": {
+            "preferred": "Angeborene Spondylolyse"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q76.3",
+      "kind": "category",
+      "label": "Angeborene Skoliose durch angeborene Knochenfehlbildung",
+      "rubrics": {
+        "preferred": "Angeborene Skoliose durch angeborene Knochenfehlbildung",
+        "inclusion": "Halbwirbelverschmelzung oder Segmentationsfehler mit Skoliose"
+      },
+      "children": []
+    },
+    {
+      "code": "Q76.4",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Wirbelsäule ohne Skoliose",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Wirbelsäule ohne Skoliose",
+        "inclusion": "Überzähliger Wirbel\n\t\t\t\tnicht näher bezeichnet oder ohne Skoliose"
+      },
+      "children": []
+    },
+    {
+      "code": "Q76.5",
+      "kind": "category",
+      "label": "Halsrippe",
+      "rubrics": {
+        "preferred": "Halsrippe",
+        "inclusion": "Überzählige Rippe in der Halsregion"
+      },
+      "children": []
+    },
+    {
+      "code": "Q76.6",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Rippen",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Rippen",
+        "inclusion": "Angeboren:\n\t\t\t\tVerschmelzung von Rippen",
+        "exclusion": "Kurzripp-Polydaktylie-SyndromeQ77.2"
+      },
+      "children": []
+    },
+    {
+      "code": "Q76.7",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung des Sternums",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung des Sternums",
+        "inclusion": "Sternumspalte"
+      },
+      "children": []
+    },
+    {
+      "code": "Q76.8",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des knöchernen Thorax",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des knöchernen Thorax"
+      },
+      "children": []
+    },
+    {
+      "code": "Q76.9",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung des knöchernen Thorax, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung des knöchernen Thorax, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

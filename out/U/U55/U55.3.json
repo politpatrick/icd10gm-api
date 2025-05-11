@@ -1,0 +1,40 @@
+{
+  "code": "U55.3",
+  "kind": "category",
+  "label": "Erfolgte Registrierung zur Herz-Lungen-Transplantation",
+  "rubrics": {
+    "preferred": "Erfolgte Registrierung zur Herz-Lungen-Transplantation"
+  },
+  "children": [
+    {
+      "code": "U55.30",
+      "kind": "category",
+      "label": "Ohne Dringlichkeitsstufe U [Urgency] oder HU [High Urgency]",
+      "rubrics": {
+        "preferred": "Ohne Dringlichkeitsstufe U [Urgency] oder HU [High Urgency]",
+        "preferredLong": "Erfolgte Registrierung zur Herz-Lungen-Transplantation: Ohne Dringlichkeitsstufe U [Urgency] oder HU [High Urgency]"
+      },
+      "children": []
+    },
+    {
+      "code": "U55.31",
+      "kind": "category",
+      "label": "Mit Dringlichkeitsstufe U [Urgency]",
+      "rubrics": {
+        "preferred": "Mit Dringlichkeitsstufe U [Urgency]",
+        "preferredLong": "Erfolgte Registrierung zur Herz-Lungen-Transplantation: Mit Dringlichkeitsstufe U [Urgency]"
+      },
+      "children": []
+    },
+    {
+      "code": "U55.32",
+      "kind": "category",
+      "label": "Mit Dringlichkeitsstufe HU [High Urgency]",
+      "rubrics": {
+        "preferred": "Mit Dringlichkeitsstufe HU [High Urgency]",
+        "preferredLong": "Erfolgte Registrierung zur Herz-Lungen-Transplantation: Mit Dringlichkeitsstufe HU [High Urgency]"
+      },
+      "children": []
+    }
+  ]
+}

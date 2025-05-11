@@ -1,0 +1,10 @@
+{
+  "code": "K90.0",
+  "kind": "category",
+  "label": "Zöliakie",
+  "rubrics": {
+    "preferred": "Zöliakie",
+    "inclusion": "Idiopathische Steatorrhoe"
+  },
+  "children": []
+}

@@ -1,0 +1,98 @@
+{
+  "code": "Q55",
+  "kind": "category",
+  "label": "Sonstige angeborene Fehlbildungen der männlichen Genitalorgane",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungen der männlichen Genitalorgane",
+    "exclusion": "HypospadieQ54.-"
+  },
+  "children": [
+    {
+      "code": "Q55.0",
+      "kind": "category",
+      "label": "Fehlen und Aplasie des Hodens",
+      "rubrics": {
+        "preferred": "Fehlen und Aplasie des Hodens",
+        "inclusion": "Monorchie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q55.1",
+      "kind": "category",
+      "label": "Hypoplasie des Hodens und des Skrotums",
+      "rubrics": {
+        "preferred": "Hypoplasie des Hodens und des Skrotums",
+        "inclusion": "Hodenverschmelzung"
+      },
+      "children": []
+    },
+    {
+      "code": "Q55.2",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Hodens und des Skrotums",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Hodens und des Skrotums",
+        "inclusion": "Wanderhoden"
+      },
+      "children": []
+    },
+    {
+      "code": "Q55.3",
+      "kind": "category",
+      "label": "Atresie des Ductus deferens",
+      "rubrics": {
+        "preferred": "Atresie des Ductus deferens"
+      },
+      "children": []
+    },
+    {
+      "code": "Q55.4",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Ductus deferens, des Nebenhodens, der Vesiculae seminales und der Prostata",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Ductus deferens, des Nebenhodens, der Vesiculae seminales und der Prostata",
+        "inclusion": "Fehlen oder Aplasie:\n\t\t\t\tProstata"
+      },
+      "children": []
+    },
+    {
+      "code": "Q55.5",
+      "kind": "category",
+      "label": "Angeborenes Fehlen und Aplasie des Penis",
+      "rubrics": {
+        "preferred": "Angeborenes Fehlen und Aplasie des Penis"
+      },
+      "children": []
+    },
+    {
+      "code": "Q55.6",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Penis",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Penis",
+        "inclusion": "Penisverkrümmung (lateral)"
+      },
+      "children": []
+    },
+    {
+      "code": "Q55.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete angeborene Fehlbildungen der männlichen Genitalorgane",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen der männlichen Genitalorgane"
+      },
+      "children": []
+    },
+    {
+      "code": "Q55.9",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung der männlichen Genitalorgane, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung der männlichen Genitalorgane, nicht näher bezeichnet",
+        "inclusion": "Angeboren:\n\t\t\t\tDeformität\n\t\t\t\tmännliche Genitalorgane o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "code": "B58",
+  "kind": "category",
+  "label": "Toxoplasmose",
+  "rubrics": {
+    "preferred": "Toxoplasmose",
+    "inclusion": "Infektion durch Toxoplasma gondii",
+    "exclusion": "Angeborene ToxoplasmoseP37.1"
+  },
+  "children": [
+    {
+      "code": "B58.0",
+      "kind": "category",
+      "label": "Augenerkrankung durch Toxoplasmen",
+      "rubrics": {
+        "preferred": "Augenerkrankung durch Toxoplasmen",
+        "inclusion": "Chorioretinitis durch ToxoplasmenH32.0"
+      },
+      "children": []
+    },
+    {
+      "code": "B58.1",
+      "kind": "category",
+      "label": "Hepatitis durch ToxoplasmenK77.0",
+      "rubrics": {
+        "preferred": "Hepatitis durch ToxoplasmenK77.0"
+      },
+      "children": []
+    },
+    {
+      "code": "B58.2",
+      "kind": "category",
+      "label": "Meningoenzephalitis durch ToxoplasmenG05.2",
+      "rubrics": {
+        "preferred": "Meningoenzephalitis durch ToxoplasmenG05.2"
+      },
+      "children": []
+    },
+    {
+      "code": "B58.3",
+      "kind": "category",
+      "label": "Toxoplasmose der LungeJ17.3",
+      "rubrics": {
+        "preferred": "Toxoplasmose der LungeJ17.3"
+      },
+      "children": []
+    },
+    {
+      "code": "B58.8",
+      "kind": "category",
+      "label": "Toxoplasmosen mit Beteiligung sonstiger Organe",
+      "rubrics": {
+        "preferred": "Toxoplasmosen mit Beteiligung sonstiger Organe",
+        "inclusion": "Myositis durch ToxoplasmenM63.1-"
+      },
+      "children": []
+    },
+    {
+      "code": "B58.9",
+      "kind": "category",
+      "label": "Toxoplasmose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Toxoplasmose, nicht näher bezeichnet"
+      },
+      "children": [
+        {
+          "code": "B58.90",
+          "kind": "category",
+          "label": "Sepsis durch Toxoplasmen",
+          "rubrics": {
+            "preferred": "Sepsis durch Toxoplasmen",
+            "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.80!-U69.82, um den zeitlichen Bezug der Sepsis zur stationären Krankenhausaufnahme anzugeben."
+          },
+          "children": []
+        },
+        {
+          "code": "B58.98",
+          "kind": "category",
+          "label": "Toxoplasmose, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Toxoplasmose, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

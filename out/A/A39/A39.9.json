@@ -1,0 +1,10 @@
+{
+  "code": "A39.9",
+  "kind": "category",
+  "label": "Meningokokkeninfektion, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Meningokokkeninfektion, nicht näher bezeichnet",
+    "inclusion": "Krankheit durch Meningokokken o.n.A."
+  },
+  "children": []
+}

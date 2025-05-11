@@ -1,0 +1,10 @@
+{
+  "code": "R39.1",
+  "kind": "category",
+  "label": "Sonstige Miktionsstörungen",
+  "rubrics": {
+    "preferred": "Sonstige Miktionsstörungen",
+    "inclusion": "Verzögerte Miktion"
+  },
+  "children": []
+}

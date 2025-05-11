@@ -1,0 +1,105 @@
+{
+  "code": "I60",
+  "kind": "category",
+  "label": "Subarachnoidalblutung",
+  "rubrics": {
+    "preferred": "Subarachnoidalblutung",
+    "coding-hint": "Soll die Ursache der Subarachnoidalblutung angegeben werden, ist eine zusätzliche Schlüsselnummer aus I67.0-I67.1- oder aus Q28.0-Q28.3- zu verwenden.",
+    "exclusion": "Folgen einer SubarachnoidalblutungI69.0"
+  },
+  "children": [
+    {
+      "code": "I60.0",
+      "kind": "category",
+      "label": "Subarachnoidalblutung, vom Karotissiphon oder der Karotisbifurkation ausgehend",
+      "rubrics": {
+        "preferred": "Subarachnoidalblutung, vom Karotissiphon oder der Karotisbifurkation ausgehend"
+      },
+      "children": []
+    },
+    {
+      "code": "I60.1",
+      "kind": "category",
+      "label": "Subarachnoidalblutung, von der A. cerebri media ausgehend",
+      "rubrics": {
+        "preferred": "Subarachnoidalblutung, von der A. cerebri media ausgehend"
+      },
+      "children": []
+    },
+    {
+      "code": "I60.2",
+      "kind": "category",
+      "label": "Subarachnoidalblutung, von der A. communicans anterior ausgehend",
+      "rubrics": {
+        "preferred": "Subarachnoidalblutung, von der A. communicans anterior ausgehend"
+      },
+      "children": []
+    },
+    {
+      "code": "I60.3",
+      "kind": "category",
+      "label": "Subarachnoidalblutung, von der A. communicans posterior ausgehend",
+      "rubrics": {
+        "preferred": "Subarachnoidalblutung, von der A. communicans posterior ausgehend"
+      },
+      "children": []
+    },
+    {
+      "code": "I60.4",
+      "kind": "category",
+      "label": "Subarachnoidalblutung, von der A. basilaris ausgehend",
+      "rubrics": {
+        "preferred": "Subarachnoidalblutung, von der A. basilaris ausgehend"
+      },
+      "children": []
+    },
+    {
+      "code": "I60.5",
+      "kind": "category",
+      "label": "Subarachnoidalblutung, von der A. vertebralis ausgehend",
+      "rubrics": {
+        "preferred": "Subarachnoidalblutung, von der A. vertebralis ausgehend"
+      },
+      "children": []
+    },
+    {
+      "code": "I60.6",
+      "kind": "category",
+      "label": "Subarachnoidalblutung, von sonstigen intrakraniellen Arterien ausgehend",
+      "rubrics": {
+        "preferred": "Subarachnoidalblutung, von sonstigen intrakraniellen Arterien ausgehend",
+        "inclusion": "Beteiligung mehrerer intrakranieller Arterien"
+      },
+      "children": []
+    },
+    {
+      "code": "I60.7",
+      "kind": "category",
+      "label": "Subarachnoidalblutung, von nicht näher bezeichneter intrakranieller Arterie ausgehend",
+      "rubrics": {
+        "preferred": "Subarachnoidalblutung, von nicht näher bezeichneter intrakranieller Arterie ausgehend",
+        "inclusion": "Subarachnoidalblutung, von einer Hirnarterie ausgehend, o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "I60.8",
+      "kind": "category",
+      "label": "Sonstige Subarachnoidalblutung",
+      "rubrics": {
+        "preferred": "Sonstige Subarachnoidalblutung",
+        "inclusion": "Meningealblutung"
+      },
+      "children": []
+    },
+    {
+      "code": "I60.9",
+      "kind": "category",
+      "label": "Subarachnoidalblutung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Subarachnoidalblutung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

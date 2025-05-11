@@ -1,0 +1,10 @@
+{
+  "code": "N94.1",
+  "kind": "category",
+  "label": "Dyspareunie",
+  "rubrics": {
+    "preferred": "Dyspareunie",
+    "exclusion": "Psychogene DyspareunieF52.6"
+  },
+  "children": []
+}

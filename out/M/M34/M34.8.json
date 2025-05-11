@@ -1,0 +1,10 @@
+{
+  "code": "M34.8",
+  "kind": "category",
+  "label": "Sonstige Formen der systemischen Sklerose",
+  "rubrics": {
+    "preferred": "Sonstige Formen der systemischen Sklerose",
+    "inclusion": "Systemische Sklerose mit:\n\t\t\t\tPolyneuropathieG63.5"
+  },
+  "children": []
+}

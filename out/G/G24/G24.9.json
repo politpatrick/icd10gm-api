@@ -1,0 +1,10 @@
+{
+  "code": "G24.9",
+  "kind": "category",
+  "label": "Dystonie, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Dystonie, nicht näher bezeichnet",
+    "inclusion": "Dyskinesie o.n.A."
+  },
+  "children": []
+}

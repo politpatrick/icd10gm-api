@@ -1,0 +1,10 @@
+{
+  "code": "K42.0",
+  "kind": "category",
+  "label": "Hernia umbilicalis mit Einklemmung, ohne Gangrän",
+  "rubrics": {
+    "preferred": "Hernia umbilicalis mit Einklemmung, ohne Gangrän",
+    "inclusion": "Hernia umbilicalis:\n\t\t\t\tVerschluss verursachend\n\t\t\t\tohne Gangrän"
+  },
+  "children": []
+}

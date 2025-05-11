@@ -1,0 +1,10 @@
+{
+  "code": "S35.0",
+  "kind": "category",
+  "label": "Verletzung der Aorta abdominalis",
+  "rubrics": {
+    "preferred": "Verletzung der Aorta abdominalis",
+    "exclusion": "Aorta o.n.A.S25.0"
+  },
+  "children": []
+}

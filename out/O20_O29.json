@@ -1,0 +1,698 @@
+{
+  "code": "O20-O29",
+  "kind": "block",
+  "label": "Sonstige Krankheiten der Mutter, die vorwiegend mit der Schwangerschaft verbunden sind",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der Mutter, die vorwiegend mit der Schwangerschaft verbunden sind",
+    "note": "Die Schlüsselnummern O24.- und O25 gelten auch dann, wenn die aufgeführten Zustände unter der Geburt oder im Wochenbett auftreten.",
+    "exclusion": "Krankheiten der Mutter, die anderenorts klassifizierbar sind, die jedoch Schwangerschaft, Wehen, Entbindung und Wochenbett komplizierenO98-O99"
+  },
+  "children": [
+    {
+      "code": "O20",
+      "kind": "category",
+      "label": "Blutung in der Frühschwangerschaft",
+      "rubrics": {
+        "preferred": "Blutung in der Frühschwangerschaft",
+        "exclusion": "Schwangerschaft mit abortivem AusgangO00-O08"
+      },
+      "children": [
+        {
+          "code": "O20.0",
+          "kind": "category",
+          "label": "Drohender Abort",
+          "rubrics": {
+            "preferred": "Drohender Abort",
+            "inclusion": "Blutung mit der Angabe, dass sie durch drohenden Abort bedingt ist"
+          },
+          "children": []
+        },
+        {
+          "code": "O20.8",
+          "kind": "category",
+          "label": "Sonstige Blutung in der Frühschwangerschaft",
+          "rubrics": {
+            "preferred": "Sonstige Blutung in der Frühschwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O20.9",
+          "kind": "category",
+          "label": "Blutung in der Frühschwangerschaft, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Blutung in der Frühschwangerschaft, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O21",
+      "kind": "category",
+      "label": "Übermäßiges Erbrechen während der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Übermäßiges Erbrechen während der Schwangerschaft"
+      },
+      "children": [
+        {
+          "code": "O21.0",
+          "kind": "category",
+          "label": "Leichte Hyperemesis gravidarum",
+          "rubrics": {
+            "preferred": "Leichte Hyperemesis gravidarum",
+            "inclusion": "Hyperemesis gravidarum, leicht oder nicht näher bezeichnet, Beginn vor Beendigung der 20. Schwangerschaftswoche"
+          },
+          "children": []
+        },
+        {
+          "code": "O21.1",
+          "kind": "category",
+          "label": "Hyperemesis gravidarum mit Stoffwechselstörung",
+          "rubrics": {
+            "preferred": "Hyperemesis gravidarum mit Stoffwechselstörung",
+            "inclusion": "Hyperemesis gravidarum, Beginn vor Beendigung der 20. Schwangerschaftswoche, mit Stoffwechselstörung, wie z.B.:\n\t\t\t\tStörung des Elektrolythaushaltes"
+          },
+          "children": []
+        },
+        {
+          "code": "O21.2",
+          "kind": "category",
+          "label": "Späterbrechen während der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Späterbrechen während der Schwangerschaft",
+            "inclusion": "Übermäßiges Erbrechen, Beginn nach 20 vollendeten Schwangerschaftswochen"
+          },
+          "children": []
+        },
+        {
+          "code": "O21.8",
+          "kind": "category",
+          "label": "Sonstiges Erbrechen, das die Schwangerschaft kompliziert",
+          "rubrics": {
+            "preferred": "Sonstiges Erbrechen, das die Schwangerschaft kompliziert",
+            "inclusion": "Erbrechen durch anderenorts klassifizierte Krankheiten, das die Schwangerschaft kompliziert",
+            "coding-hint": "Soll die Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "O21.9",
+          "kind": "category",
+          "label": "Erbrechen während der Schwangerschaft, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Erbrechen während der Schwangerschaft, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O22",
+      "kind": "category",
+      "label": "Venenkrankheiten und Hämorrhoiden als Komplikationen in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Venenkrankheiten und Hämorrhoiden als Komplikationen in der Schwangerschaft",
+        "exclusion": "Lungenembolie während der GestationsperiodeO88.-"
+      },
+      "children": [
+        {
+          "code": "O22.0",
+          "kind": "category",
+          "label": "Varizen der unteren Extremitäten in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Varizen der unteren Extremitäten in der Schwangerschaft",
+            "inclusion": "Varizen o.n.A. in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O22.1",
+          "kind": "category",
+          "label": "Varizen der Genitalorgane in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Varizen der Genitalorgane in der Schwangerschaft",
+            "inclusion": "Varizen des Perineums, der Vagina und der Vulva in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O22.2",
+          "kind": "category",
+          "label": "Oberflächliche Thrombophlebitis in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Oberflächliche Thrombophlebitis in der Schwangerschaft",
+            "inclusion": "Thrombophlebitis der Beine in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O22.3",
+          "kind": "category",
+          "label": "Tiefe Venenthrombose in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Tiefe Venenthrombose in der Schwangerschaft",
+            "inclusion": "Tiefe Venenthrombose, präpartal"
+          },
+          "children": []
+        },
+        {
+          "code": "O22.4",
+          "kind": "category",
+          "label": "Hämorrhoiden in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Hämorrhoiden in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O22.5",
+          "kind": "category",
+          "label": "Hirnvenenthrombose in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Hirnvenenthrombose in der Schwangerschaft",
+            "inclusion": "Zerebrovenöse Sinusthrombose in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O22.8",
+          "kind": "category",
+          "label": "Sonstige Venenkrankheiten als Komplikation in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Sonstige Venenkrankheiten als Komplikation in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O22.9",
+          "kind": "category",
+          "label": "Venenkrankheit als Komplikation in der Schwangerschaft, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Venenkrankheit als Komplikation in der Schwangerschaft, nicht näher bezeichnet",
+            "inclusion": "Schwangerschaftsbedingt:\n\t\t\t\tThrombose o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O23",
+      "kind": "category",
+      "label": "Infektionen des Urogenitaltraktes in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Infektionen des Urogenitaltraktes in der Schwangerschaft",
+        "exclusion": "Tuberkulose des UrogenitalsystemsO98.0\n\t\t\t\tdie Schwangerschaft, Geburt und Wochenbett komplizieren"
+      },
+      "children": [
+        {
+          "code": "O23.0",
+          "kind": "category",
+          "label": "Infektionen der Niere in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Infektionen der Niere in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O23.1",
+          "kind": "category",
+          "label": "Infektionen der Harnblase in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Infektionen der Harnblase in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O23.2",
+          "kind": "category",
+          "label": "Infektionen der Urethra in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Infektionen der Urethra in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O23.3",
+          "kind": "category",
+          "label": "Infektionen von sonstigen Teilen der Harnwege in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Infektionen von sonstigen Teilen der Harnwege in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O23.4",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Infektion der Harnwege in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Infektion der Harnwege in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O23.5",
+          "kind": "category",
+          "label": "Infektionen des Genitaltraktes in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Infektionen des Genitaltraktes in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O23.9",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete Infektion des Urogenitaltraktes in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete Infektion des Urogenitaltraktes in der Schwangerschaft",
+            "inclusion": "Infektion des Urogenitaltraktes in der Schwangerschaft o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O24",
+      "kind": "category",
+      "label": "Diabetes mellitus in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Diabetes mellitus in der Schwangerschaft",
+        "inclusion": "Bei Geburt und im Wochenbett"
+      },
+      "children": [
+        {
+          "code": "O24.0",
+          "kind": "category",
+          "label": "Vorher bestehender Diabetes mellitus, Typ 1",
+          "rubrics": {
+            "preferredLong": "Diabetes mellitus in der Schwangerschaft: Vorher bestehender Diabetes mellitus, Typ 1",
+            "preferred": "Vorher bestehender Diabetes mellitus, Typ 1"
+          },
+          "children": []
+        },
+        {
+          "code": "O24.1",
+          "kind": "category",
+          "label": "Vorher bestehender Diabetes mellitus, Typ 2",
+          "rubrics": {
+            "preferredLong": "Diabetes mellitus in der Schwangerschaft: Vorher bestehender Diabetes mellitus, Typ 2",
+            "preferred": "Vorher bestehender Diabetes mellitus, Typ 2"
+          },
+          "children": []
+        },
+        {
+          "code": "O24.2",
+          "kind": "category",
+          "label": "Vorher bestehender Diabetes mellitus durch Fehl- oder Mangelernährung [Malnutrition]",
+          "rubrics": {
+            "preferredLong": "Diabetes mellitus in der Schwangerschaft: Vorher bestehender Diabetes mellitus durch Fehl- oder Mangelernährung [Malnutrition]",
+            "preferred": "Vorher bestehender Diabetes mellitus durch Fehl- oder Mangelernährung [Malnutrition]"
+          },
+          "children": []
+        },
+        {
+          "code": "O24.3",
+          "kind": "category",
+          "label": "Vorher bestehender Diabetes mellitus, nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Diabetes mellitus in der Schwangerschaft: Vorher bestehender Diabetes mellitus, nicht näher bezeichnet",
+            "preferred": "Vorher bestehender Diabetes mellitus, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "O24.4",
+          "kind": "category",
+          "label": "Diabetes mellitus, während der Schwangerschaft auftretend",
+          "rubrics": {
+            "preferred": "Diabetes mellitus, während der Schwangerschaft auftretend",
+            "inclusion": "Gestationsbedingter Diabetes mellitus o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "O24.9",
+          "kind": "category",
+          "label": "Diabetes mellitus in der Schwangerschaft, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Diabetes mellitus in der Schwangerschaft, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O25",
+      "kind": "category",
+      "label": "Fehl- und Mangelernährung in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Fehl- und Mangelernährung in der Schwangerschaft",
+        "inclusion": "Fehl- und Mangelernährung bei der Geburt und im Wochenbett"
+      },
+      "children": []
+    },
+    {
+      "code": "O26",
+      "kind": "category",
+      "label": "Betreuung der Mutter bei sonstigen Zuständen, die vorwiegend mit der Schwangerschaft verbunden sind",
+      "rubrics": {
+        "preferred": "Betreuung der Mutter bei sonstigen Zuständen, die vorwiegend mit der Schwangerschaft verbunden sind"
+      },
+      "children": [
+        {
+          "code": "O26.0",
+          "kind": "category",
+          "label": "Übermäßige Gewichtszunahme in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Übermäßige Gewichtszunahme in der Schwangerschaft",
+            "exclusion": "SchwangerschaftsödemeO12.0O12.2"
+          },
+          "children": []
+        },
+        {
+          "code": "O26.1",
+          "kind": "category",
+          "label": "Geringe Gewichtszunahme in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Geringe Gewichtszunahme in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O26.2",
+          "kind": "category",
+          "label": "Schwangerschaftsbetreuung bei Neigung zu habituellem Abort",
+          "rubrics": {
+            "preferred": "Schwangerschaftsbetreuung bei Neigung zu habituellem Abort",
+            "exclusion": "Habituelle Abortneigung:\n\t\t\t\tohne bestehende SchwangerschaftN96"
+          },
+          "children": []
+        },
+        {
+          "code": "O26.3",
+          "kind": "category",
+          "label": "Schwangerschaft bei liegendem Intrauterinpessar",
+          "rubrics": {
+            "preferred": "Schwangerschaft bei liegendem Intrauterinpessar"
+          },
+          "children": []
+        },
+        {
+          "code": "O26.4",
+          "kind": "category",
+          "label": "Herpes gestationis",
+          "rubrics": {
+            "preferred": "Herpes gestationis"
+          },
+          "children": []
+        },
+        {
+          "code": "O26.5",
+          "kind": "category",
+          "label": "Hypotonie-Syndrom der Mutter",
+          "rubrics": {
+            "preferred": "Hypotonie-Syndrom der Mutter",
+            "inclusion": "Vena-cava-Kompressionssyndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "O26.6",
+          "kind": "category",
+          "label": "Leberkrankheiten während der Schwangerschaft, der Geburt und des Wochenbettes",
+          "rubrics": {
+            "preferred": "Leberkrankheiten während der Schwangerschaft, der Geburt und des Wochenbettes",
+            "exclusion": "Hepatorenales Syndrom nach Wehen und Entbindung O90.4"
+          },
+          "children": [
+            {
+              "code": "O26.60",
+              "kind": "category",
+              "label": "Schwangerschaftscholestase",
+              "rubrics": {
+                "preferred": "Schwangerschaftscholestase",
+                "inclusion": "Cholestase (intrahepatisch) in der Schwangerschaft"
+              },
+              "children": []
+            },
+            {
+              "code": "O26.68",
+              "kind": "category",
+              "label": "Sonstige Leberkrankheiten während der Schwangerschaft, der Geburt und des Wochenbettes",
+              "rubrics": {
+                "preferred": "Sonstige Leberkrankheiten während der Schwangerschaft, der Geburt und des Wochenbettes"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "O26.7",
+          "kind": "category",
+          "label": "Subluxation der Symphysis (pubica) während der Schwangerschaft, der Geburt und des Wochenbettes",
+          "rubrics": {
+            "preferred": "Subluxation der Symphysis (pubica) während der Schwangerschaft, der Geburt und des Wochenbettes",
+            "exclusion": "Traumatische Symphysensprengung (Symphysis pubica) unter der GeburtO71.6"
+          },
+          "children": []
+        },
+        {
+          "code": "O26.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Zustände, die mit der Schwangerschaft verbunden sind",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Zustände, die mit der Schwangerschaft verbunden sind"
+          },
+          "children": [
+            {
+              "code": "O26.81",
+              "kind": "category",
+              "label": "Nierenkrankheit, mit der Schwangerschaft verbunden",
+              "rubrics": {
+                "preferred": "Nierenkrankheit, mit der Schwangerschaft verbunden"
+              },
+              "children": []
+            },
+            {
+              "code": "O26.82",
+              "kind": "category",
+              "label": "Karpaltunnel-Syndrom während der Schwangerschaft",
+              "rubrics": {
+                "preferred": "Karpaltunnel-Syndrom während der Schwangerschaft"
+              },
+              "children": []
+            },
+            {
+              "code": "O26.83",
+              "kind": "category",
+              "label": "Periphere Neuritis während der Schwangerschaft",
+              "rubrics": {
+                "preferred": "Periphere Neuritis während der Schwangerschaft",
+                "inclusion": "Neuralgie"
+              },
+              "children": []
+            },
+            {
+              "code": "O26.88",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Zustände, die mit der Schwangerschaft verbunden sind",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Zustände, die mit der Schwangerschaft verbunden sind",
+                "inclusion": "Erschöpfung und Ermüdung"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "O26.9",
+          "kind": "category",
+          "label": "Mit der Schwangerschaft verbundener Zustand, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Mit der Schwangerschaft verbundener Zustand, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O28",
+      "kind": "category",
+      "label": "Abnorme Befunde bei der Screeninguntersuchung der Mutter zur pränatalen Diagnostik",
+      "rubrics": {
+        "preferred": "Abnorme Befunde bei der Screeninguntersuchung der Mutter zur pränatalen Diagnostik",
+        "exclusion": "Betreuung der Mutter im Hinblick auf den Fetus und die Amnionhöhle sowie mögliche EntbindungskomplikationenO30-O48"
+      },
+      "children": [
+        {
+          "code": "O28.0",
+          "kind": "category",
+          "label": "Abnormer hämatologischer Befund bei der pränatalen Screeninguntersuchung der Mutter",
+          "rubrics": {
+            "preferred": "Abnormer hämatologischer Befund bei der pränatalen Screeninguntersuchung der Mutter"
+          },
+          "children": []
+        },
+        {
+          "code": "O28.1",
+          "kind": "category",
+          "label": "Abnormer biochemischer Befund bei der pränatalen Screeninguntersuchung der Mutter",
+          "rubrics": {
+            "preferred": "Abnormer biochemischer Befund bei der pränatalen Screeninguntersuchung der Mutter"
+          },
+          "children": []
+        },
+        {
+          "code": "O28.2",
+          "kind": "category",
+          "label": "Abnormer zytologischer Befund bei der pränatalen Screeninguntersuchung der Mutter",
+          "rubrics": {
+            "preferred": "Abnormer zytologischer Befund bei der pränatalen Screeninguntersuchung der Mutter"
+          },
+          "children": []
+        },
+        {
+          "code": "O28.3",
+          "kind": "category",
+          "label": "Abnormer Ultraschallbefund bei der pränatalen Screeninguntersuchung der Mutter",
+          "rubrics": {
+            "preferred": "Abnormer Ultraschallbefund bei der pränatalen Screeninguntersuchung der Mutter"
+          },
+          "children": []
+        },
+        {
+          "code": "O28.4",
+          "kind": "category",
+          "label": "Abnormer radiologischer Befund bei der pränatalen Screeninguntersuchung der Mutter",
+          "rubrics": {
+            "preferred": "Abnormer radiologischer Befund bei der pränatalen Screeninguntersuchung der Mutter"
+          },
+          "children": []
+        },
+        {
+          "code": "O28.5",
+          "kind": "category",
+          "label": "Abnormer Chromosomen- oder genetischer Befund bei der pränatalen Screeninguntersuchung der Mutter",
+          "rubrics": {
+            "preferred": "Abnormer Chromosomen- oder genetischer Befund bei der pränatalen Screeninguntersuchung der Mutter"
+          },
+          "children": []
+        },
+        {
+          "code": "O28.8",
+          "kind": "category",
+          "label": "Sonstige abnorme Befunde bei der pränatalen Screeninguntersuchung der Mutter",
+          "rubrics": {
+            "preferred": "Sonstige abnorme Befunde bei der pränatalen Screeninguntersuchung der Mutter"
+          },
+          "children": []
+        },
+        {
+          "code": "O28.9",
+          "kind": "category",
+          "label": "Anomaler Befund bei der pränatalen Screeninguntersuchung der Mutter, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Anomaler Befund bei der pränatalen Screeninguntersuchung der Mutter, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O29",
+      "kind": "category",
+      "label": "Komplikationen bei Anästhesie in der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Komplikationen bei Anästhesie in der Schwangerschaft",
+        "inclusion": "Komplikationen bei der Mutter durch Verabreichung von Allgemein- oder Lokalanästhetikum, Analgetikum oder durch sonstige Beruhigungsmaßnahme während der Schwangerschaft",
+        "exclusion": "Komplikationen bei Anästhesie während:\n\t\t\t\tWochenbettO89.-"
+      },
+      "children": [
+        {
+          "code": "O29.0",
+          "kind": "category",
+          "label": "Pulmonale Komplikationen bei Anästhesie in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Pulmonale Komplikationen bei Anästhesie in der Schwangerschaft",
+            "inclusion": "Pneumothorax\n\t\t\t\tdurch Anästhesie in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O29.1",
+          "kind": "category",
+          "label": "Kardiale Komplikationen bei Anästhesie in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Kardiale Komplikationen bei Anästhesie in der Schwangerschaft",
+            "inclusion": "Herz:\n\t\t\t\tVersagen\n\t\t\t\tdurch Anästhesie in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O29.2",
+          "kind": "category",
+          "label": "Komplikationen des Zentralnervensystems bei Anästhesie in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Komplikationen des Zentralnervensystems bei Anästhesie in der Schwangerschaft",
+            "inclusion": "Zerebrale Anoxie durch Anästhesie in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O29.3",
+          "kind": "category",
+          "label": "Toxische Reaktion auf Lokalanästhesie in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Toxische Reaktion auf Lokalanästhesie in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O29.4",
+          "kind": "category",
+          "label": "Kopfschmerzen nach Spinal- oder Periduralanästhesie in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Kopfschmerzen nach Spinal- oder Periduralanästhesie in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O29.5",
+          "kind": "category",
+          "label": "Sonstige Komplikationen nach Spinal- oder Periduralanästhesie in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Sonstige Komplikationen nach Spinal- oder Periduralanästhesie in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O29.6",
+          "kind": "category",
+          "label": "Misslingen oder Schwierigkeiten bei der Intubation in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Misslingen oder Schwierigkeiten bei der Intubation in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O29.8",
+          "kind": "category",
+          "label": "Sonstige Komplikationen bei Anästhesie in der Schwangerschaft",
+          "rubrics": {
+            "preferred": "Sonstige Komplikationen bei Anästhesie in der Schwangerschaft"
+          },
+          "children": []
+        },
+        {
+          "code": "O29.9",
+          "kind": "category",
+          "label": "Komplikation bei Anästhesie in der Schwangerschaft, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Komplikation bei Anästhesie in der Schwangerschaft, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

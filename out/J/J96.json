@@ -1,0 +1,40 @@
+{
+  "code": "J96",
+  "kind": "category",
+  "label": "Respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+    "exclusion": "Respiratorische Insuffizienz nach medizinischen MaßnahmenJ95.-"
+  },
+  "children": [
+    {
+      "code": "J96.0",
+      "kind": "category",
+      "label": "Akute respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Akute respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+        "coding-hint": "Bei einer vorbestehenden oder sich im Verlauf entwickelnden chronischen respiratorischen Insuffizienz ist eine Schlüsselnummer aus J96.1- zusätzlich anzugeben."
+      },
+      "children": []
+    },
+    {
+      "code": "J96.1",
+      "kind": "category",
+      "label": "Chronische respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Chronische respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+        "coding-hint": "Besteht eine (langzeitige) Absaug- oder Beatmungspflicht, so ist Z99.0 oder Z99.1 als zusätzliche Schlüsselnummer zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "J96.9",
+      "kind": "category",
+      "label": "Respiratorische Insuffizienz, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Respiratorische Insuffizienz, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

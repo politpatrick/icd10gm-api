@@ -1,0 +1,10 @@
+{
+  "code": "M76.6",
+  "kind": "category",
+  "label": "Tendinitis der Achillessehne",
+  "rubrics": {
+    "preferred": "Tendinitis der Achillessehne",
+    "inclusion": "Bursitis subachillea"
+  },
+  "children": []
+}

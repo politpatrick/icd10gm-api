@@ -1,0 +1,39 @@
+{
+  "code": "R60",
+  "kind": "category",
+  "label": "Ödem, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Ödem, anderenorts nicht klassifiziert",
+    "exclusion": "Ödem:\n\t\t\t\tSchwangerschafts-O12.0"
+  },
+  "children": [
+    {
+      "code": "R60.0",
+      "kind": "category",
+      "label": "Umschriebenes Ödem",
+      "rubrics": {
+        "preferred": "Umschriebenes Ödem"
+      },
+      "children": []
+    },
+    {
+      "code": "R60.1",
+      "kind": "category",
+      "label": "Generalisiertes Ödem",
+      "rubrics": {
+        "preferred": "Generalisiertes Ödem"
+      },
+      "children": []
+    },
+    {
+      "code": "R60.9",
+      "kind": "category",
+      "label": "Ödem, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Ödem, nicht näher bezeichnet",
+        "inclusion": "Flüssigkeitsretention o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "R93.1",
+  "kind": "category",
+  "label": "Abnorme Befunde bei der bildgebenden Diagnostik des Herzens und des Koronarkreislaufes",
+  "rubrics": {
+    "preferred": "Abnorme Befunde bei der bildgebenden Diagnostik des Herzens und des Koronarkreislaufes",
+    "inclusion": "Abnorm:\n\t\t\t\tHerzschatten"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D15.2",
+  "kind": "category",
+  "label": "Mediastinum",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Mediastinum",
+    "preferred": "Mediastinum"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "S37.81",
+  "kind": "category",
+  "label": "Nebenniere",
+  "rubrics": {
+    "preferredLong": "Verletzung: Nebenniere",
+    "preferred": "Nebenniere"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "T79.4",
+  "kind": "category",
+  "label": "Traumatischer Schock",
+  "rubrics": {
+    "preferred": "Traumatischer Schock",
+    "inclusion": "Schock (unmittelbar) (protrahiert) nach Verletzung",
+    "exclusion": "Schock (durch):\n\t\t\t\tpostoperativT81.1"
+  },
+  "children": []
+}

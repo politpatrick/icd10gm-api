@@ -1,0 +1,10 @@
+{
+  "code": "I43.8",
+  "kind": "category",
+  "label": "Kardiomyopathie bei sonstigen anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Kardiomyopathie bei sonstigen anderenorts klassifizierten Krankheiten",
+    "inclusion": "Thyreotoxische HerzkrankheitE05.-"
+  },
+  "children": []
+}

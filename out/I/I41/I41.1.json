@@ -1,0 +1,10 @@
+{
+  "code": "I41.1",
+  "kind": "category",
+  "label": "Myokarditis bei anderenorts klassifizierten Viruskrankheiten",
+  "rubrics": {
+    "preferred": "Myokarditis bei anderenorts klassifizierten Viruskrankheiten",
+    "inclusion": "Mumps-MyokarditisB26.8"
+  },
+  "children": []
+}

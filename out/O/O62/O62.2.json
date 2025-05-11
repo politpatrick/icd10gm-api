@@ -1,0 +1,11 @@
+{
+  "code": "O62.2",
+  "kind": "category",
+  "label": "Sonstige Wehenschwäche",
+  "rubrics": {
+    "preferred": "Sonstige Wehenschwäche",
+    "inclusion": "Wehenschwäche o.n.A.",
+    "exclusion": "Atonische postpartale BlutungO72.1"
+  },
+  "children": []
+}

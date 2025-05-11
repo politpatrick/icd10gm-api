@@ -1,0 +1,10 @@
+{
+  "code": "E50.8",
+  "kind": "category",
+  "label": "Sonstige Manifestationen des Vitamin-A-Mangels",
+  "rubrics": {
+    "preferred": "Sonstige Manifestationen des Vitamin-A-Mangels",
+    "inclusion": "Xerodermie\n\t\t\t\tdurch Vitamin-A-MangelL86"
+  },
+  "children": []
+}

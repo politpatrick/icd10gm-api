@@ -1,0 +1,10 @@
+{
+  "code": "H59.0",
+  "kind": "category",
+  "label": "Keratopathie (bullös-aphak) nach Kataraktextraktion",
+  "rubrics": {
+    "preferred": "Keratopathie (bullös-aphak) nach Kataraktextraktion",
+    "inclusion": "Glaskörper-Hornhaut-Syndrom"
+  },
+  "children": []
+}

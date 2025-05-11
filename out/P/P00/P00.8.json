@@ -1,0 +1,11 @@
+{
+  "code": "P00.8",
+  "kind": "category",
+  "label": "Schädigung des Fetus und Neugeborenen durch sonstige Zustände der Mutter",
+  "rubrics": {
+    "preferred": "Schädigung des Fetus und Neugeborenen durch sonstige Zustände der Mutter",
+    "inclusion": "Schädigung des Fetus oder Neugeborenen durch:\n\t\t\t\tZustände, die unter T80-T88 klassifizierbar sind",
+    "exclusion": "Transitorische endokrine und Stoffwechselstörungen beim NeugeborenenP70-P74"
+  },
+  "children": []
+}

@@ -1,0 +1,68 @@
+{
+  "code": "M94",
+  "kind": "category",
+  "label": "Sonstige Knorpelkrankheiten",
+  "rubrics": {
+    "preferred": "Sonstige Knorpelkrankheiten",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+  },
+  "children": [
+    {
+      "code": "M94.0",
+      "kind": "category",
+      "label": "Tietze-Syndrom",
+      "rubrics": {
+        "preferred": "Tietze-Syndrom",
+        "inclusion": "Kostochondritis"
+      },
+      "children": []
+    },
+    {
+      "code": "M94.1",
+      "kind": "category",
+      "label": "Panchondritis [Rezidivierende Polychondritis]",
+      "rubrics": {
+        "preferred": "Panchondritis [Rezidivierende Polychondritis]"
+      },
+      "children": []
+    },
+    {
+      "code": "M94.2",
+      "kind": "category",
+      "label": "Chondromalazie",
+      "rubrics": {
+        "preferred": "Chondromalazie",
+        "exclusion": "Chondromalacia patellaeM22.4"
+      },
+      "children": []
+    },
+    {
+      "code": "M94.3",
+      "kind": "category",
+      "label": "Chondrolyse",
+      "rubrics": {
+        "preferred": "Chondrolyse"
+      },
+      "children": []
+    },
+    {
+      "code": "M94.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Knorpelkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Knorpelkrankheiten",
+        "exclusion": "Binnenschädigung des KniegelenkesM23.-"
+      },
+      "children": []
+    },
+    {
+      "code": "M94.9",
+      "kind": "category",
+      "label": "Knorpelkrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Knorpelkrankheit, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

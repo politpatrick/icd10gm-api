@@ -1,0 +1,10 @@
+{
+  "code": "E66.8",
+  "kind": "category",
+  "label": "Sonstige Adipositas",
+  "rubrics": {
+    "preferred": "Sonstige Adipositas",
+    "inclusion": "Krankhafte Adipositas"
+  },
+  "children": []
+}

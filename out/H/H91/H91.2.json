@@ -1,0 +1,10 @@
+{
+  "code": "H91.2",
+  "kind": "category",
+  "label": "Idiopathischer Hörsturz",
+  "rubrics": {
+    "preferred": "Idiopathischer Hörsturz",
+    "inclusion": "Akuter Hörverlust o.n.A."
+  },
+  "children": []
+}

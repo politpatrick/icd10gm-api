@@ -1,0 +1,10 @@
+{
+  "code": "H03.1",
+  "kind": "category",
+  "label": "Beteiligung des Augenlides bei sonstigen anderenorts klassifizierten Infektionskrankheiten",
+  "rubrics": {
+    "preferred": "Beteiligung des Augenlides bei sonstigen anderenorts klassifizierten Infektionskrankheiten",
+    "inclusion": "Beteiligung des Augenlides bei:\n\t\t\t\tZosterB02.3"
+  },
+  "children": []
+}

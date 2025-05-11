@@ -1,0 +1,79 @@
+{
+  "code": "Q87",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete angeborene Fehlbildungssyndrome mit Beteiligung mehrerer Systeme",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungssyndrome mit Beteiligung mehrerer Systeme"
+  },
+  "children": [
+    {
+      "code": "Q87.0",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungssyndrome mit vorwiegender Beteiligung des Gesichtes",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungssyndrome mit vorwiegender Beteiligung des Gesichtes",
+        "inclusion": "Zyklopie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q87.1",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungssyndrome, die vorwiegend mit Kleinwuchs einhergehen",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungssyndrome, die vorwiegend mit Kleinwuchs einhergehen",
+        "inclusion": "Smith-Lemli-Opitz-Syndrom",
+        "exclusion": "Ellis-van-Creveld-SyndromQ77.6"
+      },
+      "children": []
+    },
+    {
+      "code": "Q87.2",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungssyndrome mit vorwiegender Beteiligung der Extremitäten",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungssyndrome mit vorwiegender Beteiligung der Extremitäten",
+        "inclusion": "VATER-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "Q87.3",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungssyndrome mit vermehrtem Gewebewachstum im frühen Kindesalter",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungssyndrome mit vermehrtem Gewebewachstum im frühen Kindesalter",
+        "inclusion": "Wiedemann-Beckwith-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "Q87.4",
+      "kind": "category",
+      "label": "Marfan-Syndrom",
+      "rubrics": {
+        "preferred": "Marfan-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "Q87.5",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungssyndrome mit sonstigen Skelettveränderungen",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungssyndrome mit sonstigen Skelettveränderungen"
+      },
+      "children": []
+    },
+    {
+      "code": "Q87.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete angeborene Fehlbildungssyndrome, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungssyndrome, anderenorts nicht klassifiziert",
+        "inclusion": "Zellweger-Syndrom"
+      },
+      "children": []
+    }
+  ]
+}

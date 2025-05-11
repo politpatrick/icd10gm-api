@@ -1,0 +1,10 @@
+{
+  "code": "G73.0",
+  "kind": "category",
+  "label": "Myastheniesyndrome bei endokrinen Krankheiten",
+  "rubrics": {
+    "preferred": "Myastheniesyndrome bei endokrinen Krankheiten",
+    "inclusion": "Myastheniesyndrome bei:\n\t\t\t\tHyperthyreose [Thyreotoxikose]E05.-"
+  },
+  "children": []
+}

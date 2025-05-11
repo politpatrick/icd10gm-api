@@ -1,0 +1,120 @@
+{
+  "code": "P91",
+  "kind": "category",
+  "label": "Sonstige zerebrale Störungen beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Sonstige zerebrale Störungen beim Neugeborenen"
+  },
+  "children": [
+    {
+      "code": "P91.0",
+      "kind": "category",
+      "label": "Zerebrale Ischämie beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Zerebrale Ischämie beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P91.1",
+      "kind": "category",
+      "label": "Erworbene periventrikuläre Zysten beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Erworbene periventrikuläre Zysten beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P91.2",
+      "kind": "category",
+      "label": "Zerebrale Leukomalazie beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Zerebrale Leukomalazie beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P91.3",
+      "kind": "category",
+      "label": "Zerebrale Übererregbarkeit des Neugeborenen",
+      "rubrics": {
+        "preferred": "Zerebrale Übererregbarkeit des Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P91.4",
+      "kind": "category",
+      "label": "Zerebraler Depressionszustand des Neugeborenen",
+      "rubrics": {
+        "preferred": "Zerebraler Depressionszustand des Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P91.5",
+      "kind": "category",
+      "label": "Koma beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Koma beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P91.6",
+      "kind": "category",
+      "label": "Hypoxisch-ischämische Enzephalopathie beim Neugeborenen [HIE]",
+      "rubrics": {
+        "preferred": "Hypoxisch-ischämische Enzephalopathie beim Neugeborenen [HIE]"
+      },
+      "children": []
+    },
+    {
+      "code": "P91.7",
+      "kind": "category",
+      "label": "Erworbener Hydrozephalus beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Erworbener Hydrozephalus beim Neugeborenen",
+        "inclusion": "Posthämorrhagischer Hydrozephalus beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P91.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete zerebrale Störungen beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete zerebrale Störungen beim Neugeborenen"
+      },
+      "children": [
+        {
+          "code": "P91.80",
+          "kind": "category",
+          "label": "Locked-in-Syndrom und apallisches Syndrom beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Locked-in-Syndrom und apallisches Syndrom beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P91.88",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete zerebrale Störungen beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete zerebrale Störungen beim Neugeborenen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P91.9",
+      "kind": "category",
+      "label": "Zerebrale Störung beim Neugeborenen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Zerebrale Störung beim Neugeborenen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

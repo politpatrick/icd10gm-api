@@ -1,0 +1,38 @@
+{
+  "code": "M73",
+  "kind": "category",
+  "label": "Krankheiten des Weichteilgewebes bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten des Weichteilgewebes bei anderenorts klassifizierten Krankheiten",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+  },
+  "children": [
+    {
+      "code": "M73.0",
+      "kind": "category",
+      "label": "Bursitis gonorrhoicaA54.4",
+      "rubrics": {
+        "preferred": "Bursitis gonorrhoicaA54.4"
+      },
+      "children": []
+    },
+    {
+      "code": "M73.1",
+      "kind": "category",
+      "label": "Bursitis syphiliticaA52.7",
+      "rubrics": {
+        "preferred": "Bursitis syphiliticaA52.7"
+      },
+      "children": []
+    },
+    {
+      "code": "M73.8",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Weichteilgewebes bei sonstigen anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Weichteilgewebes bei sonstigen anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

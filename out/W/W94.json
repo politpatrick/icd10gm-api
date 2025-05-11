@@ -1,0 +1,21 @@
+{
+  "code": "W94",
+  "kind": "category",
+  "label": "Exposition gegenüber hohem oder niedrigem Luftdruck oder Luftdruckwechsel",
+  "rubrics": {
+    "preferred": "Exposition gegenüber hohem oder niedrigem Luftdruck oder Luftdruckwechsel"
+  },
+  "children": [
+    {
+      "code": "W94.9",
+      "kind": "category",
+      "label": "Unfall durch Luftdruckwechsel",
+      "rubrics": {
+        "preferred": "Unfall durch Luftdruckwechsel",
+        "inclusion": "Exposition gegenüber (nicht wetterbedingtem) hohem oder niedrigem Luftdruck",
+        "exclusion": "Zwischenfall während chirurgischer oder sonstiger medizinischer MaßnahmenY69"
+      },
+      "children": []
+    }
+  ]
+}

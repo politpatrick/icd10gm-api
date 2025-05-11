@@ -1,0 +1,10 @@
+{
+  "code": "J98.0",
+  "kind": "category",
+  "label": "Krankheiten der Bronchien, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Krankheiten der Bronchien, anderenorts nicht klassifiziert",
+    "inclusion": "Verkalkung\n\t\t\t\tBronchus"
+  },
+  "children": []
+}

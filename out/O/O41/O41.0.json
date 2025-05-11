@@ -1,0 +1,10 @@
+{
+  "code": "O41.0",
+  "kind": "category",
+  "label": "Oligohydramnion",
+  "rubrics": {
+    "preferred": "Oligohydramnion",
+    "inclusion": "Oligohydramnion ohne Angabe von Blasensprung"
+  },
+  "children": []
+}

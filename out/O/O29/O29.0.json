@@ -1,0 +1,10 @@
+{
+  "code": "O29.0",
+  "kind": "category",
+  "label": "Pulmonale Komplikationen bei Anästhesie in der Schwangerschaft",
+  "rubrics": {
+    "preferred": "Pulmonale Komplikationen bei Anästhesie in der Schwangerschaft",
+    "inclusion": "Pneumothorax\n\t\t\t\tdurch Anästhesie in der Schwangerschaft"
+  },
+  "children": []
+}

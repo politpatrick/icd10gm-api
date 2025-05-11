@@ -1,0 +1,10 @@
+{
+  "code": "Z12.3",
+  "kind": "category",
+  "label": "Spezielle Verfahren zur Untersuchung auf Neubildung der Mamma [Brustdrüse]",
+  "rubrics": {
+    "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildung der Mamma [Brustdrüse]",
+    "exclusion": "Routinemäßiges MammogrammZ01.6"
+  },
+  "children": []
+}

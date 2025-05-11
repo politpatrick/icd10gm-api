@@ -1,0 +1,10 @@
+{
+  "code": "A03.0",
+  "kind": "category",
+  "label": "Shigellose durch Shigella dysenteriae",
+  "rubrics": {
+    "preferred": "Shigellose durch Shigella dysenteriae",
+    "inclusion": "Shigellose durch Shigellen der Gruppe A [Shiga-Kruse-Ruhr]"
+  },
+  "children": []
+}

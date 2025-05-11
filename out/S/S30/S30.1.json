@@ -1,0 +1,10 @@
+{
+  "code": "S30.1",
+  "kind": "category",
+  "label": "Prellung der Bauchdecke",
+  "rubrics": {
+    "preferred": "Prellung der Bauchdecke",
+    "inclusion": "Leiste"
+  },
+  "children": []
+}

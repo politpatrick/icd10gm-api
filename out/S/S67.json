@@ -1,0 +1,30 @@
+{
+  "code": "S67",
+  "kind": "category",
+  "label": "Zerquetschung des Handgelenkes und der Hand",
+  "rubrics": {
+    "preferred": "Zerquetschung des Handgelenkes und der Hand",
+    "coding-hint": "Verschlüssele gegebenenfalls auch Crush-Syndrom T79.5.",
+    "exclusion": "Wenn die Art der Verletzung bekannt ist (z.B. Prellung, Fraktur, Luxation, innere Verletzung), verschlüssele nur nach der Art der Verletzung"
+  },
+  "children": [
+    {
+      "code": "S67.0",
+      "kind": "category",
+      "label": "Zerquetschung des Daumens und eines oder mehrerer sonstiger Finger",
+      "rubrics": {
+        "preferred": "Zerquetschung des Daumens und eines oder mehrerer sonstiger Finger"
+      },
+      "children": []
+    },
+    {
+      "code": "S67.8",
+      "kind": "category",
+      "label": "Zerquetschung sonstiger und nicht näher bezeichneter Teile des Handgelenkes und der Hand",
+      "rubrics": {
+        "preferred": "Zerquetschung sonstiger und nicht näher bezeichneter Teile des Handgelenkes und der Hand"
+      },
+      "children": []
+    }
+  ]
+}

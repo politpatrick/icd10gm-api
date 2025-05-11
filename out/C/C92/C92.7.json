@@ -1,0 +1,10 @@
+{
+  "code": "C92.7",
+  "kind": "category",
+  "label": "Sonstige myeloische Leukämie",
+  "rubrics": {
+    "preferred": "Sonstige myeloische Leukämie",
+    "exclusion": "Chronische Eosinophilen-Leukämie [Hypereosinophiles Syndrom]D47.5"
+  },
+  "children": []
+}

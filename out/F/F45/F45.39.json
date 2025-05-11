@@ -1,0 +1,10 @@
+{
+  "code": "F45.39",
+  "kind": "category",
+  "label": "Nicht näher bezeichnetes Organ oder System",
+  "rubrics": {
+    "preferredLong": "Somatoforme autonome Funktionsstörung: Nicht näher bezeichnetes Organ oder System",
+    "preferred": "Nicht näher bezeichnetes Organ oder System"
+  },
+  "children": []
+}

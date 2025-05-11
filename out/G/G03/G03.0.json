@@ -1,0 +1,10 @@
+{
+  "code": "G03.0",
+  "kind": "category",
+  "label": "Nichteitrige Meningitis",
+  "rubrics": {
+    "preferred": "Nichteitrige Meningitis",
+    "inclusion": "Abakterielle Meningitis"
+  },
+  "children": []
+}

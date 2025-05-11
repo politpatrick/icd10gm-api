@@ -1,0 +1,74 @@
+{
+  "code": "H65",
+  "kind": "category",
+  "label": "Nichteitrige Otitis media",
+  "rubrics": {
+    "preferred": "Nichteitrige Otitis media",
+    "inclusion": "Mit Myringitis",
+    "coding-hint": "Soll das Vorliegen einer Trommelfellperforation angegeben werden, ist eine zusätzliche Schlüsselnummer (H72.-) zu benutzen."
+  },
+  "children": [
+    {
+      "code": "H65.0",
+      "kind": "category",
+      "label": "Akute seröse Otitis media",
+      "rubrics": {
+        "preferred": "Akute seröse Otitis media",
+        "inclusion": "Akute und subakute sezernierende Otitis media"
+      },
+      "children": []
+    },
+    {
+      "code": "H65.1",
+      "kind": "category",
+      "label": "Sonstige akute nichteitrige Otitis media",
+      "rubrics": {
+        "preferred": "Sonstige akute nichteitrige Otitis media",
+        "inclusion": "Otitis media, akut und subakut:\n\t\t\t\tseromukös",
+        "exclusion": "Otitis media (akut) o.n.A.H66.9"
+      },
+      "children": []
+    },
+    {
+      "code": "H65.2",
+      "kind": "category",
+      "label": "Chronische seröse Otitis media",
+      "rubrics": {
+        "preferred": "Chronische seröse Otitis media",
+        "inclusion": "Chronischer Tubenmittelohrkatarrh"
+      },
+      "children": []
+    },
+    {
+      "code": "H65.3",
+      "kind": "category",
+      "label": "Chronische muköse Otitis media",
+      "rubrics": {
+        "preferred": "Chronische muköse Otitis media",
+        "inclusion": "Otitis media, chronisch:\n\t\t\t\ttranssudativ",
+        "exclusion": "Adhäsivprozess nach Otitis mediaH74.1"
+      },
+      "children": []
+    },
+    {
+      "code": "H65.4",
+      "kind": "category",
+      "label": "Sonstige chronische nichteitrige Otitis media",
+      "rubrics": {
+        "preferred": "Sonstige chronische nichteitrige Otitis media",
+        "inclusion": "Otitis media, chronisch:\n\t\t\t\tseromukös"
+      },
+      "children": []
+    },
+    {
+      "code": "H65.9",
+      "kind": "category",
+      "label": "Nichteitrige Otitis media, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Nichteitrige Otitis media, nicht näher bezeichnet",
+        "inclusion": "Otitis media:\n\t\t\t\ttranssudativ"
+      },
+      "children": []
+    }
+  ]
+}

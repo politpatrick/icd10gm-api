@@ -1,0 +1,11 @@
+{
+  "code": "B88.3",
+  "kind": "category",
+  "label": "Hirudiniasis externa",
+  "rubrics": {
+    "preferred": "Hirudiniasis externa",
+    "inclusion": "Blutegelbefall o.n.A.",
+    "exclusion": "Hirudiniasis internaB83.4"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "K35.2",
+  "kind": "category",
+  "label": "Akute Appendizitis mit generalisierter Peritonitis",
+  "rubrics": {
+    "preferred": "Akute Appendizitis mit generalisierter Peritonitis",
+    "inclusion": "Appendizitis (akut) mit generalisierter (diffuser) Peritonitis nach Perforation oder Ruptur"
+  },
+  "children": []
+}

@@ -1,0 +1,41 @@
+{
+  "code": "R01",
+  "kind": "category",
+  "label": "Herzgeräusche und andere Herz-Schallphänomene",
+  "rubrics": {
+    "preferred": "Herzgeräusche und andere Herz-Schallphänomene",
+    "exclusion": "Mit Ursprung in der PerinatalperiodeP29.8"
+  },
+  "children": [
+    {
+      "code": "R01.0",
+      "kind": "category",
+      "label": "Benigne und akzidentelle Herzgeräusche",
+      "rubrics": {
+        "preferred": "Benigne und akzidentelle Herzgeräusche",
+        "inclusion": "Funktionelles Herzgeräusch"
+      },
+      "children": []
+    },
+    {
+      "code": "R01.1",
+      "kind": "category",
+      "label": "Herzgeräusch, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Herzgeräusch, nicht näher bezeichnet",
+        "inclusion": "Herzgeräusch (systolisch) o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "R01.2",
+      "kind": "category",
+      "label": "Sonstige Herz-Schallphänomene",
+      "rubrics": {
+        "preferred": "Sonstige Herz-Schallphänomene",
+        "inclusion": "Präkordiales Reiben"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "G08",
+  "kind": "category",
+  "label": "Intrakranielle und intraspinale Phlebitis und Thrombophlebitis",
+  "rubrics": {
+    "preferred": "Intrakranielle und intraspinale Phlebitis und Thrombophlebitis",
+    "inclusion": "Septische:\n\t\t\t\tThrombose\n\t\t\t\tintrakranielle oder intraspinale venöse Sinus und Venen",
+    "exclusion": "Nichteitrige intraspinale Phlebitis und ThrombophlebitisG95.18"
+  },
+  "children": []
+}

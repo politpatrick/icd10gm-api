@@ -1,0 +1,10 @@
+{
+  "code": "Z51.4",
+  "kind": "category",
+  "label": "Vorbereitung auf eine nachfolgende Behandlung, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Vorbereitung auf eine nachfolgende Behandlung, anderenorts nicht klassifiziert",
+    "exclusion": "Vorbereitung auf die DialyseZ49.0"
+  },
+  "children": []
+}

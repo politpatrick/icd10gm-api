@@ -1,0 +1,10 @@
+{
+  "code": "C45.2",
+  "kind": "category",
+  "label": "Mesotheliom des Perikards",
+  "rubrics": {
+    "preferred": "Mesotheliom des Perikards",
+    "exclusion": "Sonstige bösartige Neubildungen des PerikardsC38.0"
+  },
+  "children": []
+}

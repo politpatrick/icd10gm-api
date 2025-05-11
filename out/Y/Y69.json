@@ -1,0 +1,11 @@
+{
+  "code": "Y69",
+  "kind": "category",
+  "label": "Zwischenfälle bei chirurgischem Eingriff und medizinischer Behandlung",
+  "rubrics": {
+    "preferred": "Zwischenfälle bei chirurgischem Eingriff und medizinischer Behandlung",
+    "inclusion": "Vorzeitiger Behandlungsabbruch",
+    "exclusion": "Versagen oder Fehlfunktion medizintechnischer Geräte und Produkte (während eines Eingriffes) (nach Implantation) (unter der Anwendung)Y82.8"
+  },
+  "children": []
+}

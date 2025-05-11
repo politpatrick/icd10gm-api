@@ -1,0 +1,86 @@
+{
+  "code": "T17",
+  "kind": "category",
+  "label": "Fremdkörper in den Atemwegen",
+  "rubrics": {
+    "preferred": "Fremdkörper in den Atemwegen",
+    "inclusion": "Ersticken durch:\n\t\t\t\tSchleim"
+  },
+  "children": [
+    {
+      "code": "T17.0",
+      "kind": "category",
+      "label": "Fremdkörper in einer Nasennebenhöhle",
+      "rubrics": {
+        "preferred": "Fremdkörper in einer Nasennebenhöhle"
+      },
+      "children": []
+    },
+    {
+      "code": "T17.1",
+      "kind": "category",
+      "label": "Fremdkörper im Nasenloch",
+      "rubrics": {
+        "preferred": "Fremdkörper im Nasenloch",
+        "inclusion": "Nase o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "T17.2",
+      "kind": "category",
+      "label": "Fremdkörper im Rachen",
+      "rubrics": {
+        "preferred": "Fremdkörper im Rachen",
+        "inclusion": "Rachen o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "T17.3",
+      "kind": "category",
+      "label": "Fremdkörper im Kehlkopf",
+      "rubrics": {
+        "preferred": "Fremdkörper im Kehlkopf"
+      },
+      "children": []
+    },
+    {
+      "code": "T17.4",
+      "kind": "category",
+      "label": "Fremdkörper in der Trachea",
+      "rubrics": {
+        "preferred": "Fremdkörper in der Trachea"
+      },
+      "children": []
+    },
+    {
+      "code": "T17.5",
+      "kind": "category",
+      "label": "Fremdkörper im Bronchus",
+      "rubrics": {
+        "preferred": "Fremdkörper im Bronchus"
+      },
+      "children": []
+    },
+    {
+      "code": "T17.8",
+      "kind": "category",
+      "label": "Fremdkörper an sonstigen und mehreren Lokalisationen der Atemwege",
+      "rubrics": {
+        "preferred": "Fremdkörper an sonstigen und mehreren Lokalisationen der Atemwege",
+        "inclusion": "Lunge"
+      },
+      "children": []
+    },
+    {
+      "code": "T17.9",
+      "kind": "category",
+      "label": "Fremdkörper in den Atemwegen, Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Fremdkörper in den Atemwegen, Teil nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

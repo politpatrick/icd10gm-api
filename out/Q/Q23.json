@@ -1,0 +1,78 @@
+{
+  "code": "Q23",
+  "kind": "category",
+  "label": "Angeborene Fehlbildungen der Aorten- und der Mitralklappe",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildungen der Aorten- und der Mitralklappe"
+  },
+  "children": [
+    {
+      "code": "Q23.0",
+      "kind": "category",
+      "label": "Angeborene Aortenklappenstenose",
+      "rubrics": {
+        "preferred": "Angeborene Aortenklappenstenose",
+        "inclusion": "Angeborene Aortenstenose",
+        "exclusion": "Bei hypoplastischem LinksherzsyndromQ23.4"
+      },
+      "children": []
+    },
+    {
+      "code": "Q23.1",
+      "kind": "category",
+      "label": "Angeborene Aortenklappeninsuffizienz",
+      "rubrics": {
+        "preferred": "Angeborene Aortenklappeninsuffizienz",
+        "inclusion": "Bikuspidale Aortenklappe"
+      },
+      "children": []
+    },
+    {
+      "code": "Q23.2",
+      "kind": "category",
+      "label": "Angeborene Mitralklappenstenose",
+      "rubrics": {
+        "preferred": "Angeborene Mitralklappenstenose",
+        "inclusion": "Angeborene Mitralatresie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q23.3",
+      "kind": "category",
+      "label": "Angeborene Mitralklappeninsuffizienz",
+      "rubrics": {
+        "preferred": "Angeborene Mitralklappeninsuffizienz"
+      },
+      "children": []
+    },
+    {
+      "code": "Q23.4",
+      "kind": "category",
+      "label": "Hypoplastisches Linksherzsyndrom",
+      "rubrics": {
+        "preferred": "Hypoplastisches Linksherzsyndrom",
+        "text": "Atresie oder deutliche Hypoplasie des Aortenostiums oder der Aortenklappe, mit Hypoplasie der Aorta ascendens und fehlerhafter Entwicklung des linken Ventrikels (mit Mitralklappenstenose oder -atresie)."
+      },
+      "children": []
+    },
+    {
+      "code": "Q23.8",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Aorten- und Mitralklappe",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Aorten- und Mitralklappe"
+      },
+      "children": []
+    },
+    {
+      "code": "Q23.9",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung der Aorten- und Mitralklappe, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung der Aorten- und Mitralklappe, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

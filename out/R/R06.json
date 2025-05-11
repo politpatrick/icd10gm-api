@@ -1,0 +1,122 @@
+{
+  "code": "R06",
+  "kind": "category",
+  "label": "Störungen der Atmung",
+  "rubrics": {
+    "preferred": "Störungen der Atmung",
+    "exclusion": "Respiratorische Insuffizienz beim NeugeborenenP28.5"
+  },
+  "children": [
+    {
+      "code": "R06.0",
+      "kind": "category",
+      "label": "Dyspnoe",
+      "rubrics": {
+        "preferred": "Dyspnoe",
+        "inclusion": "Orthopnoe",
+        "exclusion": "Transitorische Tachypnoe beim NeugeborenenP22.1"
+      },
+      "children": []
+    },
+    {
+      "code": "R06.1",
+      "kind": "category",
+      "label": "Stridor",
+      "rubrics": {
+        "preferred": "Stridor",
+        "exclusion": "Laryngismus (stridulus)J38.5"
+      },
+      "children": []
+    },
+    {
+      "code": "R06.2",
+      "kind": "category",
+      "label": "Ziehende Atmung",
+      "rubrics": {
+        "preferred": "Ziehende Atmung"
+      },
+      "children": []
+    },
+    {
+      "code": "R06.3",
+      "kind": "category",
+      "label": "Periodische Atmung",
+      "rubrics": {
+        "preferred": "Periodische Atmung",
+        "inclusion": "Cheyne-Stokes-Atmung"
+      },
+      "children": []
+    },
+    {
+      "code": "R06.4",
+      "kind": "category",
+      "label": "Hyperventilation",
+      "rubrics": {
+        "preferred": "Hyperventilation",
+        "exclusion": "Psychogene HyperventilationF45.33"
+      },
+      "children": []
+    },
+    {
+      "code": "R06.5",
+      "kind": "category",
+      "label": "Mundatmung",
+      "rubrics": {
+        "preferred": "Mundatmung",
+        "inclusion": "Schnarchen",
+        "exclusion": "Mundtrockenheit o.n.A.R68.2"
+      },
+      "children": []
+    },
+    {
+      "code": "R06.6",
+      "kind": "category",
+      "label": "Singultus",
+      "rubrics": {
+        "preferred": "Singultus",
+        "exclusion": "Psychogener SingultusF45.33"
+      },
+      "children": []
+    },
+    {
+      "code": "R06.7",
+      "kind": "category",
+      "label": "Niesen",
+      "rubrics": {
+        "preferred": "Niesen"
+      },
+      "children": []
+    },
+    {
+      "code": "R06.8",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Störungen der Atmung",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Störungen der Atmung",
+        "exclusion": "Schlafapnoe beim Neugeborenen (primär)P28.3"
+      },
+      "children": [
+        {
+          "code": "R06.80",
+          "kind": "category",
+          "label": "Akutes lebensbedrohliches Ereignis im Säuglingsalter",
+          "rubrics": {
+            "preferred": "Akutes lebensbedrohliches Ereignis im Säuglingsalter",
+            "inclusion": "Near-missed SIDS [sudden infant death syndrome]"
+          },
+          "children": []
+        },
+        {
+          "code": "R06.88",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete Störungen der Atmung",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete Störungen der Atmung",
+            "inclusion": "Seufzen"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

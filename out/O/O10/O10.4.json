@@ -1,0 +1,10 @@
+{
+  "code": "O10.4",
+  "kind": "category",
+  "label": "Vorher bestehende sekundäre Hypertonie, die Schwangerschaft, Geburt und Wochenbett kompliziert",
+  "rubrics": {
+    "preferred": "Vorher bestehende sekundäre Hypertonie, die Schwangerschaft, Geburt und Wochenbett kompliziert",
+    "inclusion": "Jeder Zustand in I15.- als Betreuungsgrund während der Schwangerschaft, der Geburt oder des Wochenbettes"
+  },
+  "children": []
+}

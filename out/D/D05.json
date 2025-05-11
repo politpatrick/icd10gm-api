@@ -1,0 +1,47 @@
+{
+  "code": "D05",
+  "kind": "category",
+  "label": "Carcinoma in situ der Brustdrüse [Mamma]",
+  "rubrics": {
+    "preferred": "Carcinoma in situ der Brustdrüse [Mamma]",
+    "exclusion": "Melanoma in situ der Brustdrüse (Haut)D03.5"
+  },
+  "children": [
+    {
+      "code": "D05.0",
+      "kind": "category",
+      "label": "Lobuläres Carcinoma in situ der Brustdrüse",
+      "rubrics": {
+        "preferred": "Lobuläres Carcinoma in situ der Brustdrüse"
+      },
+      "children": []
+    },
+    {
+      "code": "D05.1",
+      "kind": "category",
+      "label": "Carcinoma in situ der Milchgänge",
+      "rubrics": {
+        "preferred": "Carcinoma in situ der Milchgänge"
+      },
+      "children": []
+    },
+    {
+      "code": "D05.7",
+      "kind": "category",
+      "label": "Sonstiges Carcinoma in situ der Brustdrüse",
+      "rubrics": {
+        "preferred": "Sonstiges Carcinoma in situ der Brustdrüse"
+      },
+      "children": []
+    },
+    {
+      "code": "D05.9",
+      "kind": "category",
+      "label": "Carcinoma in situ der Brustdrüse, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Carcinoma in situ der Brustdrüse, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

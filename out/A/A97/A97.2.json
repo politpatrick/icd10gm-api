@@ -1,0 +1,11 @@
+{
+  "code": "A97.2",
+  "kind": "category",
+  "label": "Schweres Dengue",
+  "rubrics": {
+    "preferred": "Schweres Dengue",
+    "definition": "Klinische Zeichen beinhalten: 1. Schwerer Plasmaverlust, der zu Schock (Dengue-Schocksyndrom, DSS) und/oder Flüssigkeitseinlagerung mit respiratorischem Disstress führt. 2. Schwere Blutung, durch Arzt festgestellt. 3. Schwere Organbeteiligung: Leber-AST oder -ALT größer oder gleich 1000 U/l, ZNS: Bewusstseinseinschränkung (Enzephalitis), Beteiligung anderer Organe, z.B. Myokarditis oder Nephritis.",
+    "inclusion": "Schweres hämorrhagisches Dengue-Fieber"
+  },
+  "children": []
+}

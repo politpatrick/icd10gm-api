@@ -1,0 +1,10 @@
+{
+  "code": "K91.1",
+  "kind": "category",
+  "label": "Syndrome des operierten Magens",
+  "rubrics": {
+    "preferred": "Syndrome des operierten Magens",
+    "inclusion": "Postvagotomie-Syndrom"
+  },
+  "children": []
+}

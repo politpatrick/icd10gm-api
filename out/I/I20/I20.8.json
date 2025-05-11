@@ -1,0 +1,10 @@
+{
+  "code": "I20.8",
+  "kind": "category",
+  "label": "Sonstige Formen der Angina pectoris",
+  "rubrics": {
+    "preferred": "Sonstige Formen der Angina pectoris",
+    "inclusion": "Stenokardie"
+  },
+  "children": []
+}

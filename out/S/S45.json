@@ -1,0 +1,74 @@
+{
+  "code": "S45",
+  "kind": "category",
+  "label": "Verletzung von Blutgefäßen in Höhe der Schulter und des Oberarmes",
+  "rubrics": {
+    "preferred": "Verletzung von Blutgefäßen in Höhe der Schulter und des Oberarmes",
+    "exclusion": "Verletzung:\n\t\t\t\tV. subclaviaS25.3"
+  },
+  "children": [
+    {
+      "code": "S45.0",
+      "kind": "category",
+      "label": "Verletzung der A. axillaris",
+      "rubrics": {
+        "preferred": "Verletzung der A. axillaris"
+      },
+      "children": []
+    },
+    {
+      "code": "S45.1",
+      "kind": "category",
+      "label": "Verletzung der A. brachialis",
+      "rubrics": {
+        "preferred": "Verletzung der A. brachialis"
+      },
+      "children": []
+    },
+    {
+      "code": "S45.2",
+      "kind": "category",
+      "label": "Verletzung der V. axillaris oder der V. brachialis",
+      "rubrics": {
+        "preferred": "Verletzung der V. axillaris oder der V. brachialis"
+      },
+      "children": []
+    },
+    {
+      "code": "S45.3",
+      "kind": "category",
+      "label": "Verletzung oberflächlicher Venen in Höhe der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung oberflächlicher Venen in Höhe der Schulter und des Oberarmes"
+      },
+      "children": []
+    },
+    {
+      "code": "S45.7",
+      "kind": "category",
+      "label": "Verletzung mehrerer Blutgefäße in Höhe der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung mehrerer Blutgefäße in Höhe der Schulter und des Oberarmes"
+      },
+      "children": []
+    },
+    {
+      "code": "S45.8",
+      "kind": "category",
+      "label": "Verletzung sonstiger Blutgefäße in Höhe der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung sonstiger Blutgefäße in Höhe der Schulter und des Oberarmes"
+      },
+      "children": []
+    },
+    {
+      "code": "S45.9",
+      "kind": "category",
+      "label": "Verletzung eines nicht näher bezeichneten Blutgefäßes in Höhe der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung eines nicht näher bezeichneten Blutgefäßes in Höhe der Schulter und des Oberarmes"
+      },
+      "children": []
+    }
+  ]
+}

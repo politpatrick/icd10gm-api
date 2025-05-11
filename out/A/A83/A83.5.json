@@ -1,0 +1,10 @@
+{
+  "code": "A83.5",
+  "kind": "category",
+  "label": "Kalifornische Enzephalitis",
+  "rubrics": {
+    "preferred": "Kalifornische Enzephalitis",
+    "inclusion": "LaCrosse-Enzephalitis"
+  },
+  "children": []
+}

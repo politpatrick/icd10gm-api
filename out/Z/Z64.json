@@ -1,0 +1,41 @@
+{
+  "code": "Z64",
+  "kind": "category",
+  "label": "Kontaktanlässe mit Bezug auf bestimmte psychosoziale Umstände",
+  "rubrics": {
+    "preferred": "Kontaktanlässe mit Bezug auf bestimmte psychosoziale Umstände"
+  },
+  "children": [
+    {
+      "code": "Z64.0",
+      "kind": "category",
+      "label": "Kontaktanlässe mit Bezug auf eine unerwünschte Schwangerschaft",
+      "rubrics": {
+        "preferred": "Kontaktanlässe mit Bezug auf eine unerwünschte Schwangerschaft",
+        "exclusion": "Überwachung einer durch soziale Probleme bedingten RisikoschwangerschaftZ35.8"
+      },
+      "children": []
+    },
+    {
+      "code": "Z64.1",
+      "kind": "category",
+      "label": "Kontaktanlässe mit Bezug auf Multiparität",
+      "rubrics": {
+        "preferred": "Kontaktanlässe mit Bezug auf Multiparität",
+        "exclusion": "Überwachung einer Schwangerschaft bei ausgeprägter MultiparitätZ35.4"
+      },
+      "children": []
+    },
+    {
+      "code": "Z64.8",
+      "kind": "category",
+      "label": "Sonstige Kontaktanlässe mit Bezug auf bestimmte psychosoziale Umstände",
+      "rubrics": {
+        "preferred": "Sonstige Kontaktanlässe mit Bezug auf bestimmte psychosoziale Umstände",
+        "inclusion": "Unstimmigkeit mit Beratungspersonen, z.B. mit Bewährungshelfer oder Sozialarbeiter",
+        "exclusion": "Suchtstoffabhängigkeit - siehe Alphabetisches Verzeichnis"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "C71.7",
+  "kind": "category",
+  "label": "Hirnstamm",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Hirnstamm",
+    "preferred": "Hirnstamm",
+    "inclusion": "IV. Ventrikel"
+  },
+  "children": []
+}

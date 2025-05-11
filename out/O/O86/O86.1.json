@@ -1,0 +1,10 @@
+{
+  "code": "O86.1",
+  "kind": "category",
+  "label": "Sonstige Infektion des Genitaltraktes nach Entbindung",
+  "rubrics": {
+    "preferred": "Sonstige Infektion des Genitaltraktes nach Entbindung",
+    "inclusion": "Zervizitis\n\t\t\t\tnach Entbindung"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "Q14.0",
+  "kind": "category",
+  "label": "Angeborene Fehlbildung des Glaskörpers",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildung des Glaskörpers",
+    "inclusion": "Angeborene Glaskörpertrübung"
+  },
+  "children": []
+}

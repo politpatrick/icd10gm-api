@@ -1,0 +1,10 @@
+{
+  "code": "O29.1",
+  "kind": "category",
+  "label": "Kardiale Komplikationen bei Anästhesie in der Schwangerschaft",
+  "rubrics": {
+    "preferred": "Kardiale Komplikationen bei Anästhesie in der Schwangerschaft",
+    "inclusion": "Herz:\n\t\t\t\tVersagen\n\t\t\t\tdurch Anästhesie in der Schwangerschaft"
+  },
+  "children": []
+}

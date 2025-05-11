@@ -1,0 +1,10 @@
+{
+  "code": "I62.00",
+  "kind": "category",
+  "label": "Akut",
+  "rubrics": {
+    "preferredLong": "Nichttraumatische subdurale Blutung: Akut",
+    "preferred": "Akut"
+  },
+  "children": []
+}

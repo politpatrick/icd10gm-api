@@ -1,0 +1,10 @@
+{
+  "code": "K80.3",
+  "kind": "category",
+  "label": "Gallengangsstein mit Cholangitis",
+  "rubrics": {
+    "preferred": "Gallengangsstein mit Cholangitis",
+    "inclusion": "Jeder unter K80.5- aufgeführte Zustand mit Cholangitis"
+  },
+  "children": []
+}

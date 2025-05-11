@@ -1,0 +1,10 @@
+{
+  "code": "S06.0",
+  "kind": "category",
+  "label": "Gehirnerschütterung",
+  "rubrics": {
+    "preferred": "Gehirnerschütterung",
+    "inclusion": "Schädel-Hirn-Trauma 1. Grades"
+  },
+  "children": []
+}

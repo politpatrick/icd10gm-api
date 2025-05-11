@@ -1,0 +1,10 @@
+{
+  "code": "K11.4",
+  "kind": "category",
+  "label": "Speicheldrüsenfistel",
+  "rubrics": {
+    "preferred": "Speicheldrüsenfistel",
+    "exclusion": "Angeborene SpeicheldrüsenfistelQ38.4"
+  },
+  "children": []
+}

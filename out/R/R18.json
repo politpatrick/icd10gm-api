@@ -1,0 +1,10 @@
+{
+  "code": "R18",
+  "kind": "category",
+  "label": "Aszites",
+  "rubrics": {
+    "preferred": "Aszites",
+    "inclusion": "Flüssigkeitsansammlung in der Bauchhöhle"
+  },
+  "children": []
+}

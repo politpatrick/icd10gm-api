@@ -1,0 +1,11 @@
+{
+  "code": "T14.7",
+  "kind": "category",
+  "label": "Zerquetschung und traumatische Amputation einer nicht näher bezeichneten Körperregion",
+  "rubrics": {
+    "preferred": "Zerquetschung und traumatische Amputation einer nicht näher bezeichneten Körperregion",
+    "inclusion": "Zerquetschung o.n.A.",
+    "exclusion": "Wenn die Art der Verletzung bekannt ist (z.B. Prellung, Fraktur, Luxation, innere Verletzung), verschlüssele nur nach der Art der Verletzung"
+  },
+  "children": []
+}

@@ -1,0 +1,40 @@
+{
+  "code": "U55.1",
+  "kind": "category",
+  "label": "Erfolgte Registrierung zur Herztransplantation",
+  "rubrics": {
+    "preferred": "Erfolgte Registrierung zur Herztransplantation"
+  },
+  "children": [
+    {
+      "code": "U55.10",
+      "kind": "category",
+      "label": "Ohne Dringlichkeitsstufe U [Urgency] oder HU [High Urgency]",
+      "rubrics": {
+        "preferred": "Ohne Dringlichkeitsstufe U [Urgency] oder HU [High Urgency]",
+        "preferredLong": "Erfolgte Registrierung zur Herztransplantation: Ohne Dringlichkeitsstufe U [Urgency] oder HU [High Urgency]"
+      },
+      "children": []
+    },
+    {
+      "code": "U55.11",
+      "kind": "category",
+      "label": "Mit Dringlichkeitsstufe U [Urgency]",
+      "rubrics": {
+        "preferred": "Mit Dringlichkeitsstufe U [Urgency]",
+        "preferredLong": "Erfolgte Registrierung zur Herztransplantation: Mit Dringlichkeitsstufe U [Urgency]"
+      },
+      "children": []
+    },
+    {
+      "code": "U55.12",
+      "kind": "category",
+      "label": "Mit Dringlichkeitsstufe HU [High Urgency]",
+      "rubrics": {
+        "preferred": "Mit Dringlichkeitsstufe HU [High Urgency]",
+        "preferredLong": "Erfolgte Registrierung zur Herztransplantation: Mit Dringlichkeitsstufe HU [High Urgency]"
+      },
+      "children": []
+    }
+  ]
+}

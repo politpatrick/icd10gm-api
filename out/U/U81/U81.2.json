@@ -1,0 +1,91 @@
+{
+  "code": "U81.2",
+  "kind": "category",
+  "label": "Enterobacterales mit Multiresistenz 3MRGN",
+  "rubrics": {
+    "preferred": "Enterobacterales mit Multiresistenz 3MRGN"
+  },
+  "children": [
+    {
+      "code": "U81.20",
+      "kind": "category",
+      "label": "Escherichia coli mit Multiresistenz 3MRGN",
+      "rubrics": {
+        "preferred": "Escherichia coli mit Multiresistenz 3MRGN"
+      },
+      "children": []
+    },
+    {
+      "code": "U81.21",
+      "kind": "category",
+      "label": "Klebsiella pneumoniae mit Multiresistenz 3MRGN",
+      "rubrics": {
+        "preferred": "Klebsiella pneumoniae mit Multiresistenz 3MRGN"
+      },
+      "children": []
+    },
+    {
+      "code": "U81.22",
+      "kind": "category",
+      "label": "Klebsiella oxytoca mit Multiresistenz 3MRGN",
+      "rubrics": {
+        "preferred": "Klebsiella oxytoca mit Multiresistenz 3MRGN"
+      },
+      "children": []
+    },
+    {
+      "code": "U81.23",
+      "kind": "category",
+      "label": "Sonstige Klebsiellen mit Multiresistenz 3MRGN",
+      "rubrics": {
+        "preferred": "Sonstige Klebsiellen mit Multiresistenz 3MRGN"
+      },
+      "children": []
+    },
+    {
+      "code": "U81.24",
+      "kind": "category",
+      "label": "Enterobacter-cloacae-Komplex mit Multiresistenz 3MRGN",
+      "rubrics": {
+        "preferred": "Enterobacter-cloacae-Komplex mit Multiresistenz 3MRGN"
+      },
+      "children": []
+    },
+    {
+      "code": "U81.25",
+      "kind": "category",
+      "label": "Citrobacter-freundii-Komplex mit Multiresistenz 3MRGN",
+      "rubrics": {
+        "preferred": "Citrobacter-freundii-Komplex mit Multiresistenz 3MRGN"
+      },
+      "children": []
+    },
+    {
+      "code": "U81.26",
+      "kind": "category",
+      "label": "Serratia marcescens mit Multiresistenz 3MRGN",
+      "rubrics": {
+        "preferred": "Serratia marcescens mit Multiresistenz 3MRGN"
+      },
+      "children": []
+    },
+    {
+      "code": "U81.27",
+      "kind": "category",
+      "label": "Proteus mirabilis mit Multiresistenz 3MRGN",
+      "rubrics": {
+        "preferred": "Proteus mirabilis mit Multiresistenz 3MRGN"
+      },
+      "children": []
+    },
+    {
+      "code": "U81.28",
+      "kind": "category",
+      "label": "Sonstige Enterobacterales mit Multiresistenz 3MRGN",
+      "rubrics": {
+        "preferred": "Sonstige Enterobacterales mit Multiresistenz 3MRGN"
+      },
+      "children": []
+    }
+  ]
+}

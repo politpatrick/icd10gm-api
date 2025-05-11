@@ -1,0 +1,10 @@
+{
+  "code": "G02.1",
+  "kind": "category",
+  "label": "Meningitis bei anderenorts klassifizierten Mykosen",
+  "rubrics": {
+    "preferred": "Meningitis bei anderenorts klassifizierten Mykosen",
+    "inclusion": "Meningitis bei:\n\t\t\t\tKryptokokkoseB45.1"
+  },
+  "children": []
+}

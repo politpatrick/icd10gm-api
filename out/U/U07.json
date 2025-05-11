@@ -1,0 +1,79 @@
+{
+  "code": "U07",
+  "kind": "category",
+  "label": "Krankheiten mit unklarer Ätiologie, belegte und nicht belegte Schlüsselnummern U07.-",
+  "rubrics": {
+    "preferred": "Krankheiten mit unklarer Ätiologie, belegte und nicht belegte Schlüsselnummern U07.-",
+    "note": "Die Verwendung der Schlüsselnummern U00-U49 ist der WHO vorbehalten, um eine provisorische Zuordnung von Krankheiten unklarer Genese zu ermöglichen. Im Bedarfsfall können notwendige Schlüsselnummern in EDV-Systemen nicht immer ad hoc bereitgestellt werden. Die vorliegende Spezifikation der Kategorie U07.- stellt sicher, dass diese Kategorie und die Subkategorien in EDV-Systemen jederzeit verfügbar sind und ihre Nutzung, nach Vorgabe durch die WHO, umgehend erfolgen kann."
+  },
+  "children": [
+    {
+      "code": "U07.0",
+      "kind": "category",
+      "label": "Gesundheitsstörung im Zusammenhang mit dem Gebrauch von E-Zigaretten [Vaporizer]",
+      "rubrics": {
+        "preferred": "Gesundheitsstörung im Zusammenhang mit dem Gebrauch von E-Zigaretten [Vaporizer]",
+        "definition": "Gesundheitsstörung durch das Inhalieren einer verdampften Lösung (Aerosol), welche Geschmacksstoffe, Nikotin sowie andere Substanzen und Additive enthalten kann, die üblicherweise in Propylenglykol, Glycerin oder in beiden Substanzen gelöst sind, unter Verwendung elektronischer Nikotin- oder Nicht-Nikotin-Abgabesystemen (ENDS bzw. ENNDS). Bei den Betroffenen sollen Infektionen als Ursache der Störung unwahrscheinlich oder ausgeschlossen sein. Relevante Befunde schließen den Nachweis von Lungeninfiltraten ein, wie z.B. Verdichtungen auf einer Röntgenaufnahme des Brustkorbs oder Milchglas-Trübungen in einer Computertomographie des Brustkorbs."
+      },
+      "children": []
+    },
+    {
+      "code": "U07.1",
+      "kind": "category",
+      "label": "COVID-19, Virus nachgewiesen",
+      "rubrics": {
+        "preferred": "COVID-19, Virus nachgewiesen",
+        "inclusion": "Coronavirus-Krankheit-2019, Virus nachgewiesen",
+        "coding-hint": "Benutze zunächst Schlüsselnummern, um das Vorliegen einer Pneumonie oder anderer Manifestationen oder von Kontaktanlässen anzugeben."
+      },
+      "children": []
+    },
+    {
+      "code": "U07.2",
+      "kind": "category",
+      "label": "COVID-19, Virus nicht nachgewiesen",
+      "rubrics": {
+        "preferred": "COVID-19, Virus nicht nachgewiesen",
+        "inclusion": "COVID-19 o.n.A.",
+        "coding-hint": "Benutze zunächst Schlüsselnummern, um das Vorliegen einer Pneumonie oder anderer Manifestationen oder von Kontaktanlässen anzugeben."
+      },
+      "children": []
+    },
+    {
+      "code": "U07.6",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U07.6",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U07.6"
+      },
+      "children": []
+    },
+    {
+      "code": "U07.7",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U07.7",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U07.7"
+      },
+      "children": []
+    },
+    {
+      "code": "U07.8",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U07.8",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U07.8"
+      },
+      "children": []
+    },
+    {
+      "code": "U07.9",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U07.9",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U07.9"
+      },
+      "children": []
+    }
+  ]
+}

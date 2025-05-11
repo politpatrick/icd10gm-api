@@ -1,0 +1,11 @@
+{
+  "code": "N36.3",
+  "kind": "category",
+  "label": "Prolaps der Harnröhrenschleimhaut",
+  "rubrics": {
+    "preferred": "Prolaps der Harnröhrenschleimhaut",
+    "inclusion": "Urethrozele beim Mann",
+    "exclusion": "Urethrozele:\n\t\t\t\t bei der FrauN81.0"
+  },
+  "children": []
+}

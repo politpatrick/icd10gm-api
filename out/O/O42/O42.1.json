@@ -1,0 +1,29 @@
+{
+  "code": "O42.1",
+  "kind": "category",
+  "label": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von 24 Stunden",
+  "rubrics": {
+    "preferred": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von 24 Stunden",
+    "exclusion": "Bei Wehenhemmung durch TherapieO42.2-"
+  },
+  "children": [
+    {
+      "code": "O42.11",
+      "kind": "category",
+      "label": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von 1 bis 7 Tagen",
+      "rubrics": {
+        "preferred": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von 1 bis 7 Tagen"
+      },
+      "children": []
+    },
+    {
+      "code": "O42.12",
+      "kind": "category",
+      "label": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von mehr als 7 Tagen",
+      "rubrics": {
+        "preferred": "Vorzeitiger Blasensprung, Wehenbeginn nach Ablauf von mehr als 7 Tagen"
+      },
+      "children": []
+    }
+  ]
+}

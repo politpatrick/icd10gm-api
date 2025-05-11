@@ -1,0 +1,11 @@
+{
+  "code": "C72.5",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Hirnnerven",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Sonstige und nicht näher bezeichnete Hirnnerven",
+    "preferred": "Sonstige und nicht näher bezeichnete Hirnnerven",
+    "inclusion": "Hirnnerven o.n.A."
+  },
+  "children": []
+}

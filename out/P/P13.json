@@ -1,0 +1,75 @@
+{
+  "code": "P13",
+  "kind": "category",
+  "label": "Geburtsverletzung des Skeletts",
+  "rubrics": {
+    "preferred": "Geburtsverletzung des Skeletts",
+    "exclusion": "Geburtsverletzung der WirbelsäuleP11.5-"
+  },
+  "children": [
+    {
+      "code": "P13.0",
+      "kind": "category",
+      "label": "Fraktur des Schädels durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Fraktur des Schädels durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P13.1",
+      "kind": "category",
+      "label": "Sonstige Geburtsverletzung des Schädels",
+      "rubrics": {
+        "preferred": "Sonstige Geburtsverletzung des Schädels",
+        "exclusion": "KephalhämatomP12.0"
+      },
+      "children": []
+    },
+    {
+      "code": "P13.2",
+      "kind": "category",
+      "label": "Geburtsverletzung des Femurs",
+      "rubrics": {
+        "preferred": "Geburtsverletzung des Femurs"
+      },
+      "children": []
+    },
+    {
+      "code": "P13.3",
+      "kind": "category",
+      "label": "Geburtsverletzung sonstiger Röhrenknochen",
+      "rubrics": {
+        "preferred": "Geburtsverletzung sonstiger Röhrenknochen"
+      },
+      "children": []
+    },
+    {
+      "code": "P13.4",
+      "kind": "category",
+      "label": "Klavikulafraktur durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Klavikulafraktur durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P13.8",
+      "kind": "category",
+      "label": "Geburtsverletzungen an sonstigen Teilen des Skeletts",
+      "rubrics": {
+        "preferred": "Geburtsverletzungen an sonstigen Teilen des Skeletts"
+      },
+      "children": []
+    },
+    {
+      "code": "P13.9",
+      "kind": "category",
+      "label": "Geburtsverletzung des Skeletts, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Geburtsverletzung des Skeletts, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

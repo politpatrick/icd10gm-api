@@ -1,0 +1,10 @@
+{
+  "code": "R94.1",
+  "kind": "category",
+  "label": "Abnorme Ergebnisse von Funktionsprüfungen des peripheren Nervensystems und bestimmter Sinnesorgane",
+  "rubrics": {
+    "preferred": "Abnorme Ergebnisse von Funktionsprüfungen des peripheren Nervensystems und bestimmter Sinnesorgane",
+    "inclusion": "Abnorm:\n\t\t\t\tVisuell evozierte Potentiale [VEP]"
+  },
+  "children": []
+}

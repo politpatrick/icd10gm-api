@@ -1,0 +1,10 @@
+{
+  "code": "B70.1",
+  "kind": "category",
+  "label": "Sparganose",
+  "rubrics": {
+    "preferred": "Sparganose",
+    "inclusion": "Spirometrosis"
+  },
+  "children": []
+}

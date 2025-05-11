@@ -1,0 +1,10 @@
+{
+  "code": "I26.0",
+  "kind": "category",
+  "label": "Lungenembolie mit Angabe eines akuten Cor pulmonale",
+  "rubrics": {
+    "preferred": "Lungenembolie mit Angabe eines akuten Cor pulmonale",
+    "inclusion": "Massive Lungenembolie"
+  },
+  "children": []
+}

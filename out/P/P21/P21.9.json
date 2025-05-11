@@ -1,0 +1,10 @@
+{
+  "code": "P21.9",
+  "kind": "category",
+  "label": "Asphyxie unter der Geburt, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Asphyxie unter der Geburt, nicht näher bezeichnet",
+    "inclusion": "Hypoxie\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

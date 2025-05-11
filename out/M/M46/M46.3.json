@@ -1,0 +1,10 @@
+{
+  "code": "M46.3",
+  "kind": "category",
+  "label": "Bandscheibeninfektion (pyogen)",
+  "rubrics": {
+    "preferred": "Bandscheibeninfektion (pyogen)",
+    "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+  },
+  "children": []
+}

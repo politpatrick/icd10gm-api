@@ -1,0 +1,11 @@
+{
+  "code": "C24.0",
+  "kind": "category",
+  "label": "Extrahepatischer Gallengang",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Extrahepatischer Gallengang",
+    "preferred": "Extrahepatischer Gallengang",
+    "inclusion": "Gallengang o.n.A."
+  },
+  "children": []
+}

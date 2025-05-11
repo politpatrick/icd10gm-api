@@ -1,0 +1,10 @@
+{
+  "code": "R69",
+  "kind": "category",
+  "label": "Unbekannte und nicht näher bezeichnete Krankheitsursachen",
+  "rubrics": {
+    "preferred": "Unbekannte und nicht näher bezeichnete Krankheitsursachen",
+    "inclusion": "Nichtdiagnostizierte Krankheit ohne Angabe der betroffenen Lokalisation oder des betroffenen Systems"
+  },
+  "children": []
+}

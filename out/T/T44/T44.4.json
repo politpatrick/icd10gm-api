@@ -1,0 +1,11 @@
+{
+  "code": "T44.4",
+  "kind": "category",
+  "label": "Vorwiegend Alpha-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Vorwiegend Alpha-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+    "preferred": "Vorwiegend Alpha-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+    "inclusion": "Metaraminol"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "K22.5",
+  "kind": "category",
+  "label": "Divertikel des Ösophagus, erworben",
+  "rubrics": {
+    "preferred": "Divertikel des Ösophagus, erworben",
+    "inclusion": "Ösophagustasche, erworben",
+    "exclusion": "Ösophagusdivertikel (angeboren)Q39.6"
+  },
+  "children": []
+}

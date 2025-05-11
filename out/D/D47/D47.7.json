@@ -1,0 +1,12 @@
+{
+  "code": "D47.7",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Neubildungen unsicheren oder unbekannten Verhaltens des lymphatischen, blutbildenden und verwandten Gewebes",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Neubildungen unsicheren oder unbekannten Verhaltens des lymphatischen, blutbildenden und verwandten Gewebes",
+    "inclusion": "Posttransplantations-lymphoproliferative Krankheit, floride follikuläre Hyperplasie",
+    "coding-hint": "Soll die zytogenetische oder molekulargenetische Differenzierung spezifisch angegeben werden, so ist eine zusätzliche SchlüsselnummerU62.0- zu benutzen.",
+    "exclusion": "Polymorphe posttransplantations-lymphoproliferative Krankheit [PTLD]C88.7-"
+  },
+  "children": []
+}

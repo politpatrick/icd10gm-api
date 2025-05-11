@@ -1,0 +1,72 @@
+{
+  "code": "C54",
+  "kind": "category",
+  "label": "Bösartige Neubildung des Corpus uteri",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung des Corpus uteri"
+  },
+  "children": [
+    {
+      "code": "C54.0",
+      "kind": "category",
+      "label": "Isthmus uteri",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Isthmus uteri",
+        "preferred": "Isthmus uteri",
+        "inclusion": "Unteres Uterinsegment"
+      },
+      "children": []
+    },
+    {
+      "code": "C54.1",
+      "kind": "category",
+      "label": "Endometrium",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Endometrium",
+        "preferred": "Endometrium"
+      },
+      "children": []
+    },
+    {
+      "code": "C54.2",
+      "kind": "category",
+      "label": "Myometrium",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Myometrium",
+        "preferred": "Myometrium"
+      },
+      "children": []
+    },
+    {
+      "code": "C54.3",
+      "kind": "category",
+      "label": "Fundus uteri",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Fundus uteri",
+        "preferred": "Fundus uteri"
+      },
+      "children": []
+    },
+    {
+      "code": "C54.8",
+      "kind": "category",
+      "label": "Corpus uteri, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Corpus uteri, mehrere Teilbereiche überlappend",
+        "preferred": "Corpus uteri, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+      },
+      "children": []
+    },
+    {
+      "code": "C54.9",
+      "kind": "category",
+      "label": "Corpus uteri, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Corpus uteri, nicht näher bezeichnet",
+        "preferred": "Corpus uteri, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "code": "S11.0",
+  "kind": "category",
+  "label": "Offene Wunde mit Beteiligung des Kehlkopfes und der Trachea",
+  "rubrics": {
+    "preferred": "Offene Wunde mit Beteiligung des Kehlkopfes und der Trachea"
+  },
+  "children": [
+    {
+      "code": "S11.01",
+      "kind": "category",
+      "label": "Kehlkopf",
+      "rubrics": {
+        "preferredLong": "Offene Wunde: Kehlkopf",
+        "preferred": "Kehlkopf",
+        "inclusion": "Epiglottis"
+      },
+      "children": []
+    },
+    {
+      "code": "S11.02",
+      "kind": "category",
+      "label": "Trachea, Pars cervicalis",
+      "rubrics": {
+        "preferredLong": "Offene Wunde: Trachea, Pars cervicalis",
+        "preferred": "Trachea, Pars cervicalis",
+        "inclusion": "Trachea o.n.A.",
+        "exclusion": "Trachea, Pars thoracicaS27.5"
+      },
+      "children": []
+    }
+  ]
+}

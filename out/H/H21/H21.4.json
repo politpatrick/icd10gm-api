@@ -1,0 +1,10 @@
+{
+  "code": "H21.4",
+  "kind": "category",
+  "label": "Pupillarmembranen",
+  "rubrics": {
+    "preferred": "Pupillarmembranen",
+    "inclusion": "Seclusio pupillae"
+  },
+  "children": []
+}

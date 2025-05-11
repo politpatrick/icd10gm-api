@@ -1,0 +1,10 @@
+{
+  "code": "T84.06",
+  "kind": "category",
+  "label": "Sprunggelenk",
+  "rubrics": {
+    "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Sprunggelenk",
+    "preferred": "Sprunggelenk"
+  },
+  "children": []
+}

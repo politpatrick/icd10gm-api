@@ -1,0 +1,10 @@
+{
+  "code": "H35.0",
+  "kind": "category",
+  "label": "Retinopathien des Augenhintergrundes und Veränderungen der Netzhautgefäße",
+  "rubrics": {
+    "preferred": "Retinopathien des Augenhintergrundes und Veränderungen der Netzhautgefäße",
+    "inclusion": "Veränderungen im Erscheinungsbild der Netzhautgefäße"
+  },
+  "children": []
+}

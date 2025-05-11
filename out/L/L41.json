@@ -1,0 +1,74 @@
+{
+  "code": "L41",
+  "kind": "category",
+  "label": "Parapsoriasis",
+  "rubrics": {
+    "preferred": "Parapsoriasis",
+    "exclusion": "Poikilodermia atrophicans vascularis [Jacobi]L94.5"
+  },
+  "children": [
+    {
+      "code": "L41.0",
+      "kind": "category",
+      "label": "Pityriasis lichenoides et varioliformis acuta [Mucha-Habermann]",
+      "rubrics": {
+        "preferred": "Pityriasis lichenoides et varioliformis acuta [Mucha-Habermann]"
+      },
+      "children": []
+    },
+    {
+      "code": "L41.1",
+      "kind": "category",
+      "label": "Parapsoriasis guttata",
+      "rubrics": {
+        "preferred": "Parapsoriasis guttata"
+      },
+      "children": []
+    },
+    {
+      "code": "L41.3",
+      "kind": "category",
+      "label": "Kleinfleckige Parapsoriasis en plaques",
+      "rubrics": {
+        "preferred": "Kleinfleckige Parapsoriasis en plaques"
+      },
+      "children": []
+    },
+    {
+      "code": "L41.4",
+      "kind": "category",
+      "label": "Großfleckige Parapsoriasis en plaques",
+      "rubrics": {
+        "preferred": "Großfleckige Parapsoriasis en plaques"
+      },
+      "children": []
+    },
+    {
+      "code": "L41.5",
+      "kind": "category",
+      "label": "Parapsoriasis mit Poikilodermie",
+      "rubrics": {
+        "preferred": "Parapsoriasis mit Poikilodermie"
+      },
+      "children": []
+    },
+    {
+      "code": "L41.8",
+      "kind": "category",
+      "label": "Sonstige Parapsoriasis",
+      "rubrics": {
+        "preferred": "Sonstige Parapsoriasis"
+      },
+      "children": []
+    },
+    {
+      "code": "L41.9",
+      "kind": "category",
+      "label": "Parapsoriasis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Parapsoriasis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

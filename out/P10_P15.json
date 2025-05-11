@@ -1,0 +1,504 @@
+{
+  "code": "P10-P15",
+  "kind": "block",
+  "label": "Geburtstrauma",
+  "rubrics": {
+    "preferred": "Geburtstrauma"
+  },
+  "children": [
+    {
+      "code": "P10",
+      "kind": "category",
+      "label": "Intrakranielle Verletzung und Blutung durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Intrakranielle Verletzung und Blutung durch Geburtsverletzung",
+        "exclusion": "Intrakranielle (nichttraumatische) Blutung beim Fetus oder Neugeborenen:\n\t\t\t\to.n.A.P52.9"
+      },
+      "children": [
+        {
+          "code": "P10.0",
+          "kind": "category",
+          "label": "Subdurale Blutung durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Subdurale Blutung durch Geburtsverletzung",
+            "inclusion": "Subdurales Hämatom (lokalisiert) durch Geburtsverletzung",
+            "exclusion": "Subdurale Blutung bei TentoriumrissP10.4"
+          },
+          "children": []
+        },
+        {
+          "code": "P10.1",
+          "kind": "category",
+          "label": "Zerebrale Blutung durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Zerebrale Blutung durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P10.2",
+          "kind": "category",
+          "label": "Intraventrikuläre Blutung durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Intraventrikuläre Blutung durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P10.3",
+          "kind": "category",
+          "label": "Subarachnoidale Blutung durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Subarachnoidale Blutung durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P10.4",
+          "kind": "category",
+          "label": "Tentoriumriss durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Tentoriumriss durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P10.8",
+          "kind": "category",
+          "label": "Sonstige intrakranielle Verletzungen und Blutungen durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Sonstige intrakranielle Verletzungen und Blutungen durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P10.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete intrakranielle Verletzung und Blutung durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete intrakranielle Verletzung und Blutung durch Geburtsverletzung"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P11",
+      "kind": "category",
+      "label": "Sonstige Geburtsverletzungen des Zentralnervensystems",
+      "rubrics": {
+        "preferred": "Sonstige Geburtsverletzungen des Zentralnervensystems"
+      },
+      "children": [
+        {
+          "code": "P11.0",
+          "kind": "category",
+          "label": "Hirnödem durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Hirnödem durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P11.1",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Hirnschädigung durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Hirnschädigung durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P11.2",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Hirnschädigung durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Hirnschädigung durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P11.3",
+          "kind": "category",
+          "label": "Geburtsverletzung des N. facialis [VII. Hirnnerv]",
+          "rubrics": {
+            "preferred": "Geburtsverletzung des N. facialis [VII. Hirnnerv]",
+            "inclusion": "Fazialislähmung durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P11.4",
+          "kind": "category",
+          "label": "Geburtsverletzung sonstiger Hirnnerven",
+          "rubrics": {
+            "preferred": "Geburtsverletzung sonstiger Hirnnerven"
+          },
+          "children": []
+        },
+        {
+          "code": "P11.5",
+          "kind": "category",
+          "label": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes",
+          "rubrics": {
+            "preferred": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes",
+            "inclusion": "Wirbelsäulenfraktur durch Geburtsverletzung"
+          },
+          "children": [
+            {
+              "code": "P11.50",
+              "kind": "category",
+              "label": "Mit akuter Querschnittlähmung",
+              "rubrics": {
+                "preferredLong": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes: Mit akuter Querschnittlähmung",
+                "preferred": "Mit akuter Querschnittlähmung"
+              },
+              "children": []
+            },
+            {
+              "code": "P11.51",
+              "kind": "category",
+              "label": "Mit chronischer Querschnittlähmung",
+              "rubrics": {
+                "preferredLong": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes: Mit chronischer Querschnittlähmung",
+                "preferred": "Mit chronischer Querschnittlähmung"
+              },
+              "children": []
+            },
+            {
+              "code": "P11.59",
+              "kind": "category",
+              "label": "Nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes: Nicht näher bezeichnet",
+                "preferred": "Nicht näher bezeichnet",
+                "inclusion": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes ohne Querschnittlähmung"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "P11.9",
+          "kind": "category",
+          "label": "Geburtsverletzung des Zentralnervensystems, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Geburtsverletzung des Zentralnervensystems, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P12",
+      "kind": "category",
+      "label": "Geburtsverletzung der behaarten Kopfhaut",
+      "rubrics": {
+        "preferred": "Geburtsverletzung der behaarten Kopfhaut"
+      },
+      "children": [
+        {
+          "code": "P12.0",
+          "kind": "category",
+          "label": "Kephalhämatom durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Kephalhämatom durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P12.1",
+          "kind": "category",
+          "label": "Geburtsgeschwulst durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Geburtsgeschwulst durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P12.2",
+          "kind": "category",
+          "label": "Epikranielle subaponeurotische Blutung durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Epikranielle subaponeurotische Blutung durch Geburtsverletzung",
+            "inclusion": "Subgaleales Hämatom durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P12.3",
+          "kind": "category",
+          "label": "Quetschwunde der behaarten Kopfhaut durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Quetschwunde der behaarten Kopfhaut durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P12.4",
+          "kind": "category",
+          "label": "Überwachungsbedingte Verletzung der behaarten Kopfhaut beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Überwachungsbedingte Verletzung der behaarten Kopfhaut beim Neugeborenen",
+            "inclusion": "Verletzung durch Kopfschwartenklammer (Elektrode)"
+          },
+          "children": []
+        },
+        {
+          "code": "P12.8",
+          "kind": "category",
+          "label": "Sonstige Geburtsverletzungen der behaarten Kopfhaut",
+          "rubrics": {
+            "preferred": "Sonstige Geburtsverletzungen der behaarten Kopfhaut"
+          },
+          "children": []
+        },
+        {
+          "code": "P12.9",
+          "kind": "category",
+          "label": "Geburtsverletzung der behaarten Kopfhaut, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Geburtsverletzung der behaarten Kopfhaut, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P13",
+      "kind": "category",
+      "label": "Geburtsverletzung des Skeletts",
+      "rubrics": {
+        "preferred": "Geburtsverletzung des Skeletts",
+        "exclusion": "Geburtsverletzung der WirbelsäuleP11.5-"
+      },
+      "children": [
+        {
+          "code": "P13.0",
+          "kind": "category",
+          "label": "Fraktur des Schädels durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Fraktur des Schädels durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P13.1",
+          "kind": "category",
+          "label": "Sonstige Geburtsverletzung des Schädels",
+          "rubrics": {
+            "preferred": "Sonstige Geburtsverletzung des Schädels",
+            "exclusion": "KephalhämatomP12.0"
+          },
+          "children": []
+        },
+        {
+          "code": "P13.2",
+          "kind": "category",
+          "label": "Geburtsverletzung des Femurs",
+          "rubrics": {
+            "preferred": "Geburtsverletzung des Femurs"
+          },
+          "children": []
+        },
+        {
+          "code": "P13.3",
+          "kind": "category",
+          "label": "Geburtsverletzung sonstiger Röhrenknochen",
+          "rubrics": {
+            "preferred": "Geburtsverletzung sonstiger Röhrenknochen"
+          },
+          "children": []
+        },
+        {
+          "code": "P13.4",
+          "kind": "category",
+          "label": "Klavikulafraktur durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Klavikulafraktur durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P13.8",
+          "kind": "category",
+          "label": "Geburtsverletzungen an sonstigen Teilen des Skeletts",
+          "rubrics": {
+            "preferred": "Geburtsverletzungen an sonstigen Teilen des Skeletts"
+          },
+          "children": []
+        },
+        {
+          "code": "P13.9",
+          "kind": "category",
+          "label": "Geburtsverletzung des Skeletts, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Geburtsverletzung des Skeletts, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P14",
+      "kind": "category",
+      "label": "Geburtsverletzung des peripheren Nervensystems",
+      "rubrics": {
+        "preferred": "Geburtsverletzung des peripheren Nervensystems"
+      },
+      "children": [
+        {
+          "code": "P14.0",
+          "kind": "category",
+          "label": "Erb-Lähmung durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Erb-Lähmung durch Geburtsverletzung",
+            "inclusion": "Obere Armplexuslähmung"
+          },
+          "children": []
+        },
+        {
+          "code": "P14.1",
+          "kind": "category",
+          "label": "Klumpke-Lähmung durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Klumpke-Lähmung durch Geburtsverletzung",
+            "inclusion": "Untere Armplexuslähmung"
+          },
+          "children": []
+        },
+        {
+          "code": "P14.2",
+          "kind": "category",
+          "label": "Lähmung des N. phrenicus durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Lähmung des N. phrenicus durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P14.3",
+          "kind": "category",
+          "label": "Sonstige Geburtsverletzungen des Plexus brachialis",
+          "rubrics": {
+            "preferred": "Sonstige Geburtsverletzungen des Plexus brachialis"
+          },
+          "children": []
+        },
+        {
+          "code": "P14.8",
+          "kind": "category",
+          "label": "Geburtsverletzungen sonstiger Teile des peripheren Nervensystems",
+          "rubrics": {
+            "preferred": "Geburtsverletzungen sonstiger Teile des peripheren Nervensystems"
+          },
+          "children": []
+        },
+        {
+          "code": "P14.9",
+          "kind": "category",
+          "label": "Geburtsverletzung des peripheren Nervensystems, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Geburtsverletzung des peripheren Nervensystems, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P15",
+      "kind": "category",
+      "label": "Sonstige Geburtsverletzungen",
+      "rubrics": {
+        "preferred": "Sonstige Geburtsverletzungen"
+      },
+      "children": [
+        {
+          "code": "P15.0",
+          "kind": "category",
+          "label": "Geburtsverletzung der Leber",
+          "rubrics": {
+            "preferred": "Geburtsverletzung der Leber",
+            "inclusion": "Leberruptur durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P15.1",
+          "kind": "category",
+          "label": "Geburtsverletzung der Milz",
+          "rubrics": {
+            "preferred": "Geburtsverletzung der Milz",
+            "inclusion": "Milzruptur durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P15.2",
+          "kind": "category",
+          "label": "Verletzung des M. sternocleidomastoideus durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Verletzung des M. sternocleidomastoideus durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P15.3",
+          "kind": "category",
+          "label": "Geburtsverletzung des Auges",
+          "rubrics": {
+            "preferred": "Geburtsverletzung des Auges",
+            "inclusion": "Traumatisches Glaukom\n\t\t\t\tdurch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P15.4",
+          "kind": "category",
+          "label": "Geburtsverletzung des Gesichtes",
+          "rubrics": {
+            "preferred": "Geburtsverletzung des Gesichtes",
+            "inclusion": "Blutstauung des Gesichtes durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P15.5",
+          "kind": "category",
+          "label": "Geburtsverletzung der äußeren Genitalorgane",
+          "rubrics": {
+            "preferred": "Geburtsverletzung der äußeren Genitalorgane"
+          },
+          "children": []
+        },
+        {
+          "code": "P15.6",
+          "kind": "category",
+          "label": "Adiponecrosis subcutanea neonatorum durch Geburtsverletzung",
+          "rubrics": {
+            "preferred": "Adiponecrosis subcutanea neonatorum durch Geburtsverletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "P15.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Geburtsverletzungen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Geburtsverletzungen"
+          },
+          "children": []
+        },
+        {
+          "code": "P15.9",
+          "kind": "category",
+          "label": "Geburtsverletzung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Geburtsverletzung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

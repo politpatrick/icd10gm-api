@@ -1,0 +1,10 @@
+{
+  "code": "B42.70",
+  "kind": "category",
+  "label": "Sepsis durch Sporothrix",
+  "rubrics": {
+    "preferred": "Sepsis durch Sporothrix",
+    "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.80!-U69.82, um den zeitlichen Bezug der Sepsis zur stationären Krankenhausaufnahme anzugeben."
+  },
+  "children": []
+}

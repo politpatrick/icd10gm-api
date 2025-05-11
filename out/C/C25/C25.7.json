@@ -1,0 +1,11 @@
+{
+  "code": "C25.7",
+  "kind": "category",
+  "label": "Sonstige Teile des Pankreas",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Sonstige Teile des Pankreas",
+    "preferred": "Sonstige Teile des Pankreas",
+    "inclusion": "Pankreashals"
+  },
+  "children": []
+}

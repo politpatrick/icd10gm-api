@@ -1,0 +1,10 @@
+{
+  "code": "K13.6",
+  "kind": "category",
+  "label": "Irritative Hyperplasie der Mundschleimhaut",
+  "rubrics": {
+    "preferred": "Irritative Hyperplasie der Mundschleimhaut",
+    "exclusion": "Irritative Hyperplasie des zahnlosen Alveolarkammes [Hyperplasie durch Zahnprothese]K06.2"
+  },
+  "children": []
+}

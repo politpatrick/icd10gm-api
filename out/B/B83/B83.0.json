@@ -1,0 +1,10 @@
+{
+  "code": "B83.0",
+  "kind": "category",
+  "label": "Larva migrans visceralis",
+  "rubrics": {
+    "preferred": "Larva migrans visceralis",
+    "inclusion": "Toxokariasis"
+  },
+  "children": []
+}

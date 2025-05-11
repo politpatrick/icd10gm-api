@@ -1,0 +1,12 @@
+{
+  "code": "S39.7",
+  "kind": "category",
+  "label": "Multiple Verletzungen des Abdomens, der Lumbosakralgegend und des Beckens",
+  "rubrics": {
+    "preferred": "Multiple Verletzungen des Abdomens, der Lumbosakralgegend und des Beckens",
+    "inclusion": "Verletzungen, die in mehr als einer der Kategorien S30-S39.6 klassifizierbar sind",
+    "coding-hint": "Bezüglich der Verschlüsselung multipler Verletzungen sind in der stationären Versorgung die Deutschen Kodierrichtlinien heranzuziehen.",
+    "exclusion": "Verletzungen aus S36.- in Kombination mit Verletzungen aus S37.-S39.6"
+  },
+  "children": []
+}

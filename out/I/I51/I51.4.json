@@ -1,0 +1,10 @@
+{
+  "code": "I51.4",
+  "kind": "category",
+  "label": "Myokarditis, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Myokarditis, nicht näher bezeichnet",
+    "inclusion": "Myokarditis:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

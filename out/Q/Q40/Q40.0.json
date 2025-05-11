@@ -1,0 +1,10 @@
+{
+  "code": "Q40.0",
+  "kind": "category",
+  "label": "Angeborene hypertrophische Pylorusstenose",
+  "rubrics": {
+    "preferred": "Angeborene hypertrophische Pylorusstenose",
+    "inclusion": "Angeboren oder infantil:\n\t\t\t\tStriktur\n\t\t\t\tPylorus"
+  },
+  "children": []
+}

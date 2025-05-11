@@ -1,0 +1,11 @@
+{
+  "code": "T37.1",
+  "kind": "category",
+  "label": "Antimykobakterielle Arzneimittel",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Antimykobakterielle Arzneimittel",
+    "preferred": "Antimykobakterielle Arzneimittel",
+    "exclusion": "StreptomycinT36.5"
+  },
+  "children": []
+}

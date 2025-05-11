@@ -1,0 +1,11 @@
+{
+  "code": "S00.2",
+  "kind": "category",
+  "label": "Sonstige oberflächliche Verletzungen des Augenlides und der Periokularregion",
+  "rubrics": {
+    "preferred": "Sonstige oberflächliche Verletzungen des Augenlides und der Periokularregion",
+    "inclusion": "Orbitaregion",
+    "exclusion": "Oberflächliche Verletzung der Konjunktiva und der KorneaS05.0"
+  },
+  "children": []
+}

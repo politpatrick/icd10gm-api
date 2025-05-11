@@ -1,0 +1,11 @@
+{
+  "code": "J39.2",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Rachenraumes",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Rachenraumes",
+    "inclusion": "Zyste\n\t\t\t\tRachen oder Nasopharynx",
+    "exclusion": "Pharyngitis:\n\t\t\t\tulzerösJ02.9"
+  },
+  "children": []
+}

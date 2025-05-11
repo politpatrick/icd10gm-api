@@ -1,0 +1,10 @@
+{
+  "code": "B36.0",
+  "kind": "category",
+  "label": "Pityriasis versicolor",
+  "rubrics": {
+    "preferred": "Pityriasis versicolor",
+    "inclusion": "Tinea:\n\t\t\t\tversicolor"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D18.1",
+  "kind": "category",
+  "label": "Lymphangiom",
+  "rubrics": {
+    "preferred": "Lymphangiom",
+    "inclusion": "Hämolymphangiom"
+  },
+  "children": []
+}

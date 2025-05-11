@@ -1,0 +1,102 @@
+{
+  "code": "Z91",
+  "kind": "category",
+  "label": "Risikofaktoren in der Eigenanamnese, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Risikofaktoren in der Eigenanamnese, anderenorts nicht klassifiziert",
+    "exclusion": "Missbrauch einer psychotropen Substanz in der EigenanamneseZ86.4"
+  },
+  "children": [
+    {
+      "code": "Z91.0",
+      "kind": "category",
+      "label": "Allergie, ausgenommen Allergie gegenüber Arzneimitteln, Drogen oder biologisch aktiven Substanzen, in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Allergie, ausgenommen Allergie gegenüber Arzneimitteln, Drogen oder biologisch aktiven Substanzen, in der Eigenanamnese",
+        "exclusion": "Allergie gegenüber Arzneimitteln, Drogen oder biologisch aktiven Substanzen in der EigenanamneseZ88.-"
+      },
+      "children": []
+    },
+    {
+      "code": "Z91.1",
+      "kind": "category",
+      "label": "Nichtbefolgung ärztlicher Anordnungen [Non-compliance] in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Nichtbefolgung ärztlicher Anordnungen [Non-compliance] in der Eigenanamnese"
+      },
+      "children": []
+    },
+    {
+      "code": "Z91.7",
+      "kind": "category",
+      "label": "Weibliche Genitalverstümmelung in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese",
+        "note": "Die Schlüsselnummern dieser Kategorie sind bei aktuellen Zuständen weiblicher Genitalverstümmelung anzugeben, wenn diese Anlass der Behandlung sind oder die Behandlung anderer Zustände beeinflussen.\n\t\t\t\tAusgeschlossen sind Zustände nach vorausgegangenen Eingriffen aus medizinischen und kosmetischen Gründen und anderen ästhetischen Maßnahmen, wie z.B. Tattoos und Piercings."
+      },
+      "children": [
+        {
+          "code": "Z91.70",
+          "kind": "category",
+          "label": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ nicht näher bezeichnet",
+            "inclusion": "Weibliche Genitalverstümmelung o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "Z91.71",
+          "kind": "category",
+          "label": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 1",
+          "rubrics": {
+            "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 1",
+            "inclusion": "Female genital mutilation [FGM], type 1"
+          },
+          "children": []
+        },
+        {
+          "code": "Z91.72",
+          "kind": "category",
+          "label": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 2",
+          "rubrics": {
+            "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 2",
+            "inclusion": "Female genital mutilation [FGM], type 2"
+          },
+          "children": []
+        },
+        {
+          "code": "Z91.73",
+          "kind": "category",
+          "label": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 3",
+          "rubrics": {
+            "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 3",
+            "inclusion": "Female genital mutilation [FGM], type 3"
+          },
+          "children": []
+        },
+        {
+          "code": "Z91.74",
+          "kind": "category",
+          "label": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 4",
+          "rubrics": {
+            "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 4",
+            "inclusion": "Female genital mutilation [FGM], type 4"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z91.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Risikofaktoren in der Eigenanamnese, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Risikofaktoren in der Eigenanamnese, anderenorts nicht klassifiziert",
+        "inclusion": "Versuchte Selbsttötung",
+        "exclusion": "SchlafstörungenG47.-"
+      },
+      "children": []
+    }
+  ]
+}

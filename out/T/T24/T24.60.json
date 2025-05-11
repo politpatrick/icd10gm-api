@@ -1,0 +1,10 @@
+{
+  "code": "T24.60",
+  "kind": "category",
+  "label": "Verätzung Grad 2a der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+  "rubrics": {
+    "preferred": "Verätzung Grad 2a der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß",
+    "inclusion": "Verätzung nicht näher bezeichneten 2. Grades der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß"
+  },
+  "children": []
+}

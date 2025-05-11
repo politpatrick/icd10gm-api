@@ -1,0 +1,10 @@
+{
+  "code": "T33.4",
+  "kind": "category",
+  "label": "Oberflächliche Erfrierung des Armes",
+  "rubrics": {
+    "preferred": "Oberflächliche Erfrierung des Armes",
+    "exclusion": "Oberflächliche Erfrierung des Handgelenkes und der Hand, isoliertT33.5"
+  },
+  "children": []
+}

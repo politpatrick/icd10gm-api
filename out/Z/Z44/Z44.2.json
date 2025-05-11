@@ -1,0 +1,10 @@
+{
+  "code": "Z44.2",
+  "kind": "category",
+  "label": "Versorgen mit und Anpassen einer Augenprothese",
+  "rubrics": {
+    "preferred": "Versorgen mit und Anpassen einer Augenprothese",
+    "exclusion": "Mechanische Komplikation durch AugenprotheseT85.3"
+  },
+  "children": []
+}

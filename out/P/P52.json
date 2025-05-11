@@ -1,0 +1,96 @@
+{
+  "code": "P52",
+  "kind": "category",
+  "label": "Intrakranielle nichttraumatische Blutung beim Fetus und Neugeborenen",
+  "rubrics": {
+    "preferred": "Intrakranielle nichttraumatische Blutung beim Fetus und Neugeborenen",
+    "inclusion": "Intrakranielle Blutung durch Anoxie oder Hypoxie",
+    "exclusion": "Intrakranielle Blutung durch:\n\t\t\t\tVerletzung der MutterP00.5"
+  },
+  "children": [
+    {
+      "code": "P52.0",
+      "kind": "category",
+      "label": "Intrakranielle (nichttraumatische) Blutung 1. Grades beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "Intrakranielle (nichttraumatische) Blutung 1. Grades beim Fetus und Neugeborenen",
+        "inclusion": "Subependymblutung (ohne intraventrikuläre Ausdehnung)"
+      },
+      "children": []
+    },
+    {
+      "code": "P52.1",
+      "kind": "category",
+      "label": "Intraventrikuläre (nichttraumatische) Blutung 2. Grades beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "Intraventrikuläre (nichttraumatische) Blutung 2. Grades beim Fetus und Neugeborenen",
+        "inclusion": "Subependymblutung mit intraventrikulärer Ausdehnung 2. Grades"
+      },
+      "children": []
+    },
+    {
+      "code": "P52.2",
+      "kind": "category",
+      "label": "Intraventrikuläre (nichttraumatische) Blutung 3. Grades beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "Intraventrikuläre (nichttraumatische) Blutung 3. Grades beim Fetus und Neugeborenen",
+        "inclusion": "Subependymblutung mit intraventrikulärer Ausdehnung 3. Grades"
+      },
+      "children": []
+    },
+    {
+      "code": "P52.3",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete intraventrikuläre (nichttraumatische) Blutung beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete intraventrikuläre (nichttraumatische) Blutung beim Fetus und Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P52.4",
+      "kind": "category",
+      "label": "Intrazerebrale (nichttraumatische) Blutung beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "Intrazerebrale (nichttraumatische) Blutung beim Fetus und Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P52.5",
+      "kind": "category",
+      "label": "Subarachnoidalblutung (nichttraumatisch) beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "Subarachnoidalblutung (nichttraumatisch) beim Fetus und Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P52.6",
+      "kind": "category",
+      "label": "Kleinhirnblutung (nichttraumatisch) und Blutung in die Fossa cranii posterior beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "Kleinhirnblutung (nichttraumatisch) und Blutung in die Fossa cranii posterior beim Fetus und Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P52.8",
+      "kind": "category",
+      "label": "Sonstige intrakranielle (nichttraumatische) Blutungen beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige intrakranielle (nichttraumatische) Blutungen beim Fetus und Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P52.9",
+      "kind": "category",
+      "label": "Intrakranielle (nichttraumatische) Blutung beim Fetus und Neugeborenen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Intrakranielle (nichttraumatische) Blutung beim Fetus und Neugeborenen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

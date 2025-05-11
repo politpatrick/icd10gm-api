@@ -1,0 +1,10 @@
+{
+  "code": "D36.0",
+  "kind": "category",
+  "label": "Lymphknoten",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Lymphknoten",
+    "preferred": "Lymphknoten"
+  },
+  "children": []
+}

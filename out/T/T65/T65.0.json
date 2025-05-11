@@ -1,0 +1,11 @@
+{
+  "code": "T65.0",
+  "kind": "category",
+  "label": "Zyanide",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Zyanide",
+    "preferred": "Zyanide",
+    "exclusion": "BlausäureT57.3"
+  },
+  "children": []
+}

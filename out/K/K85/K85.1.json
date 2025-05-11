@@ -1,0 +1,10 @@
+{
+  "code": "K85.1",
+  "kind": "category",
+  "label": "Biliäre akute Pankreatitis",
+  "rubrics": {
+    "preferred": "Biliäre akute Pankreatitis",
+    "inclusion": "Gallenstein-Pankreatitis"
+  },
+  "children": []
+}

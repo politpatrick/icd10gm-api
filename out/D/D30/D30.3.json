@@ -1,0 +1,11 @@
+{
+  "code": "D30.3",
+  "kind": "category",
+  "label": "Harnblase",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Harnblase",
+    "preferred": "Harnblase",
+    "inclusion": "Ostium urethrae internum"
+  },
+  "children": []
+}

@@ -1,0 +1,51 @@
+{
+  "code": "I73",
+  "kind": "category",
+  "label": "Sonstige periphere Gefäßkrankheiten",
+  "rubrics": {
+    "preferred": "Sonstige periphere Gefäßkrankheiten",
+    "exclusion": "Spasmus der HirnarterienG45.9-"
+  },
+  "children": [
+    {
+      "code": "I73.0",
+      "kind": "category",
+      "label": "Raynaud-Syndrom",
+      "rubrics": {
+        "preferred": "Raynaud-Syndrom",
+        "inclusion": "Raynaud-:\n\t\t\t\tPhänomen (sekundär)"
+      },
+      "children": []
+    },
+    {
+      "code": "I73.1",
+      "kind": "category",
+      "label": "Thrombangiitis obliterans [Endangiitis von-Winiwarter-Buerger]",
+      "rubrics": {
+        "preferred": "Thrombangiitis obliterans [Endangiitis von-Winiwarter-Buerger]"
+      },
+      "children": []
+    },
+    {
+      "code": "I73.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete periphere Gefäßkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete periphere Gefäßkrankheiten",
+        "inclusion": "Erythrozyanose"
+      },
+      "children": []
+    },
+    {
+      "code": "I73.9",
+      "kind": "category",
+      "label": "Periphere Gefäßkrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Periphere Gefäßkrankheit, nicht näher bezeichnet",
+        "inclusion": "Claudicatio intermittens o.n.A.",
+        "exclusion": "Claudicatio intermittens bei peripherer arterieller Verschlusskrankheit [pAVK] I70.2-"
+      },
+      "children": []
+    }
+  ]
+}

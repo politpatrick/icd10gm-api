@@ -1,0 +1,59 @@
+{
+  "code": "A67",
+  "kind": "category",
+  "label": "Pinta [Carate]",
+  "rubrics": {
+    "preferred": "Pinta [Carate]"
+  },
+  "children": [
+    {
+      "code": "A67.0",
+      "kind": "category",
+      "label": "Primärläsion bei Pinta",
+      "rubrics": {
+        "preferred": "Primärläsion bei Pinta",
+        "inclusion": "Schanker (primär)\n\t\t\t\tPinta [Carate]"
+      },
+      "children": []
+    },
+    {
+      "code": "A67.1",
+      "kind": "category",
+      "label": "Zwischenstadium der Pinta",
+      "rubrics": {
+        "preferred": "Zwischenstadium der Pinta",
+        "inclusion": "Pintide"
+      },
+      "children": []
+    },
+    {
+      "code": "A67.2",
+      "kind": "category",
+      "label": "Spätstadium der Pinta",
+      "rubrics": {
+        "preferred": "Spätstadium der Pinta",
+        "inclusion": "Kardiovaskuläre VeränderungenI98.1\n\t\t\t\tPinta [Carate]"
+      },
+      "children": []
+    },
+    {
+      "code": "A67.3",
+      "kind": "category",
+      "label": "Mischformen der Pinta",
+      "rubrics": {
+        "preferred": "Mischformen der Pinta",
+        "inclusion": "Depigmentierte und hyperpigmentierte Hautveränderungen gleichzeitig, bei Pinta [Carate]"
+      },
+      "children": []
+    },
+    {
+      "code": "A67.9",
+      "kind": "category",
+      "label": "Pinta, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Pinta, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

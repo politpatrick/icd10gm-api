@@ -1,0 +1,11 @@
+{
+  "code": "P08.0",
+  "kind": "category",
+  "label": "Übergewichtige Neugeborene",
+  "rubrics": {
+    "preferred": "Übergewichtige Neugeborene",
+    "text": "Ein Kind mit einem Geburtsgewicht von 4500 Gramm oder mehr.",
+    "exclusion": "Syndrom des Kindes einer Mutter mit gestationsbedingtem Diabetes mellitusP70.0"
+  },
+  "children": []
+}

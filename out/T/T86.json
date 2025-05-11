@@ -1,0 +1,324 @@
+{
+  "code": "T86",
+  "kind": "category",
+  "label": "Versagen und Abstoßung von transplantierten Organen und Geweben",
+  "rubrics": {
+    "preferred": "Versagen und Abstoßung von transplantierten Organen und Geweben",
+    "note": "Das Versagen der abgestoßenen Organe und Gewebe (z.B. ein akutes Nierenversagen bei Abstoßung eines Nierentransplantates) ist in der Schlüsselnummer enthalten und daher nicht gesondert zu kodieren."
+  },
+  "children": [
+    {
+      "code": "T86.0",
+      "kind": "category",
+      "label": "Versagen eines Transplantates hämatopoetischer Stammzellen und Graft-versus-Host-Krankheit",
+      "rubrics": {
+        "preferred": "Versagen eines Transplantates hämatopoetischer Stammzellen und Graft-versus-Host-Krankheit",
+        "coding-hint": "Benutze zusätzliche Schlüsselnummern bei den Subkategorien T86.01†, T86.02†, T86.05†, T86.06† und T86.07†, um jede einzelne Organbeteiligung bei Graft-versus-Host-Krankheit zu verschlüsseln.\n\t\t\t\tDie Einteilung der Stadien und Grade der akuten Graft-versus-Host-Krankheit erfolgt nach Meeting Report der Consensus Conference on Acute GVHD Grading (1994), Houston (USA) (Meeting Report, Consensus Conference on Acute GVHD Grading, Przepiorka D, Weisdorf D, Martin P, Klingemann HG, Beatty P, Hows J, Thomas ED, abgedruckt in: Bone Marrow Transplant. 1995 Jun;15(6):825-8).\n\t\t\t\tDie Einteilung der Grade der chronischen Graft-versus-Host-Krankheit erfolgt nach: National Institutes of Health consensus development project on criteria for clinical trials in chronic graft-versus-host disease: I. Diagnosis and staging working group report. Filipovich AH, Weisdorf D, Pavletic S, Socie G, Wingard JR, Lee SJ, Martin P, Chien J, Przepiorka D, Couriel D, Cowen EW, Dinndorf P, Farrell A, Hartzman R, Henslee-Downey J, Jacobsohn D, McDonald G, Mittleman B, Rizzo JD, Robinson M, Schubert M, Schultz K, Shulman H, Turner M, Vogelsang G, Flowers ME, abgedruckt in: Biol Blood Marrow Transplant. 2005 Dec;11(12):945-56."
+      },
+      "children": [
+        {
+          "code": "T86.00",
+          "kind": "category",
+          "label": "Versagen eines Transplantates hämatopoetischer Stammzellen",
+          "rubrics": {
+            "preferred": "Versagen eines Transplantates hämatopoetischer Stammzellen"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.01",
+          "kind": "category",
+          "label": "Akute Graft-versus-Host-Krankheit, Grad I und II",
+          "rubrics": {
+            "preferred": "Akute Graft-versus-Host-Krankheit, Grad I und II",
+            "note": "Der jeweilige Grad der akuten GVHD ist erreicht, wenn mindestens eines der zugeordneten Stadien der genannten akuten Organ-GVHD vorliegt.",
+            "definition": "Grad der akuten GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Haut-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Leber-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Verdauungstrakt-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tI\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1 oder 2\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tKeine Beteiligung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tKeine Beteiligung\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tII\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1",
+            "inclusion": "Akute Verdauungstrakt-Graft-versus-Host-Krankheit, Stadium 1K93.21"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.02",
+          "kind": "category",
+          "label": "Akute Graft-versus-Host-Krankheit, Grad III und IV",
+          "rubrics": {
+            "preferred": "Akute Graft-versus-Host-Krankheit, Grad III und IV",
+            "note": "Der jeweilige Grad der akuten GVHD ist erreicht, wenn mindestens eines der zugeordneten Stadien der genannten Organ-GVHD vorliegt. Das Stadium der akuten Haut-GVHD stellt kein Eingangskriterium für den Grad III der GVHD dar, es dient hier lediglich der Dokumentation.",
+            "definition": "Grad der akuten GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Haut-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Leber-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStadium der akuten Verdauungstrakt-GVHD\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIII\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t(1 bis 3)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t2 oder 3\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t2 oder 3\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIV\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t4\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t4\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t4",
+            "inclusion": "Akute Verdauungstrakt-Graft-versus-Host-Krankheit, Stadium 2 bis 4K93.22K93.23K93.24"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.05",
+          "kind": "category",
+          "label": "Chronische Graft-versus-Host-Krankheit, mild",
+          "rubrics": {
+            "preferred": "Chronische Graft-versus-Host-Krankheit, mild",
+            "note": "Die milde Form der chronischen GVHD ist erreicht, wenn mindestens eine oder höchstens zwei der genannten Organ-GVHD im Stadium 1 vorliegen. Eine Lungenbeteiligung darf nicht vorliegen.",
+            "inclusion": "Chronische Vulvovaginal-Graft-versus-Host-Krankheit, Stadium 1N77.21"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.06",
+          "kind": "category",
+          "label": "Chronische Graft-versus-Host-Krankheit, moderat",
+          "rubrics": {
+            "preferred": "Chronische Graft-versus-Host-Krankheit, moderat",
+            "note": "Die moderate Form der chronischen GVHD ist erreicht, wenn eine Lungenbeteiligung im Stadium 1 oder mindestens eine der anderen genannten Organ-GVHD im Stadium 2 oder mindestens drei der anderen genannten Organ-GVHD im Stadium 1 vorliegen.",
+            "inclusion": "Chronische Vulvovaginal-Graft-versus-Host-Krankheit, Stadium 1 und 2N77.21N77.22"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.07",
+          "kind": "category",
+          "label": "Chronische Graft-versus-Host-Krankheit, schwer",
+          "rubrics": {
+            "preferred": "Chronische Graft-versus-Host-Krankheit, schwer",
+            "note": "Die schwere Form der chronischen GVHD ist erreicht, wenn eine Lungenbeteiligung im Stadium 2 oder 3 oder mindestens eine der anderen genannten Organ-GVHD im Stadium 3 vorliegen.",
+            "inclusion": "Chronische Vulvovaginal-Graft-versus-Host-Krankheit, Stadium 3N77.23"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.09",
+          "kind": "category",
+          "label": "Graft-versus-Host-Krankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Graft-versus-Host-Krankheit, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T86.1",
+      "kind": "category",
+      "label": "Funktionsstörung, Versagen und Abstoßung eines Nierentransplantates",
+      "rubrics": {
+        "preferred": "Funktionsstörung, Versagen und Abstoßung eines Nierentransplantates"
+      },
+      "children": [
+        {
+          "code": "T86.10",
+          "kind": "category",
+          "label": "Akute Funktionsverschlechterung eines Nierentransplantates",
+          "rubrics": {
+            "preferred": "Akute Funktionsverschlechterung eines Nierentransplantates",
+            "inclusion": "Akute Funktionsverschlechterung ohne Nachweis einer Abstoßung",
+            "coding-hint": "Soll die Ursache der akuten Funktionsverschlechterung angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "T86.11",
+          "kind": "category",
+          "label": "Chronische Funktionsverschlechterung eines Nierentransplantates",
+          "rubrics": {
+            "preferred": "Chronische Funktionsverschlechterung eines Nierentransplantates",
+            "inclusion": "Chronische Abstoßung eines Nierentransplantates",
+            "coding-hint": "Soll die Ursache der chronischen Funktionsverschlechterung angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "T86.12",
+          "kind": "category",
+          "label": "Verzögerte Aufnahme der Transplantatfunktion",
+          "rubrics": {
+            "preferred": "Verzögerte Aufnahme der Transplantatfunktion"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.19",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete Funktionsstörung, Versagen und Abstoßung eines Nierentransplantates",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete Funktionsstörung, Versagen und Abstoßung eines Nierentransplantates"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T86.2",
+      "kind": "category",
+      "label": "Versagen und Abstoßung eines Herztransplantates",
+      "rubrics": {
+        "preferred": "Versagen und Abstoßung eines Herztransplantates",
+        "exclusion": "Komplikation durch:\n\t\t\t\tKünstliches HerzgerätT82.-"
+      },
+      "children": []
+    },
+    {
+      "code": "T86.3",
+      "kind": "category",
+      "label": "Versagen und Abstoßung eines Herz-Lungen-Transplantates",
+      "rubrics": {
+        "preferred": "Versagen und Abstoßung eines Herz-Lungen-Transplantates"
+      },
+      "children": []
+    },
+    {
+      "code": "T86.4",
+      "kind": "category",
+      "label": "Funktionsstörung, Versagen und Abstoßung eines Lebertransplantates",
+      "rubrics": {
+        "preferred": "Funktionsstörung, Versagen und Abstoßung eines Lebertransplantates"
+      },
+      "children": [
+        {
+          "code": "T86.40",
+          "kind": "category",
+          "label": "Akute Funktionsverschlechterung eines Lebertransplantates",
+          "rubrics": {
+            "preferred": "Akute Funktionsverschlechterung eines Lebertransplantates",
+            "inclusion": "Funktionsverschlechterung\n\t\t\t\tinnerhalb der ersten 28 Tage nach Transplantation"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.41",
+          "kind": "category",
+          "label": "Chronische Funktionsverschlechterung eines Lebertransplantates",
+          "rubrics": {
+            "preferred": "Chronische Funktionsverschlechterung eines Lebertransplantates",
+            "inclusion": "Funktionsverschlechterung\n\t\t\t\t29 Tage nach Transplantation und später"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.49",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete Funktionsstörung, Versagen und Abstoßung eines Lebertransplantates",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete Funktionsstörung, Versagen und Abstoßung eines Lebertransplantates"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T86.5",
+      "kind": "category",
+      "label": "Versagen und Abstoßung eines Hauttransplantates",
+      "rubrics": {
+        "preferred": "Versagen und Abstoßung eines Hauttransplantates",
+        "inclusion": "Myokutanes, fasziokutanes oder lipokutanes Transplantat (durch Lappenplastik)",
+        "exclusion": "Versagen und Abstoßung eines Mammatransplantates ohne HautanteilT86.84"
+      },
+      "children": [
+        {
+          "code": "T86.50",
+          "kind": "category",
+          "label": "Durchblutungsstörung eines Hauttransplantates",
+          "rubrics": {
+            "preferred": "Durchblutungsstörung eines Hauttransplantates"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.51",
+          "kind": "category",
+          "label": "Nekrose eines Hauttransplantates",
+          "rubrics": {
+            "preferred": "Nekrose eines Hauttransplantates"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.52",
+          "kind": "category",
+          "label": "Verlust eines Hauttransplantates",
+          "rubrics": {
+            "preferred": "Verlust eines Hauttransplantates"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.59",
+          "kind": "category",
+          "label": "Sonstiges und nicht näher bezeichnetes Versagen und Abstoßung eines Hauttransplantates",
+          "rubrics": {
+            "preferred": "Sonstiges und nicht näher bezeichnetes Versagen und Abstoßung eines Hauttransplantates"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T86.8",
+      "kind": "category",
+      "label": "Versagen und Abstoßung sonstiger transplantierter Organe und Gewebe",
+      "rubrics": {
+        "preferred": "Versagen und Abstoßung sonstiger transplantierter Organe und Gewebe"
+      },
+      "children": [
+        {
+          "code": "T86.81",
+          "kind": "category",
+          "label": "Lungentransplantat",
+          "rubrics": {
+            "preferredLong": "Versagen und Abstoßung: Lungentransplantat",
+            "preferred": "Lungentransplantat"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.82",
+          "kind": "category",
+          "label": "Pankreastransplantat",
+          "rubrics": {
+            "preferredLong": "Versagen und Abstoßung: Pankreastransplantat",
+            "preferred": "Pankreastransplantat"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.83",
+          "kind": "category",
+          "label": "Hornhauttransplantat des Auges",
+          "rubrics": {
+            "preferredLong": "Versagen und Abstoßung: Hornhauttransplantat des Auges",
+            "preferred": "Hornhauttransplantat des Auges"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.84",
+          "kind": "category",
+          "label": "Mammatransplantat ohne Hautanteil",
+          "rubrics": {
+            "preferredLong": "Versagen und Abstoßung: Mammatransplantat ohne Hautanteil",
+            "preferred": "Mammatransplantat ohne Hautanteil",
+            "exclusion": "Versagen und Abstoßung eines Mammatransplantates mit HautanteilT86.5-"
+          },
+          "children": []
+        },
+        {
+          "code": "T86.88",
+          "kind": "category",
+          "label": "Sonstige transplantierte Organe und Gewebe",
+          "rubrics": {
+            "preferredLong": "Versagen und Abstoßung: Sonstige transplantierte Organe und Gewebe",
+            "preferred": "Sonstige transplantierte Organe und Gewebe",
+            "inclusion": "Transplantatversagen oder -abstoßung von:\n\t\t\t\tKnochen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T86.9",
+      "kind": "category",
+      "label": "Versagen und Abstoßung eines nicht näher bezeichneten transplantierten Organs und Gewebes",
+      "rubrics": {
+        "preferred": "Versagen und Abstoßung eines nicht näher bezeichneten transplantierten Organs und Gewebes"
+      },
+      "children": []
+    }
+  ]
+}

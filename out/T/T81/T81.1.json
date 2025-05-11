@@ -1,0 +1,12 @@
+{
+  "code": "T81.1",
+  "kind": "category",
+  "label": "Schock während oder als Folge eines Eingriffes, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Schock während oder als Folge eines Eingriffes, anderenorts nicht klassifiziert",
+    "inclusion": "Postoperativer Schock o.n.A.",
+    "coding-hint": "Soll das Vorliegen eines septischen Schocks angegeben werden, ist eine zusätzliche Schlüsselnummer (R57.2) zu benutzen.",
+    "exclusion": "Schock (durch):\n\t\t\t\ttraumatischT79.4"
+  },
+  "children": []
+}

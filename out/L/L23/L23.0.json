@@ -1,0 +1,10 @@
+{
+  "code": "L23.0",
+  "kind": "category",
+  "label": "Allergische Kontaktdermatitis durch Metalle",
+  "rubrics": {
+    "preferred": "Allergische Kontaktdermatitis durch Metalle",
+    "inclusion": "Nickel"
+  },
+  "children": []
+}

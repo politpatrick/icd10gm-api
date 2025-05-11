@@ -1,0 +1,10 @@
+{
+  "code": "G94.31",
+  "kind": "category",
+  "label": "Enzephalopathie bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+  "rubrics": {
+    "preferred": "Enzephalopathie bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+    "exclusion": "Septische EnzephalopathieG94.32"
+  },
+  "children": []
+}

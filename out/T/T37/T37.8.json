@@ -1,0 +1,12 @@
+{
+  "code": "T37.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete systemisch wirkende Antiinfektiva und Antiparasitika",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Sonstige näher bezeichnete systemisch wirkende Antiinfektiva und Antiparasitika",
+    "preferred": "Sonstige näher bezeichnete systemisch wirkende Antiinfektiva und Antiparasitika",
+    "inclusion": "Hydroxychinolin-Derivate",
+    "exclusion": "AntimalariamittelT37.2"
+  },
+  "children": []
+}

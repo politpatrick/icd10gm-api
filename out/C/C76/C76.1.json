@@ -1,0 +1,11 @@
+{
+  "code": "C76.1",
+  "kind": "category",
+  "label": "Thorax",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Thorax",
+    "preferred": "Thorax",
+    "inclusion": "Thorakal o.n.A."
+  },
+  "children": []
+}

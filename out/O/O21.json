@@ -1,0 +1,60 @@
+{
+  "code": "O21",
+  "kind": "category",
+  "label": "Übermäßiges Erbrechen während der Schwangerschaft",
+  "rubrics": {
+    "preferred": "Übermäßiges Erbrechen während der Schwangerschaft"
+  },
+  "children": [
+    {
+      "code": "O21.0",
+      "kind": "category",
+      "label": "Leichte Hyperemesis gravidarum",
+      "rubrics": {
+        "preferred": "Leichte Hyperemesis gravidarum",
+        "inclusion": "Hyperemesis gravidarum, leicht oder nicht näher bezeichnet, Beginn vor Beendigung der 20. Schwangerschaftswoche"
+      },
+      "children": []
+    },
+    {
+      "code": "O21.1",
+      "kind": "category",
+      "label": "Hyperemesis gravidarum mit Stoffwechselstörung",
+      "rubrics": {
+        "preferred": "Hyperemesis gravidarum mit Stoffwechselstörung",
+        "inclusion": "Hyperemesis gravidarum, Beginn vor Beendigung der 20. Schwangerschaftswoche, mit Stoffwechselstörung, wie z.B.:\n\t\t\t\tStörung des Elektrolythaushaltes"
+      },
+      "children": []
+    },
+    {
+      "code": "O21.2",
+      "kind": "category",
+      "label": "Späterbrechen während der Schwangerschaft",
+      "rubrics": {
+        "preferred": "Späterbrechen während der Schwangerschaft",
+        "inclusion": "Übermäßiges Erbrechen, Beginn nach 20 vollendeten Schwangerschaftswochen"
+      },
+      "children": []
+    },
+    {
+      "code": "O21.8",
+      "kind": "category",
+      "label": "Sonstiges Erbrechen, das die Schwangerschaft kompliziert",
+      "rubrics": {
+        "preferred": "Sonstiges Erbrechen, das die Schwangerschaft kompliziert",
+        "inclusion": "Erbrechen durch anderenorts klassifizierte Krankheiten, das die Schwangerschaft kompliziert",
+        "coding-hint": "Soll die Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "O21.9",
+      "kind": "category",
+      "label": "Erbrechen während der Schwangerschaft, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Erbrechen während der Schwangerschaft, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

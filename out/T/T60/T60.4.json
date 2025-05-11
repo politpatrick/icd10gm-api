@@ -1,0 +1,11 @@
+{
+  "code": "T60.4",
+  "kind": "category",
+  "label": "Rodentizide",
+  "rubrics": {
+    "preferred": "Rodentizide",
+    "preferredLong": "Toxische Wirkung: Rodentizide",
+    "exclusion": "Strychnin und dessen Salze T65.1"
+  },
+  "children": []
+}

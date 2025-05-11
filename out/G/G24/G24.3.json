@@ -1,0 +1,10 @@
+{
+  "code": "G24.3",
+  "kind": "category",
+  "label": "Torticollis spasticus",
+  "rubrics": {
+    "preferred": "Torticollis spasticus",
+    "exclusion": "Tortikollis o.n.A.M43.6"
+  },
+  "children": []
+}

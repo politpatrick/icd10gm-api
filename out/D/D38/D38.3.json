@@ -1,0 +1,10 @@
+{
+  "code": "D38.3",
+  "kind": "category",
+  "label": "Mediastinum",
+  "rubrics": {
+    "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Mediastinum",
+    "preferred": "Mediastinum"
+  },
+  "children": []
+}

@@ -1,0 +1,71 @@
+{
+  "code": "C40",
+  "kind": "category",
+  "label": "Bösartige Neubildung des Knochens und des Gelenkknorpels der Extremitäten",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung des Knochens und des Gelenkknorpels der Extremitäten"
+  },
+  "children": [
+    {
+      "code": "C40.0",
+      "kind": "category",
+      "label": "Skapula und lange Knochen der oberen Extremität",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung des Knochens und des Gelenkknorpels: Skapula und lange Knochen der oberen Extremität",
+        "preferred": "Skapula und lange Knochen der oberen Extremität"
+      },
+      "children": []
+    },
+    {
+      "code": "C40.1",
+      "kind": "category",
+      "label": "Kurze Knochen der oberen Extremität",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung des Knochens und des Gelenkknorpels: Kurze Knochen der oberen Extremität",
+        "preferred": "Kurze Knochen der oberen Extremität"
+      },
+      "children": []
+    },
+    {
+      "code": "C40.2",
+      "kind": "category",
+      "label": "Lange Knochen der unteren Extremität",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung des Knochens und des Gelenkknorpels: Lange Knochen der unteren Extremität",
+        "preferred": "Lange Knochen der unteren Extremität"
+      },
+      "children": []
+    },
+    {
+      "code": "C40.3",
+      "kind": "category",
+      "label": "Kurze Knochen der unteren Extremität",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung des Knochens und des Gelenkknorpels: Kurze Knochen der unteren Extremität",
+        "preferred": "Kurze Knochen der unteren Extremität"
+      },
+      "children": []
+    },
+    {
+      "code": "C40.8",
+      "kind": "category",
+      "label": "Knochen und Gelenkknorpel der Extremitäten, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Knochen und Gelenkknorpel der Extremitäten, mehrere Teilbereiche überlappend",
+        "preferred": "Knochen und Gelenkknorpel der Extremitäten, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+      },
+      "children": []
+    },
+    {
+      "code": "C40.9",
+      "kind": "category",
+      "label": "Knochen und Gelenkknorpel einer Extremität, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Knochen und Gelenkknorpel einer Extremität, nicht näher bezeichnet",
+        "preferred": "Knochen und Gelenkknorpel einer Extremität, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

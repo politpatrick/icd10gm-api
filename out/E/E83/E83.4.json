@@ -1,0 +1,10 @@
+{
+  "code": "E83.4",
+  "kind": "category",
+  "label": "Störungen des Magnesiumstoffwechsels",
+  "rubrics": {
+    "preferred": "Störungen des Magnesiumstoffwechsels",
+    "inclusion": "Hypomagnesiämie"
+  },
+  "children": []
+}

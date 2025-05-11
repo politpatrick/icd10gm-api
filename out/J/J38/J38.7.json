@@ -1,0 +1,10 @@
+{
+  "code": "J38.7",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Kehlkopfes",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Kehlkopfes",
+    "inclusion": "Ulkus\n\t\t\t\tKehlkopf"
+  },
+  "children": []
+}

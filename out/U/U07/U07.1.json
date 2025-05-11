@@ -1,0 +1,11 @@
+{
+  "code": "U07.1",
+  "kind": "category",
+  "label": "COVID-19, Virus nachgewiesen",
+  "rubrics": {
+    "preferred": "COVID-19, Virus nachgewiesen",
+    "inclusion": "Coronavirus-Krankheit-2019, Virus nachgewiesen",
+    "coding-hint": "Benutze zunächst Schlüsselnummern, um das Vorliegen einer Pneumonie oder anderer Manifestationen oder von Kontaktanlässen anzugeben."
+  },
+  "children": []
+}

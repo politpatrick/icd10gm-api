@@ -1,0 +1,11 @@
+{
+  "code": "S83.2",
+  "kind": "category",
+  "label": "Meniskusriss, akut",
+  "rubrics": {
+    "preferred": "Meniskusriss, akut",
+    "inclusion": "Korbhenkelriss:\n\t\t\t\to.n.A.",
+    "exclusion": "Alter KorbhenkelrissM23.2-"
+  },
+  "children": []
+}

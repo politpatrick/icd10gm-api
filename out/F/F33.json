@@ -1,0 +1,84 @@
+{
+  "code": "F33",
+  "kind": "category",
+  "label": "Rezidivierende depressive Störung",
+  "rubrics": {
+    "preferred": "Rezidivierende depressive Störung",
+    "definition": "Hierbei handelt es sich um eine Störung, die durch wiederholte depressive Episoden (F32.-) charakterisiert ist. In der Anamnese finden sich dabei keine unabhängigen Episoden mit gehobener Stimmung und vermehrtem Antrieb (Manie). Kurze Episoden von leicht gehobener Stimmung und Überaktivität (Hypomanie) können allerdings unmittelbar nach einer depressiven Episode, manchmal durch eine antidepressive Behandlung mitbedingt, aufgetreten sein. Die schwereren Formen der rezidivierenden depressiven Störung (F33.2 und .3) haben viel mit den früheren Konzepten der manisch-depressiven Krankheit, der Melancholie, der vitalen Depression und der endogenen Depression gemeinsam. Die erste Episode kann in jedem Alter zwischen Kindheit und Senium auftreten, der Beginn kann akut oder schleichend sein, die Dauer reicht von wenigen Wochen bis zu vielen Monaten. Das Risiko, dass ein Patient mit rezidivierender depressiver Störung eine manische Episode entwickelt, wird niemals vollständig aufgehoben, gleichgültig, wie viele depressive Episoden aufgetreten sind. Bei Auftreten einer manischen Episode ist die Diagnose in bipolare affektive Störung zu ändern (F31.-).",
+    "inclusion": "Saisonale depressive Störung",
+    "exclusion": "Rezidivierende kurze depressive EpisodenF38.1"
+  },
+  "children": [
+    {
+      "code": "F33.0",
+      "kind": "category",
+      "label": "Rezidivierende depressive Störung, gegenwärtig leichte Episode",
+      "rubrics": {
+        "preferred": "Rezidivierende depressive Störung, gegenwärtig leichte Episode",
+        "definition": "Eine Störung, die durch wiederholte depressive Episoden gekennzeichnet ist, wobei die gegenwärtige Episode leicht ist (siehe F32.0), ohne Manie in der Anamnese."
+      },
+      "children": []
+    },
+    {
+      "code": "F33.1",
+      "kind": "category",
+      "label": "Rezidivierende depressive Störung, gegenwärtig mittelgradige Episode",
+      "rubrics": {
+        "preferred": "Rezidivierende depressive Störung, gegenwärtig mittelgradige Episode",
+        "definition": "Eine Störung, die durch wiederholte depressive Episoden gekennzeichnet ist, wobei die gegenwärtige Episode mittelgradig ist (siehe F32.1), ohne Manie in der Anamnese."
+      },
+      "children": []
+    },
+    {
+      "code": "F33.2",
+      "kind": "category",
+      "label": "Rezidivierende depressive Störung, gegenwärtig schwere Episode ohne psychotische Symptome",
+      "rubrics": {
+        "preferred": "Rezidivierende depressive Störung, gegenwärtig schwere Episode ohne psychotische Symptome",
+        "definition": "Eine Störung, die durch wiederholte depressive Episoden gekennzeichnet ist, wobei die gegenwärtige Episode schwer ist, ohne psychotische Symptome (siehe F32.2) und ohne Manie in der Anamnese.",
+        "inclusion": "Rezidivierende vitale Depression, ohne psychotische Symptome"
+      },
+      "children": []
+    },
+    {
+      "code": "F33.3",
+      "kind": "category",
+      "label": "Rezidivierende depressive Störung, gegenwärtig schwere Episode mit psychotischen Symptomen",
+      "rubrics": {
+        "preferred": "Rezidivierende depressive Störung, gegenwärtig schwere Episode mit psychotischen Symptomen",
+        "definition": "Eine Störung, die durch wiederholte depressive Episoden gekennzeichnet ist; die gegenwärtige Episode ist schwer, mit psychotischen Symptomen (siehe F32.3), ohne vorhergehende manische Episoden.",
+        "inclusion": "Rezidivierende schwere Episoden:\n\t\t\t\treaktive depressive Psychose"
+      },
+      "children": []
+    },
+    {
+      "code": "F33.4",
+      "kind": "category",
+      "label": "Rezidivierende depressive Störung, gegenwärtig remittiert",
+      "rubrics": {
+        "preferred": "Rezidivierende depressive Störung, gegenwärtig remittiert",
+        "definition": "Die Kriterien für eine der oben beschriebenen Störungen F33.0-F33.3 sind in der Anamnese erfüllt, aber in den letzten Monaten bestehen keine depressiven Symptome."
+      },
+      "children": []
+    },
+    {
+      "code": "F33.8",
+      "kind": "category",
+      "label": "Sonstige rezidivierende depressive Störungen",
+      "rubrics": {
+        "preferred": "Sonstige rezidivierende depressive Störungen"
+      },
+      "children": []
+    },
+    {
+      "code": "F33.9",
+      "kind": "category",
+      "label": "Rezidivierende depressive Störung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Rezidivierende depressive Störung, nicht näher bezeichnet",
+        "inclusion": "Monopolare Depression o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

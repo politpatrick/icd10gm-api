@@ -1,0 +1,10 @@
+{
+  "code": "R94.8",
+  "kind": "category",
+  "label": "Abnorme Ergebnisse von Funktionsprüfungen sonstiger Organe und Organsysteme",
+  "rubrics": {
+    "preferred": "Abnorme Ergebnisse von Funktionsprüfungen sonstiger Organe und Organsysteme",
+    "inclusion": "Abnorm:\n\t\t\t\tMilzfunktionstest"
+  },
+  "children": []
+}

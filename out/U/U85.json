@@ -1,0 +1,10 @@
+{
+  "code": "U85",
+  "kind": "category",
+  "label": "Humanes Immundefizienz-Virus mit Resistenz gegen Virustatika oder Proteinaseinhibitoren",
+  "rubrics": {
+    "preferred": "Humanes Immundefizienz-Virus mit Resistenz gegen Virustatika oder Proteinaseinhibitoren",
+    "inclusion": "HIV-2"
+  },
+  "children": []
+}

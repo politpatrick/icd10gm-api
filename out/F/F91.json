@@ -1,0 +1,73 @@
+{
+  "code": "F91",
+  "kind": "category",
+  "label": "Störungen des Sozialverhaltens",
+  "rubrics": {
+    "preferred": "Störungen des Sozialverhaltens",
+    "definition": "Störungen des Sozialverhaltens sind durch ein sich wiederholendes und anhaltendes Muster dissozialen, aggressiven und aufsässigen Verhaltens charakterisiert. Dieses Verhalten übersteigt mit seinen gröberen Verletzungen die altersentsprechenden sozialen Erwartungen. Es ist also schwerwiegender als gewöhnlicher kindischer Unfug oder jugendliche Aufmüpfigkeit. Das anhaltende Verhaltensmuster muss mindestens sechs Monate oder länger bestanden haben. Störungen des Sozialverhaltens können auch bei anderen psychiatrischen Krankheiten auftreten, in diesen Fällen ist die zugrunde liegende Diagnose zu verwenden.\n\t\t\t\tBeispiele für Verhaltensweisen, welche diese Diagnose begründen, umfassen ein extremes Maß an Streiten oder Tyrannisieren, Grausamkeit gegenüber anderen Personen oder Tieren, erhebliche Destruktivität gegenüber Eigentum, Feuerlegen, Stehlen, häufiges Lügen, Schulschwänzen oder Weglaufen von zu Hause, ungewöhnlich häufige und schwere Wutausbrüche und Ungehorsam. Jedes dieser Beispiele ist bei erheblicher Ausprägung ausreichend für die Diagnose, nicht aber nur isolierte dissoziale Handlungen.",
+    "exclusion": "Tiefgreifende EntwicklungsstörungenF84.-"
+  },
+  "children": [
+    {
+      "code": "F91.0",
+      "kind": "category",
+      "label": "Auf den familiären Rahmen beschränkte Störung des Sozialverhaltens",
+      "rubrics": {
+        "preferred": "Auf den familiären Rahmen beschränkte Störung des Sozialverhaltens",
+        "definition": "Diese Verhaltensstörung umfasst dissoziales oder aggressives Verhalten (und nicht nur oppositionelles, aufsässiges oder trotziges Verhalten), das vollständig oder fast völlig auf den häuslichen Rahmen oder auf Interaktionen mit Mitgliedern der Kernfamilie oder der unmittelbaren Lebensgemeinschaft beschränkt ist. Für die Störung müssen die allgemeinen Kriterien für F91.- erfüllt sein. Schwer gestörte Eltern-Kind-Beziehungen sind für die Diagnose allein nicht ausreichend."
+      },
+      "children": []
+    },
+    {
+      "code": "F91.1",
+      "kind": "category",
+      "label": "Störung des Sozialverhaltens bei fehlenden sozialen Bindungen",
+      "rubrics": {
+        "preferred": "Störung des Sozialverhaltens bei fehlenden sozialen Bindungen",
+        "definition": "Diese Störung ist charakterisiert durch die Kombination von andauerndem dissozialen oder aggressiven Verhalten, das die allgemeinen Kriterien für F91.- erfüllt und nicht nur oppositionelles, aufsässiges und trotziges Verhalten umfasst, mit deutlichen und tief greifenden Abweichungen der Beziehungen des Betroffenen zu anderen Kindern.",
+        "inclusion": "Störung des Sozialverhaltens, nur aggressiver Typ"
+      },
+      "children": []
+    },
+    {
+      "code": "F91.2",
+      "kind": "category",
+      "label": "Störung des Sozialverhaltens bei vorhandenen sozialen Bindungen",
+      "rubrics": {
+        "preferred": "Störung des Sozialverhaltens bei vorhandenen sozialen Bindungen",
+        "definition": "Dieses Störung beinhaltet andauerndes dissoziales oder aggressives Verhalten, das die allgemeinen Kriterien für F91.- erfüllt und nicht nur oppositionelles, aufsässiges und trotziges Verhalten umfasst, und bei Kindern auftritt, die allgemein gut in ihrer Altersgruppe eingebunden sind.",
+        "inclusion": "Vergehen im Rahmen einer Bandenmitgliedschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "F91.3",
+      "kind": "category",
+      "label": "Störung des Sozialverhaltens mit oppositionellem, aufsässigem Verhalten",
+      "rubrics": {
+        "preferred": "Störung des Sozialverhaltens mit oppositionellem, aufsässigem Verhalten",
+        "definition": "Diese Verhaltensstörung tritt gewöhnlich bei jüngeren Kindern auf und ist in erster Linie durch deutlich aufsässiges, ungehorsames Verhalten charakterisiert, ohne delinquente Handlungen oder schwere Formen aggressiven oder dissozialen Verhaltens. Für diese Störung müssen die allgemeinen Kriterien für F91.- erfüllt sein: deutlich übermütiges oder ungezogenes Verhalten allein reicht für die Diagnosenstellung nicht aus. Vorsicht beim Stellen dieser Diagnose ist vor allem bei älteren Kindern geboten, bei denen klinisch bedeutsame Störungen des Sozialverhaltens meist mit dissozialem oder aggressivem Verhalten einhergehen, das über Aufsässigkeit, Ungehorsam oder Trotz hinausgeht."
+      },
+      "children": []
+    },
+    {
+      "code": "F91.8",
+      "kind": "category",
+      "label": "Sonstige Störungen des Sozialverhaltens",
+      "rubrics": {
+        "preferred": "Sonstige Störungen des Sozialverhaltens"
+      },
+      "children": []
+    },
+    {
+      "code": "F91.9",
+      "kind": "category",
+      "label": "Störung des Sozialverhaltens, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Störung des Sozialverhaltens, nicht näher bezeichnet",
+        "inclusion": "Kindheit:\n\t\t\t\tVerhaltensstörung o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

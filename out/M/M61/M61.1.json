@@ -1,0 +1,10 @@
+{
+  "code": "M61.1",
+  "kind": "category",
+  "label": "Myositis ossificans progressiva",
+  "rubrics": {
+    "preferred": "Myositis ossificans progressiva",
+    "inclusion": "Fibrodysplasia ossificans progressiva"
+  },
+  "children": []
+}

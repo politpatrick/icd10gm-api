@@ -1,0 +1,11 @@
+{
+  "code": "D33.1",
+  "kind": "category",
+  "label": "Gehirn, infratentoriell",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Gehirn, infratentoriell",
+    "preferred": "Gehirn, infratentoriell",
+    "inclusion": "IV. Ventrikel"
+  },
+  "children": []
+}

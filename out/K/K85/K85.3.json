@@ -1,0 +1,10 @@
+{
+  "code": "K85.3",
+  "kind": "category",
+  "label": "Medikamenten-induzierte akute Pankreatitis",
+  "rubrics": {
+    "preferred": "Medikamenten-induzierte akute Pankreatitis",
+    "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

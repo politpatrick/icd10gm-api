@@ -1,0 +1,11 @@
+{
+  "code": "F06.4",
+  "kind": "category",
+  "label": "Organische Angststörung",
+  "rubrics": {
+    "preferred": "Organische Angststörung",
+    "definition": "Eine Störung, charakterisiert durch die wesentlichen deskriptiven Merkmale einer generalisierten Angststörung (F41.1), einer Panikstörung (F41.0) oder einer Kombination von beiden, jedoch als Folge einer organischen Störung.",
+    "exclusion": "Nichtorganisch bedingte oder nicht näher bezeichnete AngststörungenF41.-"
+  },
+  "children": []
+}

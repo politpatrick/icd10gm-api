@@ -1,0 +1,10 @@
+{
+  "code": "T92.9",
+  "kind": "category",
+  "label": "Folgen einer nicht näher bezeichneten Verletzung der oberen Extremität",
+  "rubrics": {
+    "preferred": "Folgen einer nicht näher bezeichneten Verletzung der oberen Extremität",
+    "inclusion": "Folgen einer Verletzung, die unter S49.9, S59.9, S69.9 und T11.9 klassifizierbar ist"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "R64",
+  "kind": "category",
+  "label": "Kachexie",
+  "rubrics": {
+    "preferred": "Kachexie",
+    "exclusion": "Alimentärer Marasmus E41"
+  },
+  "children": []
+}

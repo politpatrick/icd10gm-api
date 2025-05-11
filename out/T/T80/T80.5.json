@@ -1,0 +1,10 @@
+{
+  "code": "T80.5",
+  "kind": "category",
+  "label": "Anaphylaktischer Schock durch Serum",
+  "rubrics": {
+    "preferred": "Anaphylaktischer Schock durch Serum",
+    "exclusion": "Schock:\n\t\t\t\tanaphylaktisch:\n\t\t\t\to.n.A.T78.2"
+  },
+  "children": []
+}

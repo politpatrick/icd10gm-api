@@ -1,0 +1,41 @@
+{
+  "code": "B06",
+  "kind": "category",
+  "label": "Röteln [Rubeola] [Rubella]",
+  "rubrics": {
+    "preferred": "Röteln [Rubeola] [Rubella]",
+    "exclusion": "Angeborene RötelnP35.0"
+  },
+  "children": [
+    {
+      "code": "B06.0",
+      "kind": "category",
+      "label": "Röteln mit neurologischen Komplikationen",
+      "rubrics": {
+        "preferred": "Röteln mit neurologischen Komplikationen",
+        "inclusion": "Röteln:\n\t\t\t\tMeningoenzephalitisG05.1"
+      },
+      "children": []
+    },
+    {
+      "code": "B06.8",
+      "kind": "category",
+      "label": "Röteln mit sonstigen Komplikationen",
+      "rubrics": {
+        "preferred": "Röteln mit sonstigen Komplikationen",
+        "inclusion": "Röteln:\n\t\t\t\tPneumonieJ17.1"
+      },
+      "children": []
+    },
+    {
+      "code": "B06.9",
+      "kind": "category",
+      "label": "Röteln ohne Komplikation",
+      "rubrics": {
+        "preferred": "Röteln ohne Komplikation",
+        "inclusion": "Röteln o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

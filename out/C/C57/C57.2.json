@@ -1,0 +1,11 @@
+{
+  "code": "C57.2",
+  "kind": "category",
+  "label": "Lig. teres uteri",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Lig. teres uteri",
+    "preferred": "Lig. teres uteri",
+    "inclusion": "Lig. rotundum"
+  },
+  "children": []
+}

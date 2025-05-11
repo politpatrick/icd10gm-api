@@ -1,0 +1,49 @@
+{
+  "code": "K83.0",
+  "kind": "category",
+  "label": "Cholangitis",
+  "rubrics": {
+    "preferred": "Cholangitis",
+    "exclusion": "Chronische nichteitrige destruktive CholangitisK74.3"
+  },
+  "children": [
+    {
+      "code": "K83.00",
+      "kind": "category",
+      "label": "Primär sklerosierende Cholangitis",
+      "rubrics": {
+        "preferred": "Primär sklerosierende Cholangitis"
+      },
+      "children": []
+    },
+    {
+      "code": "K83.01",
+      "kind": "category",
+      "label": "Sekundär sklerosierende Cholangitis",
+      "rubrics": {
+        "preferred": "Sekundär sklerosierende Cholangitis"
+      },
+      "children": []
+    },
+    {
+      "code": "K83.08",
+      "kind": "category",
+      "label": "Sonstige Cholangitis",
+      "rubrics": {
+        "preferred": "Sonstige Cholangitis",
+        "inclusion": "Cholangitis:\n\t\t\t\tstenosierend"
+      },
+      "children": []
+    },
+    {
+      "code": "K83.09",
+      "kind": "category",
+      "label": "Cholangitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Cholangitis, nicht näher bezeichnet",
+        "inclusion": "Cholangitis o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

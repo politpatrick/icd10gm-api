@@ -1,0 +1,105 @@
+{
+  "code": "H02",
+  "kind": "category",
+  "label": "Sonstige Affektionen des Augenlides",
+  "rubrics": {
+    "preferred": "Sonstige Affektionen des Augenlides",
+    "exclusion": "Angeborene Fehlbildungen des AugenlidesQ10.0-Q10.3"
+  },
+  "children": [
+    {
+      "code": "H02.0",
+      "kind": "category",
+      "label": "Entropium und Trichiasis des Augenlides",
+      "rubrics": {
+        "preferred": "Entropium und Trichiasis des Augenlides"
+      },
+      "children": []
+    },
+    {
+      "code": "H02.1",
+      "kind": "category",
+      "label": "Ektropium des Augenlides",
+      "rubrics": {
+        "preferred": "Ektropium des Augenlides"
+      },
+      "children": []
+    },
+    {
+      "code": "H02.2",
+      "kind": "category",
+      "label": "Lagophthalmus",
+      "rubrics": {
+        "preferred": "Lagophthalmus"
+      },
+      "children": []
+    },
+    {
+      "code": "H02.3",
+      "kind": "category",
+      "label": "Blepharochalasis",
+      "rubrics": {
+        "preferred": "Blepharochalasis"
+      },
+      "children": []
+    },
+    {
+      "code": "H02.4",
+      "kind": "category",
+      "label": "Ptosis des Augenlides",
+      "rubrics": {
+        "preferred": "Ptosis des Augenlides"
+      },
+      "children": []
+    },
+    {
+      "code": "H02.5",
+      "kind": "category",
+      "label": "Sonstige Affektionen mit Auswirkung auf die Augenlidfunktion",
+      "rubrics": {
+        "preferred": "Sonstige Affektionen mit Auswirkung auf die Augenlidfunktion",
+        "inclusion": "Lidretraktion",
+        "exclusion": "Tic (-Störung):\n\t\t\t\tpsychogenF95.-"
+      },
+      "children": []
+    },
+    {
+      "code": "H02.6",
+      "kind": "category",
+      "label": "Xanthelasma palpebrarum",
+      "rubrics": {
+        "preferred": "Xanthelasma palpebrarum"
+      },
+      "children": []
+    },
+    {
+      "code": "H02.7",
+      "kind": "category",
+      "label": "Sonstige degenerative Affektionen des Augenlides und der Umgebung des Auges",
+      "rubrics": {
+        "preferred": "Sonstige degenerative Affektionen des Augenlides und der Umgebung des Auges",
+        "inclusion": "Vitiligo\n\t\t\t\tAugenlid"
+      },
+      "children": []
+    },
+    {
+      "code": "H02.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Affektionen des Augenlides",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Affektionen des Augenlides",
+        "inclusion": "Verbliebener Fremdkörper im Augenlid"
+      },
+      "children": []
+    },
+    {
+      "code": "H02.9",
+      "kind": "category",
+      "label": "Affektion des Augenlides, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Affektion des Augenlides, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": "O41",
+  "kind": "category",
+  "label": "Sonstige Veränderungen des Fruchtwassers und der Eihäute",
+  "rubrics": {
+    "preferred": "Sonstige Veränderungen des Fruchtwassers und der Eihäute",
+    "exclusion": "Vorzeitiger BlasensprungO42.-"
+  },
+  "children": [
+    {
+      "code": "O41.0",
+      "kind": "category",
+      "label": "Oligohydramnion",
+      "rubrics": {
+        "preferred": "Oligohydramnion",
+        "inclusion": "Oligohydramnion ohne Angabe von Blasensprung"
+      },
+      "children": []
+    },
+    {
+      "code": "O41.1",
+      "kind": "category",
+      "label": "Infektion der Fruchtblase und der Eihäute",
+      "rubrics": {
+        "preferred": "Infektion der Fruchtblase und der Eihäute",
+        "inclusion": "Plazentitis"
+      },
+      "children": []
+    },
+    {
+      "code": "O41.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Veränderungen des Fruchtwassers und der Eihäute",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Veränderungen des Fruchtwassers und der Eihäute"
+      },
+      "children": []
+    },
+    {
+      "code": "O41.9",
+      "kind": "category",
+      "label": "Veränderung des Fruchtwassers und der Eihäute, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Veränderung des Fruchtwassers und der Eihäute, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

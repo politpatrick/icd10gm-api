@@ -1,0 +1,10 @@
+{
+  "code": "I89.05",
+  "kind": "category",
+  "label": "Lymphödem, sonstige Lokalisation, Stadium III",
+  "rubrics": {
+    "preferred": "Lymphödem, sonstige Lokalisation, Stadium III",
+    "inclusion": "Kopf, Hals, Thoraxwand, Genitalbereich"
+  },
+  "children": []
+}

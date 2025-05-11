@@ -1,0 +1,11 @@
+{
+  "code": "H46",
+  "kind": "category",
+  "label": "Neuritis nervi optici",
+  "rubrics": {
+    "preferred": "Neuritis nervi optici",
+    "inclusion": "Retrobulbäre Neuritis o.n.A.",
+    "exclusion": "Neuromyelitis optica [Devic-Krankheit]G36.0"
+  },
+  "children": []
+}

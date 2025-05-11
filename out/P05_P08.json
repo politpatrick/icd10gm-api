@@ -1,0 +1,225 @@
+{
+  "code": "P05-P08",
+  "kind": "block",
+  "label": "Störungen im Zusammenhang mit der Schwangerschaftsdauer und dem fetalen Wachstum",
+  "rubrics": {
+    "preferred": "Störungen im Zusammenhang mit der Schwangerschaftsdauer und dem fetalen Wachstum"
+  },
+  "children": [
+    {
+      "code": "P05",
+      "kind": "category",
+      "label": "Intrauterine Mangelentwicklung und fetale Mangelernährung",
+      "rubrics": {
+        "preferred": "Intrauterine Mangelentwicklung und fetale Mangelernährung"
+      },
+      "children": [
+        {
+          "code": "P05.0",
+          "kind": "category",
+          "label": "Für das Gestationsalter zu leichte Neugeborene",
+          "rubrics": {
+            "preferred": "Für das Gestationsalter zu leichte Neugeborene",
+            "text": "Bezugsgrößen sind das Körpergewicht unterhalb der 10. Perzentile und die Körperlänge oberhalb der 10. Perzentile.",
+            "inclusion": "Zu leicht für das Gestationsalter [Light-for-dates]"
+          },
+          "children": []
+        },
+        {
+          "code": "P05.1",
+          "kind": "category",
+          "label": "Für das Gestationsalter zu kleine Neugeborene",
+          "rubrics": {
+            "preferred": "Für das Gestationsalter zu kleine Neugeborene",
+            "text": "Bezugsgrößen sind das Körpergewicht und die Körperlänge unterhalb der 10. Perzentile.",
+            "inclusion": "Zu klein und zu leicht für das Gestationsalter [Small-and-light-for-dates]"
+          },
+          "children": []
+        },
+        {
+          "code": "P05.2",
+          "kind": "category",
+          "label": "Fetale Mangelernährung des Neugeborenen ohne Angabe von zu leicht oder zu klein für das Gestationsalter [light or small for gestational age]",
+          "rubrics": {
+            "preferred": "Fetale Mangelernährung des Neugeborenen ohne Angabe von zu leicht oder zu klein für das Gestationsalter [light or small for gestational age]",
+            "text": "Neugeborene, die für ihr Gestationsalter nicht zu leicht oder zu klein sind, aber Zeichen einer fetalen Mangelernährung aufweisen, wie trockene, abschilfernde Haut und reduziertes subkutanes Fettgewebe.",
+            "exclusion": "Fetale Mangelernährung mit der Angabe:\n\t\t\t\tzu klein für das GestationsalterP05.1"
+          },
+          "children": []
+        },
+        {
+          "code": "P05.9",
+          "kind": "category",
+          "label": "Intrauterine Mangelentwicklung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Intrauterine Mangelentwicklung, nicht näher bezeichnet",
+            "inclusion": "Fetale Wachstumsretardierung o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P07",
+      "kind": "category",
+      "label": "Störungen im Zusammenhang mit kurzer Schwangerschaftsdauer und niedrigem Geburtsgewicht, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Störungen im Zusammenhang mit kurzer Schwangerschaftsdauer und niedrigem Geburtsgewicht, anderenorts nicht klassifiziert",
+        "note": "Liegen Angaben zum Geburtsgewicht und zum Gestationsalter vor, sollte primär nach dem Geburtsgewicht verschlüsselt werden.",
+        "inclusion": "Aufgeführte Zustände, ohne weitere Spezifizierung, als Ursache von Tod, Krankheit oder zusätzlicher Betreuung des Neugeborenen",
+        "exclusion": "Niedriges Geburtsgewicht infolge fetaler Wachstumsretardierung und fetaler MangelernährungP05.-"
+      },
+      "children": [
+        {
+          "code": "P07.0",
+          "kind": "category",
+          "label": "Neugeborenes mit extrem niedrigem Geburtsgewicht",
+          "rubrics": {
+            "preferred": "Neugeborenes mit extrem niedrigem Geburtsgewicht",
+            "text": "Geburtsgewicht von 999 Gramm oder weniger."
+          },
+          "children": [
+            {
+              "code": "P07.00",
+              "kind": "category",
+              "label": "Geburtsgewicht unter 500 Gramm",
+              "rubrics": {
+                "preferredLong": "Neugeborenes: Geburtsgewicht unter 500 Gramm",
+                "preferred": "Geburtsgewicht unter 500 Gramm"
+              },
+              "children": []
+            },
+            {
+              "code": "P07.01",
+              "kind": "category",
+              "label": "Geburtsgewicht 500 bis unter 750 Gramm",
+              "rubrics": {
+                "preferredLong": "Neugeborenes: Geburtsgewicht 500 bis unter 750 Gramm",
+                "preferred": "Geburtsgewicht 500 bis unter 750 Gramm"
+              },
+              "children": []
+            },
+            {
+              "code": "P07.02",
+              "kind": "category",
+              "label": "Geburtsgewicht 750 bis unter 1000 Gramm",
+              "rubrics": {
+                "preferredLong": "Neugeborenes: Geburtsgewicht 750 bis unter 1000 Gramm",
+                "preferred": "Geburtsgewicht 750 bis unter 1000 Gramm"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "P07.1",
+          "kind": "category",
+          "label": "Neugeborenes mit sonstigem niedrigem Geburtsgewicht",
+          "rubrics": {
+            "preferred": "Neugeborenes mit sonstigem niedrigem Geburtsgewicht",
+            "text": "Geburtsgewicht von 1000 bis 2499 Gramm."
+          },
+          "children": [
+            {
+              "code": "P07.10",
+              "kind": "category",
+              "label": "Geburtsgewicht 1000 bis unter 1250 Gramm",
+              "rubrics": {
+                "preferredLong": "Neugeborenes: Geburtsgewicht 1000 bis unter 1250 Gramm",
+                "preferred": "Geburtsgewicht 1000 bis unter 1250 Gramm"
+              },
+              "children": []
+            },
+            {
+              "code": "P07.11",
+              "kind": "category",
+              "label": "Geburtsgewicht 1250 bis unter 1500 Gramm",
+              "rubrics": {
+                "preferredLong": "Neugeborenes: Geburtsgewicht 1250 bis unter 1500 Gramm",
+                "preferred": "Geburtsgewicht 1250 bis unter 1500 Gramm"
+              },
+              "children": []
+            },
+            {
+              "code": "P07.12",
+              "kind": "category",
+              "label": "Geburtsgewicht 1500 bis unter 2500 Gramm",
+              "rubrics": {
+                "preferredLong": "Neugeborenes: Geburtsgewicht 1500 bis unter 2500 Gramm",
+                "preferred": "Geburtsgewicht 1500 bis unter 2500 Gramm"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "P07.2",
+          "kind": "category",
+          "label": "Neugeborenes mit extremer Unreife",
+          "rubrics": {
+            "preferred": "Neugeborenes mit extremer Unreife",
+            "text": "Gestationsalter von weniger als 28 vollendeten Wochen (von weniger als 196 vollendeten Tagen)."
+          },
+          "children": []
+        },
+        {
+          "code": "P07.3",
+          "kind": "category",
+          "label": "Sonstige vor dem Termin Geborene",
+          "rubrics": {
+            "preferred": "Sonstige vor dem Termin Geborene",
+            "text": "Gestationsalter von 28 oder mehr vollendeten Wochen, jedoch weniger als 37 vollendeten Wochen (ab 196 vollendete Tage bis unter 259 vollendete Tage).",
+            "inclusion": "Frühgeburt o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P08",
+      "kind": "category",
+      "label": "Störungen im Zusammenhang mit langer Schwangerschaftsdauer und hohem Geburtsgewicht",
+      "rubrics": {
+        "preferred": "Störungen im Zusammenhang mit langer Schwangerschaftsdauer und hohem Geburtsgewicht",
+        "note": "Liegen Angaben zum Geburtsgewicht und zum Gestationsalter vor, sollte primär nach dem Geburtsgewicht verschlüsselt werden.",
+        "inclusion": "Aufgeführte Zustände, ohne weitere Spezifizierung, als Ursache von Tod, Krankheit oder zusätzlicher Betreuung des Fetus oder Neugeborenen"
+      },
+      "children": [
+        {
+          "code": "P08.0",
+          "kind": "category",
+          "label": "Übergewichtige Neugeborene",
+          "rubrics": {
+            "preferred": "Übergewichtige Neugeborene",
+            "text": "Ein Kind mit einem Geburtsgewicht von 4500 Gramm oder mehr.",
+            "exclusion": "Syndrom des Kindes einer Mutter mit gestationsbedingtem Diabetes mellitusP70.0"
+          },
+          "children": []
+        },
+        {
+          "code": "P08.1",
+          "kind": "category",
+          "label": "Sonstige für das Gestationsalter zu schwere Neugeborene",
+          "rubrics": {
+            "preferred": "Sonstige für das Gestationsalter zu schwere Neugeborene",
+            "text": "Sonstige Feten oder Neugeborene, die für das Gestationsalter zu schwer oder zu groß sind, ungeachtet der Schwangerschaftsdauer.",
+            "inclusion": "Sonstige Heavy-or-large-for-dates",
+            "exclusion": "Syndrom des Kindes einer Mutter mit gestationsbedingtem Diabetes mellitusP70.0"
+          },
+          "children": []
+        },
+        {
+          "code": "P08.2",
+          "kind": "category",
+          "label": "Nach dem Termin Geborenes, nicht zu schwer für das Gestationsalter",
+          "rubrics": {
+            "preferred": "Nach dem Termin Geborenes, nicht zu schwer für das Gestationsalter",
+            "text": "Fetus oder Neugeborenes mit einem Gestationsalter von 42 oder mehr vollendeten Wochen (294 Tage oder mehr), für sein Gestationsalter nicht zu schwer oder zu groß.",
+            "inclusion": "Übertragung o.n.A."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

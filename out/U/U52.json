@@ -1,0 +1,51 @@
+{
+  "code": "U52",
+  "kind": "category",
+  "label": "Frührehabilitations-Barthel-Index [FRB]",
+  "rubrics": {
+    "preferred": "Frührehabilitations-Barthel-Index [FRB]",
+    "note": "Einmalige Kodierung des Frührehabilitations-Barthel-Index zur Schweregradbeurteilung innerhalb der ersten fünf stationären Behandlungstage; bei veränderten Werten innerhalb dieser Zeit ist der höchste Punktwert zu verschlüsseln. Die Berechnung der Punktzahl erfolgt nach dem Frührehabilitations-Barthel-Index nach Schönle."
+  },
+  "children": [
+    {
+      "code": "U52.0",
+      "kind": "category",
+      "label": "Frührehabilitations-Barthel-Index: 31 und mehr Punkte",
+      "rubrics": {
+        "preferredLong": "Frührehabilitations-Barthel-Index: 31 und mehr Punkte",
+        "preferred": "Frührehabilitations-Barthel-Index: 31 und mehr Punkte"
+      },
+      "children": []
+    },
+    {
+      "code": "U52.1",
+      "kind": "category",
+      "label": "Frührehabilitations-Barthel-Index: -75 bis 30 Punkte",
+      "rubrics": {
+        "preferredLong": "Frührehabilitations-Barthel-Index: -75 bis 30 Punkte",
+        "preferred": "Frührehabilitations-Barthel-Index: -75 bis 30 Punkte"
+      },
+      "children": []
+    },
+    {
+      "code": "U52.2",
+      "kind": "category",
+      "label": "Frührehabilitations-Barthel-Index: -200 bis -76 Punkte",
+      "rubrics": {
+        "preferredLong": "Frührehabilitations-Barthel-Index: -200 bis -76 Punkte",
+        "preferred": "Frührehabilitations-Barthel-Index: -200 bis -76 Punkte"
+      },
+      "children": []
+    },
+    {
+      "code": "U52.3",
+      "kind": "category",
+      "label": "Frührehabilitations-Barthel-Index: weniger als -200 Punkte",
+      "rubrics": {
+        "preferredLong": "Frührehabilitations-Barthel-Index: weniger als -200 Punkte",
+        "preferred": "Frührehabilitations-Barthel-Index: weniger als -200 Punkte"
+      },
+      "children": []
+    }
+  ]
+}

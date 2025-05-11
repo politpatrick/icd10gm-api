@@ -1,0 +1,10 @@
+{
+  "code": "R12",
+  "kind": "category",
+  "label": "Sodbrennen",
+  "rubrics": {
+    "preferred": "Sodbrennen",
+    "exclusion": "Dyspepsie:\n\t\t\t\to.n.A.R10.1"
+  },
+  "children": []
+}

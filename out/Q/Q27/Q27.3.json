@@ -1,0 +1,11 @@
+{
+  "code": "Q27.3",
+  "kind": "category",
+  "label": "Arteriovenöse Fehlbildung der peripheren Gefäße",
+  "rubrics": {
+    "preferred": "Arteriovenöse Fehlbildung der peripheren Gefäße",
+    "inclusion": "Arteriovenöses Aneurysma",
+    "exclusion": "Erworbenes arteriovenöses AneurysmaI77.0"
+  },
+  "children": []
+}

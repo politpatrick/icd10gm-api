@@ -1,0 +1,11 @@
+{
+  "code": "R19.0",
+  "kind": "category",
+  "label": "Schwellung, Raumforderung und Knoten im Abdomen und Becken",
+  "rubrics": {
+    "preferred": "Schwellung, Raumforderung und Knoten im Abdomen und Becken",
+    "inclusion": "Diffuse oder generalisierte Schwellung oder Raumforderung:\n\t\t\t\tumbilikal",
+    "exclusion": "MeteorismusR14"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "Z12.4",
+  "kind": "category",
+  "label": "Spezielle Verfahren zur Untersuchung auf Neubildung der Cervix uteri",
+  "rubrics": {
+    "preferred": "Spezielle Verfahren zur Untersuchung auf Neubildung der Cervix uteri",
+    "exclusion": "Routinemäßiger Test oder Teil einer allgemeinen gynäkologischen UntersuchungZ01.4"
+  },
+  "children": []
+}

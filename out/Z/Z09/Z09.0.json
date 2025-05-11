@@ -1,0 +1,10 @@
+{
+  "code": "Z09.0",
+  "kind": "category",
+  "label": "Nachuntersuchung nach chirurgischem Eingriff wegen anderer Krankheitszustände",
+  "rubrics": {
+    "preferred": "Nachuntersuchung nach chirurgischem Eingriff wegen anderer Krankheitszustände",
+    "exclusion": "Nachuntersuchung nach OrgantransplantationZ09.80"
+  },
+  "children": []
+}

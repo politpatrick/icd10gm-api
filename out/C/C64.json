@@ -1,0 +1,10 @@
+{
+  "code": "C64",
+  "kind": "category",
+  "label": "Bösartige Neubildung der Niere, ausgenommen Nierenbecken",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung der Niere, ausgenommen Nierenbecken",
+    "exclusion": "NierenbeckenkelcheC65"
+  },
+  "children": []
+}

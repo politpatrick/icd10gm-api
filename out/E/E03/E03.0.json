@@ -1,0 +1,11 @@
+{
+  "code": "E03.0",
+  "kind": "category",
+  "label": "Angeborene Hypothyreose mit diffuser Struma",
+  "rubrics": {
+    "preferred": "Angeborene Hypothyreose mit diffuser Struma",
+    "inclusion": "Struma congenita (nichttoxisch):\n\t\t\t\to.n.A.",
+    "exclusion": "Transitorische Struma congenita mit normaler FunktionP72.0"
+  },
+  "children": []
+}

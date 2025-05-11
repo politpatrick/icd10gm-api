@@ -1,0 +1,10 @@
+{
+  "code": "N81.5",
+  "kind": "category",
+  "label": "Vaginale Enterozele",
+  "rubrics": {
+    "preferred": "Vaginale Enterozele",
+    "exclusion": "Enterozele mit UterusprolapsN81.2-N81.4"
+  },
+  "children": []
+}

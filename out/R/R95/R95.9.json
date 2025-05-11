@@ -1,0 +1,10 @@
+{
+  "code": "R95.9",
+  "kind": "category",
+  "label": "Plötzlicher Kindstod ohne Angabe einer Obduktion",
+  "rubrics": {
+    "preferred": "Plötzlicher Kindstod ohne Angabe einer Obduktion",
+    "inclusion": "Plötzlicher Kindstod o.n.A."
+  },
+  "children": []
+}

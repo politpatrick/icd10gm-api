@@ -1,0 +1,37 @@
+{
+  "code": "G90.0",
+  "kind": "category",
+  "label": "Idiopathische periphere autonome Neuropathie",
+  "rubrics": {
+    "preferred": "Idiopathische periphere autonome Neuropathie"
+  },
+  "children": [
+    {
+      "code": "G90.00",
+      "kind": "category",
+      "label": "Karotissinus-Syndrom (Synkope)",
+      "rubrics": {
+        "preferred": "Karotissinus-Syndrom (Synkope)"
+      },
+      "children": []
+    },
+    {
+      "code": "G90.08",
+      "kind": "category",
+      "label": "Sonstige idiopathische periphere autonome Neuropathie",
+      "rubrics": {
+        "preferred": "Sonstige idiopathische periphere autonome Neuropathie"
+      },
+      "children": []
+    },
+    {
+      "code": "G90.09",
+      "kind": "category",
+      "label": "Idiopathische periphere autonome Neuropathie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Idiopathische periphere autonome Neuropathie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

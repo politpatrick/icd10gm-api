@@ -1,0 +1,11 @@
+{
+  "code": "K61.0",
+  "kind": "category",
+  "label": "Analabszess",
+  "rubrics": {
+    "preferred": "Analabszess",
+    "inclusion": "Perianalabszess",
+    "exclusion": "Intrasphinktärer AbszessK61.4"
+  },
+  "children": []
+}

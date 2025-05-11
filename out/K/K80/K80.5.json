@@ -1,0 +1,10 @@
+{
+  "code": "K80.5",
+  "kind": "category",
+  "label": "Gallengangsstein ohne Cholangitis oder Cholezystitis",
+  "rubrics": {
+    "preferred": "Gallengangsstein ohne Cholangitis oder Cholezystitis",
+    "inclusion": "Leberkolik (rezidivierend)\n\t\t\t\tnicht näher bezeichnet oder ohne Cholangitis oder Cholezystitis"
+  },
+  "children": []
+}

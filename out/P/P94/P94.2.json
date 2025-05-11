@@ -1,0 +1,10 @@
+{
+  "code": "P94.2",
+  "kind": "category",
+  "label": "Angeborene Muskelhypotonie",
+  "rubrics": {
+    "preferred": "Angeborene Muskelhypotonie",
+    "inclusion": "Unspezifisches Floppy-Infant-Syndrom"
+  },
+  "children": []
+}

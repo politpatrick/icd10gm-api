@@ -1,0 +1,10 @@
+{
+  "code": "U69.80",
+  "kind": "category",
+  "label": "Nicht-nosokomiale Sepsis",
+  "rubrics": {
+    "preferred": "Nicht-nosokomiale Sepsis",
+    "definition": "Sepsis, vor dem dritten Kalendertag der Krankenhausaufnahme auftretend"
+  },
+  "children": []
+}

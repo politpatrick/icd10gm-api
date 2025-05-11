@@ -1,0 +1,10 @@
+{
+  "code": "O34.0",
+  "kind": "category",
+  "label": "Betreuung der Mutter bei angeborener Fehlbildung des Uterus",
+  "rubrics": {
+    "preferred": "Betreuung der Mutter bei angeborener Fehlbildung des Uterus",
+    "inclusion": "Betreuung der Mutter bei:\n\t\t\t\tUterus duplex"
+  },
+  "children": []
+}

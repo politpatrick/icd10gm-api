@@ -1,0 +1,28 @@
+{
+  "code": "F62.8",
+  "kind": "category",
+  "label": "Sonstige andauernde Persönlichkeitsänderungen",
+  "rubrics": {
+    "preferred": "Sonstige andauernde Persönlichkeitsänderungen"
+  },
+  "children": [
+    {
+      "code": "F62.80",
+      "kind": "category",
+      "label": "Andauernde Persönlichkeitsänderung bei chronischem Schmerzsyndrom",
+      "rubrics": {
+        "preferred": "Andauernde Persönlichkeitsänderung bei chronischem Schmerzsyndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "F62.88",
+      "kind": "category",
+      "label": "Sonstige andauernde Persönlichkeitsänderungen",
+      "rubrics": {
+        "preferred": "Sonstige andauernde Persönlichkeitsänderungen"
+      },
+      "children": []
+    }
+  ]
+}

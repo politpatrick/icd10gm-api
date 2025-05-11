@@ -1,0 +1,10 @@
+{
+  "code": "Z51.83",
+  "kind": "category",
+  "label": "Opiatsubstitution",
+  "rubrics": {
+    "preferred": "Opiatsubstitution",
+    "inclusion": "Methadonsubstitution"
+  },
+  "children": []
+}

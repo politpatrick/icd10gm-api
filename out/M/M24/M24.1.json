@@ -1,0 +1,10 @@
+{
+  "code": "M24.1",
+  "kind": "category",
+  "label": "Sonstige Gelenkknorpelschädigungen",
+  "rubrics": {
+    "preferred": "Sonstige Gelenkknorpelschädigungen",
+    "exclusion": "OchronoseE70.2"
+  },
+  "children": []
+}

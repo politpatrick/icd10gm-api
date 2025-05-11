@@ -1,0 +1,10 @@
+{
+  "code": "D82.3",
+  "kind": "category",
+  "label": "Immundefekt mit hereditär defekter Reaktion auf Epstein-Barr-Virus",
+  "rubrics": {
+    "preferred": "Immundefekt mit hereditär defekter Reaktion auf Epstein-Barr-Virus",
+    "inclusion": "X-chromosomal-gebundene lymphoproliferative Krankheit"
+  },
+  "children": []
+}

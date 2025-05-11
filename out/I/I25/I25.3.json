@@ -1,0 +1,10 @@
+{
+  "code": "I25.3",
+  "kind": "category",
+  "label": "Herz-(Wand-)Aneurysma",
+  "rubrics": {
+    "preferred": "Herz-(Wand-)Aneurysma",
+    "inclusion": "Ventrikelaneurysma"
+  },
+  "children": []
+}

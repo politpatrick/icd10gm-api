@@ -1,0 +1,11 @@
+{
+  "code": "Q89.3",
+  "kind": "category",
+  "label": "Situs inversus",
+  "rubrics": {
+    "preferred": "Situs inversus",
+    "inclusion": "Transpositio viscerum:\n\t\t\t\tthoracalis",
+    "exclusion": "LävokardieQ24.1"
+  },
+  "children": []
+}

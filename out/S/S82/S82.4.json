@@ -1,0 +1,52 @@
+{
+  "code": "S82.4",
+  "kind": "category",
+  "label": "Fraktur der Fibula, isoliert",
+  "rubrics": {
+    "preferred": "Fraktur der Fibula, isoliert",
+    "exclusion": "Fraktur der Fibula mit Fraktur der Tibia, jeder TeilS82.11S82.21S82.31"
+  },
+  "children": [
+    {
+      "code": "S82.40",
+      "kind": "category",
+      "label": "Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Fraktur der Fibula, isoliert: Teil nicht näher bezeichnet",
+        "preferred": "Teil nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "S82.41",
+      "kind": "category",
+      "label": "Proximales Ende",
+      "rubrics": {
+        "preferredLong": "Fraktur der Fibula, isoliert: Proximales Ende",
+        "preferred": "Proximales Ende",
+        "inclusion": "Kopf"
+      },
+      "children": []
+    },
+    {
+      "code": "S82.42",
+      "kind": "category",
+      "label": "Schaft",
+      "rubrics": {
+        "preferredLong": "Fraktur der Fibula, isoliert: Schaft",
+        "preferred": "Schaft"
+      },
+      "children": []
+    },
+    {
+      "code": "S82.49",
+      "kind": "category",
+      "label": "Multipel",
+      "rubrics": {
+        "preferredLong": "Fraktur der Fibula, isoliert: Multipel",
+        "preferred": "Multipel"
+      },
+      "children": []
+    }
+  ]
+}

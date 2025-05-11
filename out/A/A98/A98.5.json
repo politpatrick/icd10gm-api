@@ -1,0 +1,11 @@
+{
+  "code": "A98.5",
+  "kind": "category",
+  "label": "Hämorrhagisches Fieber mit renalem Syndrom",
+  "rubrics": {
+    "preferred": "Hämorrhagisches Fieber mit renalem Syndrom",
+    "inclusion": "Infektion durch Hantan-Viren",
+    "exclusion": "Hantavirus- (Herz-) LungensyndromB33.4J17.1"
+  },
+  "children": []
+}

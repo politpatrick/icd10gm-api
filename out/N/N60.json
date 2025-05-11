@@ -1,0 +1,79 @@
+{
+  "code": "N60",
+  "kind": "category",
+  "label": "Gutartige Mammadysplasie [Brustdrüsendysplasie]",
+  "rubrics": {
+    "preferred": "Gutartige Mammadysplasie [Brustdrüsendysplasie]",
+    "inclusion": "Fibrozystische Mastopathie"
+  },
+  "children": [
+    {
+      "code": "N60.0",
+      "kind": "category",
+      "label": "Solitärzyste der Mamma",
+      "rubrics": {
+        "preferred": "Solitärzyste der Mamma",
+        "inclusion": "Zyste der Mamma"
+      },
+      "children": []
+    },
+    {
+      "code": "N60.1",
+      "kind": "category",
+      "label": "Diffuse zystische Mastopathie",
+      "rubrics": {
+        "preferred": "Diffuse zystische Mastopathie",
+        "inclusion": "Zystenmamma",
+        "exclusion": "Mit epithelialer ProliferationN60.3"
+      },
+      "children": []
+    },
+    {
+      "code": "N60.2",
+      "kind": "category",
+      "label": "Fibroadenose der Mamma",
+      "rubrics": {
+        "preferred": "Fibroadenose der Mamma",
+        "exclusion": "Fibroadenom der MammaD24"
+      },
+      "children": []
+    },
+    {
+      "code": "N60.3",
+      "kind": "category",
+      "label": "Fibrosklerose der Mamma",
+      "rubrics": {
+        "preferred": "Fibrosklerose der Mamma",
+        "inclusion": "Zystische Mastopathie mit epithelialer Proliferation"
+      },
+      "children": []
+    },
+    {
+      "code": "N60.4",
+      "kind": "category",
+      "label": "Ektasie der Ductus lactiferi",
+      "rubrics": {
+        "preferred": "Ektasie der Ductus lactiferi"
+      },
+      "children": []
+    },
+    {
+      "code": "N60.8",
+      "kind": "category",
+      "label": "Sonstige gutartige Mammadysplasien",
+      "rubrics": {
+        "preferred": "Sonstige gutartige Mammadysplasien"
+      },
+      "children": []
+    },
+    {
+      "code": "N60.9",
+      "kind": "category",
+      "label": "Gutartige Mammadysplasie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Gutartige Mammadysplasie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

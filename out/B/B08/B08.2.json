@@ -1,0 +1,10 @@
+{
+  "code": "B08.2",
+  "kind": "category",
+  "label": "Exanthema subitum [Sechste Krankheit]",
+  "rubrics": {
+    "preferred": "Exanthema subitum [Sechste Krankheit]",
+    "inclusion": "Dreitagefieber-Exanthem"
+  },
+  "children": []
+}

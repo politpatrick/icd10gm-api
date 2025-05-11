@@ -1,0 +1,11 @@
+{
+  "code": "G96.0",
+  "kind": "category",
+  "label": "Austritt von Liquor cerebrospinalis",
+  "rubrics": {
+    "preferred": "Austritt von Liquor cerebrospinalis",
+    "inclusion": "Liquorrhoe",
+    "exclusion": "Nach LumbalpunktionG97.0"
+  },
+  "children": []
+}

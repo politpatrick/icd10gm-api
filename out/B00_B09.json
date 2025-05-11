@@ -1,0 +1,509 @@
+{
+  "code": "B00-B09",
+  "kind": "block",
+  "label": "Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind",
+  "rubrics": {
+    "preferred": "Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind"
+  },
+  "children": [
+    {
+      "code": "B00",
+      "kind": "category",
+      "label": "Infektionen durch Herpesviren [Herpes simplex]",
+      "rubrics": {
+        "preferred": "Infektionen durch Herpesviren [Herpes simplex]",
+        "exclusion": "Mononukleose durch Gamma-HerpesvirenB27.0"
+      },
+      "children": [
+        {
+          "code": "B00.0",
+          "kind": "category",
+          "label": "Ekzema herpeticatum Kaposi",
+          "rubrics": {
+            "preferred": "Ekzema herpeticatum Kaposi",
+            "inclusion": "Varizelliforme Eruption Kaposi"
+          },
+          "children": []
+        },
+        {
+          "code": "B00.1",
+          "kind": "category",
+          "label": "Dermatitis vesicularis durch Herpesviren",
+          "rubrics": {
+            "preferred": "Dermatitis vesicularis durch Herpesviren",
+            "inclusion": "Herpes simplex:\n\t\t\t\tlabialis"
+          },
+          "children": []
+        },
+        {
+          "code": "B00.2",
+          "kind": "category",
+          "label": "Gingivostomatitis herpetica und Pharyngotonsillitis herpetica",
+          "rubrics": {
+            "preferred": "Gingivostomatitis herpetica und Pharyngotonsillitis herpetica",
+            "inclusion": "Pharyngitis durch Herpesviren"
+          },
+          "children": []
+        },
+        {
+          "code": "B00.3",
+          "kind": "category",
+          "label": "Meningitis durch HerpesvirenG02.0",
+          "rubrics": {
+            "preferred": "Meningitis durch HerpesvirenG02.0"
+          },
+          "children": []
+        },
+        {
+          "code": "B00.4",
+          "kind": "category",
+          "label": "Enzephalitis durch HerpesvirenG05.1",
+          "rubrics": {
+            "preferred": "Enzephalitis durch HerpesvirenG05.1",
+            "inclusion": "Meningoenzephalitis durch Herpesviren"
+          },
+          "children": []
+        },
+        {
+          "code": "B00.5",
+          "kind": "category",
+          "label": "Augenkrankheit durch Herpesviren",
+          "rubrics": {
+            "preferred": "Augenkrankheit durch Herpesviren",
+            "inclusion": "Uveitis anteriorH22.0\n\t\t\t\tdurch Herpesviren"
+          },
+          "children": []
+        },
+        {
+          "code": "B00.7",
+          "kind": "category",
+          "label": "Disseminierte Herpesvirus-Krankheit",
+          "rubrics": {
+            "preferred": "Disseminierte Herpesvirus-Krankheit"
+          },
+          "children": [
+            {
+              "code": "B00.70",
+              "kind": "category",
+              "label": "Sepsis durch Herpesviren",
+              "rubrics": {
+                "preferred": "Sepsis durch Herpesviren",
+                "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.80!-U69.82, um den zeitlichen Bezug der Sepsis zur stationären Krankenhausaufnahme anzugeben."
+              },
+              "children": []
+            },
+            {
+              "code": "B00.78",
+              "kind": "category",
+              "label": "Sonstige disseminierte Herpesvirus-Krankheit",
+              "rubrics": {
+                "preferred": "Sonstige disseminierte Herpesvirus-Krankheit"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "B00.8",
+          "kind": "category",
+          "label": "Sonstige Infektionsformen durch Herpesviren",
+          "rubrics": {
+            "preferred": "Sonstige Infektionsformen durch Herpesviren",
+            "inclusion": "Panaritium durch HerpesvirenL99.8"
+          },
+          "children": []
+        },
+        {
+          "code": "B00.9",
+          "kind": "category",
+          "label": "Infektion durch Herpesviren, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Infektion durch Herpesviren, nicht näher bezeichnet",
+            "inclusion": "Infektion durch Herpes-simplex-Virus o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B01",
+      "kind": "category",
+      "label": "Varizellen [Windpocken]",
+      "rubrics": {
+        "preferred": "Varizellen [Windpocken]"
+      },
+      "children": [
+        {
+          "code": "B01.0",
+          "kind": "category",
+          "label": "Varizellen-MeningitisG02.0",
+          "rubrics": {
+            "preferred": "Varizellen-MeningitisG02.0"
+          },
+          "children": []
+        },
+        {
+          "code": "B01.1",
+          "kind": "category",
+          "label": "Varizellen-EnzephalitisG05.1",
+          "rubrics": {
+            "preferred": "Varizellen-EnzephalitisG05.1",
+            "inclusion": "Varizellen-Enzephalomyelitis"
+          },
+          "children": []
+        },
+        {
+          "code": "B01.2",
+          "kind": "category",
+          "label": "Varizellen-PneumonieJ17.1",
+          "rubrics": {
+            "preferred": "Varizellen-PneumonieJ17.1",
+            "coding-hint": "Benutze für Zwecke der externen Qualitätssicherung nach § 137 SGB V eine zusätzliche Schlüsselnummer U69.01U69.04, um den zeitlichen Bezug einer vollstationär behandelten Pneumonie bei erwachsenen Personen (18 Jahre und älter) zur stationären Krankenhausaufnahme anzugeben."
+          },
+          "children": []
+        },
+        {
+          "code": "B01.8",
+          "kind": "category",
+          "label": "Varizellen mit sonstigen Komplikationen",
+          "rubrics": {
+            "preferred": "Varizellen mit sonstigen Komplikationen"
+          },
+          "children": []
+        },
+        {
+          "code": "B01.9",
+          "kind": "category",
+          "label": "Varizellen ohne Komplikation",
+          "rubrics": {
+            "preferred": "Varizellen ohne Komplikation",
+            "inclusion": "Varizellen o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B02",
+      "kind": "category",
+      "label": "Zoster [Herpes zoster]",
+      "rubrics": {
+        "preferred": "Zoster [Herpes zoster]",
+        "inclusion": "Herpes zoster"
+      },
+      "children": [
+        {
+          "code": "B02.0",
+          "kind": "category",
+          "label": "Zoster-EnzephalitisG05.1",
+          "rubrics": {
+            "preferred": "Zoster-EnzephalitisG05.1",
+            "inclusion": "Zoster-Meningoenzephalitis"
+          },
+          "children": []
+        },
+        {
+          "code": "B02.1",
+          "kind": "category",
+          "label": "Zoster-MeningitisG02.0",
+          "rubrics": {
+            "preferred": "Zoster-MeningitisG02.0"
+          },
+          "children": []
+        },
+        {
+          "code": "B02.2",
+          "kind": "category",
+          "label": "Zoster mit Beteiligung anderer Abschnitte des Nervensystems",
+          "rubrics": {
+            "preferred": "Zoster mit Beteiligung anderer Abschnitte des Nervensystems",
+            "inclusion": "TrigeminusneuralgieG53.0\n\t\t\t\tnach Zoster"
+          },
+          "children": []
+        },
+        {
+          "code": "B02.3",
+          "kind": "category",
+          "label": "Zoster ophthalmicus",
+          "rubrics": {
+            "preferred": "Zoster ophthalmicus",
+            "inclusion": "SkleritisH19.0\n\t\t\t\tdurch Zoster"
+          },
+          "children": []
+        },
+        {
+          "code": "B02.7",
+          "kind": "category",
+          "label": "Zoster generalisatus",
+          "rubrics": {
+            "preferred": "Zoster generalisatus"
+          },
+          "children": []
+        },
+        {
+          "code": "B02.8",
+          "kind": "category",
+          "label": "Zoster mit sonstigen Komplikationen",
+          "rubrics": {
+            "preferred": "Zoster mit sonstigen Komplikationen",
+            "inclusion": "Otitis externa bei ZosterH62.1"
+          },
+          "children": []
+        },
+        {
+          "code": "B02.9",
+          "kind": "category",
+          "label": "Zoster ohne Komplikation",
+          "rubrics": {
+            "preferred": "Zoster ohne Komplikation",
+            "inclusion": "Zoster o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B03",
+      "kind": "category",
+      "label": "Pocken",
+      "rubrics": {
+        "preferred": "Pocken",
+        "note": "Die 33. Weltgesundheitsversammlung erklärte im Jahr 1980, dass die Pocken beseitigt wurden. Die Kategorie wird zu Überwachungszwecken beibehalten."
+      },
+      "children": []
+    },
+    {
+      "code": "B04",
+      "kind": "category",
+      "label": "Affenpocken",
+      "rubrics": {
+        "preferred": "Affenpocken"
+      },
+      "children": []
+    },
+    {
+      "code": "B05",
+      "kind": "category",
+      "label": "Masern",
+      "rubrics": {
+        "preferred": "Masern",
+        "inclusion": "Morbilli",
+        "exclusion": "Subakute sklerosierende PanenzephalitisA81.1"
+      },
+      "children": [
+        {
+          "code": "B05.0",
+          "kind": "category",
+          "label": "Masern, kompliziert durch EnzephalitisG05.1",
+          "rubrics": {
+            "preferred": "Masern, kompliziert durch EnzephalitisG05.1",
+            "inclusion": "Enzephalitis bei Masern"
+          },
+          "children": []
+        },
+        {
+          "code": "B05.1",
+          "kind": "category",
+          "label": "Masern, kompliziert durch MeningitisG02.0",
+          "rubrics": {
+            "preferred": "Masern, kompliziert durch MeningitisG02.0",
+            "inclusion": "Meningitis bei Masern"
+          },
+          "children": []
+        },
+        {
+          "code": "B05.2",
+          "kind": "category",
+          "label": "Masern, kompliziert durch PneumonieJ17.1",
+          "rubrics": {
+            "preferred": "Masern, kompliziert durch PneumonieJ17.1",
+            "inclusion": "Pneumonie bei Masern"
+          },
+          "children": []
+        },
+        {
+          "code": "B05.3",
+          "kind": "category",
+          "label": "Masern, kompliziert durch Otitis mediaH67.1",
+          "rubrics": {
+            "preferred": "Masern, kompliziert durch Otitis mediaH67.1",
+            "inclusion": "Otitis media bei Masern"
+          },
+          "children": []
+        },
+        {
+          "code": "B05.4",
+          "kind": "category",
+          "label": "Masern mit Darmkomplikationen",
+          "rubrics": {
+            "preferred": "Masern mit Darmkomplikationen"
+          },
+          "children": []
+        },
+        {
+          "code": "B05.8",
+          "kind": "category",
+          "label": "Masern mit sonstigen Komplikationen",
+          "rubrics": {
+            "preferred": "Masern mit sonstigen Komplikationen",
+            "inclusion": "Keratitis und Keratokonjunktivitis bei MasernH19.2"
+          },
+          "children": []
+        },
+        {
+          "code": "B05.9",
+          "kind": "category",
+          "label": "Masern ohne Komplikation",
+          "rubrics": {
+            "preferred": "Masern ohne Komplikation",
+            "inclusion": "Masern o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B06",
+      "kind": "category",
+      "label": "Röteln [Rubeola] [Rubella]",
+      "rubrics": {
+        "preferred": "Röteln [Rubeola] [Rubella]",
+        "exclusion": "Angeborene RötelnP35.0"
+      },
+      "children": [
+        {
+          "code": "B06.0",
+          "kind": "category",
+          "label": "Röteln mit neurologischen Komplikationen",
+          "rubrics": {
+            "preferred": "Röteln mit neurologischen Komplikationen",
+            "inclusion": "Röteln:\n\t\t\t\tMeningoenzephalitisG05.1"
+          },
+          "children": []
+        },
+        {
+          "code": "B06.8",
+          "kind": "category",
+          "label": "Röteln mit sonstigen Komplikationen",
+          "rubrics": {
+            "preferred": "Röteln mit sonstigen Komplikationen",
+            "inclusion": "Röteln:\n\t\t\t\tPneumonieJ17.1"
+          },
+          "children": []
+        },
+        {
+          "code": "B06.9",
+          "kind": "category",
+          "label": "Röteln ohne Komplikation",
+          "rubrics": {
+            "preferred": "Röteln ohne Komplikation",
+            "inclusion": "Röteln o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B07",
+      "kind": "category",
+      "label": "Viruswarzen",
+      "rubrics": {
+        "preferred": "Viruswarzen",
+        "inclusion": "Verruca:\n\t\t\t\tvulgaris",
+        "exclusion": "Papillom :\n\t\t\t\tLarynxD14.1"
+      },
+      "children": []
+    },
+    {
+      "code": "B08",
+      "kind": "category",
+      "label": "Sonstige Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind, anderenorts nicht klassifiziert",
+        "exclusion": "Stomatitis-vesicularis-ViruskrankheitA93.8"
+      },
+      "children": [
+        {
+          "code": "B08.0",
+          "kind": "category",
+          "label": "Sonstige Infektionen durch Orthopoxviren",
+          "rubrics": {
+            "preferred": "Sonstige Infektionen durch Orthopoxviren",
+            "inclusion": "Pseudokuhpocken [Melkerknoten]",
+            "exclusion": "AffenpockenB04"
+          },
+          "children": []
+        },
+        {
+          "code": "B08.1",
+          "kind": "category",
+          "label": "Molluscum contagiosum",
+          "rubrics": {
+            "preferred": "Molluscum contagiosum"
+          },
+          "children": []
+        },
+        {
+          "code": "B08.2",
+          "kind": "category",
+          "label": "Exanthema subitum [Sechste Krankheit]",
+          "rubrics": {
+            "preferred": "Exanthema subitum [Sechste Krankheit]",
+            "inclusion": "Dreitagefieber-Exanthem"
+          },
+          "children": []
+        },
+        {
+          "code": "B08.3",
+          "kind": "category",
+          "label": "Erythema infectiosum [Fünfte Krankheit]",
+          "rubrics": {
+            "preferred": "Erythema infectiosum [Fünfte Krankheit]",
+            "inclusion": "Ringelröteln"
+          },
+          "children": []
+        },
+        {
+          "code": "B08.4",
+          "kind": "category",
+          "label": "Vesikuläre Stomatitis mit Exanthem durch Enteroviren",
+          "rubrics": {
+            "preferred": "Vesikuläre Stomatitis mit Exanthem durch Enteroviren",
+            "inclusion": "Hand-, Fuß- und Mundexanthem"
+          },
+          "children": []
+        },
+        {
+          "code": "B08.5",
+          "kind": "category",
+          "label": "Vesikuläre Pharyngitis durch Enteroviren",
+          "rubrics": {
+            "preferred": "Vesikuläre Pharyngitis durch Enteroviren",
+            "inclusion": "Herpangina"
+          },
+          "children": []
+        },
+        {
+          "code": "B08.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind",
+            "inclusion": "Yabapocken"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B09",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Virusinfektion, die durch Haut- und Schleimhautläsionen gekennzeichnet ist",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Virusinfektion, die durch Haut- und Schleimhautläsionen gekennzeichnet ist",
+        "inclusion": "Exanthem o.n.A.\n\t\t\t\tdurch Viren"
+      },
+      "children": []
+    }
+  ]
+}

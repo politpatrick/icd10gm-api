@@ -1,0 +1,40 @@
+{
+  "code": "S32.8",
+  "kind": "category",
+  "label": "Fraktur sonstiger und nicht näher bezeichneter Teile der Lendenwirbelsäule und des Beckens",
+  "rubrics": {
+    "preferred": "Fraktur sonstiger und nicht näher bezeichneter Teile der Lendenwirbelsäule und des Beckens"
+  },
+  "children": [
+    {
+      "code": "S32.81",
+      "kind": "category",
+      "label": "Os ischium",
+      "rubrics": {
+        "preferredLong": "Fraktur: Os ischium",
+        "preferred": "Os ischium"
+      },
+      "children": []
+    },
+    {
+      "code": "S32.82",
+      "kind": "category",
+      "label": "Lendenwirbelsäule und Kreuzbein, Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Fraktur: Lendenwirbelsäule und Kreuzbein, Teil nicht näher bezeichnet",
+        "preferred": "Lendenwirbelsäule und Kreuzbein, Teil nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "S32.89",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Teile des Beckens",
+      "rubrics": {
+        "preferredLong": "Fraktur: Sonstige und nicht näher bezeichnete Teile des Beckens",
+        "preferred": "Sonstige und nicht näher bezeichnete Teile des Beckens"
+      },
+      "children": []
+    }
+  ]
+}

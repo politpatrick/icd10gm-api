@@ -1,0 +1,31 @@
+{
+  "code": "D59.1",
+  "kind": "category",
+  "label": "Sonstige autoimmunhämolytische Anämien",
+  "rubrics": {
+    "preferred": "Sonstige autoimmunhämolytische Anämien",
+    "exclusion": "Paroxysmale KältehämoglobinurieD59.6"
+  },
+  "children": [
+    {
+      "code": "D59.10",
+      "kind": "category",
+      "label": "Kälteagglutininkrankheit [CAD]",
+      "rubrics": {
+        "preferred": "Kälteagglutininkrankheit [CAD]",
+        "inclusion": "Primäre autoimmunhämolytische Krankheit vom Kälteautoantikörper-Typ (symptomatisch)"
+      },
+      "children": []
+    },
+    {
+      "code": "D59.18",
+      "kind": "category",
+      "label": "Sonstige autoimmunhämolytische Anämien",
+      "rubrics": {
+        "preferred": "Sonstige autoimmunhämolytische Anämien",
+        "inclusion": "Kälteagglutinin-Syndrom [CAS]"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "T02.6",
+  "kind": "category",
+  "label": "Frakturen mit Beteiligung mehrerer Regionen der oberen Extremität(en) und mehrerer Regionen der unteren Extremität(en)",
+  "rubrics": {
+    "preferred": "Frakturen mit Beteiligung mehrerer Regionen der oberen Extremität(en) und mehrerer Regionen der unteren Extremität(en)",
+    "exclusion": "In Kombination mit Frakturen des Thorax, der Lumbosakralgegend und des BeckensT02.7-"
+  },
+  "children": []
+}

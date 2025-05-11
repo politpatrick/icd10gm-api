@@ -1,0 +1,11 @@
+{
+  "code": "J31.0",
+  "kind": "category",
+  "label": "Chronische Rhinitis",
+  "rubrics": {
+    "preferred": "Chronische Rhinitis",
+    "inclusion": "Rhinitis (chronisch):\n\t\t\t\to.n.A.",
+    "exclusion": "Rhinopathia vasomotoricaJ30.0"
+  },
+  "children": []
+}

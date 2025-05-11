@@ -1,0 +1,89 @@
+{
+  "code": "C96",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete bösartige Neubildungen des lymphatischen, blutbildenden und verwandten Gewebes",
+  "rubrics": {
+    "preferred": "Sonstige und nicht näher bezeichnete bösartige Neubildungen des lymphatischen, blutbildenden und verwandten Gewebes"
+  },
+  "children": [
+    {
+      "code": "C96.0",
+      "kind": "category",
+      "label": "Multifokale und multisystemische (disseminierte) Langerhans-Zell-Histiozytose [Abt-Letterer-Siwe-Krankheit]",
+      "rubrics": {
+        "preferred": "Multifokale und multisystemische (disseminierte) Langerhans-Zell-Histiozytose [Abt-Letterer-Siwe-Krankheit]",
+        "inclusion": "Histiozytose X, multisystemisch"
+      },
+      "children": []
+    },
+    {
+      "code": "C96.2",
+      "kind": "category",
+      "label": "Bösartiger Mastzelltumor",
+      "rubrics": {
+        "preferred": "Bösartiger Mastzelltumor",
+        "inclusion": "Mastzellsarkom",
+        "exclusion": "MastzellenleukämieC94.3-"
+      },
+      "children": []
+    },
+    {
+      "code": "C96.4",
+      "kind": "category",
+      "label": "Sarkom der dendritischen Zellen (akzessorische Zellen)",
+      "rubrics": {
+        "preferred": "Sarkom der dendritischen Zellen (akzessorische Zellen)",
+        "inclusion": "Sarkom der interdigitierenden dendritischen Zellen"
+      },
+      "children": []
+    },
+    {
+      "code": "C96.5",
+      "kind": "category",
+      "label": "Multifokale und unisystemische Langerhans-Zell-Histiozytose",
+      "rubrics": {
+        "preferred": "Multifokale und unisystemische Langerhans-Zell-Histiozytose",
+        "inclusion": "Histiozytose X, multifokal"
+      },
+      "children": []
+    },
+    {
+      "code": "C96.6",
+      "kind": "category",
+      "label": "Unifokale Langerhans-Zell-Histiozytose",
+      "rubrics": {
+        "preferred": "Unifokale Langerhans-Zell-Histiozytose",
+        "inclusion": "Langerhans-Zell-Histiozytose o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "C96.7",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete bösartige Neubildungen des lymphatischen, blutbildenden und verwandten Gewebes",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete bösartige Neubildungen des lymphatischen, blutbildenden und verwandten Gewebes"
+      },
+      "children": []
+    },
+    {
+      "code": "C96.8",
+      "kind": "category",
+      "label": "Histiozytisches Sarkom",
+      "rubrics": {
+        "preferred": "Histiozytisches Sarkom",
+        "inclusion": "Bösartige Histiozytose"
+      },
+      "children": []
+    },
+    {
+      "code": "C96.9",
+      "kind": "category",
+      "label": "Bösartige Neubildung des lymphatischen, blutbildenden und verwandten Gewebes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung des lymphatischen, blutbildenden und verwandten Gewebes, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "U51.20",
+  "kind": "category",
+  "label": "Erweiterter Barthel-Index: 0-15 Punkte",
+  "rubrics": {
+    "preferredLong": "Schwere kognitive Funktionseinschränkung: Erweiterter Barthel-Index: 0-15 Punkte",
+    "preferred": "Erweiterter Barthel-Index: 0-15 Punkte"
+  },
+  "children": []
+}

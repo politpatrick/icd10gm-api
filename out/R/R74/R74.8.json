@@ -1,0 +1,10 @@
+{
+  "code": "R74.8",
+  "kind": "category",
+  "label": "Sonstige abnorme Serumenzymwerte",
+  "rubrics": {
+    "preferred": "Sonstige abnorme Serumenzymwerte",
+    "inclusion": "Abnormer Wert:\n\t\t\t\tsaure Phosphatase"
+  },
+  "children": []
+}

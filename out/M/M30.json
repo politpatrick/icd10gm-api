@@ -1,0 +1,57 @@
+{
+  "code": "M30",
+  "kind": "category",
+  "label": "Panarteriitis nodosa und verwandte Zustände",
+  "rubrics": {
+    "preferred": "Panarteriitis nodosa und verwandte Zustände"
+  },
+  "children": [
+    {
+      "code": "M30.0",
+      "kind": "category",
+      "label": "Panarteriitis nodosa",
+      "rubrics": {
+        "preferred": "Panarteriitis nodosa"
+      },
+      "children": []
+    },
+    {
+      "code": "M30.1",
+      "kind": "category",
+      "label": "Panarteriitis mit Lungenbeteiligung",
+      "rubrics": {
+        "preferred": "Panarteriitis mit Lungenbeteiligung",
+        "inclusion": "Eosinophile Granulomatose mit Polyangiitis"
+      },
+      "children": []
+    },
+    {
+      "code": "M30.2",
+      "kind": "category",
+      "label": "Juvenile Panarteriitis",
+      "rubrics": {
+        "preferred": "Juvenile Panarteriitis"
+      },
+      "children": []
+    },
+    {
+      "code": "M30.3",
+      "kind": "category",
+      "label": "Mukokutanes Lymphknotensyndrom [Kawasaki-Krankheit]",
+      "rubrics": {
+        "preferred": "Mukokutanes Lymphknotensyndrom [Kawasaki-Krankheit]"
+      },
+      "children": []
+    },
+    {
+      "code": "M30.8",
+      "kind": "category",
+      "label": "Sonstige mit Panarteriitis nodosa verwandte Zustände",
+      "rubrics": {
+        "preferred": "Sonstige mit Panarteriitis nodosa verwandte Zustände",
+        "inclusion": "Polyangiitis-Overlap-Syndrom"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "code": "P11",
+  "kind": "category",
+  "label": "Sonstige Geburtsverletzungen des Zentralnervensystems",
+  "rubrics": {
+    "preferred": "Sonstige Geburtsverletzungen des Zentralnervensystems"
+  },
+  "children": [
+    {
+      "code": "P11.0",
+      "kind": "category",
+      "label": "Hirnödem durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Hirnödem durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P11.1",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Hirnschädigung durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Hirnschädigung durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P11.2",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Hirnschädigung durch Geburtsverletzung",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Hirnschädigung durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P11.3",
+      "kind": "category",
+      "label": "Geburtsverletzung des N. facialis [VII. Hirnnerv]",
+      "rubrics": {
+        "preferred": "Geburtsverletzung des N. facialis [VII. Hirnnerv]",
+        "inclusion": "Fazialislähmung durch Geburtsverletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "P11.4",
+      "kind": "category",
+      "label": "Geburtsverletzung sonstiger Hirnnerven",
+      "rubrics": {
+        "preferred": "Geburtsverletzung sonstiger Hirnnerven"
+      },
+      "children": []
+    },
+    {
+      "code": "P11.5",
+      "kind": "category",
+      "label": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes",
+      "rubrics": {
+        "preferred": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes",
+        "inclusion": "Wirbelsäulenfraktur durch Geburtsverletzung"
+      },
+      "children": [
+        {
+          "code": "P11.50",
+          "kind": "category",
+          "label": "Mit akuter Querschnittlähmung",
+          "rubrics": {
+            "preferredLong": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes: Mit akuter Querschnittlähmung",
+            "preferred": "Mit akuter Querschnittlähmung"
+          },
+          "children": []
+        },
+        {
+          "code": "P11.51",
+          "kind": "category",
+          "label": "Mit chronischer Querschnittlähmung",
+          "rubrics": {
+            "preferredLong": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes: Mit chronischer Querschnittlähmung",
+            "preferred": "Mit chronischer Querschnittlähmung"
+          },
+          "children": []
+        },
+        {
+          "code": "P11.59",
+          "kind": "category",
+          "label": "Nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes: Nicht näher bezeichnet",
+            "preferred": "Nicht näher bezeichnet",
+            "inclusion": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes ohne Querschnittlähmung"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P11.9",
+      "kind": "category",
+      "label": "Geburtsverletzung des Zentralnervensystems, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Geburtsverletzung des Zentralnervensystems, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "S41.87",
+  "kind": "category",
+  "label": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation des Oberarmes",
+  "rubrics": {
+    "preferred": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation des Oberarmes",
+    "text": "Fehlende oder geringe Kontusion, unbedeutende bakterielle Kontamination, einfache bis mittelschwere Bruchformen",
+    "inclusion": "Offene Fraktur oder Luxation nicht näher bezeichneten Grades"
+  },
+  "children": []
+}

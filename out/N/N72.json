@@ -1,0 +1,12 @@
+{
+  "code": "N72",
+  "kind": "category",
+  "label": "Entzündliche Krankheit der Cervix uteri",
+  "rubrics": {
+    "preferred": "Entzündliche Krankheit der Cervix uteri",
+    "inclusion": "Zervizitis\n\t\t\t\tmit oder ohne Erosion oder Ektropium",
+    "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+    "exclusion": "Erosion und Ektropium der Cervix uteri ohne ZervizitisN86"
+  },
+  "children": []
+}

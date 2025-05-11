@@ -1,0 +1,11 @@
+{
+  "code": "Q82.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete angeborene Fehlbildungen der Haut",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen der Haut",
+    "inclusion": "Zusätzliche Hautanhängsel",
+    "exclusion": "Ehlers-Danlos-SyndromQ79.6"
+  },
+  "children": []
+}

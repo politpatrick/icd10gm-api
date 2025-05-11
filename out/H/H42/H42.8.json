@@ -1,0 +1,10 @@
+{
+  "code": "H42.8",
+  "kind": "category",
+  "label": "Glaukom bei sonstigen anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Glaukom bei sonstigen anderenorts klassifizierten Krankheiten",
+    "inclusion": "Glaukom bei OnchozerkoseB73"
+  },
+  "children": []
+}

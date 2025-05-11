@@ -1,0 +1,103 @@
+{
+  "code": "Q38",
+  "kind": "category",
+  "label": "Sonstige angeborene Fehlbildungen der Zunge, des Mundes und des Rachens",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungen der Zunge, des Mundes und des Rachens",
+    "exclusion": "MikrostomieQ18.5"
+  },
+  "children": [
+    {
+      "code": "Q38.0",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungen der Lippen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungen der Lippen, anderenorts nicht klassifiziert",
+        "inclusion": "van-der-Woude-Syndrom",
+        "exclusion": "MikrocheilieQ18.7"
+      },
+      "children": []
+    },
+    {
+      "code": "Q38.1",
+      "kind": "category",
+      "label": "Ankyloglosson",
+      "rubrics": {
+        "preferred": "Ankyloglosson",
+        "inclusion": "Verkürzung des Zungenbändchens"
+      },
+      "children": []
+    },
+    {
+      "code": "Q38.2",
+      "kind": "category",
+      "label": "Makroglossie (angeboren)",
+      "rubrics": {
+        "preferred": "Makroglossie (angeboren)"
+      },
+      "children": []
+    },
+    {
+      "code": "Q38.3",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Zunge",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Zunge",
+        "inclusion": "Spaltzunge"
+      },
+      "children": []
+    },
+    {
+      "code": "Q38.4",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungen der Speicheldrüsen und Speicheldrüsenausführungsgänge",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungen der Speicheldrüsen und Speicheldrüsenausführungsgänge",
+        "inclusion": "Angeborene Fistel der Speicheldrüse"
+      },
+      "children": []
+    },
+    {
+      "code": "Q38.5",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungen des Gaumens, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungen des Gaumens, anderenorts nicht klassifiziert",
+        "inclusion": "Hoher Gaumen",
+        "exclusion": "Gaumenspalte mit LippenspalteQ37.-"
+      },
+      "children": []
+    },
+    {
+      "code": "Q38.6",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Mundes",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Mundes",
+        "inclusion": "Angeborene Fehlbildung des Mundes o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "Q38.7",
+      "kind": "category",
+      "label": "Schlundtasche",
+      "rubrics": {
+        "preferred": "Schlundtasche",
+        "inclusion": "Rachendivertikel",
+        "exclusion": "Syndrom des vierten KiemenbogensD82.1"
+      },
+      "children": []
+    },
+    {
+      "code": "Q38.8",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Rachens",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Rachens",
+        "inclusion": "Angeborene Fehlbildung des Rachens o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

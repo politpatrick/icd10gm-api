@@ -1,0 +1,10 @@
+{
+  "code": "G62.9",
+  "kind": "category",
+  "label": "Polyneuropathie, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Polyneuropathie, nicht näher bezeichnet",
+    "inclusion": "Neuropathie o.n.A."
+  },
+  "children": []
+}

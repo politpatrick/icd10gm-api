@@ -1,0 +1,10 @@
+{
+  "code": "S27.81",
+  "kind": "category",
+  "label": "Zwerchfell",
+  "rubrics": {
+    "preferredLong": "Verletzung: Zwerchfell",
+    "preferred": "Zwerchfell"
+  },
+  "children": []
+}

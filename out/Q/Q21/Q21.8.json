@@ -1,0 +1,30 @@
+{
+  "code": "Q21.8",
+  "kind": "category",
+  "label": "Sonstige angeborene Fehlbildungen der Herzsepten",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungen der Herzsepten"
+  },
+  "children": [
+    {
+      "code": "Q21.80",
+      "kind": "category",
+      "label": "Fallot-Pentalogie",
+      "rubrics": {
+        "preferred": "Fallot-Pentalogie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q21.88",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Herzsepten",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Herzsepten",
+        "inclusion": "Eisenmenger-Defekt",
+        "exclusion": "Eisenmenger:\n\t\t\t\tSyndromI27.8"
+      },
+      "children": []
+    }
+  ]
+}

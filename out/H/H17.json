@@ -1,0 +1,46 @@
+{
+  "code": "H17",
+  "kind": "category",
+  "label": "Hornhautnarben und -trübungen",
+  "rubrics": {
+    "preferred": "Hornhautnarben und -trübungen"
+  },
+  "children": [
+    {
+      "code": "H17.0",
+      "kind": "category",
+      "label": "Leukoma adhaerens",
+      "rubrics": {
+        "preferred": "Leukoma adhaerens"
+      },
+      "children": []
+    },
+    {
+      "code": "H17.1",
+      "kind": "category",
+      "label": "Sonstige zentrale Hornhauttrübung",
+      "rubrics": {
+        "preferred": "Sonstige zentrale Hornhauttrübung"
+      },
+      "children": []
+    },
+    {
+      "code": "H17.8",
+      "kind": "category",
+      "label": "Sonstige Hornhautnarben und -trübungen",
+      "rubrics": {
+        "preferred": "Sonstige Hornhautnarben und -trübungen"
+      },
+      "children": []
+    },
+    {
+      "code": "H17.9",
+      "kind": "category",
+      "label": "Hornhautnarbe und -trübung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hornhautnarbe und -trübung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

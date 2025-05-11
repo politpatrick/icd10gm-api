@@ -1,0 +1,10 @@
+{
+  "code": "H91.0",
+  "kind": "category",
+  "label": "Ototoxischer Hörverlust",
+  "rubrics": {
+    "preferred": "Ototoxischer Hörverlust",
+    "coding-hint": "Soll die toxische Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

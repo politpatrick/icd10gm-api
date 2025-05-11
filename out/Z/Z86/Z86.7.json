@@ -1,0 +1,11 @@
+{
+  "code": "Z86.7",
+  "kind": "category",
+  "label": "Krankheiten des Kreislaufsystems in der Eigenanamnese",
+  "rubrics": {
+    "preferred": "Krankheiten des Kreislaufsystems in der Eigenanamnese",
+    "inclusion": "Zustände, klassifizierbar unter I00-I99",
+    "exclusion": "Postmyokardinfarkt-SyndromI24.1"
+  },
+  "children": []
+}

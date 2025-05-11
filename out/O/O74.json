@@ -1,0 +1,105 @@
+{
+  "code": "O74",
+  "kind": "category",
+  "label": "Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+  "rubrics": {
+    "preferred": "Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+    "inclusion": "Komplikationen bei der Mutter durch Verabreichung von Allgemein- oder Lokalanästhetikum, Analgetikum oder durch sonstige Beruhigungsmaßnahme während der Wehentätigkeit und bei der Entbindung"
+  },
+  "children": [
+    {
+      "code": "O74.0",
+      "kind": "category",
+      "label": "Aspirationspneumonie durch Anästhesie während der Wehentätigkeit und bei der Entbindung",
+      "rubrics": {
+        "preferred": "Aspirationspneumonie durch Anästhesie während der Wehentätigkeit und bei der Entbindung",
+        "inclusion": "Mendelson-Syndrom\n\t\t\t\tdurch Anästhesie während der Wehentätigkeit und bei der Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O74.1",
+      "kind": "category",
+      "label": "Sonstige pulmonale Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+      "rubrics": {
+        "preferred": "Sonstige pulmonale Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+        "inclusion": "Pneumothorax durch Anästhesie während der Wehentätigkeit und bei der Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O74.2",
+      "kind": "category",
+      "label": "Kardiale Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+      "rubrics": {
+        "preferred": "Kardiale Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+        "inclusion": "Herz:\n\t\t\t\tVersagen\n\t\t\t\tdurch Anästhesie während der Wehentätigkeit und bei der Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O74.3",
+      "kind": "category",
+      "label": "Komplikationen des Zentralnervensystems bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+      "rubrics": {
+        "preferred": "Komplikationen des Zentralnervensystems bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+        "inclusion": "Zerebrale Anoxie durch Anästhesie während der Wehentätigkeit und bei der Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O74.4",
+      "kind": "category",
+      "label": "Toxische Reaktion auf Lokalanästhesie während der Wehentätigkeit und bei der Entbindung",
+      "rubrics": {
+        "preferred": "Toxische Reaktion auf Lokalanästhesie während der Wehentätigkeit und bei der Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O74.5",
+      "kind": "category",
+      "label": "Kopfschmerzen nach Spinal- oder Periduralanästhesie während der Wehentätigkeit und bei der Entbindung",
+      "rubrics": {
+        "preferred": "Kopfschmerzen nach Spinal- oder Periduralanästhesie während der Wehentätigkeit und bei der Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O74.6",
+      "kind": "category",
+      "label": "Sonstige Komplikationen bei Spinal- oder Periduralanästhesie während der Wehentätigkeit und bei der Entbindung",
+      "rubrics": {
+        "preferred": "Sonstige Komplikationen bei Spinal- oder Periduralanästhesie während der Wehentätigkeit und bei der Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O74.7",
+      "kind": "category",
+      "label": "Misslingen oder Schwierigkeiten bei der Intubation während der Wehentätigkeit und bei der Entbindung",
+      "rubrics": {
+        "preferred": "Misslingen oder Schwierigkeiten bei der Intubation während der Wehentätigkeit und bei der Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O74.8",
+      "kind": "category",
+      "label": "Sonstige Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+      "rubrics": {
+        "preferred": "Sonstige Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O74.9",
+      "kind": "category",
+      "label": "Komplikation bei Anästhesie während der Wehentätigkeit und bei der Entbindung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Komplikation bei Anästhesie während der Wehentätigkeit und bei der Entbindung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D46.6",
+  "kind": "category",
+  "label": "Myelodysplastisches Syndrom mit isolierter del(5q)-Chromosomenanomalie",
+  "rubrics": {
+    "preferred": "Myelodysplastisches Syndrom mit isolierter del(5q)-Chromosomenanomalie",
+    "inclusion": "5q-minus-Syndrom"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "K04.5",
+  "kind": "category",
+  "label": "Chronische apikale Parodontitis",
+  "rubrics": {
+    "preferred": "Chronische apikale Parodontitis",
+    "inclusion": "Apikales oder periapikales Granulom"
+  },
+  "children": []
+}

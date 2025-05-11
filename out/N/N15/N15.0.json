@@ -1,0 +1,10 @@
+{
+  "code": "N15.0",
+  "kind": "category",
+  "label": "Balkan-Nephropathie",
+  "rubrics": {
+    "preferred": "Balkan-Nephropathie",
+    "inclusion": "Chronische endemische Nephropathie"
+  },
+  "children": []
+}

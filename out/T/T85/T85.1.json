@@ -1,0 +1,10 @@
+{
+  "code": "T85.1",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch einen implantierten elektronischen Stimulator des Nervensystems",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch einen implantierten elektronischen Stimulator des Nervensystems",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch elektronischen Nervenstimulator (Elektrode):\n\t\t\t\tRückenmark"
+  },
+  "children": []
+}

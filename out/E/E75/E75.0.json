@@ -1,0 +1,10 @@
+{
+  "code": "E75.0",
+  "kind": "category",
+  "label": "GM2-Gangliosidose",
+  "rubrics": {
+    "preferred": "GM2-Gangliosidose",
+    "inclusion": "GM2-Gangliosidose: \n\t\t\t\to.n.A."
+  },
+  "children": []
+}

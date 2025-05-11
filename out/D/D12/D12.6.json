@@ -1,0 +1,11 @@
+{
+  "code": "D12.6",
+  "kind": "category",
+  "label": "Kolon, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Kolon, nicht näher bezeichnet",
+    "preferred": "Kolon, nicht näher bezeichnet",
+    "inclusion": "Polyposis coli (hereditär)"
+  },
+  "children": []
+}

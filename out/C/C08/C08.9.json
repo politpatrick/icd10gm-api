@@ -1,0 +1,11 @@
+{
+  "code": "C08.9",
+  "kind": "category",
+  "label": "Große Speicheldrüse, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Große Speicheldrüse, nicht näher bezeichnet",
+    "preferred": "Große Speicheldrüse, nicht näher bezeichnet",
+    "inclusion": "Speicheldrüse (große) o.n.A."
+  },
+  "children": []
+}

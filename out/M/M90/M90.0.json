@@ -1,0 +1,10 @@
+{
+  "code": "M90.0",
+  "kind": "category",
+  "label": "KnochentuberkuloseA18.0",
+  "rubrics": {
+    "preferred": "KnochentuberkuloseA18.0",
+    "exclusion": "Tuberkulose der WirbelsäuleM49.0-"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "D31.9",
+  "kind": "category",
+  "label": "Auge, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Auge, nicht näher bezeichnet",
+    "preferred": "Auge, nicht näher bezeichnet",
+    "inclusion": "Augapfel"
+  },
+  "children": []
+}

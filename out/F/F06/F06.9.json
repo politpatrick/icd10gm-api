@@ -1,0 +1,10 @@
+{
+  "code": "F06.9",
+  "kind": "category",
+  "label": "Nicht näher bezeichnete organische psychische Störung aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit",
+  "rubrics": {
+    "preferred": "Nicht näher bezeichnete organische psychische Störung aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit",
+    "inclusion": "Organische psychische Störung o.n.A."
+  },
+  "children": []
+}

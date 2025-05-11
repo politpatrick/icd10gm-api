@@ -1,0 +1,11 @@
+{
+  "code": "Z76.0",
+  "kind": "category",
+  "label": "Ausstellung wiederholter Verordnung",
+  "rubrics": {
+    "preferred": "Ausstellung wiederholter Verordnung",
+    "inclusion": "Wiederverordnung:\n\t\t\t\tBrille",
+    "exclusion": "Wiederverordnung von KontrazeptivaZ30.4"
+  },
+  "children": []
+}

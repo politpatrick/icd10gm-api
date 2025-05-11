@@ -1,0 +1,30 @@
+{
+  "code": "K57.0",
+  "kind": "category",
+  "label": "Divertikelkrankheit des Dünndarmes mit Perforation und Abszess",
+  "rubrics": {
+    "preferred": "Divertikelkrankheit des Dünndarmes mit Perforation und Abszess",
+    "inclusion": "Divertikulitis des Dünndarmes mit Peritonitis",
+    "exclusion": "Divertikulitis sowohl des Dünndarmes als auch des Dickdarmes mit Perforation und AbszessK57.4-"
+  },
+  "children": [
+    {
+      "code": "K57.02",
+      "kind": "category",
+      "label": "Divertikulitis des Dünndarmes mit Perforation und Abszess, ohne Angabe einer Blutung",
+      "rubrics": {
+        "preferred": "Divertikulitis des Dünndarmes mit Perforation und Abszess, ohne Angabe einer Blutung"
+      },
+      "children": []
+    },
+    {
+      "code": "K57.03",
+      "kind": "category",
+      "label": "Divertikulitis des Dünndarmes mit Perforation, Abszess und Blutung",
+      "rubrics": {
+        "preferred": "Divertikulitis des Dünndarmes mit Perforation, Abszess und Blutung"
+      },
+      "children": []
+    }
+  ]
+}

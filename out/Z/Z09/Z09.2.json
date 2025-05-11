@@ -1,0 +1,10 @@
+{
+  "code": "Z09.2",
+  "kind": "category",
+  "label": "Nachuntersuchung nach Chemotherapie wegen anderer Krankheitszustände",
+  "rubrics": {
+    "preferred": "Nachuntersuchung nach Chemotherapie wegen anderer Krankheitszustände",
+    "exclusion": "ErhaltungschemotherapieZ51.1-Z51.2"
+  },
+  "children": []
+}

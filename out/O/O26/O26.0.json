@@ -1,0 +1,10 @@
+{
+  "code": "O26.0",
+  "kind": "category",
+  "label": "Übermäßige Gewichtszunahme in der Schwangerschaft",
+  "rubrics": {
+    "preferred": "Übermäßige Gewichtszunahme in der Schwangerschaft",
+    "exclusion": "SchwangerschaftsödemeO12.0O12.2"
+  },
+  "children": []
+}

@@ -1,0 +1,12 @@
+{
+  "code": "F94.0",
+  "kind": "category",
+  "label": "Elektiver Mutismus",
+  "rubrics": {
+    "preferred": "Elektiver Mutismus",
+    "definition": "Dieser ist durch eine deutliche, emotional bedingte Selektivität des Sprechens charakterisiert, so dass das Kind in einigen Situationen spricht, in anderen definierbaren Situationen jedoch nicht. Diese Störung ist üblicherweise mit besonderen Persönlichkeitsmerkmalen wie Sozialangst, Rückzug, Empfindsamkeit oder Widerstand verbunden.",
+    "inclusion": "Selektiver Mutismus",
+    "exclusion": "Umschriebene Entwicklungsstörungen des Sprechens und der SpracheF80.-"
+  },
+  "children": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "I68",
+  "kind": "category",
+  "label": "Zerebrovaskuläre Störungen bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Zerebrovaskuläre Störungen bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "I68.0",
+      "kind": "category",
+      "label": "Zerebrale AmyloidangiopathieE85.-",
+      "rubrics": {
+        "preferred": "Zerebrale AmyloidangiopathieE85.-"
+      },
+      "children": []
+    },
+    {
+      "code": "I68.1",
+      "kind": "category",
+      "label": "Zerebrale Arteriitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+      "rubrics": {
+        "preferred": "Zerebrale Arteriitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+        "inclusion": "Zerebrale Arteriitis:\n\t\t\t\ttuberkulösA18.8"
+      },
+      "children": []
+    },
+    {
+      "code": "I68.2",
+      "kind": "category",
+      "label": "Zerebrale Arteriitis bei sonstigen anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Zerebrale Arteriitis bei sonstigen anderenorts klassifizierten Krankheiten",
+        "inclusion": "Zerebrale Arteriitis bei systemischem Lupus erythematodesM32.1"
+      },
+      "children": []
+    },
+    {
+      "code": "I68.8",
+      "kind": "category",
+      "label": "Sonstige zerebrovaskuläre Störungen bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige zerebrovaskuläre Störungen bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

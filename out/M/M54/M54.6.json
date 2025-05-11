@@ -1,0 +1,10 @@
+{
+  "code": "M54.6",
+  "kind": "category",
+  "label": "Schmerzen im Bereich der Brustwirbelsäule",
+  "rubrics": {
+    "preferred": "Schmerzen im Bereich der Brustwirbelsäule",
+    "exclusion": "Schmerzen durch BandscheibenschadenM51.-"
+  },
+  "children": []
+}

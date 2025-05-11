@@ -1,0 +1,10 @@
+{
+  "code": "B79",
+  "kind": "category",
+  "label": "Trichuriasis",
+  "rubrics": {
+    "preferred": "Trichuriasis",
+    "inclusion": "Trichocephaliasis"
+  },
+  "children": []
+}

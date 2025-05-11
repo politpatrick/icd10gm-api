@@ -1,0 +1,10 @@
+{
+  "code": "S37.84",
+  "kind": "category",
+  "label": "Samenleiter",
+  "rubrics": {
+    "preferredLong": "Verletzung: Samenleiter",
+    "preferred": "Samenleiter"
+  },
+  "children": []
+}

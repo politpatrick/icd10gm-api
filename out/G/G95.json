@@ -1,0 +1,148 @@
+{
+  "code": "G95",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Rückenmarkes",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Rückenmarkes",
+    "exclusion": "MyelitisG04.-"
+  },
+  "children": [
+    {
+      "code": "G95.0",
+      "kind": "category",
+      "label": "Syringomyelie und Syringobulbie",
+      "rubrics": {
+        "preferred": "Syringomyelie und Syringobulbie"
+      },
+      "children": []
+    },
+    {
+      "code": "G95.1",
+      "kind": "category",
+      "label": "Vaskuläre Myelopathien",
+      "rubrics": {
+        "preferred": "Vaskuläre Myelopathien"
+      },
+      "children": [
+        {
+          "code": "G95.10",
+          "kind": "category",
+          "label": "Nichttraumatische spinale Blutung",
+          "rubrics": {
+            "preferred": "Nichttraumatische spinale Blutung",
+            "inclusion": "Hämatomyelie"
+          },
+          "children": []
+        },
+        {
+          "code": "G95.18",
+          "kind": "category",
+          "label": "Sonstige vaskuläre Myelopathien",
+          "rubrics": {
+            "preferred": "Sonstige vaskuläre Myelopathien",
+            "inclusion": "Subakute nekrotisierende Myelopathie",
+            "exclusion": "Intraspinale Phlebitis und Thrombophlebitis, ausgenommen nichteitrigG08"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G95.2",
+      "kind": "category",
+      "label": "Rückenmarkkompression, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Rückenmarkkompression, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "G95.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Rückenmarkes",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Rückenmarkes",
+        "inclusion": "Rückenmarkblase o.n.A.",
+        "coding-hint": "Soll das exogene Agens angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "Neuromuskuläre Dysfunktion der Harnblase ohne Angabe einer RückenmarkläsionN31.-"
+      },
+      "children": [
+        {
+          "code": "G95.80",
+          "kind": "category",
+          "label": "Harnblasenlähmung bei Schädigung des oberen motorischen Neurons [UMNL]",
+          "rubrics": {
+            "preferred": "Harnblasenlähmung bei Schädigung des oberen motorischen Neurons [UMNL]",
+            "inclusion": "Spastische Blase"
+          },
+          "children": []
+        },
+        {
+          "code": "G95.81",
+          "kind": "category",
+          "label": "Harnblasenlähmung bei Schädigung des unteren motorischen Neurons [LMNL]",
+          "rubrics": {
+            "preferred": "Harnblasenlähmung bei Schädigung des unteren motorischen Neurons [LMNL]",
+            "inclusion": "Schlaffe Blase"
+          },
+          "children": []
+        },
+        {
+          "code": "G95.82",
+          "kind": "category",
+          "label": "Harnblasenfunktionsstörung durch spinalen Schock",
+          "rubrics": {
+            "preferred": "Harnblasenfunktionsstörung durch spinalen Schock"
+          },
+          "children": []
+        },
+        {
+          "code": "G95.83",
+          "kind": "category",
+          "label": "Spinale Spastik der quergestreiften Muskulatur",
+          "rubrics": {
+            "preferred": "Spinale Spastik der quergestreiften Muskulatur"
+          },
+          "children": []
+        },
+        {
+          "code": "G95.84",
+          "kind": "category",
+          "label": "Detrusor-Sphinkter-Dyssynergie bei Schädigungen des Rückenmarkes",
+          "rubrics": {
+            "preferred": "Detrusor-Sphinkter-Dyssynergie bei Schädigungen des Rückenmarkes"
+          },
+          "children": []
+        },
+        {
+          "code": "G95.85",
+          "kind": "category",
+          "label": "Deafferentierungsschmerz bei Schädigungen des Rückenmarkes",
+          "rubrics": {
+            "preferred": "Deafferentierungsschmerz bei Schädigungen des Rückenmarkes"
+          },
+          "children": []
+        },
+        {
+          "code": "G95.88",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Rückenmarkes",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Rückenmarkes"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G95.9",
+      "kind": "category",
+      "label": "Krankheit des Rückenmarkes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit des Rückenmarkes, nicht näher bezeichnet",
+        "inclusion": "Myelopathie o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

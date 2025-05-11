@@ -1,0 +1,10 @@
+{
+  "code": "B01.9",
+  "kind": "category",
+  "label": "Varizellen ohne Komplikation",
+  "rubrics": {
+    "preferred": "Varizellen ohne Komplikation",
+    "inclusion": "Varizellen o.n.A."
+  },
+  "children": []
+}

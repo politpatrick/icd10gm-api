@@ -1,0 +1,10 @@
+{
+  "code": "K91.4",
+  "kind": "category",
+  "label": "Funktionsstörung nach Kolostomie oder Enterostomie",
+  "rubrics": {
+    "preferred": "Funktionsstörung nach Kolostomie oder Enterostomie",
+    "inclusion": "Stomastriktur nach Kolostomie oder Enterostomie"
+  },
+  "children": []
+}

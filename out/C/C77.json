@@ -1,0 +1,94 @@
+{
+  "code": "C77",
+  "kind": "category",
+  "label": "Sekundäre und nicht näher bezeichnete bösartige Neubildung der Lymphknoten",
+  "rubrics": {
+    "preferred": "Sekundäre und nicht näher bezeichnete bösartige Neubildung der Lymphknoten",
+    "exclusion": "Bösartige Neubildung der Lymphknoten, als primär bezeichnetC81-C86C96.-"
+  },
+  "children": [
+    {
+      "code": "C77.0",
+      "kind": "category",
+      "label": "Lymphknoten des Kopfes, des Gesichtes und des Halses",
+      "rubrics": {
+        "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Lymphknoten des Kopfes, des Gesichtes und des Halses",
+        "preferred": "Lymphknoten des Kopfes, des Gesichtes und des Halses",
+        "inclusion": "Supraklavikuläre Lymphknoten"
+      },
+      "children": []
+    },
+    {
+      "code": "C77.1",
+      "kind": "category",
+      "label": "Intrathorakale Lymphknoten",
+      "rubrics": {
+        "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Intrathorakale Lymphknoten",
+        "preferred": "Intrathorakale Lymphknoten"
+      },
+      "children": []
+    },
+    {
+      "code": "C77.2",
+      "kind": "category",
+      "label": "Intraabdominale Lymphknoten",
+      "rubrics": {
+        "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Intraabdominale Lymphknoten",
+        "preferred": "Intraabdominale Lymphknoten"
+      },
+      "children": []
+    },
+    {
+      "code": "C77.3",
+      "kind": "category",
+      "label": "Axilläre Lymphknoten und Lymphknoten der oberen Extremität",
+      "rubrics": {
+        "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Axilläre Lymphknoten und Lymphknoten der oberen Extremität",
+        "preferred": "Axilläre Lymphknoten und Lymphknoten der oberen Extremität",
+        "inclusion": "Pektorale Lymphknoten"
+      },
+      "children": []
+    },
+    {
+      "code": "C77.4",
+      "kind": "category",
+      "label": "Inguinale Lymphknoten und Lymphknoten der unteren Extremität",
+      "rubrics": {
+        "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Inguinale Lymphknoten und Lymphknoten der unteren Extremität",
+        "preferred": "Inguinale Lymphknoten und Lymphknoten der unteren Extremität"
+      },
+      "children": []
+    },
+    {
+      "code": "C77.5",
+      "kind": "category",
+      "label": "Intrapelvine Lymphknoten",
+      "rubrics": {
+        "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Intrapelvine Lymphknoten",
+        "preferred": "Intrapelvine Lymphknoten"
+      },
+      "children": []
+    },
+    {
+      "code": "C77.8",
+      "kind": "category",
+      "label": "Lymphknoten mehrerer Regionen",
+      "rubrics": {
+        "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Lymphknoten mehrerer Regionen",
+        "preferred": "Lymphknoten mehrerer Regionen",
+        "coding-hint": "Sollen die betroffenen Lymphknotenregionen spezifisch angegeben werden, sind sekundäre Schlüsselnummern aus U69.5- zu verwenden."
+      },
+      "children": []
+    },
+    {
+      "code": "C77.9",
+      "kind": "category",
+      "label": "Lymphknoten, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Lymphknoten, nicht näher bezeichnet",
+        "preferred": "Lymphknoten, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

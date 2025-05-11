@@ -1,0 +1,11 @@
+{
+  "code": "N28.0",
+  "kind": "category",
+  "label": "Ischämie und Infarkt der Niere",
+  "rubrics": {
+    "preferred": "Ischämie und Infarkt der Niere",
+    "inclusion": "Niereninfarkt",
+    "exclusion": "Nierenarterie (extrarenaler Teil):\n\t\t\t\tAtheroskleroseI70.1"
+  },
+  "children": []
+}

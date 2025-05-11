@@ -1,0 +1,79 @@
+{
+  "code": "L51",
+  "kind": "category",
+  "label": "Erythema exsudativum multiforme",
+  "rubrics": {
+    "preferred": "Erythema exsudativum multiforme"
+  },
+  "children": [
+    {
+      "code": "L51.0",
+      "kind": "category",
+      "label": "Nichtbullöses Erythema exsudativum multiforme",
+      "rubrics": {
+        "preferred": "Nichtbullöses Erythema exsudativum multiforme"
+      },
+      "children": []
+    },
+    {
+      "code": "L51.1",
+      "kind": "category",
+      "label": "Bullöses Erythema exsudativum multiforme",
+      "rubrics": {
+        "preferred": "Bullöses Erythema exsudativum multiforme",
+        "inclusion": "Stevens-Johnson-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "L51.2",
+      "kind": "category",
+      "label": "Toxische epidermale Nekrolyse [Lyell-Syndrom]",
+      "rubrics": {
+        "preferred": "Toxische epidermale Nekrolyse [Lyell-Syndrom]"
+      },
+      "children": [
+        {
+          "code": "L51.20",
+          "kind": "category",
+          "label": "Befall von weniger als 30 % der Körperoberfläche",
+          "rubrics": {
+            "preferredLong": "Toxische epidermale Nekrolyse [Lyell-Syndrom]: Befall von weniger als 30 % der Körperoberfläche",
+            "preferred": "Befall von weniger als 30 % der Körperoberfläche",
+            "inclusion": "Toxische epidermale Nekrolyse [Lyell-Syndrom] o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "L51.21",
+          "kind": "category",
+          "label": "Befall von 30 % der Körperoberfläche und mehr",
+          "rubrics": {
+            "preferredLong": "Toxische epidermale Nekrolyse [Lyell-Syndrom]: Befall von 30 % der Körperoberfläche und mehr",
+            "preferred": "Befall von 30 % der Körperoberfläche und mehr",
+            "inclusion": "Schleimhautbefall"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L51.8",
+      "kind": "category",
+      "label": "Sonstiges Erythema exsudativum multiforme",
+      "rubrics": {
+        "preferred": "Sonstiges Erythema exsudativum multiforme"
+      },
+      "children": []
+    },
+    {
+      "code": "L51.9",
+      "kind": "category",
+      "label": "Erythema exsudativum multiforme, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Erythema exsudativum multiforme, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

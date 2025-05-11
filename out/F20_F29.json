@@ -1,0 +1,346 @@
+{
+  "code": "F20-F29",
+  "kind": "block",
+  "label": "Schizophrenie, schizotype und wahnhafte Störungen",
+  "rubrics": {
+    "preferred": "Schizophrenie, schizotype und wahnhafte Störungen",
+    "text": "In diesem Abschnitt finden sich die Schizophrenie als das wichtigste Krankheitsbild dieser Gruppe, die schizotype Störung, die anhaltenden wahnhaften Störungen und eine größere Gruppe akuter vorübergehender psychotischer Störungen. Schizoaffektive Störungen werden trotz ihrer umstrittenen Natur weiterhin hier aufgeführt."
+  },
+  "children": [
+    {
+      "code": "F20",
+      "kind": "category",
+      "label": "Schizophrenie",
+      "rubrics": {
+        "preferred": "Schizophrenie",
+        "definition": "Die schizophrenen Störungen sind im Allgemeinen durch grundlegende und charakteristische Störungen von Denken und Wahrnehmung sowie inadäquate oder verflachte Affekte gekennzeichnet. Die Bewusstseinsklarheit und intellektuellen Fähigkeiten sind in der Regel nicht beeinträchtigt, obwohl sich im Laufe der Zeit gewisse kognitive Defizite entwickeln können. Die wichtigsten psychopathologischen Phänomene sind Gedankenlautwerden, Gedankeneingebung oder Gedankenentzug, Gedankenausbreitung, Wahnwahrnehmung, Kontrollwahn, Beeinflussungswahn oder das Gefühl des Gemachten, Stimmen, die in der dritten Person den Patienten kommentieren oder über ihn sprechen, Denkstörungen und Negativsymptome.\n\t\t\t\tDer Verlauf der schizophrenen Störungen kann entweder kontinuierlich episodisch mit zunehmenden oder stabilen Defiziten sein, oder es können eine oder mehrere Episoden mit vollständiger oder unvollständiger Remission auftreten.\n\t\t\t\tDie Diagnose Schizophrenie soll bei ausgeprägten depressiven oder manischen Symptomen nicht gestellt werden, es sei denn, schizophrene Symptome wären der affektiven Störung vorausgegangen. Ebenso wenig ist eine Schizophrenie bei eindeutiger Gehirnerkrankung, während einer Intoxikation oder während eines Entzugssyndroms zu diagnostizieren. Ähnliche Störungen bei Epilepsie oder anderen Hirnerkrankungen sollen unter F06.2 kodiert werden, die durch psychotrope Substanzen bedingten psychotischen Störungen unter F10-F19, vierte Stelle .5.",
+        "exclusion": "Schizotype StörungF21"
+      },
+      "children": [
+        {
+          "code": "F20.0",
+          "kind": "category",
+          "label": "Paranoide Schizophrenie",
+          "rubrics": {
+            "preferred": "Paranoide Schizophrenie",
+            "definition": "Die paranoide Schizophrenie ist durch beständige, häufig paranoide Wahnvorstellungen gekennzeichnet, meist begleitet von akustischen Halluzinationen und Wahrnehmungsstörungen. Störungen der Stimmung, des Antriebs und der Sprache, katatone Symptome fehlen entweder oder sind wenig auffallend.",
+            "inclusion": "Paraphrene Schizophrenie",
+            "exclusion": "Paranoider InvolutionszustandF22.8"
+          },
+          "children": []
+        },
+        {
+          "code": "F20.1",
+          "kind": "category",
+          "label": "Hebephrene Schizophrenie",
+          "rubrics": {
+            "preferred": "Hebephrene Schizophrenie",
+            "definition": "Eine Form der Schizophrenie, bei der die affektiven Veränderungen im Vordergrund stehen, Wahnvorstellungen und Halluzinationen flüchtig und bruchstückhaft auftreten, das Verhalten verantwortungslos und unvorhersehbar ist und Manierismen häufig sind. Die Stimmung ist flach und unangemessen. Das Denken ist desorganisiert, die Sprache zerfahren. Der Kranke neigt dazu, sich sozial zu isolieren. Wegen der schnellen Entwicklung der Minussymptomatik, besonders von Affektverflachung und Antriebsverlust, ist die Prognose zumeist schlecht. Eine Hebephrenie soll in aller Regel nur bei Jugendlichen oder jungen Erwachsenen diagnostiziert werden.",
+            "inclusion": "Hebephrenie"
+          },
+          "children": []
+        },
+        {
+          "code": "F20.2",
+          "kind": "category",
+          "label": "Katatone Schizophrenie",
+          "rubrics": {
+            "preferred": "Katatone Schizophrenie",
+            "definition": "Die katatone Schizophrenie ist gekennzeichnet von den im Vordergrund stehenden psychomotorischen Störungen, die zwischen Extremen wie Erregung und Stupor sowie Befehlsautomatismus und Negativismus alternieren können. Zwangshaltungen und -stellungen können lange Zeit beibehalten werden. Episodenhafte schwere Erregungszustände können ein Charakteristikum dieses Krankheitsbildes sein. Die katatonen Phänomene können mit einem traumähnlichen (oneiroiden) Zustand mit lebhaften szenischen Halluzinationen verbunden sein.",
+            "inclusion": "Schizophren:\n\t\t\t\tKatatonie"
+          },
+          "children": []
+        },
+        {
+          "code": "F20.3",
+          "kind": "category",
+          "label": "Undifferenzierte Schizophrenie",
+          "rubrics": {
+            "preferred": "Undifferenzierte Schizophrenie",
+            "definition": "Diese Kategorie soll für psychotische Zustandsbilder verwendet werden, welche die allgemeinen diagnostischen Kriterien der Schizophrenie (F20) erfüllen, ohne einer der Unterformen von F20.0-F20.2 zu entsprechen, oder die Merkmale von mehr als einer aufweisen, ohne dass bestimmte diagnostische Charakteristika eindeutig überwiegen.",
+            "inclusion": "Atypische Schizophrenie",
+            "exclusion": "Postschizophrene DepressionF20.4"
+          },
+          "children": []
+        },
+        {
+          "code": "F20.4",
+          "kind": "category",
+          "label": "Postschizophrene Depression",
+          "rubrics": {
+            "preferred": "Postschizophrene Depression",
+            "definition": "Eine unter Umständen länger anhaltende depressive Episode, die im Anschluss an eine schizophrene Krankheit auftritt. Einige \"positive\" oder \"negative\" schizophrene Symptome müssen noch vorhanden sein, beherrschen aber das klinische Bild nicht mehr. Diese depressiven Zustände sind mit einem erhöhten Suizidrisiko verbunden.\n\t\t\t\tWenn der Patient keine schizophrenen Symptome mehr aufweist, sollte eine depressive Episode diagnostiziert werden (F32.-). Wenn floride schizophrene Symptome noch im Vordergrund stehen, sollte die entsprechende schizophrene Unterform (F20.0-F20.3) diagnostiziert werden."
+          },
+          "children": []
+        },
+        {
+          "code": "F20.5",
+          "kind": "category",
+          "label": "Schizophrenes Residuum",
+          "rubrics": {
+            "preferred": "Schizophrenes Residuum",
+            "definition": "Ein chronisches Stadium in der Entwicklung einer schizophrenen Krankheit, bei welchem eine eindeutige Verschlechterung von einem frühen zu einem späteren Stadium vorliegt und das durch langandauernde, jedoch nicht unbedingt irreversible \"negative\" Symptome charakterisiert ist. Hierzu gehören psychomotorische Verlangsamung, verminderte Aktivität, Affektverflachung, Passivität und Initiativemangel, qualitative und quantitative Sprachverarmung, geringe nonverbale Kommunikation durch Gesichtsausdruck, Blickkontakt, Modulation der Stimme und Körperhaltung, Vernachlässigung der Körperpflege und nachlassende soziale Leistungsfähigkeit.",
+            "inclusion": "Schizophrener Residualzustand"
+          },
+          "children": []
+        },
+        {
+          "code": "F20.6",
+          "kind": "category",
+          "label": "Schizophrenia simplex",
+          "rubrics": {
+            "preferred": "Schizophrenia simplex",
+            "definition": "Eine Störung mit schleichender Progredienz von merkwürdigem Verhalten, mit einer Einschränkung, gesellschaftliche Anforderungen zu erfüllen und mit Verschlechterung der allgemeinen Leistungsfähigkeit. Die charakteristische Negativsymptomatik des schizophrenen Residuums (Affektverflachung und Antriebsminderung) entwickelt sich ohne vorhergehende produktive psychotische Symptome."
+          },
+          "children": []
+        },
+        {
+          "code": "F20.8",
+          "kind": "category",
+          "label": "Sonstige Schizophrenie",
+          "rubrics": {
+            "preferred": "Sonstige Schizophrenie",
+            "inclusion": "Zönästhetische (zönästhopathische) Schizophrenie",
+            "exclusion": "Kurze schizophreniforme StörungenF23.2"
+          },
+          "children": []
+        },
+        {
+          "code": "F20.9",
+          "kind": "category",
+          "label": "Schizophrenie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Schizophrenie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F21",
+      "kind": "category",
+      "label": "Schizotype Störung",
+      "rubrics": {
+        "preferred": "Schizotype Störung",
+        "definition": "Eine Störung mit exzentrischem Verhalten und Anomalien des Denkens und der Stimmung, die schizophren wirken, obwohl nie eindeutige und charakteristische schizophrene Symptome aufgetreten sind. Es kommen vor: ein kalter Affekt, Anhedonie und seltsames und exzentrisches Verhalten, Tendenz zu sozialem Rückzug, paranoische oder bizarre Ideen, die aber nicht bis zu eigentlichen Wahnvorstellungen gehen, zwanghaftes Grübeln, Denk- und Wahrnehmungsstörungen, gelegentlich vorübergehende, quasipsychotische Episoden mit intensiven Illusionen, akustischen oder anderen Halluzinationen und wahnähnlichen Ideen, meist ohne äußere Veranlassung. Es lässt sich kein klarer Beginn feststellen; Entwicklung und Verlauf entsprechen gewöhnlich einer Persönlichkeitsstörung.",
+        "inclusion": "Schizotype Persönlichkeitsstörung",
+        "exclusion": "Schizoide PersönlichkeitsstörungF60.1"
+      },
+      "children": []
+    },
+    {
+      "code": "F22",
+      "kind": "category",
+      "label": "Anhaltende wahnhafte Störungen",
+      "rubrics": {
+        "preferred": "Anhaltende wahnhafte Störungen",
+        "definition": "Diese Gruppe enthält eine Reihe von Störungen, bei denen ein langandauernder Wahn das einzige oder das am meisten ins Auge fallende klinische Charakteristikum darstellt, und die nicht als organisch, schizophren oder affektiv klassifiziert werden können. Wahnhafte Störungen, die nur wenige Monate angedauert haben, sollten wenigstens vorläufig unter F23.- kodiert werden."
+      },
+      "children": [
+        {
+          "code": "F22.0",
+          "kind": "category",
+          "label": "Wahnhafte Störung",
+          "rubrics": {
+            "preferred": "Wahnhafte Störung",
+            "definition": "Eine Störung charakterisiert durch die Entwicklung eines einzelnen Wahns oder mehrerer aufeinander bezogener Wahninhalte, die im Allgemeinen lange, manchmal lebenslang, andauern. Der Inhalt des Wahns oder des Wahnsystems ist sehr unterschiedlich. Eindeutige und anhaltende akustische Halluzinationen (Stimmen), schizophrene Symptome wie Kontrollwahn oder Affektverflachung und eine eindeutige Gehirnerkrankung sind nicht mit der Diagnose vereinbar. Gelegentliche oder vorübergehende akustische Halluzinationen schließen besonders bei älteren Patienten die Diagnose jedoch nicht aus, solange diese Symptome nicht typisch schizophren erscheinen und nur einen kleinen Teil des klinischen Bildes ausmachen.",
+            "inclusion": "Späte Paraphrenie",
+            "exclusion": "Paranoid:\n\t\t\t\tSchizophrenieF20.0"
+          },
+          "children": []
+        },
+        {
+          "code": "F22.8",
+          "kind": "category",
+          "label": "Sonstige anhaltende wahnhafte Störungen",
+          "rubrics": {
+            "preferred": "Sonstige anhaltende wahnhafte Störungen",
+            "definition": "Hierbei handelt es sich um Störungen, bei denen ein Wahn oder Wahnsysteme von anhaltenden Stimmen oder von schizophrenen Symptomen begleitet werden, die aber nicht die Diagnose Schizophrenie (F20.-) erfüllen.",
+            "inclusion": "Wahnhafte Dysmorphophobie"
+          },
+          "children": []
+        },
+        {
+          "code": "F22.9",
+          "kind": "category",
+          "label": "Anhaltende wahnhafte Störung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Anhaltende wahnhafte Störung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F23",
+      "kind": "category",
+      "label": "Akute vorübergehende psychotische Störungen",
+      "rubrics": {
+        "preferred": "Akute vorübergehende psychotische Störungen",
+        "definition": "Eine heterogene Gruppe von Störungen, die durch den akuten Beginn der psychotischen Symptome, wie Wahnvorstellungen, Halluzinationen und andere Wahrnehmungsstörungen, und durch eine schwere Störung des normalen Verhaltens charakterisiert sind. Der akute Beginn wird als Crescendo-Entwicklung eines eindeutig abnormen klinischen Bildes innerhalb von 2 Wochen oder weniger definiert. Bei diesen Störungen gibt es keine Hinweise für eine organische Verursachung. Ratlosigkeit und Verwirrtheit kommen häufig vor, die zeitliche, örtliche und personale Desorientiertheit ist jedoch nicht andauernd oder schwer genug, um die Kriterien für ein organisch verursachtes Delir (F05.-) zu erfüllen. Eine vollständige Besserung erfolgt in der Regel innerhalb weniger Monate, oft bereits nach wenigen Wochen oder nur Tagen. Wenn die Störung weiter besteht, wird eine Änderung der Kodierung notwendig. Die Störung kann im Zusammenhang mit einer akuten Belastung stehen, definiert als belastendes Ereignis ein oder zwei Wochen vor Beginn der Störung."
+      },
+      "children": [
+        {
+          "code": "F23.0",
+          "kind": "category",
+          "label": "Akute polymorphe psychotische Störung ohne Symptome einer Schizophrenie",
+          "rubrics": {
+            "preferred": "Akute polymorphe psychotische Störung ohne Symptome einer Schizophrenie",
+            "definition": "Eine akute psychotische Störung, bei der Halluzinationen, Wahnphänomene und Wahrnehmungsstörungen vorhanden, aber sehr unterschiedlich ausgeprägt sind und von Tag zu Tag oder sogar von Stunde zu Stunde zu wechseln. Häufig findet sich auch emotionales Aufgewühltsein mit intensiven vorübergehenden Glücksgefühlen und Ekstase oder Angst und Reizbarkeit. Die Vielgestaltigkeit und Unbeständigkeit sind für das gesamte klinische Bild charakteristisch; die psychotischen Merkmale erfüllen nicht die Kriterien für Schizophrenie (F20.-). Diese Störungen beginnen abrupt, entwickeln sich rasch innerhalb weniger Tage und zeigen häufig eine schnelle und anhaltende Rückbildung der Symptome ohne Rückfall. Wenn die Symptome andauern, sollte die Diagnose in anhaltende wahnhafte Störung (F22.-) geändert werden.",
+            "inclusion": "Zykloide Psychose ohne Symptome einer Schizophrenie oder nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "F23.1",
+          "kind": "category",
+          "label": "Akute polymorphe psychotische Störung mit Symptomen einer Schizophrenie",
+          "rubrics": {
+            "preferred": "Akute polymorphe psychotische Störung mit Symptomen einer Schizophrenie",
+            "definition": "Eine akute psychotische Störung mit vielgestaltigem und unbeständigem klinischem Bild, wie unter F23.0 beschrieben; trotz dieser Unbeständigkeit aber sind in der überwiegenden Zeit auch einige für die Schizophrenie typische Symptome vorhanden. Wenn die schizophrenen Symptome andauern, ist die Diagnose in Schizophrenie (F20.-) zu ändern.",
+            "inclusion": "Zykloide Psychose mit Symptomen einer Schizophrenie"
+          },
+          "children": []
+        },
+        {
+          "code": "F23.2",
+          "kind": "category",
+          "label": "Akute schizophreniforme psychotische Störung",
+          "rubrics": {
+            "preferred": "Akute schizophreniforme psychotische Störung",
+            "definition": "Eine akute psychotische Störung, bei der die psychotischen Symptome vergleichsweise stabil sind und die Kriterien für Schizophrenie (F20.-) erfüllen, aber weniger als einen Monat bestanden haben. Die polymorphen, unbeständigen Merkmale, die unter F23.0 beschrieben wurden, fehlen. Wenn die schizophrenen Symptome andauern, ist die Diagnose in Schizophrenie (F20.-) zu ändern.",
+            "inclusion": "Schizophrene Reaktion",
+            "exclusion": "Schizophreniforme Störung o.n.A.F20.8"
+          },
+          "children": []
+        },
+        {
+          "code": "F23.3",
+          "kind": "category",
+          "label": "Sonstige akute vorwiegend wahnhafte psychotische Störungen",
+          "rubrics": {
+            "preferred": "Sonstige akute vorwiegend wahnhafte psychotische Störungen",
+            "definition": "Es handelt sich um eine akute psychotische Störung, bei der verhältnismäßig stabile Wahnphänomene oder Halluzinationen die hauptsächlichen klinischen Merkmale darstellen, aber nicht die Kriterien für eine Schizophrenie erfüllen (F20.-). Wenn die Wahnphänomene andauern, ist die Diagnose in anhaltende wahnhafte Störung (F22.-) zu ändern.",
+            "inclusion": "Psychogene paranoide Psychose"
+          },
+          "children": []
+        },
+        {
+          "code": "F23.8",
+          "kind": "category",
+          "label": "Sonstige akute vorübergehende psychotische Störungen",
+          "rubrics": {
+            "preferred": "Sonstige akute vorübergehende psychotische Störungen",
+            "definition": "Hier sollen alle anderen nicht näher bezeichneten akuten psychotischen Störungen, ohne Anhalt für eine organische Ursache, klassifiziert werden und die nicht die Kriterien für F23.0-F23.3 erfüllen."
+          },
+          "children": []
+        },
+        {
+          "code": "F23.9",
+          "kind": "category",
+          "label": "Akute vorübergehende psychotische Störung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Akute vorübergehende psychotische Störung, nicht näher bezeichnet",
+            "inclusion": "Reaktive Psychose"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F24",
+      "kind": "category",
+      "label": "Induzierte wahnhafte Störung",
+      "rubrics": {
+        "preferred": "Induzierte wahnhafte Störung",
+        "definition": "Es handelt sich um eine wahnhafte Störung, die von zwei Personen mit einer engen emotionalen Bindung geteilt wird. Nur eine von beiden leidet unter einer echten psychotischen Störung; die Wahnvorstellungen bei der anderen Person sind induziert und werden bei der Trennung des Paares meist aufgegeben.",
+        "inclusion": "Induziert:\n\t\t\t\tpsychotische Störung"
+      },
+      "children": []
+    },
+    {
+      "code": "F25",
+      "kind": "category",
+      "label": "Schizoaffektive Störungen",
+      "rubrics": {
+        "preferred": "Schizoaffektive Störungen",
+        "definition": "Episodische Störungen, bei denen sowohl affektive als auch schizophrene Symptome auftreten, aber die weder die Kriterien für Schizophrenie noch für eine depressive oder manische Episode erfüllen. Andere Zustandsbilder, bei denen affektive Symptome eine vorher bestehende Schizophrenie überlagern, oder bei denen sie mit anderen anhaltenden Wahnkrankheiten gemeinsam auftreten oder alternieren, sind unter F20-F29 zu kodieren. Parathyme psychotische Symptome bei affektiven Störungen rechtfertigen die Diagnose einer schizoaffektiven Störung nicht."
+      },
+      "children": [
+        {
+          "code": "F25.0",
+          "kind": "category",
+          "label": "Schizoaffektive Störung, gegenwärtig manisch",
+          "rubrics": {
+            "preferred": "Schizoaffektive Störung, gegenwärtig manisch",
+            "definition": "Eine Störung, bei der sowohl schizophrene als auch manische Symptome vorliegen und deshalb weder die Diagnose einer Schizophrenie noch einer manischen Episode gerechtfertigt ist. Diese Kategorie ist sowohl für einzelne Episoden als auch für rezidivierende Störungen zu verwenden, bei denen die Mehrzahl der Episoden schizomanisch ist.",
+            "inclusion": "Schizophreniforme Psychose, manischer Typ"
+          },
+          "children": []
+        },
+        {
+          "code": "F25.1",
+          "kind": "category",
+          "label": "Schizoaffektive Störung, gegenwärtig depressiv",
+          "rubrics": {
+            "preferred": "Schizoaffektive Störung, gegenwärtig depressiv",
+            "definition": "Eine Störung, bei der sowohl schizophrene als auch depressive Symptome vorliegen und deshalb weder die Diagnose einer Schizophrenie noch einer depressiven Episode gerechtfertigt ist. Diese Kategorie ist sowohl für einzelne Episoden als auch für rezidivierende Störungen zu verwenden, bei denen die Mehrzahl der Episoden schizodepressiv ist.",
+            "inclusion": "Schizophreniforme Psychose, depressiver Typ"
+          },
+          "children": []
+        },
+        {
+          "code": "F25.2",
+          "kind": "category",
+          "label": "Gemischte schizoaffektive Störung",
+          "rubrics": {
+            "preferred": "Gemischte schizoaffektive Störung",
+            "inclusion": "Zyklische Schizophrenie"
+          },
+          "children": []
+        },
+        {
+          "code": "F25.8",
+          "kind": "category",
+          "label": "Sonstige schizoaffektive Störungen",
+          "rubrics": {
+            "preferred": "Sonstige schizoaffektive Störungen"
+          },
+          "children": []
+        },
+        {
+          "code": "F25.9",
+          "kind": "category",
+          "label": "Schizoaffektive Störung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Schizoaffektive Störung, nicht näher bezeichnet",
+            "inclusion": "Schizoaffektive Psychose o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F28",
+      "kind": "category",
+      "label": "Sonstige nichtorganische psychotische Störungen",
+      "rubrics": {
+        "preferred": "Sonstige nichtorganische psychotische Störungen",
+        "definition": "Hier sind wahnhafte oder halluzinatorische Störungen zu kodieren, die nicht die Kriterien für Schizophrenie (F20.-), für anhaltende wahnhafte Störungen (F22.-), für akute vorübergehende psychotische Störungen (F23.-), für psychotische Formen der manischen Episode (F30.2) oder für eine schwere depressive Episode (F32.3) erfüllen.",
+        "inclusion": "Chronisch halluzinatorische Psychose"
+      },
+      "children": []
+    },
+    {
+      "code": "F29",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete nichtorganische Psychose",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete nichtorganische Psychose",
+        "inclusion": "Psychose o.n.A.",
+        "exclusion": "Psychische Störung o.n.A.F99"
+      },
+      "children": []
+    }
+  ]
+}

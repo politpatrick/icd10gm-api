@@ -1,0 +1,48 @@
+{
+  "code": "K10.2",
+  "kind": "category",
+  "label": "Entzündliche Zustände der Kiefer",
+  "rubrics": {
+    "preferred": "Entzündliche Zustände der Kiefer",
+    "inclusion": "Sequester des Kieferknochens",
+    "coding-hint": "Soll bei Strahlenwirkung die Strahlung oder bei Medikamentenwirkung die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": [
+    {
+      "code": "K10.20",
+      "kind": "category",
+      "label": "Maxillärer Abszess ohne Angabe einer Ausbreitung nach retromaxillär oder in die Fossa canina",
+      "rubrics": {
+        "preferred": "Maxillärer Abszess ohne Angabe einer Ausbreitung nach retromaxillär oder in die Fossa canina"
+      },
+      "children": []
+    },
+    {
+      "code": "K10.21",
+      "kind": "category",
+      "label": "Maxillärer Abszess mit Angabe einer Ausbreitung nach retromaxillär oder in die Fossa canina",
+      "rubrics": {
+        "preferred": "Maxillärer Abszess mit Angabe einer Ausbreitung nach retromaxillär oder in die Fossa canina"
+      },
+      "children": []
+    },
+    {
+      "code": "K10.28",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete entzündliche Zustände der Kiefer",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete entzündliche Zustände der Kiefer"
+      },
+      "children": []
+    },
+    {
+      "code": "K10.29",
+      "kind": "category",
+      "label": "Entzündlicher Zustand der Kiefer, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Entzündlicher Zustand der Kiefer, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

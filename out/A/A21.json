@@ -1,0 +1,75 @@
+{
+  "code": "A21",
+  "kind": "category",
+  "label": "Tularämie",
+  "rubrics": {
+    "preferred": "Tularämie",
+    "inclusion": "Infektion durch Francisella tularensis"
+  },
+  "children": [
+    {
+      "code": "A21.0",
+      "kind": "category",
+      "label": "Ulzeroglanduläre Tularämie",
+      "rubrics": {
+        "preferred": "Ulzeroglanduläre Tularämie"
+      },
+      "children": []
+    },
+    {
+      "code": "A21.1",
+      "kind": "category",
+      "label": "Okuloglanduläre Tularämie",
+      "rubrics": {
+        "preferred": "Okuloglanduläre Tularämie"
+      },
+      "children": []
+    },
+    {
+      "code": "A21.2",
+      "kind": "category",
+      "label": "Pulmonale Tularämie",
+      "rubrics": {
+        "preferred": "Pulmonale Tularämie"
+      },
+      "children": []
+    },
+    {
+      "code": "A21.3",
+      "kind": "category",
+      "label": "Gastrointestinale Tularämie",
+      "rubrics": {
+        "preferred": "Gastrointestinale Tularämie",
+        "inclusion": "Abdominale Tularämie"
+      },
+      "children": []
+    },
+    {
+      "code": "A21.7",
+      "kind": "category",
+      "label": "Generalisierte Tularämie",
+      "rubrics": {
+        "preferred": "Generalisierte Tularämie"
+      },
+      "children": []
+    },
+    {
+      "code": "A21.8",
+      "kind": "category",
+      "label": "Sonstige Formen der Tularämie",
+      "rubrics": {
+        "preferred": "Sonstige Formen der Tularämie"
+      },
+      "children": []
+    },
+    {
+      "code": "A21.9",
+      "kind": "category",
+      "label": "Tularämie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Tularämie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

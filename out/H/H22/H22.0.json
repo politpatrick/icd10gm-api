@@ -1,0 +1,10 @@
+{
+  "code": "H22.0",
+  "kind": "category",
+  "label": "Iridozyklitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+  "rubrics": {
+    "preferred": "Iridozyklitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+    "inclusion": "Iridozyklitis bei:\n\t\t\t\tZosterB02.3"
+  },
+  "children": []
+}

@@ -1,0 +1,12 @@
+{
+  "code": "R84",
+  "kind": "category",
+  "label": "Abnorme Befunde in Untersuchungsmaterialien aus Atemwegen und Thorax",
+  "rubrics": {
+    "preferred": "Abnorme Befunde in Untersuchungsmaterialien aus Atemwegen und Thorax",
+    "modifierlink": "[4. Stellen siehe am Anfang dieser Gruppe]",
+    "inclusion": "Abnorme Befunde in:\n\t\t\t\tSputum",
+    "exclusion": "Blut im SputumR04.2"
+  },
+  "children": []
+}

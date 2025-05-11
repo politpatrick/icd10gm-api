@@ -1,0 +1,59 @@
+{
+  "code": "M60",
+  "kind": "category",
+  "label": "Myositis",
+  "rubrics": {
+    "preferred": "Myositis",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+  },
+  "children": [
+    {
+      "code": "M60.0",
+      "kind": "category",
+      "label": "Infektiöse Myositis",
+      "rubrics": {
+        "preferred": "Infektiöse Myositis",
+        "inclusion": "Tropische Pyomyositis",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "M60.1",
+      "kind": "category",
+      "label": "Interstitielle Myositis",
+      "rubrics": {
+        "preferred": "Interstitielle Myositis"
+      },
+      "children": []
+    },
+    {
+      "code": "M60.2",
+      "kind": "category",
+      "label": "Fremdkörpergranulom im Weichteilgewebe, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Fremdkörpergranulom im Weichteilgewebe, anderenorts nicht klassifiziert",
+        "exclusion": "Fremdkörpergranulom in der Haut und im UnterhautgewebeL92.3"
+      },
+      "children": []
+    },
+    {
+      "code": "M60.8",
+      "kind": "category",
+      "label": "Sonstige Myositis",
+      "rubrics": {
+        "preferred": "Sonstige Myositis"
+      },
+      "children": []
+    },
+    {
+      "code": "M60.9",
+      "kind": "category",
+      "label": "Myositis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Myositis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

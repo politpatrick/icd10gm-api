@@ -1,0 +1,95 @@
+{
+  "code": "S44",
+  "kind": "category",
+  "label": "Verletzung von Nerven in Höhe der Schulter und des Oberarmes",
+  "rubrics": {
+    "preferred": "Verletzung von Nerven in Höhe der Schulter und des Oberarmes",
+    "exclusion": "Verletzung des Plexus brachialisS14.3"
+  },
+  "children": [
+    {
+      "code": "S44.0",
+      "kind": "category",
+      "label": "Verletzung des N. ulnaris in Höhe des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung des N. ulnaris in Höhe des Oberarmes",
+        "exclusion": "N. ulnaris o.n.A.S54.0"
+      },
+      "children": []
+    },
+    {
+      "code": "S44.1",
+      "kind": "category",
+      "label": "Verletzung des N. medianus in Höhe des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung des N. medianus in Höhe des Oberarmes",
+        "exclusion": "N. medianus o.n.A.S54.1"
+      },
+      "children": []
+    },
+    {
+      "code": "S44.2",
+      "kind": "category",
+      "label": "Verletzung des N. radialis in Höhe des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung des N. radialis in Höhe des Oberarmes",
+        "exclusion": "N. radialis o.n.A.S54.2"
+      },
+      "children": []
+    },
+    {
+      "code": "S44.3",
+      "kind": "category",
+      "label": "Verletzung des N. axillaris",
+      "rubrics": {
+        "preferred": "Verletzung des N. axillaris"
+      },
+      "children": []
+    },
+    {
+      "code": "S44.4",
+      "kind": "category",
+      "label": "Verletzung des N. musculocutaneus",
+      "rubrics": {
+        "preferred": "Verletzung des N. musculocutaneus"
+      },
+      "children": []
+    },
+    {
+      "code": "S44.5",
+      "kind": "category",
+      "label": "Verletzung sensibler Hautnerven in Höhe der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung sensibler Hautnerven in Höhe der Schulter und des Oberarmes"
+      },
+      "children": []
+    },
+    {
+      "code": "S44.7",
+      "kind": "category",
+      "label": "Verletzung mehrerer Nerven in Höhe der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung mehrerer Nerven in Höhe der Schulter und des Oberarmes"
+      },
+      "children": []
+    },
+    {
+      "code": "S44.8",
+      "kind": "category",
+      "label": "Verletzung sonstiger Nerven in Höhe der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung sonstiger Nerven in Höhe der Schulter und des Oberarmes"
+      },
+      "children": []
+    },
+    {
+      "code": "S44.9",
+      "kind": "category",
+      "label": "Verletzung eines nicht näher bezeichneten Nervs in Höhe der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Verletzung eines nicht näher bezeichneten Nervs in Höhe der Schulter und des Oberarmes"
+      },
+      "children": []
+    }
+  ]
+}

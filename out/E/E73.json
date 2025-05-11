@@ -1,0 +1,46 @@
+{
+  "code": "E73",
+  "kind": "category",
+  "label": "Laktoseintoleranz",
+  "rubrics": {
+    "preferred": "Laktoseintoleranz"
+  },
+  "children": [
+    {
+      "code": "E73.0",
+      "kind": "category",
+      "label": "Angeborener Laktasemangel",
+      "rubrics": {
+        "preferred": "Angeborener Laktasemangel"
+      },
+      "children": []
+    },
+    {
+      "code": "E73.1",
+      "kind": "category",
+      "label": "Sekundärer Laktasemangel",
+      "rubrics": {
+        "preferred": "Sekundärer Laktasemangel"
+      },
+      "children": []
+    },
+    {
+      "code": "E73.8",
+      "kind": "category",
+      "label": "Sonstige Laktoseintoleranz",
+      "rubrics": {
+        "preferred": "Sonstige Laktoseintoleranz"
+      },
+      "children": []
+    },
+    {
+      "code": "E73.9",
+      "kind": "category",
+      "label": "Laktoseintoleranz, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Laktoseintoleranz, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

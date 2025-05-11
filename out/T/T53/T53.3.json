@@ -1,0 +1,11 @@
+{
+  "code": "T53.3",
+  "kind": "category",
+  "label": "Tetrachloräthylen",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Tetrachloräthylen",
+    "preferred": "Tetrachloräthylen",
+    "inclusion": "Tetrachloräthen"
+  },
+  "children": []
+}

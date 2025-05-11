@@ -1,0 +1,42 @@
+{
+  "code": "P11.5",
+  "kind": "category",
+  "label": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes",
+  "rubrics": {
+    "preferred": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes",
+    "inclusion": "Wirbelsäulenfraktur durch Geburtsverletzung"
+  },
+  "children": [
+    {
+      "code": "P11.50",
+      "kind": "category",
+      "label": "Mit akuter Querschnittlähmung",
+      "rubrics": {
+        "preferredLong": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes: Mit akuter Querschnittlähmung",
+        "preferred": "Mit akuter Querschnittlähmung"
+      },
+      "children": []
+    },
+    {
+      "code": "P11.51",
+      "kind": "category",
+      "label": "Mit chronischer Querschnittlähmung",
+      "rubrics": {
+        "preferredLong": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes: Mit chronischer Querschnittlähmung",
+        "preferred": "Mit chronischer Querschnittlähmung"
+      },
+      "children": []
+    },
+    {
+      "code": "P11.59",
+      "kind": "category",
+      "label": "Nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes: Nicht näher bezeichnet",
+        "preferred": "Nicht näher bezeichnet",
+        "inclusion": "Geburtsverletzung der Wirbelsäule und des Rückenmarkes ohne Querschnittlähmung"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "I51.6",
+  "kind": "category",
+  "label": "Herz-Kreislauf-Krankheit, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Herz-Kreislauf-Krankheit, nicht näher bezeichnet",
+    "inclusion": "Herzanfall o.n.A.",
+    "exclusion": "Atherosklerotische Herz-Kreislauf-Krankheit, so beschriebenI25.0"
+  },
+  "children": []
+}

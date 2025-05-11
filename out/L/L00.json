@@ -1,0 +1,34 @@
+{
+  "code": "L00",
+  "kind": "category",
+  "label": "Staphylococcal scalded skin syndrome [SSS-Syndrom]",
+  "rubrics": {
+    "preferred": "Staphylococcal scalded skin syndrome [SSS-Syndrom]",
+    "inclusion": "Staphylogenes Lyell-Syndrom",
+    "exclusion": "Toxische epidermale Nekrolyse [Lyell-Syndrom]L51.2-"
+  },
+  "children": [
+    {
+      "code": "L00.0",
+      "kind": "category",
+      "label": "Befall von weniger als 30 % der Körperoberfläche",
+      "rubrics": {
+        "preferredLong": "Staphylococcal scalded skin syndrome [SSS-Syndrom]: Befall von weniger als 30 % der Körperoberfläche",
+        "preferred": "Befall von weniger als 30 % der Körperoberfläche",
+        "inclusion": "Staphylococcal scalded skin syndrome [SSS-Syndrom] o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "L00.1",
+      "kind": "category",
+      "label": "Befall von 30 % der Körperoberfläche und mehr",
+      "rubrics": {
+        "preferredLong": "Staphylococcal scalded skin syndrome [SSS-Syndrom]: Befall von 30 % der Körperoberfläche und mehr",
+        "preferred": "Befall von 30 % der Körperoberfläche und mehr",
+        "inclusion": "Schleimhautbefall"
+      },
+      "children": []
+    }
+  ]
+}

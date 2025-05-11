@@ -1,0 +1,84 @@
+{
+  "code": "S41.8",
+  "kind": "category",
+  "label": "Offene Wunde sonstiger und nicht näher bezeichneter Teile des Schultergürtels",
+  "rubrics": {
+    "preferred": "Offene Wunde sonstiger und nicht näher bezeichneter Teile des Schultergürtels",
+    "note": "Bei den Schlüsselnummern S41.84!-S41.89! erfolgt die Einteilung des Weichteilschadens nach Tscherne und Oestern. Kodiere jeweils zuerst die Fraktur S42.- oder die Luxation S43.-."
+  },
+  "children": [
+    {
+      "code": "S41.80",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete offene Wunde sonstiger und nicht näher bezeichneter Teile des Schultergürtels",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete offene Wunde sonstiger und nicht näher bezeichneter Teile des Schultergürtels",
+        "inclusion": "Schulterblattregion"
+      },
+      "children": []
+    },
+    {
+      "code": "S41.84",
+      "kind": "category",
+      "label": "Weichteilschaden I. Grades bei geschlossener Fraktur oder Luxation des Oberarmes",
+      "rubrics": {
+        "preferred": "Weichteilschaden I. Grades bei geschlossener Fraktur oder Luxation des Oberarmes",
+        "text": "Oberflächliche Schürfung, einfache bis mittelschwere Bruchform",
+        "note": "Geschlossene Frakturen oder Luxationen mit Weichteilschaden 0. Grades (geringer Weichteilschaden, einfache Bruchform) oder nicht näher bezeichneten Grades erhalten keine zusätzliche Schlüsselnummer."
+      },
+      "children": []
+    },
+    {
+      "code": "S41.85",
+      "kind": "category",
+      "label": "Weichteilschaden II. Grades bei geschlossener Fraktur oder Luxation des Oberarmes",
+      "rubrics": {
+        "preferred": "Weichteilschaden II. Grades bei geschlossener Fraktur oder Luxation des Oberarmes",
+        "text": "Tiefe kontaminierte Schürfung, lokalisierte Haut- und Muskelkontusion, alle Bruchformen"
+      },
+      "children": []
+    },
+    {
+      "code": "S41.86",
+      "kind": "category",
+      "label": "Weichteilschaden III. Grades bei geschlossener Fraktur oder Luxation des Oberarmes",
+      "rubrics": {
+        "preferred": "Weichteilschaden III. Grades bei geschlossener Fraktur oder Luxation des Oberarmes",
+        "text": "Ausgedehnte Hautkontusion, Hautquetschung oder Zerstörung der Muskulatur, subkutanes Décollement, dekompensiertes Kompartmentsyndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "S41.87",
+      "kind": "category",
+      "label": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation des Oberarmes",
+      "rubrics": {
+        "preferred": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation des Oberarmes",
+        "text": "Fehlende oder geringe Kontusion, unbedeutende bakterielle Kontamination, einfache bis mittelschwere Bruchformen",
+        "inclusion": "Offene Fraktur oder Luxation nicht näher bezeichneten Grades"
+      },
+      "children": []
+    },
+    {
+      "code": "S41.88",
+      "kind": "category",
+      "label": "Weichteilschaden II. Grades bei offener Fraktur oder Luxation des Oberarmes",
+      "rubrics": {
+        "preferred": "Weichteilschaden II. Grades bei offener Fraktur oder Luxation des Oberarmes",
+        "text": "Umschriebene Haut- und Weichteilkontusion, mittelschwere Kontamination"
+      },
+      "children": []
+    },
+    {
+      "code": "S41.89",
+      "kind": "category",
+      "label": "Weichteilschaden III. Grades bei offener Fraktur oder Luxation des Oberarmes",
+      "rubrics": {
+        "preferred": "Weichteilschaden III. Grades bei offener Fraktur oder Luxation des Oberarmes",
+        "text": "Ausgedehnte Weichteildestruktion, häufig zusätzliche Gefäß- und Nervenverletzungen, starke Wundkontamination",
+        "note": "Offene Frakturen mit Weichteilschaden IV. Grades (subtotale und totale Amputation) werden als Amputation nach deren Lokalisation kodiert."
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "code": "B20-B24",
+  "kind": "block",
+  "label": "HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
+  "rubrics": {
+    "preferred": "HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
+    "note": "Bei den Kategorien B20-B24 sind eine oder mehrere zusätzliche Schlüsselnummern zu benutzen, um alle Manifestationen der HIV-Krankheit anzugeben. Bezüglich der Reihenfolge sind in der stationären Versorgung die Deutschen Kodierrichtlinien zu beachten.",
+    "inclusion": "Symptomatische HIV-Infektion",
+    "exclusion": "Laborhinweis auf HIVR75"
+  },
+  "children": [
+    {
+      "code": "B20",
+      "kind": "category",
+      "label": "Infektiöse und parasitäre Krankheiten infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
+      "rubrics": {
+        "preferred": "Infektiöse und parasitäre Krankheiten infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
+        "exclusion": "Akutes HIV-InfektionssyndromB23.0"
+      },
+      "children": []
+    },
+    {
+      "code": "B21",
+      "kind": "category",
+      "label": "Bösartige Neubildungen infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
+      "rubrics": {
+        "preferred": "Bösartige Neubildungen infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]"
+      },
+      "children": []
+    },
+    {
+      "code": "B22",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
+        "inclusion": "Wasting-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "B23",
+      "kind": "category",
+      "label": "Sonstige Krankheitszustände infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
+      "rubrics": {
+        "preferred": "Sonstige Krankheitszustände infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]"
+      },
+      "children": [
+        {
+          "code": "B23.0",
+          "kind": "category",
+          "label": "Akutes HIV-Infektionssyndrom",
+          "rubrics": {
+            "preferred": "Akutes HIV-Infektionssyndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "B23.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheitszustände infolge HIV-Krankheit",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheitszustände infolge HIV-Krankheit",
+            "inclusion": "(Persistierende) generalisierte Lymphadenopathie"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B24",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
+        "inclusion": "Erworbenes Immundefektsyndrom [AIDS] o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

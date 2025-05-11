@@ -1,0 +1,11 @@
+{
+  "code": "C77.8",
+  "kind": "category",
+  "label": "Lymphknoten mehrerer Regionen",
+  "rubrics": {
+    "preferredLong": "Sekundäre und nicht näher bezeichnete bösartige Neubildung: Lymphknoten mehrerer Regionen",
+    "preferred": "Lymphknoten mehrerer Regionen",
+    "coding-hint": "Sollen die betroffenen Lymphknotenregionen spezifisch angegeben werden, sind sekundäre Schlüsselnummern aus U69.5- zu verwenden."
+  },
+  "children": []
+}

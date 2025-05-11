@@ -1,0 +1,88 @@
+{
+  "code": "I89.0",
+  "kind": "category",
+  "label": "Lymphödem, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Lymphödem, anderenorts nicht klassifiziert",
+    "inclusion": "Lymphangiektasie",
+    "coding-hint": "Ein gleichzeitig vorhandenes Lipödem ist gesondert zu kodieren E88.2-."
+  },
+  "children": [
+    {
+      "code": "I89.00",
+      "kind": "category",
+      "label": "Lymphödem der oberen und unteren Extremität(en), Stadium I",
+      "rubrics": {
+        "preferred": "Lymphödem der oberen und unteren Extremität(en), Stadium I"
+      },
+      "children": []
+    },
+    {
+      "code": "I89.01",
+      "kind": "category",
+      "label": "Lymphödem der oberen und unteren Extremität(en), Stadium II",
+      "rubrics": {
+        "preferred": "Lymphödem der oberen und unteren Extremität(en), Stadium II"
+      },
+      "children": []
+    },
+    {
+      "code": "I89.02",
+      "kind": "category",
+      "label": "Lymphödem der oberen und unteren Extremität(en), Stadium III",
+      "rubrics": {
+        "preferred": "Lymphödem der oberen und unteren Extremität(en), Stadium III"
+      },
+      "children": []
+    },
+    {
+      "code": "I89.03",
+      "kind": "category",
+      "label": "Lymphödem, sonstige Lokalisation, Stadium I",
+      "rubrics": {
+        "preferred": "Lymphödem, sonstige Lokalisation, Stadium I",
+        "inclusion": "Kopf, Hals, Thoraxwand, Genitalbereich"
+      },
+      "children": []
+    },
+    {
+      "code": "I89.04",
+      "kind": "category",
+      "label": "Lymphödem, sonstige Lokalisation, Stadium II",
+      "rubrics": {
+        "preferred": "Lymphödem, sonstige Lokalisation, Stadium II",
+        "inclusion": "Kopf, Hals, Thoraxwand, Genitalbereich"
+      },
+      "children": []
+    },
+    {
+      "code": "I89.05",
+      "kind": "category",
+      "label": "Lymphödem, sonstige Lokalisation, Stadium III",
+      "rubrics": {
+        "preferred": "Lymphödem, sonstige Lokalisation, Stadium III",
+        "inclusion": "Kopf, Hals, Thoraxwand, Genitalbereich"
+      },
+      "children": []
+    },
+    {
+      "code": "I89.08",
+      "kind": "category",
+      "label": "Sonstiges Lymphödem, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstiges Lymphödem, anderenorts nicht klassifiziert",
+        "inclusion": "Latenzstadium des Lymphödems"
+      },
+      "children": []
+    },
+    {
+      "code": "I89.09",
+      "kind": "category",
+      "label": "Lymphödem, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Lymphödem, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

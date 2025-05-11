@@ -1,0 +1,12 @@
+{
+  "code": "T46.7",
+  "kind": "category",
+  "label": "Periphere Vasodilatatoren",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Periphere Vasodilatatoren",
+    "preferred": "Periphere Vasodilatatoren",
+    "inclusion": "Nikotinsäure (-Derivate)",
+    "exclusion": "PapaverinT44.3"
+  },
+  "children": []
+}

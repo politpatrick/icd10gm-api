@@ -1,0 +1,95 @@
+{
+  "code": "Z22",
+  "kind": "category",
+  "label": "Keimträger von Infektionskrankheiten",
+  "rubrics": {
+    "preferred": "Keimträger von Infektionskrankheiten",
+    "inclusion": "Verdachtsfälle"
+  },
+  "children": [
+    {
+      "code": "Z22.0",
+      "kind": "category",
+      "label": "Keimträger von Typhus abdominalis",
+      "rubrics": {
+        "preferred": "Keimträger von Typhus abdominalis"
+      },
+      "children": []
+    },
+    {
+      "code": "Z22.1",
+      "kind": "category",
+      "label": "Keimträger anderer infektiöser Darmkrankheiten",
+      "rubrics": {
+        "preferred": "Keimträger anderer infektiöser Darmkrankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "Z22.2",
+      "kind": "category",
+      "label": "Keimträger der Diphtherie",
+      "rubrics": {
+        "preferred": "Keimträger der Diphtherie"
+      },
+      "children": []
+    },
+    {
+      "code": "Z22.3",
+      "kind": "category",
+      "label": "Keimträger anderer näher bezeichneter bakterieller Krankheiten",
+      "rubrics": {
+        "preferred": "Keimträger anderer näher bezeichneter bakterieller Krankheiten",
+        "inclusion": "Keimträger bakterieller Krankheit durch:\n\t\t\t\tStreptokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "Z22.4",
+      "kind": "category",
+      "label": "Keimträger von Infektionskrankheiten, die vorwiegend durch Geschlechtsverkehr übertragen werden",
+      "rubrics": {
+        "preferred": "Keimträger von Infektionskrankheiten, die vorwiegend durch Geschlechtsverkehr übertragen werden",
+        "inclusion": "Keimträger von:\n\t\t\t\tSyphilis"
+      },
+      "children": []
+    },
+    {
+      "code": "Z22.6",
+      "kind": "category",
+      "label": "Keimträger von humaner T-Zell-lymphotroper Viruskrankheit, Typ I [HTLV-1]",
+      "rubrics": {
+        "preferred": "Keimträger von humaner T-Zell-lymphotroper Viruskrankheit, Typ I [HTLV-1]"
+      },
+      "children": []
+    },
+    {
+      "code": "Z22.7",
+      "kind": "category",
+      "label": "Latente Tuberkulose",
+      "rubrics": {
+        "preferred": "Latente Tuberkulose",
+        "exclusion": "Abnormes Ergebnis der Mendel-Mantoux-TuberkulinprobeR76.1"
+      },
+      "children": []
+    },
+    {
+      "code": "Z22.8",
+      "kind": "category",
+      "label": "Keimträger sonstiger Infektionskrankheiten",
+      "rubrics": {
+        "preferred": "Keimträger sonstiger Infektionskrankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "Z22.9",
+      "kind": "category",
+      "label": "Keimträger von Infektionskrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Keimträger von Infektionskrankheit, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

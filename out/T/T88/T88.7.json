@@ -1,0 +1,11 @@
+{
+  "code": "T88.7",
+  "kind": "category",
+  "label": "Nicht näher bezeichnete unerwünschte Nebenwirkung eines Arzneimittels oder einer Droge",
+  "rubrics": {
+    "preferred": "Nicht näher bezeichnete unerwünschte Nebenwirkung eines Arzneimittels oder einer Droge",
+    "inclusion": "Arzneimittel-:\n\t\t\t\tÜberempfindlichkeit o.n.A.",
+    "exclusion": "Näher bezeichnete unerwünschte Nebenwirkungen von Arzneimitteln und DrogenA00-R99T80-T88.6T88.8"
+  },
+  "children": []
+}

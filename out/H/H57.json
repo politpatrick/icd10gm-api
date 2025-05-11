@@ -1,0 +1,46 @@
+{
+  "code": "H57",
+  "kind": "category",
+  "label": "Sonstige Affektionen des Auges und der Augenanhangsgebilde",
+  "rubrics": {
+    "preferred": "Sonstige Affektionen des Auges und der Augenanhangsgebilde"
+  },
+  "children": [
+    {
+      "code": "H57.0",
+      "kind": "category",
+      "label": "Pupillenfunktionsstörungen",
+      "rubrics": {
+        "preferred": "Pupillenfunktionsstörungen"
+      },
+      "children": []
+    },
+    {
+      "code": "H57.1",
+      "kind": "category",
+      "label": "Augenschmerzen",
+      "rubrics": {
+        "preferred": "Augenschmerzen"
+      },
+      "children": []
+    },
+    {
+      "code": "H57.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Affektionen des Auges und der Augenanhangsgebilde",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Affektionen des Auges und der Augenanhangsgebilde"
+      },
+      "children": []
+    },
+    {
+      "code": "H57.9",
+      "kind": "category",
+      "label": "Affektion des Auges und der Augenanhangsgebilde, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Affektion des Auges und der Augenanhangsgebilde, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

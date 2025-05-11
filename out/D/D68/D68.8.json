@@ -1,0 +1,10 @@
+{
+  "code": "D68.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Koagulopathien",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Koagulopathien",
+    "coding-hint": "Benutze für Zwecke der Abrechnung der Zusatzentgelte entsprechend Anlage 7 zur FPV eine zusätzliche Schlüsselnummer, um das Vorliegen einer \"dauerhaft erworbenen\" (U69.11!) oder \"temporären\" (U69.12!) Blutgerinnungsstörung anzuzeigen."
+  },
+  "children": []
+}

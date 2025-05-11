@@ -1,0 +1,10 @@
+{
+  "code": "Z01.0",
+  "kind": "category",
+  "label": "Visusprüfung und Untersuchung der Augen",
+  "rubrics": {
+    "preferred": "Visusprüfung und Untersuchung der Augen",
+    "exclusion": "Untersuchung zur Erlangung des FührerscheinesZ02"
+  },
+  "children": []
+}

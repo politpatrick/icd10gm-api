@@ -1,0 +1,10 @@
+{
+  "code": "R99",
+  "kind": "category",
+  "label": "Sonstige ungenau oder nicht näher bezeichnete Todesursachen",
+  "rubrics": {
+    "preferred": "Sonstige ungenau oder nicht näher bezeichnete Todesursachen",
+    "inclusion": "Unbekannte Todesursache"
+  },
+  "children": []
+}

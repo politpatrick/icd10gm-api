@@ -1,0 +1,10 @@
+{
+  "code": "O75.3",
+  "kind": "category",
+  "label": "Sonstige Infektion unter der Geburt",
+  "rubrics": {
+    "preferred": "Sonstige Infektion unter der Geburt",
+    "inclusion": "Sepsis unter der Geburt"
+  },
+  "children": []
+}

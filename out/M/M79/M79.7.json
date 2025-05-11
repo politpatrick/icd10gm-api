@@ -1,0 +1,10 @@
+{
+  "code": "M79.7",
+  "kind": "category",
+  "label": "Fibromyalgie",
+  "rubrics": {
+    "preferred": "Fibromyalgie",
+    "inclusion": "Myofibrositis"
+  },
+  "children": []
+}

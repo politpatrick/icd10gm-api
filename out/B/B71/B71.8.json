@@ -1,0 +1,10 @@
+{
+  "code": "B71.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Zestodeninfektionen",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Zestodeninfektionen",
+    "inclusion": "Coenurosis"
+  },
+  "children": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "E20",
+  "kind": "category",
+  "label": "Hypoparathyreoidismus",
+  "rubrics": {
+    "preferred": "Hypoparathyreoidismus",
+    "exclusion": "Transitorischer Hypoparathyreoidismus beim NeugeborenenP71.4"
+  },
+  "children": [
+    {
+      "code": "E20.0",
+      "kind": "category",
+      "label": "Idiopathischer Hypoparathyreoidismus",
+      "rubrics": {
+        "preferred": "Idiopathischer Hypoparathyreoidismus"
+      },
+      "children": []
+    },
+    {
+      "code": "E20.1",
+      "kind": "category",
+      "label": "Pseudohypoparathyreoidismus",
+      "rubrics": {
+        "preferred": "Pseudohypoparathyreoidismus"
+      },
+      "children": []
+    },
+    {
+      "code": "E20.8",
+      "kind": "category",
+      "label": "Sonstiger Hypoparathyreoidismus",
+      "rubrics": {
+        "preferred": "Sonstiger Hypoparathyreoidismus"
+      },
+      "children": []
+    },
+    {
+      "code": "E20.9",
+      "kind": "category",
+      "label": "Hypoparathyreoidismus, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hypoparathyreoidismus, nicht näher bezeichnet",
+        "inclusion": "Parathyreogene Tetanie"
+      },
+      "children": []
+    }
+  ]
+}

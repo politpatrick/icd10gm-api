@@ -1,0 +1,10 @@
+{
+  "code": "I62.02",
+  "kind": "category",
+  "label": "Chronisch",
+  "rubrics": {
+    "preferredLong": "Nichttraumatische subdurale Blutung: Chronisch",
+    "preferred": "Chronisch"
+  },
+  "children": []
+}

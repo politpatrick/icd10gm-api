@@ -1,0 +1,651 @@
+{
+  "code": "R50-R69",
+  "kind": "block",
+  "label": "Allgemeinsymptome",
+  "rubrics": {
+    "preferred": "Allgemeinsymptome"
+  },
+  "children": [
+    {
+      "code": "R50",
+      "kind": "category",
+      "label": "Fieber sonstiger und unbekannter Ursache",
+      "rubrics": {
+        "preferred": "Fieber sonstiger und unbekannter Ursache",
+        "exclusion": "Fieber o.n.A. im WochenbettO86.4"
+      },
+      "children": [
+        {
+          "code": "R50.2",
+          "kind": "category",
+          "label": "Medikamenten-induziertes Fieber [Drug fever]",
+          "rubrics": {
+            "preferred": "Medikamenten-induziertes Fieber [Drug fever]",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "R50.8",
+          "kind": "category",
+          "label": "Sonstiges näher bezeichnetes Fieber",
+          "rubrics": {
+            "preferred": "Sonstiges näher bezeichnetes Fieber"
+          },
+          "children": [
+            {
+              "code": "R50.80",
+              "kind": "category",
+              "label": "Fieber unbekannter Ursache",
+              "rubrics": {
+                "preferred": "Fieber unbekannter Ursache"
+              },
+              "children": []
+            },
+            {
+              "code": "R50.88",
+              "kind": "category",
+              "label": "Sonstiges näher bezeichnetes Fieber",
+              "rubrics": {
+                "preferred": "Sonstiges näher bezeichnetes Fieber",
+                "inclusion": "Fieber mit Schüttelfrost"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "R50.9",
+          "kind": "category",
+          "label": "Fieber, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Fieber, nicht näher bezeichnet",
+            "inclusion": "Pyrexie o.n.A.",
+            "exclusion": "Maligne Hyperthermie durch AnästhesieT88.3"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R51",
+      "kind": "category",
+      "label": "Kopfschmerz",
+      "rubrics": {
+        "preferred": "Kopfschmerz",
+        "inclusion": "Gesichtsschmerz o.n.A.",
+        "exclusion": "TrigeminusneuralgieG50.0"
+      },
+      "children": []
+    },
+    {
+      "code": "R52",
+      "kind": "category",
+      "label": "Schmerz, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Schmerz, anderenorts nicht klassifiziert",
+        "inclusion": "Schmerz, der keinem bestimmten Organ oder keiner bestimmten Körperregion zugeordnet werden kann",
+        "exclusion": "Schmerzen:\n\t\t\t\tZungeK14.6"
+      },
+      "children": [
+        {
+          "code": "R52.0",
+          "kind": "category",
+          "label": "Akuter Schmerz",
+          "rubrics": {
+            "preferred": "Akuter Schmerz"
+          },
+          "children": []
+        },
+        {
+          "code": "R52.1",
+          "kind": "category",
+          "label": "Chronischer unbeeinflussbarer Schmerz",
+          "rubrics": {
+            "preferred": "Chronischer unbeeinflussbarer Schmerz"
+          },
+          "children": []
+        },
+        {
+          "code": "R52.2",
+          "kind": "category",
+          "label": "Sonstiger chronischer Schmerz",
+          "rubrics": {
+            "preferred": "Sonstiger chronischer Schmerz"
+          },
+          "children": []
+        },
+        {
+          "code": "R52.9",
+          "kind": "category",
+          "label": "Schmerz, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Schmerz, nicht näher bezeichnet",
+            "inclusion": "Diffuser Schmerz o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R53",
+      "kind": "category",
+      "label": "Unwohlsein und Ermüdung",
+      "rubrics": {
+        "preferred": "Unwohlsein und Ermüdung",
+        "inclusion": "Schwäche:\n\t\t\t\to.n.A.",
+        "exclusion": "Chronisches Fatigue-Syndrom G93.3"
+      },
+      "children": []
+    },
+    {
+      "code": "R54",
+      "kind": "category",
+      "label": "Senilität",
+      "rubrics": {
+        "preferred": "Senilität",
+        "inclusion": "Seneszenz\n\t\t\t\tohne Angabe einer Psychose",
+        "exclusion": "Senile PsychoseF03"
+      },
+      "children": []
+    },
+    {
+      "code": "R55",
+      "kind": "category",
+      "label": "Synkope und Kollaps",
+      "rubrics": {
+        "preferred": "Synkope und Kollaps",
+        "inclusion": "Ohnmacht",
+        "exclusion": "Synkope (durch):\n\t\t\t\tpsychogenF48.8"
+      },
+      "children": []
+    },
+    {
+      "code": "R56",
+      "kind": "category",
+      "label": "Krämpfe, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Krämpfe, anderenorts nicht klassifiziert",
+        "exclusion": "Krämpfe und Anfälle:\n\t\t\t\tEpilepsieG40-G41"
+      },
+      "children": [
+        {
+          "code": "R56.0",
+          "kind": "category",
+          "label": "Fieberkrämpfe",
+          "rubrics": {
+            "preferred": "Fieberkrämpfe"
+          },
+          "children": []
+        },
+        {
+          "code": "R56.8",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete Krämpfe",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete Krämpfe",
+            "inclusion": "Krampfanfall o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R57",
+      "kind": "category",
+      "label": "Schock, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Schock, anderenorts nicht klassifiziert",
+        "exclusion": "Syndrom des toxischen Schocks A48.3"
+      },
+      "children": [
+        {
+          "code": "R57.0",
+          "kind": "category",
+          "label": "Kardiogener Schock",
+          "rubrics": {
+            "preferred": "Kardiogener Schock"
+          },
+          "children": []
+        },
+        {
+          "code": "R57.1",
+          "kind": "category",
+          "label": "Hypovolämischer Schock",
+          "rubrics": {
+            "preferred": "Hypovolämischer Schock"
+          },
+          "children": []
+        },
+        {
+          "code": "R57.2",
+          "kind": "category",
+          "label": "Septischer Schock",
+          "rubrics": {
+            "preferred": "Septischer Schock",
+            "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.83!-U69.85, um den zeitlichen Bezug des septischen Schocks zur stationären Krankenhausaufnahme anzugeben."
+          },
+          "children": []
+        },
+        {
+          "code": "R57.8",
+          "kind": "category",
+          "label": "Sonstige Formen des Schocks",
+          "rubrics": {
+            "preferred": "Sonstige Formen des Schocks",
+            "inclusion": "Endotoxinschock"
+          },
+          "children": []
+        },
+        {
+          "code": "R57.9",
+          "kind": "category",
+          "label": "Schock, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Schock, nicht näher bezeichnet",
+            "inclusion": "Peripheres Kreislaufversagen o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R58",
+      "kind": "category",
+      "label": "Blutung, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Blutung, anderenorts nicht klassifiziert",
+        "inclusion": "Blutung o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "R59",
+      "kind": "category",
+      "label": "Lymphknotenvergrößerung",
+      "rubrics": {
+        "preferred": "Lymphknotenvergrößerung",
+        "inclusion": "Drüsenschwellung",
+        "exclusion": "Lymphadenitis:\n\t\t\t\to.n.A.I88.9"
+      },
+      "children": [
+        {
+          "code": "R59.0",
+          "kind": "category",
+          "label": "Lymphknotenvergrößerung, umschrieben",
+          "rubrics": {
+            "preferred": "Lymphknotenvergrößerung, umschrieben"
+          },
+          "children": []
+        },
+        {
+          "code": "R59.1",
+          "kind": "category",
+          "label": "Lymphknotenvergrößerung, generalisiert",
+          "rubrics": {
+            "preferred": "Lymphknotenvergrößerung, generalisiert",
+            "inclusion": "Lymphadenopathie o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "R59.9",
+          "kind": "category",
+          "label": "Lymphknotenvergrößerung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Lymphknotenvergrößerung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R60",
+      "kind": "category",
+      "label": "Ödem, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Ödem, anderenorts nicht klassifiziert",
+        "exclusion": "Ödem:\n\t\t\t\tSchwangerschafts-O12.0"
+      },
+      "children": [
+        {
+          "code": "R60.0",
+          "kind": "category",
+          "label": "Umschriebenes Ödem",
+          "rubrics": {
+            "preferred": "Umschriebenes Ödem"
+          },
+          "children": []
+        },
+        {
+          "code": "R60.1",
+          "kind": "category",
+          "label": "Generalisiertes Ödem",
+          "rubrics": {
+            "preferred": "Generalisiertes Ödem"
+          },
+          "children": []
+        },
+        {
+          "code": "R60.9",
+          "kind": "category",
+          "label": "Ödem, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Ödem, nicht näher bezeichnet",
+            "inclusion": "Flüssigkeitsretention o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R61",
+      "kind": "category",
+      "label": "Hyperhidrose",
+      "rubrics": {
+        "preferred": "Hyperhidrose"
+      },
+      "children": [
+        {
+          "code": "R61.0",
+          "kind": "category",
+          "label": "Hyperhidrose, umschrieben",
+          "rubrics": {
+            "preferred": "Hyperhidrose, umschrieben"
+          },
+          "children": []
+        },
+        {
+          "code": "R61.1",
+          "kind": "category",
+          "label": "Hyperhidrose, generalisiert",
+          "rubrics": {
+            "preferred": "Hyperhidrose, generalisiert"
+          },
+          "children": []
+        },
+        {
+          "code": "R61.9",
+          "kind": "category",
+          "label": "Hyperhidrose, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Hyperhidrose, nicht näher bezeichnet",
+            "inclusion": "Übermäßiges Schwitzen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R62",
+      "kind": "category",
+      "label": "Ausbleiben der erwarteten normalen physiologischen Entwicklung",
+      "rubrics": {
+        "preferred": "Ausbleiben der erwarteten normalen physiologischen Entwicklung",
+        "exclusion": "Verzögerte PubertätE30.0"
+      },
+      "children": [
+        {
+          "code": "R62.0",
+          "kind": "category",
+          "label": "Verzögertes Erreichen von Entwicklungsstufen",
+          "rubrics": {
+            "preferred": "Verzögertes Erreichen von Entwicklungsstufen",
+            "inclusion": "Verzögertes Eintreten einer erwarteten physiologischen Entwicklungsstufe"
+          },
+          "children": []
+        },
+        {
+          "code": "R62.8",
+          "kind": "category",
+          "label": "Sonstiges Ausbleiben der erwarteten physiologischen Entwicklung",
+          "rubrics": {
+            "preferred": "Sonstiges Ausbleiben der erwarteten physiologischen Entwicklung",
+            "inclusion": "Mangelnde Gewichtszunahme",
+            "exclusion": "Körperliche Retardation durch MangelernährungE45"
+          },
+          "children": []
+        },
+        {
+          "code": "R62.9",
+          "kind": "category",
+          "label": "Ausbleiben der erwarteten physiologischen Entwicklung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Ausbleiben der erwarteten physiologischen Entwicklung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R63",
+      "kind": "category",
+      "label": "Symptome, die die Nahrungs- und Flüssigkeitsaufnahme betreffen",
+      "rubrics": {
+        "preferred": "Symptome, die die Nahrungs- und Flüssigkeitsaufnahme betreffen",
+        "exclusion": "Mangelernährung E40-E46"
+      },
+      "children": [
+        {
+          "code": "R63.0",
+          "kind": "category",
+          "label": "Anorexie",
+          "rubrics": {
+            "preferred": "Anorexie",
+            "inclusion": "Appetitverlust",
+            "exclusion": "Appetitverlust nichtorganischen UrsprungsF50.8"
+          },
+          "children": []
+        },
+        {
+          "code": "R63.1",
+          "kind": "category",
+          "label": "Polydipsie",
+          "rubrics": {
+            "preferred": "Polydipsie",
+            "inclusion": "Übermäßiger Durst"
+          },
+          "children": []
+        },
+        {
+          "code": "R63.2",
+          "kind": "category",
+          "label": "Polyphagie",
+          "rubrics": {
+            "preferred": "Polyphagie",
+            "inclusion": "Übermäßige Nahrungsaufnahme"
+          },
+          "children": []
+        },
+        {
+          "code": "R63.3",
+          "kind": "category",
+          "label": "Ernährungsprobleme und unsachgemäße Ernährung",
+          "rubrics": {
+            "preferred": "Ernährungsprobleme und unsachgemäße Ernährung",
+            "inclusion": "Ernährungsproblem o.n.A.",
+            "exclusion": "Fütterstörung nichtorganischen Ursprungs beim KleinkindF98.2"
+          },
+          "children": []
+        },
+        {
+          "code": "R63.4",
+          "kind": "category",
+          "label": "Abnorme Gewichtsabnahme",
+          "rubrics": {
+            "preferred": "Abnorme Gewichtsabnahme"
+          },
+          "children": []
+        },
+        {
+          "code": "R63.5",
+          "kind": "category",
+          "label": "Abnorme Gewichtszunahme",
+          "rubrics": {
+            "preferred": "Abnorme Gewichtszunahme",
+            "exclusion": "Übermäßige Gewichtszunahme in der SchwangerschaftO26.0"
+          },
+          "children": []
+        },
+        {
+          "code": "R63.6",
+          "kind": "category",
+          "label": "Ungenügende Aufnahme von Nahrung und Flüssigkeit",
+          "rubrics": {
+            "preferred": "Ungenügende Aufnahme von Nahrung und Flüssigkeit",
+            "inclusion": "Ungenügende Aufnahme von Nahrung und Flüssigkeit infolge Vernachlässigung der eigenen Person",
+            "exclusion": "Vernachlässigung der eigenen Person o.n.A.R46.8"
+          },
+          "children": []
+        },
+        {
+          "code": "R63.8",
+          "kind": "category",
+          "label": "Sonstige Symptome, die die Nahrungs- und Flüssigkeitsaufnahme betreffen",
+          "rubrics": {
+            "preferred": "Sonstige Symptome, die die Nahrungs- und Flüssigkeitsaufnahme betreffen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R64",
+      "kind": "category",
+      "label": "Kachexie",
+      "rubrics": {
+        "preferred": "Kachexie",
+        "exclusion": "Alimentärer Marasmus E41"
+      },
+      "children": []
+    },
+    {
+      "code": "R65",
+      "kind": "category",
+      "label": "Systemisches inflammatorisches Response-Syndrom [SIRS]",
+      "rubrics": {
+        "preferred": "Systemisches inflammatorisches Response-Syndrom [SIRS]",
+        "note": "Kodiere zunächst die ein SIRS auslösende Grundkrankheit.",
+        "coding-hint": "Soll das Vorliegen von Organkomplikationen angegeben werden, sind zusätzliche Schlüsselnummern zu benutzen."
+      },
+      "children": [
+        {
+          "code": "R65.0",
+          "kind": "category",
+          "label": "Systemisches inflammatorisches Response-Syndrom [SIRS] infektiöser Genese ohne Organkomplikationen",
+          "rubrics": {
+            "preferred": "Systemisches inflammatorisches Response-Syndrom [SIRS] infektiöser Genese ohne Organkomplikationen"
+          },
+          "children": []
+        },
+        {
+          "code": "R65.1",
+          "kind": "category",
+          "label": "Systemisches inflammatorisches Response-Syndrom [SIRS] infektiöser Genese mit Organkomplikationen",
+          "rubrics": {
+            "preferred": "Systemisches inflammatorisches Response-Syndrom [SIRS] infektiöser Genese mit Organkomplikationen"
+          },
+          "children": []
+        },
+        {
+          "code": "R65.2",
+          "kind": "category",
+          "label": "Systemisches inflammatorisches Response-Syndrom [SIRS] nichtinfektiöser Genese ohne Organkomplikationen",
+          "rubrics": {
+            "preferred": "Systemisches inflammatorisches Response-Syndrom [SIRS] nichtinfektiöser Genese ohne Organkomplikationen"
+          },
+          "children": []
+        },
+        {
+          "code": "R65.3",
+          "kind": "category",
+          "label": "Systemisches inflammatorisches Response-Syndrom [SIRS] nichtinfektiöser Genese mit Organkomplikationen",
+          "rubrics": {
+            "preferred": "Systemisches inflammatorisches Response-Syndrom [SIRS] nichtinfektiöser Genese mit Organkomplikationen"
+          },
+          "children": []
+        },
+        {
+          "code": "R65.9",
+          "kind": "category",
+          "label": "Systemisches inflammatorisches Response-Syndrom [SIRS], nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Systemisches inflammatorisches Response-Syndrom [SIRS], nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R68",
+      "kind": "category",
+      "label": "Sonstige Allgemeinsymptome",
+      "rubrics": {
+        "preferred": "Sonstige Allgemeinsymptome"
+      },
+      "children": [
+        {
+          "code": "R68.0",
+          "kind": "category",
+          "label": "Hypothermie, nicht in Verbindung mit niedriger Umgebungstemperatur",
+          "rubrics": {
+            "preferred": "Hypothermie, nicht in Verbindung mit niedriger Umgebungstemperatur",
+            "exclusion": "Hypothermie:\n\t\t\t\to.n.A. (akzidentell)T68"
+          },
+          "children": []
+        },
+        {
+          "code": "R68.1",
+          "kind": "category",
+          "label": "Unspezifische Symptome im Kleinkindalter",
+          "rubrics": {
+            "preferred": "Unspezifische Symptome im Kleinkindalter",
+            "inclusion": "Ungewöhnlich häufiges und starkes Schreien des Kleinkindes",
+            "exclusion": "Zerebrale Übererregbarkeit des NeugeborenenP91.3"
+          },
+          "children": []
+        },
+        {
+          "code": "R68.2",
+          "kind": "category",
+          "label": "Mundtrockenheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Mundtrockenheit, nicht näher bezeichnet",
+            "exclusion": "Unterfunktion der SpeicheldrüsenK11.7"
+          },
+          "children": []
+        },
+        {
+          "code": "R68.3",
+          "kind": "category",
+          "label": "Trommelschlegelfinger",
+          "rubrics": {
+            "preferred": "Trommelschlegelfinger",
+            "inclusion": "Uhrglasnägel",
+            "exclusion": "Angeborene KlumpnägelQ84.6"
+          },
+          "children": []
+        },
+        {
+          "code": "R68.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Allgemeinsymptome",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Allgemeinsymptome"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R69",
+      "kind": "category",
+      "label": "Unbekannte und nicht näher bezeichnete Krankheitsursachen",
+      "rubrics": {
+        "preferred": "Unbekannte und nicht näher bezeichnete Krankheitsursachen",
+        "inclusion": "Nichtdiagnostizierte Krankheit ohne Angabe der betroffenen Lokalisation oder des betroffenen Systems"
+      },
+      "children": []
+    }
+  ]
+}

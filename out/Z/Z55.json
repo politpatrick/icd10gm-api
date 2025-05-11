@@ -1,0 +1,11 @@
+{
+  "code": "Z55",
+  "kind": "category",
+  "label": "Kontaktanlässe mit Bezug auf die Ausbildung",
+  "rubrics": {
+    "preferred": "Kontaktanlässe mit Bezug auf die Ausbildung",
+    "inclusion": "Unzulängliche schulische Leistungen",
+    "exclusion": "Störungen der psychischen EntwicklungF80-F89"
+  },
+  "children": []
+}

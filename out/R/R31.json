@@ -1,0 +1,10 @@
+{
+  "code": "R31",
+  "kind": "category",
+  "label": "Nicht näher bezeichnete Hämaturie",
+  "rubrics": {
+    "preferred": "Nicht näher bezeichnete Hämaturie",
+    "exclusion": "Rezidivierende oder persistierende HämaturieN02.-"
+  },
+  "children": []
+}

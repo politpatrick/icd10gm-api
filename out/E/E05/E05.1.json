@@ -1,0 +1,10 @@
+{
+  "code": "E05.1",
+  "kind": "category",
+  "label": "Hyperthyreose mit toxischem solitärem Schilddrüsenknoten",
+  "rubrics": {
+    "preferred": "Hyperthyreose mit toxischem solitärem Schilddrüsenknoten",
+    "inclusion": "Hyperthyreose mit toxischer einknotiger Struma"
+  },
+  "children": []
+}

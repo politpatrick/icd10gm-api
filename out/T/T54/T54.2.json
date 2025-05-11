@@ -1,0 +1,11 @@
+{
+  "code": "T54.2",
+  "kind": "category",
+  "label": "Ätzende Säuren und säureähnliche Substanzen",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Ätzende Säuren und säureähnliche Substanzen",
+    "preferred": "Ätzende Säuren und säureähnliche Substanzen",
+    "inclusion": "Schwefelsäure"
+  },
+  "children": []
+}

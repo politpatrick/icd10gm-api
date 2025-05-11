@@ -1,0 +1,10 @@
+{
+  "code": "N85.1",
+  "kind": "category",
+  "label": "Adenomatöse Hyperplasie des Endometriums",
+  "rubrics": {
+    "preferred": "Adenomatöse Hyperplasie des Endometriums",
+    "inclusion": "Atypische (adenomatöse) Hyperplasie des Endometriums"
+  },
+  "children": []
+}

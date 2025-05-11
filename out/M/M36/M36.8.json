@@ -1,0 +1,10 @@
+{
+  "code": "M36.8",
+  "kind": "category",
+  "label": "Systemkrankheiten des Bindegewebes bei sonstigen anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Systemkrankheiten des Bindegewebes bei sonstigen anderenorts klassifizierten Krankheiten",
+    "inclusion": "Systemkrankheiten des Bindegewebes bei:\n\t\t\t\tOchronoseE70.2"
+  },
+  "children": []
+}

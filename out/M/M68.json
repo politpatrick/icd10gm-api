@@ -1,0 +1,30 @@
+{
+  "code": "M68",
+  "kind": "category",
+  "label": "Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+  },
+  "children": [
+    {
+      "code": "M68.0",
+      "kind": "category",
+      "label": "Synovitis und Tenosynovitis bei anderenorts klassifizierten bakteriellen Krankheiten",
+      "rubrics": {
+        "preferred": "Synovitis und Tenosynovitis bei anderenorts klassifizierten bakteriellen Krankheiten",
+        "inclusion": "Synovitis oder Tenosynovitis bei:\n\t\t\t\tTuberkuloseA18.0"
+      },
+      "children": []
+    },
+    {
+      "code": "M68.8",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "code": "J03",
+  "kind": "category",
+  "label": "Akute Tonsillitis",
+  "rubrics": {
+    "preferred": "Akute Tonsillitis",
+    "inclusion": "Rezidivierende Tonsillitis mit bestehender akut-entzündlicher Episode",
+    "exclusion": "PeritonsillarabszessJ36"
+  },
+  "children": [
+    {
+      "code": "J03.0",
+      "kind": "category",
+      "label": "Streptokokken-Tonsillitis",
+      "rubrics": {
+        "preferred": "Streptokokken-Tonsillitis"
+      },
+      "children": []
+    },
+    {
+      "code": "J03.8",
+      "kind": "category",
+      "label": "Akute Tonsillitis durch sonstige näher bezeichnete Erreger",
+      "rubrics": {
+        "preferred": "Akute Tonsillitis durch sonstige näher bezeichnete Erreger",
+        "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+        "exclusion": "Pharyngotonsillitis durch Herpesviren [Herpes simplex]B00.2"
+      },
+      "children": []
+    },
+    {
+      "code": "J03.9",
+      "kind": "category",
+      "label": "Akute Tonsillitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Akute Tonsillitis, nicht näher bezeichnet",
+        "inclusion": "Tonsillitis (akut):\n\t\t\t\to.n.A."
+      },
+      "children": []
+    }
+  ]
+}

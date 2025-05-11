@@ -1,0 +1,10 @@
+{
+  "code": "J11.1",
+  "kind": "category",
+  "label": "Grippe mit sonstigen Manifestationen an den Atemwegen, Viren nicht nachgewiesen",
+  "rubrics": {
+    "preferred": "Grippe mit sonstigen Manifestationen an den Atemwegen, Viren nicht nachgewiesen",
+    "inclusion": "Grippe:\n\t\t\t\tPleuraerguss\n\t\t\t\tnicht näher bezeichnet oder spezifische Viren nicht nachgewiesen"
+  },
+  "children": []
+}

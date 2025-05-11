@@ -1,0 +1,11 @@
+{
+  "code": "P28.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Störungen der Atmung beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Störungen der Atmung beim Neugeborenen",
+    "inclusion": "Stridor congenitus (laryngis) o.n.A.",
+    "exclusion": "Angeborene frühsyphilitische RhinitisA50.0"
+  },
+  "children": []
+}

@@ -1,0 +1,58 @@
+{
+  "code": "J18",
+  "kind": "category",
+  "label": "Pneumonie, Erreger nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Pneumonie, Erreger nicht näher bezeichnet",
+    "coding-hint": "Benutze für Zwecke der externen Qualitätssicherung nach § 137 SGB V eine zusätzliche Schlüsselnummer U69.01U69.04, um den zeitlichen Bezug einer vollstationär behandelten Pneumonie bei erwachsenen Personen (18 Jahre und älter) zur stationären Krankenhausaufnahme anzugeben.",
+    "exclusion": "Pneumonie:\n\t\t\t\tLipid- J69.1"
+  },
+  "children": [
+    {
+      "code": "J18.0",
+      "kind": "category",
+      "label": "Bronchopneumonie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Bronchopneumonie, nicht näher bezeichnet",
+        "exclusion": "BronchiolitisJ21.-"
+      },
+      "children": []
+    },
+    {
+      "code": "J18.1",
+      "kind": "category",
+      "label": "Lobärpneumonie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Lobärpneumonie, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "J18.2",
+      "kind": "category",
+      "label": "Hypostatische Pneumonie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hypostatische Pneumonie, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "J18.8",
+      "kind": "category",
+      "label": "Sonstige Pneumonie, Erreger nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Sonstige Pneumonie, Erreger nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "J18.9",
+      "kind": "category",
+      "label": "Pneumonie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Pneumonie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

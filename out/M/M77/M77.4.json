@@ -1,0 +1,10 @@
+{
+  "code": "M77.4",
+  "kind": "category",
+  "label": "Metatarsalgie",
+  "rubrics": {
+    "preferred": "Metatarsalgie",
+    "exclusion": "Morton-Neuralgie [Morton-Metatarsalgie]G57.6"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D76.2",
+  "kind": "category",
+  "label": "Hämophagozytäres Syndrom bei Infektionen",
+  "rubrics": {
+    "preferred": "Hämophagozytäres Syndrom bei Infektionen",
+    "coding-hint": "Soll der Infektionserreger oder die Infektionskrankheit angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+  },
+  "children": []
+}

@@ -1,0 +1,815 @@
+{
+  "code": "Q80-Q89",
+  "kind": "block",
+  "label": "Sonstige angeborene Fehlbildungen",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungen"
+  },
+  "children": [
+    {
+      "code": "Q80",
+      "kind": "category",
+      "label": "Ichthyosis congenita",
+      "rubrics": {
+        "preferred": "Ichthyosis congenita",
+        "exclusion": "Refsum-KrankheitG60.1"
+      },
+      "children": [
+        {
+          "code": "Q80.0",
+          "kind": "category",
+          "label": "Ichthyosis vulgaris",
+          "rubrics": {
+            "preferred": "Ichthyosis vulgaris"
+          },
+          "children": []
+        },
+        {
+          "code": "Q80.1",
+          "kind": "category",
+          "label": "X-chromosomal-rezessive Ichthyosis",
+          "rubrics": {
+            "preferred": "X-chromosomal-rezessive Ichthyosis"
+          },
+          "children": []
+        },
+        {
+          "code": "Q80.2",
+          "kind": "category",
+          "label": "Lamelläre Ichthyosis",
+          "rubrics": {
+            "preferred": "Lamelläre Ichthyosis",
+            "inclusion": "Kollodium-Baby"
+          },
+          "children": []
+        },
+        {
+          "code": "Q80.3",
+          "kind": "category",
+          "label": "Bullöse kongenitale ichthyosiforme Erythrodermie",
+          "rubrics": {
+            "preferred": "Bullöse kongenitale ichthyosiforme Erythrodermie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q80.4",
+          "kind": "category",
+          "label": "Ichthyosis congenita gravis [Harlekinfetus]",
+          "rubrics": {
+            "preferred": "Ichthyosis congenita gravis [Harlekinfetus]"
+          },
+          "children": []
+        },
+        {
+          "code": "Q80.8",
+          "kind": "category",
+          "label": "Sonstige Ichthyosis congenita",
+          "rubrics": {
+            "preferred": "Sonstige Ichthyosis congenita"
+          },
+          "children": []
+        },
+        {
+          "code": "Q80.9",
+          "kind": "category",
+          "label": "Ichthyosis congenita, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Ichthyosis congenita, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q81",
+      "kind": "category",
+      "label": "Epidermolysis bullosa",
+      "rubrics": {
+        "preferred": "Epidermolysis bullosa"
+      },
+      "children": [
+        {
+          "code": "Q81.0",
+          "kind": "category",
+          "label": "Epidermolysis bullosa simplex",
+          "rubrics": {
+            "preferred": "Epidermolysis bullosa simplex",
+            "exclusion": "Cockayne-SyndromQ87.1"
+          },
+          "children": []
+        },
+        {
+          "code": "Q81.1",
+          "kind": "category",
+          "label": "Epidermolysis bullosa atrophicans gravis",
+          "rubrics": {
+            "preferred": "Epidermolysis bullosa atrophicans gravis",
+            "inclusion": "Herlitz-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q81.2",
+          "kind": "category",
+          "label": "Epidermolysis bullosa dystrophica",
+          "rubrics": {
+            "preferred": "Epidermolysis bullosa dystrophica"
+          },
+          "children": []
+        },
+        {
+          "code": "Q81.8",
+          "kind": "category",
+          "label": "Sonstige Epidermolysis bullosa",
+          "rubrics": {
+            "preferred": "Sonstige Epidermolysis bullosa"
+          },
+          "children": []
+        },
+        {
+          "code": "Q81.9",
+          "kind": "category",
+          "label": "Epidermolysis bullosa, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Epidermolysis bullosa, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q82",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Haut",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Haut",
+        "exclusion": "Sturge-Weber- (Dimitri-) SyndromQ85.8"
+      },
+      "children": [
+        {
+          "code": "Q82.0",
+          "kind": "category",
+          "label": "Hereditäres Lymphödem",
+          "rubrics": {
+            "preferred": "Hereditäres Lymphödem",
+            "coding-hint": "Ein gleichzeitig vorhandenes Lipödem ist gesondert zu kodieren E88.2-.",
+            "exclusion": "Lymphödem nach medizinischen Maßnahmen anderenorts nicht klassifiziertI97.8-"
+          },
+          "children": [
+            {
+              "code": "Q82.00",
+              "kind": "category",
+              "label": "Hereditäres Lymphödem der oberen und unteren Extremität(en), Stadium I",
+              "rubrics": {
+                "preferred": "Hereditäres Lymphödem der oberen und unteren Extremität(en), Stadium I"
+              },
+              "children": []
+            },
+            {
+              "code": "Q82.01",
+              "kind": "category",
+              "label": "Hereditäres Lymphödem der oberen und unteren Extremität(en), Stadium II",
+              "rubrics": {
+                "preferred": "Hereditäres Lymphödem der oberen und unteren Extremität(en), Stadium II"
+              },
+              "children": []
+            },
+            {
+              "code": "Q82.02",
+              "kind": "category",
+              "label": "Hereditäres Lymphödem der oberen und unteren Extremität(en), Stadium III",
+              "rubrics": {
+                "preferred": "Hereditäres Lymphödem der oberen und unteren Extremität(en), Stadium III"
+              },
+              "children": []
+            },
+            {
+              "code": "Q82.03",
+              "kind": "category",
+              "label": "Hereditäres Lymphödem, sonstige Lokalisation, Stadium I",
+              "rubrics": {
+                "preferred": "Hereditäres Lymphödem, sonstige Lokalisation, Stadium I",
+                "inclusion": "Kopf, Hals, Thoraxwand, Genitalbereich"
+              },
+              "children": []
+            },
+            {
+              "code": "Q82.04",
+              "kind": "category",
+              "label": "Hereditäres Lymphödem, sonstige Lokalisation, Stadium II",
+              "rubrics": {
+                "preferred": "Hereditäres Lymphödem, sonstige Lokalisation, Stadium II",
+                "inclusion": "Kopf, Hals, Thoraxwand, Genitalbereich"
+              },
+              "children": []
+            },
+            {
+              "code": "Q82.05",
+              "kind": "category",
+              "label": "Hereditäres Lymphödem, sonstige Lokalisation, Stadium III",
+              "rubrics": {
+                "preferred": "Hereditäres Lymphödem, sonstige Lokalisation, Stadium III",
+                "inclusion": "Kopf, Hals, Thoraxwand, Genitalbereich"
+              },
+              "children": []
+            },
+            {
+              "code": "Q82.08",
+              "kind": "category",
+              "label": "Sonstiges hereditäres Lymphödem",
+              "rubrics": {
+                "preferred": "Sonstiges hereditäres Lymphödem"
+              },
+              "children": []
+            },
+            {
+              "code": "Q82.09",
+              "kind": "category",
+              "label": "Hereditäres Lymphödem, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Hereditäres Lymphödem, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Q82.1",
+          "kind": "category",
+          "label": "Xeroderma pigmentosum",
+          "rubrics": {
+            "preferred": "Xeroderma pigmentosum"
+          },
+          "children": []
+        },
+        {
+          "code": "Q82.2",
+          "kind": "category",
+          "label": "Mastozytose (angeboren)",
+          "rubrics": {
+            "preferred": "Mastozytose (angeboren)",
+            "inclusion": "Urticaria pigmentosa",
+            "exclusion": "Bösartige MastozytoseC96.2"
+          },
+          "children": []
+        },
+        {
+          "code": "Q82.3",
+          "kind": "category",
+          "label": "Incontinentia pigmenti",
+          "rubrics": {
+            "preferred": "Incontinentia pigmenti"
+          },
+          "children": []
+        },
+        {
+          "code": "Q82.4",
+          "kind": "category",
+          "label": "Ektodermale Dysplasie (anhidrotisch)",
+          "rubrics": {
+            "preferred": "Ektodermale Dysplasie (anhidrotisch)",
+            "exclusion": "Ellis-van-Creveld-SyndromQ77.6"
+          },
+          "children": []
+        },
+        {
+          "code": "Q82.5",
+          "kind": "category",
+          "label": "Angeborener nichtneoplastischer Nävus",
+          "rubrics": {
+            "preferred": "Angeborener nichtneoplastischer Nävus",
+            "inclusion": "Portweinfleck",
+            "exclusion": "Spinnennävus [Spider-Nävus]I78.1"
+          },
+          "children": []
+        },
+        {
+          "code": "Q82.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete angeborene Fehlbildungen der Haut",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen der Haut",
+            "inclusion": "Zusätzliche Hautanhängsel",
+            "exclusion": "Ehlers-Danlos-SyndromQ79.6"
+          },
+          "children": []
+        },
+        {
+          "code": "Q82.9",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung der Haut, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung der Haut, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q83",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungen der Mamma [Brustdrüse]",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungen der Mamma [Brustdrüse]",
+        "exclusion": "Fehlen des M. pectoralisQ79.8"
+      },
+      "children": [
+        {
+          "code": "Q83.0",
+          "kind": "category",
+          "label": "Angeborenes Fehlen der Mamma verbunden mit fehlender Brustwarze",
+          "rubrics": {
+            "preferred": "Angeborenes Fehlen der Mamma verbunden mit fehlender Brustwarze"
+          },
+          "children": []
+        },
+        {
+          "code": "Q83.1",
+          "kind": "category",
+          "label": "Akzessorische Mamma",
+          "rubrics": {
+            "preferred": "Akzessorische Mamma",
+            "inclusion": "Überzählige Mamma"
+          },
+          "children": []
+        },
+        {
+          "code": "Q83.2",
+          "kind": "category",
+          "label": "Fehlen der Brustwarze (angeboren)",
+          "rubrics": {
+            "preferred": "Fehlen der Brustwarze (angeboren)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q83.3",
+          "kind": "category",
+          "label": "Akzessorische Brustwarze",
+          "rubrics": {
+            "preferred": "Akzessorische Brustwarze",
+            "inclusion": "Überzählige Brustwarze"
+          },
+          "children": []
+        },
+        {
+          "code": "Q83.8",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen der Mamma",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen der Mamma"
+          },
+          "children": [
+            {
+              "code": "Q83.80",
+              "kind": "category",
+              "label": "Tubuläre Brust",
+              "rubrics": {
+                "preferred": "Tubuläre Brust"
+              },
+              "children": []
+            },
+            {
+              "code": "Q83.88",
+              "kind": "category",
+              "label": "Sonstige angeborene Fehlbildungen der Mamma",
+              "rubrics": {
+                "preferred": "Sonstige angeborene Fehlbildungen der Mamma",
+                "inclusion": "Hypoplasie der Mamma"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Q83.9",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung der Mamma, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung der Mamma, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q84",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Integumentes",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Integumentes"
+      },
+      "children": [
+        {
+          "code": "Q84.0",
+          "kind": "category",
+          "label": "Angeborene Alopezie",
+          "rubrics": {
+            "preferred": "Angeborene Alopezie",
+            "inclusion": "Angeborene Atrichie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q84.1",
+          "kind": "category",
+          "label": "Angeborene morphologische Störungen der Haare, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Angeborene morphologische Störungen der Haare, anderenorts nicht klassifiziert",
+            "inclusion": "Spindelhaare",
+            "exclusion": "Menkes-Syndrom [Kinky-hair-Syndrom]E83.0"
+          },
+          "children": []
+        },
+        {
+          "code": "Q84.2",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen der Haare",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen der Haare",
+            "inclusion": "Persistierende Lanugobehaarung"
+          },
+          "children": []
+        },
+        {
+          "code": "Q84.3",
+          "kind": "category",
+          "label": "Anonychie",
+          "rubrics": {
+            "preferred": "Anonychie",
+            "exclusion": "Nagel-Patella-SyndromQ87.2"
+          },
+          "children": []
+        },
+        {
+          "code": "Q84.4",
+          "kind": "category",
+          "label": "Angeborene Leukonychie",
+          "rubrics": {
+            "preferred": "Angeborene Leukonychie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q84.5",
+          "kind": "category",
+          "label": "Vergrößerte und hypertrophierte Nägel (angeboren)",
+          "rubrics": {
+            "preferred": "Vergrößerte und hypertrophierte Nägel (angeboren)",
+            "inclusion": "Pachyonychie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q84.6",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen der Nägel",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen der Nägel",
+            "inclusion": "Angeboren:\n\t\t\t\tKoilonychie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q84.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete angeborene Fehlbildungen des Integumentes",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen des Integumentes",
+            "inclusion": "Aplasia cutis congenita"
+          },
+          "children": []
+        },
+        {
+          "code": "Q84.9",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung des Integumentes, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung des Integumentes, nicht näher bezeichnet",
+            "inclusion": "Angeboren:\n\t\t\t\tDeformität o.n.A.\n\t\t\t\tIntegument o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q85",
+      "kind": "category",
+      "label": "Phakomatosen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Phakomatosen, anderenorts nicht klassifiziert",
+        "exclusion": "Familiäre Dysautonomie [Riley-Day-Syndrom]G90.1"
+      },
+      "children": [
+        {
+          "code": "Q85.0",
+          "kind": "category",
+          "label": "Neurofibromatose (nicht bösartig)",
+          "rubrics": {
+            "preferred": "Neurofibromatose (nicht bösartig)",
+            "inclusion": "von-Recklinghausen-Krankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "Q85.1",
+          "kind": "category",
+          "label": "Tuberöse (Hirn-) Sklerose",
+          "rubrics": {
+            "preferred": "Tuberöse (Hirn-) Sklerose",
+            "inclusion": "Epiloia"
+          },
+          "children": []
+        },
+        {
+          "code": "Q85.8",
+          "kind": "category",
+          "label": "Sonstige Phakomatosen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige Phakomatosen, anderenorts nicht klassifiziert",
+            "inclusion": "Syndrom:\n\t\t\t\tSturge-Weber- (Dimitri-)",
+            "exclusion": "Meckel-Gruber-SyndromQ61.9"
+          },
+          "children": []
+        },
+        {
+          "code": "Q85.9",
+          "kind": "category",
+          "label": "Phakomatose, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Phakomatose, nicht näher bezeichnet",
+            "inclusion": "Hamartose o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q86",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen, anderenorts nicht klassifiziert",
+        "exclusion": "Nichtteratogene Wirkungen von Substanzen, die transplazentar oder mit der Muttermilch übertragen werdenP04.-"
+      },
+      "children": [
+        {
+          "code": "Q86.0",
+          "kind": "category",
+          "label": "Alkohol-Embryopathie (mit Dysmorphien)",
+          "rubrics": {
+            "preferred": "Alkohol-Embryopathie (mit Dysmorphien)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q86.1",
+          "kind": "category",
+          "label": "Antiepileptika-Embryopathie",
+          "rubrics": {
+            "preferred": "Antiepileptika-Embryopathie",
+            "inclusion": "Embryofetales Hydantoin-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q86.2",
+          "kind": "category",
+          "label": "Warfarin-Embryopathie",
+          "rubrics": {
+            "preferred": "Warfarin-Embryopathie",
+            "inclusion": "Embryopathie durch Cumarine"
+          },
+          "children": []
+        },
+        {
+          "code": "Q86.8",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen"
+          },
+          "children": [
+            {
+              "code": "Q86.80",
+              "kind": "category",
+              "label": "Thalidomid-Embryopathie",
+              "rubrics": {
+                "preferred": "Thalidomid-Embryopathie"
+              },
+              "children": []
+            },
+            {
+              "code": "Q86.88",
+              "kind": "category",
+              "label": "Sonstige angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen",
+              "rubrics": {
+                "preferred": "Sonstige angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "Q87",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete angeborene Fehlbildungssyndrome mit Beteiligung mehrerer Systeme",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungssyndrome mit Beteiligung mehrerer Systeme"
+      },
+      "children": [
+        {
+          "code": "Q87.0",
+          "kind": "category",
+          "label": "Angeborene Fehlbildungssyndrome mit vorwiegender Beteiligung des Gesichtes",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildungssyndrome mit vorwiegender Beteiligung des Gesichtes",
+            "inclusion": "Zyklopie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q87.1",
+          "kind": "category",
+          "label": "Angeborene Fehlbildungssyndrome, die vorwiegend mit Kleinwuchs einhergehen",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildungssyndrome, die vorwiegend mit Kleinwuchs einhergehen",
+            "inclusion": "Smith-Lemli-Opitz-Syndrom",
+            "exclusion": "Ellis-van-Creveld-SyndromQ77.6"
+          },
+          "children": []
+        },
+        {
+          "code": "Q87.2",
+          "kind": "category",
+          "label": "Angeborene Fehlbildungssyndrome mit vorwiegender Beteiligung der Extremitäten",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildungssyndrome mit vorwiegender Beteiligung der Extremitäten",
+            "inclusion": "VATER-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q87.3",
+          "kind": "category",
+          "label": "Angeborene Fehlbildungssyndrome mit vermehrtem Gewebewachstum im frühen Kindesalter",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildungssyndrome mit vermehrtem Gewebewachstum im frühen Kindesalter",
+            "inclusion": "Wiedemann-Beckwith-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q87.4",
+          "kind": "category",
+          "label": "Marfan-Syndrom",
+          "rubrics": {
+            "preferred": "Marfan-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q87.5",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungssyndrome mit sonstigen Skelettveränderungen",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungssyndrome mit sonstigen Skelettveränderungen"
+          },
+          "children": []
+        },
+        {
+          "code": "Q87.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete angeborene Fehlbildungssyndrome, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungssyndrome, anderenorts nicht klassifiziert",
+            "inclusion": "Zellweger-Syndrom"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q89",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen, anderenorts nicht klassifiziert"
+      },
+      "children": [
+        {
+          "code": "Q89.0",
+          "kind": "category",
+          "label": "Angeborene Fehlbildungen der Milz",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildungen der Milz",
+            "exclusion": "Vorhofisomerismus (mit Asplenie oder Polysplenie)Q20.6"
+          },
+          "children": [
+            {
+              "code": "Q89.00",
+              "kind": "category",
+              "label": "Angeborene Splenomegalie",
+              "rubrics": {
+                "preferred": "Angeborene Splenomegalie"
+              },
+              "children": []
+            },
+            {
+              "code": "Q89.01",
+              "kind": "category",
+              "label": "Asplenie (angeboren)",
+              "rubrics": {
+                "preferred": "Asplenie (angeboren)"
+              },
+              "children": []
+            },
+            {
+              "code": "Q89.08",
+              "kind": "category",
+              "label": "Sonstige angeborene Fehlbildungen der Milz",
+              "rubrics": {
+                "preferred": "Sonstige angeborene Fehlbildungen der Milz"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Q89.1",
+          "kind": "category",
+          "label": "Angeborene Fehlbildungen der Nebenniere",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildungen der Nebenniere",
+            "exclusion": "Angeborene NebennierenrindenhyperplasieE25.0-"
+          },
+          "children": []
+        },
+        {
+          "code": "Q89.2",
+          "kind": "category",
+          "label": "Angeborene Fehlbildungen sonstiger endokriner Drüsen",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildungen sonstiger endokriner Drüsen",
+            "inclusion": "Thyreoglossuszyste"
+          },
+          "children": []
+        },
+        {
+          "code": "Q89.3",
+          "kind": "category",
+          "label": "Situs inversus",
+          "rubrics": {
+            "preferred": "Situs inversus",
+            "inclusion": "Transpositio viscerum:\n\t\t\t\tthoracalis",
+            "exclusion": "LävokardieQ24.1"
+          },
+          "children": []
+        },
+        {
+          "code": "Q89.4",
+          "kind": "category",
+          "label": "Siamesische Zwillinge",
+          "rubrics": {
+            "preferred": "Siamesische Zwillinge",
+            "inclusion": "Thorakopagus"
+          },
+          "children": []
+        },
+        {
+          "code": "Q89.7",
+          "kind": "category",
+          "label": "Multiple angeborene Fehlbildungen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Multiple angeborene Fehlbildungen, anderenorts nicht klassifiziert",
+            "inclusion": "Multipel, angeboren:\n\t\t\t\tDeformitäten o.n.A.",
+            "exclusion": "Angeborene Fehlbildungssyndrome mit Beteiligung mehrerer SystemeQ87.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Q89.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete angeborene Fehlbildungen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen"
+          },
+          "children": []
+        },
+        {
+          "code": "Q89.9",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung, nicht näher bezeichnet",
+            "inclusion": "Angeboren:\n\t\t\t\tDeformität o.n.A."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

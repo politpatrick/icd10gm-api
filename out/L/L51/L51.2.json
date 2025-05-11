@@ -1,0 +1,32 @@
+{
+  "code": "L51.2",
+  "kind": "category",
+  "label": "Toxische epidermale Nekrolyse [Lyell-Syndrom]",
+  "rubrics": {
+    "preferred": "Toxische epidermale Nekrolyse [Lyell-Syndrom]"
+  },
+  "children": [
+    {
+      "code": "L51.20",
+      "kind": "category",
+      "label": "Befall von weniger als 30 % der Körperoberfläche",
+      "rubrics": {
+        "preferredLong": "Toxische epidermale Nekrolyse [Lyell-Syndrom]: Befall von weniger als 30 % der Körperoberfläche",
+        "preferred": "Befall von weniger als 30 % der Körperoberfläche",
+        "inclusion": "Toxische epidermale Nekrolyse [Lyell-Syndrom] o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "L51.21",
+      "kind": "category",
+      "label": "Befall von 30 % der Körperoberfläche und mehr",
+      "rubrics": {
+        "preferredLong": "Toxische epidermale Nekrolyse [Lyell-Syndrom]: Befall von 30 % der Körperoberfläche und mehr",
+        "preferred": "Befall von 30 % der Körperoberfläche und mehr",
+        "inclusion": "Schleimhautbefall"
+      },
+      "children": []
+    }
+  ]
+}

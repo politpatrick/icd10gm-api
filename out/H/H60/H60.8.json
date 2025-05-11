@@ -1,0 +1,10 @@
+{
+  "code": "H60.8",
+  "kind": "category",
+  "label": "Sonstige Otitis externa",
+  "rubrics": {
+    "preferred": "Sonstige Otitis externa",
+    "inclusion": "Chronische Otitis externa o.n.A."
+  },
+  "children": []
+}

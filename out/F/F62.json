@@ -1,0 +1,71 @@
+{
+  "code": "F62",
+  "kind": "category",
+  "label": "Andauernde Persönlichkeitsänderungen, nicht Folge einer Schädigung oder Krankheit des Gehirns",
+  "rubrics": {
+    "preferred": "Andauernde Persönlichkeitsänderungen, nicht Folge einer Schädigung oder Krankheit des Gehirns",
+    "definition": "Persönlichkeits- und Verhaltensstörungen ohne vorbestehende Persönlichkeitsstörung nach extremer oder übermäßiger, anhaltender Belastung oder schweren psychiatrischen Krankheiten. Diese Diagnosen sollten nur dann gestellt werden, wenn Hinweise auf eine eindeutige und andauernde Veränderung in der Wahrnehmung sowie im Verhalten und Denken bezüglich der Umwelt und der eigenen Person vorliegen. Die Persönlichkeitsänderung sollte deutlich ausgeprägt sein und mit einem unflexiblen und fehlangepassten Verhalten verbunden sein, das vor der pathogenen Erfahrung nicht bestanden hat. Die Änderung sollte nicht Ausdruck einer anderen psychischen Störung oder Residualsymptom einer vorangegangenen psychischen Störung sein.",
+    "exclusion": "Persönlichkeits- und Verhaltensstörung aufgrund einer Krankheit, Schädigung oder Funktionsstörung des GehirnsF07.-"
+  },
+  "children": [
+    {
+      "code": "F62.0",
+      "kind": "category",
+      "label": "Andauernde Persönlichkeitsänderung nach Extrembelastung",
+      "rubrics": {
+        "preferred": "Andauernde Persönlichkeitsänderung nach Extrembelastung",
+        "definition": "Eine andauernde, wenigstens über zwei Jahre bestehende Persönlichkeitsänderung kann einer Belastung katastrophalen Ausmaßes folgen. Die Belastung muss extrem sein, dass die Vulnerabilität der betreffenden Person als Erklärung für die tief greifende Auswirkung auf die Persönlichkeit nicht in Erwägung gezogen werden muss. Die Störung ist durch eine feindliche oder misstrauische Haltung gegenüber der Welt, durch sozialen Rückzug, Gefühle der Leere oder Hoffnungslosigkeit, ein chronisches Gefühl der Anspannung wie bei ständigem Bedrohtsein und Entfremdungsgefühl, gekennzeichnet. Eine posttraumatische Belastungsstörung (F43.1) kann dieser Form der Persönlichkeitsänderung vorausgegangen sein.",
+        "inclusion": "Persönlichkeitsänderungen nach:\n\t\t\t\tKonzentrationslagererfahrungen",
+        "exclusion": "Posttraumatische BelastungsstörungF43.1"
+      },
+      "children": []
+    },
+    {
+      "code": "F62.1",
+      "kind": "category",
+      "label": "Andauernde Persönlichkeitsänderung nach psychischer Krankheit",
+      "rubrics": {
+        "preferred": "Andauernde Persönlichkeitsänderung nach psychischer Krankheit",
+        "definition": "Eine auf der traumatischen Erfahrung einer schweren psychiatrischen Krankheit beruhende, wenigstens über zwei Jahre bestehende Persönlichkeitsänderung. Die Änderung kann nicht durch eine vorbestehende Persönlichkeitsstörung erklärt werden und sollte vom Residualzustand einer Schizophrenie und anderen Zustandsbildern unvollständiger Rückbildung einer vorausgegangenen psychischen Störung unterschieden werden. Die Störung ist gekennzeichnet durch eine hochgradige Abhängigkeit sowie Anspruchs- und Erwartungshaltung gegenüber anderen, eine Überzeugung, durch die Krankheit verändert oder stigmatisiert worden zu sein. Dies führt zu einer Unfähigkeit, enge und vertrauensvolle persönliche Beziehungen aufzunehmen und beizubehalten, sowie zu sozialer Isolation. Ferner finden sich Passivität, verminderte Interessen und Vernachlässigung von Freizeitbeschäftigungen, ständige Beschwerden über das Kranksein, oft verbunden mit hypochondrischen Klagen und kränkelndem Verhalten, dysphorische oder labile Stimmung, die nicht auf dem Vorliegen einer gegenwärtigen psychischen Störung oder einer vorausgegangenen psychischen Störung mit affektiven Residualsymptomen beruht. Schließlich bestehen seit längerer Zeit Probleme in der sozialen und beruflichen Funktionsfähigkeit."
+      },
+      "children": []
+    },
+    {
+      "code": "F62.8",
+      "kind": "category",
+      "label": "Sonstige andauernde Persönlichkeitsänderungen",
+      "rubrics": {
+        "preferred": "Sonstige andauernde Persönlichkeitsänderungen"
+      },
+      "children": [
+        {
+          "code": "F62.80",
+          "kind": "category",
+          "label": "Andauernde Persönlichkeitsänderung bei chronischem Schmerzsyndrom",
+          "rubrics": {
+            "preferred": "Andauernde Persönlichkeitsänderung bei chronischem Schmerzsyndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "F62.88",
+          "kind": "category",
+          "label": "Sonstige andauernde Persönlichkeitsänderungen",
+          "rubrics": {
+            "preferred": "Sonstige andauernde Persönlichkeitsänderungen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F62.9",
+      "kind": "category",
+      "label": "Andauernde Persönlichkeitsänderung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Andauernde Persönlichkeitsänderung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

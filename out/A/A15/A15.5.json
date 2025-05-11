@@ -1,0 +1,10 @@
+{
+  "code": "A15.5",
+  "kind": "category",
+  "label": "Tuberkulose des Larynx, der Trachea und der Bronchien, bakteriologisch, molekularbiologisch oder histologisch gesichert",
+  "rubrics": {
+    "preferred": "Tuberkulose des Larynx, der Trachea und der Bronchien, bakteriologisch, molekularbiologisch oder histologisch gesichert",
+    "inclusion": "Tuberkulose:\n\t\t\t\tTrachea\n\t\t\t\tbakteriologisch, molekularbiologisch oder histologisch gesichert"
+  },
+  "children": []
+}

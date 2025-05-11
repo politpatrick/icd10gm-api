@@ -1,0 +1,700 @@
+{
+  "code": "I80-I89",
+  "kind": "block",
+  "label": "Krankheiten der Venen, der Lymphgefäße und der Lymphknoten, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Krankheiten der Venen, der Lymphgefäße und der Lymphknoten, anderenorts nicht klassifiziert"
+  },
+  "children": [
+    {
+      "code": "I80",
+      "kind": "category",
+      "label": "Thrombose, Phlebitis und Thrombophlebitis",
+      "rubrics": {
+        "preferred": "Thrombose, Phlebitis und Thrombophlebitis",
+        "inclusion": "Venenentzündung",
+        "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "Phlebitis und Thrombophlebitis:\n\t\t\t\tThrombophlebitis migransI82.1"
+      },
+      "children": [
+        {
+          "code": "I80.0",
+          "kind": "category",
+          "label": "Thrombose, Phlebitis und Thrombophlebitis oberflächlicher Gefäße der unteren Extremitäten",
+          "rubrics": {
+            "preferred": "Thrombose, Phlebitis und Thrombophlebitis oberflächlicher Gefäße der unteren Extremitäten"
+          },
+          "children": []
+        },
+        {
+          "code": "I80.1",
+          "kind": "category",
+          "label": "Thrombose, Phlebitis und Thrombophlebitis der V. femoralis",
+          "rubrics": {
+            "preferred": "Thrombose, Phlebitis und Thrombophlebitis der V. femoralis"
+          },
+          "children": []
+        },
+        {
+          "code": "I80.2",
+          "kind": "category",
+          "label": "Thrombose, Phlebitis und Thrombophlebitis sonstiger tiefer Gefäße der unteren Extremitäten",
+          "rubrics": {
+            "preferred": "Thrombose, Phlebitis und Thrombophlebitis sonstiger tiefer Gefäße der unteren Extremitäten"
+          },
+          "children": [
+            {
+              "code": "I80.20",
+              "kind": "category",
+              "label": "Thrombose, Phlebitis und Thrombophlebitis der Beckenvenen",
+              "rubrics": {
+                "preferred": "Thrombose, Phlebitis und Thrombophlebitis der Beckenvenen"
+              },
+              "children": []
+            },
+            {
+              "code": "I80.28",
+              "kind": "category",
+              "label": "Thrombose, Phlebitis und Thrombophlebitis sonstiger tiefer Gefäße der unteren Extremitäten",
+              "rubrics": {
+                "preferred": "Thrombose, Phlebitis und Thrombophlebitis sonstiger tiefer Gefäße der unteren Extremitäten",
+                "inclusion": "Tiefe Venenthrombose o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "I80.3",
+          "kind": "category",
+          "label": "Thrombose, Phlebitis und Thrombophlebitis der unteren Extremitäten, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Thrombose, Phlebitis und Thrombophlebitis der unteren Extremitäten, nicht näher bezeichnet",
+            "inclusion": "Embolie und Thrombose von Gefäßen der unteren Extremität o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "I80.8",
+          "kind": "category",
+          "label": "Thrombose, Phlebitis und Thrombophlebitis sonstiger Lokalisationen",
+          "rubrics": {
+            "preferred": "Thrombose, Phlebitis und Thrombophlebitis sonstiger Lokalisationen"
+          },
+          "children": [
+            {
+              "code": "I80.80",
+              "kind": "category",
+              "label": "Thrombose, Phlebitis und Thrombophlebitis oberflächlicher Gefäße der oberen Extremitäten",
+              "rubrics": {
+                "preferred": "Thrombose, Phlebitis und Thrombophlebitis oberflächlicher Gefäße der oberen Extremitäten",
+                "inclusion": "Thrombose, Phlebitis und Thrombophlebitis:\n\t\t\t\tV. cephalica"
+              },
+              "children": []
+            },
+            {
+              "code": "I80.81",
+              "kind": "category",
+              "label": "Thrombose, Phlebitis und Thrombophlebitis tiefer Gefäße der oberen Extremitäten",
+              "rubrics": {
+                "preferred": "Thrombose, Phlebitis und Thrombophlebitis tiefer Gefäße der oberen Extremitäten",
+                "inclusion": "Thrombose, Phlebitis und Thrombophlebitis:\n\t\t\t\tV. subclavia"
+              },
+              "children": []
+            },
+            {
+              "code": "I80.88",
+              "kind": "category",
+              "label": "Thrombose, Phlebitis und Thrombophlebitis sonstiger Lokalisationen",
+              "rubrics": {
+                "preferred": "Thrombose, Phlebitis und Thrombophlebitis sonstiger Lokalisationen"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "I80.9",
+          "kind": "category",
+          "label": "Thrombose, Phlebitis und Thrombophlebitis nicht näher bezeichneter Lokalisation",
+          "rubrics": {
+            "preferred": "Thrombose, Phlebitis und Thrombophlebitis nicht näher bezeichneter Lokalisation"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I81",
+      "kind": "category",
+      "label": "Pfortaderthrombose",
+      "rubrics": {
+        "preferred": "Pfortaderthrombose",
+        "inclusion": "Pfortaderverschluss",
+        "exclusion": "Phlebitis der PfortaderK75.1"
+      },
+      "children": []
+    },
+    {
+      "code": "I82",
+      "kind": "category",
+      "label": "Sonstige venöse Embolie und Thrombose",
+      "rubrics": {
+        "preferred": "Sonstige venöse Embolie und Thrombose",
+        "exclusion": "Venöse Embolie und Thrombose:\n\t\t\t\tuntere ExtremitätenI80.-"
+      },
+      "children": [
+        {
+          "code": "I82.0",
+          "kind": "category",
+          "label": "Budd-Chiari-Syndrom",
+          "rubrics": {
+            "preferred": "Budd-Chiari-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "I82.1",
+          "kind": "category",
+          "label": "Thrombophlebitis migrans",
+          "rubrics": {
+            "preferred": "Thrombophlebitis migrans"
+          },
+          "children": []
+        },
+        {
+          "code": "I82.2",
+          "kind": "category",
+          "label": "Embolie und Thrombose der V. cava",
+          "rubrics": {
+            "preferred": "Embolie und Thrombose der V. cava"
+          },
+          "children": []
+        },
+        {
+          "code": "I82.3",
+          "kind": "category",
+          "label": "Embolie und Thrombose der Nierenvene",
+          "rubrics": {
+            "preferred": "Embolie und Thrombose der Nierenvene"
+          },
+          "children": []
+        },
+        {
+          "code": "I82.8",
+          "kind": "category",
+          "label": "Embolie und Thrombose sonstiger näher bezeichneter Venen",
+          "rubrics": {
+            "preferred": "Embolie und Thrombose sonstiger näher bezeichneter Venen"
+          },
+          "children": [
+            {
+              "code": "I82.80",
+              "kind": "category",
+              "label": "Embolie und Thrombose der Milzvene",
+              "rubrics": {
+                "preferred": "Embolie und Thrombose der Milzvene"
+              },
+              "children": []
+            },
+            {
+              "code": "I82.81",
+              "kind": "category",
+              "label": "Embolie und Thrombose der Jugularisvene",
+              "rubrics": {
+                "preferred": "Embolie und Thrombose der Jugularisvene"
+              },
+              "children": []
+            },
+            {
+              "code": "I82.88",
+              "kind": "category",
+              "label": "Embolie und Thrombose sonstiger näher bezeichneter Venen",
+              "rubrics": {
+                "preferred": "Embolie und Thrombose sonstiger näher bezeichneter Venen"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "I82.9",
+          "kind": "category",
+          "label": "Embolie und Thrombose nicht näher bezeichneter Vene",
+          "rubrics": {
+            "preferred": "Embolie und Thrombose nicht näher bezeichneter Vene",
+            "inclusion": "Venenembolie o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I83",
+      "kind": "category",
+      "label": "Varizen der unteren Extremitäten",
+      "rubrics": {
+        "preferred": "Varizen der unteren Extremitäten",
+        "exclusion": "Als Komplikation bei:\n\t\t\t\tWochenbettO87.8"
+      },
+      "children": [
+        {
+          "code": "I83.0",
+          "kind": "category",
+          "label": "Varizen der unteren Extremitäten mit Ulzeration",
+          "rubrics": {
+            "preferred": "Varizen der unteren Extremitäten mit Ulzeration",
+            "inclusion": "Ulcus varicosum (untere Extremität, jeder Abschnitt)"
+          },
+          "children": []
+        },
+        {
+          "code": "I83.1",
+          "kind": "category",
+          "label": "Varizen der unteren Extremitäten mit Entzündung",
+          "rubrics": {
+            "preferred": "Varizen der unteren Extremitäten mit Entzündung",
+            "inclusion": "Stauungsdermatitis o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "I83.2",
+          "kind": "category",
+          "label": "Varizen der unteren Extremitäten mit Ulzeration und Entzündung",
+          "rubrics": {
+            "preferred": "Varizen der unteren Extremitäten mit Ulzeration und Entzündung",
+            "inclusion": "Jeder Zustand unter I83.9 mit Ulzeration und Entzündung"
+          },
+          "children": []
+        },
+        {
+          "code": "I83.9",
+          "kind": "category",
+          "label": "Varizen der unteren Extremitäten ohne Ulzeration oder Entzündung",
+          "rubrics": {
+            "preferred": "Varizen der unteren Extremitäten ohne Ulzeration oder Entzündung",
+            "inclusion": "Variköse Venen\n\t\t\t\tuntere Extremität [jeder Abschnitt] oder nicht näher bezeichnete Lokalisation"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I85",
+      "kind": "category",
+      "label": "Ösophagusvarizen",
+      "rubrics": {
+        "preferred": "Ösophagusvarizen"
+      },
+      "children": [
+        {
+          "code": "I85.0",
+          "kind": "category",
+          "label": "Ösophagusvarizen mit Blutung",
+          "rubrics": {
+            "preferred": "Ösophagusvarizen mit Blutung",
+            "exclusion": "Ösophagusvarizen mit Angabe einer Blutung bei:\n\t\t\t\tSchistosomiasisB65.-I98.3"
+          },
+          "children": []
+        },
+        {
+          "code": "I85.9",
+          "kind": "category",
+          "label": "Ösophagusvarizen ohne Blutung",
+          "rubrics": {
+            "preferred": "Ösophagusvarizen ohne Blutung",
+            "inclusion": "Ösophagusvarizen o.n.A.",
+            "exclusion": "Ösophagusvarizen ohne Angabe einer Blutung bei:\n\t\t\t\tSchistosomiasisB65.-I98.2"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I86",
+      "kind": "category",
+      "label": "Varizen sonstiger Lokalisationen",
+      "rubrics": {
+        "preferred": "Varizen sonstiger Lokalisationen",
+        "exclusion": "Varizen nicht näher bezeichneter LokalisationI83.9"
+      },
+      "children": [
+        {
+          "code": "I86.0",
+          "kind": "category",
+          "label": "Sublinguale Varizen",
+          "rubrics": {
+            "preferred": "Sublinguale Varizen"
+          },
+          "children": []
+        },
+        {
+          "code": "I86.1",
+          "kind": "category",
+          "label": "Skrotumvarizen",
+          "rubrics": {
+            "preferred": "Skrotumvarizen",
+            "inclusion": "Varikozele"
+          },
+          "children": []
+        },
+        {
+          "code": "I86.2",
+          "kind": "category",
+          "label": "Beckenvarizen",
+          "rubrics": {
+            "preferred": "Beckenvarizen"
+          },
+          "children": []
+        },
+        {
+          "code": "I86.3",
+          "kind": "category",
+          "label": "Vulvavarizen",
+          "rubrics": {
+            "preferred": "Vulvavarizen",
+            "exclusion": "Als Komplikation bei:\n\t\t\t\tSchwangerschaftO22.1"
+          },
+          "children": []
+        },
+        {
+          "code": "I86.4",
+          "kind": "category",
+          "label": "Magenvarizen",
+          "rubrics": {
+            "preferred": "Magenvarizen",
+            "exclusion": "Magenvarizen bei:\n\t\t\t\tSchistosomiasisB65.-:\n\t\t\t\tohne Angabe einer BlutungI98.2"
+          },
+          "children": []
+        },
+        {
+          "code": "I86.8",
+          "kind": "category",
+          "label": "Varizen sonstiger näher bezeichneter Lokalisationen",
+          "rubrics": {
+            "preferred": "Varizen sonstiger näher bezeichneter Lokalisationen"
+          },
+          "children": [
+            {
+              "code": "I86.80",
+              "kind": "category",
+              "label": "Dünndarmvarizen",
+              "rubrics": {
+                "preferred": "Dünndarmvarizen"
+              },
+              "children": []
+            },
+            {
+              "code": "I86.81",
+              "kind": "category",
+              "label": "Dickdarmvarizen",
+              "rubrics": {
+                "preferred": "Dickdarmvarizen"
+              },
+              "children": []
+            },
+            {
+              "code": "I86.82",
+              "kind": "category",
+              "label": "Rektumvarizen",
+              "rubrics": {
+                "preferred": "Rektumvarizen"
+              },
+              "children": []
+            },
+            {
+              "code": "I86.88",
+              "kind": "category",
+              "label": "Varizen sonstiger näher bezeichneter Lokalisationen",
+              "rubrics": {
+                "preferred": "Varizen sonstiger näher bezeichneter Lokalisationen",
+                "inclusion": "Ulcus varicosum des Nasenseptums"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "I87",
+      "kind": "category",
+      "label": "Sonstige Venenkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Venenkrankheiten"
+      },
+      "children": [
+        {
+          "code": "I87.0",
+          "kind": "category",
+          "label": "Postthrombotisches Syndrom",
+          "rubrics": {
+            "preferred": "Postthrombotisches Syndrom"
+          },
+          "children": [
+            {
+              "code": "I87.00",
+              "kind": "category",
+              "label": "Postthrombotisches Syndrom ohne Ulzeration",
+              "rubrics": {
+                "preferred": "Postthrombotisches Syndrom ohne Ulzeration",
+                "inclusion": "Postthrombotisches Syndrom o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "I87.01",
+              "kind": "category",
+              "label": "Postthrombotisches Syndrom mit Ulzeration",
+              "rubrics": {
+                "preferred": "Postthrombotisches Syndrom mit Ulzeration",
+                "inclusion": "Postphlebitisches Syndrom mit Ulzeration"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "I87.1",
+          "kind": "category",
+          "label": "Venenkompression",
+          "rubrics": {
+            "preferred": "Venenkompression",
+            "inclusion": "Venenstriktur",
+            "exclusion": "LungenvenenI28.8"
+          },
+          "children": []
+        },
+        {
+          "code": "I87.2",
+          "kind": "category",
+          "label": "Venöse Insuffizienz (chronisch) (peripher)",
+          "rubrics": {
+            "preferred": "Venöse Insuffizienz (chronisch) (peripher)"
+          },
+          "children": [
+            {
+              "code": "I87.20",
+              "kind": "category",
+              "label": "Venöse Insuffizienz (chronisch) (peripher) ohne Ulzeration",
+              "rubrics": {
+                "preferred": "Venöse Insuffizienz (chronisch) (peripher) ohne Ulzeration",
+                "inclusion": "Venöse Insuffizienz (chronisch) (peripher), o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "I87.21",
+              "kind": "category",
+              "label": "Venöse Insuffizienz (chronisch) (peripher) mit Ulzeration",
+              "rubrics": {
+                "preferred": "Venöse Insuffizienz (chronisch) (peripher) mit Ulzeration",
+                "exclusion": "Ulcus cruris varicosumI83.0, I83.2"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "I87.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Venenkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Venenkrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "I87.9",
+          "kind": "category",
+          "label": "Venenkrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Venenkrankheit, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I88",
+      "kind": "category",
+      "label": "Unspezifische Lymphadenitis",
+      "rubrics": {
+        "preferred": "Unspezifische Lymphadenitis",
+        "exclusion": "Lymphknotenvergrößerung o.n.A.R59.-"
+      },
+      "children": [
+        {
+          "code": "I88.0",
+          "kind": "category",
+          "label": "Unspezifische mesenteriale Lymphadenitis",
+          "rubrics": {
+            "preferred": "Unspezifische mesenteriale Lymphadenitis",
+            "inclusion": "Mesenteriale Lymphadenitis (akut) (chronisch)"
+          },
+          "children": []
+        },
+        {
+          "code": "I88.1",
+          "kind": "category",
+          "label": "Chronische Lymphadenitis, ausgenommen mesenterial",
+          "rubrics": {
+            "preferred": "Chronische Lymphadenitis, ausgenommen mesenterial",
+            "inclusion": "Lymphadenitis\n\t\t\t\tchronisch, jeder Lymphknoten, ausgenommen mesenterial"
+          },
+          "children": []
+        },
+        {
+          "code": "I88.8",
+          "kind": "category",
+          "label": "Sonstige unspezifische Lymphadenitis",
+          "rubrics": {
+            "preferred": "Sonstige unspezifische Lymphadenitis"
+          },
+          "children": []
+        },
+        {
+          "code": "I88.9",
+          "kind": "category",
+          "label": "Unspezifische Lymphadenitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Unspezifische Lymphadenitis, nicht näher bezeichnet",
+            "inclusion": "Lymphadenitis o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I89",
+      "kind": "category",
+      "label": "Sonstige nichtinfektiöse Krankheiten der Lymphgefäße und Lymphknoten",
+      "rubrics": {
+        "preferred": "Sonstige nichtinfektiöse Krankheiten der Lymphgefäße und Lymphknoten",
+        "exclusion": "Lymphödem nach (partieller) Mastektomie I97.2-"
+      },
+      "children": [
+        {
+          "code": "I89.0",
+          "kind": "category",
+          "label": "Lymphödem, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Lymphödem, anderenorts nicht klassifiziert",
+            "inclusion": "Lymphangiektasie",
+            "coding-hint": "Ein gleichzeitig vorhandenes Lipödem ist gesondert zu kodieren E88.2-."
+          },
+          "children": [
+            {
+              "code": "I89.00",
+              "kind": "category",
+              "label": "Lymphödem der oberen und unteren Extremität(en), Stadium I",
+              "rubrics": {
+                "preferred": "Lymphödem der oberen und unteren Extremität(en), Stadium I"
+              },
+              "children": []
+            },
+            {
+              "code": "I89.01",
+              "kind": "category",
+              "label": "Lymphödem der oberen und unteren Extremität(en), Stadium II",
+              "rubrics": {
+                "preferred": "Lymphödem der oberen und unteren Extremität(en), Stadium II"
+              },
+              "children": []
+            },
+            {
+              "code": "I89.02",
+              "kind": "category",
+              "label": "Lymphödem der oberen und unteren Extremität(en), Stadium III",
+              "rubrics": {
+                "preferred": "Lymphödem der oberen und unteren Extremität(en), Stadium III"
+              },
+              "children": []
+            },
+            {
+              "code": "I89.03",
+              "kind": "category",
+              "label": "Lymphödem, sonstige Lokalisation, Stadium I",
+              "rubrics": {
+                "preferred": "Lymphödem, sonstige Lokalisation, Stadium I",
+                "inclusion": "Kopf, Hals, Thoraxwand, Genitalbereich"
+              },
+              "children": []
+            },
+            {
+              "code": "I89.04",
+              "kind": "category",
+              "label": "Lymphödem, sonstige Lokalisation, Stadium II",
+              "rubrics": {
+                "preferred": "Lymphödem, sonstige Lokalisation, Stadium II",
+                "inclusion": "Kopf, Hals, Thoraxwand, Genitalbereich"
+              },
+              "children": []
+            },
+            {
+              "code": "I89.05",
+              "kind": "category",
+              "label": "Lymphödem, sonstige Lokalisation, Stadium III",
+              "rubrics": {
+                "preferred": "Lymphödem, sonstige Lokalisation, Stadium III",
+                "inclusion": "Kopf, Hals, Thoraxwand, Genitalbereich"
+              },
+              "children": []
+            },
+            {
+              "code": "I89.08",
+              "kind": "category",
+              "label": "Sonstiges Lymphödem, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sonstiges Lymphödem, anderenorts nicht klassifiziert",
+                "inclusion": "Latenzstadium des Lymphödems"
+              },
+              "children": []
+            },
+            {
+              "code": "I89.09",
+              "kind": "category",
+              "label": "Lymphödem, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Lymphödem, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "I89.1",
+          "kind": "category",
+          "label": "Lymphangitis",
+          "rubrics": {
+            "preferred": "Lymphangitis",
+            "inclusion": "Lymphangitis:\n\t\t\t\to.n.A.",
+            "exclusion": "Akute LymphangitisL03.-"
+          },
+          "children": []
+        },
+        {
+          "code": "I89.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete nichtinfektiöse Krankheiten der Lymphgefäße und Lymphknoten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete nichtinfektiöse Krankheiten der Lymphgefäße und Lymphknoten",
+            "inclusion": "Lipomelanotische Retikulose"
+          },
+          "children": []
+        },
+        {
+          "code": "I89.9",
+          "kind": "category",
+          "label": "Nichtinfektiöse Krankheit der Lymphgefäße und Lymphknoten, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Nichtinfektiöse Krankheit der Lymphgefäße und Lymphknoten, nicht näher bezeichnet",
+            "inclusion": "Krankheit der Lymphgefäße o.n.A."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "code": "P28",
+  "kind": "category",
+  "label": "Sonstige Störungen der Atmung mit Ursprung in der Perinatalperiode",
+  "rubrics": {
+    "preferred": "Sonstige Störungen der Atmung mit Ursprung in der Perinatalperiode",
+    "exclusion": "Angeborene Fehlbildungen des AtmungssystemsQ30-Q34"
+  },
+  "children": [
+    {
+      "code": "P28.0",
+      "kind": "category",
+      "label": "Primäre Atelektase beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Primäre Atelektase beim Neugeborenen",
+        "inclusion": "Unreife der Lungen o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "P28.1",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Atelektase beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Atelektase beim Neugeborenen",
+        "inclusion": "Resorptionsatelektase ohne Atemnotsyndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "P28.2",
+      "kind": "category",
+      "label": "Zyanoseanfälle beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Zyanoseanfälle beim Neugeborenen",
+        "exclusion": "Apnoe beim NeugeborenenP28.3P28.4"
+      },
+      "children": []
+    },
+    {
+      "code": "P28.3",
+      "kind": "category",
+      "label": "Primäre Schlafapnoe beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Primäre Schlafapnoe beim Neugeborenen",
+        "inclusion": "Schlafapnoe beim Neugeborenen:\n\t\t\t\tzentral"
+      },
+      "children": []
+    },
+    {
+      "code": "P28.4",
+      "kind": "category",
+      "label": "Sonstige Apnoe beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige Apnoe beim Neugeborenen",
+        "inclusion": "Obstruktive Apnoe beim Neugeborenen",
+        "exclusion": "Obstruktive Schlafapnoe beim NeugeborenenP28.3"
+      },
+      "children": []
+    },
+    {
+      "code": "P28.5",
+      "kind": "category",
+      "label": "Respiratorisches Versagen beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Respiratorisches Versagen beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P28.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Störungen der Atmung beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Störungen der Atmung beim Neugeborenen",
+        "inclusion": "Stridor congenitus (laryngis) o.n.A.",
+        "exclusion": "Angeborene frühsyphilitische RhinitisA50.0"
+      },
+      "children": []
+    },
+    {
+      "code": "P28.9",
+      "kind": "category",
+      "label": "Störung der Atmung beim Neugeborenen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Störung der Atmung beim Neugeborenen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

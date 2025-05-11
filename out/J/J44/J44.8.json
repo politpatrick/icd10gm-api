@@ -1,0 +1,11 @@
+{
+  "code": "J44.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete chronische obstruktive Lungenkrankheit",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete chronische obstruktive Lungenkrankheit",
+    "inclusion": "Chronische Bronchitis:\n\t\t\t\tobstruktiv o.n.A.",
+    "exclusion": "Mit akuter Infektion der unteren AtemwegeJ44.0-"
+  },
+  "children": []
+}

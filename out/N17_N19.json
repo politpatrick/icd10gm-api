@@ -1,0 +1,186 @@
+{
+  "code": "N17-N19",
+  "kind": "block",
+  "label": "Niereninsuffizienz",
+  "rubrics": {
+    "preferred": "Niereninsuffizienz",
+    "coding-hint": "Soll das exogene Agens angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+    "exclusion": "Prärenale UrämieR39.2"
+  },
+  "children": [
+    {
+      "code": "N17",
+      "kind": "category",
+      "label": "Akutes Nierenversagen",
+      "rubrics": {
+        "preferred": "Akutes Nierenversagen",
+        "inclusion": "Akutes prärenales Nierenversagen"
+      },
+      "children": [
+        {
+          "code": "N17.0",
+          "kind": "category",
+          "label": "Akutes Nierenversagen mit Tubulusnekrose",
+          "rubrics": {
+            "preferred": "Akutes Nierenversagen mit Tubulusnekrose",
+            "inclusion": "Tubulusnekrose:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "N17.1",
+          "kind": "category",
+          "label": "Akutes Nierenversagen mit akuter Rindennekrose",
+          "rubrics": {
+            "preferred": "Akutes Nierenversagen mit akuter Rindennekrose",
+            "inclusion": "Rindennekrose:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "N17.2",
+          "kind": "category",
+          "label": "Akutes Nierenversagen mit Marknekrose",
+          "rubrics": {
+            "preferred": "Akutes Nierenversagen mit Marknekrose",
+            "inclusion": "Papillen- [Mark-] Nekrose:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "N17.8",
+          "kind": "category",
+          "label": "Sonstiges akutes Nierenversagen",
+          "rubrics": {
+            "preferred": "Sonstiges akutes Nierenversagen",
+            "inclusion": "Akutes Nierenversagen mit sonstigen histologischen Befunden"
+          },
+          "children": []
+        },
+        {
+          "code": "N17.9",
+          "kind": "category",
+          "label": "Akutes Nierenversagen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Akutes Nierenversagen, nicht näher bezeichnet",
+            "inclusion": "Akutes Nierenversagen ohne Vorliegen eines histologischen Befundes"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N18",
+      "kind": "category",
+      "label": "Chronische Nierenkrankheit",
+      "rubrics": {
+        "preferred": "Chronische Nierenkrankheit",
+        "inclusion": "Urämisch:\n\t\t\t\tPerikarditis† I32.8",
+        "coding-hint": "Soll das Vorliegen einer hypertensiven Nierenkrankheit angegeben werden, ist eine zusätzliche Schlüsselnummer aus I12.- oder I13.- zu benutzen."
+      },
+      "children": [
+        {
+          "code": "N18.1",
+          "kind": "category",
+          "label": "Chronische Nierenkrankheit, Stadium 1",
+          "rubrics": {
+            "preferred": "Chronische Nierenkrankheit, Stadium 1",
+            "inclusion": "Glomeruläre Filtrationsrate 90 ml/min/1,73 m² Körperoberfläche oder höher"
+          },
+          "children": []
+        },
+        {
+          "code": "N18.2",
+          "kind": "category",
+          "label": "Chronische Nierenkrankheit, Stadium 2",
+          "rubrics": {
+            "preferred": "Chronische Nierenkrankheit, Stadium 2",
+            "inclusion": "Glomeruläre Filtrationsrate 60 bis unter 90 ml/min/1,73 m² Körperoberfläche"
+          },
+          "children": []
+        },
+        {
+          "code": "N18.3",
+          "kind": "category",
+          "label": "Chronische Nierenkrankheit, Stadium 3",
+          "rubrics": {
+            "preferred": "Chronische Nierenkrankheit, Stadium 3",
+            "inclusion": "Glomeruläre Filtrationsrate 30 bis unter 60 ml/min/1,73 m² Körperoberfläche"
+          },
+          "children": []
+        },
+        {
+          "code": "N18.4",
+          "kind": "category",
+          "label": "Chronische Nierenkrankheit, Stadium 4",
+          "rubrics": {
+            "preferred": "Chronische Nierenkrankheit, Stadium 4",
+            "inclusion": "Präterminale Niereninsuffizienz"
+          },
+          "children": []
+        },
+        {
+          "code": "N18.5",
+          "kind": "category",
+          "label": "Chronische Nierenkrankheit, Stadium 5",
+          "rubrics": {
+            "preferred": "Chronische Nierenkrankheit, Stadium 5",
+            "inclusion": "Terminale Niereninsuffizienz"
+          },
+          "children": []
+        },
+        {
+          "code": "N18.8",
+          "kind": "category",
+          "label": "Sonstige chronische Nierenkrankheit",
+          "rubrics": {
+            "preferred": "Sonstige chronische Nierenkrankheit"
+          },
+          "children": [
+            {
+              "code": "N18.80",
+              "kind": "category",
+              "label": "Einseitige chronische Nierenfunktionsstörung",
+              "rubrics": {
+                "preferred": "Einseitige chronische Nierenfunktionsstörung",
+                "text": "Der relative Funktionsanteil der betroffenen Niere liegt unter 35 %."
+              },
+              "children": []
+            },
+            {
+              "code": "N18.89",
+              "kind": "category",
+              "label": "Sonstige chronische Nierenkrankheit, Stadium nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Sonstige chronische Nierenkrankheit, Stadium nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N18.9",
+          "kind": "category",
+          "label": "Chronische Nierenkrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Chronische Nierenkrankheit, nicht näher bezeichnet",
+            "inclusion": "Diffuse sklerosierende Glomerulonephritis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N19",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Niereninsuffizienz",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Niereninsuffizienz",
+        "inclusion": "Urämie o.n.A.",
+        "coding-hint": "Soll das Vorliegen einer hypertensiven Nierenkrankheit angegeben werden, ist eine zusätzliche Schlüsselnummer aus I12.- oder I13.- zu benutzen.",
+        "exclusion": "Urämie beim Neugeborenen P96.0"
+      },
+      "children": []
+    }
+  ]
+}

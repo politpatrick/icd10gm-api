@@ -1,0 +1,10 @@
+{
+  "code": "J11.8",
+  "kind": "category",
+  "label": "Grippe mit sonstigen Manifestationen, Viren nicht nachgewiesen",
+  "rubrics": {
+    "preferred": "Grippe mit sonstigen Manifestationen, Viren nicht nachgewiesen",
+    "inclusion": "Grippe:\n\t\t\t\tMyokarditis (akut)\n\t\t\t\tnicht näher bezeichnet oder spezifische Viren nicht nachgewiesen"
+  },
+  "children": []
+}

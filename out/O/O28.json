@@ -1,0 +1,83 @@
+{
+  "code": "O28",
+  "kind": "category",
+  "label": "Abnorme Befunde bei der Screeninguntersuchung der Mutter zur pränatalen Diagnostik",
+  "rubrics": {
+    "preferred": "Abnorme Befunde bei der Screeninguntersuchung der Mutter zur pränatalen Diagnostik",
+    "exclusion": "Betreuung der Mutter im Hinblick auf den Fetus und die Amnionhöhle sowie mögliche EntbindungskomplikationenO30-O48"
+  },
+  "children": [
+    {
+      "code": "O28.0",
+      "kind": "category",
+      "label": "Abnormer hämatologischer Befund bei der pränatalen Screeninguntersuchung der Mutter",
+      "rubrics": {
+        "preferred": "Abnormer hämatologischer Befund bei der pränatalen Screeninguntersuchung der Mutter"
+      },
+      "children": []
+    },
+    {
+      "code": "O28.1",
+      "kind": "category",
+      "label": "Abnormer biochemischer Befund bei der pränatalen Screeninguntersuchung der Mutter",
+      "rubrics": {
+        "preferred": "Abnormer biochemischer Befund bei der pränatalen Screeninguntersuchung der Mutter"
+      },
+      "children": []
+    },
+    {
+      "code": "O28.2",
+      "kind": "category",
+      "label": "Abnormer zytologischer Befund bei der pränatalen Screeninguntersuchung der Mutter",
+      "rubrics": {
+        "preferred": "Abnormer zytologischer Befund bei der pränatalen Screeninguntersuchung der Mutter"
+      },
+      "children": []
+    },
+    {
+      "code": "O28.3",
+      "kind": "category",
+      "label": "Abnormer Ultraschallbefund bei der pränatalen Screeninguntersuchung der Mutter",
+      "rubrics": {
+        "preferred": "Abnormer Ultraschallbefund bei der pränatalen Screeninguntersuchung der Mutter"
+      },
+      "children": []
+    },
+    {
+      "code": "O28.4",
+      "kind": "category",
+      "label": "Abnormer radiologischer Befund bei der pränatalen Screeninguntersuchung der Mutter",
+      "rubrics": {
+        "preferred": "Abnormer radiologischer Befund bei der pränatalen Screeninguntersuchung der Mutter"
+      },
+      "children": []
+    },
+    {
+      "code": "O28.5",
+      "kind": "category",
+      "label": "Abnormer Chromosomen- oder genetischer Befund bei der pränatalen Screeninguntersuchung der Mutter",
+      "rubrics": {
+        "preferred": "Abnormer Chromosomen- oder genetischer Befund bei der pränatalen Screeninguntersuchung der Mutter"
+      },
+      "children": []
+    },
+    {
+      "code": "O28.8",
+      "kind": "category",
+      "label": "Sonstige abnorme Befunde bei der pränatalen Screeninguntersuchung der Mutter",
+      "rubrics": {
+        "preferred": "Sonstige abnorme Befunde bei der pränatalen Screeninguntersuchung der Mutter"
+      },
+      "children": []
+    },
+    {
+      "code": "O28.9",
+      "kind": "category",
+      "label": "Anomaler Befund bei der pränatalen Screeninguntersuchung der Mutter, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Anomaler Befund bei der pränatalen Screeninguntersuchung der Mutter, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

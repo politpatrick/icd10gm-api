@@ -1,0 +1,62 @@
+{
+  "code": "E88.2",
+  "kind": "category",
+  "label": "Lipomatose, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Lipomatose, anderenorts nicht klassifiziert",
+    "coding-hint": "Ein gleichzeitig vorhandenes Lymphödem ist gesondert zu kodieren I89.0-.",
+    "exclusion": "Lokalisierte schmerzlose Lipohypertrophie E65"
+  },
+  "children": [
+    {
+      "code": "E88.20",
+      "kind": "category",
+      "label": "Lipödem, Stadium I",
+      "rubrics": {
+        "preferred": "Lipödem, Stadium I",
+        "inclusion": "Lokalisierte schmerzhafte symmetrische Lipohypertrophie der Extremitäten mit Ödem, mit glatter Hautoberfläche, mit gleichmäßig verdickter Subkutis"
+      },
+      "children": []
+    },
+    {
+      "code": "E88.21",
+      "kind": "category",
+      "label": "Lipödem, Stadium II",
+      "rubrics": {
+        "preferred": "Lipödem, Stadium II",
+        "inclusion": "Lokalisierte schmerzhafte symmetrische Lipohypertrophie der Extremitäten mit Ödem, mit unebener, wellenartiger Hautoberfläche, mit knotigen Strukturen in verdickter Subkutis"
+      },
+      "children": []
+    },
+    {
+      "code": "E88.22",
+      "kind": "category",
+      "label": "Lipödem, Stadium III",
+      "rubrics": {
+        "preferred": "Lipödem, Stadium III",
+        "inclusion": "Lokalisierte schmerzhafte symmetrische Lipohypertrophie der Extremitäten mit Ödem, mit ausgeprägter Umfangsvermehrung und großlappig überhängenden Gewebeanteilen von Haut und Subkutis"
+      },
+      "children": []
+    },
+    {
+      "code": "E88.28",
+      "kind": "category",
+      "label": "Sonstiges oder nicht näher bezeichnetes Lipödem",
+      "rubrics": {
+        "preferred": "Sonstiges oder nicht näher bezeichnetes Lipödem",
+        "inclusion": "Lokalisierte schmerzhafte symmetrische Lipohypertrophie der Extremitäten mit Ödem, Stadium nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "E88.29",
+      "kind": "category",
+      "label": "Sonstige Lipomatose, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Lipomatose, anderenorts nicht klassifiziert",
+        "inclusion": "Lipomatosis dolorosa [Dercum-Krankheit]"
+      },
+      "children": []
+    }
+  ]
+}

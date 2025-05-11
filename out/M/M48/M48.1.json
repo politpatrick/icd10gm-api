@@ -1,0 +1,10 @@
+{
+  "code": "M48.1",
+  "kind": "category",
+  "label": "Spondylitis hyperostotica [Forestier-Ott]",
+  "rubrics": {
+    "preferred": "Spondylitis hyperostotica [Forestier-Ott]",
+    "inclusion": "Diffuse idiopathische Skeletthyperostose [DISH]"
+  },
+  "children": []
+}

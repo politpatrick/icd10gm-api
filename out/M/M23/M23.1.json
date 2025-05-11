@@ -1,0 +1,50 @@
+{
+  "code": "M23.1",
+  "kind": "category",
+  "label": "Scheibenmeniskus (angeboren)",
+  "rubrics": {
+    "preferred": "Scheibenmeniskus (angeboren)"
+  },
+  "children": [
+    {
+      "code": "M23.10",
+      "kind": "category",
+      "label": "Mehrere Lokalisationen",
+      "rubrics": {
+        "preferred": "Mehrere Lokalisationen",
+        "preferredLong": "Scheibenmeniskus (angeboren): Mehrere Lokalisationen"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.13",
+      "kind": "category",
+      "label": "Innenmeniskus",
+      "rubrics": {
+        "preferred": "Innenmeniskus",
+        "preferredLong": "Scheibenmeniskus (angeboren): Innenmeniskus"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.16",
+      "kind": "category",
+      "label": "Außenmeniskus",
+      "rubrics": {
+        "preferred": "Außenmeniskus",
+        "preferredLong": "Scheibenmeniskus (angeboren): Außenmeniskus"
+      },
+      "children": []
+    },
+    {
+      "code": "M23.19",
+      "kind": "category",
+      "label": "Nicht näher bezeichneter Meniskus",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichneter Meniskus",
+        "preferredLong": "Scheibenmeniskus (angeboren): Nicht näher bezeichneter Meniskus"
+      },
+      "children": []
+    }
+  ]
+}

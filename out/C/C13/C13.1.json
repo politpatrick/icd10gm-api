@@ -1,0 +1,12 @@
+{
+  "code": "C13.1",
+  "kind": "category",
+  "label": "Aryepiglottische Falte, hypopharyngeale Seite",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Aryepiglottische Falte, hypopharyngeale Seite",
+    "preferred": "Aryepiglottische Falte, hypopharyngeale Seite",
+    "inclusion": "Aryepiglottische Falte:\n\t\t\t\to.n.A.",
+    "exclusion": "Aryepiglottische Falte, laryngeale SeiteC32.1"
+  },
+  "children": []
+}

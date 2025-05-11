@@ -1,0 +1,10 @@
+{
+  "code": "R23.1",
+  "kind": "category",
+  "label": "Blässe",
+  "rubrics": {
+    "preferred": "Blässe",
+    "inclusion": "Feuchtkalte Haut"
+  },
+  "children": []
+}

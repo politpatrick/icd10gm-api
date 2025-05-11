@@ -1,0 +1,11 @@
+{
+  "code": "N48.0",
+  "kind": "category",
+  "label": "Leukoplakie des Penis",
+  "rubrics": {
+    "preferred": "Leukoplakie des Penis",
+    "inclusion": "Kraurosis des Penis",
+    "exclusion": "Carcinoma in situ des PenisD07.4"
+  },
+  "children": []
+}

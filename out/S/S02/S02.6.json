@@ -1,0 +1,112 @@
+{
+  "code": "S02.6",
+  "kind": "category",
+  "label": "Unterkieferfraktur",
+  "rubrics": {
+    "preferred": "Unterkieferfraktur",
+    "inclusion": "Unterkiefer (-Knochen)"
+  },
+  "children": [
+    {
+      "code": "S02.60",
+      "kind": "category",
+      "label": "Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Unterkieferfraktur: Teil nicht näher bezeichnet",
+        "preferred": "Teil nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.61",
+      "kind": "category",
+      "label": "Processus condylaris",
+      "rubrics": {
+        "preferredLong": "Unterkieferfraktur: Processus condylaris",
+        "preferred": "Processus condylaris"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.62",
+      "kind": "category",
+      "label": "Subkondylär",
+      "rubrics": {
+        "preferredLong": "Unterkieferfraktur: Subkondylär",
+        "preferred": "Subkondylär"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.63",
+      "kind": "category",
+      "label": "Processus coronoideus",
+      "rubrics": {
+        "preferredLong": "Unterkieferfraktur: Processus coronoideus",
+        "preferred": "Processus coronoideus"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.64",
+      "kind": "category",
+      "label": "Ramus mandibulae, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Unterkieferfraktur: Ramus mandibulae, nicht näher bezeichnet",
+        "preferred": "Ramus mandibulae, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.65",
+      "kind": "category",
+      "label": "Angulus mandibulae",
+      "rubrics": {
+        "preferredLong": "Unterkieferfraktur: Angulus mandibulae",
+        "preferred": "Angulus mandibulae"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.66",
+      "kind": "category",
+      "label": "Symphysis mandibulae",
+      "rubrics": {
+        "preferredLong": "Unterkieferfraktur: Symphysis mandibulae",
+        "preferred": "Symphysis mandibulae"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.67",
+      "kind": "category",
+      "label": "Pars alveolaris",
+      "rubrics": {
+        "preferredLong": "Unterkieferfraktur: Pars alveolaris",
+        "preferred": "Pars alveolaris",
+        "inclusion": "Alveolarfortsatz des Unterkiefers"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.68",
+      "kind": "category",
+      "label": "Corpus mandibulae, sonstige und nicht näher bezeichnete Teile",
+      "rubrics": {
+        "preferredLong": "Unterkieferfraktur: Corpus mandibulae, sonstige und nicht näher bezeichnete Teile",
+        "preferred": "Corpus mandibulae, sonstige und nicht näher bezeichnete Teile"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.69",
+      "kind": "category",
+      "label": "Mehrere Teile",
+      "rubrics": {
+        "preferredLong": "Unterkieferfraktur: Mehrere Teile",
+        "preferred": "Mehrere Teile"
+      },
+      "children": []
+    }
+  ]
+}

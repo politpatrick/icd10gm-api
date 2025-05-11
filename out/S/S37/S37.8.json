@@ -1,0 +1,61 @@
+{
+  "code": "S37.8",
+  "kind": "category",
+  "label": "Verletzung sonstiger Harnorgane und Beckenorgane",
+  "rubrics": {
+    "preferred": "Verletzung sonstiger Harnorgane und Beckenorgane",
+    "exclusion": "Offene Wunde sonstiger und nicht näher bezeichneter äußerer GenitalorganeS31.5"
+  },
+  "children": [
+    {
+      "code": "S37.81",
+      "kind": "category",
+      "label": "Nebenniere",
+      "rubrics": {
+        "preferredLong": "Verletzung: Nebenniere",
+        "preferred": "Nebenniere"
+      },
+      "children": []
+    },
+    {
+      "code": "S37.82",
+      "kind": "category",
+      "label": "Prostata",
+      "rubrics": {
+        "preferredLong": "Verletzung: Prostata",
+        "preferred": "Prostata"
+      },
+      "children": []
+    },
+    {
+      "code": "S37.83",
+      "kind": "category",
+      "label": "Bläschendrüse [Vesicula seminalis]",
+      "rubrics": {
+        "preferredLong": "Verletzung: Bläschendrüse [Vesicula seminalis]",
+        "preferred": "Bläschendrüse [Vesicula seminalis]"
+      },
+      "children": []
+    },
+    {
+      "code": "S37.84",
+      "kind": "category",
+      "label": "Samenleiter",
+      "rubrics": {
+        "preferredLong": "Verletzung: Samenleiter",
+        "preferred": "Samenleiter"
+      },
+      "children": []
+    },
+    {
+      "code": "S37.88",
+      "kind": "category",
+      "label": "Sonstige Beckenorgane",
+      "rubrics": {
+        "preferredLong": "Verletzung: Sonstige Beckenorgane",
+        "preferred": "Sonstige Beckenorgane"
+      },
+      "children": []
+    }
+  ]
+}

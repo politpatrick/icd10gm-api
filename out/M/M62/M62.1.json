@@ -1,0 +1,10 @@
+{
+  "code": "M62.1",
+  "kind": "category",
+  "label": "Sonstiger Muskelriss (nichttraumatisch)",
+  "rubrics": {
+    "preferred": "Sonstiger Muskelriss (nichttraumatisch)",
+    "exclusion": "Traumatischer Muskelriss - siehe Muskelverletzung nach Körperregion"
+  },
+  "children": []
+}

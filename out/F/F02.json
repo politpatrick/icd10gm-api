@@ -1,0 +1,74 @@
+{
+  "code": "F02",
+  "kind": "category",
+  "label": "Demenz bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Demenz bei anderenorts klassifizierten Krankheiten",
+    "definition": "Formen der Demenz, bei denen eine andere Ursache als die Alzheimer-Krankheit oder eine zerebrovaskuläre Krankheit vorliegt oder vermutet wird. Sie kann in jedem Lebensalter auftreten, selten jedoch im höheren Alter.",
+    "coding-hint": "Soll das Vorliegen von psychischen oder Verhaltensstörungen spezifisch angegeben werden, so sind sekundäre SchlüsselnummernU63.- zu benutzen."
+  },
+  "children": [
+    {
+      "code": "F02.0",
+      "kind": "category",
+      "label": "Demenz bei Pick-KrankheitG31.0",
+      "rubrics": {
+        "preferred": "Demenz bei Pick-KrankheitG31.0",
+        "definition": "Eine progrediente Demenz mit Beginn im mittleren Lebensalter, charakterisiert durch frühe, langsam fortschreitende Persönlichkeitsänderung und Verlust sozialer Fähigkeiten. Die Krankheit ist gefolgt von Beeinträchtigungen von Intellekt, Gedächtnis und Sprachfunktionen mit Apathie, Euphorie und gelegentlich auch extrapyramidalen Phänomenen."
+      },
+      "children": []
+    },
+    {
+      "code": "F02.1",
+      "kind": "category",
+      "label": "Demenz bei Creutzfeldt-Jakob-KrankheitA81.0",
+      "rubrics": {
+        "preferred": "Demenz bei Creutzfeldt-Jakob-KrankheitA81.0",
+        "definition": "Eine progrediente Demenz mit vielfältigen neurologischen Symptomen als Folge spezifischer neuropathologischer Veränderungen, die vermutlich durch ein übertragbares Agens verursacht werden. Beginn gewöhnlich im mittleren oder höheren Lebensalter, Auftreten jedoch in jedem Erwachsenenalter möglich. Der Verlauf ist subakut und führt innerhalb von ein bis zwei Jahren zum Tode."
+      },
+      "children": []
+    },
+    {
+      "code": "F02.2",
+      "kind": "category",
+      "label": "Demenz bei Chorea HuntingtonG10",
+      "rubrics": {
+        "preferred": "Demenz bei Chorea HuntingtonG10",
+        "definition": "Eine Demenz, die im Rahmen einer ausgeprägten Hirndegeneration auftritt. Die Störung ist autosomal dominant erblich. Die Symptomatik beginnt typischerweise im dritten und vierten Lebensjahrzehnt. Bei langsamer Progredienz führt die Krankheit meist innerhalb von 10 - 15 Jahren zum Tode.",
+        "inclusion": "Demenz bei Huntington-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "F02.3",
+      "kind": "category",
+      "label": "Demenz bei primärem Parkinson-SyndromG20.-",
+      "rubrics": {
+        "preferred": "Demenz bei primärem Parkinson-SyndromG20.-",
+        "definition": "Eine Demenz, die sich im Verlauf einer Parkinson-Krankheit entwickelt. Bisher konnten allerdings noch keine charakteristischen klinischen Merkmale beschrieben werden.",
+        "inclusion": "Demenz bei:\n\t\t\t\tParkinsonismus oder Parkinson-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "F02.4",
+      "kind": "category",
+      "label": "Demenz bei HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]B22",
+      "rubrics": {
+        "preferred": "Demenz bei HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]B22",
+        "definition": "Eine Demenz, die sich im Verlauf einer HIV-Krankheit entwickelt, ohne gleichzeitige andere Krankheit oder Störung, die das klinische Bild erklären könnte."
+      },
+      "children": []
+    },
+    {
+      "code": "F02.8",
+      "kind": "category",
+      "label": "Demenz bei anderenorts klassifizierten Krankheitsbildern",
+      "rubrics": {
+        "preferred": "Demenz bei anderenorts klassifizierten Krankheitsbildern",
+        "inclusion": "Demenz (bei):\n\t\t\t\tzerebraler LipidstoffwechselstörungE75.-"
+      },
+      "children": []
+    }
+  ]
+}

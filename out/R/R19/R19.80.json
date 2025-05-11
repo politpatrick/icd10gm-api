@@ -1,0 +1,10 @@
+{
+  "code": "R19.80",
+  "kind": "category",
+  "label": "Abdominales Kompartmentsyndrom",
+  "rubrics": {
+    "preferred": "Abdominales Kompartmentsyndrom",
+    "coding-hint": "Benutze zusätzliche Schlüsselnummern, um die zugrunde liegenden Zustände anzugeben."
+  },
+  "children": []
+}

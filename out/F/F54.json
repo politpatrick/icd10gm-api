@@ -1,0 +1,13 @@
+{
+  "code": "F54",
+  "kind": "category",
+  "label": "Psychologische Faktoren oder Verhaltensfaktoren bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Psychologische Faktoren oder Verhaltensfaktoren bei anderenorts klassifizierten Krankheiten",
+    "definition": "Diese Kategorie sollte verwendet werden, um psychische Faktoren und Verhaltenseinflüsse zu erfassen, die eine wesentliche Rolle in der Ätiologie körperlicher Krankheiten spielen, die in anderen Kapiteln der ICD-10 klassifiziert werden. Die sich hierbei ergebenden psychischen Störungen sind meist leicht, oft lang anhaltend (wie Sorgen, emotionale Konflikte, ängstliche Erwartung) und rechtfertigen nicht die Zuordnung zu einer der anderen Kategorien des Kapitels V.",
+    "inclusion": "Beispiele für den Gebrauch dieser Kategorie sind:\n\t\t\t\tUrtikaria F54 und L50.-",
+    "coding-hint": "Soll eine assoziierte körperliche Krankheit angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen.",
+    "exclusion": "SpannungskopfschmerzG44.2"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "P05.9",
+  "kind": "category",
+  "label": "Intrauterine Mangelentwicklung, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Intrauterine Mangelentwicklung, nicht näher bezeichnet",
+    "inclusion": "Fetale Wachstumsretardierung o.n.A."
+  },
+  "children": []
+}

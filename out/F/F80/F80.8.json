@@ -1,0 +1,10 @@
+{
+  "code": "F80.8",
+  "kind": "category",
+  "label": "Sonstige Entwicklungsstörungen des Sprechens oder der Sprache",
+  "rubrics": {
+    "preferred": "Sonstige Entwicklungsstörungen des Sprechens oder der Sprache",
+    "inclusion": "Lispeln"
+  },
+  "children": []
+}

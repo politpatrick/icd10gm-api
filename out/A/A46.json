@@ -1,0 +1,10 @@
+{
+  "code": "A46",
+  "kind": "category",
+  "label": "Erysipel [Wundrose]",
+  "rubrics": {
+    "preferred": "Erysipel [Wundrose]",
+    "exclusion": "Postpartales oder puerperales ErysipelO86.8"
+  },
+  "children": []
+}

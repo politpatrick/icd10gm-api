@@ -1,0 +1,12 @@
+{
+  "code": "F84.1",
+  "kind": "category",
+  "label": "Atypischer Autismus",
+  "rubrics": {
+    "preferred": "Atypischer Autismus",
+    "definition": "Diese Form der tief greifenden Entwicklungsstörung unterscheidet sich vom frühkindlichen Autismus entweder durch das Alter bei Krankheitsbeginn oder dadurch, dass die diagnostischen Kriterien nicht in allen genannten Bereichen erfüllt werden. Diese Subkategorie sollte immer dann verwendet werden, wenn die abnorme oder beeinträchtigte Entwicklung erst nach dem dritten Lebensjahr manifest wird und wenn nicht in allen für die Diagnose Autismus geforderten psychopathologischen Bereichen (nämlich wechselseitige soziale Interaktionen, Kommunikation und eingeschränktes, stereotyp repetitives Verhalten) Auffälligkeiten nachweisbar sind, auch wenn charakteristische Abweichungen auf anderen Gebieten vorliegen. Atypischer Autismus tritt sehr häufig bei schwer retardierten bzw. unter einer schweren rezeptiven Störung der Sprachentwicklung leidenden Patienten auf.",
+    "inclusion": "Intelligenzminderung mit autistischen Zügen",
+    "coding-hint": "Soll eine Intelligenzstörung angegeben werden, ist eine zusätzliche Schlüsselnummer (F70-F79) zu benutzen."
+  },
+  "children": []
+}

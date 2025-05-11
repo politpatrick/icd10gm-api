@@ -1,0 +1,29 @@
+{
+  "code": "K87",
+  "kind": "category",
+  "label": "Krankheiten der Gallenblase, der Gallenwege und des Pankreas bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten der Gallenblase, der Gallenwege und des Pankreas bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "K87.0",
+      "kind": "category",
+      "label": "Krankheiten der Gallenblase und der Gallenwege bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten der Gallenblase und der Gallenwege bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "K87.1",
+      "kind": "category",
+      "label": "Krankheiten des Pankreas bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten des Pankreas bei anderenorts klassifizierten Krankheiten",
+        "inclusion": "Pankreatitis bei ZytomegalieB25.2"
+      },
+      "children": []
+    }
+  ]
+}

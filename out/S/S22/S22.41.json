@@ -1,0 +1,11 @@
+{
+  "code": "S22.41",
+  "kind": "category",
+  "label": "Mit Beteiligung der ersten Rippe",
+  "rubrics": {
+    "preferredLong": "Rippenserienfraktur: Mit Beteiligung der ersten Rippe",
+    "preferred": "Mit Beteiligung der ersten Rippe",
+    "inclusion": "Jede Fraktur multipler Rippen mit Beteiligung der ersten Rippe"
+  },
+  "children": []
+}

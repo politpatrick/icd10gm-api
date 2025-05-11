@@ -1,0 +1,12 @@
+{
+  "code": "R86",
+  "kind": "category",
+  "label": "Abnorme Befunde in Untersuchungsmaterialien aus den männlichen Genitalorganen",
+  "rubrics": {
+    "preferred": "Abnorme Befunde in Untersuchungsmaterialien aus den männlichen Genitalorganen",
+    "modifierlink": "[4. Stellen siehe am Anfang dieser Gruppe]",
+    "inclusion": "Veränderte Spermien",
+    "exclusion": "OligozoospermieN46"
+  },
+  "children": []
+}

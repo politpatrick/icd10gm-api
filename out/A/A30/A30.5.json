@@ -1,0 +1,10 @@
+{
+  "code": "A30.5",
+  "kind": "category",
+  "label": "Lepromatöse Lepra",
+  "rubrics": {
+    "preferred": "Lepromatöse Lepra",
+    "inclusion": "LL-Lepra"
+  },
+  "children": []
+}

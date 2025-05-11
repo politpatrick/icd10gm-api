@@ -1,0 +1,13 @@
+{
+  "code": "F48.0",
+  "kind": "category",
+  "label": "Neurasthenie",
+  "rubrics": {
+    "preferred": "Neurasthenie",
+    "definition": "Im Erscheinungsbild zeigen sich beträchtliche kulturelle Unterschiede. Zwei Hauptformen überschneiden sich beträchtlich. Bei einer Form ist das Hauptcharakteristikum die Klage über vermehrte Müdigkeit nach geistigen Anstrengungen, häufig verbunden mit abnehmender Arbeitsleistung oder Effektivität bei der Bewältigung täglicher Aufgaben. Die geistige Ermüdbarkeit wird typischerweise als unangenehmes Eindringen ablenkender Assoziationen oder Erinnerungen beschrieben, als Konzentrationsschwäche und allgemein ineffektives Denken. Bei der anderen Form liegt das Schwergewicht auf Gefühlen körperlicher Schwäche und Erschöpfung nach nur geringer Anstrengung, begleitet von muskulären und anderen Schmerzen und der Unfähigkeit, sich zu entspannen. Bei beiden Formen finden sich eine ganze Reihe von anderen unangenehmen körperlichen Empfindungen wie Schwindelgefühl, Spannungskopfschmerz und allgemeine Unsicherheit. Sorge über abnehmendes geistiges und körperliches Wohlbefinden, Reizbarkeit, Freudlosigkeit, Depression und Angst sind häufig. Der Schlaf ist oft in der ersten und mittleren Phase gestört, es kann aber auch Hypersomnie im Vordergrund stehen.",
+    "inclusion": "Ermüdungssyndrom",
+    "coding-hint": "Soll eine vorausgegangene Krankheit angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen.",
+    "exclusion": "Unwohlsein und ErmüdungR53"
+  },
+  "children": []
+}

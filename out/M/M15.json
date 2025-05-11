@@ -1,0 +1,77 @@
+{
+  "code": "M15",
+  "kind": "category",
+  "label": "Polyarthrose",
+  "rubrics": {
+    "preferred": "Polyarthrose",
+    "inclusion": "Arthrose mit Angabe von mehr als einer Lokalisation",
+    "exclusion": "Beidseitige Beteiligung einzelner GelenkeM16-M19"
+  },
+  "children": [
+    {
+      "code": "M15.0",
+      "kind": "category",
+      "label": "Primäre generalisierte (Osteo-) Arthrose",
+      "rubrics": {
+        "preferred": "Primäre generalisierte (Osteo-) Arthrose"
+      },
+      "children": []
+    },
+    {
+      "code": "M15.1",
+      "kind": "category",
+      "label": "Heberden-Knoten (mit Arthropathie)",
+      "rubrics": {
+        "preferred": "Heberden-Knoten (mit Arthropathie)"
+      },
+      "children": []
+    },
+    {
+      "code": "M15.2",
+      "kind": "category",
+      "label": "Bouchard-Knoten (mit Arthropathie)",
+      "rubrics": {
+        "preferred": "Bouchard-Knoten (mit Arthropathie)"
+      },
+      "children": []
+    },
+    {
+      "code": "M15.3",
+      "kind": "category",
+      "label": "Sekundäre multiple Arthrose",
+      "rubrics": {
+        "preferred": "Sekundäre multiple Arthrose",
+        "inclusion": "Posttraumatische Polyarthrose"
+      },
+      "children": []
+    },
+    {
+      "code": "M15.4",
+      "kind": "category",
+      "label": "Erosive (Osteo-) Arthrose",
+      "rubrics": {
+        "preferred": "Erosive (Osteo-) Arthrose"
+      },
+      "children": []
+    },
+    {
+      "code": "M15.8",
+      "kind": "category",
+      "label": "Sonstige Polyarthrose",
+      "rubrics": {
+        "preferred": "Sonstige Polyarthrose"
+      },
+      "children": []
+    },
+    {
+      "code": "M15.9",
+      "kind": "category",
+      "label": "Polyarthrose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Polyarthrose, nicht näher bezeichnet",
+        "inclusion": "Generalisierte (Osteo-) Arthrose o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

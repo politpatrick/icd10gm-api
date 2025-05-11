@@ -1,0 +1,72 @@
+{
+  "code": "C17",
+  "kind": "category",
+  "label": "Bösartige Neubildung des Dünndarmes",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung des Dünndarmes"
+  },
+  "children": [
+    {
+      "code": "C17.0",
+      "kind": "category",
+      "label": "Duodenum",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Duodenum",
+        "preferred": "Duodenum"
+      },
+      "children": []
+    },
+    {
+      "code": "C17.1",
+      "kind": "category",
+      "label": "Jejunum",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Jejunum",
+        "preferred": "Jejunum"
+      },
+      "children": []
+    },
+    {
+      "code": "C17.2",
+      "kind": "category",
+      "label": "Ileum",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Ileum",
+        "preferred": "Ileum",
+        "exclusion": "Ileozäkalklappe [Bauhin]C18.0"
+      },
+      "children": []
+    },
+    {
+      "code": "C17.3",
+      "kind": "category",
+      "label": "Meckel-Divertikel",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Meckel-Divertikel",
+        "preferred": "Meckel-Divertikel"
+      },
+      "children": []
+    },
+    {
+      "code": "C17.8",
+      "kind": "category",
+      "label": "Dünndarm, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Dünndarm, mehrere Teilbereiche überlappend",
+        "preferred": "Dünndarm, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+      },
+      "children": []
+    },
+    {
+      "code": "C17.9",
+      "kind": "category",
+      "label": "Dünndarm, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Dünndarm, nicht näher bezeichnet",
+        "preferred": "Dünndarm, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

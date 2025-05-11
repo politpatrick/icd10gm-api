@@ -1,0 +1,110 @@
+{
+  "code": "K04",
+  "kind": "category",
+  "label": "Krankheiten der Pulpa und des periapikalen Gewebes",
+  "rubrics": {
+    "preferred": "Krankheiten der Pulpa und des periapikalen Gewebes"
+  },
+  "children": [
+    {
+      "code": "K04.0",
+      "kind": "category",
+      "label": "Pulpitis",
+      "rubrics": {
+        "preferred": "Pulpitis",
+        "inclusion": "Pulpitis:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "K04.1",
+      "kind": "category",
+      "label": "Pulpanekrose",
+      "rubrics": {
+        "preferred": "Pulpanekrose",
+        "inclusion": "Pulpagangrän"
+      },
+      "children": []
+    },
+    {
+      "code": "K04.2",
+      "kind": "category",
+      "label": "Pulpadegeneration",
+      "rubrics": {
+        "preferred": "Pulpadegeneration",
+        "inclusion": "Pulpa:\n\t\t\t\tSteine"
+      },
+      "children": []
+    },
+    {
+      "code": "K04.3",
+      "kind": "category",
+      "label": "Abnorme Bildung von Zahnhartsubstanz in der Pulpa",
+      "rubrics": {
+        "preferred": "Abnorme Bildung von Zahnhartsubstanz in der Pulpa",
+        "inclusion": "Sekundäres oder irreguläres Dentin"
+      },
+      "children": []
+    },
+    {
+      "code": "K04.4",
+      "kind": "category",
+      "label": "Akute apikale Parodontitis pulpalen Ursprungs",
+      "rubrics": {
+        "preferred": "Akute apikale Parodontitis pulpalen Ursprungs",
+        "inclusion": "Akute apikale Parodontitis o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "K04.5",
+      "kind": "category",
+      "label": "Chronische apikale Parodontitis",
+      "rubrics": {
+        "preferred": "Chronische apikale Parodontitis",
+        "inclusion": "Apikales oder periapikales Granulom"
+      },
+      "children": []
+    },
+    {
+      "code": "K04.6",
+      "kind": "category",
+      "label": "Periapikaler Abszess mit Fistel",
+      "rubrics": {
+        "preferred": "Periapikaler Abszess mit Fistel",
+        "inclusion": "Abszess mit Fistel:\n\t\t\t\tdentoalveolär"
+      },
+      "children": []
+    },
+    {
+      "code": "K04.7",
+      "kind": "category",
+      "label": "Periapikaler Abszess ohne Fistel",
+      "rubrics": {
+        "preferred": "Periapikaler Abszess ohne Fistel",
+        "inclusion": "Abszess o.n.A.:\n\t\t\t\tperiapikal"
+      },
+      "children": []
+    },
+    {
+      "code": "K04.8",
+      "kind": "category",
+      "label": "Radikuläre Zyste",
+      "rubrics": {
+        "preferred": "Radikuläre Zyste",
+        "inclusion": "Zyste:\n\t\t\t\tresidual, radikulär",
+        "exclusion": "Laterale parodontale ZysteK09.0"
+      },
+      "children": []
+    },
+    {
+      "code": "K04.9",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Krankheiten der Pulpa und des periapikalen Gewebes",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Krankheiten der Pulpa und des periapikalen Gewebes"
+      },
+      "children": []
+    }
+  ]
+}

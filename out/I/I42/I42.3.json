@@ -1,0 +1,10 @@
+{
+  "code": "I42.3",
+  "kind": "category",
+  "label": "Eosinophile endomyokardiale Krankheit",
+  "rubrics": {
+    "preferred": "Eosinophile endomyokardiale Krankheit",
+    "inclusion": "Endomyokardfibrose (tropisch)"
+  },
+  "children": []
+}

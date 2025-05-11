@@ -1,0 +1,10 @@
+{
+  "code": "J34.0",
+  "kind": "category",
+  "label": "Abszess, Furunkel und Karbunkel der Nase",
+  "rubrics": {
+    "preferred": "Abszess, Furunkel und Karbunkel der Nase",
+    "inclusion": "Ulzeration\n\t\t\t\tNase oder Nasenseptum"
+  },
+  "children": []
+}

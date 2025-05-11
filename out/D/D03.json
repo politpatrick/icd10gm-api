@@ -1,0 +1,101 @@
+{
+  "code": "D03",
+  "kind": "category",
+  "label": "Melanoma in situ",
+  "rubrics": {
+    "preferred": "Melanoma in situ"
+  },
+  "children": [
+    {
+      "code": "D03.0",
+      "kind": "category",
+      "label": "Melanoma in situ der Lippe",
+      "rubrics": {
+        "preferred": "Melanoma in situ der Lippe"
+      },
+      "children": []
+    },
+    {
+      "code": "D03.1",
+      "kind": "category",
+      "label": "Melanoma in situ des Augenlides, einschließlich Kanthus",
+      "rubrics": {
+        "preferred": "Melanoma in situ des Augenlides, einschließlich Kanthus"
+      },
+      "children": []
+    },
+    {
+      "code": "D03.2",
+      "kind": "category",
+      "label": "Melanoma in situ des Ohres und des äußeren Gehörganges",
+      "rubrics": {
+        "preferred": "Melanoma in situ des Ohres und des äußeren Gehörganges"
+      },
+      "children": []
+    },
+    {
+      "code": "D03.3",
+      "kind": "category",
+      "label": "Melanoma in situ sonstiger und nicht näher bezeichneter Teile des Gesichtes",
+      "rubrics": {
+        "preferred": "Melanoma in situ sonstiger und nicht näher bezeichneter Teile des Gesichtes"
+      },
+      "children": []
+    },
+    {
+      "code": "D03.4",
+      "kind": "category",
+      "label": "Melanoma in situ der behaarten Kopfhaut und des Halses",
+      "rubrics": {
+        "preferred": "Melanoma in situ der behaarten Kopfhaut und des Halses"
+      },
+      "children": []
+    },
+    {
+      "code": "D03.5",
+      "kind": "category",
+      "label": "Melanoma in situ des Rumpfes",
+      "rubrics": {
+        "preferred": "Melanoma in situ des Rumpfes",
+        "inclusion": "Perianalhaut"
+      },
+      "children": []
+    },
+    {
+      "code": "D03.6",
+      "kind": "category",
+      "label": "Melanoma in situ der oberen Extremität, einschließlich Schulter",
+      "rubrics": {
+        "preferred": "Melanoma in situ der oberen Extremität, einschließlich Schulter"
+      },
+      "children": []
+    },
+    {
+      "code": "D03.7",
+      "kind": "category",
+      "label": "Melanoma in situ der unteren Extremität, einschließlich Hüfte",
+      "rubrics": {
+        "preferred": "Melanoma in situ der unteren Extremität, einschließlich Hüfte"
+      },
+      "children": []
+    },
+    {
+      "code": "D03.8",
+      "kind": "category",
+      "label": "Melanoma in situ an sonstigen Lokalisationen",
+      "rubrics": {
+        "preferred": "Melanoma in situ an sonstigen Lokalisationen"
+      },
+      "children": []
+    },
+    {
+      "code": "D03.9",
+      "kind": "category",
+      "label": "Melanoma in situ, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Melanoma in situ, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

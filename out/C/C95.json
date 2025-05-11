@@ -1,0 +1,59 @@
+{
+  "code": "C95",
+  "kind": "category",
+  "label": "Leukämie nicht näher bezeichneten Zelltyps",
+  "rubrics": {
+    "preferred": "Leukämie nicht näher bezeichneten Zelltyps",
+    "note": "Die folgenden Schlüsselnummern C95.0-C95.7- und C95.9- sind nur zu verwenden, falls eine Linienzuordnung nicht erfolgt oder nicht möglich ist.",
+    "coding-hint": "Benutze eine zusätzliche Schlüsselnummer C95.8, um das Vorliegen einer Leukämie anzugeben, die auf Standard-Induktionstherapie refraktär ist."
+  },
+  "children": [
+    {
+      "code": "C95.0",
+      "kind": "category",
+      "label": "Akute Leukämie nicht näher bezeichneten Zelltyps",
+      "rubrics": {
+        "preferred": "Akute Leukämie nicht näher bezeichneten Zelltyps",
+        "inclusion": "Stammzellenleukämie mit unklarer Linienzuordnung",
+        "exclusion": "Akute Exazerbation einer nicht näher bezeichneten chronischen LeukämieC95.1-"
+      },
+      "children": []
+    },
+    {
+      "code": "C95.1",
+      "kind": "category",
+      "label": "Chronische Leukämie nicht näher bezeichneten Zelltyps",
+      "rubrics": {
+        "preferred": "Chronische Leukämie nicht näher bezeichneten Zelltyps"
+      },
+      "children": []
+    },
+    {
+      "code": "C95.7",
+      "kind": "category",
+      "label": "Sonstige Leukämie nicht näher bezeichneten Zelltyps",
+      "rubrics": {
+        "preferred": "Sonstige Leukämie nicht näher bezeichneten Zelltyps"
+      },
+      "children": []
+    },
+    {
+      "code": "C95.8",
+      "kind": "category",
+      "label": "Leukämie, refraktär auf Standard-Induktionstherapie",
+      "rubrics": {
+        "preferred": "Leukämie, refraktär auf Standard-Induktionstherapie"
+      },
+      "children": []
+    },
+    {
+      "code": "C95.9",
+      "kind": "category",
+      "label": "Leukämie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Leukämie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

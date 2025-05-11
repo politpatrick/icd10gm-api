@@ -1,0 +1,11 @@
+{
+  "code": "W49.9",
+  "kind": "category",
+  "label": "Unfall durch Exposition gegenüber mechanischen Kräften unbelebter Objekte",
+  "rubrics": {
+    "preferred": "Unfall durch Exposition gegenüber mechanischen Kräften unbelebter Objekte",
+    "inclusion": "Unfall durch:\n\t\t\t\tWerkzeuge",
+    "exclusion": "Vorsätzliche SelbstbeschädigungX84.9"
+  },
+  "children": []
+}

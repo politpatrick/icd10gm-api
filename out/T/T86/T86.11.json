@@ -1,0 +1,11 @@
+{
+  "code": "T86.11",
+  "kind": "category",
+  "label": "Chronische Funktionsverschlechterung eines Nierentransplantates",
+  "rubrics": {
+    "preferred": "Chronische Funktionsverschlechterung eines Nierentransplantates",
+    "inclusion": "Chronische Abstoßung eines Nierentransplantates",
+    "coding-hint": "Soll die Ursache der chronischen Funktionsverschlechterung angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+  },
+  "children": []
+}

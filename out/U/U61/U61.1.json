@@ -1,0 +1,11 @@
+{
+  "code": "U61.1",
+  "kind": "category",
+  "label": "Kategorie 1",
+  "rubrics": {
+    "preferredLong": "Anzahl der T-Helferzellen bei HIV-Krankheit: Kategorie 1",
+    "preferred": "Kategorie 1",
+    "inclusion": "500 und mehr (CD4+-)T-Helferzellen/Mikroliter Blut"
+  },
+  "children": []
+}

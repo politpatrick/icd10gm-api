@@ -1,0 +1,10 @@
+{
+  "code": "T67.3",
+  "kind": "category",
+  "label": "Hitzeerschöpfung durch Wasserverlust",
+  "rubrics": {
+    "preferred": "Hitzeerschöpfung durch Wasserverlust",
+    "exclusion": "Hitzeerschöpfung durch SalzverlustT67.4"
+  },
+  "children": []
+}

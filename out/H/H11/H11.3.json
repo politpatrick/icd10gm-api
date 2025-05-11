@@ -1,0 +1,10 @@
+{
+  "code": "H11.3",
+  "kind": "category",
+  "label": "Blutung der Konjunktiva",
+  "rubrics": {
+    "preferred": "Blutung der Konjunktiva",
+    "inclusion": "Subkonjunktivale Blutung"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "H26.2",
+  "kind": "category",
+  "label": "Cataracta complicata",
+  "rubrics": {
+    "preferred": "Cataracta complicata",
+    "inclusion": "Katarakt infolge anderer Augenkrankheiten"
+  },
+  "children": []
+}

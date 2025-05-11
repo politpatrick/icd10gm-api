@@ -1,0 +1,10 @@
+{
+  "code": "K56.2",
+  "kind": "category",
+  "label": "Volvulus",
+  "rubrics": {
+    "preferred": "Volvulus",
+    "inclusion": "Torsion\n\t\t\t\tKolon oder Intestinum"
+  },
+  "children": []
+}

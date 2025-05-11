@@ -1,0 +1,10 @@
+{
+  "code": "I02.0",
+  "kind": "category",
+  "label": "Rheumatische Chorea mit Herzbeteiligung",
+  "rubrics": {
+    "preferred": "Rheumatische Chorea mit Herzbeteiligung",
+    "inclusion": "Rheumatische Chorea mit Herzbeteiligung jeder Art, klassifizierbar unter I01.-"
+  },
+  "children": []
+}

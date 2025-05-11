@@ -1,0 +1,10 @@
+{
+  "code": "T38.9",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Hormon-Antagonisten",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Sonstige und nicht näher bezeichnete Hormon-Antagonisten",
+    "preferred": "Sonstige und nicht näher bezeichnete Hormon-Antagonisten"
+  },
+  "children": []
+}

@@ -1,0 +1,100 @@
+{
+  "code": "A49.8",
+  "kind": "category",
+  "label": "Sonstige bakterielle Infektionen nicht näher bezeichneter Lokalisation",
+  "rubrics": {
+    "preferred": "Sonstige bakterielle Infektionen nicht näher bezeichneter Lokalisation"
+  },
+  "children": [
+    {
+      "code": "A49.80",
+      "kind": "category",
+      "label": "Infektion durch Bacteroides fragilis [B. fragilis] und andere gramnegative Anaerobier nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Infektion durch Bacteroides fragilis [B. fragilis] und andere gramnegative Anaerobier nicht näher bezeichneter Lokalisation",
+        "inclusion": "Bakteriämie durch Bacteroides fragilis [B. fragilis] und andere gramnegative Anaerobier"
+      },
+      "children": []
+    },
+    {
+      "code": "A49.81",
+      "kind": "category",
+      "label": "Infektion durch Vibrio vulnificus nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Infektion durch Vibrio vulnificus nicht näher bezeichneter Lokalisation",
+        "inclusion": "Bakteriämie durch Vibrio vulnificus"
+      },
+      "children": []
+    },
+    {
+      "code": "A49.82",
+      "kind": "category",
+      "label": "Infektion durch Escherichia coli [E. coli] und andere Enterobacterales nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Infektion durch Escherichia coli [E. coli] und andere Enterobacterales nicht näher bezeichneter Lokalisation",
+        "inclusion": "Bakteriämie durch:\n\t\t\t\tSerratia"
+      },
+      "children": []
+    },
+    {
+      "code": "A49.83",
+      "kind": "category",
+      "label": "Infektion durch Haemophilus und Moraxella nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Infektion durch Haemophilus und Moraxella nicht näher bezeichneter Lokalisation",
+        "inclusion": "Bakteriämie durch Erreger der HACEK-Gruppe [Haemophilus parainfluenzae, Aggregatibacter, Cardiobacterium, Eikenella, Kingella]",
+        "exclusion": "Bakteriämie durch Haemophilus influenzaeA49.2"
+      },
+      "children": []
+    },
+    {
+      "code": "A49.84",
+      "kind": "category",
+      "label": "Infektion durch Clostridium perfringens [C. perfringens] und andere grampositive, sporenbildende Anaerobier nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Infektion durch Clostridium perfringens [C. perfringens] und andere grampositive, sporenbildende Anaerobier nicht näher bezeichneter Lokalisation",
+        "exclusion": "GasbrandA48.0"
+      },
+      "children": []
+    },
+    {
+      "code": "A49.85",
+      "kind": "category",
+      "label": "Infektion durch Pseudomonas und andere Nonfermenter nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Infektion durch Pseudomonas und andere Nonfermenter nicht näher bezeichneter Lokalisation",
+        "inclusion": "Bakteriämie durch:\n\t\t\t\tStenotrophomonas"
+      },
+      "children": []
+    },
+    {
+      "code": "A49.86",
+      "kind": "category",
+      "label": "Infektion durch sonstige näher bezeichnete grampositive aerobe Erreger nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Infektion durch sonstige näher bezeichnete grampositive aerobe Erreger nicht näher bezeichneter Lokalisation",
+        "inclusion": "Bakteriämie durch Corynebakterien"
+      },
+      "children": []
+    },
+    {
+      "code": "A49.87",
+      "kind": "category",
+      "label": "Infektion durch sonstige näher bezeichnete grampositive anaerobe, nicht sporenbildende Erreger nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Infektion durch sonstige näher bezeichnete grampositive anaerobe, nicht sporenbildende Erreger nicht näher bezeichneter Lokalisation",
+        "inclusion": "Bakteriämie durch:\n\t\t\t\tPropionibakterien"
+      },
+      "children": []
+    },
+    {
+      "code": "A49.88",
+      "kind": "category",
+      "label": "Infektion durch sonstige Bakterien nicht näher bezeichneter Lokalisation",
+      "rubrics": {
+        "preferred": "Infektion durch sonstige Bakterien nicht näher bezeichneter Lokalisation"
+      },
+      "children": []
+    }
+  ]
+}

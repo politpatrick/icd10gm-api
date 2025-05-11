@@ -1,0 +1,10 @@
+{
+  "code": "H35.1",
+  "kind": "category",
+  "label": "Retinopathia praematurorum",
+  "rubrics": {
+    "preferred": "Retinopathia praematurorum",
+    "inclusion": "Retrolentale Fibroplasie"
+  },
+  "children": []
+}

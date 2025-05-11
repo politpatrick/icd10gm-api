@@ -1,0 +1,11 @@
+{
+  "code": "G25.0",
+  "kind": "category",
+  "label": "Essentieller Tremor",
+  "rubrics": {
+    "preferred": "Essentieller Tremor",
+    "inclusion": "Familiärer Tremor",
+    "exclusion": "Tremor o.n.A.R25.1"
+  },
+  "children": []
+}

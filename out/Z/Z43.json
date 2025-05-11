@@ -1,0 +1,122 @@
+{
+  "code": "Z43",
+  "kind": "category",
+  "label": "Versorgung künstlicher Körperöffnungen",
+  "rubrics": {
+    "preferred": "Versorgung künstlicher Körperöffnungen",
+    "inclusion": "Verschluss",
+    "exclusion": "Versorgen mit und Anpassen von Prothesen und sonstigen Geräten oder HilfsmittelnZ44-Z46"
+  },
+  "children": [
+    {
+      "code": "Z43.0",
+      "kind": "category",
+      "label": "Versorgung eines Tracheostomas",
+      "rubrics": {
+        "preferred": "Versorgung eines Tracheostomas"
+      },
+      "children": []
+    },
+    {
+      "code": "Z43.1",
+      "kind": "category",
+      "label": "Versorgung eines Gastrostomas",
+      "rubrics": {
+        "preferred": "Versorgung eines Gastrostomas"
+      },
+      "children": []
+    },
+    {
+      "code": "Z43.2",
+      "kind": "category",
+      "label": "Versorgung eines Ileostomas",
+      "rubrics": {
+        "preferred": "Versorgung eines Ileostomas"
+      },
+      "children": []
+    },
+    {
+      "code": "Z43.3",
+      "kind": "category",
+      "label": "Versorgung eines Kolostomas",
+      "rubrics": {
+        "preferred": "Versorgung eines Kolostomas"
+      },
+      "children": []
+    },
+    {
+      "code": "Z43.4",
+      "kind": "category",
+      "label": "Versorgung anderer künstlicher Körperöffnungen des Verdauungstraktes",
+      "rubrics": {
+        "preferred": "Versorgung anderer künstlicher Körperöffnungen des Verdauungstraktes"
+      },
+      "children": []
+    },
+    {
+      "code": "Z43.5",
+      "kind": "category",
+      "label": "Versorgung eines Zystostomas",
+      "rubrics": {
+        "preferred": "Versorgung eines Zystostomas"
+      },
+      "children": []
+    },
+    {
+      "code": "Z43.6",
+      "kind": "category",
+      "label": "Versorgung sonstiger künstlicher Körperöffnungen des Harntraktes",
+      "rubrics": {
+        "preferred": "Versorgung sonstiger künstlicher Körperöffnungen des Harntraktes",
+        "inclusion": "Urethrostoma"
+      },
+      "children": []
+    },
+    {
+      "code": "Z43.7",
+      "kind": "category",
+      "label": "Versorgung einer künstlichen Vagina",
+      "rubrics": {
+        "preferred": "Versorgung einer künstlichen Vagina"
+      },
+      "children": []
+    },
+    {
+      "code": "Z43.8",
+      "kind": "category",
+      "label": "Versorgung sonstiger künstlicher Körperöffnungen",
+      "rubrics": {
+        "preferred": "Versorgung sonstiger künstlicher Körperöffnungen"
+      },
+      "children": [
+        {
+          "code": "Z43.80",
+          "kind": "category",
+          "label": "Versorgung eines Thorakostomas",
+          "rubrics": {
+            "preferred": "Versorgung eines Thorakostomas"
+          },
+          "children": []
+        },
+        {
+          "code": "Z43.88",
+          "kind": "category",
+          "label": "Versorgung sonstiger künstlicher Körperöffnungen",
+          "rubrics": {
+            "preferred": "Versorgung sonstiger künstlicher Körperöffnungen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z43.9",
+      "kind": "category",
+      "label": "Versorgung einer nicht näher bezeichneten künstlichen Körperöffnung",
+      "rubrics": {
+        "preferred": "Versorgung einer nicht näher bezeichneten künstlichen Körperöffnung"
+      },
+      "children": []
+    }
+  ]
+}

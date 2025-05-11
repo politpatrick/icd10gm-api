@@ -1,0 +1,38 @@
+{
+  "code": "R74",
+  "kind": "category",
+  "label": "Abnorme Serumenzymwerte",
+  "rubrics": {
+    "preferred": "Abnorme Serumenzymwerte"
+  },
+  "children": [
+    {
+      "code": "R74.0",
+      "kind": "category",
+      "label": "Erhöhung der Transaminasenwerte und des Laktat-Dehydrogenase-Wertes [LDH]",
+      "rubrics": {
+        "preferred": "Erhöhung der Transaminasenwerte und des Laktat-Dehydrogenase-Wertes [LDH]"
+      },
+      "children": []
+    },
+    {
+      "code": "R74.8",
+      "kind": "category",
+      "label": "Sonstige abnorme Serumenzymwerte",
+      "rubrics": {
+        "preferred": "Sonstige abnorme Serumenzymwerte",
+        "inclusion": "Abnormer Wert:\n\t\t\t\tsaure Phosphatase"
+      },
+      "children": []
+    },
+    {
+      "code": "R74.9",
+      "kind": "category",
+      "label": "Abnormer Wert nicht näher bezeichneter Serumenzyme",
+      "rubrics": {
+        "preferred": "Abnormer Wert nicht näher bezeichneter Serumenzyme"
+      },
+      "children": []
+    }
+  ]
+}

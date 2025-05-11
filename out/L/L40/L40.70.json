@@ -1,0 +1,10 @@
+{
+  "code": "L40.70",
+  "kind": "category",
+  "label": "Mittelschwere bis schwere Psoriasis",
+  "rubrics": {
+    "preferred": "Mittelschwere bis schwere Psoriasis",
+    "definition": "Body Surface Area [BSA] >10 und Dermatologischer Lebensqualitäts-Index [DLQI] >10\n\t\t\t\tPsoriasis Area and Severity Index [PASI] >10 und Dermatologischer Lebensqualitäts-Index [DLQI] >10"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "L11.0",
+  "kind": "category",
+  "label": "Erworbene Keratosis follicularis",
+  "rubrics": {
+    "preferred": "Erworbene Keratosis follicularis",
+    "exclusion": "Dyskeratosis follicularis vegetans (angeboren) [Darier]Q82.8"
+  },
+  "children": []
+}

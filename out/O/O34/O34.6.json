@@ -1,0 +1,11 @@
+{
+  "code": "O34.6",
+  "kind": "category",
+  "label": "Betreuung der Mutter bei Anomalie der Vagina",
+  "rubrics": {
+    "preferred": "Betreuung der Mutter bei Anomalie der Vagina",
+    "inclusion": "Betreuung der Mutter bei:\n\t\t\t\tvorangegangenem chirurgischem Eingriff an der Vagina",
+    "exclusion": "Betreuung der Mutter bei Varizen der Vagina in der SchwangerschaftO22.1"
+  },
+  "children": []
+}

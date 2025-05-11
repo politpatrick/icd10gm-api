@@ -1,0 +1,11 @@
+{
+  "code": "H18.0",
+  "kind": "category",
+  "label": "Hornhautpigmentierungen und -einlagerungen",
+  "rubrics": {
+    "preferred": "Hornhautpigmentierungen und -einlagerungen",
+    "inclusion": "Stähli-Linie",
+    "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

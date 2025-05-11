@@ -1,0 +1,10 @@
+{
+  "code": "K59.01",
+  "kind": "category",
+  "label": "Obstipation bei Stuhlentleerungsstörung",
+  "rubrics": {
+    "preferred": "Obstipation bei Stuhlentleerungsstörung",
+    "inclusion": "Outlet-Obstipation"
+  },
+  "children": []
+}

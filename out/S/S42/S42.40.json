@@ -1,0 +1,11 @@
+{
+  "code": "S42.40",
+  "kind": "category",
+  "label": "Teil nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Fraktur des distalen Endes des Humerus: Teil nicht näher bezeichnet",
+    "preferred": "Teil nicht näher bezeichnet",
+    "inclusion": "Distales Ende o.n.A."
+  },
+  "children": []
+}

@@ -1,0 +1,28 @@
+{
+  "code": "I42.8",
+  "kind": "category",
+  "label": "Sonstige Kardiomyopathien",
+  "rubrics": {
+    "preferred": "Sonstige Kardiomyopathien"
+  },
+  "children": [
+    {
+      "code": "I42.80",
+      "kind": "category",
+      "label": "Arrhythmogene rechtsventrikuläre Kardiomyopathie [ARVCM]",
+      "rubrics": {
+        "preferred": "Arrhythmogene rechtsventrikuläre Kardiomyopathie [ARVCM]"
+      },
+      "children": []
+    },
+    {
+      "code": "I42.88",
+      "kind": "category",
+      "label": "Sonstige Kardiomyopathien",
+      "rubrics": {
+        "preferred": "Sonstige Kardiomyopathien"
+      },
+      "children": []
+    }
+  ]
+}

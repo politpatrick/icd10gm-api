@@ -1,0 +1,10 @@
+{
+  "code": "K42.1",
+  "kind": "category",
+  "label": "Hernia umbilicalis mit Gangrän",
+  "rubrics": {
+    "preferred": "Hernia umbilicalis mit Gangrän",
+    "inclusion": "Hernia umbilicalis gangraenosa"
+  },
+  "children": []
+}

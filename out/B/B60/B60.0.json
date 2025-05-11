@@ -1,0 +1,10 @@
+{
+  "code": "B60.0",
+  "kind": "category",
+  "label": "Babesiose",
+  "rubrics": {
+    "preferred": "Babesiose",
+    "inclusion": "Piroplasmose"
+  },
+  "children": []
+}

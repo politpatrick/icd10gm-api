@@ -1,0 +1,10 @@
+{
+  "code": "K29.4",
+  "kind": "category",
+  "label": "Chronische atrophische Gastritis",
+  "rubrics": {
+    "preferred": "Chronische atrophische Gastritis",
+    "inclusion": "Magenschleimhautatrophie"
+  },
+  "children": []
+}

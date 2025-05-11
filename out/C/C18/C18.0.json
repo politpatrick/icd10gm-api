@@ -1,0 +1,11 @@
+{
+  "code": "C18.0",
+  "kind": "category",
+  "label": "Zäkum",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Zäkum",
+    "preferred": "Zäkum",
+    "inclusion": "Ileozäkalklappe [Bauhin]"
+  },
+  "children": []
+}

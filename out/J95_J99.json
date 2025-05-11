@@ -1,0 +1,419 @@
+{
+  "code": "J95-J99",
+  "kind": "block",
+  "label": "Sonstige Krankheiten des Atmungssystems",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Atmungssystems"
+  },
+  "children": [
+    {
+      "code": "J95",
+      "kind": "category",
+      "label": "Krankheiten der Atemwege nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Krankheiten der Atemwege nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+        "exclusion": "Lungenbeteiligung bei StrahleneinwirkungJ70.0-J70.1"
+      },
+      "children": [
+        {
+          "code": "J95.0",
+          "kind": "category",
+          "label": "Funktionsstörung eines Tracheostomas",
+          "rubrics": {
+            "preferred": "Funktionsstörung eines Tracheostomas",
+            "inclusion": "Tracheo-Ösophagealfistel nach Tracheotomie"
+          },
+          "children": []
+        },
+        {
+          "code": "J95.1",
+          "kind": "category",
+          "label": "Akute pulmonale Insuffizienz nach Thoraxoperation",
+          "rubrics": {
+            "preferred": "Akute pulmonale Insuffizienz nach Thoraxoperation"
+          },
+          "children": []
+        },
+        {
+          "code": "J95.2",
+          "kind": "category",
+          "label": "Akute pulmonale Insuffizienz nach nicht am Thorax vorgenommener Operation",
+          "rubrics": {
+            "preferred": "Akute pulmonale Insuffizienz nach nicht am Thorax vorgenommener Operation"
+          },
+          "children": []
+        },
+        {
+          "code": "J95.3",
+          "kind": "category",
+          "label": "Chronische pulmonale Insuffizienz nach Operation",
+          "rubrics": {
+            "preferred": "Chronische pulmonale Insuffizienz nach Operation"
+          },
+          "children": []
+        },
+        {
+          "code": "J95.4",
+          "kind": "category",
+          "label": "Mendelson-Syndrom",
+          "rubrics": {
+            "preferred": "Mendelson-Syndrom",
+            "inclusion": "Chemische Pneumonitis durch Aspiration bei Anästhesie",
+            "exclusion": "Als Komplikation bei:\n\t\t\t\tWochenbettO89.0"
+          },
+          "children": []
+        },
+        {
+          "code": "J95.5",
+          "kind": "category",
+          "label": "Subglottische Stenose nach medizinischen Maßnahmen",
+          "rubrics": {
+            "preferred": "Subglottische Stenose nach medizinischen Maßnahmen"
+          },
+          "children": []
+        },
+        {
+          "code": "J95.8",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Atemwege nach medizinischen Maßnahmen",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Atemwege nach medizinischen Maßnahmen"
+          },
+          "children": [
+            {
+              "code": "J95.80",
+              "kind": "category",
+              "label": "Iatrogener Pneumothorax",
+              "rubrics": {
+                "preferred": "Iatrogener Pneumothorax"
+              },
+              "children": []
+            },
+            {
+              "code": "J95.81",
+              "kind": "category",
+              "label": "Stenose der Trachea nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Stenose der Trachea nach medizinischen Maßnahmen",
+                "exclusion": "Stenose der Trachea:\n\t\t\t\to.n.A.J39.80"
+              },
+              "children": []
+            },
+            {
+              "code": "J95.82",
+              "kind": "category",
+              "label": "Insuffizienzen von Anastomosen und Nähten nach Operationen an Trachea, Bronchien und Lunge",
+              "rubrics": {
+                "preferred": "Insuffizienzen von Anastomosen und Nähten nach Operationen an Trachea, Bronchien und Lunge"
+              },
+              "children": []
+            },
+            {
+              "code": "J95.88",
+              "kind": "category",
+              "label": "Sonstige Krankheiten der Atemwege nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten der Atemwege nach medizinischen Maßnahmen"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "J95.9",
+          "kind": "category",
+          "label": "Krankheit der Atemwege nach medizinischen Maßnahmen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der Atemwege nach medizinischen Maßnahmen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "J96",
+      "kind": "category",
+      "label": "Respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+        "exclusion": "Respiratorische Insuffizienz nach medizinischen MaßnahmenJ95.-"
+      },
+      "children": [
+        {
+          "code": "J96.0",
+          "kind": "category",
+          "label": "Akute respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Akute respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+            "coding-hint": "Bei einer vorbestehenden oder sich im Verlauf entwickelnden chronischen respiratorischen Insuffizienz ist eine Schlüsselnummer aus J96.1- zusätzlich anzugeben."
+          },
+          "children": []
+        },
+        {
+          "code": "J96.1",
+          "kind": "category",
+          "label": "Chronische respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Chronische respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+            "coding-hint": "Besteht eine (langzeitige) Absaug- oder Beatmungspflicht, so ist Z99.0 oder Z99.1 als zusätzliche Schlüsselnummer zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "J96.9",
+          "kind": "category",
+          "label": "Respiratorische Insuffizienz, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Respiratorische Insuffizienz, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "J98",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Atemwege",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Atemwege",
+        "exclusion": "Schlafapnoe\n\t\t\t\to.n.A.G47.3-"
+      },
+      "children": [
+        {
+          "code": "J98.0",
+          "kind": "category",
+          "label": "Krankheiten der Bronchien, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Krankheiten der Bronchien, anderenorts nicht klassifiziert",
+            "inclusion": "Verkalkung\n\t\t\t\tBronchus"
+          },
+          "children": []
+        },
+        {
+          "code": "J98.1",
+          "kind": "category",
+          "label": "Lungenkollaps",
+          "rubrics": {
+            "preferred": "Lungenkollaps",
+            "exclusion": "Atelektase:\n\t\t\t\ttuberkulös (aktuelle Krankheit)A15-A16"
+          },
+          "children": [
+            {
+              "code": "J98.10",
+              "kind": "category",
+              "label": "Dystelektase",
+              "rubrics": {
+                "preferred": "Dystelektase"
+              },
+              "children": []
+            },
+            {
+              "code": "J98.11",
+              "kind": "category",
+              "label": "Partielle Atelektase",
+              "rubrics": {
+                "preferred": "Partielle Atelektase"
+              },
+              "children": []
+            },
+            {
+              "code": "J98.12",
+              "kind": "category",
+              "label": "Totalatelektase",
+              "rubrics": {
+                "preferred": "Totalatelektase"
+              },
+              "children": []
+            },
+            {
+              "code": "J98.18",
+              "kind": "category",
+              "label": "Sonstiger und nicht näher bezeichneter Lungenkollaps",
+              "rubrics": {
+                "preferred": "Sonstiger und nicht näher bezeichneter Lungenkollaps",
+                "inclusion": "Lungenkollaps o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "J98.2",
+          "kind": "category",
+          "label": "Interstitielles Emphysem",
+          "rubrics": {
+            "preferred": "Interstitielles Emphysem",
+            "inclusion": "Mediastinalemphysem",
+            "exclusion": "Emphysem:\n\t\t\t\to.n.A.J43.9"
+          },
+          "children": []
+        },
+        {
+          "code": "J98.3",
+          "kind": "category",
+          "label": "Kompensatorisches Emphysem",
+          "rubrics": {
+            "preferred": "Kompensatorisches Emphysem"
+          },
+          "children": []
+        },
+        {
+          "code": "J98.4",
+          "kind": "category",
+          "label": "Sonstige Veränderungen der Lunge",
+          "rubrics": {
+            "preferred": "Sonstige Veränderungen der Lunge",
+            "inclusion": "Zystische Lungenkrankheit (erworben)"
+          },
+          "children": []
+        },
+        {
+          "code": "J98.5",
+          "kind": "category",
+          "label": "Krankheiten des Mediastinums, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Krankheiten des Mediastinums, anderenorts nicht klassifiziert",
+            "exclusion": "Abszess des Mediastinums J85.3"
+          },
+          "children": [
+            {
+              "code": "J98.50",
+              "kind": "category",
+              "label": "Mediastinitis",
+              "rubrics": {
+                "preferred": "Mediastinitis"
+              },
+              "children": []
+            },
+            {
+              "code": "J98.58",
+              "kind": "category",
+              "label": "Sonstige Krankheiten des Mediastinums, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten des Mediastinums, anderenorts nicht klassifiziert",
+                "inclusion": "Verlagerung\n\t\t\t\tMediastinum"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "J98.6",
+          "kind": "category",
+          "label": "Krankheiten des Zwerchfells",
+          "rubrics": {
+            "preferred": "Krankheiten des Zwerchfells",
+            "inclusion": "Zwerchfellentzündung",
+            "exclusion": "Zwerchfellhernie, angeborenQ79.0"
+          },
+          "children": []
+        },
+        {
+          "code": "J98.7",
+          "kind": "category",
+          "label": "Infektion der Atemwege, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Infektion der Atemwege, anderenorts nicht klassifiziert",
+            "inclusion": "Infektion der Atemwege, nicht als akut oder chronisch und nicht als Infektion der unteren oder der oberen Atemwege bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "J98.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten der Atemwege",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten der Atemwege"
+          },
+          "children": []
+        },
+        {
+          "code": "J98.9",
+          "kind": "category",
+          "label": "Atemwegskrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Atemwegskrankheit, nicht näher bezeichnet",
+            "inclusion": "Atemwegskrankheit (chronisch) o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "J99",
+      "kind": "category",
+      "label": "Krankheiten der Atemwege bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten der Atemwege bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "J99.0",
+          "kind": "category",
+          "label": "Lungenkrankheit bei seropositiver chronischer PolyarthritisM05.1-",
+          "rubrics": {
+            "preferred": "Lungenkrankheit bei seropositiver chronischer PolyarthritisM05.1-"
+          },
+          "children": []
+        },
+        {
+          "code": "J99.1",
+          "kind": "category",
+          "label": "Krankheiten der Atemwege bei sonstigen diffusen Bindegewebskrankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten der Atemwege bei sonstigen diffusen Bindegewebskrankheiten",
+            "inclusion": "Atemwegskrankheiten bei:\n\t\t\t\tsystemischer SkleroseM34.8"
+          },
+          "children": []
+        },
+        {
+          "code": "J99.2",
+          "kind": "category",
+          "label": "Beteiligung der Lunge bei der chronischen Graft-versus-Host-Krankheit",
+          "rubrics": {
+            "preferred": "Beteiligung der Lunge bei der chronischen Graft-versus-Host-Krankheit"
+          },
+          "children": [
+            {
+              "code": "J99.21",
+              "kind": "category",
+              "label": "Stadium 1 der chronischen Lungen-Graft-versus-Host-KrankheitT86.06",
+              "rubrics": {
+                "preferred": "Stadium 1 der chronischen Lungen-Graft-versus-Host-KrankheitT86.06"
+              },
+              "children": []
+            },
+            {
+              "code": "J99.22",
+              "kind": "category",
+              "label": "Stadium 2 der chronischen Lungen-Graft-versus-Host-KrankheitT86.07",
+              "rubrics": {
+                "preferred": "Stadium 2 der chronischen Lungen-Graft-versus-Host-KrankheitT86.07"
+              },
+              "children": []
+            },
+            {
+              "code": "J99.23",
+              "kind": "category",
+              "label": "Stadium 3 der chronischen Lungen-Graft-versus-Host-KrankheitT86.07",
+              "rubrics": {
+                "preferred": "Stadium 3 der chronischen Lungen-Graft-versus-Host-KrankheitT86.07"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "J99.8",
+          "kind": "category",
+          "label": "Krankheiten der Atemwege bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten der Atemwege bei sonstigen anderenorts klassifizierten Krankheiten",
+            "inclusion": "Atemwegskrankheiten bei:\n\t\t\t\tSyphilisA52.7"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

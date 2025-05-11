@@ -1,0 +1,37 @@
+{
+  "code": "L58",
+  "kind": "category",
+  "label": "Radiodermatitis",
+  "rubrics": {
+    "preferred": "Radiodermatitis"
+  },
+  "children": [
+    {
+      "code": "L58.0",
+      "kind": "category",
+      "label": "Akute Radiodermatitis",
+      "rubrics": {
+        "preferred": "Akute Radiodermatitis"
+      },
+      "children": []
+    },
+    {
+      "code": "L58.1",
+      "kind": "category",
+      "label": "Chronische Radiodermatitis",
+      "rubrics": {
+        "preferred": "Chronische Radiodermatitis"
+      },
+      "children": []
+    },
+    {
+      "code": "L58.9",
+      "kind": "category",
+      "label": "Radiodermatitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Radiodermatitis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

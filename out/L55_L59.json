@@ -1,0 +1,302 @@
+{
+  "code": "L55-L59",
+  "kind": "block",
+  "label": "Krankheiten der Haut und der Unterhaut durch Strahleneinwirkung",
+  "rubrics": {
+    "preferred": "Krankheiten der Haut und der Unterhaut durch Strahleneinwirkung"
+  },
+  "children": [
+    {
+      "code": "L55",
+      "kind": "category",
+      "label": "Dermatitis solaris acuta",
+      "rubrics": {
+        "preferred": "Dermatitis solaris acuta",
+        "inclusion": "Sonnenbrand"
+      },
+      "children": [
+        {
+          "code": "L55.0",
+          "kind": "category",
+          "label": "Dermatitis solaris acuta 1. Grades",
+          "rubrics": {
+            "preferred": "Dermatitis solaris acuta 1. Grades"
+          },
+          "children": []
+        },
+        {
+          "code": "L55.1",
+          "kind": "category",
+          "label": "Dermatitis solaris acuta 2. Grades",
+          "rubrics": {
+            "preferred": "Dermatitis solaris acuta 2. Grades"
+          },
+          "children": []
+        },
+        {
+          "code": "L55.2",
+          "kind": "category",
+          "label": "Dermatitis solaris acuta 3. Grades",
+          "rubrics": {
+            "preferred": "Dermatitis solaris acuta 3. Grades"
+          },
+          "children": []
+        },
+        {
+          "code": "L55.8",
+          "kind": "category",
+          "label": "Sonstige Dermatitis solaris acuta",
+          "rubrics": {
+            "preferred": "Sonstige Dermatitis solaris acuta"
+          },
+          "children": []
+        },
+        {
+          "code": "L55.9",
+          "kind": "category",
+          "label": "Dermatitis solaris acuta, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Dermatitis solaris acuta, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L56",
+      "kind": "category",
+      "label": "Sonstige akute Hautveränderungen durch Ultraviolettstrahlen",
+      "rubrics": {
+        "preferred": "Sonstige akute Hautveränderungen durch Ultraviolettstrahlen"
+      },
+      "children": [
+        {
+          "code": "L56.0",
+          "kind": "category",
+          "label": "Phototoxische Reaktion auf Arzneimittel",
+          "rubrics": {
+            "preferred": "Phototoxische Reaktion auf Arzneimittel",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "L56.1",
+          "kind": "category",
+          "label": "Photoallergische Reaktion auf Arzneimittel",
+          "rubrics": {
+            "preferred": "Photoallergische Reaktion auf Arzneimittel",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "L56.2",
+          "kind": "category",
+          "label": "Phototoxische Kontaktdermatitis",
+          "rubrics": {
+            "preferred": "Phototoxische Kontaktdermatitis",
+            "inclusion": "Berloque-Dermatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "L56.3",
+          "kind": "category",
+          "label": "Urticaria solaris",
+          "rubrics": {
+            "preferred": "Urticaria solaris"
+          },
+          "children": []
+        },
+        {
+          "code": "L56.4",
+          "kind": "category",
+          "label": "Polymorphe Lichtdermatose",
+          "rubrics": {
+            "preferred": "Polymorphe Lichtdermatose"
+          },
+          "children": []
+        },
+        {
+          "code": "L56.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete akute Hautveränderungen durch Ultraviolettstrahlen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete akute Hautveränderungen durch Ultraviolettstrahlen"
+          },
+          "children": []
+        },
+        {
+          "code": "L56.9",
+          "kind": "category",
+          "label": "Akute Hautveränderung durch Ultraviolettstrahlen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Akute Hautveränderung durch Ultraviolettstrahlen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L57",
+      "kind": "category",
+      "label": "Hautveränderungen durch chronische Exposition gegenüber nichtionisierender Strahlung",
+      "rubrics": {
+        "preferred": "Hautveränderungen durch chronische Exposition gegenüber nichtionisierender Strahlung"
+      },
+      "children": [
+        {
+          "code": "L57.0",
+          "kind": "category",
+          "label": "Aktinische Keratose",
+          "rubrics": {
+            "preferred": "Aktinische Keratose",
+            "inclusion": "Keratosis solaris"
+          },
+          "children": []
+        },
+        {
+          "code": "L57.1",
+          "kind": "category",
+          "label": "Aktinisches Retikuloid",
+          "rubrics": {
+            "preferred": "Aktinisches Retikuloid"
+          },
+          "children": []
+        },
+        {
+          "code": "L57.2",
+          "kind": "category",
+          "label": "Cutis rhomboidalis nuchae",
+          "rubrics": {
+            "preferred": "Cutis rhomboidalis nuchae"
+          },
+          "children": []
+        },
+        {
+          "code": "L57.3",
+          "kind": "category",
+          "label": "Poikilodermia reticularis [Civatte]",
+          "rubrics": {
+            "preferred": "Poikilodermia reticularis [Civatte]"
+          },
+          "children": []
+        },
+        {
+          "code": "L57.4",
+          "kind": "category",
+          "label": "Cutis laxa senilis",
+          "rubrics": {
+            "preferred": "Cutis laxa senilis",
+            "inclusion": "Elastosis senilis"
+          },
+          "children": []
+        },
+        {
+          "code": "L57.5",
+          "kind": "category",
+          "label": "Strahlengranulom",
+          "rubrics": {
+            "preferred": "Strahlengranulom"
+          },
+          "children": []
+        },
+        {
+          "code": "L57.8",
+          "kind": "category",
+          "label": "Sonstige Hautveränderungen durch chronische Exposition gegenüber nichtionisierender Strahlung",
+          "rubrics": {
+            "preferred": "Sonstige Hautveränderungen durch chronische Exposition gegenüber nichtionisierender Strahlung",
+            "inclusion": "Sonnendermatitis durch chronische Lichtexposition"
+          },
+          "children": []
+        },
+        {
+          "code": "L57.9",
+          "kind": "category",
+          "label": "Hautveränderung durch chronische Exposition gegenüber nichtionisierender Strahlung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Hautveränderung durch chronische Exposition gegenüber nichtionisierender Strahlung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L58",
+      "kind": "category",
+      "label": "Radiodermatitis",
+      "rubrics": {
+        "preferred": "Radiodermatitis"
+      },
+      "children": [
+        {
+          "code": "L58.0",
+          "kind": "category",
+          "label": "Akute Radiodermatitis",
+          "rubrics": {
+            "preferred": "Akute Radiodermatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "L58.1",
+          "kind": "category",
+          "label": "Chronische Radiodermatitis",
+          "rubrics": {
+            "preferred": "Chronische Radiodermatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "L58.9",
+          "kind": "category",
+          "label": "Radiodermatitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Radiodermatitis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L59",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Haut und der Unterhaut durch Strahleneinwirkung",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Haut und der Unterhaut durch Strahleneinwirkung"
+      },
+      "children": [
+        {
+          "code": "L59.0",
+          "kind": "category",
+          "label": "Erythema ab igne",
+          "rubrics": {
+            "preferred": "Erythema ab igne",
+            "inclusion": "Chronischer Wärmeschaden"
+          },
+          "children": []
+        },
+        {
+          "code": "L59.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten der Haut und der Unterhaut durch Strahleneinwirkung",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten der Haut und der Unterhaut durch Strahleneinwirkung"
+          },
+          "children": []
+        },
+        {
+          "code": "L59.9",
+          "kind": "category",
+          "label": "Krankheit der Haut und der Unterhaut durch Strahleneinwirkung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der Haut und der Unterhaut durch Strahleneinwirkung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

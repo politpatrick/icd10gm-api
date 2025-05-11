@@ -1,0 +1,94 @@
+{
+  "code": "P61",
+  "kind": "category",
+  "label": "Sonstige hämatologische Krankheiten in der Perinatalperiode",
+  "rubrics": {
+    "preferred": "Sonstige hämatologische Krankheiten in der Perinatalperiode",
+    "exclusion": "Transitorische Hypogammaglobulinämie im KindesalterD80.7"
+  },
+  "children": [
+    {
+      "code": "P61.0",
+      "kind": "category",
+      "label": "Transitorische Thrombozytopenie beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Transitorische Thrombozytopenie beim Neugeborenen",
+        "inclusion": "Thrombozytopenie beim Neugeborenen durch:\n\t\t\t\tIsoimmunisierung"
+      },
+      "children": []
+    },
+    {
+      "code": "P61.1",
+      "kind": "category",
+      "label": "Polyglobulie beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Polyglobulie beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P61.2",
+      "kind": "category",
+      "label": "Anämie bei Prämaturität",
+      "rubrics": {
+        "preferred": "Anämie bei Prämaturität"
+      },
+      "children": []
+    },
+    {
+      "code": "P61.3",
+      "kind": "category",
+      "label": "Angeborene Anämie durch fetalen Blutverlust",
+      "rubrics": {
+        "preferred": "Angeborene Anämie durch fetalen Blutverlust"
+      },
+      "children": []
+    },
+    {
+      "code": "P61.4",
+      "kind": "category",
+      "label": "Sonstige angeborene Anämien, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Anämien, anderenorts nicht klassifiziert",
+        "inclusion": "Angeborene Anämie o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "P61.5",
+      "kind": "category",
+      "label": "Transitorische Neutropenie beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Transitorische Neutropenie beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P61.6",
+      "kind": "category",
+      "label": "Sonstige transitorische Gerinnungsstörungen beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige transitorische Gerinnungsstörungen beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P61.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete hämatologische Krankheiten in der Perinatalperiode",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete hämatologische Krankheiten in der Perinatalperiode"
+      },
+      "children": []
+    },
+    {
+      "code": "P61.9",
+      "kind": "category",
+      "label": "Hämatologische Krankheit in der Perinatalperiode, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hämatologische Krankheit in der Perinatalperiode, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

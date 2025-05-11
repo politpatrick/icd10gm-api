@@ -1,0 +1,48 @@
+{
+  "code": "K52.3",
+  "kind": "category",
+  "label": "Colitis indeterminata",
+  "rubrics": {
+    "preferred": "Colitis indeterminata",
+    "exclusion": "Kolitis nicht näher bezeichneten UrsprungsA09.9"
+  },
+  "children": [
+    {
+      "code": "K52.30",
+      "kind": "category",
+      "label": "Pancolitis indeterminata",
+      "rubrics": {
+        "preferred": "Pancolitis indeterminata",
+        "inclusion": "Subtotale Colitis indeterminata"
+      },
+      "children": []
+    },
+    {
+      "code": "K52.31",
+      "kind": "category",
+      "label": "Linksseitige Colitis indeterminata",
+      "rubrics": {
+        "preferred": "Linksseitige Colitis indeterminata"
+      },
+      "children": []
+    },
+    {
+      "code": "K52.32",
+      "kind": "category",
+      "label": "Colitis indeterminata des Rektosigmoids",
+      "rubrics": {
+        "preferred": "Colitis indeterminata des Rektosigmoids"
+      },
+      "children": []
+    },
+    {
+      "code": "K52.38",
+      "kind": "category",
+      "label": "Sonstige Colitis indeterminata",
+      "rubrics": {
+        "preferred": "Sonstige Colitis indeterminata"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "code": "Q00",
+  "kind": "category",
+  "label": "Anenzephalie und ähnliche Fehlbildungen",
+  "rubrics": {
+    "preferred": "Anenzephalie und ähnliche Fehlbildungen"
+  },
+  "children": [
+    {
+      "code": "Q00.0",
+      "kind": "category",
+      "label": "Anenzephalie",
+      "rubrics": {
+        "preferred": "Anenzephalie",
+        "inclusion": "Hemizephalie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q00.1",
+      "kind": "category",
+      "label": "Kraniorhachischisis",
+      "rubrics": {
+        "preferred": "Kraniorhachischisis"
+      },
+      "children": []
+    },
+    {
+      "code": "Q00.2",
+      "kind": "category",
+      "label": "Inienzephalie",
+      "rubrics": {
+        "preferred": "Inienzephalie"
+      },
+      "children": []
+    }
+  ]
+}

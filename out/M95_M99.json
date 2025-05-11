@@ -1,0 +1,331 @@
+{
+  "code": "M95-M99",
+  "kind": "block",
+  "label": "Sonstige Krankheiten des Muskel-Skelett-Systems und des Bindegewebes",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Muskel-Skelett-Systems und des Bindegewebes"
+  },
+  "children": [
+    {
+      "code": "M95",
+      "kind": "category",
+      "label": "Sonstige erworbene Deformitäten des Muskel-Skelett-Systems und des Bindegewebes",
+      "rubrics": {
+        "preferred": "Sonstige erworbene Deformitäten des Muskel-Skelett-Systems und des Bindegewebes",
+        "exclusion": "Verlust von Extremitäten und OrganenZ89-Z90"
+      },
+      "children": [
+        {
+          "code": "M95.0",
+          "kind": "category",
+          "label": "Erworbene Deformität der Nase",
+          "rubrics": {
+            "preferred": "Erworbene Deformität der Nase",
+            "exclusion": "NasenseptumdeviationJ34.2"
+          },
+          "children": []
+        },
+        {
+          "code": "M95.1",
+          "kind": "category",
+          "label": "Blumenkohlohr",
+          "rubrics": {
+            "preferred": "Blumenkohlohr",
+            "exclusion": "Sonstige erworbene Deformitäten des OhresH61.1"
+          },
+          "children": []
+        },
+        {
+          "code": "M95.2",
+          "kind": "category",
+          "label": "Sonstige erworbene Deformität des Kopfes",
+          "rubrics": {
+            "preferred": "Sonstige erworbene Deformität des Kopfes"
+          },
+          "children": []
+        },
+        {
+          "code": "M95.3",
+          "kind": "category",
+          "label": "Erworbene Deformität des Halses",
+          "rubrics": {
+            "preferred": "Erworbene Deformität des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "M95.4",
+          "kind": "category",
+          "label": "Erworbene Deformität des Brustkorbes und der Rippen",
+          "rubrics": {
+            "preferred": "Erworbene Deformität des Brustkorbes und der Rippen"
+          },
+          "children": []
+        },
+        {
+          "code": "M95.5",
+          "kind": "category",
+          "label": "Erworbene Deformität des Beckens",
+          "rubrics": {
+            "preferred": "Erworbene Deformität des Beckens",
+            "exclusion": "Betreuung der Mutter bei festgestelltem oder vermutetem Missverhältnis zwischen Fetus und BeckenO33.-"
+          },
+          "children": []
+        },
+        {
+          "code": "M95.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete erworbene Deformitäten des Muskel-Skelett-Systems",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete erworbene Deformitäten des Muskel-Skelett-Systems"
+          },
+          "children": []
+        },
+        {
+          "code": "M95.9",
+          "kind": "category",
+          "label": "Erworbene Deformität des Muskel-Skelett-Systems, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Erworbene Deformität des Muskel-Skelett-Systems, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M96",
+      "kind": "category",
+      "label": "Krankheiten des Muskel-Skelett-Systems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Krankheiten des Muskel-Skelett-Systems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+        "exclusion": "Vorhandensein funktioneller Implantate und sonstiger GeräteZ95-Z97"
+      },
+      "children": [
+        {
+          "code": "M96.0",
+          "kind": "category",
+          "label": "Pseudarthrose nach Fusion oder Arthrodese",
+          "rubrics": {
+            "preferred": "Pseudarthrose nach Fusion oder Arthrodese",
+            "inclusion": "Pseudarthrose nach Osteotomie"
+          },
+          "children": []
+        },
+        {
+          "code": "M96.1",
+          "kind": "category",
+          "label": "Postlaminektomie-Syndrom, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Postlaminektomie-Syndrom, anderenorts nicht klassifiziert"
+          },
+          "children": []
+        },
+        {
+          "code": "M96.2",
+          "kind": "category",
+          "label": "Kyphose nach Bestrahlung",
+          "rubrics": {
+            "preferred": "Kyphose nach Bestrahlung"
+          },
+          "children": []
+        },
+        {
+          "code": "M96.3",
+          "kind": "category",
+          "label": "Kyphose nach Laminektomie",
+          "rubrics": {
+            "preferred": "Kyphose nach Laminektomie"
+          },
+          "children": []
+        },
+        {
+          "code": "M96.4",
+          "kind": "category",
+          "label": "Postoperative Lordose",
+          "rubrics": {
+            "preferred": "Postoperative Lordose"
+          },
+          "children": []
+        },
+        {
+          "code": "M96.5",
+          "kind": "category",
+          "label": "Skoliose nach Bestrahlung",
+          "rubrics": {
+            "preferred": "Skoliose nach Bestrahlung"
+          },
+          "children": []
+        },
+        {
+          "code": "M96.6",
+          "kind": "category",
+          "label": "Knochenfraktur nach Einsetzen eines orthopädischen Implantates, einer Gelenkprothese oder einer Knochenplatte",
+          "rubrics": {
+            "preferred": "Knochenfraktur nach Einsetzen eines orthopädischen Implantates, einer Gelenkprothese oder einer Knochenplatte",
+            "coding-hint": "Diese Schlüsselnummer ist nur bei einer beim Einsetzen oder Entfernen eines orthopädischen Implantates, einer Gelenkprothese oder einer Knochenplatte aufgetretenen Fraktur anzugeben.",
+            "exclusion": "Andere Komplikation durch ein internes orthopädisches Gerät, durch Implantate oder TransplantateT84.-"
+          },
+          "children": []
+        },
+        {
+          "code": "M96.8",
+          "kind": "category",
+          "label": "Sonstige Krankheiten des Muskel-Skelett-Systems nach medizinischen Maßnahmen",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten des Muskel-Skelett-Systems nach medizinischen Maßnahmen"
+          },
+          "children": [
+            {
+              "code": "M96.80",
+              "kind": "category",
+              "label": "Elektiv offen belassenes Sternum nach thoraxchirurgischem Eingriff",
+              "rubrics": {
+                "preferred": "Elektiv offen belassenes Sternum nach thoraxchirurgischem Eingriff"
+              },
+              "children": []
+            },
+            {
+              "code": "M96.81",
+              "kind": "category",
+              "label": "Instabiler Thorax nach thoraxchirurgischem Eingriff",
+              "rubrics": {
+                "preferred": "Instabiler Thorax nach thoraxchirurgischem Eingriff"
+              },
+              "children": []
+            },
+            {
+              "code": "M96.82",
+              "kind": "category",
+              "label": "Verzögerte Knochenheilung nach Fusion oder Arthrodese",
+              "rubrics": {
+                "preferred": "Verzögerte Knochenheilung nach Fusion oder Arthrodese",
+                "inclusion": "Verzögerte Knochenheilung nach Osteotomie"
+              },
+              "children": []
+            },
+            {
+              "code": "M96.88",
+              "kind": "category",
+              "label": "Sonstige Krankheiten des Muskel-Skelett-Systems nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten des Muskel-Skelett-Systems nach medizinischen Maßnahmen",
+                "inclusion": "Instabilität eines Gelenkes nach Entfernen einer Gelenkprothese"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M96.9",
+          "kind": "category",
+          "label": "Krankheit des Muskel-Skelett-Systems nach medizinischen Maßnahmen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des Muskel-Skelett-Systems nach medizinischen Maßnahmen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M99",
+      "kind": "category",
+      "label": "Biomechanische Funktionsstörungen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Biomechanische Funktionsstörungen, anderenorts nicht klassifiziert",
+        "note": "Diese Kategorie sollte nicht zur Verschlüsselung benutzt werden, wenn der Krankheitszustand anderenorts klassifiziert werden kann."
+      },
+      "children": [
+        {
+          "code": "M99.0",
+          "kind": "category",
+          "label": "Segmentale und somatische Funktionsstörungen",
+          "rubrics": {
+            "preferred": "Segmentale und somatische Funktionsstörungen"
+          },
+          "children": []
+        },
+        {
+          "code": "M99.1",
+          "kind": "category",
+          "label": "Subluxation (der Wirbelsäule)",
+          "rubrics": {
+            "preferred": "Subluxation (der Wirbelsäule)"
+          },
+          "children": []
+        },
+        {
+          "code": "M99.2",
+          "kind": "category",
+          "label": "Subluxationsstenose des Spinalkanals",
+          "rubrics": {
+            "preferred": "Subluxationsstenose des Spinalkanals"
+          },
+          "children": []
+        },
+        {
+          "code": "M99.3",
+          "kind": "category",
+          "label": "Knöcherne Stenose des Spinalkanals",
+          "rubrics": {
+            "preferred": "Knöcherne Stenose des Spinalkanals"
+          },
+          "children": []
+        },
+        {
+          "code": "M99.4",
+          "kind": "category",
+          "label": "Bindegewebige Stenose des Spinalkanals",
+          "rubrics": {
+            "preferred": "Bindegewebige Stenose des Spinalkanals"
+          },
+          "children": []
+        },
+        {
+          "code": "M99.5",
+          "kind": "category",
+          "label": "Stenose des Spinalkanals durch Bandscheiben",
+          "rubrics": {
+            "preferred": "Stenose des Spinalkanals durch Bandscheiben"
+          },
+          "children": []
+        },
+        {
+          "code": "M99.6",
+          "kind": "category",
+          "label": "Stenose der Foramina intervertebralia, knöchern oder durch Subluxation",
+          "rubrics": {
+            "preferred": "Stenose der Foramina intervertebralia, knöchern oder durch Subluxation"
+          },
+          "children": []
+        },
+        {
+          "code": "M99.7",
+          "kind": "category",
+          "label": "Stenose der Foramina intervertebralia, bindegewebig oder durch Bandscheiben",
+          "rubrics": {
+            "preferred": "Stenose der Foramina intervertebralia, bindegewebig oder durch Bandscheiben"
+          },
+          "children": []
+        },
+        {
+          "code": "M99.8",
+          "kind": "category",
+          "label": "Sonstige biomechanische Funktionsstörungen",
+          "rubrics": {
+            "preferred": "Sonstige biomechanische Funktionsstörungen"
+          },
+          "children": []
+        },
+        {
+          "code": "M99.9",
+          "kind": "category",
+          "label": "Biomechanische Funktionsstörung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Biomechanische Funktionsstörung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

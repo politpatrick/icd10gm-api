@@ -1,0 +1,302 @@
+{
+  "code": "P70-P74",
+  "kind": "block",
+  "label": "Transitorische endokrine und Stoffwechselstörungen, die für den Fetus und das Neugeborene spezifisch sind",
+  "rubrics": {
+    "preferred": "Transitorische endokrine und Stoffwechselstörungen, die für den Fetus und das Neugeborene spezifisch sind",
+    "inclusion": "Transitorische endokrine und Stoffwechselstörungen, die durch Reaktion des Kindes auf endokrine und Stoffwechselfaktoren der Mutter oder durch Anpassung an das extrauterine Leben verursacht werden"
+  },
+  "children": [
+    {
+      "code": "P70",
+      "kind": "category",
+      "label": "Transitorische Störungen des Kohlenhydratstoffwechsels, die für den Fetus und das Neugeborene spezifisch sind",
+      "rubrics": {
+        "preferred": "Transitorische Störungen des Kohlenhydratstoffwechsels, die für den Fetus und das Neugeborene spezifisch sind"
+      },
+      "children": [
+        {
+          "code": "P70.0",
+          "kind": "category",
+          "label": "Syndrom des Kindes einer Mutter mit gestationsbedingtem Diabetes mellitus",
+          "rubrics": {
+            "preferred": "Syndrom des Kindes einer Mutter mit gestationsbedingtem Diabetes mellitus"
+          },
+          "children": []
+        },
+        {
+          "code": "P70.1",
+          "kind": "category",
+          "label": "Syndrom des Kindes einer diabetischen Mutter",
+          "rubrics": {
+            "preferred": "Syndrom des Kindes einer diabetischen Mutter",
+            "inclusion": "Diabetes mellitus der Mutter (vorher bestehend), der sich auf den Fetus oder das Neugeborene auswirkt (mit Hypoglykämie)"
+          },
+          "children": []
+        },
+        {
+          "code": "P70.2",
+          "kind": "category",
+          "label": "Diabetes mellitus beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Diabetes mellitus beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P70.3",
+          "kind": "category",
+          "label": "Iatrogene Hypoglykämie beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Iatrogene Hypoglykämie beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P70.4",
+          "kind": "category",
+          "label": "Sonstige Hypoglykämie beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige Hypoglykämie beim Neugeborenen",
+            "inclusion": "Transitorische Hypoglykämie beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P70.8",
+          "kind": "category",
+          "label": "Sonstige transitorische Störungen des Kohlenhydratstoffwechsels beim Fetus und Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige transitorische Störungen des Kohlenhydratstoffwechsels beim Fetus und Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P70.9",
+          "kind": "category",
+          "label": "Transitorische Störung des Kohlenhydratstoffwechsels beim Fetus und Neugeborenen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Transitorische Störung des Kohlenhydratstoffwechsels beim Fetus und Neugeborenen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P71",
+      "kind": "category",
+      "label": "Transitorische Störungen des Kalzium- und Magnesiumstoffwechsels beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Transitorische Störungen des Kalzium- und Magnesiumstoffwechsels beim Neugeborenen"
+      },
+      "children": [
+        {
+          "code": "P71.0",
+          "kind": "category",
+          "label": "Kuhmilch-Hypokalzämie beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Kuhmilch-Hypokalzämie beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P71.1",
+          "kind": "category",
+          "label": "Sonstige Hypokalzämie beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige Hypokalzämie beim Neugeborenen",
+            "exclusion": "Hypoparathyreoidismus beim NeugeborenenP71.4"
+          },
+          "children": []
+        },
+        {
+          "code": "P71.2",
+          "kind": "category",
+          "label": "Hypomagnesiämie beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Hypomagnesiämie beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P71.3",
+          "kind": "category",
+          "label": "Tetanie beim Neugeborenen, ohne Kalzium- oder Magnesiummangel",
+          "rubrics": {
+            "preferred": "Tetanie beim Neugeborenen, ohne Kalzium- oder Magnesiummangel",
+            "inclusion": "Tetanie beim Neugeborenen o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "P71.4",
+          "kind": "category",
+          "label": "Transitorischer Hypoparathyreoidismus beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Transitorischer Hypoparathyreoidismus beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P71.8",
+          "kind": "category",
+          "label": "Sonstige transitorische Störungen des Kalzium- und Magnesiumstoffwechsels beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige transitorische Störungen des Kalzium- und Magnesiumstoffwechsels beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P71.9",
+          "kind": "category",
+          "label": "Transitorische Störung des Kalzium- und Magnesiumstoffwechsels beim Neugeborenen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Transitorische Störung des Kalzium- und Magnesiumstoffwechsels beim Neugeborenen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P72",
+      "kind": "category",
+      "label": "Sonstige transitorische endokrine Krankheiten beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige transitorische endokrine Krankheiten beim Neugeborenen",
+        "exclusion": "Pendred-SyndromE07.1"
+      },
+      "children": [
+        {
+          "code": "P72.0",
+          "kind": "category",
+          "label": "Struma beim Neugeborenen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Struma beim Neugeborenen, anderenorts nicht klassifiziert",
+            "inclusion": "Transitorische Struma congenita mit normaler Funktion"
+          },
+          "children": []
+        },
+        {
+          "code": "P72.1",
+          "kind": "category",
+          "label": "Transitorische Hyperthyreose beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Transitorische Hyperthyreose beim Neugeborenen",
+            "inclusion": "Thyreotoxikose beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P72.2",
+          "kind": "category",
+          "label": "Sonstige transitorische Störungen der Schilddrüsenfunktion beim Neugeborenen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige transitorische Störungen der Schilddrüsenfunktion beim Neugeborenen, anderenorts nicht klassifiziert",
+            "inclusion": "Transitorische Hypothyreose beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P72.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete transitorische endokrine Krankheiten beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete transitorische endokrine Krankheiten beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P72.9",
+          "kind": "category",
+          "label": "Transitorische endokrine Krankheit beim Neugeborenen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Transitorische endokrine Krankheit beim Neugeborenen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "P74",
+      "kind": "category",
+      "label": "Sonstige transitorische Störungen des Elektrolythaushaltes und des Stoffwechsels beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige transitorische Störungen des Elektrolythaushaltes und des Stoffwechsels beim Neugeborenen"
+      },
+      "children": [
+        {
+          "code": "P74.0",
+          "kind": "category",
+          "label": "Metabolische Spätazidose beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Metabolische Spätazidose beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P74.1",
+          "kind": "category",
+          "label": "Dehydratation beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Dehydratation beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P74.2",
+          "kind": "category",
+          "label": "Störungen des Natriumgleichgewichtes beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Störungen des Natriumgleichgewichtes beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P74.3",
+          "kind": "category",
+          "label": "Störungen des Kaliumgleichgewichtes beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Störungen des Kaliumgleichgewichtes beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P74.4",
+          "kind": "category",
+          "label": "Sonstige transitorische Störungen des Elektrolythaushaltes beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige transitorische Störungen des Elektrolythaushaltes beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P74.5",
+          "kind": "category",
+          "label": "Transitorische Hypertyrosinämie beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Transitorische Hypertyrosinämie beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P74.8",
+          "kind": "category",
+          "label": "Sonstige transitorische Stoffwechselstörungen beim Neugeborenen",
+          "rubrics": {
+            "preferred": "Sonstige transitorische Stoffwechselstörungen beim Neugeborenen"
+          },
+          "children": []
+        },
+        {
+          "code": "P74.9",
+          "kind": "category",
+          "label": "Transitorische Stoffwechselstörung beim Neugeborenen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Transitorische Stoffwechselstörung beim Neugeborenen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

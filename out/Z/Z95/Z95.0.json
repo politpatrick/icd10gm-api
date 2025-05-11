@@ -1,0 +1,11 @@
+{
+  "code": "Z95.0",
+  "kind": "category",
+  "label": "Vorhandensein eines kardialen elektronischen Geräts",
+  "rubrics": {
+    "preferred": "Vorhandensein eines kardialen elektronischen Geräts",
+    "inclusion": "Vorhandensein:\n\t\t\t\tKardiodefibrillator",
+    "exclusion": "Langzeitige Abhängigkeit vom KunstherzZ99.4"
+  },
+  "children": []
+}

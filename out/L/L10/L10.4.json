@@ -1,0 +1,10 @@
+{
+  "code": "L10.4",
+  "kind": "category",
+  "label": "Pemphigus erythematosus",
+  "rubrics": {
+    "preferred": "Pemphigus erythematosus",
+    "inclusion": "Senear-Usher-Syndrom"
+  },
+  "children": []
+}

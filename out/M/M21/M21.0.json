@@ -1,0 +1,10 @@
+{
+  "code": "M21.0",
+  "kind": "category",
+  "label": "Valgusdeformität, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Valgusdeformität, anderenorts nicht klassifiziert",
+    "exclusion": "Pes calcaneovalgus congenitusQ66.4"
+  },
+  "children": []
+}

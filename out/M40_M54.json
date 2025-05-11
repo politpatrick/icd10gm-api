@@ -1,0 +1,987 @@
+{
+  "code": "M40-M54",
+  "kind": "block",
+  "label": "Krankheiten der Wirbelsäule und des Rückens",
+  "rubrics": {
+    "preferred": "Krankheiten der Wirbelsäule und des Rückens"
+  },
+  "children": [
+    {
+      "code": "M40-M43",
+      "kind": "block",
+      "label": "Deformitäten der Wirbelsäule und des Rückens",
+      "rubrics": {
+        "preferred": "Deformitäten der Wirbelsäule und des Rückens"
+      },
+      "children": [
+        {
+          "code": "M40",
+          "kind": "category",
+          "label": "Kyphose und Lordose",
+          "rubrics": {
+            "preferred": "Kyphose und Lordose",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]",
+            "exclusion": "KyphoskolioseM41.-"
+          },
+          "children": [
+            {
+              "code": "M40.0",
+              "kind": "category",
+              "label": "Kyphose als Haltungsstörung",
+              "rubrics": {
+                "preferred": "Kyphose als Haltungsstörung",
+                "exclusion": "Osteochondrose der WirbelsäuleM42.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M40.1",
+              "kind": "category",
+              "label": "Sonstige sekundäre Kyphose",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre Kyphose"
+              },
+              "children": []
+            },
+            {
+              "code": "M40.2",
+              "kind": "category",
+              "label": "Sonstige und nicht näher bezeichnete Kyphose",
+              "rubrics": {
+                "preferred": "Sonstige und nicht näher bezeichnete Kyphose"
+              },
+              "children": []
+            },
+            {
+              "code": "M40.3",
+              "kind": "category",
+              "label": "Flachrücken",
+              "rubrics": {
+                "preferred": "Flachrücken"
+              },
+              "children": []
+            },
+            {
+              "code": "M40.4",
+              "kind": "category",
+              "label": "Sonstige Lordose",
+              "rubrics": {
+                "preferred": "Sonstige Lordose",
+                "inclusion": "Lordose:\n\t\t\t\terworben"
+              },
+              "children": []
+            },
+            {
+              "code": "M40.5",
+              "kind": "category",
+              "label": "Lordose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Lordose, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M41",
+          "kind": "category",
+          "label": "Skoliose",
+          "rubrics": {
+            "preferred": "Skoliose",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]",
+            "inclusion": "Kyphoskoliose",
+            "exclusion": "Nach medizinischen MaßnahmenM96.-"
+          },
+          "children": [
+            {
+              "code": "M41.0",
+              "kind": "category",
+              "label": "Idiopathische Skoliose beim Kind",
+              "rubrics": {
+                "preferred": "Idiopathische Skoliose beim Kind"
+              },
+              "children": []
+            },
+            {
+              "code": "M41.1",
+              "kind": "category",
+              "label": "Idiopathische Skoliose beim Jugendlichen",
+              "rubrics": {
+                "preferred": "Idiopathische Skoliose beim Jugendlichen",
+                "inclusion": "Adoleszentenskoliose"
+              },
+              "children": []
+            },
+            {
+              "code": "M41.2",
+              "kind": "category",
+              "label": "Sonstige idiopathische Skoliose",
+              "rubrics": {
+                "preferred": "Sonstige idiopathische Skoliose"
+              },
+              "children": []
+            },
+            {
+              "code": "M41.3",
+              "kind": "category",
+              "label": "Thoraxbedingte Skoliose",
+              "rubrics": {
+                "preferred": "Thoraxbedingte Skoliose"
+              },
+              "children": []
+            },
+            {
+              "code": "M41.4",
+              "kind": "category",
+              "label": "Neuromyopathische Skoliose",
+              "rubrics": {
+                "preferred": "Neuromyopathische Skoliose",
+                "text": "Skoliose nach Zerebralparese, Friedreich-Ataxie, Poliomyelitis und sonstigen neuromuskulären Krankheiten."
+              },
+              "children": []
+            },
+            {
+              "code": "M41.5",
+              "kind": "category",
+              "label": "Sonstige sekundäre Skoliose",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre Skoliose"
+              },
+              "children": []
+            },
+            {
+              "code": "M41.8",
+              "kind": "category",
+              "label": "Sonstige Formen der Skoliose",
+              "rubrics": {
+                "preferred": "Sonstige Formen der Skoliose"
+              },
+              "children": []
+            },
+            {
+              "code": "M41.9",
+              "kind": "category",
+              "label": "Skoliose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Skoliose, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M42",
+          "kind": "category",
+          "label": "Osteochondrose der Wirbelsäule",
+          "rubrics": {
+            "preferred": "Osteochondrose der Wirbelsäule",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]"
+          },
+          "children": [
+            {
+              "code": "M42.0",
+              "kind": "category",
+              "label": "Juvenile Osteochondrose der Wirbelsäule",
+              "rubrics": {
+                "preferred": "Juvenile Osteochondrose der Wirbelsäule",
+                "inclusion": "Vertebra plana [Calvé-Krankheit]",
+                "exclusion": "Kyphose als HaltungsstörungM40.0-"
+              },
+              "children": []
+            },
+            {
+              "code": "M42.1",
+              "kind": "category",
+              "label": "Osteochondrose der Wirbelsäule beim Erwachsenen",
+              "rubrics": {
+                "preferred": "Osteochondrose der Wirbelsäule beim Erwachsenen"
+              },
+              "children": []
+            },
+            {
+              "code": "M42.9",
+              "kind": "category",
+              "label": "Osteochondrose der Wirbelsäule, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Osteochondrose der Wirbelsäule, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M43",
+          "kind": "category",
+          "label": "Sonstige Deformitäten der Wirbelsäule und des Rückens",
+          "rubrics": {
+            "preferred": "Sonstige Deformitäten der Wirbelsäule und des Rückens",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]",
+            "exclusion": "Wirbelsäulenverkrümmung bei:\n\t\t\t\tOsteoporoseM80-M81"
+          },
+          "children": [
+            {
+              "code": "M43.0",
+              "kind": "category",
+              "label": "Spondylolyse",
+              "rubrics": {
+                "preferred": "Spondylolyse"
+              },
+              "children": []
+            },
+            {
+              "code": "M43.1",
+              "kind": "category",
+              "label": "Spondylolisthesis",
+              "rubrics": {
+                "preferred": "Spondylolisthesis"
+              },
+              "children": []
+            },
+            {
+              "code": "M43.2",
+              "kind": "category",
+              "label": "Sonstige Wirbelfusion",
+              "rubrics": {
+                "preferred": "Sonstige Wirbelfusion",
+                "inclusion": "Ankylose eines Wirbelgelenkes",
+                "exclusion": "Zustand nach ArthrodeseZ98.1"
+              },
+              "children": []
+            },
+            {
+              "code": "M43.3",
+              "kind": "category",
+              "label": "Habituelle atlanto-axiale Subluxation mit Myelopathie",
+              "rubrics": {
+                "preferred": "Habituelle atlanto-axiale Subluxation mit Myelopathie"
+              },
+              "children": []
+            },
+            {
+              "code": "M43.4",
+              "kind": "category",
+              "label": "Sonstige habituelle atlanto-axiale Subluxation",
+              "rubrics": {
+                "preferred": "Sonstige habituelle atlanto-axiale Subluxation"
+              },
+              "children": []
+            },
+            {
+              "code": "M43.5",
+              "kind": "category",
+              "label": "Sonstige habituelle Wirbelsubluxation",
+              "rubrics": {
+                "preferred": "Sonstige habituelle Wirbelsubluxation",
+                "exclusion": "Biomechanische Funktionsstörungen, anderenorts nicht klassifiziertM99.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M43.6",
+              "kind": "category",
+              "label": "Tortikollis",
+              "rubrics": {
+                "preferred": "Tortikollis",
+                "exclusion": "Tortikollis:\n\t\t\t\tspastischG24.3"
+              },
+              "children": []
+            },
+            {
+              "code": "M43.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Deformitäten der Wirbelsäule und des Rückens",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Deformitäten der Wirbelsäule und des Rückens",
+                "exclusion": "SkolioseM41.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M43.9",
+              "kind": "category",
+              "label": "Deformität der Wirbelsäule und des Rückens, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Deformität der Wirbelsäule und des Rückens, nicht näher bezeichnet",
+                "inclusion": "Wirbelsäulenverkrümmung o.n.A."
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M45-M49",
+      "kind": "block",
+      "label": "Spondylopathien",
+      "rubrics": {
+        "preferred": "Spondylopathien"
+      },
+      "children": [
+        {
+          "code": "M45",
+          "kind": "category",
+          "label": "Spondylitis ankylosans",
+          "rubrics": {
+            "preferred": "Spondylitis ankylosans",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]",
+            "inclusion": "Röntgenologische axiale Spondyloarthritis",
+            "exclusion": "Juvenile axiale Spondyloarthritis [Spondylitis ankylosans]M08.1-"
+          },
+          "children": [
+            {
+              "code": "M45.0",
+              "kind": "category",
+              "label": "Spondylitis ankylosans",
+              "rubrics": {
+                "preferred": "Spondylitis ankylosans",
+                "inclusion": "Axiale Spondyloarthritis"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M46",
+          "kind": "category",
+          "label": "Sonstige entzündliche Spondylopathien",
+          "rubrics": {
+            "preferred": "Sonstige entzündliche Spondylopathien",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]",
+            "coding-hint": "Benutze eine zusätzliche Schlüsselnummer T84.5-T84.7, um das Vorliegen einer entzündlichen Spondylopathie im Rahmen einer periimplantären (implantatassoziierten) Infektion zu kodieren."
+          },
+          "children": [
+            {
+              "code": "M46.0",
+              "kind": "category",
+              "label": "Spinale Enthesopathie",
+              "rubrics": {
+                "preferred": "Spinale Enthesopathie",
+                "inclusion": "Spinale Enthesitis"
+              },
+              "children": []
+            },
+            {
+              "code": "M46.1",
+              "kind": "category",
+              "label": "Sakroiliitis, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sakroiliitis, anderenorts nicht klassifiziert",
+                "exclusion": "Ostitis condensans M85.3-"
+              },
+              "children": []
+            },
+            {
+              "code": "M46.2",
+              "kind": "category",
+              "label": "Wirbelosteomyelitis",
+              "rubrics": {
+                "preferred": "Wirbelosteomyelitis"
+              },
+              "children": []
+            },
+            {
+              "code": "M46.3",
+              "kind": "category",
+              "label": "Bandscheibeninfektion (pyogen)",
+              "rubrics": {
+                "preferred": "Bandscheibeninfektion (pyogen)",
+                "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "M46.4",
+              "kind": "category",
+              "label": "Diszitis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Diszitis, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "M46.5",
+              "kind": "category",
+              "label": "Sonstige infektiöse Spondylopathien",
+              "rubrics": {
+                "preferred": "Sonstige infektiöse Spondylopathien"
+              },
+              "children": []
+            },
+            {
+              "code": "M46.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete entzündliche Spondylopathien",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete entzündliche Spondylopathien"
+              },
+              "children": []
+            },
+            {
+              "code": "M46.9",
+              "kind": "category",
+              "label": "Entzündliche Spondylopathie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Entzündliche Spondylopathie, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M47",
+          "kind": "category",
+          "label": "Spondylose",
+          "rubrics": {
+            "preferred": "Spondylose",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]",
+            "inclusion": "Degeneration der Gelenkflächen"
+          },
+          "children": [
+            {
+              "code": "M47.0",
+              "kind": "category",
+              "label": "Arteria-spinalis-anterior-Kompressionssyndrom und Arteria-vertebralis-KompressionssyndromG99.2",
+              "rubrics": {
+                "preferred": "Arteria-spinalis-anterior-Kompressionssyndrom und Arteria-vertebralis-KompressionssyndromG99.2"
+              },
+              "children": []
+            },
+            {
+              "code": "M47.1",
+              "kind": "category",
+              "label": "Sonstige Spondylose mit Myelopathie",
+              "rubrics": {
+                "preferred": "Sonstige Spondylose mit Myelopathie",
+                "inclusion": "Spondylogene Kompression des RückenmarkesG99.2",
+                "exclusion": "WirbelsubluxationM43.3-M43.5"
+              },
+              "children": []
+            },
+            {
+              "code": "M47.2",
+              "kind": "category",
+              "label": "Sonstige Spondylose mit Radikulopathie",
+              "rubrics": {
+                "preferred": "Sonstige Spondylose mit Radikulopathie"
+              },
+              "children": []
+            },
+            {
+              "code": "M47.8",
+              "kind": "category",
+              "label": "Sonstige Spondylose",
+              "rubrics": {
+                "preferred": "Sonstige Spondylose",
+                "inclusion": "Zervikale Spondylose\n\t\t\t\tohne Myelopathie oder Radikulopathie"
+              },
+              "children": []
+            },
+            {
+              "code": "M47.9",
+              "kind": "category",
+              "label": "Spondylose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Spondylose, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M48",
+          "kind": "category",
+          "label": "Sonstige Spondylopathien",
+          "rubrics": {
+            "preferred": "Sonstige Spondylopathien",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]"
+          },
+          "children": [
+            {
+              "code": "M48.0",
+              "kind": "category",
+              "label": "Spinal(kanal)stenose",
+              "rubrics": {
+                "preferred": "Spinal(kanal)stenose",
+                "inclusion": "Lumbale Spinal(kanal)stenose"
+              },
+              "children": []
+            },
+            {
+              "code": "M48.1",
+              "kind": "category",
+              "label": "Spondylitis hyperostotica [Forestier-Ott]",
+              "rubrics": {
+                "preferred": "Spondylitis hyperostotica [Forestier-Ott]",
+                "inclusion": "Diffuse idiopathische Skeletthyperostose [DISH]"
+              },
+              "children": []
+            },
+            {
+              "code": "M48.2",
+              "kind": "category",
+              "label": "Baastrup-Syndrom",
+              "rubrics": {
+                "preferred": "Baastrup-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "M48.3",
+              "kind": "category",
+              "label": "Traumatische Spondylopathie",
+              "rubrics": {
+                "preferred": "Traumatische Spondylopathie"
+              },
+              "children": []
+            },
+            {
+              "code": "M48.4",
+              "kind": "category",
+              "label": "Ermüdungsbruch eines Wirbels",
+              "rubrics": {
+                "preferred": "Ermüdungsbruch eines Wirbels",
+                "inclusion": "Stressfraktur eines Wirbels"
+              },
+              "children": []
+            },
+            {
+              "code": "M48.5",
+              "kind": "category",
+              "label": "Wirbelkörperkompression, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Wirbelkörperkompression, anderenorts nicht klassifiziert",
+                "inclusion": "Wirbelkörperkompression o.n.A.",
+                "exclusion": "Wirbelkörperkompression bei OsteoporoseM80.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M48.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Spondylopathien",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Spondylopathien",
+                "inclusion": "Ossifikation des Lig. longitudinale posterius [OPLL-Syndrom]"
+              },
+              "children": []
+            },
+            {
+              "code": "M48.9",
+              "kind": "category",
+              "label": "Spondylopathie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Spondylopathie, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M49",
+          "kind": "category",
+          "label": "Spondylopathien bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Spondylopathien bei anderenorts klassifizierten Krankheiten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]",
+            "exclusion": "Arthritis psoriatica und Arthritiden bei gastrointestinalen GrundkrankheitenM07.-M09.-"
+          },
+          "children": [
+            {
+              "code": "M49.0",
+              "kind": "category",
+              "label": "Tuberkulose der WirbelsäuleA18.0",
+              "rubrics": {
+                "preferred": "Tuberkulose der WirbelsäuleA18.0",
+                "inclusion": "Pott-Gibbus"
+              },
+              "children": []
+            },
+            {
+              "code": "M49.1",
+              "kind": "category",
+              "label": "Spondylitis brucellosaA23.-",
+              "rubrics": {
+                "preferred": "Spondylitis brucellosaA23.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M49.2",
+              "kind": "category",
+              "label": "Spondylitis durch bakterielle DarminfektionA01-A04",
+              "rubrics": {
+                "preferred": "Spondylitis durch bakterielle DarminfektionA01-A04"
+              },
+              "children": []
+            },
+            {
+              "code": "M49.3",
+              "kind": "category",
+              "label": "Spondylopathie bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Spondylopathie bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "exclusion": "Neuropathische Spondylopathie bei Tabes dorsalisM49.4-"
+              },
+              "children": []
+            },
+            {
+              "code": "M49.4",
+              "kind": "category",
+              "label": "Neuropathische Spondylopathie",
+              "rubrics": {
+                "preferred": "Neuropathische Spondylopathie",
+                "inclusion": "Neuropathische Spondylopathie bei:\n\t\t\t\tTabes dorsalisA52.1"
+              },
+              "children": []
+            },
+            {
+              "code": "M49.5",
+              "kind": "category",
+              "label": "Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Wirbelfraktur infolge von MetastasenC79.5"
+              },
+              "children": []
+            },
+            {
+              "code": "M49.8",
+              "kind": "category",
+              "label": "Spondylopathie bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Spondylopathie bei sonstigen anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M50-M54",
+      "kind": "block",
+      "label": "Sonstige Krankheiten der Wirbelsäule und des Rückens",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Wirbelsäule und des Rückens",
+        "exclusion": "Diszitis o.n.A.M46.4-"
+      },
+      "children": [
+        {
+          "code": "M50",
+          "kind": "category",
+          "label": "Zervikale Bandscheibenschäden",
+          "rubrics": {
+            "preferred": "Zervikale Bandscheibenschäden",
+            "inclusion": "Zervikothorakale Bandscheibenschäden"
+          },
+          "children": [
+            {
+              "code": "M50.0",
+              "kind": "category",
+              "label": "Zervikaler Bandscheibenschaden mit MyelopathieG99.2",
+              "rubrics": {
+                "preferred": "Zervikaler Bandscheibenschaden mit MyelopathieG99.2"
+              },
+              "children": []
+            },
+            {
+              "code": "M50.1",
+              "kind": "category",
+              "label": "Zervikaler Bandscheibenschaden mit Radikulopathie",
+              "rubrics": {
+                "preferred": "Zervikaler Bandscheibenschaden mit Radikulopathie",
+                "exclusion": "Brachiale Radikulitis o.n.A.M54.13"
+              },
+              "children": []
+            },
+            {
+              "code": "M50.2",
+              "kind": "category",
+              "label": "Sonstige zervikale Bandscheibenverlagerung",
+              "rubrics": {
+                "preferred": "Sonstige zervikale Bandscheibenverlagerung"
+              },
+              "children": []
+            },
+            {
+              "code": "M50.3",
+              "kind": "category",
+              "label": "Sonstige zervikale Bandscheibendegeneration",
+              "rubrics": {
+                "preferred": "Sonstige zervikale Bandscheibendegeneration"
+              },
+              "children": []
+            },
+            {
+              "code": "M50.8",
+              "kind": "category",
+              "label": "Sonstige zervikale Bandscheibenschäden",
+              "rubrics": {
+                "preferred": "Sonstige zervikale Bandscheibenschäden"
+              },
+              "children": []
+            },
+            {
+              "code": "M50.9",
+              "kind": "category",
+              "label": "Zervikaler Bandscheibenschaden, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Zervikaler Bandscheibenschaden, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M51",
+          "kind": "category",
+          "label": "Sonstige Bandscheibenschäden",
+          "rubrics": {
+            "preferred": "Sonstige Bandscheibenschäden",
+            "inclusion": "Thorakale, thorakolumbale und lumbosakrale Bandscheibenschäden"
+          },
+          "children": [
+            {
+              "code": "M51.0",
+              "kind": "category",
+              "label": "Lumbale und sonstige Bandscheibenschäden mit MyelopathieG99.2",
+              "rubrics": {
+                "preferred": "Lumbale und sonstige Bandscheibenschäden mit MyelopathieG99.2"
+              },
+              "children": []
+            },
+            {
+              "code": "M51.1",
+              "kind": "category",
+              "label": "Lumbale und sonstige Bandscheibenschäden mit RadikulopathieG55.1",
+              "rubrics": {
+                "preferred": "Lumbale und sonstige Bandscheibenschäden mit RadikulopathieG55.1",
+                "inclusion": "Ischialgie durch Bandscheibenschaden",
+                "exclusion": "Lumbale Radikulitis o.n.A.M54.16"
+              },
+              "children": []
+            },
+            {
+              "code": "M51.2",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Bandscheibenverlagerung",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Bandscheibenverlagerung",
+                "inclusion": "Lumbago durch Bandscheibenverlagerung"
+              },
+              "children": []
+            },
+            {
+              "code": "M51.3",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Bandscheibendegeneration",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Bandscheibendegeneration"
+              },
+              "children": []
+            },
+            {
+              "code": "M51.4",
+              "kind": "category",
+              "label": "Schmorl-Knötchen",
+              "rubrics": {
+                "preferred": "Schmorl-Knötchen"
+              },
+              "children": []
+            },
+            {
+              "code": "M51.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Bandscheibenschäden",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Bandscheibenschäden"
+              },
+              "children": []
+            },
+            {
+              "code": "M51.9",
+              "kind": "category",
+              "label": "Bandscheibenschaden, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Bandscheibenschaden, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M53",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Wirbelsäule und des Rückens, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Wirbelsäule und des Rückens, anderenorts nicht klassifiziert",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]"
+          },
+          "children": [
+            {
+              "code": "M53.0",
+              "kind": "category",
+              "label": "Zervikozephales Syndrom",
+              "rubrics": {
+                "preferred": "Zervikozephales Syndrom",
+                "inclusion": "Sympathisches hinteres Zervikal-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "M53.1",
+              "kind": "category",
+              "label": "Zervikobrachial-Syndrom",
+              "rubrics": {
+                "preferred": "Zervikobrachial-Syndrom",
+                "exclusion": "Zervikaler BandscheibenschadenM50.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M53.2",
+              "kind": "category",
+              "label": "Instabilität der Wirbelsäule",
+              "rubrics": {
+                "preferred": "Instabilität der Wirbelsäule"
+              },
+              "children": []
+            },
+            {
+              "code": "M53.3",
+              "kind": "category",
+              "label": "Krankheiten der Sakrokokzygealregion, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Krankheiten der Sakrokokzygealregion, anderenorts nicht klassifiziert",
+                "inclusion": "Kokzygodynie"
+              },
+              "children": []
+            },
+            {
+              "code": "M53.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der Wirbelsäule und des Rückens",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der Wirbelsäule und des Rückens"
+              },
+              "children": []
+            },
+            {
+              "code": "M53.9",
+              "kind": "category",
+              "label": "Krankheit der Wirbelsäule und des Rückens, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Wirbelsäule und des Rückens, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M54",
+          "kind": "category",
+          "label": "Rückenschmerzen",
+          "rubrics": {
+            "preferred": "Rückenschmerzen",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Anfang der Krankheitsgruppe M40-M54]",
+            "exclusion": "Psychogener RückenschmerzF45.40"
+          },
+          "children": [
+            {
+              "code": "M54.0",
+              "kind": "category",
+              "label": "Pannikulitis in der Nacken- und Rückenregion",
+              "rubrics": {
+                "preferred": "Pannikulitis in der Nacken- und Rückenregion",
+                "exclusion": "Pannikulitis:\n\t\t\t\to.n.A.M79.3-"
+              },
+              "children": []
+            },
+            {
+              "code": "M54.1",
+              "kind": "category",
+              "label": "Radikulopathie",
+              "rubrics": {
+                "preferred": "Radikulopathie",
+                "inclusion": "Radikulitis o.n.A.",
+                "exclusion": "Radikulopathie bei:\n\t\t\t\tzervikalem BandscheibenschadenM50.1"
+              },
+              "children": []
+            },
+            {
+              "code": "M54.2",
+              "kind": "category",
+              "label": "Zervikalneuralgie",
+              "rubrics": {
+                "preferred": "Zervikalneuralgie",
+                "exclusion": "Zervikalneuralgie durch zervikalen BandscheibenschadenM50.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M54.3",
+              "kind": "category",
+              "label": "Ischialgie",
+              "rubrics": {
+                "preferred": "Ischialgie",
+                "exclusion": "Läsion des N. ischiadicusG57.0"
+              },
+              "children": []
+            },
+            {
+              "code": "M54.4",
+              "kind": "category",
+              "label": "Lumboischialgie",
+              "rubrics": {
+                "preferred": "Lumboischialgie",
+                "exclusion": "Durch BandscheibenschadenM51.1"
+              },
+              "children": []
+            },
+            {
+              "code": "M54.5",
+              "kind": "category",
+              "label": "Kreuzschmerz",
+              "rubrics": {
+                "preferred": "Kreuzschmerz",
+                "inclusion": "Überlastung in der Kreuzbeingegend",
+                "exclusion": "LumboischialgieM54.4"
+              },
+              "children": []
+            },
+            {
+              "code": "M54.6",
+              "kind": "category",
+              "label": "Schmerzen im Bereich der Brustwirbelsäule",
+              "rubrics": {
+                "preferred": "Schmerzen im Bereich der Brustwirbelsäule",
+                "exclusion": "Schmerzen durch BandscheibenschadenM51.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M54.8",
+              "kind": "category",
+              "label": "Sonstige Rückenschmerzen",
+              "rubrics": {
+                "preferred": "Sonstige Rückenschmerzen"
+              },
+              "children": []
+            },
+            {
+              "code": "M54.9",
+              "kind": "category",
+              "label": "Rückenschmerzen, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Rückenschmerzen, nicht näher bezeichnet",
+                "inclusion": "Rückenschmerzen o.n.A."
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

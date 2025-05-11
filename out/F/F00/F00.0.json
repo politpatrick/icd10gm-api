@@ -1,0 +1,11 @@
+{
+  "code": "F00.0",
+  "kind": "category",
+  "label": "Demenz bei Alzheimer-Krankheit, mit frühem Beginn (Typ 2)G30.0",
+  "rubrics": {
+    "preferred": "Demenz bei Alzheimer-Krankheit, mit frühem Beginn (Typ 2)G30.0",
+    "definition": "Demenz bei Alzheimer-Krankheit mit Beginn vor dem 65. Lebensjahr. Der Verlauf weist eine vergleichsweise rasche Verschlechterung auf, es bestehen deutliche und vielfältige Störungen der höheren kortikalen Funktionen.",
+    "inclusion": "Primär degenerative Demenz vom Alzheimer-Typ, präseniler Beginn"
+  },
+  "children": []
+}

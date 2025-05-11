@@ -1,0 +1,11 @@
+{
+  "code": "H53.5",
+  "kind": "category",
+  "label": "Farbsinnstörungen",
+  "rubrics": {
+    "preferred": "Farbsinnstörungen",
+    "inclusion": "Tritanopie",
+    "exclusion": "TagblindheitH53.1"
+  },
+  "children": []
+}

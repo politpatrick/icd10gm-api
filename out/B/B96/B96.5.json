@@ -1,0 +1,10 @@
+{
+  "code": "B96.5",
+  "kind": "category",
+  "label": "Pseudomonas und andere Nonfermenter als Ursache von Krankheiten, die in anderen Kapiteln klassifiziert sind",
+  "rubrics": {
+    "preferred": "Pseudomonas und andere Nonfermenter als Ursache von Krankheiten, die in anderen Kapiteln klassifiziert sind",
+    "inclusion": "Stenotrophomonas"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "J33.8",
+  "kind": "category",
+  "label": "Sonstige Polypen der Nasennebenhöhlen",
+  "rubrics": {
+    "preferred": "Sonstige Polypen der Nasennebenhöhlen",
+    "inclusion": "Polyp, Polyposis:\n\t\t\t\tSinus sphenoidalis"
+  },
+  "children": []
+}

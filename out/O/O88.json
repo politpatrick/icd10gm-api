@@ -1,0 +1,80 @@
+{
+  "code": "O88",
+  "kind": "category",
+  "label": "Embolie während der Gestationsperiode",
+  "rubrics": {
+    "preferred": "Embolie während der Gestationsperiode",
+    "inclusion": "Lungenembolie während der Schwangerschaft, unter der Geburt oder im Wochenbett",
+    "exclusion": "Embolie als Komplikation von Abort, Extrauteringravidität oder MolenschwangerschaftO00-O07O08.2"
+  },
+  "children": [
+    {
+      "code": "O88.0",
+      "kind": "category",
+      "label": "Luftembolie während der Gestationsperiode",
+      "rubrics": {
+        "preferred": "Luftembolie während der Gestationsperiode"
+      },
+      "children": []
+    },
+    {
+      "code": "O88.1",
+      "kind": "category",
+      "label": "Fruchtwasserembolie",
+      "rubrics": {
+        "preferred": "Fruchtwasserembolie",
+        "inclusion": "Anaphylaktoides Syndrom der Schwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O88.2",
+      "kind": "category",
+      "label": "Thromboembolie während der Gestationsperiode",
+      "rubrics": {
+        "preferred": "Thromboembolie während der Gestationsperiode"
+      },
+      "children": [
+        {
+          "code": "O88.20",
+          "kind": "category",
+          "label": "Lungenembolie während der Gestationsperiode",
+          "rubrics": {
+            "preferred": "Lungenembolie während der Gestationsperiode",
+            "inclusion": "Lungenembolie im Wochenbett"
+          },
+          "children": []
+        },
+        {
+          "code": "O88.28",
+          "kind": "category",
+          "label": "Sonstige Thromboembolie während der Gestationsperiode",
+          "rubrics": {
+            "preferred": "Sonstige Thromboembolie während der Gestationsperiode",
+            "inclusion": "Embolie o.n.A. während der Gestationsperiode"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "O88.3",
+      "kind": "category",
+      "label": "Pyämische und septische Embolie während der Gestationsperiode",
+      "rubrics": {
+        "preferred": "Pyämische und septische Embolie während der Gestationsperiode"
+      },
+      "children": []
+    },
+    {
+      "code": "O88.8",
+      "kind": "category",
+      "label": "Sonstige Embolie während der Gestationsperiode",
+      "rubrics": {
+        "preferred": "Sonstige Embolie während der Gestationsperiode",
+        "inclusion": "Fettembolie während der Gestationsperiode"
+      },
+      "children": []
+    }
+  ]
+}

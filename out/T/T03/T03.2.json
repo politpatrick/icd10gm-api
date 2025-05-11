@@ -1,0 +1,11 @@
+{
+  "code": "T03.2",
+  "kind": "category",
+  "label": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Regionen der oberen Extremität(en)",
+  "rubrics": {
+    "preferred": "Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Regionen der oberen Extremität(en)",
+    "inclusion": "Luxationen, Verstauchungen und Zerrungen an Lokalisationen, die unter S43.-, S53.-, S63.- und T11.2 klassifizierbar sind",
+    "exclusion": "In Kombination mit Luxationen, Verstauchungen und Zerrungen:\n\t\t\t\tdes Thorax, der Lumbosakralgegend und des BeckensT03.8"
+  },
+  "children": []
+}

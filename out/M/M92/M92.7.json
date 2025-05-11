@@ -1,0 +1,10 @@
+{
+  "code": "M92.7",
+  "kind": "category",
+  "label": "Juvenile Osteochondrose des Metatarsus",
+  "rubrics": {
+    "preferred": "Juvenile Osteochondrose des Metatarsus",
+    "inclusion": "Osteochondrose (juvenile):\n\t\t\t\tOs metatarsale V [Iselin-Krankheit]"
+  },
+  "children": []
+}

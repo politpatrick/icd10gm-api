@@ -1,0 +1,10 @@
+{
+  "code": "I47.9",
+  "kind": "category",
+  "label": "Paroxysmale Tachykardie, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Paroxysmale Tachykardie, nicht näher bezeichnet",
+    "inclusion": "Bouveret- (Hoffmann-) Syndrom"
+  },
+  "children": []
+}

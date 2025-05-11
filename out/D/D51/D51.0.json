@@ -1,0 +1,10 @@
+{
+  "code": "D51.0",
+  "kind": "category",
+  "label": "Vitamin-B12-Mangelanämie durch Mangel an Intrinsic-Faktor",
+  "rubrics": {
+    "preferred": "Vitamin-B12-Mangelanämie durch Mangel an Intrinsic-Faktor",
+    "inclusion": "Angeborener Mangel an Intrinsic-Faktor"
+  },
+  "children": []
+}

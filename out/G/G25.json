@@ -1,0 +1,134 @@
+{
+  "code": "G25",
+  "kind": "category",
+  "label": "Sonstige extrapyramidale Krankheiten und Bewegungsstörungen",
+  "rubrics": {
+    "preferred": "Sonstige extrapyramidale Krankheiten und Bewegungsstörungen"
+  },
+  "children": [
+    {
+      "code": "G25.0",
+      "kind": "category",
+      "label": "Essentieller Tremor",
+      "rubrics": {
+        "preferred": "Essentieller Tremor",
+        "inclusion": "Familiärer Tremor",
+        "exclusion": "Tremor o.n.A.R25.1"
+      },
+      "children": []
+    },
+    {
+      "code": "G25.1",
+      "kind": "category",
+      "label": "Arzneimittelinduzierter Tremor",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierter Tremor",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "G25.2",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Tremorformen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Tremorformen",
+        "inclusion": "Intentionstremor"
+      },
+      "children": []
+    },
+    {
+      "code": "G25.3",
+      "kind": "category",
+      "label": "Myoklonus",
+      "rubrics": {
+        "preferred": "Myoklonus",
+        "inclusion": "Arzneimittelinduzierter Myoklonus",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "MyoklonusepilepsieG40.-"
+      },
+      "children": []
+    },
+    {
+      "code": "G25.4",
+      "kind": "category",
+      "label": "Arzneimittelinduzierte Chorea",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierte Chorea",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "G25.5",
+      "kind": "category",
+      "label": "Sonstige Chorea",
+      "rubrics": {
+        "preferred": "Sonstige Chorea",
+        "inclusion": "Chorea o.n.A.",
+        "exclusion": "Rheumatische ChoreaI02.-"
+      },
+      "children": []
+    },
+    {
+      "code": "G25.6",
+      "kind": "category",
+      "label": "Arzneimittelinduzierte Tics und sonstige Tics organischen Ursprungs",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierte Tics und sonstige Tics organischen Ursprungs",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "Tic o.n.A.F95.9"
+      },
+      "children": []
+    },
+    {
+      "code": "G25.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete extrapyramidale Krankheiten und Bewegungsstörungen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete extrapyramidale Krankheiten und Bewegungsstörungen"
+      },
+      "children": [
+        {
+          "code": "G25.80",
+          "kind": "category",
+          "label": "Periodische Beinbewegungen im Schlaf",
+          "rubrics": {
+            "preferred": "Periodische Beinbewegungen im Schlaf",
+            "inclusion": "Periodic Limb Movements in Sleep [PLMS]"
+          },
+          "children": []
+        },
+        {
+          "code": "G25.81",
+          "kind": "category",
+          "label": "Syndrom der unruhigen Beine [Restless-Legs-Syndrom]",
+          "rubrics": {
+            "preferred": "Syndrom der unruhigen Beine [Restless-Legs-Syndrom]"
+          },
+          "children": []
+        },
+        {
+          "code": "G25.88",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete extrapyramidale Krankheiten und Bewegungsstörungen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete extrapyramidale Krankheiten und Bewegungsstörungen",
+            "inclusion": "Stiff-Person-Syndrom [Muskelstarre-Syndrom]",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G25.9",
+      "kind": "category",
+      "label": "Extrapyramidale Krankheit oder Bewegungsstörung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Extrapyramidale Krankheit oder Bewegungsstörung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

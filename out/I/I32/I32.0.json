@@ -1,0 +1,10 @@
+{
+  "code": "I32.0",
+  "kind": "category",
+  "label": "Perikarditis bei anderenorts klassifizierten bakteriellen Krankheiten",
+  "rubrics": {
+    "preferred": "Perikarditis bei anderenorts klassifizierten bakteriellen Krankheiten",
+    "inclusion": "Perikarditis:\n\t\t\t\ttuberkulösA18.8"
+  },
+  "children": []
+}

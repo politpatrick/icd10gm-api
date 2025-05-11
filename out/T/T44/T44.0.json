@@ -1,0 +1,10 @@
+{
+  "code": "T44.0",
+  "kind": "category",
+  "label": "Cholinesterase-Hemmer",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Cholinesterase-Hemmer",
+    "preferred": "Cholinesterase-Hemmer"
+  },
+  "children": []
+}

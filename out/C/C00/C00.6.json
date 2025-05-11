@@ -1,0 +1,11 @@
+{
+  "code": "C00.6",
+  "kind": "category",
+  "label": "Lippenkommissur",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Lippenkommissur",
+    "preferred": "Lippenkommissur",
+    "inclusion": "Mundwinkel"
+  },
+  "children": []
+}

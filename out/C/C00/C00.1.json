@@ -1,0 +1,11 @@
+{
+  "code": "C00.1",
+  "kind": "category",
+  "label": "Äußere Unterlippe",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Äußere Unterlippe",
+    "preferred": "Äußere Unterlippe",
+    "inclusion": "Unterlippe:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

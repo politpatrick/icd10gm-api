@@ -1,0 +1,10 @@
+{
+  "code": "H52.5",
+  "kind": "category",
+  "label": "Akkommodationsstörungen",
+  "rubrics": {
+    "preferred": "Akkommodationsstörungen",
+    "inclusion": "Ophthalmoplegia interna (totalis)"
+  },
+  "children": []
+}

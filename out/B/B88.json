@@ -1,0 +1,71 @@
+{
+  "code": "B88",
+  "kind": "category",
+  "label": "Sonstiger Parasitenbefall der Haut",
+  "rubrics": {
+    "preferred": "Sonstiger Parasitenbefall der Haut"
+  },
+  "children": [
+    {
+      "code": "B88.0",
+      "kind": "category",
+      "label": "Sonstige Akarinose [Milbenbefall]",
+      "rubrics": {
+        "preferred": "Sonstige Akarinose [Milbenbefall]",
+        "inclusion": "Trombikulose",
+        "exclusion": "SkabiesB86"
+      },
+      "children": []
+    },
+    {
+      "code": "B88.1",
+      "kind": "category",
+      "label": "Tungiasis [Sandflohbefall]",
+      "rubrics": {
+        "preferred": "Tungiasis [Sandflohbefall]"
+      },
+      "children": []
+    },
+    {
+      "code": "B88.2",
+      "kind": "category",
+      "label": "Sonstiger Befall durch Arthropoden",
+      "rubrics": {
+        "preferred": "Sonstiger Befall durch Arthropoden",
+        "inclusion": "Skarabiasis"
+      },
+      "children": []
+    },
+    {
+      "code": "B88.3",
+      "kind": "category",
+      "label": "Hirudiniasis externa",
+      "rubrics": {
+        "preferred": "Hirudiniasis externa",
+        "inclusion": "Blutegelbefall o.n.A.",
+        "exclusion": "Hirudiniasis internaB83.4"
+      },
+      "children": []
+    },
+    {
+      "code": "B88.8",
+      "kind": "category",
+      "label": "Sonstiger näher bezeichneter Parasitenbefall der Haut",
+      "rubrics": {
+        "preferred": "Sonstiger näher bezeichneter Parasitenbefall der Haut",
+        "inclusion": "Porozephalose"
+      },
+      "children": []
+    },
+    {
+      "code": "B88.9",
+      "kind": "category",
+      "label": "Parasitenbefall der Haut, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Parasitenbefall der Haut, nicht näher bezeichnet",
+        "inclusion": "Hautparasiten o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

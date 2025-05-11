@@ -1,0 +1,11 @@
+{
+  "code": "R89",
+  "kind": "category",
+  "label": "Abnorme Befunde in Untersuchungsmaterialien aus anderen Körperorganen, -systemen und -geweben",
+  "rubrics": {
+    "preferred": "Abnorme Befunde in Untersuchungsmaterialien aus anderen Körperorganen, -systemen und -geweben",
+    "modifierlink": "[4. Stellen siehe am Anfang dieser Gruppe]",
+    "inclusion": "Abnorme Befunde in:\n\t\t\t\tWundsekret"
+  },
+  "children": []
+}

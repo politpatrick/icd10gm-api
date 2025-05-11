@@ -1,0 +1,12 @@
+{
+  "code": "K27",
+  "kind": "category",
+  "label": "Ulcus pepticum, Lokalisation nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Ulcus pepticum, Lokalisation nicht näher bezeichnet",
+    "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+    "inclusion": "Ulcus:\n\t\t\t\tpepticum o.n.A.",
+    "exclusion": "Ulcus pepticum beim NeugeborenenP78.8"
+  },
+  "children": []
+}

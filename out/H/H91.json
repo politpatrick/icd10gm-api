@@ -1,0 +1,69 @@
+{
+  "code": "H91",
+  "kind": "category",
+  "label": "Sonstiger Hörverlust",
+  "rubrics": {
+    "preferred": "Sonstiger Hörverlust",
+    "exclusion": "ZeruminalpfropfH61.2"
+  },
+  "children": [
+    {
+      "code": "H91.0",
+      "kind": "category",
+      "label": "Ototoxischer Hörverlust",
+      "rubrics": {
+        "preferred": "Ototoxischer Hörverlust",
+        "coding-hint": "Soll die toxische Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "H91.1",
+      "kind": "category",
+      "label": "Presbyakusis",
+      "rubrics": {
+        "preferred": "Presbyakusis",
+        "inclusion": "Altersschwerhörigkeit"
+      },
+      "children": []
+    },
+    {
+      "code": "H91.2",
+      "kind": "category",
+      "label": "Idiopathischer Hörsturz",
+      "rubrics": {
+        "preferred": "Idiopathischer Hörsturz",
+        "inclusion": "Akuter Hörverlust o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "H91.3",
+      "kind": "category",
+      "label": "Taubstummheit, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Taubstummheit, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "H91.8",
+      "kind": "category",
+      "label": "Sonstiger näher bezeichneter Hörverlust",
+      "rubrics": {
+        "preferred": "Sonstiger näher bezeichneter Hörverlust"
+      },
+      "children": []
+    },
+    {
+      "code": "H91.9",
+      "kind": "category",
+      "label": "Hörverlust, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hörverlust, nicht näher bezeichnet",
+        "inclusion": "Schwerhörigkeit oder Taubheit:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    }
+  ]
+}

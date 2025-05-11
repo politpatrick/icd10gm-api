@@ -1,0 +1,11 @@
+{
+  "code": "N89.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete nichtentzündliche Krankheiten der Vagina",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete nichtentzündliche Krankheiten der Vagina",
+    "inclusion": "Scheidenulkus durch Pessar",
+    "exclusion": "Alte Verletzung der BeckenbodenmuskulaturN81.8"
+  },
+  "children": []
+}

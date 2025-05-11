@@ -1,0 +1,46 @@
+{
+  "code": "P55",
+  "kind": "category",
+  "label": "Hämolytische Krankheit beim Fetus und Neugeborenen",
+  "rubrics": {
+    "preferred": "Hämolytische Krankheit beim Fetus und Neugeborenen"
+  },
+  "children": [
+    {
+      "code": "P55.0",
+      "kind": "category",
+      "label": "Rh-Isoimmunisierung beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "Rh-Isoimmunisierung beim Fetus und Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P55.1",
+      "kind": "category",
+      "label": "AB0-Isoimmunisierung beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "AB0-Isoimmunisierung beim Fetus und Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P55.8",
+      "kind": "category",
+      "label": "Sonstige hämolytische Krankheiten beim Fetus und Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige hämolytische Krankheiten beim Fetus und Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P55.9",
+      "kind": "category",
+      "label": "Hämolytische Krankheit beim Fetus und Neugeborenen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hämolytische Krankheit beim Fetus und Neugeborenen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

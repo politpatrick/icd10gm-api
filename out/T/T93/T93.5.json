@@ -1,0 +1,10 @@
+{
+  "code": "T93.5",
+  "kind": "category",
+  "label": "Folgen einer Verletzung von Muskeln und Sehnen der unteren Extremität",
+  "rubrics": {
+    "preferred": "Folgen einer Verletzung von Muskeln und Sehnen der unteren Extremität",
+    "inclusion": "Folgen einer Verletzung, die unter S76.-, S86.-, S96.- und T13.5 klassifizierbar ist"
+  },
+  "children": []
+}

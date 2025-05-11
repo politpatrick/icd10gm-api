@@ -1,0 +1,10 @@
+{
+  "code": "A93.1",
+  "kind": "category",
+  "label": "Pappataci-Fieber",
+  "rubrics": {
+    "preferred": "Pappataci-Fieber",
+    "inclusion": "Sandfliegenfieber"
+  },
+  "children": []
+}

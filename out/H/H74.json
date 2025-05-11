@@ -1,0 +1,76 @@
+{
+  "code": "H74",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Mittelohres und des Warzenfortsatzes",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Mittelohres und des Warzenfortsatzes"
+  },
+  "children": [
+    {
+      "code": "H74.0",
+      "kind": "category",
+      "label": "Tympanosklerose",
+      "rubrics": {
+        "preferred": "Tympanosklerose"
+      },
+      "children": []
+    },
+    {
+      "code": "H74.1",
+      "kind": "category",
+      "label": "Otitis media adhaesiva",
+      "rubrics": {
+        "preferred": "Otitis media adhaesiva",
+        "inclusion": "Adhäsivprozess nach Otitis media",
+        "exclusion": "LeimohrH65.3"
+      },
+      "children": []
+    },
+    {
+      "code": "H74.2",
+      "kind": "category",
+      "label": "Kontinuitätsunterbrechung oder Dislokation der Gehörknöchelchenkette",
+      "rubrics": {
+        "preferred": "Kontinuitätsunterbrechung oder Dislokation der Gehörknöchelchenkette"
+      },
+      "children": []
+    },
+    {
+      "code": "H74.3",
+      "kind": "category",
+      "label": "Sonstige erworbene Anomalien der Gehörknöchelchen",
+      "rubrics": {
+        "preferred": "Sonstige erworbene Anomalien der Gehörknöchelchen",
+        "inclusion": "Partieller Verlust\n\t\t\t\tGehörknöchelchen"
+      },
+      "children": []
+    },
+    {
+      "code": "H74.4",
+      "kind": "category",
+      "label": "Polyp im Mittelohr",
+      "rubrics": {
+        "preferred": "Polyp im Mittelohr"
+      },
+      "children": []
+    },
+    {
+      "code": "H74.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Mittelohres und des Warzenfortsatzes",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Mittelohres und des Warzenfortsatzes"
+      },
+      "children": []
+    },
+    {
+      "code": "H74.9",
+      "kind": "category",
+      "label": "Krankheit des Mittelohres und des Warzenfortsatzes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit des Mittelohres und des Warzenfortsatzes, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

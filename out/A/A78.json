@@ -1,0 +1,10 @@
+{
+  "code": "A78",
+  "kind": "category",
+  "label": "Q-Fieber",
+  "rubrics": {
+    "preferred": "Q-Fieber",
+    "inclusion": "Query-Fieber"
+  },
+  "children": []
+}

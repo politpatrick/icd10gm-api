@@ -1,0 +1,11 @@
+{
+  "code": "Z72.8",
+  "kind": "category",
+  "label": "Sonstige Probleme mit Bezug auf die Lebensführung",
+  "rubrics": {
+    "preferred": "Sonstige Probleme mit Bezug auf die Lebensführung",
+    "inclusion": "Ungeeignete Ernährungs- oder Essgewohnheiten",
+    "exclusion": "Zwanghaftes und pathologisches SpielenF63.0"
+  },
+  "children": []
+}

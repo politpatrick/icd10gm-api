@@ -1,0 +1,12 @@
+{
+  "code": "J69.0",
+  "kind": "category",
+  "label": "Pneumonie durch Nahrung oder Erbrochenes",
+  "rubrics": {
+    "preferred": "Pneumonie durch Nahrung oder Erbrochenes",
+    "inclusion": "Aspirationspneumonie (durch):\n\t\t\t\to.n.A.",
+    "exclusion": "Mendelson-SyndromJ95.4",
+    "coding-hint": "Benutze für Zwecke der externen Qualitätssicherung nach § 137 SGB V eine zusätzliche Schlüsselnummer U69.01U69.04, um den zeitlichen Bezug einer vollstationär behandelten Pneumonie bei erwachsenen Personen (18 Jahre und älter) zur stationären Krankenhausaufnahme anzugeben."
+  },
+  "children": []
+}

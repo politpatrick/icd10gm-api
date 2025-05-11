@@ -1,0 +1,95 @@
+{
+  "code": "P23",
+  "kind": "category",
+  "label": "Angeborene Pneumonie",
+  "rubrics": {
+    "preferred": "Angeborene Pneumonie",
+    "inclusion": "Infektionsbedingte Pneumonie, in utero oder unter der Geburt erworben",
+    "exclusion": "Pneumonie beim Neugeborenen durch AspirationP24.-"
+  },
+  "children": [
+    {
+      "code": "P23.0",
+      "kind": "category",
+      "label": "Angeborene Pneumonie durch Viren",
+      "rubrics": {
+        "preferred": "Angeborene Pneumonie durch Viren",
+        "exclusion": "Kongenitale Röteln-PneumonieP35.0"
+      },
+      "children": []
+    },
+    {
+      "code": "P23.1",
+      "kind": "category",
+      "label": "Angeborene Pneumonie durch Chlamydien",
+      "rubrics": {
+        "preferred": "Angeborene Pneumonie durch Chlamydien"
+      },
+      "children": []
+    },
+    {
+      "code": "P23.2",
+      "kind": "category",
+      "label": "Angeborene Pneumonie durch Staphylokokken",
+      "rubrics": {
+        "preferred": "Angeborene Pneumonie durch Staphylokokken"
+      },
+      "children": []
+    },
+    {
+      "code": "P23.3",
+      "kind": "category",
+      "label": "Angeborene Pneumonie durch Streptokokken, Gruppe B",
+      "rubrics": {
+        "preferred": "Angeborene Pneumonie durch Streptokokken, Gruppe B"
+      },
+      "children": []
+    },
+    {
+      "code": "P23.4",
+      "kind": "category",
+      "label": "Angeborene Pneumonie durch Escherichia coli",
+      "rubrics": {
+        "preferred": "Angeborene Pneumonie durch Escherichia coli"
+      },
+      "children": []
+    },
+    {
+      "code": "P23.5",
+      "kind": "category",
+      "label": "Angeborene Pneumonie durch Pseudomonasarten",
+      "rubrics": {
+        "preferred": "Angeborene Pneumonie durch Pseudomonasarten"
+      },
+      "children": []
+    },
+    {
+      "code": "P23.6",
+      "kind": "category",
+      "label": "Angeborene Pneumonie durch sonstige Bakterien",
+      "rubrics": {
+        "preferred": "Angeborene Pneumonie durch sonstige Bakterien",
+        "inclusion": "Streptokokkus, ausgenommen Gruppe B"
+      },
+      "children": []
+    },
+    {
+      "code": "P23.8",
+      "kind": "category",
+      "label": "Angeborene Pneumonie durch sonstige Erreger",
+      "rubrics": {
+        "preferred": "Angeborene Pneumonie durch sonstige Erreger"
+      },
+      "children": []
+    },
+    {
+      "code": "P23.9",
+      "kind": "category",
+      "label": "Angeborene Pneumonie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Pneumonie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

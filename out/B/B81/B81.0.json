@@ -1,0 +1,10 @@
+{
+  "code": "B81.0",
+  "kind": "category",
+  "label": "Anisakiasis",
+  "rubrics": {
+    "preferred": "Anisakiasis",
+    "inclusion": "Infektion durch Anisakis-Larven"
+  },
+  "children": []
+}

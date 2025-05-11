@@ -1,0 +1,11 @@
+{
+  "code": "U69.35",
+  "kind": "category",
+  "label": "Intravenöser Konsum sonstiger Stimulanzien, außer Koffein",
+  "rubrics": {
+    "preferredLong": "Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen: Intravenöser Konsum sonstiger Stimulanzien, außer Koffein",
+    "preferred": "Intravenöser Konsum sonstiger Stimulanzien, außer Koffein",
+    "exclusion": "Intravenöser Konsum (Meth-)Amphetamin-haltiger StoffeU69.33!"
+  },
+  "children": []
+}

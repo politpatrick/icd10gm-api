@@ -1,0 +1,69 @@
+{
+  "code": "L85",
+  "kind": "category",
+  "label": "Sonstige Epidermisverdickung",
+  "rubrics": {
+    "preferred": "Sonstige Epidermisverdickung",
+    "exclusion": "Hypertrophe HautkrankheitenL91.-"
+  },
+  "children": [
+    {
+      "code": "L85.0",
+      "kind": "category",
+      "label": "Erworbene Ichthyosis",
+      "rubrics": {
+        "preferred": "Erworbene Ichthyosis",
+        "exclusion": "Ichthyosis congenitaQ80.-"
+      },
+      "children": []
+    },
+    {
+      "code": "L85.1",
+      "kind": "category",
+      "label": "Erworbene Keratosis palmoplantaris [Erworbenes Keratoma palmoplantare]",
+      "rubrics": {
+        "preferred": "Erworbene Keratosis palmoplantaris [Erworbenes Keratoma palmoplantare]",
+        "exclusion": "Hereditäre PalmoplantarkeratoseQ82.8"
+      },
+      "children": []
+    },
+    {
+      "code": "L85.2",
+      "kind": "category",
+      "label": "Keratosis punctata (palmoplantaris)",
+      "rubrics": {
+        "preferred": "Keratosis punctata (palmoplantaris)"
+      },
+      "children": []
+    },
+    {
+      "code": "L85.3",
+      "kind": "category",
+      "label": "Xerosis cutis",
+      "rubrics": {
+        "preferred": "Xerosis cutis",
+        "inclusion": "Xerodermie"
+      },
+      "children": []
+    },
+    {
+      "code": "L85.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Epidermisverdickungen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Epidermisverdickungen",
+        "inclusion": "Cornu cutaneum"
+      },
+      "children": []
+    },
+    {
+      "code": "L85.9",
+      "kind": "category",
+      "label": "Epidermisverdickung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Epidermisverdickung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

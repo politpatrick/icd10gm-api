@@ -1,0 +1,10 @@
+{
+  "code": "B85.4",
+  "kind": "category",
+  "label": "Mischformen von Pedikulose und Phthiriasis",
+  "rubrics": {
+    "preferred": "Mischformen von Pedikulose und Phthiriasis",
+    "inclusion": "Befall durch mehr als eine der unter B85.0-B85.3 klassifizierbaren Arten"
+  },
+  "children": []
+}

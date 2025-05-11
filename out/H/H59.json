@@ -1,0 +1,40 @@
+{
+  "code": "H59",
+  "kind": "category",
+  "label": "Affektionen des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Affektionen des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+    "exclusion": "PseudophakieZ96.1"
+  },
+  "children": [
+    {
+      "code": "H59.0",
+      "kind": "category",
+      "label": "Keratopathie (bullös-aphak) nach Kataraktextraktion",
+      "rubrics": {
+        "preferred": "Keratopathie (bullös-aphak) nach Kataraktextraktion",
+        "inclusion": "Glaskörper-Hornhaut-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "H59.8",
+      "kind": "category",
+      "label": "Sonstige Affektionen des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen",
+      "rubrics": {
+        "preferred": "Sonstige Affektionen des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen",
+        "inclusion": "Sickerkissen-assoziierte Endophthalmitis"
+      },
+      "children": []
+    },
+    {
+      "code": "H59.9",
+      "kind": "category",
+      "label": "Affektion des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Affektion des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

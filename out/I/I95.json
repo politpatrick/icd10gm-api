@@ -1,0 +1,60 @@
+{
+  "code": "I95",
+  "kind": "category",
+  "label": "Hypotonie",
+  "rubrics": {
+    "preferred": "Hypotonie",
+    "exclusion": "Unspezifischer niedriger Blutdruckwert o.n.A.R03.1"
+  },
+  "children": [
+    {
+      "code": "I95.0",
+      "kind": "category",
+      "label": "Idiopathische Hypotonie",
+      "rubrics": {
+        "preferred": "Idiopathische Hypotonie"
+      },
+      "children": []
+    },
+    {
+      "code": "I95.1",
+      "kind": "category",
+      "label": "Orthostatische Hypotonie",
+      "rubrics": {
+        "preferred": "Orthostatische Hypotonie",
+        "inclusion": "Orthostatische Dysregulation",
+        "exclusion": "Posturales Tachykardiesyndrom [PoTS]G90.80"
+      },
+      "children": []
+    },
+    {
+      "code": "I95.2",
+      "kind": "category",
+      "label": "Hypotonie durch Arzneimittel",
+      "rubrics": {
+        "preferred": "Hypotonie durch Arzneimittel",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "I95.8",
+      "kind": "category",
+      "label": "Sonstige Hypotonie",
+      "rubrics": {
+        "preferred": "Sonstige Hypotonie",
+        "inclusion": "Chronische Hypotonie"
+      },
+      "children": []
+    },
+    {
+      "code": "I95.9",
+      "kind": "category",
+      "label": "Hypotonie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hypotonie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

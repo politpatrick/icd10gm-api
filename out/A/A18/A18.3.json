@@ -1,0 +1,10 @@
+{
+  "code": "A18.3",
+  "kind": "category",
+  "label": "Tuberkulose des Darmes, des Peritoneums und der Mesenteriallymphknoten",
+  "rubrics": {
+    "preferred": "Tuberkulose des Darmes, des Peritoneums und der Mesenteriallymphknoten",
+    "inclusion": "Tuberkulose:\n\t\t\t\tretroperitoneal (Lymphknoten)"
+  },
+  "children": []
+}

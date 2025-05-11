@@ -1,0 +1,11 @@
+{
+  "code": "D10.1",
+  "kind": "category",
+  "label": "Zunge",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Zunge",
+    "preferred": "Zunge",
+    "inclusion": "Zungentonsille"
+  },
+  "children": []
+}

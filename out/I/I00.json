@@ -1,0 +1,10 @@
+{
+  "code": "I00",
+  "kind": "category",
+  "label": "Rheumatisches Fieber ohne Angabe einer Herzbeteiligung",
+  "rubrics": {
+    "preferred": "Rheumatisches Fieber ohne Angabe einer Herzbeteiligung",
+    "inclusion": "Akute oder subakute Arthritis bei rheumatischem Fieber"
+  },
+  "children": []
+}

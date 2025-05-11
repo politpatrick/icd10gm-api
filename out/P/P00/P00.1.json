@@ -1,0 +1,10 @@
+{
+  "code": "P00.1",
+  "kind": "category",
+  "label": "Schädigung des Fetus und Neugeborenen durch Nieren- und Harnwegskrankheiten der Mutter",
+  "rubrics": {
+    "preferred": "Schädigung des Fetus und Neugeborenen durch Nieren- und Harnwegskrankheiten der Mutter",
+    "inclusion": "Schädigung des Fetus oder Neugeborenen durch Zustände der Mutter, die unter N00-N39 klassifizierbar sind"
+  },
+  "children": []
+}

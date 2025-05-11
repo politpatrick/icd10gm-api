@@ -1,0 +1,10 @@
+{
+  "code": "E77.0",
+  "kind": "category",
+  "label": "Defekte der posttranslationalen Modifikation lysosomaler Enzyme",
+  "rubrics": {
+    "preferred": "Defekte der posttranslationalen Modifikation lysosomaler Enzyme",
+    "inclusion": "Mukolipidose III [Pseudo-Hurler-Polydystrophie]"
+  },
+  "children": []
+}

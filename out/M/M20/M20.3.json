@@ -1,0 +1,10 @@
+{
+  "code": "M20.3",
+  "kind": "category",
+  "label": "Sonstige Deformität der Großzehe (erworben)",
+  "rubrics": {
+    "preferred": "Sonstige Deformität der Großzehe (erworben)",
+    "inclusion": "Hallux varus"
+  },
+  "children": []
+}

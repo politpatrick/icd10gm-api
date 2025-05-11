@@ -1,0 +1,10 @@
+{
+  "code": "J34.2",
+  "kind": "category",
+  "label": "Nasenseptumdeviation",
+  "rubrics": {
+    "preferred": "Nasenseptumdeviation",
+    "inclusion": "Verbiegung oder Subluxation des Nasenseptums (erworben)"
+  },
+  "children": []
+}

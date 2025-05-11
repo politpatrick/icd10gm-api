@@ -1,0 +1,62 @@
+{
+  "code": "Q35",
+  "kind": "category",
+  "label": "Gaumenspalte",
+  "rubrics": {
+    "preferred": "Gaumenspalte",
+    "inclusion": "Palatoschisis",
+    "exclusion": "Gaumenspalte mit LippenspalteQ37.-"
+  },
+  "children": [
+    {
+      "code": "Q35.1",
+      "kind": "category",
+      "label": "Spalte des harten Gaumens",
+      "rubrics": {
+        "preferred": "Spalte des harten Gaumens",
+        "text": "LAHS-Kodes:\n\t\t\t\t- - H - - - -\n\t\t\t\t- - - - H - -\n\t\t\t\t- - H - H - -"
+      },
+      "children": []
+    },
+    {
+      "code": "Q35.3",
+      "kind": "category",
+      "label": "Spalte des weichen Gaumens",
+      "rubrics": {
+        "preferred": "Spalte des weichen Gaumens",
+        "text": "LAHS-Kode:\n\t\t\t\t- - - S - - -",
+        "inclusion": "Gaumensegelspalte"
+      },
+      "children": []
+    },
+    {
+      "code": "Q35.5",
+      "kind": "category",
+      "label": "Spalte des harten und des weichen Gaumens",
+      "rubrics": {
+        "preferred": "Spalte des harten und des weichen Gaumens",
+        "text": "LAHS-Kode:\n\t\t\t\t- - H S H - -"
+      },
+      "children": []
+    },
+    {
+      "code": "Q35.7",
+      "kind": "category",
+      "label": "Uvulaspalte",
+      "rubrics": {
+        "preferred": "Uvulaspalte",
+        "text": "LAHS-Kode:\n\t\t\t\t- - - S - - -"
+      },
+      "children": []
+    },
+    {
+      "code": "Q35.9",
+      "kind": "category",
+      "label": "Gaumenspalte, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Gaumenspalte, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

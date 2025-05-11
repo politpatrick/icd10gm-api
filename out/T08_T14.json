@@ -1,0 +1,727 @@
+{
+  "code": "T08-T14",
+  "kind": "block",
+  "label": "Verletzungen nicht näher bezeichneter Teile des Rumpfes, der Extremitäten oder anderer Körperregionen",
+  "rubrics": {
+    "preferred": "Verletzungen nicht näher bezeichneter Teile des Rumpfes, der Extremitäten oder anderer Körperregionen",
+    "exclusion": "Verletzungen mit Beteiligung mehrerer KörperregionenT00-T07"
+  },
+  "children": [
+    {
+      "code": "T08",
+      "kind": "category",
+      "label": "Fraktur der Wirbelsäule, Höhe nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Fraktur der Wirbelsäule, Höhe nicht näher bezeichnet",
+        "exclusion": "Multiple Frakturen der Wirbelsäule, Höhe nicht näher bezeichnetT02.1-"
+      },
+      "children": []
+    },
+    {
+      "code": "T09",
+      "kind": "category",
+      "label": "Sonstige Verletzungen der Wirbelsäule und des Rumpfes, Höhe nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Sonstige Verletzungen der Wirbelsäule und des Rumpfes, Höhe nicht näher bezeichnet",
+        "exclusion": "Zerquetschung des Rumpfes o.n.A.T04.1"
+      },
+      "children": [
+        {
+          "code": "T09.0",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung des Rumpfes, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung des Rumpfes, Höhe nicht näher bezeichnet"
+          },
+          "children": [
+            {
+              "code": "T09.00",
+              "kind": "category",
+              "label": "Art der Verletzung nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung des Rumpfes, Höhe nicht näher bezeichnet: Art der Verletzung nicht näher bezeichnet",
+                "preferred": "Art der Verletzung nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "T09.01",
+              "kind": "category",
+              "label": "Schürfwunde",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung des Rumpfes, Höhe nicht näher bezeichnet: Schürfwunde",
+                "preferred": "Schürfwunde"
+              },
+              "children": []
+            },
+            {
+              "code": "T09.02",
+              "kind": "category",
+              "label": "Blasenbildung (nichtthermisch)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung des Rumpfes, Höhe nicht näher bezeichnet: Blasenbildung (nichtthermisch)",
+                "preferred": "Blasenbildung (nichtthermisch)"
+              },
+              "children": []
+            },
+            {
+              "code": "T09.03",
+              "kind": "category",
+              "label": "Insektenbiss oder -stich (ungiftig)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung des Rumpfes, Höhe nicht näher bezeichnet: Insektenbiss oder -stich (ungiftig)",
+                "preferred": "Insektenbiss oder -stich (ungiftig)"
+              },
+              "children": []
+            },
+            {
+              "code": "T09.04",
+              "kind": "category",
+              "label": "Oberflächlicher Fremdkörper (Splitter)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung des Rumpfes, Höhe nicht näher bezeichnet: Oberflächlicher Fremdkörper (Splitter)",
+                "preferred": "Oberflächlicher Fremdkörper (Splitter)"
+              },
+              "children": []
+            },
+            {
+              "code": "T09.05",
+              "kind": "category",
+              "label": "Prellung",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung des Rumpfes, Höhe nicht näher bezeichnet: Prellung",
+                "preferred": "Prellung"
+              },
+              "children": []
+            },
+            {
+              "code": "T09.08",
+              "kind": "category",
+              "label": "Sonstige",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung des Rumpfes, Höhe nicht näher bezeichnet: Sonstige",
+                "preferred": "Sonstige"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T09.1",
+          "kind": "category",
+          "label": "Offene Wunde des Rumpfes, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Offene Wunde des Rumpfes, Höhe nicht näher bezeichnet",
+            "coding-hint": "Benutze zusätzlich T89.0- um das Vorliegen von Komplikationen wie Fremdkörper, Infektion oder verzögerte Heilung und Behandlung anzuzeigen."
+          },
+          "children": []
+        },
+        {
+          "code": "T09.2",
+          "kind": "category",
+          "label": "Luxation, Verstauchung und Zerrung nicht näher bezeichneter Gelenke und Bänder des Rumpfes",
+          "rubrics": {
+            "preferred": "Luxation, Verstauchung und Zerrung nicht näher bezeichneter Gelenke und Bänder des Rumpfes"
+          },
+          "children": []
+        },
+        {
+          "code": "T09.3",
+          "kind": "category",
+          "label": "Verletzung des Rückenmarkes, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung des Rückenmarkes, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T09.4",
+          "kind": "category",
+          "label": "Verletzung nicht näher bezeichneter Nerven, Nervenwurzeln und Plexus im Bereich des Rumpfes",
+          "rubrics": {
+            "preferred": "Verletzung nicht näher bezeichneter Nerven, Nervenwurzeln und Plexus im Bereich des Rumpfes"
+          },
+          "children": []
+        },
+        {
+          "code": "T09.5",
+          "kind": "category",
+          "label": "Verletzung nicht näher bezeichneter Muskeln und Sehnen des Rumpfes",
+          "rubrics": {
+            "preferred": "Verletzung nicht näher bezeichneter Muskeln und Sehnen des Rumpfes"
+          },
+          "children": []
+        },
+        {
+          "code": "T09.6",
+          "kind": "category",
+          "label": "Traumatische Amputation des Rumpfes, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Traumatische Amputation des Rumpfes, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T09.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Verletzungen des Rumpfes, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Verletzungen des Rumpfes, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T09.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Verletzung des Rumpfes, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Verletzung des Rumpfes, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T10",
+      "kind": "category",
+      "label": "Fraktur der oberen Extremität, Höhe nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Fraktur der oberen Extremität, Höhe nicht näher bezeichnet",
+        "inclusion": "Fraktur des Armes o.n.A.",
+        "exclusion": "Multiple Frakturen der oberen Extremität, Höhe nicht näher bezeichnetT02.-"
+      },
+      "children": []
+    },
+    {
+      "code": "T11",
+      "kind": "category",
+      "label": "Sonstige Verletzungen der oberen Extremität, Höhe nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Sonstige Verletzungen der oberen Extremität, Höhe nicht näher bezeichnet",
+        "exclusion": "Zerquetschung der oberen Extremität o.n.A.T04.2"
+      },
+      "children": [
+        {
+          "code": "T11.0",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": [
+            {
+              "code": "T11.00",
+              "kind": "category",
+              "label": "Art der Verletzung nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Art der Verletzung nicht näher bezeichnet",
+                "preferred": "Art der Verletzung nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "T11.01",
+              "kind": "category",
+              "label": "Schürfwunde",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Schürfwunde",
+                "preferred": "Schürfwunde"
+              },
+              "children": []
+            },
+            {
+              "code": "T11.02",
+              "kind": "category",
+              "label": "Blasenbildung (nichtthermisch)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Blasenbildung (nichtthermisch)",
+                "preferred": "Blasenbildung (nichtthermisch)"
+              },
+              "children": []
+            },
+            {
+              "code": "T11.03",
+              "kind": "category",
+              "label": "Insektenbiss oder -stich (ungiftig)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Insektenbiss oder -stich (ungiftig)",
+                "preferred": "Insektenbiss oder -stich (ungiftig)"
+              },
+              "children": []
+            },
+            {
+              "code": "T11.04",
+              "kind": "category",
+              "label": "Oberflächlicher Fremdkörper (Splitter)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Oberflächlicher Fremdkörper (Splitter)",
+                "preferred": "Oberflächlicher Fremdkörper (Splitter)"
+              },
+              "children": []
+            },
+            {
+              "code": "T11.05",
+              "kind": "category",
+              "label": "Prellung",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Prellung",
+                "preferred": "Prellung"
+              },
+              "children": []
+            },
+            {
+              "code": "T11.08",
+              "kind": "category",
+              "label": "Sonstige",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Sonstige",
+                "preferred": "Sonstige"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T11.1",
+          "kind": "category",
+          "label": "Offene Wunde der oberen Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Offene Wunde der oberen Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T11.2",
+          "kind": "category",
+          "label": "Luxation, Verstauchung und Zerrung von nicht näher bezeichnetem Gelenk und Band der oberen Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Luxation, Verstauchung und Zerrung von nicht näher bezeichnetem Gelenk und Band der oberen Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T11.3",
+          "kind": "category",
+          "label": "Verletzung eines nicht näher bezeichneten Nervs der oberen Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung eines nicht näher bezeichneten Nervs der oberen Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T11.4",
+          "kind": "category",
+          "label": "Verletzung eines nicht näher bezeichneten Blutgefäßes der oberen Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung eines nicht näher bezeichneten Blutgefäßes der oberen Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T11.5",
+          "kind": "category",
+          "label": "Verletzung von nicht näher bezeichnete(m)(r) Muskel und Sehne der oberen Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung von nicht näher bezeichnete(m)(r) Muskel und Sehne der oberen Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T11.6",
+          "kind": "category",
+          "label": "Traumatische Amputation der oberen Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Traumatische Amputation der oberen Extremität, Höhe nicht näher bezeichnet",
+            "inclusion": "Traumatische Amputation des Armes o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "T11.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Verletzungen der oberen Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Verletzungen der oberen Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T11.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Verletzung der oberen Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Verletzung der oberen Extremität, Höhe nicht näher bezeichnet",
+            "inclusion": "Verletzung des Armes o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T12",
+      "kind": "category",
+      "label": "Fraktur der unteren Extremität, Höhe nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Fraktur der unteren Extremität, Höhe nicht näher bezeichnet",
+        "inclusion": "Fraktur des Beines o.n.A.",
+        "exclusion": "Multiple Frakturen der unteren Extremität, Höhe nicht näher bezeichnetT02.-"
+      },
+      "children": []
+    },
+    {
+      "code": "T13",
+      "kind": "category",
+      "label": "Sonstige Verletzungen der unteren Extremität, Höhe nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Sonstige Verletzungen der unteren Extremität, Höhe nicht näher bezeichnet",
+        "exclusion": "Zerquetschung der unteren Extremität o.n.A.T04.3"
+      },
+      "children": [
+        {
+          "code": "T13.0",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung der unteren Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung der unteren Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": [
+            {
+              "code": "T13.00",
+              "kind": "category",
+              "label": "Art der Verletzung nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der unteren Extremität, Höhe nicht näher bezeichnet: Art der Verletzung nicht näher bezeichnet",
+                "preferred": "Art der Verletzung nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "T13.01",
+              "kind": "category",
+              "label": "Schürfwunde",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der unteren Extremität, Höhe nicht näher bezeichnet: Schürfwunde",
+                "preferred": "Schürfwunde"
+              },
+              "children": []
+            },
+            {
+              "code": "T13.02",
+              "kind": "category",
+              "label": "Blasenbildung (nichtthermisch)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der unteren Extremität, Höhe nicht näher bezeichnet: Blasenbildung (nichtthermisch)",
+                "preferred": "Blasenbildung (nichtthermisch)"
+              },
+              "children": []
+            },
+            {
+              "code": "T13.03",
+              "kind": "category",
+              "label": "Insektenbiss oder -stich (ungiftig)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der unteren Extremität, Höhe nicht näher bezeichnet: Insektenbiss oder -stich (ungiftig)",
+                "preferred": "Insektenbiss oder -stich (ungiftig)"
+              },
+              "children": []
+            },
+            {
+              "code": "T13.04",
+              "kind": "category",
+              "label": "Oberflächlicher Fremdkörper (Splitter)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der unteren Extremität, Höhe nicht näher bezeichnet: Oberflächlicher Fremdkörper (Splitter)",
+                "preferred": "Oberflächlicher Fremdkörper (Splitter)"
+              },
+              "children": []
+            },
+            {
+              "code": "T13.05",
+              "kind": "category",
+              "label": "Prellung",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der unteren Extremität, Höhe nicht näher bezeichnet: Prellung",
+                "preferred": "Prellung"
+              },
+              "children": []
+            },
+            {
+              "code": "T13.08",
+              "kind": "category",
+              "label": "Sonstige",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung der unteren Extremität, Höhe nicht näher bezeichnet: Sonstige",
+                "preferred": "Sonstige"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T13.1",
+          "kind": "category",
+          "label": "Offene Wunde der unteren Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Offene Wunde der unteren Extremität, Höhe nicht näher bezeichnet",
+            "coding-hint": "Benutze zusätzlich T89.0- um das Vorliegen von Komplikationen wie Fremdkörper, Infektion oder verzögerte Heilung und Behandlung anzuzeigen."
+          },
+          "children": []
+        },
+        {
+          "code": "T13.2",
+          "kind": "category",
+          "label": "Luxation, Verstauchung und Zerrung von nicht näher bezeichnetem Gelenk und Band der unteren Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Luxation, Verstauchung und Zerrung von nicht näher bezeichnetem Gelenk und Band der unteren Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T13.3",
+          "kind": "category",
+          "label": "Verletzung eines nicht näher bezeichneten Nervs der unteren Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung eines nicht näher bezeichneten Nervs der unteren Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T13.4",
+          "kind": "category",
+          "label": "Verletzung eines nicht näher bezeichneten Blutgefäßes der unteren Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung eines nicht näher bezeichneten Blutgefäßes der unteren Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T13.5",
+          "kind": "category",
+          "label": "Verletzung von nicht näher bezeichnete(m)(r) Muskel und Sehne der unteren Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung von nicht näher bezeichnete(m)(r) Muskel und Sehne der unteren Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T13.6",
+          "kind": "category",
+          "label": "Traumatische Amputation der unteren Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Traumatische Amputation der unteren Extremität, Höhe nicht näher bezeichnet",
+            "inclusion": "Traumatische Amputation des Beines o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "T13.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Verletzungen der unteren Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Verletzungen der unteren Extremität, Höhe nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "T13.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Verletzung der unteren Extremität, Höhe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Verletzung der unteren Extremität, Höhe nicht näher bezeichnet",
+            "inclusion": "Verletzung des Beines o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "T14",
+      "kind": "category",
+      "label": "Verletzung an einer nicht näher bezeichneten Körperregion",
+      "rubrics": {
+        "preferred": "Verletzung an einer nicht näher bezeichneten Körperregion",
+        "exclusion": "Verletzungen mit Beteiligung mehrerer KörperregionenT00-T07"
+      },
+      "children": [
+        {
+          "code": "T14.0",
+          "kind": "category",
+          "label": "Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion",
+          "rubrics": {
+            "preferred": "Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion",
+            "exclusion": "Multiple oberflächliche Verletzungen o.n.A.T00.9"
+          },
+          "children": [
+            {
+              "code": "T14.00",
+              "kind": "category",
+              "label": "Art der Verletzung nicht näher bezeichnet",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion: Art der Verletzung nicht näher bezeichnet",
+                "preferred": "Art der Verletzung nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "T14.01",
+              "kind": "category",
+              "label": "Schürfwunde",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion: Schürfwunde",
+                "preferred": "Schürfwunde"
+              },
+              "children": []
+            },
+            {
+              "code": "T14.02",
+              "kind": "category",
+              "label": "Blasenbildung (nichtthermisch)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion: Blasenbildung (nichtthermisch)",
+                "preferred": "Blasenbildung (nichtthermisch)"
+              },
+              "children": []
+            },
+            {
+              "code": "T14.03",
+              "kind": "category",
+              "label": "Insektenbiss oder -stich (ungiftig)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion: Insektenbiss oder -stich (ungiftig)",
+                "preferred": "Insektenbiss oder -stich (ungiftig)"
+              },
+              "children": []
+            },
+            {
+              "code": "T14.04",
+              "kind": "category",
+              "label": "Oberflächlicher Fremdkörper (Splitter)",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion: Oberflächlicher Fremdkörper (Splitter)",
+                "preferred": "Oberflächlicher Fremdkörper (Splitter)"
+              },
+              "children": []
+            },
+            {
+              "code": "T14.05",
+              "kind": "category",
+              "label": "Prellung",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion: Prellung",
+                "preferred": "Prellung"
+              },
+              "children": []
+            },
+            {
+              "code": "T14.08",
+              "kind": "category",
+              "label": "Sonstige",
+              "rubrics": {
+                "preferredLong": "Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion: Sonstige",
+                "preferred": "Sonstige"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "T14.1",
+          "kind": "category",
+          "label": "Offene Wunde an einer nicht näher bezeichneten Körperregion",
+          "rubrics": {
+            "preferred": "Offene Wunde an einer nicht näher bezeichneten Körperregion",
+            "inclusion": "Tierbiss\n\t\t\t\to.n.A.",
+            "coding-hint": "Benutze zusätzlich T89.0- um das Vorliegen von Komplikationen wie Fremdkörper, Infektion oder verzögerte Heilung und Behandlung anzuzeigen.",
+            "exclusion": "Traumatische Amputation o.n.A.T14.7"
+          },
+          "children": []
+        },
+        {
+          "code": "T14.2",
+          "kind": "category",
+          "label": "Fraktur an einer nicht näher bezeichneten Körperregion",
+          "rubrics": {
+            "preferred": "Fraktur an einer nicht näher bezeichneten Körperregion",
+            "inclusion": "Fraktur:\n\t\t\t\to.n.A.",
+            "exclusion": "Multiple Frakturen o.n.A.T02.9-"
+          },
+          "children": []
+        },
+        {
+          "code": "T14.3",
+          "kind": "category",
+          "label": "Luxation, Verstauchung und Zerrung an einer nicht näher bezeichneten Körperregion",
+          "rubrics": {
+            "preferred": "Luxation, Verstauchung und Zerrung an einer nicht näher bezeichneten Körperregion",
+            "inclusion": "Zerrung\n\t\t\t\tLigament o.n.A.",
+            "exclusion": "Verstauchungen und Zerrungen von Muskeln und Sehnen o.n.A.T14.6"
+          },
+          "children": []
+        },
+        {
+          "code": "T14.4",
+          "kind": "category",
+          "label": "Verletzung eines oder mehrerer Nerven an einer nicht näher bezeichneten Körperregion",
+          "rubrics": {
+            "preferred": "Verletzung eines oder mehrerer Nerven an einer nicht näher bezeichneten Körperregion",
+            "inclusion": "Traumatisch:\n\t\t\t\tNervendurchtrennung\n\t\t\t\to.n.A.",
+            "exclusion": "Multiple Verletzungen von Nerven o.n.A.T06.2"
+          },
+          "children": []
+        },
+        {
+          "code": "T14.5",
+          "kind": "category",
+          "label": "Verletzung eines oder mehrerer Blutgefäße an einer nicht näher bezeichneten Körperregion",
+          "rubrics": {
+            "preferred": "Verletzung eines oder mehrerer Blutgefäße an einer nicht näher bezeichneten Körperregion",
+            "inclusion": "Verletzung\n\t\t\t\tBlutgefäß(e) o.n.A.",
+            "exclusion": "Multiple Verletzungen von Blutgefäßen o.n.A.T06.3"
+          },
+          "children": []
+        },
+        {
+          "code": "T14.6",
+          "kind": "category",
+          "label": "Verletzung von Muskeln und Sehnen an einer nicht näher bezeichneten Körperregion",
+          "rubrics": {
+            "preferred": "Verletzung von Muskeln und Sehnen an einer nicht näher bezeichneten Körperregion",
+            "inclusion": "Zerrung\n\t\t\t\tSehne(n) o.n.A.",
+            "exclusion": "Multiple Verletzungen von Muskeln und Sehnen o.n.A.T06.4"
+          },
+          "children": []
+        },
+        {
+          "code": "T14.7",
+          "kind": "category",
+          "label": "Zerquetschung und traumatische Amputation einer nicht näher bezeichneten Körperregion",
+          "rubrics": {
+            "preferred": "Zerquetschung und traumatische Amputation einer nicht näher bezeichneten Körperregion",
+            "inclusion": "Zerquetschung o.n.A.",
+            "exclusion": "Wenn die Art der Verletzung bekannt ist (z.B. Prellung, Fraktur, Luxation, innere Verletzung), verschlüssele nur nach der Art der Verletzung"
+          },
+          "children": []
+        },
+        {
+          "code": "T14.8",
+          "kind": "category",
+          "label": "Sonstige Verletzungen einer nicht näher bezeichneten Körperregion",
+          "rubrics": {
+            "preferred": "Sonstige Verletzungen einer nicht näher bezeichneten Körperregion"
+          },
+          "children": []
+        },
+        {
+          "code": "T14.9",
+          "kind": "category",
+          "label": "Verletzung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Verletzung, nicht näher bezeichnet",
+            "exclusion": "Multiple Verletzungen o.n.A.T07"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

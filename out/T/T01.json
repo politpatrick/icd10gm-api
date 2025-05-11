@@ -1,0 +1,86 @@
+{
+  "code": "T01",
+  "kind": "category",
+  "label": "Offene Wunden mit Beteiligung mehrerer Körperregionen",
+  "rubrics": {
+    "preferred": "Offene Wunden mit Beteiligung mehrerer Körperregionen",
+    "coding-hint": "Benutze zusätzlich T89.0- um das Vorliegen von Komplikationen wie Fremdkörper, Infektion oder verzögerte Heilung und Behandlung anzuzeigen.",
+    "exclusion": "Traumatische Amputationen mit Beteiligung mehrerer KörperregionenT05.-"
+  },
+  "children": [
+    {
+      "code": "T01.0",
+      "kind": "category",
+      "label": "Offene Wunden mit Beteiligung von Kopf und Hals",
+      "rubrics": {
+        "preferred": "Offene Wunden mit Beteiligung von Kopf und Hals",
+        "inclusion": "Offene Wunden an Lokalisationen, die unter S01.- und S11.- klassifizierbar sind",
+        "exclusion": "Mit Beteiligung sonstiger Körperregion(en)T01.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T01.1",
+      "kind": "category",
+      "label": "Offene Wunden mit Beteiligung von Thorax und Abdomen, von Thorax und Lumbosakralgegend oder von Thorax und Becken",
+      "rubrics": {
+        "preferred": "Offene Wunden mit Beteiligung von Thorax und Abdomen, von Thorax und Lumbosakralgegend oder von Thorax und Becken",
+        "inclusion": "Offene Wunden an Lokalisationen, die unter S21.-, S31.- und T09.1 klassifizierbar sind",
+        "exclusion": "Mit Beteiligung sonstiger Körperregion(en)T01.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T01.2",
+      "kind": "category",
+      "label": "Offene Wunden mit Beteiligung mehrerer Regionen der oberen Extremität(en)",
+      "rubrics": {
+        "preferred": "Offene Wunden mit Beteiligung mehrerer Regionen der oberen Extremität(en)",
+        "inclusion": "Offene Wunden an Lokalisationen, die unter S41.-, S51.-, S61.- und T11.1 klassifizierbar sind",
+        "exclusion": "Mit Beteiligung des Thorax, des Abdomens, der Lumbosakralgegend oder des BeckensT01.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T01.3",
+      "kind": "category",
+      "label": "Offene Wunden mit Beteiligung mehrerer Regionen der unteren Extremität(en)",
+      "rubrics": {
+        "preferred": "Offene Wunden mit Beteiligung mehrerer Regionen der unteren Extremität(en)",
+        "inclusion": "Offene Wunden an Lokalisationen, die unter S71.-, S81.-, S91.- und T13.1 klassifizierbar sind",
+        "exclusion": "Mit Beteiligung des Thorax, des Abdomens, der Lumbosakralgegend oder des BeckensT01.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T01.6",
+      "kind": "category",
+      "label": "Offene Wunden mit Beteiligung mehrerer Regionen der oberen Extremität(en) und mehrerer Regionen der unteren Extremität(en)",
+      "rubrics": {
+        "preferred": "Offene Wunden mit Beteiligung mehrerer Regionen der oberen Extremität(en) und mehrerer Regionen der unteren Extremität(en)",
+        "inclusion": "Offene Wunden an Lokalisationen, die unter T01.2 und T01.3 klassifizierbar sind",
+        "exclusion": "Mit Beteiligung des Thorax, des Abdomens, der Lumbosakralgegend oder des BeckensT01.8"
+      },
+      "children": []
+    },
+    {
+      "code": "T01.8",
+      "kind": "category",
+      "label": "Offene Wunden an sonstigen Kombinationen von Körperregionen",
+      "rubrics": {
+        "preferred": "Offene Wunden an sonstigen Kombinationen von Körperregionen"
+      },
+      "children": []
+    },
+    {
+      "code": "T01.9",
+      "kind": "category",
+      "label": "Multiple offene Wunden, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Multiple offene Wunden, nicht näher bezeichnet",
+        "inclusion": "Multiple:\n\t\t\t\tTierbisse\n\t\t\t\to.n.A."
+      },
+      "children": []
+    }
+  ]
+}

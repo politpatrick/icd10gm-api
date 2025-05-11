@@ -1,0 +1,10 @@
+{
+  "code": "F41.8",
+  "kind": "category",
+  "label": "Sonstige spezifische Angststörungen",
+  "rubrics": {
+    "preferred": "Sonstige spezifische Angststörungen",
+    "inclusion": "Angsthysterie"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "R20.2",
+  "kind": "category",
+  "label": "Parästhesie der Haut",
+  "rubrics": {
+    "preferred": "Parästhesie der Haut",
+    "inclusion": "Nadelstichgefühl",
+    "exclusion": "AkroparästhesieI73.8"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D73.8",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der Milz",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der Milz",
+    "inclusion": "Splenitis o.n.A."
+  },
+  "children": []
+}

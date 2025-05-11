@@ -1,0 +1,11 @@
+{
+  "code": "I25.4",
+  "kind": "category",
+  "label": "Koronararterienaneurysma",
+  "rubrics": {
+    "preferred": "Koronararterienaneurysma",
+    "inclusion": "Koronare arteriovenöse Fistel, erworben",
+    "exclusion": "Angeborenes Koronar- (Arterien-) AneurysmaQ24.5"
+  },
+  "children": []
+}

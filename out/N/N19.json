@@ -1,0 +1,12 @@
+{
+  "code": "N19",
+  "kind": "category",
+  "label": "Nicht näher bezeichnete Niereninsuffizienz",
+  "rubrics": {
+    "preferred": "Nicht näher bezeichnete Niereninsuffizienz",
+    "inclusion": "Urämie o.n.A.",
+    "coding-hint": "Soll das Vorliegen einer hypertensiven Nierenkrankheit angegeben werden, ist eine zusätzliche Schlüsselnummer aus I12.- oder I13.- zu benutzen.",
+    "exclusion": "Urämie beim Neugeborenen P96.0"
+  },
+  "children": []
+}

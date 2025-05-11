@@ -1,0 +1,10 @@
+{
+  "code": "J44.0",
+  "kind": "category",
+  "label": "Chronische obstruktive Lungenkrankheit mit akuter Infektion der unteren Atemwege",
+  "rubrics": {
+    "preferred": "Chronische obstruktive Lungenkrankheit mit akuter Infektion der unteren Atemwege",
+    "exclusion": "Mit GrippeJ09-J11"
+  },
+  "children": []
+}

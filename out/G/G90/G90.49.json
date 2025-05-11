@@ -1,0 +1,10 @@
+{
+  "code": "G90.49",
+  "kind": "category",
+  "label": "Autonome Dysreflexie, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Autonome Dysreflexie, nicht näher bezeichnet",
+    "inclusion": "Autonome Dysreflexie o.n.A."
+  },
+  "children": []
+}

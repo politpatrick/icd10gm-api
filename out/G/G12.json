@@ -1,0 +1,57 @@
+{
+  "code": "G12",
+  "kind": "category",
+  "label": "Spinale Muskelatrophie und verwandte Syndrome",
+  "rubrics": {
+    "preferred": "Spinale Muskelatrophie und verwandte Syndrome"
+  },
+  "children": [
+    {
+      "code": "G12.0",
+      "kind": "category",
+      "label": "Infantile spinale Muskelatrophie, Typ I [Typ Werdnig-Hoffmann]",
+      "rubrics": {
+        "preferred": "Infantile spinale Muskelatrophie, Typ I [Typ Werdnig-Hoffmann]"
+      },
+      "children": []
+    },
+    {
+      "code": "G12.1",
+      "kind": "category",
+      "label": "Sonstige vererbte spinale Muskelatrophie",
+      "rubrics": {
+        "preferred": "Sonstige vererbte spinale Muskelatrophie",
+        "inclusion": "Spinale Muskelatrophie:\n\t\t\t\tskapuloperonäale Form"
+      },
+      "children": []
+    },
+    {
+      "code": "G12.2",
+      "kind": "category",
+      "label": "Motoneuron-Krankheit",
+      "rubrics": {
+        "preferred": "Motoneuron-Krankheit",
+        "inclusion": "Spinobulbäre Muskelatrophie Typ Kennedy [Kennedy-Krankheit]"
+      },
+      "children": []
+    },
+    {
+      "code": "G12.8",
+      "kind": "category",
+      "label": "Sonstige spinale Muskelatrophien und verwandte Syndrome",
+      "rubrics": {
+        "preferred": "Sonstige spinale Muskelatrophien und verwandte Syndrome"
+      },
+      "children": []
+    },
+    {
+      "code": "G12.9",
+      "kind": "category",
+      "label": "Spinale Muskelatrophie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Spinale Muskelatrophie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

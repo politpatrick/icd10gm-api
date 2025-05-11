@@ -1,0 +1,10 @@
+{
+  "code": "O74.2",
+  "kind": "category",
+  "label": "Kardiale Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+  "rubrics": {
+    "preferred": "Kardiale Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung",
+    "inclusion": "Herz:\n\t\t\t\tVersagen\n\t\t\t\tdurch Anästhesie während der Wehentätigkeit und bei der Entbindung"
+  },
+  "children": []
+}

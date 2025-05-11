@@ -1,0 +1,10 @@
+{
+  "code": "T59.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Gase, Dämpfe oder sonstiger näher bezeichneter Rauch",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Sonstige näher bezeichnete Gase, Dämpfe oder sonstiger näher bezeichneter Rauch",
+    "preferred": "Sonstige näher bezeichnete Gase, Dämpfe oder sonstiger näher bezeichneter Rauch"
+  },
+  "children": []
+}

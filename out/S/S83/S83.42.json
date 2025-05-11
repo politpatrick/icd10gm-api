@@ -1,0 +1,10 @@
+{
+  "code": "S83.42",
+  "kind": "category",
+  "label": "Distorsion des tibialen Seitenbandes [Innenband]",
+  "rubrics": {
+    "preferredLong": "Verstauchung und Zerrung des Kniegelenkes: Distorsion des tibialen Seitenbandes [Innenband]",
+    "preferred": "Distorsion des tibialen Seitenbandes [Innenband]"
+  },
+  "children": []
+}

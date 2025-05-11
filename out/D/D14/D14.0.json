@@ -1,0 +1,12 @@
+{
+  "code": "D14.0",
+  "kind": "category",
+  "label": "Mittelohr, Nasenhöhle und Nasennebenhöhlen",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Mittelohr, Nasenhöhle und Nasennebenhöhlen",
+    "preferred": "Mittelohr, Nasenhöhle und Nasennebenhöhlen",
+    "inclusion": "Nasenknorpel",
+    "exclusion": "Polyp:\n\t\t\t\tOhr (Mittelohr)H74.4"
+  },
+  "children": []
+}

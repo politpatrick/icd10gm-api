@@ -1,0 +1,10 @@
+{
+  "code": "E31.0",
+  "kind": "category",
+  "label": "Autoimmune polyglanduläre Insuffizienz",
+  "rubrics": {
+    "preferred": "Autoimmune polyglanduläre Insuffizienz",
+    "inclusion": "Schmidt-Syndrom"
+  },
+  "children": []
+}

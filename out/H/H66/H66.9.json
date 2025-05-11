@@ -1,0 +1,10 @@
+{
+  "code": "H66.9",
+  "kind": "category",
+  "label": "Otitis media, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Otitis media, nicht näher bezeichnet",
+    "inclusion": "Otitis media:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

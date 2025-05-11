@@ -1,0 +1,10 @@
+{
+  "code": "L10.5",
+  "kind": "category",
+  "label": "Arzneimittelinduzierter Pemphigus",
+  "rubrics": {
+    "preferred": "Arzneimittelinduzierter Pemphigus",
+    "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

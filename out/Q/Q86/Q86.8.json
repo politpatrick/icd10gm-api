@@ -1,0 +1,28 @@
+{
+  "code": "Q86.8",
+  "kind": "category",
+  "label": "Sonstige angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen"
+  },
+  "children": [
+    {
+      "code": "Q86.80",
+      "kind": "category",
+      "label": "Thalidomid-Embryopathie",
+      "rubrics": {
+        "preferred": "Thalidomid-Embryopathie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q86.88",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen"
+      },
+      "children": []
+    }
+  ]
+}

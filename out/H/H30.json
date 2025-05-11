@@ -1,0 +1,61 @@
+{
+  "code": "H30",
+  "kind": "category",
+  "label": "Chorioretinitis",
+  "rubrics": {
+    "preferred": "Chorioretinitis"
+  },
+  "children": [
+    {
+      "code": "H30.0",
+      "kind": "category",
+      "label": "Fokale Chorioretinitis",
+      "rubrics": {
+        "preferred": "Fokale Chorioretinitis",
+        "inclusion": "Herdförmige:\n\t\t\t\tRetinochorioiditis"
+      },
+      "children": []
+    },
+    {
+      "code": "H30.1",
+      "kind": "category",
+      "label": "Disseminierte Chorioretinitis",
+      "rubrics": {
+        "preferred": "Disseminierte Chorioretinitis",
+        "inclusion": "Disseminierte:\n\t\t\t\tRetinochorioiditis",
+        "exclusion": "Exsudative RetinopathieH35.0"
+      },
+      "children": []
+    },
+    {
+      "code": "H30.2",
+      "kind": "category",
+      "label": "Cyclitis posterior",
+      "rubrics": {
+        "preferred": "Cyclitis posterior",
+        "inclusion": "Entzündung der Pars plana corporis ciliaris"
+      },
+      "children": []
+    },
+    {
+      "code": "H30.8",
+      "kind": "category",
+      "label": "Sonstige Chorioretinitiden",
+      "rubrics": {
+        "preferred": "Sonstige Chorioretinitiden",
+        "inclusion": "Vogt-Koyanagi-Harada-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "H30.9",
+      "kind": "category",
+      "label": "Chorioretinitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Chorioretinitis, nicht näher bezeichnet",
+        "inclusion": "Retinochorioiditis\n\t\t\t\to.n.A."
+      },
+      "children": []
+    }
+  ]
+}

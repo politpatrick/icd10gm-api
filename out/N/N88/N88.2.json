@@ -1,0 +1,10 @@
+{
+  "code": "N88.2",
+  "kind": "category",
+  "label": "Striktur und Stenose der Cervix uteri",
+  "rubrics": {
+    "preferred": "Striktur und Stenose der Cervix uteri",
+    "exclusion": "Als GeburtshindernisO65.5"
+  },
+  "children": []
+}

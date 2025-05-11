@@ -1,0 +1,10 @@
+{
+  "code": "O08.6",
+  "kind": "category",
+  "label": "Verletzung von Beckenorganen und -geweben nach Abort, Extrauteringravidität und Molenschwangerschaft",
+  "rubrics": {
+    "preferred": "Verletzung von Beckenorganen und -geweben nach Abort, Extrauteringravidität und Molenschwangerschaft",
+    "inclusion": "Lazeration, Perforation, Riss oder chemische Verätzung:\n\t\t\t\tUterus\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "I20.1",
+  "kind": "category",
+  "label": "Angina pectoris mit nachgewiesenem Koronarspasmus",
+  "rubrics": {
+    "preferred": "Angina pectoris mit nachgewiesenem Koronarspasmus",
+    "inclusion": "Prinzmetal-Angina (-pectoris)"
+  },
+  "children": []
+}

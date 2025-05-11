@@ -1,0 +1,11 @@
+{
+  "code": "E30.1",
+  "kind": "category",
+  "label": "Vorzeitige Pubertät [Pubertas praecox]",
+  "rubrics": {
+    "preferred": "Vorzeitige Pubertät [Pubertas praecox]",
+    "inclusion": "Vorzeitige Menarche",
+    "exclusion": "Zentral ausgelöste Pubertas praecoxE22.8"
+  },
+  "children": []
+}

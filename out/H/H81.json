@@ -1,0 +1,78 @@
+{
+  "code": "H81",
+  "kind": "category",
+  "label": "Störungen der Vestibularfunktion",
+  "rubrics": {
+    "preferred": "Störungen der Vestibularfunktion",
+    "exclusion": "Schwindel:\n\t\t\t\to.n.A.R42"
+  },
+  "children": [
+    {
+      "code": "H81.0",
+      "kind": "category",
+      "label": "Ménière-Krankheit",
+      "rubrics": {
+        "preferred": "Ménière-Krankheit",
+        "inclusion": "Ménière-Syndrom oder -Schwindel"
+      },
+      "children": []
+    },
+    {
+      "code": "H81.1",
+      "kind": "category",
+      "label": "Benigner paroxysmaler Schwindel",
+      "rubrics": {
+        "preferred": "Benigner paroxysmaler Schwindel"
+      },
+      "children": []
+    },
+    {
+      "code": "H81.2",
+      "kind": "category",
+      "label": "Neuropathia vestibularis",
+      "rubrics": {
+        "preferred": "Neuropathia vestibularis"
+      },
+      "children": []
+    },
+    {
+      "code": "H81.3",
+      "kind": "category",
+      "label": "Sonstiger peripherer Schwindel",
+      "rubrics": {
+        "preferred": "Sonstiger peripherer Schwindel",
+        "inclusion": "Schwindel:\n\t\t\t\tperipher o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "H81.4",
+      "kind": "category",
+      "label": "Schwindel zentralen Ursprungs",
+      "rubrics": {
+        "preferred": "Schwindel zentralen Ursprungs",
+        "inclusion": "Zentraler Lagenystagmus"
+      },
+      "children": []
+    },
+    {
+      "code": "H81.8",
+      "kind": "category",
+      "label": "Sonstige Störungen der Vestibularfunktion",
+      "rubrics": {
+        "preferred": "Sonstige Störungen der Vestibularfunktion"
+      },
+      "children": []
+    },
+    {
+      "code": "H81.9",
+      "kind": "category",
+      "label": "Störung der Vestibularfunktion, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Störung der Vestibularfunktion, nicht näher bezeichnet",
+        "inclusion": "Schwindelsyndrom o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

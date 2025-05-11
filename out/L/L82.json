@@ -1,0 +1,10 @@
+{
+  "code": "L82",
+  "kind": "category",
+  "label": "Seborrhoische Keratose",
+  "rubrics": {
+    "preferred": "Seborrhoische Keratose",
+    "inclusion": "Leser-Trélat-Syndrom"
+  },
+  "children": []
+}

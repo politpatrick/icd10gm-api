@@ -1,0 +1,68 @@
+{
+  "code": "A23",
+  "kind": "category",
+  "label": "Brucellose",
+  "rubrics": {
+    "preferred": "Brucellose",
+    "inclusion": "Undulierendes Fieber"
+  },
+  "children": [
+    {
+      "code": "A23.0",
+      "kind": "category",
+      "label": "Brucellose durch Brucella melitensis",
+      "rubrics": {
+        "preferred": "Brucellose durch Brucella melitensis",
+        "inclusion": "Maltafieber"
+      },
+      "children": []
+    },
+    {
+      "code": "A23.1",
+      "kind": "category",
+      "label": "Brucellose durch Brucella abortus",
+      "rubrics": {
+        "preferred": "Brucellose durch Brucella abortus",
+        "inclusion": "Morbus Bang"
+      },
+      "children": []
+    },
+    {
+      "code": "A23.2",
+      "kind": "category",
+      "label": "Brucellose durch Brucella suis",
+      "rubrics": {
+        "preferred": "Brucellose durch Brucella suis",
+        "inclusion": "Schweinebrucellose"
+      },
+      "children": []
+    },
+    {
+      "code": "A23.3",
+      "kind": "category",
+      "label": "Brucellose durch Brucella canis",
+      "rubrics": {
+        "preferred": "Brucellose durch Brucella canis"
+      },
+      "children": []
+    },
+    {
+      "code": "A23.8",
+      "kind": "category",
+      "label": "Sonstige Brucellose",
+      "rubrics": {
+        "preferred": "Sonstige Brucellose"
+      },
+      "children": []
+    },
+    {
+      "code": "A23.9",
+      "kind": "category",
+      "label": "Brucellose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Brucellose, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

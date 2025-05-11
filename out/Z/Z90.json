@@ -1,0 +1,95 @@
+{
+  "code": "Z90",
+  "kind": "category",
+  "label": "Verlust von Organen, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Verlust von Organen, anderenorts nicht klassifiziert",
+    "inclusion": "Postoperativer oder posttraumatischer Verlust eines Körperteils, anderenorts nicht klassifiziert",
+    "exclusion": "Postoperatives Fehlen:\n\t\t\t\tPankreasE13.-"
+  },
+  "children": [
+    {
+      "code": "Z90.0",
+      "kind": "category",
+      "label": "Verlust von Teilen des Kopfes oder des Halses",
+      "rubrics": {
+        "preferred": "Verlust von Teilen des Kopfes oder des Halses",
+        "inclusion": "Nase",
+        "exclusion": "ZähneK08.1"
+      },
+      "children": []
+    },
+    {
+      "code": "Z90.1",
+      "kind": "category",
+      "label": "Verlust der Mamma(e) [Brustdrüse]",
+      "rubrics": {
+        "preferred": "Verlust der Mamma(e) [Brustdrüse]"
+      },
+      "children": []
+    },
+    {
+      "code": "Z90.2",
+      "kind": "category",
+      "label": "Verlust der Lunge [Teile der Lunge]",
+      "rubrics": {
+        "preferred": "Verlust der Lunge [Teile der Lunge]"
+      },
+      "children": []
+    },
+    {
+      "code": "Z90.3",
+      "kind": "category",
+      "label": "Verlust von Teilen des Magens",
+      "rubrics": {
+        "preferred": "Verlust von Teilen des Magens"
+      },
+      "children": []
+    },
+    {
+      "code": "Z90.4",
+      "kind": "category",
+      "label": "Verlust anderer Teile des Verdauungstraktes",
+      "rubrics": {
+        "preferred": "Verlust anderer Teile des Verdauungstraktes"
+      },
+      "children": []
+    },
+    {
+      "code": "Z90.5",
+      "kind": "category",
+      "label": "Verlust der Niere(n)",
+      "rubrics": {
+        "preferred": "Verlust der Niere(n)"
+      },
+      "children": []
+    },
+    {
+      "code": "Z90.6",
+      "kind": "category",
+      "label": "Verlust anderer Teile des Harntraktes",
+      "rubrics": {
+        "preferred": "Verlust anderer Teile des Harntraktes"
+      },
+      "children": []
+    },
+    {
+      "code": "Z90.7",
+      "kind": "category",
+      "label": "Verlust eines oder mehrerer Genitalorgane",
+      "rubrics": {
+        "preferred": "Verlust eines oder mehrerer Genitalorgane"
+      },
+      "children": []
+    },
+    {
+      "code": "Z90.8",
+      "kind": "category",
+      "label": "Verlust sonstiger Organe",
+      "rubrics": {
+        "preferred": "Verlust sonstiger Organe"
+      },
+      "children": []
+    }
+  ]
+}

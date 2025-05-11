@@ -1,0 +1,10 @@
+{
+  "code": "Q43.0",
+  "kind": "category",
+  "label": "Meckel-Divertikel",
+  "rubrics": {
+    "preferred": "Meckel-Divertikel",
+    "inclusion": "Persistenz:\n\t\t\t\tDuctus omphaloentericus"
+  },
+  "children": []
+}

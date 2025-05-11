@@ -1,0 +1,622 @@
+{
+  "code": "K20-K31",
+  "kind": "block",
+  "label": "Krankheiten des Ösophagus, des Magens und des Duodenums",
+  "rubrics": {
+    "preferred": "Krankheiten des Ösophagus, des Magens und des Duodenums",
+    "exclusion": "HiatushernieK44.-"
+  },
+  "children": [
+    {
+      "code": "K20",
+      "kind": "category",
+      "label": "Ösophagitis",
+      "rubrics": {
+        "preferred": "Ösophagitis",
+        "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "RefluxösophagitisK21.0"
+      },
+      "children": [
+        {
+          "code": "K20.0",
+          "kind": "category",
+          "label": "Eosinophile Ösophagitis",
+          "rubrics": {
+            "preferred": "Eosinophile Ösophagitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K20.1",
+          "kind": "category",
+          "label": "Radiogene Ösophagitis",
+          "rubrics": {
+            "preferred": "Radiogene Ösophagitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K20.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Ösophagitis",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Ösophagitis",
+            "inclusion": "Ösophagitis durch chemische Substanzen"
+          },
+          "children": []
+        },
+        {
+          "code": "K20.9",
+          "kind": "category",
+          "label": "Ösophagitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Ösophagitis, nicht näher bezeichnet",
+            "inclusion": "Ösophagitis o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K21",
+      "kind": "category",
+      "label": "Gastroösophageale Refluxkrankheit",
+      "rubrics": {
+        "preferred": "Gastroösophageale Refluxkrankheit"
+      },
+      "children": [
+        {
+          "code": "K21.0",
+          "kind": "category",
+          "label": "Gastroösophageale Refluxkrankheit mit Ösophagitis",
+          "rubrics": {
+            "preferred": "Gastroösophageale Refluxkrankheit mit Ösophagitis",
+            "inclusion": "Refluxösophagitis",
+            "coding-hint": "Soll das Vorliegen einer Ösophagusblutung angegeben werden, ist eine zusätzliche Schlüsselnummer K22.81 zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "K21.9",
+          "kind": "category",
+          "label": "Gastroösophageale Refluxkrankheit ohne Ösophagitis",
+          "rubrics": {
+            "preferred": "Gastroösophageale Refluxkrankheit ohne Ösophagitis",
+            "inclusion": "Ösophagealer Reflux o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K22",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Ösophagus",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Ösophagus",
+        "exclusion": "ÖsophagusvarizenI85.-"
+      },
+      "children": [
+        {
+          "code": "K22.0",
+          "kind": "category",
+          "label": "Achalasie der Kardia",
+          "rubrics": {
+            "preferred": "Achalasie der Kardia",
+            "inclusion": "Kardiospasmus",
+            "exclusion": "Angeborener KardiospasmusQ39.5"
+          },
+          "children": []
+        },
+        {
+          "code": "K22.1",
+          "kind": "category",
+          "label": "Ösophagusulkus",
+          "rubrics": {
+            "preferred": "Ösophagusulkus",
+            "inclusion": "Ulzerative Ösophagitis",
+            "coding-hint": "Soll das Vorliegen einer Ösophagusblutung angegeben werden, ist eine zusätzliche SchlüsselnummerK22.81 zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "K22.2",
+          "kind": "category",
+          "label": "Ösophagusverschluss",
+          "rubrics": {
+            "preferred": "Ösophagusverschluss",
+            "inclusion": "Striktur\n\t\t\t\tÖsophagus",
+            "exclusion": "Angeborene Ösophagusstenose oder -strikturQ39.3"
+          },
+          "children": []
+        },
+        {
+          "code": "K22.3",
+          "kind": "category",
+          "label": "Perforation des Ösophagus",
+          "rubrics": {
+            "preferred": "Perforation des Ösophagus",
+            "inclusion": "Ösophagusruptur",
+            "exclusion": "Traumatische Perforation des (thorakalen) ÖsophagusS27.83"
+          },
+          "children": []
+        },
+        {
+          "code": "K22.4",
+          "kind": "category",
+          "label": "Dyskinesie des Ösophagus",
+          "rubrics": {
+            "preferred": "Dyskinesie des Ösophagus",
+            "inclusion": "Speiseröhrenkrampf",
+            "exclusion": "KardiospasmusK22.0"
+          },
+          "children": []
+        },
+        {
+          "code": "K22.5",
+          "kind": "category",
+          "label": "Divertikel des Ösophagus, erworben",
+          "rubrics": {
+            "preferred": "Divertikel des Ösophagus, erworben",
+            "inclusion": "Ösophagustasche, erworben",
+            "exclusion": "Ösophagusdivertikel (angeboren)Q39.6"
+          },
+          "children": []
+        },
+        {
+          "code": "K22.6",
+          "kind": "category",
+          "label": "Mallory-Weiss-Syndrom",
+          "rubrics": {
+            "preferred": "Mallory-Weiss-Syndrom",
+            "inclusion": "Schleimhautrisse in der Kardiaregion mit Hämorrhagie"
+          },
+          "children": []
+        },
+        {
+          "code": "K22.7",
+          "kind": "category",
+          "label": "Barrett-Ösophagus",
+          "rubrics": {
+            "preferred": "Barrett-Ösophagus",
+            "inclusion": "Barrett:\n\t\t\t\tSyndrom",
+            "exclusion": "Barrett-UlkusK22.1"
+          },
+          "children": []
+        },
+        {
+          "code": "K22.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Ösophagus",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Ösophagus"
+          },
+          "children": [
+            {
+              "code": "K22.80",
+              "kind": "category",
+              "label": "Ösophagusfistel",
+              "rubrics": {
+                "preferred": "Ösophagusfistel",
+                "exclusion": "Pyothorax mit sonstiger ösophagealer FistelJ86.05"
+              },
+              "children": []
+            },
+            {
+              "code": "K22.81",
+              "kind": "category",
+              "label": "Ösophagusblutung",
+              "rubrics": {
+                "preferred": "Ösophagusblutung"
+              },
+              "children": []
+            },
+            {
+              "code": "K22.88",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten des Ösophagus",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten des Ösophagus"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "K22.9",
+          "kind": "category",
+          "label": "Krankheit des Ösophagus, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des Ösophagus, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K23",
+      "kind": "category",
+      "label": "Krankheiten des Ösophagus bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten des Ösophagus bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "K23.0",
+          "kind": "category",
+          "label": "Tuberkulose des ÖsophagusA18.8",
+          "rubrics": {
+            "preferred": "Tuberkulose des ÖsophagusA18.8"
+          },
+          "children": []
+        },
+        {
+          "code": "K23.1",
+          "kind": "category",
+          "label": "Megaösophagus bei Chagas-KrankheitB57.3",
+          "rubrics": {
+            "preferred": "Megaösophagus bei Chagas-KrankheitB57.3"
+          },
+          "children": []
+        },
+        {
+          "code": "K23.8",
+          "kind": "category",
+          "label": "Krankheiten des Ösophagus bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten des Ösophagus bei sonstigen anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K25",
+      "kind": "category",
+      "label": "Ulcus ventriculi",
+      "rubrics": {
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "preferred": "Ulcus ventriculi",
+        "inclusion": "Ulcus (pepticum):\n\t\t\t\tPylorus",
+        "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "Ulcus pepticum o.n.A.K27.-"
+      },
+      "children": []
+    },
+    {
+      "code": "K26",
+      "kind": "category",
+      "label": "Ulcus duodeni",
+      "rubrics": {
+        "preferred": "Ulcus duodeni",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Ulcus (pepticum):\n\t\t\t\tpostpylorisch",
+        "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "Ulcus pepticum o.n.A.K27.-"
+      },
+      "children": []
+    },
+    {
+      "code": "K27",
+      "kind": "category",
+      "label": "Ulcus pepticum, Lokalisation nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Ulcus pepticum, Lokalisation nicht näher bezeichnet",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Ulcus:\n\t\t\t\tpepticum o.n.A.",
+        "exclusion": "Ulcus pepticum beim NeugeborenenP78.8"
+      },
+      "children": []
+    },
+    {
+      "code": "K28",
+      "kind": "category",
+      "label": "Ulcus pepticum jejuni",
+      "rubrics": {
+        "preferred": "Ulcus pepticum jejuni",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Ulkus (peptisch) oder Erosion:\n\t\t\t\tmarginal",
+        "exclusion": "Primäres Ulkus des DünndarmesK63.3"
+      },
+      "children": []
+    },
+    {
+      "code": "K29",
+      "kind": "category",
+      "label": "Gastritis und Duodenitis",
+      "rubrics": {
+        "preferred": "Gastritis und Duodenitis",
+        "exclusion": "Zollinger-Ellison-SyndromE16.4"
+      },
+      "children": [
+        {
+          "code": "K29.0",
+          "kind": "category",
+          "label": "Akute hämorrhagische Gastritis",
+          "rubrics": {
+            "preferred": "Akute hämorrhagische Gastritis",
+            "inclusion": "Akute (erosive) Gastritis mit Blutung"
+          },
+          "children": []
+        },
+        {
+          "code": "K29.1",
+          "kind": "category",
+          "label": "Sonstige akute Gastritis",
+          "rubrics": {
+            "preferred": "Sonstige akute Gastritis"
+          },
+          "children": []
+        },
+        {
+          "code": "K29.2",
+          "kind": "category",
+          "label": "Alkoholgastritis",
+          "rubrics": {
+            "preferred": "Alkoholgastritis"
+          },
+          "children": []
+        },
+        {
+          "code": "K29.3",
+          "kind": "category",
+          "label": "Chronische Oberflächengastritis",
+          "rubrics": {
+            "preferred": "Chronische Oberflächengastritis"
+          },
+          "children": []
+        },
+        {
+          "code": "K29.4",
+          "kind": "category",
+          "label": "Chronische atrophische Gastritis",
+          "rubrics": {
+            "preferred": "Chronische atrophische Gastritis",
+            "inclusion": "Magenschleimhautatrophie"
+          },
+          "children": []
+        },
+        {
+          "code": "K29.5",
+          "kind": "category",
+          "label": "Chronische Gastritis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Chronische Gastritis, nicht näher bezeichnet",
+            "inclusion": "Chronische Gastritis:\n\t\t\t\tFundus"
+          },
+          "children": []
+        },
+        {
+          "code": "K29.6",
+          "kind": "category",
+          "label": "Sonstige Gastritis",
+          "rubrics": {
+            "preferred": "Sonstige Gastritis",
+            "inclusion": "Ménétrier-Syndrom [Hypertrophische Gastropathie Ménétrier]"
+          },
+          "children": []
+        },
+        {
+          "code": "K29.7",
+          "kind": "category",
+          "label": "Gastritis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Gastritis, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "K29.8",
+          "kind": "category",
+          "label": "Duodenitis",
+          "rubrics": {
+            "preferred": "Duodenitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K29.9",
+          "kind": "category",
+          "label": "Gastroduodenitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Gastroduodenitis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K30",
+      "kind": "category",
+      "label": "Funktionelle Dyspepsie",
+      "rubrics": {
+        "preferred": "Funktionelle Dyspepsie",
+        "inclusion": "Verdauungsstörung",
+        "exclusion": "SodbrennenR12"
+      },
+      "children": []
+    },
+    {
+      "code": "K31",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Magens und des Duodenums",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Magens und des Duodenums",
+        "inclusion": "Funktionelle Magenkrankheiten",
+        "exclusion": "Gastrointestinale BlutungK92.0-K92.2"
+      },
+      "children": [
+        {
+          "code": "K31.0",
+          "kind": "category",
+          "label": "Akute Magendilatation",
+          "rubrics": {
+            "preferred": "Akute Magendilatation",
+            "inclusion": "Akute Distension des Magens"
+          },
+          "children": []
+        },
+        {
+          "code": "K31.1",
+          "kind": "category",
+          "label": "Pylorusstenose beim Erwachsenen",
+          "rubrics": {
+            "preferred": "Pylorusstenose beim Erwachsenen",
+            "exclusion": "Angeborene oder infantile PylorusstenoseQ40.0"
+          },
+          "children": [
+            {
+              "code": "K31.10",
+              "kind": "category",
+              "label": "Hypertrophische Pylorusstenose beim Erwachsenen",
+              "rubrics": {
+                "preferred": "Hypertrophische Pylorusstenose beim Erwachsenen"
+              },
+              "children": []
+            },
+            {
+              "code": "K31.11",
+              "kind": "category",
+              "label": "Entzündliche Pylorusstenose beim Erwachsenen",
+              "rubrics": {
+                "preferred": "Entzündliche Pylorusstenose beim Erwachsenen"
+              },
+              "children": []
+            },
+            {
+              "code": "K31.12",
+              "kind": "category",
+              "label": "Pylorusstenose beim Erwachsenen durch Kompression und Infiltration",
+              "rubrics": {
+                "preferred": "Pylorusstenose beim Erwachsenen durch Kompression und Infiltration",
+                "inclusion": "Pylorusstenose beim Erwachsenen durch Neubildungen am Magen, Duodenum und Pankreas"
+              },
+              "children": []
+            },
+            {
+              "code": "K31.18",
+              "kind": "category",
+              "label": "Sonstige und nicht näher bezeichnete Magenausgangsstenose beim Erwachsenen",
+              "rubrics": {
+                "preferred": "Sonstige und nicht näher bezeichnete Magenausgangsstenose beim Erwachsenen",
+                "inclusion": "Pylorusstenose o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "K31.2",
+          "kind": "category",
+          "label": "Sanduhrförmige Striktur und Stenose des Magens",
+          "rubrics": {
+            "preferred": "Sanduhrförmige Striktur und Stenose des Magens",
+            "exclusion": "Sanduhrförmige MagenkontraktionK31.88"
+          },
+          "children": []
+        },
+        {
+          "code": "K31.3",
+          "kind": "category",
+          "label": "Pylorospasmus, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Pylorospasmus, anderenorts nicht klassifiziert",
+            "exclusion": "Pylorospasmus:\n\t\t\t\tpsychogenF45.31"
+          },
+          "children": []
+        },
+        {
+          "code": "K31.4",
+          "kind": "category",
+          "label": "Magendivertikel",
+          "rubrics": {
+            "preferred": "Magendivertikel",
+            "exclusion": "Angeborenes MagendivertikelQ40.2"
+          },
+          "children": []
+        },
+        {
+          "code": "K31.5",
+          "kind": "category",
+          "label": "Duodenalverschluss",
+          "rubrics": {
+            "preferred": "Duodenalverschluss",
+            "inclusion": "Striktur\n\t\t\t\tDuodenum",
+            "exclusion": "Angeborene Stenose des DuodenumsQ41.0"
+          },
+          "children": []
+        },
+        {
+          "code": "K31.6",
+          "kind": "category",
+          "label": "Fistel des Magens und des Duodenums",
+          "rubrics": {
+            "preferred": "Fistel des Magens und des Duodenums",
+            "inclusion": "Gastrokolische Fistel"
+          },
+          "children": []
+        },
+        {
+          "code": "K31.7",
+          "kind": "category",
+          "label": "Polyp des Magens und des Duodenums",
+          "rubrics": {
+            "preferred": "Polyp des Magens und des Duodenums",
+            "inclusion": "Polyp o.n.A.",
+            "exclusion": "Adenomatöser Polyp des DuodenumsD13.2"
+          },
+          "children": []
+        },
+        {
+          "code": "K31.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Magens und des Duodenums",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Magens und des Duodenums",
+            "inclusion": "Sanduhrförmige Magenkontraktion"
+          },
+          "children": [
+            {
+              "code": "K31.81",
+              "kind": "category",
+              "label": "Angiodysplasie des Magens und des Duodenums ohne Angabe einer Blutung",
+              "rubrics": {
+                "preferred": "Angiodysplasie des Magens und des Duodenums ohne Angabe einer Blutung",
+                "inclusion": "Angiektasie des Magens und des Duodenums ohne Angabe einer Blutung"
+              },
+              "children": []
+            },
+            {
+              "code": "K31.82",
+              "kind": "category",
+              "label": "Angiodysplasie des Magens und des Duodenums mit Blutung",
+              "rubrics": {
+                "preferred": "Angiodysplasie des Magens und des Duodenums mit Blutung",
+                "inclusion": "Angiektasie des Magens und des Duodenums mit Blutung"
+              },
+              "children": []
+            },
+            {
+              "code": "K31.88",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten des Magens und des Duodenums",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten des Magens und des Duodenums"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "K31.9",
+          "kind": "category",
+          "label": "Krankheit des Magens und des Duodenums, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des Magens und des Duodenums, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

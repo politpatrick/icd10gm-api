@@ -1,0 +1,11 @@
+{
+  "code": "F63.3",
+  "kind": "category",
+  "label": "Trichotillomanie",
+  "rubrics": {
+    "preferred": "Trichotillomanie",
+    "definition": "Bei dieser Störung kommt es nach immer wieder misslungenem Versuch, sich gegen Impulse zum Ausreißen der Haare zu wehren, zu einem beachtlichen Haarverlust. Das Ausreißen der Haare ist häufig mit dem Gefühl wachsender Spannung verbunden und einem anschließenden Gefühl von Erleichterung und Befriedigung. Diese Diagnose soll nicht gestellt werden, wenn zuvor eine Hautentzündung bestand oder wenn das Ausreißen der Haare eine Reaktion auf ein Wahnphänomen oder eine Halluzination ist.",
+    "exclusion": "Stereotype Bewegungsstörung mit HaarezupfenF98.4-"
+  },
+  "children": []
+}

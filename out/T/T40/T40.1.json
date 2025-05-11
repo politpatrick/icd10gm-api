@@ -1,0 +1,10 @@
+{
+  "code": "T40.1",
+  "kind": "category",
+  "label": "Heroin",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Heroin",
+    "preferred": "Heroin"
+  },
+  "children": []
+}

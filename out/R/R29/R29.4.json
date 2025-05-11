@@ -1,0 +1,11 @@
+{
+  "code": "R29.4",
+  "kind": "category",
+  "label": "Schnappende Hüfte",
+  "rubrics": {
+    "preferred": "Schnappende Hüfte",
+    "inclusion": "Ortolani-Phänomen",
+    "exclusion": "Coxa saltansM24.85"
+  },
+  "children": []
+}

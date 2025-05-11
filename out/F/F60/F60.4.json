@@ -1,0 +1,11 @@
+{
+  "code": "F60.4",
+  "kind": "category",
+  "label": "Histrionische Persönlichkeitsstörung",
+  "rubrics": {
+    "preferred": "Histrionische Persönlichkeitsstörung",
+    "definition": "Eine Persönlichkeitsstörung, die durch oberflächliche und labile Affektivität, Dramatisierung, einen theatralischen, übertriebenen Ausdruck von Gefühlen, durch Suggestibilität, Egozentrik, Genusssucht, Mangel an Rücksichtnahme, erhöhte Kränkbarkeit und ein dauerndes Verlangen nach Anerkennung, äußeren Reizen und Aufmerksamkeit gekennzeichnet ist.",
+    "inclusion": "Persönlichkeit(sstörung):\n\t\t\t\tinfantil"
+  },
+  "children": []
+}

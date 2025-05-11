@@ -1,0 +1,10 @@
+{
+  "code": "N31.1",
+  "kind": "category",
+  "label": "Neurogene Reflexblase, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Neurogene Reflexblase, anderenorts nicht klassifiziert",
+    "inclusion": "Harnblasenfunktionsstörung mit Detrusorinstabilität bei autonomer Neuropathie"
+  },
+  "children": []
+}

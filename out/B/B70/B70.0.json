@@ -1,0 +1,11 @@
+{
+  "code": "B70.0",
+  "kind": "category",
+  "label": "Diphyllobothriose",
+  "rubrics": {
+    "preferred": "Diphyllobothriose",
+    "inclusion": "Infektion durch adulte Form von Diphyllobothrium (latum) (pacificum)",
+    "exclusion": "Befall durch Larven von DiphyllobothriumB70.1"
+  },
+  "children": []
+}

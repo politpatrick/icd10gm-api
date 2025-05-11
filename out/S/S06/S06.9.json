@@ -1,0 +1,11 @@
+{
+  "code": "S06.9",
+  "kind": "category",
+  "label": "Intrakranielle Verletzung, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Intrakranielle Verletzung, nicht näher bezeichnet",
+    "inclusion": "Intrakranielle Verletzung o.n.A.",
+    "exclusion": "Verletzung des Kopfes o.n.A.S09.9"
+  },
+  "children": []
+}

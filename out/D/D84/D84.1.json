@@ -1,0 +1,10 @@
+{
+  "code": "D84.1",
+  "kind": "category",
+  "label": "Defekte im Komplementsystem",
+  "rubrics": {
+    "preferred": "Defekte im Komplementsystem",
+    "inclusion": "C1-Esterase-Inhibitor[C1-INH]-Mangel"
+  },
+  "children": []
+}

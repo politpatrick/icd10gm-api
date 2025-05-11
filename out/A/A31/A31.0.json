@@ -1,0 +1,10 @@
+{
+  "code": "A31.0",
+  "kind": "category",
+  "label": "Infektion der Lunge durch sonstige Mykobakterien",
+  "rubrics": {
+    "preferred": "Infektion der Lunge durch sonstige Mykobakterien",
+    "inclusion": "Infektion durch Mycobacterium:\n\t\t\t\tkansasii"
+  },
+  "children": []
+}

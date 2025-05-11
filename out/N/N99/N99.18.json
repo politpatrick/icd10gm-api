@@ -1,0 +1,10 @@
+{
+  "code": "N99.18",
+  "kind": "category",
+  "label": "Harnröhrenstriktur nach sonstigen medizinischen Maßnahmen",
+  "rubrics": {
+    "preferred": "Harnröhrenstriktur nach sonstigen medizinischen Maßnahmen",
+    "inclusion": "Harnröhrenstriktur als Folge von:\n\t\t\t\tZirkumzision"
+  },
+  "children": []
+}

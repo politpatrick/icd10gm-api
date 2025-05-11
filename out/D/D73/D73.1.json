@@ -1,0 +1,10 @@
+{
+  "code": "D73.1",
+  "kind": "category",
+  "label": "Hypersplenismus",
+  "rubrics": {
+    "preferred": "Hypersplenismus",
+    "exclusion": "Splenomegalie:\n\t\t\t\to.n.A.R16.1"
+  },
+  "children": []
+}

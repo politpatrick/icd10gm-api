@@ -1,0 +1,11 @@
+{
+  "code": "O94",
+  "kind": "category",
+  "label": "Folgen von Komplikationen während Schwangerschaft, Geburt und Wochenbett",
+  "rubrics": {
+    "preferred": "Folgen von Komplikationen während Schwangerschaft, Geburt und Wochenbett",
+    "note": "Die Kategorie O94 ist nur zur Verschlüsselung der Morbidität vorgesehen, um bei vorangegangenen Zuständen aus O00-O75 und O85-O92 anzuzeigen, dass sie anderenorts klassifizierte Spätfolgen verursacht haben. Zu den \"Folgen\" zählen Zustände, die als Folgen oder Spätfolgen bezeichnet sind oder die ein Jahr oder länger seit Beginn des verursachenden Leidens bestehen.",
+    "exclusion": "Folgen, die zum Tod führenO96.-O97.-"
+  },
+  "children": []
+}

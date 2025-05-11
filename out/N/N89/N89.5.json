@@ -1,0 +1,11 @@
+{
+  "code": "N89.5",
+  "kind": "category",
+  "label": "Striktur und Atresie der Vagina",
+  "rubrics": {
+    "preferred": "Striktur und Atresie der Vagina",
+    "inclusion": "Stenose der Vagina",
+    "exclusion": "Postoperative Adhäsionen der VaginaN99.2"
+  },
+  "children": []
+}

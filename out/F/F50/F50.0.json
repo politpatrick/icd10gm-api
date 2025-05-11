@@ -1,0 +1,42 @@
+{
+  "code": "F50.0",
+  "kind": "category",
+  "label": "Anorexia nervosa",
+  "rubrics": {
+    "preferred": "Anorexia nervosa",
+    "definition": "Die Anorexia ist durch einen absichtlich selbst herbeigeführten oder aufrechterhaltenen Gewichtsverlust charakterisiert. Am häufigsten ist die Störung bei heranwachsenden Mädchen und jungen Frauen; heranwachsende Jungen und junge Männer, Kinder vor der Pubertät und Frauen bis zur Menopause können ebenfalls betroffen sein. Die Krankheit ist mit einer spezifischen Psychopathologie verbunden, wobei die Angst vor einem dicken Körper und einer schlaffen Körperform als eine tiefverwurzelte überwertige Idee besteht und die Betroffenen eine sehr niedrige Gewichtsschwelle für sich selbst festlegen. Es liegt meist Unterernährung unterschiedlichen Schweregrades vor, die sekundär zu endokrinen und metabolischen Veränderungen und zu körperlichen Funktionsstörungen führt. Zu den Symptomen gehören eingeschränkte Nahrungsauswahl, übertriebene körperliche Aktivitäten, selbstinduziertes Erbrechen und Abführen und der Gebrauch von Appetitzüglern und Diuretika.",
+    "exclusion": "Psychogener AppetitverlustF50.8"
+  },
+  "children": [
+    {
+      "code": "F50.00",
+      "kind": "category",
+      "label": "Anorexia nervosa, restriktiver Typ",
+      "rubrics": {
+        "preferred": "Anorexia nervosa, restriktiver Typ",
+        "inclusion": "Anorexia nervosa, ohne Maßnahmen zur Gewichtsreduktion"
+      },
+      "children": []
+    },
+    {
+      "code": "F50.01",
+      "kind": "category",
+      "label": "Anorexia nervosa, aktiver Typ",
+      "rubrics": {
+        "preferred": "Anorexia nervosa, aktiver Typ",
+        "inclusion": "Anorexia nervosa, mit Maßnahmen zur Gewichtsreduktion"
+      },
+      "children": []
+    },
+    {
+      "code": "F50.08",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Anorexia nervosa",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Anorexia nervosa",
+        "inclusion": "Anorexia nervosa o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

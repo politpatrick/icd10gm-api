@@ -1,0 +1,10 @@
+{
+  "code": "G80.0",
+  "kind": "category",
+  "label": "Spastische tetraplegische Zerebralparese",
+  "rubrics": {
+    "preferred": "Spastische tetraplegische Zerebralparese",
+    "inclusion": "Spastische quadriplegische Zerebralparese"
+  },
+  "children": []
+}

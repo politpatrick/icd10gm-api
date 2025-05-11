@@ -1,0 +1,28 @@
+{
+  "code": "G72.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Myopathien",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Myopathien"
+  },
+  "children": [
+    {
+      "code": "G72.80",
+      "kind": "category",
+      "label": "Critical-illness-Myopathie",
+      "rubrics": {
+        "preferred": "Critical-illness-Myopathie"
+      },
+      "children": []
+    },
+    {
+      "code": "G72.88",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Myopathien",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Myopathien"
+      },
+      "children": []
+    }
+  ]
+}

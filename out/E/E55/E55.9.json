@@ -1,0 +1,10 @@
+{
+  "code": "E55.9",
+  "kind": "category",
+  "label": "Vitamin-D-Mangel, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Vitamin-D-Mangel, nicht näher bezeichnet",
+    "inclusion": "Avitaminose D"
+  },
+  "children": []
+}

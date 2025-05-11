@@ -1,0 +1,590 @@
+{
+  "code": "F60-F69",
+  "kind": "block",
+  "label": "Persönlichkeits- und Verhaltensstörungen",
+  "rubrics": {
+    "preferred": "Persönlichkeits- und Verhaltensstörungen",
+    "text": "Dieser Abschnitt enthält eine Reihe von klinisch wichtigen, meist länger anhaltenden Zustandsbildern und Verhaltensmustern. Sie sind Ausdruck des charakteristischen, individuellen Lebensstils, des Verhältnisses zur eigenen Person und zu anderen Menschen. Einige dieser Zustandsbilder und Verhaltensmuster entstehen als Folge konstitutioneller Faktoren und sozialer Erfahrungen schon früh im Verlauf der individuellen Entwicklung, während andere erst später im Leben erworben werden. Die spezifischen Persönlichkeitsstörungen (F60.-), die kombinierten und anderen Persönlichkeitsstörungen (F61) und die Persönlichkeitsänderungen (F62.-) sind tief verwurzelte, anhaltende Verhaltensmuster, die sich in starren Reaktionen auf unterschiedliche persönliche und soziale Lebenslagen zeigen. Sie verkörpern gegenüber der Mehrheit der betreffenden Bevölkerung deutliche Abweichungen im Wahrnehmen, Denken, Fühlen und in den Beziehungen zu anderen. Solche Verhaltensmuster sind meistens stabil und beziehen sich auf vielfältige Bereiche des Verhaltens und der psychologischen Funktionen. Häufig gehen sie mit einem unterschiedlichen Ausmaß persönlichen Leidens und gestörter sozialer Funktionsfähigkeit einher."
+  },
+  "children": [
+    {
+      "code": "F60",
+      "kind": "category",
+      "label": "Spezifische Persönlichkeitsstörungen",
+      "rubrics": {
+        "preferred": "Spezifische Persönlichkeitsstörungen",
+        "definition": "Es handelt sich um schwere Störungen der Persönlichkeit und des Verhaltens der betroffenen Person, die nicht direkt auf eine Hirnschädigung oder -krankheit oder auf eine andere psychiatrische Störung zurückzuführen sind. Sie erfassen verschiedene Persönlichkeitsbereiche und gehen beinahe immer mit persönlichen und sozialen Beeinträchtigungen einher. Persönlichkeitsstörungen treten meist in der Kindheit oder in der Adoleszenz in Erscheinung und bestehen während des Erwachsenenalters weiter."
+      },
+      "children": [
+        {
+          "code": "F60.0",
+          "kind": "category",
+          "label": "Paranoide Persönlichkeitsstörung",
+          "rubrics": {
+            "preferred": "Paranoide Persönlichkeitsstörung",
+            "definition": "Diese Persönlichkeitsstörung ist durch übertriebene Empfindlichkeit gegenüber Zurückweisung, Nachtragen von Kränkungen, durch Misstrauen, sowie eine Neigung, Erlebtes zu verdrehen gekennzeichnet, indem neutrale oder freundliche Handlungen anderer als feindlich oder verächtlich missgedeutet werden, wiederkehrende unberechtigte Verdächtigungen hinsichtlich der sexuellen Treue des Ehegatten oder Sexualpartners, schließlich durch streitsüchtiges und beharrliches Bestehen auf eigenen Rechten. Diese Personen können zu überhöhtem Selbstwertgefühl und häufiger, übertriebener Selbstbezogenheit neigen.",
+            "inclusion": "Persönlichkeit(sstörung):\n\t\t\t\tsensitiv paranoid",
+            "exclusion": "Paranoid:\n\t\t\t\tZustandF22.0"
+          },
+          "children": []
+        },
+        {
+          "code": "F60.1",
+          "kind": "category",
+          "label": "Schizoide Persönlichkeitsstörung",
+          "rubrics": {
+            "preferred": "Schizoide Persönlichkeitsstörung",
+            "definition": "Eine Persönlichkeitsstörung, die durch einen Rückzug von affektiven, sozialen und anderen Kontakten mit übermäßiger Vorliebe für Phantasie, einzelgängerisches Verhalten und in sich gekehrte Zurückhaltung gekennzeichnet ist. Es besteht nur ein begrenztes Vermögen, Gefühle auszudrücken und Freude zu erleben.",
+            "exclusion": "Wahnhafte StörungF22.0"
+          },
+          "children": []
+        },
+        {
+          "code": "F60.2",
+          "kind": "category",
+          "label": "Dissoziale Persönlichkeitsstörung",
+          "rubrics": {
+            "preferred": "Dissoziale Persönlichkeitsstörung",
+            "definition": "Eine Persönlichkeitsstörung, die durch eine Missachtung sozialer Verpflichtungen und herzloses Unbeteiligtsein an Gefühlen für andere gekennzeichnet ist. Zwischen dem Verhalten und den herrschenden sozialen Normen besteht eine erhebliche Diskrepanz. Das Verhalten erscheint durch nachteilige Erlebnisse, einschließlich Bestrafung, nicht änderungsfähig. Es besteht eine geringe Frustrationstoleranz und eine niedrige Schwelle für aggressives, auch gewalttätiges Verhalten, eine Neigung, andere zu beschuldigen oder vordergründige Rationalisierungen für das Verhalten anzubieten, durch das der betreffende Patient in einen Konflikt mit der Gesellschaft geraten ist.",
+            "inclusion": "Persönlichkeit(sstörung):\n\t\t\t\tsoziopathisch",
+            "exclusion": "Störungen des SozialverhaltensF91.-"
+          },
+          "children": []
+        },
+        {
+          "code": "F60.3",
+          "kind": "category",
+          "label": "Emotional instabile Persönlichkeitsstörung",
+          "rubrics": {
+            "preferred": "Emotional instabile Persönlichkeitsstörung",
+            "definition": "Eine Persönlichkeitsstörung mit deutlicher Tendenz, Impulse ohne Berücksichtigung von Konsequenzen auszuagieren, verbunden mit unvorhersehbarer und launenhafter Stimmung. Es besteht eine Neigung zu emotionalen Ausbrüchen und eine Unfähigkeit, impulshaftes Verhalten zu kontrollieren. Ferner besteht eine Tendenz zu streitsüchtigem Verhalten und zu Konflikten mit anderen, insbesondere wenn impulsive Handlungen durchkreuzt oder behindert werden. Zwei Erscheinungsformen können unterschieden werden: Ein impulsiver Typus, vorwiegend gekennzeichnet durch emotionale Instabilität und mangelnde Impulskontrolle; und ein Borderline- Typus, zusätzlich gekennzeichnet durch Störungen des Selbstbildes, der Ziele und der inneren Präferenzen, durch ein chronisches Gefühl von Leere, durch intensive, aber unbeständige Beziehungen und eine Neigung zu selbstdestruktivem Verhalten mit parasuizidalen Handlungen und Suizidversuchen.",
+            "exclusion": "Dissoziale PersönlichkeitsstörungF60.2"
+          },
+          "children": [
+            {
+              "code": "F60.30",
+              "kind": "category",
+              "label": "Impulsiver Typ",
+              "rubrics": {
+                "preferredLong": "Emotional instabile Persönlichkeitsstörung: Impulsiver Typ",
+                "preferred": "Impulsiver Typ",
+                "inclusion": "Persönlichkeit(sstörung):\n\t\t\t\treizbar (explosiv)"
+              },
+              "children": []
+            },
+            {
+              "code": "F60.31",
+              "kind": "category",
+              "label": "Borderline-Typ",
+              "rubrics": {
+                "preferredLong": "Emotional instabile Persönlichkeitsstörung: Borderline-Typ",
+                "preferred": "Borderline-Typ"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "F60.4",
+          "kind": "category",
+          "label": "Histrionische Persönlichkeitsstörung",
+          "rubrics": {
+            "preferred": "Histrionische Persönlichkeitsstörung",
+            "definition": "Eine Persönlichkeitsstörung, die durch oberflächliche und labile Affektivität, Dramatisierung, einen theatralischen, übertriebenen Ausdruck von Gefühlen, durch Suggestibilität, Egozentrik, Genusssucht, Mangel an Rücksichtnahme, erhöhte Kränkbarkeit und ein dauerndes Verlangen nach Anerkennung, äußeren Reizen und Aufmerksamkeit gekennzeichnet ist.",
+            "inclusion": "Persönlichkeit(sstörung):\n\t\t\t\tinfantil"
+          },
+          "children": []
+        },
+        {
+          "code": "F60.5",
+          "kind": "category",
+          "label": "Anankastische [zwanghafte] Persönlichkeitsstörung",
+          "rubrics": {
+            "preferred": "Anankastische [zwanghafte] Persönlichkeitsstörung",
+            "definition": "Eine Persönlichkeitsstörung, die durch Gefühle von Zweifel, Perfektionismus, übertriebener Gewissenhaftigkeit, ständigen Kontrollen, Halsstarrigkeit, Vorsicht und Starrheit gekennzeichnet ist. Es können beharrliche und unerwünschte Gedanken oder Impulse auftreten, die nicht die Schwere einer Zwangsstörung erreichen.",
+            "inclusion": "Zwangspersönlichkeit(sstörung)",
+            "exclusion": "ZwangsstörungF42.-"
+          },
+          "children": []
+        },
+        {
+          "code": "F60.6",
+          "kind": "category",
+          "label": "Ängstliche (vermeidende) Persönlichkeitsstörung",
+          "rubrics": {
+            "preferred": "Ängstliche (vermeidende) Persönlichkeitsstörung",
+            "definition": "Eine Persönlichkeitsstörung, die durch Gefühle von Anspannung und Besorgtheit, Unsicherheit und Minderwertigkeit gekennzeichnet ist. Es besteht eine andauernde Sehnsucht nach Zuneigung und Akzeptiertwerden, eine Überempfindlichkeit gegenüber Zurückweisung und Kritik mit eingeschränkter Beziehungsfähigkeit. Die betreffende Person neigt zur Überbetonung potentieller Gefahren oder Risiken alltäglicher Situationen bis zur Vermeidung bestimmter Aktivitäten."
+          },
+          "children": []
+        },
+        {
+          "code": "F60.7",
+          "kind": "category",
+          "label": "Abhängige (asthenische) Persönlichkeitsstörung",
+          "rubrics": {
+            "preferred": "Abhängige (asthenische) Persönlichkeitsstörung",
+            "definition": "Personen mit dieser Persönlichkeitsstörung verlassen sich bei kleineren oder größeren Lebensentscheidungen passiv auf andere Menschen. Die Störung ist ferner durch große Trennungsangst, Gefühle von Hilflosigkeit und Inkompetenz, durch eine Neigung, sich den Wünschen älterer und anderer unterzuordnen sowie durch ein Versagen gegenüber den Anforderungen des täglichen Lebens gekennzeichnet. Die Kraftlosigkeit kann sich im intellektuellen emotionalen Bereich zeigen; bei Schwierigkeiten besteht die Tendenz, die Verantwortung anderen zuzuschieben.",
+            "inclusion": "Persönlichkeit(sstörung):\n\t\t\t\tselbstschädigend"
+          },
+          "children": []
+        },
+        {
+          "code": "F60.8",
+          "kind": "category",
+          "label": "Sonstige spezifische Persönlichkeitsstörungen",
+          "rubrics": {
+            "preferred": "Sonstige spezifische Persönlichkeitsstörungen",
+            "inclusion": "Persönlichkeit(sstörung):\n\t\t\t\tunreif"
+          },
+          "children": []
+        },
+        {
+          "code": "F60.9",
+          "kind": "category",
+          "label": "Persönlichkeitsstörung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Persönlichkeitsstörung, nicht näher bezeichnet",
+            "inclusion": "Pathologische Persönlichkeit o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F61",
+      "kind": "category",
+      "label": "Kombinierte und andere Persönlichkeitsstörungen",
+      "rubrics": {
+        "preferred": "Kombinierte und andere Persönlichkeitsstörungen",
+        "definition": "Diese Kategorie ist vorgesehen für Persönlichkeitsstörungen, die häufig zu Beeinträchtigungen führen, aber nicht die spezifischen Symptombilder der in F60.- beschriebenen Störungen aufweisen. Daher sind sie häufig schwieriger als die Störungen in F60.- zu diagnostizieren.\n\t\t\t\tBeispiele:\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tKombinierte Persönlichkeitsstörungen mit Merkmalen aus verschiedenen der unter F60.- aufgeführten Störungen, jedoch ohne ein vorherrschendes Symptombild, das eine genauere Diagnose ermöglichen würde.\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tStörende Persönlichkeitsänderungen, die nicht in F60.- oder F62.- einzuordnen sind, und Zweitdiagnosen zu bestehenden Affekt- oder Angststörung sind.",
+        "exclusion": "Akzentuierte PersönlichkeitszügeZ73"
+      },
+      "children": []
+    },
+    {
+      "code": "F62",
+      "kind": "category",
+      "label": "Andauernde Persönlichkeitsänderungen, nicht Folge einer Schädigung oder Krankheit des Gehirns",
+      "rubrics": {
+        "preferred": "Andauernde Persönlichkeitsänderungen, nicht Folge einer Schädigung oder Krankheit des Gehirns",
+        "definition": "Persönlichkeits- und Verhaltensstörungen ohne vorbestehende Persönlichkeitsstörung nach extremer oder übermäßiger, anhaltender Belastung oder schweren psychiatrischen Krankheiten. Diese Diagnosen sollten nur dann gestellt werden, wenn Hinweise auf eine eindeutige und andauernde Veränderung in der Wahrnehmung sowie im Verhalten und Denken bezüglich der Umwelt und der eigenen Person vorliegen. Die Persönlichkeitsänderung sollte deutlich ausgeprägt sein und mit einem unflexiblen und fehlangepassten Verhalten verbunden sein, das vor der pathogenen Erfahrung nicht bestanden hat. Die Änderung sollte nicht Ausdruck einer anderen psychischen Störung oder Residualsymptom einer vorangegangenen psychischen Störung sein.",
+        "exclusion": "Persönlichkeits- und Verhaltensstörung aufgrund einer Krankheit, Schädigung oder Funktionsstörung des GehirnsF07.-"
+      },
+      "children": [
+        {
+          "code": "F62.0",
+          "kind": "category",
+          "label": "Andauernde Persönlichkeitsänderung nach Extrembelastung",
+          "rubrics": {
+            "preferred": "Andauernde Persönlichkeitsänderung nach Extrembelastung",
+            "definition": "Eine andauernde, wenigstens über zwei Jahre bestehende Persönlichkeitsänderung kann einer Belastung katastrophalen Ausmaßes folgen. Die Belastung muss extrem sein, dass die Vulnerabilität der betreffenden Person als Erklärung für die tief greifende Auswirkung auf die Persönlichkeit nicht in Erwägung gezogen werden muss. Die Störung ist durch eine feindliche oder misstrauische Haltung gegenüber der Welt, durch sozialen Rückzug, Gefühle der Leere oder Hoffnungslosigkeit, ein chronisches Gefühl der Anspannung wie bei ständigem Bedrohtsein und Entfremdungsgefühl, gekennzeichnet. Eine posttraumatische Belastungsstörung (F43.1) kann dieser Form der Persönlichkeitsänderung vorausgegangen sein.",
+            "inclusion": "Persönlichkeitsänderungen nach:\n\t\t\t\tKonzentrationslagererfahrungen",
+            "exclusion": "Posttraumatische BelastungsstörungF43.1"
+          },
+          "children": []
+        },
+        {
+          "code": "F62.1",
+          "kind": "category",
+          "label": "Andauernde Persönlichkeitsänderung nach psychischer Krankheit",
+          "rubrics": {
+            "preferred": "Andauernde Persönlichkeitsänderung nach psychischer Krankheit",
+            "definition": "Eine auf der traumatischen Erfahrung einer schweren psychiatrischen Krankheit beruhende, wenigstens über zwei Jahre bestehende Persönlichkeitsänderung. Die Änderung kann nicht durch eine vorbestehende Persönlichkeitsstörung erklärt werden und sollte vom Residualzustand einer Schizophrenie und anderen Zustandsbildern unvollständiger Rückbildung einer vorausgegangenen psychischen Störung unterschieden werden. Die Störung ist gekennzeichnet durch eine hochgradige Abhängigkeit sowie Anspruchs- und Erwartungshaltung gegenüber anderen, eine Überzeugung, durch die Krankheit verändert oder stigmatisiert worden zu sein. Dies führt zu einer Unfähigkeit, enge und vertrauensvolle persönliche Beziehungen aufzunehmen und beizubehalten, sowie zu sozialer Isolation. Ferner finden sich Passivität, verminderte Interessen und Vernachlässigung von Freizeitbeschäftigungen, ständige Beschwerden über das Kranksein, oft verbunden mit hypochondrischen Klagen und kränkelndem Verhalten, dysphorische oder labile Stimmung, die nicht auf dem Vorliegen einer gegenwärtigen psychischen Störung oder einer vorausgegangenen psychischen Störung mit affektiven Residualsymptomen beruht. Schließlich bestehen seit längerer Zeit Probleme in der sozialen und beruflichen Funktionsfähigkeit."
+          },
+          "children": []
+        },
+        {
+          "code": "F62.8",
+          "kind": "category",
+          "label": "Sonstige andauernde Persönlichkeitsänderungen",
+          "rubrics": {
+            "preferred": "Sonstige andauernde Persönlichkeitsänderungen"
+          },
+          "children": [
+            {
+              "code": "F62.80",
+              "kind": "category",
+              "label": "Andauernde Persönlichkeitsänderung bei chronischem Schmerzsyndrom",
+              "rubrics": {
+                "preferred": "Andauernde Persönlichkeitsänderung bei chronischem Schmerzsyndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "F62.88",
+              "kind": "category",
+              "label": "Sonstige andauernde Persönlichkeitsänderungen",
+              "rubrics": {
+                "preferred": "Sonstige andauernde Persönlichkeitsänderungen"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "F62.9",
+          "kind": "category",
+          "label": "Andauernde Persönlichkeitsänderung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Andauernde Persönlichkeitsänderung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F63",
+      "kind": "category",
+      "label": "Abnorme Gewohnheiten und Störungen der Impulskontrolle",
+      "rubrics": {
+        "preferred": "Abnorme Gewohnheiten und Störungen der Impulskontrolle",
+        "definition": "In dieser Kategorie sind verschiedene nicht an anderer Stelle klassifizierbare Verhaltensstörungen zusammengefasst. Sie sind durch wiederholte Handlungen ohne vernünftige Motivation gekennzeichnet, die nicht kontrolliert werden können und die meist die Interessen des betroffenen Patienten oder anderer Menschen schädigen. Der betroffene Patient berichtet von impulshaftem Verhalten. Die Ursachen dieser Störungen sind unklar, sie sind wegen deskriptiver Ähnlichkeiten hier gemeinsam aufgeführt, nicht weil sie andere wichtige Merkmale teilen.",
+        "exclusion": "Gewohnheitsmäßiger exzessiver Gebrauch von Alkohol oder psychotropen SubstanzenF10-F19"
+      },
+      "children": [
+        {
+          "code": "F63.0",
+          "kind": "category",
+          "label": "Pathologisches Spielen",
+          "rubrics": {
+            "preferred": "Pathologisches Spielen",
+            "definition": "Die Störung besteht in häufigem und wiederholtem episodenhaften Glücksspiel, das die Lebensführung des betroffenen Patienten beherrscht und zum Verfall der sozialen, beruflichen, materiellen und familiären Werte und Verpflichtungen führt.",
+            "inclusion": "Zwanghaftes Spielen",
+            "exclusion": "Spielen und Wetten o.n.A.Z72.8"
+          },
+          "children": []
+        },
+        {
+          "code": "F63.1",
+          "kind": "category",
+          "label": "Pathologische Brandstiftung [Pyromanie]",
+          "rubrics": {
+            "preferred": "Pathologische Brandstiftung [Pyromanie]",
+            "definition": "Die Störung ist durch häufige tatsächliche oder versuchte Brandstiftung an Gebäuden oder anderem Eigentum ohne verständliches Motiv und durch eine anhaltende Beschäftigung der betroffenen Person mit Feuer und Brand charakterisiert. Das Verhalten ist häufig mit wachsender innerer Spannung vor der Handlung und starker Erregung sofort nach ihrer Ausführung verbunden.",
+            "exclusion": "Brandstiftung:\n\t\t\t\tdurch Erwachsene mit dissozialer PersönlichkeitsstörungF60.2"
+          },
+          "children": []
+        },
+        {
+          "code": "F63.2",
+          "kind": "category",
+          "label": "Pathologisches Stehlen [Kleptomanie]",
+          "rubrics": {
+            "preferred": "Pathologisches Stehlen [Kleptomanie]",
+            "definition": "Die Störung charakterisiert wiederholtes Versagen Impulsen zu widerstehen, Dinge zu stehlen, die nicht dem persönlichen Gebrauch oder der Bereicherung dienen. Statt dessen werden die Gegenstände weggeworfen, weggegeben oder gehortet. Dieses Verhalten ist meist mit wachsender innerer Spannung vor der Handlung und einem Gefühl von Befriedigung während und sofort nach der Tat verbunden.",
+            "exclusion": "Stehlen bei depressiver StörungF31-F33"
+          },
+          "children": []
+        },
+        {
+          "code": "F63.3",
+          "kind": "category",
+          "label": "Trichotillomanie",
+          "rubrics": {
+            "preferred": "Trichotillomanie",
+            "definition": "Bei dieser Störung kommt es nach immer wieder misslungenem Versuch, sich gegen Impulse zum Ausreißen der Haare zu wehren, zu einem beachtlichen Haarverlust. Das Ausreißen der Haare ist häufig mit dem Gefühl wachsender Spannung verbunden und einem anschließenden Gefühl von Erleichterung und Befriedigung. Diese Diagnose soll nicht gestellt werden, wenn zuvor eine Hautentzündung bestand oder wenn das Ausreißen der Haare eine Reaktion auf ein Wahnphänomen oder eine Halluzination ist.",
+            "exclusion": "Stereotype Bewegungsstörung mit HaarezupfenF98.4-"
+          },
+          "children": []
+        },
+        {
+          "code": "F63.8",
+          "kind": "category",
+          "label": "Sonstige abnorme Gewohnheiten und Störungen der Impulskontrolle",
+          "rubrics": {
+            "preferred": "Sonstige abnorme Gewohnheiten und Störungen der Impulskontrolle",
+            "definition": "In diese Kategorie fallen andere Arten sich dauernd wiederholenden unangepassten Verhaltens, die nicht Folge eines erkennbaren psychiatrischen Syndroms sind und bei denen der betroffene Patient den Impulsen, das pathologische Verhalten auszuführen, nicht widerstehen kann. Nach einer vorausgehenden Periode mit Anspannung folgt während des Handlungsablaufs ein Gefühl der Erleichterung.",
+            "inclusion": "Störung mit intermittierend auftretender Reizbarkeit"
+          },
+          "children": []
+        },
+        {
+          "code": "F63.9",
+          "kind": "category",
+          "label": "Abnorme Gewohnheit und Störung der Impulskontrolle, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Abnorme Gewohnheit und Störung der Impulskontrolle, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F64",
+      "kind": "category",
+      "label": "Störungen der Geschlechtsidentität",
+      "rubrics": {
+        "preferred": "Störungen der Geschlechtsidentität"
+      },
+      "children": [
+        {
+          "code": "F64.0",
+          "kind": "category",
+          "label": "Transsexualismus",
+          "rubrics": {
+            "preferred": "Transsexualismus",
+            "definition": "Der Wunsch, als Angehöriger des anderen Geschlechtes zu leben und anerkannt zu werden. Dieser geht meist mit Unbehagen oder dem Gefühl der Nichtzugehörigkeit zum eigenen anatomischen Geschlecht einher. Es besteht der Wunsch nach chirurgischer und hormoneller Behandlung, um den eigenen Körper dem bevorzugten Geschlecht soweit wie möglich anzugleichen."
+          },
+          "children": []
+        },
+        {
+          "code": "F64.1",
+          "kind": "category",
+          "label": "Transvestitismus unter Beibehaltung beider Geschlechtsrollen",
+          "rubrics": {
+            "preferred": "Transvestitismus unter Beibehaltung beider Geschlechtsrollen",
+            "definition": "Tragen gegengeschlechtlicher Kleidung, um die zeitweilige Erfahrung der Zugehörigkeit zum anderen Geschlecht zu erleben. Der Wunsch nach dauerhafter Genitalorganumwandlung oder chirurgischer Korrektur besteht nicht; der Kleiderwechsel ist nicht von sexueller Erregung begleitet.",
+            "inclusion": "Störung der Geschlechtsidentität in der Adoleszenz oder im Erwachsenenalter, nicht transsexueller Typus",
+            "exclusion": "Fetischistischer TransvestitismusF65.1"
+          },
+          "children": []
+        },
+        {
+          "code": "F64.2",
+          "kind": "category",
+          "label": "Störung der Geschlechtsidentität des Kindesalters",
+          "rubrics": {
+            "preferred": "Störung der Geschlechtsidentität des Kindesalters",
+            "definition": "Diese Störung zeigt sich während der frühen Kindheit, immer lange vor der Pubertät. Sie ist durch ein anhaltendes und starkes Unbehagen über das zugefallene Geschlecht gekennzeichnet, zusammen mit dem Wunsch oder der ständigen Beteuerung, zum anderen Geschlecht zu gehören. Es besteht eine andauernde Beschäftigung mit der Kleidung oder den Aktivitäten des anderen Geschlechtes und eine Ablehnung des eigenen Geschlechtes. Die Diagnose erfordert eine tief greifende Störung der normalen Geschlechtsidentität; eine bloße Knabenhaftigkeit bei Mädchen und ein mädchenhaftes Verhalten bei Jungen sind nicht ausreichend. Geschlechtsidentitätsstörungen bei Personen, welche die Pubertät erreicht haben oder gerade erreichen, sind nicht hier, sondern unter F66.- zu klassifizieren.",
+            "exclusion": "Sexuelle ReifungskriseF66.0"
+          },
+          "children": []
+        },
+        {
+          "code": "F64.8",
+          "kind": "category",
+          "label": "Sonstige Störungen der Geschlechtsidentität",
+          "rubrics": {
+            "preferred": "Sonstige Störungen der Geschlechtsidentität"
+          },
+          "children": []
+        },
+        {
+          "code": "F64.9",
+          "kind": "category",
+          "label": "Störung der Geschlechtsidentität, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Störung der Geschlechtsidentität, nicht näher bezeichnet",
+            "inclusion": "Störung der Geschlechtsrolle o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F65",
+      "kind": "category",
+      "label": "Störungen der Sexualpräferenz",
+      "rubrics": {
+        "preferred": "Störungen der Sexualpräferenz",
+        "inclusion": "Paraphilie"
+      },
+      "children": [
+        {
+          "code": "F65.0",
+          "kind": "category",
+          "label": "Fetischismus",
+          "rubrics": {
+            "preferred": "Fetischismus",
+            "definition": "Gebrauch toter Objekte als Stimuli für die sexuelle Erregung und Befriedigung. Viele Fetische stellen eine Erweiterung des menschlichen Körpers dar, z.B. Kleidungsstücke oder Schuhwerk. Andere gebräuchliche Beispiele sind Gegenstände aus Gummi, Plastik oder Leder. Die Fetischobjekte haben individuell wechselnde Bedeutung. In einigen Fällen dienen sie lediglich der Verstärkung der auf üblichem Wege erreichten sexuellen Erregung (z.B. wenn der Partner ein bestimmtes Kleidungsstück tragen soll)."
+          },
+          "children": []
+        },
+        {
+          "code": "F65.1",
+          "kind": "category",
+          "label": "Fetischistischer Transvestitismus",
+          "rubrics": {
+            "preferred": "Fetischistischer Transvestitismus",
+            "definition": "Zur Erreichung sexueller Erregung wird Kleidung des anderen Geschlechts getragen; damit wird der Anschein erweckt, dass es sich um eine Person des anderen Geschlechts handelt. Fetischistischer Transvestitismus unterscheidet sich vom transsexuellen Transvestitismus durch die deutliche Kopplung an sexuelle Erregung und das starke Verlangen, die Kleidung nach dem eingetretenen Orgasmus und dem Nachlassen der sexuellen Erregung abzulegen. Er kann als eine frühere Phase in der Entwicklung eines Transsexualismus auftreten.",
+            "inclusion": "Transvestitischer Fetischismus"
+          },
+          "children": []
+        },
+        {
+          "code": "F65.2",
+          "kind": "category",
+          "label": "Exhibitionismus",
+          "rubrics": {
+            "preferred": "Exhibitionismus",
+            "definition": "Die wiederkehrende oder anhaltende Neigung, die eigenen Genitalien vor meist gegengeschlechtlichen Fremden in der Öffentlichkeit zu entblößen, ohne zu einem näheren Kontakt aufzufordern oder diesen zu wünschen. Meist wird das Zeigen von sexueller Erregung begleitet und im Allgemeinen kommt es zu nachfolgender Masturbation."
+          },
+          "children": []
+        },
+        {
+          "code": "F65.3",
+          "kind": "category",
+          "label": "Voyeurismus",
+          "rubrics": {
+            "preferred": "Voyeurismus",
+            "definition": "Wiederkehrender oder anhaltender Drang, anderen Menschen bei sexuellen Aktivitäten oder intimen Tätigkeiten, z.B. Entkleiden, zuzusehen ohne Wissen der beobachteten Person. Zumeist führt dies beim Beobachtenden zu sexueller Erregung und Masturbation."
+          },
+          "children": []
+        },
+        {
+          "code": "F65.4",
+          "kind": "category",
+          "label": "Pädophilie",
+          "rubrics": {
+            "preferred": "Pädophilie",
+            "definition": "Sexuelle Präferenz für Kinder, Jungen oder Mädchen oder Kinder beiderlei Geschlechts, die sich meist in der Vorpubertät oder in einem frühen Stadium der Pubertät befinden."
+          },
+          "children": []
+        },
+        {
+          "code": "F65.5",
+          "kind": "category",
+          "label": "Sadomasochismus",
+          "rubrics": {
+            "preferred": "Sadomasochismus",
+            "definition": "Es werden sexuelle Aktivitäten mit Zufügung von Schmerzen, Erniedrigung oder Fesseln bevorzugt. Wenn die betroffene Person diese Art der Stimulation erleidet, handelt es sich um Masochismus; wenn sie sie jemand anderem zufügt, um Sadismus. Oft empfindet die betroffene Person sowohl bei masochistischen als auch sadistischen Aktivitäten sexuelle Erregung.",
+            "inclusion": "Sadismus"
+          },
+          "children": []
+        },
+        {
+          "code": "F65.6",
+          "kind": "category",
+          "label": "Multiple Störungen der Sexualpräferenz",
+          "rubrics": {
+            "preferred": "Multiple Störungen der Sexualpräferenz",
+            "definition": "In manchen Fällen bestehen bei einer Person mehrere abnorme sexuelle Präferenzen, ohne dass eine im Vordergrund steht. Die häufigste Kombination ist Fetischismus, Transvestitismus und Sadomasochismus."
+          },
+          "children": []
+        },
+        {
+          "code": "F65.8",
+          "kind": "category",
+          "label": "Sonstige Störungen der Sexualpräferenz",
+          "rubrics": {
+            "preferred": "Sonstige Störungen der Sexualpräferenz",
+            "definition": "Hier sind eine Vielzahl anderer sexueller Präferenzen und Aktivitäten zu klassifizieren wie obszöne Telefonanrufe, Pressen des eigenen Körpers an andere Menschen zur sexuellen Stimulation in Menschenansammlungen, sexuelle Handlungen an Tieren, Strangulieren und Nutzung der Anoxie zur Steigerung der sexuellen Erregung.",
+            "inclusion": "Nekrophilie"
+          },
+          "children": []
+        },
+        {
+          "code": "F65.9",
+          "kind": "category",
+          "label": "Störung der Sexualpräferenz, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Störung der Sexualpräferenz, nicht näher bezeichnet",
+            "inclusion": "Sexuelle Deviation o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F66",
+      "kind": "category",
+      "label": "Psychische und Verhaltensstörungen in Verbindung mit der sexuellen Entwicklung und Orientierung",
+      "rubrics": {
+        "preferred": "Psychische und Verhaltensstörungen in Verbindung mit der sexuellen Entwicklung und Orientierung",
+        "note": "Die Richtung der sexuellen Orientierung selbst ist nicht als Störung anzusehen."
+      },
+      "children": [
+        {
+          "code": "F66.0",
+          "kind": "category",
+          "label": "Sexuelle Reifungskrise",
+          "rubrics": {
+            "preferred": "Sexuelle Reifungskrise",
+            "definition": "Die betroffene Person leidet unter einer Unsicherheit hinsichtlich ihrer Geschlechtsidentität oder sexuellen Orientierung, mit Ängsten oder Depressionen. Meist kommt dies bei Heranwachsenden vor, die sich hinsichtlich ihrer homo-, hetero- oder bisexuellen Orientierung nicht sicher sind; oder bei Menschen, die nach einer Zeit scheinbar stabiler sexueller Orientierung, oftmals in einer lange dauernden Beziehung, die Erfahrung machen, dass sich ihre sexuelle Orientierung ändert."
+          },
+          "children": []
+        },
+        {
+          "code": "F66.1",
+          "kind": "category",
+          "label": "Ichdystone Sexualorientierung",
+          "rubrics": {
+            "preferred": "Ichdystone Sexualorientierung",
+            "definition": "Die Geschlechtsidentität oder sexuelle Ausrichtung (heterosexuell, homosexuell, bisexuell oder präpubertär) ist eindeutig, aber die betroffene Person hat den Wunsch, dass diese wegen begleitender psychischer oder Verhaltensstörungen anders wäre und unterzieht sich möglicherweise einer Behandlung, um diese zu ändern."
+          },
+          "children": []
+        },
+        {
+          "code": "F66.2",
+          "kind": "category",
+          "label": "Sexuelle Beziehungsstörung",
+          "rubrics": {
+            "preferred": "Sexuelle Beziehungsstörung",
+            "definition": "Die Geschlechtsidentität oder sexuelle Orientierung (heterosexuell, homosexuell oder bisexuell) bereitet bei der Aufnahme oder Aufrechterhaltung einer Beziehung mit einem Sexualpartner Probleme."
+          },
+          "children": []
+        },
+        {
+          "code": "F66.8",
+          "kind": "category",
+          "label": "Sonstige psychische und Verhaltensstörungen in Verbindung mit der sexuellen Entwicklung und Orientierung",
+          "rubrics": {
+            "preferred": "Sonstige psychische und Verhaltensstörungen in Verbindung mit der sexuellen Entwicklung und Orientierung"
+          },
+          "children": []
+        },
+        {
+          "code": "F66.9",
+          "kind": "category",
+          "label": "Psychische und Verhaltensstörung in Verbindung mit der sexuellen Entwicklung und Orientierung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Psychische und Verhaltensstörung in Verbindung mit der sexuellen Entwicklung und Orientierung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F68",
+      "kind": "category",
+      "label": "Andere Persönlichkeits- und Verhaltensstörungen",
+      "rubrics": {
+        "preferred": "Andere Persönlichkeits- und Verhaltensstörungen"
+      },
+      "children": [
+        {
+          "code": "F68.0",
+          "kind": "category",
+          "label": "Entwicklung körperlicher Symptome aus psychischen Gründen",
+          "rubrics": {
+            "preferred": "Entwicklung körperlicher Symptome aus psychischen Gründen",
+            "definition": "Körperliche Symptome, vereinbar mit und ursprünglich verursacht durch eine belegbare körperliche Störung, Krankheit oder Behinderung werden wegen des psychischen Zustandes der betroffenen Person aggraviert oder halten länger an. Der betroffene Patient ist meist durch die Schmerzen oder die Behinderung beeinträchtigt; sie wird beherrscht von mitunter berechtigten Sorgen über längerdauernde oder zunehmende Behinderung oder Schmerzen.",
+            "inclusion": "Rentenneurose"
+          },
+          "children": []
+        },
+        {
+          "code": "F68.1",
+          "kind": "category",
+          "label": "Artifizielle Störung [absichtliches Erzeugen oder Vortäuschen von körperlichen oder psychischen Symptomen oder Behinderungen]",
+          "rubrics": {
+            "preferred": "Artifizielle Störung [absichtliches Erzeugen oder Vortäuschen von körperlichen oder psychischen Symptomen oder Behinderungen]",
+            "definition": "Der betroffene Patient täuscht Symptome wiederholt ohne einleuchtenden Grund vor und kann sich sogar, um Symptome oder klinische Zeichen hervorzurufen, absichtlich selbst beschädigen. Die Motivation ist unklar, vermutlich besteht das Ziel, die Krankenrolle einzunehmen. Die Störung ist oft mit deutlichen Persönlichkeits- und Beziehungsstörungen kombiniert.",
+            "inclusion": "Münchhausen-Syndrom",
+            "exclusion": "Vortäuschung von Krankheit (mit offensichtlicher Motivation)Z76.8"
+          },
+          "children": []
+        },
+        {
+          "code": "F68.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Persönlichkeits- und Verhaltensstörungen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Persönlichkeits- und Verhaltensstörungen",
+            "inclusion": "Störung zwischenmenschlicher Beziehung o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "F69",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Persönlichkeits- und Verhaltensstörung",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Persönlichkeits- und Verhaltensstörung"
+      },
+      "children": []
+    }
+  ]
+}

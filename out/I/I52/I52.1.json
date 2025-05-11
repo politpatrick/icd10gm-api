@@ -1,0 +1,10 @@
+{
+  "code": "I52.1",
+  "kind": "category",
+  "label": "Sonstige Herzkrankheiten bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+  "rubrics": {
+    "preferred": "Sonstige Herzkrankheiten bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+    "inclusion": "Pulmonale Herzkrankheit bei SchistosomiasisB65.-"
+  },
+  "children": []
+}

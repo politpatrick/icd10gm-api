@@ -1,0 +1,11 @@
+{
+  "code": "L08.0",
+  "kind": "category",
+  "label": "Pyodermie",
+  "rubrics": {
+    "preferred": "Pyodermie",
+    "inclusion": "Dermatitis:\n\t\t\t\tsuppurativa",
+    "exclusion": "Pyoderma gangraenosumL88"
+  },
+  "children": []
+}

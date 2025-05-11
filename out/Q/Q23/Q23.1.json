@@ -1,0 +1,10 @@
+{
+  "code": "Q23.1",
+  "kind": "category",
+  "label": "Angeborene Aortenklappeninsuffizienz",
+  "rubrics": {
+    "preferred": "Angeborene Aortenklappeninsuffizienz",
+    "inclusion": "Bikuspidale Aortenklappe"
+  },
+  "children": []
+}

@@ -1,0 +1,39 @@
+{
+  "code": "P51",
+  "kind": "category",
+  "label": "Nabelblutung beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Nabelblutung beim Neugeborenen",
+    "exclusion": "Omphalitis mit leichter BlutungP38"
+  },
+  "children": [
+    {
+      "code": "P51.0",
+      "kind": "category",
+      "label": "Massive Nabelblutung beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Massive Nabelblutung beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P51.8",
+      "kind": "category",
+      "label": "Sonstige Nabelblutungen beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige Nabelblutungen beim Neugeborenen",
+        "inclusion": "Sichlösen einer Nabelschnurligatur o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "P51.9",
+      "kind": "category",
+      "label": "Nabelblutung beim Neugeborenen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Nabelblutung beim Neugeborenen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

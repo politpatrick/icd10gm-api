@@ -1,0 +1,10 @@
+{
+  "code": "T11.01",
+  "kind": "category",
+  "label": "Schürfwunde",
+  "rubrics": {
+    "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Schürfwunde",
+    "preferred": "Schürfwunde"
+  },
+  "children": []
+}

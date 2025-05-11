@@ -1,0 +1,10 @@
+{
+  "code": "D41.2",
+  "kind": "category",
+  "label": "Ureter",
+  "rubrics": {
+    "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Ureter",
+    "preferred": "Ureter"
+  },
+  "children": []
+}

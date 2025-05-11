@@ -1,0 +1,51 @@
+{
+  "code": "F05",
+  "kind": "category",
+  "label": "Delir, nicht durch Alkohol oder andere psychotrope Substanzen bedingt",
+  "rubrics": {
+    "preferred": "Delir, nicht durch Alkohol oder andere psychotrope Substanzen bedingt",
+    "definition": "Ein ätiologisch unspezifisches hirnorganisches Syndrom, das charakterisiert ist durch gleichzeitig bestehende Störungen des Bewusstseins einerseits und mindestens zwei der nachfolgend genannten Störungen andererseits: Störungen der Aufmerksamkeit, der Wahrnehmung, des Denkens, des Gedächtnisses, der Psychomotorik, der Emotionalität oder des Schlaf-Wach-Rhythmus. Die Dauer ist sehr unterschiedlich und der Schweregrad reicht von leicht bis zu sehr schwer.",
+    "inclusion": "Akut oder subakut:\n\t\t\t\tVerwirrtheitszustand (nicht alkoholbedingt)",
+    "exclusion": "Delirium tremens, alkoholbedingt oder nicht näher bezeichnetF10.4"
+  },
+  "children": [
+    {
+      "code": "F05.0",
+      "kind": "category",
+      "label": "Delir ohne Demenz",
+      "rubrics": {
+        "preferred": "Delir ohne Demenz"
+      },
+      "children": []
+    },
+    {
+      "code": "F05.1",
+      "kind": "category",
+      "label": "Delir bei Demenz",
+      "rubrics": {
+        "preferred": "Delir bei Demenz",
+        "coding-hint": "Soll die Art der Demenz angegeben werden, ist eine zusätzliche Schlüsselnummer zu verwenden."
+      },
+      "children": []
+    },
+    {
+      "code": "F05.8",
+      "kind": "category",
+      "label": "Sonstige Formen des Delirs",
+      "rubrics": {
+        "preferred": "Sonstige Formen des Delirs",
+        "inclusion": "Postoperatives Delir"
+      },
+      "children": []
+    },
+    {
+      "code": "F05.9",
+      "kind": "category",
+      "label": "Delir, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Delir, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

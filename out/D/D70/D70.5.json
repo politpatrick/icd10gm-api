@@ -1,0 +1,10 @@
+{
+  "code": "D70.5",
+  "kind": "category",
+  "label": "Zyklische Neutropenie",
+  "rubrics": {
+    "preferred": "Zyklische Neutropenie",
+    "inclusion": "Periodische Neutropenie"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "I70.22",
+  "kind": "category",
+  "label": "Becken-Bein-Typ, mit belastungsinduziertem Ischämieschmerz, Gehstrecke weniger als 200 m",
+  "rubrics": {
+    "preferredLong": "Atherosklerose der Extremitätenarterien: Becken-Bein-Typ, mit belastungsinduziertem Ischämieschmerz, Gehstrecke weniger als 200 m",
+    "preferred": "Becken-Bein-Typ, mit belastungsinduziertem Ischämieschmerz, Gehstrecke weniger als 200 m",
+    "inclusion": "Stadium IIb nach Fontaine"
+  },
+  "children": []
+}

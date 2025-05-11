@@ -1,0 +1,119 @@
+{
+  "code": "B00",
+  "kind": "category",
+  "label": "Infektionen durch Herpesviren [Herpes simplex]",
+  "rubrics": {
+    "preferred": "Infektionen durch Herpesviren [Herpes simplex]",
+    "exclusion": "Mononukleose durch Gamma-HerpesvirenB27.0"
+  },
+  "children": [
+    {
+      "code": "B00.0",
+      "kind": "category",
+      "label": "Ekzema herpeticatum Kaposi",
+      "rubrics": {
+        "preferred": "Ekzema herpeticatum Kaposi",
+        "inclusion": "Varizelliforme Eruption Kaposi"
+      },
+      "children": []
+    },
+    {
+      "code": "B00.1",
+      "kind": "category",
+      "label": "Dermatitis vesicularis durch Herpesviren",
+      "rubrics": {
+        "preferred": "Dermatitis vesicularis durch Herpesviren",
+        "inclusion": "Herpes simplex:\n\t\t\t\tlabialis"
+      },
+      "children": []
+    },
+    {
+      "code": "B00.2",
+      "kind": "category",
+      "label": "Gingivostomatitis herpetica und Pharyngotonsillitis herpetica",
+      "rubrics": {
+        "preferred": "Gingivostomatitis herpetica und Pharyngotonsillitis herpetica",
+        "inclusion": "Pharyngitis durch Herpesviren"
+      },
+      "children": []
+    },
+    {
+      "code": "B00.3",
+      "kind": "category",
+      "label": "Meningitis durch HerpesvirenG02.0",
+      "rubrics": {
+        "preferred": "Meningitis durch HerpesvirenG02.0"
+      },
+      "children": []
+    },
+    {
+      "code": "B00.4",
+      "kind": "category",
+      "label": "Enzephalitis durch HerpesvirenG05.1",
+      "rubrics": {
+        "preferred": "Enzephalitis durch HerpesvirenG05.1",
+        "inclusion": "Meningoenzephalitis durch Herpesviren"
+      },
+      "children": []
+    },
+    {
+      "code": "B00.5",
+      "kind": "category",
+      "label": "Augenkrankheit durch Herpesviren",
+      "rubrics": {
+        "preferred": "Augenkrankheit durch Herpesviren",
+        "inclusion": "Uveitis anteriorH22.0\n\t\t\t\tdurch Herpesviren"
+      },
+      "children": []
+    },
+    {
+      "code": "B00.7",
+      "kind": "category",
+      "label": "Disseminierte Herpesvirus-Krankheit",
+      "rubrics": {
+        "preferred": "Disseminierte Herpesvirus-Krankheit"
+      },
+      "children": [
+        {
+          "code": "B00.70",
+          "kind": "category",
+          "label": "Sepsis durch Herpesviren",
+          "rubrics": {
+            "preferred": "Sepsis durch Herpesviren",
+            "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.80!-U69.82, um den zeitlichen Bezug der Sepsis zur stationären Krankenhausaufnahme anzugeben."
+          },
+          "children": []
+        },
+        {
+          "code": "B00.78",
+          "kind": "category",
+          "label": "Sonstige disseminierte Herpesvirus-Krankheit",
+          "rubrics": {
+            "preferred": "Sonstige disseminierte Herpesvirus-Krankheit"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B00.8",
+      "kind": "category",
+      "label": "Sonstige Infektionsformen durch Herpesviren",
+      "rubrics": {
+        "preferred": "Sonstige Infektionsformen durch Herpesviren",
+        "inclusion": "Panaritium durch HerpesvirenL99.8"
+      },
+      "children": []
+    },
+    {
+      "code": "B00.9",
+      "kind": "category",
+      "label": "Infektion durch Herpesviren, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Infektion durch Herpesviren, nicht näher bezeichnet",
+        "inclusion": "Infektion durch Herpes-simplex-Virus o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

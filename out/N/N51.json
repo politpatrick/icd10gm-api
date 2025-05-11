@@ -1,0 +1,50 @@
+{
+  "code": "N51",
+  "kind": "category",
+  "label": "Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "N51.0",
+      "kind": "category",
+      "label": "Krankheiten der Prostata bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten der Prostata bei anderenorts klassifizierten Krankheiten",
+        "inclusion": "Prostatitis:\n\t\t\t\ttuberkulösA18.1"
+      },
+      "children": []
+    },
+    {
+      "code": "N51.1",
+      "kind": "category",
+      "label": "Krankheiten des Hodens und des Nebenhodens bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten des Hodens und des Nebenhodens bei anderenorts klassifizierten Krankheiten",
+        "inclusion": "Tuberkulose:\n\t\t\t\tNebenhodenA18.1"
+      },
+      "children": []
+    },
+    {
+      "code": "N51.2",
+      "kind": "category",
+      "label": "Balanitis bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Balanitis bei anderenorts klassifizierten Krankheiten",
+        "inclusion": "Balanitis:\n\t\t\t\tdurch CandidaB37.4"
+      },
+      "children": []
+    },
+    {
+      "code": "N51.8",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten",
+        "inclusion": "Tuberkulose der Vesicula seminalisA18.1"
+      },
+      "children": []
+    }
+  ]
+}

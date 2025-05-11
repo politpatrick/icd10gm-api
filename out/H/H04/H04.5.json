@@ -1,0 +1,10 @@
+{
+  "code": "H04.5",
+  "kind": "category",
+  "label": "Stenose und Insuffizienz der Tränenwege",
+  "rubrics": {
+    "preferred": "Stenose und Insuffizienz der Tränenwege",
+    "inclusion": "Stenose:\n\t\t\t\tTränensack"
+  },
+  "children": []
+}

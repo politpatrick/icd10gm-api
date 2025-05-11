@@ -1,0 +1,10 @@
+{
+  "code": "K63.2",
+  "kind": "category",
+  "label": "Darmfistel",
+  "rubrics": {
+    "preferred": "Darmfistel",
+    "exclusion": "Fistel:\n\t\t\t\tvesikointestinalN32.1"
+  },
+  "children": []
+}

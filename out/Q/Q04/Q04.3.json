@@ -1,0 +1,11 @@
+{
+  "code": "Q04.3",
+  "kind": "category",
+  "label": "Sonstige Reduktionsdeformitäten des Gehirns",
+  "rubrics": {
+    "preferred": "Sonstige Reduktionsdeformitäten des Gehirns",
+    "inclusion": "Pachygyrie",
+    "exclusion": "Angeborene Fehlbildungen des Corpus callosumQ04.0"
+  },
+  "children": []
+}

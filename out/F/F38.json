@@ -1,0 +1,40 @@
+{
+  "code": "F38",
+  "kind": "category",
+  "label": "Andere affektive Störungen",
+  "rubrics": {
+    "preferred": "Andere affektive Störungen",
+    "definition": "Hierbei handelt es sich um eine Restkategorie für Stimmungsstörungen, die die Kriterien der oben genannten Kategorien F30-F34 in Bezug auf Ausprägung und Dauer nicht erfüllen."
+  },
+  "children": [
+    {
+      "code": "F38.0",
+      "kind": "category",
+      "label": "Andere einzelne affektive Störungen",
+      "rubrics": {
+        "preferred": "Andere einzelne affektive Störungen",
+        "inclusion": "Gemischte affektive Episode"
+      },
+      "children": []
+    },
+    {
+      "code": "F38.1",
+      "kind": "category",
+      "label": "Andere rezidivierende affektive Störungen",
+      "rubrics": {
+        "preferred": "Andere rezidivierende affektive Störungen",
+        "inclusion": "Rezidivierende kurze depressive Episoden"
+      },
+      "children": []
+    },
+    {
+      "code": "F38.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete affektive Störungen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete affektive Störungen"
+      },
+      "children": []
+    }
+  ]
+}

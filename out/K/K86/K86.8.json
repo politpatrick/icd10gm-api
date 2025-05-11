@@ -1,0 +1,66 @@
+{
+  "code": "K86.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Krankheiten des Pankreas",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Krankheiten des Pankreas"
+  },
+  "children": [
+    {
+      "code": "K86.80",
+      "kind": "category",
+      "label": "Pankreasgangstein ohne Pankreasgangstenose",
+      "rubrics": {
+        "preferred": "Pankreasgangstein ohne Pankreasgangstenose"
+      },
+      "children": []
+    },
+    {
+      "code": "K86.81",
+      "kind": "category",
+      "label": "Pankreasgangstein mit Pankreasgangstenose",
+      "rubrics": {
+        "preferred": "Pankreasgangstein mit Pankreasgangstenose"
+      },
+      "children": []
+    },
+    {
+      "code": "K86.82",
+      "kind": "category",
+      "label": "Sonstige Pankreasgangstenose",
+      "rubrics": {
+        "preferred": "Sonstige Pankreasgangstenose",
+        "inclusion": "Pankreasgangstenose o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "K86.83",
+      "kind": "category",
+      "label": "Exokrine Pankreasinsuffizienz",
+      "rubrics": {
+        "preferred": "Exokrine Pankreasinsuffizienz"
+      },
+      "children": []
+    },
+    {
+      "code": "K86.84",
+      "kind": "category",
+      "label": "Pankreatoduodenale Fistel",
+      "rubrics": {
+        "preferred": "Pankreatoduodenale Fistel"
+      },
+      "children": []
+    },
+    {
+      "code": "K86.88",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Pankreas",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Pankreas",
+        "inclusion": "Pankreasnekrose:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    }
+  ]
+}

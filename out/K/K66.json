@@ -1,0 +1,61 @@
+{
+  "code": "K66",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Peritoneums",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Peritoneums",
+    "exclusion": "AszitesR18"
+  },
+  "children": [
+    {
+      "code": "K66.0",
+      "kind": "category",
+      "label": "Peritoneale Adhäsionen",
+      "rubrics": {
+        "preferred": "Peritoneale Adhäsionen",
+        "inclusion": "Adhäsionsstränge",
+        "exclusion": "Adhäsionen [Briden]:\n\t\t\t\tweibliches BeckenN73.6"
+      },
+      "children": []
+    },
+    {
+      "code": "K66.1",
+      "kind": "category",
+      "label": "Hämoperitoneum",
+      "rubrics": {
+        "preferred": "Hämoperitoneum",
+        "exclusion": "Traumatisch bedingtes HämoperitoneumS36.81"
+      },
+      "children": []
+    },
+    {
+      "code": "K66.2",
+      "kind": "category",
+      "label": "Retroperitonealfibrose",
+      "rubrics": {
+        "preferred": "Retroperitonealfibrose",
+        "inclusion": "Morbus Ormond"
+      },
+      "children": []
+    },
+    {
+      "code": "K66.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Peritoneums",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Peritoneums",
+        "inclusion": "Mesenterialzyste"
+      },
+      "children": []
+    },
+    {
+      "code": "K66.9",
+      "kind": "category",
+      "label": "Krankheit des Peritoneums, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit des Peritoneums, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

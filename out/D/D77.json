@@ -1,0 +1,10 @@
+{
+  "code": "D77",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Blutes und der blutbildenden Organe bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Blutes und der blutbildenden Organe bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Fibrose der Milz bei Schistosomiasis [Bilharziose]B65.-"
+  },
+  "children": []
+}

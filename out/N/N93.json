@@ -1,0 +1,39 @@
+{
+  "code": "N93",
+  "kind": "category",
+  "label": "Sonstige abnorme Uterus- oder Vaginalblutung",
+  "rubrics": {
+    "preferred": "Sonstige abnorme Uterus- oder Vaginalblutung",
+    "exclusion": "PseudomenstruationP54.6"
+  },
+  "children": [
+    {
+      "code": "N93.0",
+      "kind": "category",
+      "label": "Postkoitale Blutung und Kontaktblutung",
+      "rubrics": {
+        "preferred": "Postkoitale Blutung und Kontaktblutung"
+      },
+      "children": []
+    },
+    {
+      "code": "N93.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete abnorme Uterus- oder Vaginalblutung",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete abnorme Uterus- oder Vaginalblutung",
+        "inclusion": "Dysfunktionelle oder funktionelle Uterus- oder Vaginalblutung o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "N93.9",
+      "kind": "category",
+      "label": "Abnorme Uterus- oder Vaginalblutung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Abnorme Uterus- oder Vaginalblutung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

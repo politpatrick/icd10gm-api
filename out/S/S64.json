@@ -1,0 +1,82 @@
+{
+  "code": "S64",
+  "kind": "category",
+  "label": "Verletzung von Nerven in Höhe des Handgelenkes und der Hand",
+  "rubrics": {
+    "preferred": "Verletzung von Nerven in Höhe des Handgelenkes und der Hand"
+  },
+  "children": [
+    {
+      "code": "S64.0",
+      "kind": "category",
+      "label": "Verletzung des N. ulnaris in Höhe des Handgelenkes und der Hand",
+      "rubrics": {
+        "preferred": "Verletzung des N. ulnaris in Höhe des Handgelenkes und der Hand"
+      },
+      "children": []
+    },
+    {
+      "code": "S64.1",
+      "kind": "category",
+      "label": "Verletzung des N. medianus in Höhe des Handgelenkes und der Hand",
+      "rubrics": {
+        "preferred": "Verletzung des N. medianus in Höhe des Handgelenkes und der Hand"
+      },
+      "children": []
+    },
+    {
+      "code": "S64.2",
+      "kind": "category",
+      "label": "Verletzung des N. radialis in Höhe des Handgelenkes und der Hand",
+      "rubrics": {
+        "preferred": "Verletzung des N. radialis in Höhe des Handgelenkes und der Hand"
+      },
+      "children": []
+    },
+    {
+      "code": "S64.3",
+      "kind": "category",
+      "label": "Verletzung der Nn. digitales des Daumens",
+      "rubrics": {
+        "preferred": "Verletzung der Nn. digitales des Daumens"
+      },
+      "children": []
+    },
+    {
+      "code": "S64.4",
+      "kind": "category",
+      "label": "Verletzung der Nn. digitales sonstiger Finger",
+      "rubrics": {
+        "preferred": "Verletzung der Nn. digitales sonstiger Finger"
+      },
+      "children": []
+    },
+    {
+      "code": "S64.7",
+      "kind": "category",
+      "label": "Verletzung mehrerer Nerven in Höhe des Handgelenkes und der Hand",
+      "rubrics": {
+        "preferred": "Verletzung mehrerer Nerven in Höhe des Handgelenkes und der Hand"
+      },
+      "children": []
+    },
+    {
+      "code": "S64.8",
+      "kind": "category",
+      "label": "Verletzung sonstiger Nerven in Höhe des Handgelenkes und der Hand",
+      "rubrics": {
+        "preferred": "Verletzung sonstiger Nerven in Höhe des Handgelenkes und der Hand"
+      },
+      "children": []
+    },
+    {
+      "code": "S64.9",
+      "kind": "category",
+      "label": "Verletzung eines nicht näher bezeichneten Nervs in Höhe des Handgelenkes und der Hand",
+      "rubrics": {
+        "preferred": "Verletzung eines nicht näher bezeichneten Nervs in Höhe des Handgelenkes und der Hand"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D16.2",
+  "kind": "category",
+  "label": "Lange Knochen der unteren Extremität",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung des Knochens und des Gelenkknorpels: Lange Knochen der unteren Extremität",
+    "preferred": "Lange Knochen der unteren Extremität"
+  },
+  "children": []
+}

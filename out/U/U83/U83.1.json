@@ -1,0 +1,10 @@
+{
+  "code": "U83.1",
+  "kind": "category",
+  "label": "Candida glabrata mit Resistenz gegen Echinocandine",
+  "rubrics": {
+    "preferred": "Candida glabrata mit Resistenz gegen Echinocandine",
+    "inclusion": "Candida glabrata mit Resistenz gegen Caspofungin, Micafungin oder Anidulafungin"
+  },
+  "children": []
+}

@@ -1,0 +1,90 @@
+{
+  "code": "E05",
+  "kind": "category",
+  "label": "Hyperthyreose [Thyreotoxikose]",
+  "rubrics": {
+    "preferred": "Hyperthyreose [Thyreotoxikose]",
+    "inclusion": "Hyperthyreote [thyreotoxische]:\n\t\t\t\tHerzkrankheitI43.8",
+    "exclusion": "Hyperthyreose beim NeugeborenenP72.1"
+  },
+  "children": [
+    {
+      "code": "E05.0",
+      "kind": "category",
+      "label": "Hyperthyreose mit diffuser Struma",
+      "rubrics": {
+        "preferred": "Hyperthyreose mit diffuser Struma",
+        "inclusion": "Toxische Struma o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "E05.1",
+      "kind": "category",
+      "label": "Hyperthyreose mit toxischem solitärem Schilddrüsenknoten",
+      "rubrics": {
+        "preferred": "Hyperthyreose mit toxischem solitärem Schilddrüsenknoten",
+        "inclusion": "Hyperthyreose mit toxischer einknotiger Struma"
+      },
+      "children": []
+    },
+    {
+      "code": "E05.2",
+      "kind": "category",
+      "label": "Hyperthyreose mit toxischer mehrknotiger Struma",
+      "rubrics": {
+        "preferred": "Hyperthyreose mit toxischer mehrknotiger Struma",
+        "inclusion": "Toxische Struma nodosa o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "E05.3",
+      "kind": "category",
+      "label": "Hyperthyreose durch ektopisches Schilddrüsengewebe",
+      "rubrics": {
+        "preferred": "Hyperthyreose durch ektopisches Schilddrüsengewebe"
+      },
+      "children": []
+    },
+    {
+      "code": "E05.4",
+      "kind": "category",
+      "label": "Hyperthyreosis factitia",
+      "rubrics": {
+        "preferred": "Hyperthyreosis factitia"
+      },
+      "children": []
+    },
+    {
+      "code": "E05.5",
+      "kind": "category",
+      "label": "Thyreotoxische Krise",
+      "rubrics": {
+        "preferred": "Thyreotoxische Krise"
+      },
+      "children": []
+    },
+    {
+      "code": "E05.8",
+      "kind": "category",
+      "label": "Sonstige Hyperthyreose",
+      "rubrics": {
+        "preferred": "Sonstige Hyperthyreose",
+        "inclusion": "Überproduktion von Thyreotropin",
+        "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "E05.9",
+      "kind": "category",
+      "label": "Hyperthyreose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hyperthyreose, nicht näher bezeichnet",
+        "inclusion": "Hyperthyreose o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "code": "A42",
+  "kind": "category",
+  "label": "Aktinomykose",
+  "rubrics": {
+    "preferred": "Aktinomykose",
+    "exclusion": "AktinomyzetomB47.1"
+  },
+  "children": [
+    {
+      "code": "A42.0",
+      "kind": "category",
+      "label": "Aktinomykose der Lunge",
+      "rubrics": {
+        "preferred": "Aktinomykose der Lunge"
+      },
+      "children": []
+    },
+    {
+      "code": "A42.1",
+      "kind": "category",
+      "label": "Abdominale Aktinomykose",
+      "rubrics": {
+        "preferred": "Abdominale Aktinomykose"
+      },
+      "children": []
+    },
+    {
+      "code": "A42.2",
+      "kind": "category",
+      "label": "Zervikofaziale Aktinomykose",
+      "rubrics": {
+        "preferred": "Zervikofaziale Aktinomykose"
+      },
+      "children": []
+    },
+    {
+      "code": "A42.7",
+      "kind": "category",
+      "label": "Aktinomykotische Sepsis",
+      "rubrics": {
+        "preferred": "Aktinomykotische Sepsis",
+        "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.80!-U69.82, um den zeitlichen Bezug der Sepsis zur stationären Krankenhausaufnahme anzugeben."
+      },
+      "children": []
+    },
+    {
+      "code": "A42.8",
+      "kind": "category",
+      "label": "Sonstige Formen der Aktinomykose",
+      "rubrics": {
+        "preferred": "Sonstige Formen der Aktinomykose"
+      },
+      "children": []
+    },
+    {
+      "code": "A42.9",
+      "kind": "category",
+      "label": "Aktinomykose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Aktinomykose, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "code": "Q75",
+  "kind": "category",
+  "label": "Sonstige angeborene Fehlbildungen der Schädel- und Gesichtsschädelknochen",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungen der Schädel- und Gesichtsschädelknochen",
+    "exclusion": "Schädeldefekte in Verbindung mit angeborenen Gehirnanomalien, wie z.B.:\n\t\t\t\tMikrozephalieQ02"
+  },
+  "children": [
+    {
+      "code": "Q75.0",
+      "kind": "category",
+      "label": "Kraniosynostose",
+      "rubrics": {
+        "preferred": "Kraniosynostose",
+        "inclusion": "Unvollständige Verschmelzung von Schädelknochen"
+      },
+      "children": []
+    },
+    {
+      "code": "Q75.1",
+      "kind": "category",
+      "label": "Dysostosis craniofacialis",
+      "rubrics": {
+        "preferred": "Dysostosis craniofacialis",
+        "inclusion": "Crouzon-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "Q75.2",
+      "kind": "category",
+      "label": "Hypertelorismus",
+      "rubrics": {
+        "preferred": "Hypertelorismus"
+      },
+      "children": []
+    },
+    {
+      "code": "Q75.3",
+      "kind": "category",
+      "label": "Makrozephalie",
+      "rubrics": {
+        "preferred": "Makrozephalie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q75.4",
+      "kind": "category",
+      "label": "Dysostosis mandibulofacialis",
+      "rubrics": {
+        "preferred": "Dysostosis mandibulofacialis",
+        "inclusion": "Franceschetti-I-Syndrom [(Treacher-) Collins-Syndrom]"
+      },
+      "children": []
+    },
+    {
+      "code": "Q75.5",
+      "kind": "category",
+      "label": "Okulo-mandibulo-faziales Syndrom",
+      "rubrics": {
+        "preferred": "Okulo-mandibulo-faziales Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "Q75.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete angeborene Fehlbildungen der Schädel- und Gesichtsschädelknochen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen der Schädel- und Gesichtsschädelknochen",
+        "inclusion": "Platybasie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q75.9",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung der Schädel- und Gesichtsschädelknochen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung der Schädel- und Gesichtsschädelknochen, nicht näher bezeichnet",
+        "inclusion": "Angeborene Anomalie:\n\t\t\t\tSchädel o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

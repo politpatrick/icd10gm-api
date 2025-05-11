@@ -1,0 +1,10 @@
+{
+  "code": "Q21.1",
+  "kind": "category",
+  "label": "Vorhofseptumdefekt",
+  "rubrics": {
+    "preferred": "Vorhofseptumdefekt",
+    "inclusion": "Sinus-venosus-Defekt"
+  },
+  "children": []
+}

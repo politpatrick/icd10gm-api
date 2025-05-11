@@ -1,0 +1,38 @@
+{
+  "code": "U69.2",
+  "kind": "category",
+  "label": "Sekundäre Schlüsselnummern für besondere epidemiologische Zwecke",
+  "rubrics": {
+    "preferred": "Sekundäre Schlüsselnummern für besondere epidemiologische Zwecke",
+    "definition": "Die Schlüsselnummern U69.22!, U69.23! und U69.24! dieser Kategorie dienen der Differenzierung von Influenzaviren in porcine, aviäre und sonstige Viren bei Grippe durch zoonotische oder pandemische nachgewiesene Influenzaviren (J09) bei besonderen epidemiologischen Ereignissen. Das BfArM wird eine Einschränkung des Anwendungszeitraums der Schlüsselnummern bei Bedarf bekannt geben."
+  },
+  "children": [
+    {
+      "code": "U69.22",
+      "kind": "category",
+      "label": "Porcines Influenza-Virus, nachgewiesen",
+      "rubrics": {
+        "preferred": "Porcines Influenza-Virus, nachgewiesen"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.23",
+      "kind": "category",
+      "label": "Aviäres Influenza-Virus, nachgewiesen",
+      "rubrics": {
+        "preferred": "Aviäres Influenza-Virus, nachgewiesen"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.24",
+      "kind": "category",
+      "label": "Sonstiges Influenza-Virus, nachgewiesen",
+      "rubrics": {
+        "preferred": "Sonstiges Influenza-Virus, nachgewiesen"
+      },
+      "children": []
+    }
+  ]
+}

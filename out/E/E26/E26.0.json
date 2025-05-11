@@ -1,0 +1,10 @@
+{
+  "code": "E26.0",
+  "kind": "category",
+  "label": "Primärer Hyperaldosteronismus",
+  "rubrics": {
+    "preferred": "Primärer Hyperaldosteronismus",
+    "inclusion": "Primärer Aldosteronismus durch Nebennierenrindenhyperplasie (beidseitig)"
+  },
+  "children": []
+}

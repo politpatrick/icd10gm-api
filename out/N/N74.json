@@ -1,0 +1,65 @@
+{
+  "code": "N74",
+  "kind": "category",
+  "label": "Entzündung im weiblichen Becken bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Entzündung im weiblichen Becken bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "N74.0",
+      "kind": "category",
+      "label": "Tuberkulöse Infektion der Cervix uteriA18.1",
+      "rubrics": {
+        "preferred": "Tuberkulöse Infektion der Cervix uteriA18.1"
+      },
+      "children": []
+    },
+    {
+      "code": "N74.1",
+      "kind": "category",
+      "label": "Tuberkulöse Entzündung im weiblichen BeckenA18.1",
+      "rubrics": {
+        "preferred": "Tuberkulöse Entzündung im weiblichen BeckenA18.1",
+        "inclusion": "Tuberkulöse Endometritis"
+      },
+      "children": []
+    },
+    {
+      "code": "N74.2",
+      "kind": "category",
+      "label": "Syphilitische Entzündung im weiblichen BeckenA51.4A52.7",
+      "rubrics": {
+        "preferred": "Syphilitische Entzündung im weiblichen BeckenA51.4A52.7"
+      },
+      "children": []
+    },
+    {
+      "code": "N74.3",
+      "kind": "category",
+      "label": "Entzündung im weiblichen Becken durch GonokokkenA54.2",
+      "rubrics": {
+        "preferred": "Entzündung im weiblichen Becken durch GonokokkenA54.2"
+      },
+      "children": []
+    },
+    {
+      "code": "N74.4",
+      "kind": "category",
+      "label": "Entzündung im weiblichen Becken durch ChlamydienA56.1",
+      "rubrics": {
+        "preferred": "Entzündung im weiblichen Becken durch ChlamydienA56.1"
+      },
+      "children": []
+    },
+    {
+      "code": "N74.8",
+      "kind": "category",
+      "label": "Entzündung im weiblichen Becken bei sonstigen anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Entzündung im weiblichen Becken bei sonstigen anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

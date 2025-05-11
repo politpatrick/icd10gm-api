@@ -1,0 +1,10 @@
+{
+  "code": "H60.1",
+  "kind": "category",
+  "label": "Phlegmone des äußeren Ohres",
+  "rubrics": {
+    "preferred": "Phlegmone des äußeren Ohres",
+    "inclusion": "Phlegmone:\n\t\t\t\tOhrmuschel"
+  },
+  "children": []
+}

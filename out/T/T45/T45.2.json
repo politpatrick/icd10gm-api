@@ -1,0 +1,11 @@
+{
+  "code": "T45.2",
+  "kind": "category",
+  "label": "Vitamine, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Vitamine, anderenorts nicht klassifiziert",
+    "preferred": "Vitamine, anderenorts nicht klassifiziert",
+    "exclusion": "Vitamin KT45.7"
+  },
+  "children": []
+}

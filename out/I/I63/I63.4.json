@@ -1,0 +1,10 @@
+{
+  "code": "I63.4",
+  "kind": "category",
+  "label": "Hirninfarkt durch Embolie zerebraler Arterien",
+  "rubrics": {
+    "preferred": "Hirninfarkt durch Embolie zerebraler Arterien",
+    "inclusion": "A. cerebri media, A. cerebri anterior, A. cerebri posterior und Aa. cerebelli"
+  },
+  "children": []
+}

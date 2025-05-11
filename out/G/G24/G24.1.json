@@ -1,0 +1,10 @@
+{
+  "code": "G24.1",
+  "kind": "category",
+  "label": "Idiopathische familiäre Dystonie",
+  "rubrics": {
+    "preferred": "Idiopathische familiäre Dystonie",
+    "inclusion": "Idiopathische Dystonie o.n.A."
+  },
+  "children": []
+}

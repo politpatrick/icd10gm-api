@@ -1,0 +1,11 @@
+{
+  "code": "M51.1",
+  "kind": "category",
+  "label": "Lumbale und sonstige Bandscheibenschäden mit RadikulopathieG55.1",
+  "rubrics": {
+    "preferred": "Lumbale und sonstige Bandscheibenschäden mit RadikulopathieG55.1",
+    "inclusion": "Ischialgie durch Bandscheibenschaden",
+    "exclusion": "Lumbale Radikulitis o.n.A.M54.16"
+  },
+  "children": []
+}

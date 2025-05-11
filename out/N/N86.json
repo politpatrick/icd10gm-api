@@ -1,0 +1,11 @@
+{
+  "code": "N86",
+  "kind": "category",
+  "label": "Erosion und Ektropium der Cervix uteri",
+  "rubrics": {
+    "preferred": "Erosion und Ektropium der Cervix uteri",
+    "inclusion": "Eversion\n\t\t\t\tZervix",
+    "exclusion": "Mit ZervizitisN72"
+  },
+  "children": []
+}

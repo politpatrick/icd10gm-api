@@ -1,0 +1,47 @@
+{
+  "code": "D60",
+  "kind": "category",
+  "label": "Erworbene isolierte aplastische Anämie [Erythroblastopenie] [pure red cell aplasia]",
+  "rubrics": {
+    "preferred": "Erworbene isolierte aplastische Anämie [Erythroblastopenie] [pure red cell aplasia]",
+    "inclusion": "Isolierte aplastische Anämie (erworben) (beim Erwachsenen) (bei Thymom)"
+  },
+  "children": [
+    {
+      "code": "D60.0",
+      "kind": "category",
+      "label": "Chronische erworbene isolierte aplastische Anämie",
+      "rubrics": {
+        "preferred": "Chronische erworbene isolierte aplastische Anämie"
+      },
+      "children": []
+    },
+    {
+      "code": "D60.1",
+      "kind": "category",
+      "label": "Transitorische erworbene isolierte aplastische Anämie",
+      "rubrics": {
+        "preferred": "Transitorische erworbene isolierte aplastische Anämie"
+      },
+      "children": []
+    },
+    {
+      "code": "D60.8",
+      "kind": "category",
+      "label": "Sonstige erworbene isolierte aplastische Anämien",
+      "rubrics": {
+        "preferred": "Sonstige erworbene isolierte aplastische Anämien"
+      },
+      "children": []
+    },
+    {
+      "code": "D60.9",
+      "kind": "category",
+      "label": "Erworbene isolierte aplastische Anämie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Erworbene isolierte aplastische Anämie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

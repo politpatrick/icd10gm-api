@@ -1,0 +1,11 @@
+{
+  "code": "D36.1",
+  "kind": "category",
+  "label": "Periphere Nerven und autonomes Nervensystem",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Periphere Nerven und autonomes Nervensystem",
+    "preferred": "Periphere Nerven und autonomes Nervensystem",
+    "exclusion": "Periphere Nerven der OrbitaD31.6"
+  },
+  "children": []
+}

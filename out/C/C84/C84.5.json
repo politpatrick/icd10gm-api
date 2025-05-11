@@ -1,0 +1,11 @@
+{
+  "code": "C84.5",
+  "kind": "category",
+  "label": "Sonstige reifzellige T/NK-Zell-Lymphome",
+  "rubrics": {
+    "preferred": "Sonstige reifzellige T/NK-Zell-Lymphome",
+    "note": "Wenn bei einem näher bezeichneten Lymphom die Abstammung oder die Beteiligung von T-Zellen angegeben ist, ist die genauere Bezeichnung zu verschlüsseln.",
+    "exclusion": "T-Zell-Lymphom vom Enteropathie-TypC86.2"
+  },
+  "children": []
+}

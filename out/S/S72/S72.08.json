@@ -1,0 +1,11 @@
+{
+  "code": "S72.08",
+  "kind": "category",
+  "label": "Sonstige Teile",
+  "rubrics": {
+    "preferredLong": "Schenkelhalsfraktur: Sonstige Teile",
+    "preferred": "Sonstige Teile",
+    "inclusion": "Fraktur der Hüfte o.n.A."
+  },
+  "children": []
+}

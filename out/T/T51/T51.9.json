@@ -1,0 +1,10 @@
+{
+  "code": "T51.9",
+  "kind": "category",
+  "label": "Alkohol, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Alkohol, nicht näher bezeichnet",
+    "preferred": "Alkohol, nicht näher bezeichnet"
+  },
+  "children": []
+}

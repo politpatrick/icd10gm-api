@@ -1,0 +1,10 @@
+{
+  "code": "O92.6",
+  "kind": "category",
+  "label": "Galaktorrhoe",
+  "rubrics": {
+    "preferred": "Galaktorrhoe",
+    "exclusion": "Galaktorrhoe, nicht im Zusammenhang mit der GeburtN64.3"
+  },
+  "children": []
+}

@@ -1,0 +1,43 @@
+{
+  "code": "J10",
+  "kind": "category",
+  "label": "Grippe durch saisonale nachgewiesene Influenzaviren",
+  "rubrics": {
+    "preferred": "Grippe durch saisonale nachgewiesene Influenzaviren",
+    "inclusion": "Grippe durch nachgewiesene Influenzaviren A, B und C",
+    "exclusion": "PneumonieJ14\n\t\t\t\tdurch Haemophilus influenzae [H. influenzae]"
+  },
+  "children": [
+    {
+      "code": "J10.0",
+      "kind": "category",
+      "label": "Grippe mit Pneumonie, saisonale Influenzaviren nachgewiesen",
+      "rubrics": {
+        "preferred": "Grippe mit Pneumonie, saisonale Influenzaviren nachgewiesen",
+        "inclusion": "Grippe(broncho)pneumonie, saisonale Influenzaviren nachgewiesen",
+        "coding-hint": "Benutze für Zwecke der externen Qualitätssicherung nach § 137 SGB V eine zusätzliche Schlüsselnummer U69.01U69.04, um den zeitlichen Bezug einer vollstationär behandelten Pneumonie bei erwachsenen Personen (18 Jahre und älter) zur stationären Krankenhausaufnahme anzugeben."
+      },
+      "children": []
+    },
+    {
+      "code": "J10.1",
+      "kind": "category",
+      "label": "Grippe mit sonstigen Manifestationen an den Atemwegen, saisonale Influenzaviren nachgewiesen",
+      "rubrics": {
+        "preferred": "Grippe mit sonstigen Manifestationen an den Atemwegen, saisonale Influenzaviren nachgewiesen",
+        "inclusion": "Grippe:\n\t\t\t\tPleuraerguss\n\t\t\t\tsaisonale Influenzaviren nachgewiesen"
+      },
+      "children": []
+    },
+    {
+      "code": "J10.8",
+      "kind": "category",
+      "label": "Grippe mit sonstigen Manifestationen, saisonale Influenzaviren nachgewiesen",
+      "rubrics": {
+        "preferred": "Grippe mit sonstigen Manifestationen, saisonale Influenzaviren nachgewiesen",
+        "inclusion": "Grippe:\n\t\t\t\tMyokarditis (akut)\n\t\t\t\tsaisonale Influenzaviren nachgewiesen"
+      },
+      "children": []
+    }
+  ]
+}

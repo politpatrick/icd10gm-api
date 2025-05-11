@@ -1,0 +1,29 @@
+{
+  "code": "N18.8",
+  "kind": "category",
+  "label": "Sonstige chronische Nierenkrankheit",
+  "rubrics": {
+    "preferred": "Sonstige chronische Nierenkrankheit"
+  },
+  "children": [
+    {
+      "code": "N18.80",
+      "kind": "category",
+      "label": "Einseitige chronische Nierenfunktionsstörung",
+      "rubrics": {
+        "preferred": "Einseitige chronische Nierenfunktionsstörung",
+        "text": "Der relative Funktionsanteil der betroffenen Niere liegt unter 35 %."
+      },
+      "children": []
+    },
+    {
+      "code": "N18.89",
+      "kind": "category",
+      "label": "Sonstige chronische Nierenkrankheit, Stadium nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Sonstige chronische Nierenkrankheit, Stadium nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

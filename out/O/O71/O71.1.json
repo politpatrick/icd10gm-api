@@ -1,0 +1,10 @@
+{
+  "code": "O71.1",
+  "kind": "category",
+  "label": "Uterusruptur während der Geburt",
+  "rubrics": {
+    "preferred": "Uterusruptur während der Geburt",
+    "inclusion": "Uterusruptur ohne Angabe, ob vor Wehenbeginn eingetreten"
+  },
+  "children": []
+}

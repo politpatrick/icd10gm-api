@@ -1,0 +1,10 @@
+{
+  "code": "G00.8",
+  "kind": "category",
+  "label": "Sonstige bakterielle Meningitis",
+  "rubrics": {
+    "preferred": "Sonstige bakterielle Meningitis",
+    "inclusion": "Meningitis durch:\n\t\t\t\tKlebsiella pneumoniae [Friedländer]"
+  },
+  "children": []
+}

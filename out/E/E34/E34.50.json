@@ -1,0 +1,10 @@
+{
+  "code": "E34.50",
+  "kind": "category",
+  "label": "Partielles Androgenresistenz-Syndrom",
+  "rubrics": {
+    "preferred": "Partielles Androgenresistenz-Syndrom",
+    "inclusion": "Reifenstein-Syndrom"
+  },
+  "children": []
+}

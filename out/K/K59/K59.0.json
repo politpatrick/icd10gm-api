@@ -1,0 +1,49 @@
+{
+  "code": "K59.0",
+  "kind": "category",
+  "label": "Obstipation",
+  "rubrics": {
+    "preferred": "Obstipation"
+  },
+  "children": [
+    {
+      "code": "K59.00",
+      "kind": "category",
+      "label": "Obstipation bei Kolontransitstörung",
+      "rubrics": {
+        "preferred": "Obstipation bei Kolontransitstörung",
+        "inclusion": "Slow-Transit-Obstipation",
+        "exclusion": "Medikamentös induzierte ObstipationK59.02"
+      },
+      "children": []
+    },
+    {
+      "code": "K59.01",
+      "kind": "category",
+      "label": "Obstipation bei Stuhlentleerungsstörung",
+      "rubrics": {
+        "preferred": "Obstipation bei Stuhlentleerungsstörung",
+        "inclusion": "Outlet-Obstipation"
+      },
+      "children": []
+    },
+    {
+      "code": "K59.02",
+      "kind": "category",
+      "label": "Medikamentös induzierte Obstipation",
+      "rubrics": {
+        "preferred": "Medikamentös induzierte Obstipation"
+      },
+      "children": []
+    },
+    {
+      "code": "K59.09",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Obstipation",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Obstipation"
+      },
+      "children": []
+    }
+  ]
+}

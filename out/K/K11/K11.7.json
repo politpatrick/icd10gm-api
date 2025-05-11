@@ -1,0 +1,11 @@
+{
+  "code": "K11.7",
+  "kind": "category",
+  "label": "Störungen der Speichelsekretion",
+  "rubrics": {
+    "preferred": "Störungen der Speichelsekretion",
+    "inclusion": "Xerostomie",
+    "exclusion": "Mundtrockenheit o.n.A.R68.2"
+  },
+  "children": []
+}

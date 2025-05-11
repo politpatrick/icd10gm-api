@@ -1,0 +1,10 @@
+{
+  "code": "Z09.1",
+  "kind": "category",
+  "label": "Nachuntersuchung nach Strahlentherapie wegen anderer Krankheitszustände",
+  "rubrics": {
+    "preferred": "Nachuntersuchung nach Strahlentherapie wegen anderer Krankheitszustände",
+    "exclusion": "Strahlentherapie-SitzungZ51.0"
+  },
+  "children": []
+}

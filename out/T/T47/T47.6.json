@@ -1,0 +1,11 @@
+{
+  "code": "T47.6",
+  "kind": "category",
+  "label": "Antidiarrhoika",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Antidiarrhoika",
+    "preferred": "Antidiarrhoika",
+    "exclusion": "Systemisch wirkende Antibiotika und sonstige AntiinfektivaT36-T37"
+  },
+  "children": []
+}

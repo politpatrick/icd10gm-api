@@ -1,0 +1,11 @@
+{
+  "code": "D47.0",
+  "kind": "category",
+  "label": "Histiozyten- und Mastzelltumor unsicheren oder unbekannten Verhaltens",
+  "rubrics": {
+    "preferred": "Histiozyten- und Mastzelltumor unsicheren oder unbekannten Verhaltens",
+    "inclusion": "Systemische Mastozytose, assoziiert mit klonaler hämatologischer Nicht-Mastzell-Krankheit [SM-AHNMD]",
+    "exclusion": "Mastozytose (angeboren) (der Haut)Q82.2"
+  },
+  "children": []
+}

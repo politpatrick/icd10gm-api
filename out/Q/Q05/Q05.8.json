@@ -1,0 +1,10 @@
+{
+  "code": "Q05.8",
+  "kind": "category",
+  "label": "Sakrale Spina bifida ohne Hydrozephalus",
+  "rubrics": {
+    "preferred": "Sakrale Spina bifida ohne Hydrozephalus",
+    "exclusion": "Sinus sacralis dermalisL05.-"
+  },
+  "children": []
+}

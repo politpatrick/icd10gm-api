@@ -1,0 +1,11 @@
+{
+  "code": "Q67.5",
+  "kind": "category",
+  "label": "Angeborene Deformitäten der Wirbelsäule",
+  "rubrics": {
+    "preferred": "Angeborene Deformitäten der Wirbelsäule",
+    "inclusion": "Angeborene Skoliose:\n\t\t\t\to.n.A.",
+    "exclusion": "Skoliose durch angeborene KnochenfehlbildungQ76.3"
+  },
+  "children": []
+}

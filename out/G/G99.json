@@ -1,0 +1,68 @@
+{
+  "code": "G99",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "G99.0",
+      "kind": "category",
+      "label": "Autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten",
+      "rubrics": {
+        "preferred": "Autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten",
+        "inclusion": "Diabetische autonome NeuropathieE10-E14, vierte Stelle .4"
+      },
+      "children": [
+        {
+          "code": "G99.00",
+          "kind": "category",
+          "label": "Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten",
+          "rubrics": {
+            "preferred": "Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "G99.08",
+          "kind": "category",
+          "label": "Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G99.1",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des autonomen Nervensystems bei sonstigen anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des autonomen Nervensystems bei sonstigen anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "G99.2",
+      "kind": "category",
+      "label": "Myelopathie bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Myelopathie bei anderenorts klassifizierten Krankheiten",
+        "inclusion": "Myelopathie bei:\n\t\t\t\tSpondyloseM47.-"
+      },
+      "children": []
+    },
+    {
+      "code": "G99.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten",
+        "inclusion": "Urämische Paralyse N18.-"
+      },
+      "children": []
+    }
+  ]
+}

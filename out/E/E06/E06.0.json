@@ -1,0 +1,11 @@
+{
+  "code": "E06.0",
+  "kind": "category",
+  "label": "Akute Thyreoiditis",
+  "rubrics": {
+    "preferred": "Akute Thyreoiditis",
+    "inclusion": "Thyreoiditis:\n\t\t\t\tpyogen",
+    "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "N10",
+  "kind": "category",
+  "label": "Akute tubulointerstitielle Nephritis",
+  "rubrics": {
+    "preferred": "Akute tubulointerstitielle Nephritis",
+    "inclusion": "Akut:\n\t\t\t\tPyelonephritis",
+    "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+  },
+  "children": []
+}

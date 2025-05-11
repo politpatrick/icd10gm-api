@@ -1,0 +1,10 @@
+{
+  "code": "R06.88",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Störungen der Atmung",
+  "rubrics": {
+    "preferred": "Sonstige und nicht näher bezeichnete Störungen der Atmung",
+    "inclusion": "Seufzen"
+  },
+  "children": []
+}

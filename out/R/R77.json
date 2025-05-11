@@ -1,0 +1,76 @@
+{
+  "code": "R77",
+  "kind": "category",
+  "label": "Sonstige Veränderungen der Plasmaproteine",
+  "rubrics": {
+    "preferred": "Sonstige Veränderungen der Plasmaproteine",
+    "exclusion": "Störungen des Plasmaprotein-StoffwechselsE88.0-"
+  },
+  "children": [
+    {
+      "code": "R77.0",
+      "kind": "category",
+      "label": "Veränderungen der Albumine",
+      "rubrics": {
+        "preferred": "Veränderungen der Albumine"
+      },
+      "children": []
+    },
+    {
+      "code": "R77.1",
+      "kind": "category",
+      "label": "Veränderungen der Globuline",
+      "rubrics": {
+        "preferred": "Veränderungen der Globuline",
+        "inclusion": "Hyperglobulinämie o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "R77.2",
+      "kind": "category",
+      "label": "Veränderungen des Alpha-Fetoproteins",
+      "rubrics": {
+        "preferred": "Veränderungen des Alpha-Fetoproteins"
+      },
+      "children": []
+    },
+    {
+      "code": "R77.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Veränderungen der Plasmaproteine",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Veränderungen der Plasmaproteine"
+      },
+      "children": [
+        {
+          "code": "R77.80",
+          "kind": "category",
+          "label": "Veränderung des prostataspezifischen Antigens [PSA]",
+          "rubrics": {
+            "preferred": "Veränderung des prostataspezifischen Antigens [PSA]"
+          },
+          "children": []
+        },
+        {
+          "code": "R77.88",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Veränderungen der Plasmaproteine",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Veränderungen der Plasmaproteine"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "R77.9",
+      "kind": "category",
+      "label": "Veränderung eines Plasmaproteins, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Veränderung eines Plasmaproteins, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

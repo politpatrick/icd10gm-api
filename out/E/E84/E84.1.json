@@ -1,0 +1,11 @@
+{
+  "code": "E84.1",
+  "kind": "category",
+  "label": "Zystische Fibrose mit Darmmanifestationen",
+  "rubrics": {
+    "preferred": "Zystische Fibrose mit Darmmanifestationen",
+    "inclusion": "Mekoniumileus bei zystischer Fibrose† P75",
+    "exclusion": "Mekoniumileus bei ausgeschlossener zystischer Fibrose P76.0"
+  },
+  "children": []
+}

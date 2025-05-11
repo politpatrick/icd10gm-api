@@ -1,0 +1,37 @@
+{
+  "code": "S27.3",
+  "kind": "category",
+  "label": "Sonstige Verletzungen der Lunge",
+  "rubrics": {
+    "preferred": "Sonstige Verletzungen der Lunge"
+  },
+  "children": [
+    {
+      "code": "S27.31",
+      "kind": "category",
+      "label": "Prellung und Hämatom der Lunge",
+      "rubrics": {
+        "preferred": "Prellung und Hämatom der Lunge"
+      },
+      "children": []
+    },
+    {
+      "code": "S27.32",
+      "kind": "category",
+      "label": "Rissverletzung der Lunge",
+      "rubrics": {
+        "preferred": "Rissverletzung der Lunge"
+      },
+      "children": []
+    },
+    {
+      "code": "S27.38",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Verletzungen der Lunge",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Verletzungen der Lunge"
+      },
+      "children": []
+    }
+  ]
+}

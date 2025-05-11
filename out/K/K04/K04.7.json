@@ -1,0 +1,10 @@
+{
+  "code": "K04.7",
+  "kind": "category",
+  "label": "Periapikaler Abszess ohne Fistel",
+  "rubrics": {
+    "preferred": "Periapikaler Abszess ohne Fistel",
+    "inclusion": "Abszess o.n.A.:\n\t\t\t\tperiapikal"
+  },
+  "children": []
+}

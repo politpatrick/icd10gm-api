@@ -1,0 +1,1332 @@
+{
+  "code": "Q65-Q79",
+  "kind": "block",
+  "label": "Angeborene Fehlbildungen und Deformitäten des Muskel-Skelett-Systems",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildungen und Deformitäten des Muskel-Skelett-Systems"
+  },
+  "children": [
+    {
+      "code": "Q65",
+      "kind": "category",
+      "label": "Angeborene Deformitäten der Hüfte",
+      "rubrics": {
+        "preferred": "Angeborene Deformitäten der Hüfte",
+        "exclusion": "Schnappende HüfteR29.4"
+      },
+      "children": [
+        {
+          "code": "Q65.0",
+          "kind": "category",
+          "label": "Angeborene Luxation des Hüftgelenkes, einseitig",
+          "rubrics": {
+            "preferred": "Angeborene Luxation des Hüftgelenkes, einseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Q65.1",
+          "kind": "category",
+          "label": "Angeborene Luxation des Hüftgelenkes, beidseitig",
+          "rubrics": {
+            "preferred": "Angeborene Luxation des Hüftgelenkes, beidseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Q65.2",
+          "kind": "category",
+          "label": "Angeborene Luxation des Hüftgelenkes, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Luxation des Hüftgelenkes, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "Q65.3",
+          "kind": "category",
+          "label": "Angeborene Subluxation des Hüftgelenkes, einseitig",
+          "rubrics": {
+            "preferred": "Angeborene Subluxation des Hüftgelenkes, einseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Q65.4",
+          "kind": "category",
+          "label": "Angeborene Subluxation des Hüftgelenkes, beidseitig",
+          "rubrics": {
+            "preferred": "Angeborene Subluxation des Hüftgelenkes, beidseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Q65.5",
+          "kind": "category",
+          "label": "Angeborene Subluxation des Hüftgelenkes, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Subluxation des Hüftgelenkes, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "Q65.6",
+          "kind": "category",
+          "label": "Instabiles Hüftgelenk (angeboren)",
+          "rubrics": {
+            "preferred": "Instabiles Hüftgelenk (angeboren)",
+            "inclusion": "Subluxierbare Hüfte"
+          },
+          "children": []
+        },
+        {
+          "code": "Q65.8",
+          "kind": "category",
+          "label": "Sonstige angeborene Deformitäten der Hüfte",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Deformitäten der Hüfte",
+            "inclusion": "Vermehrte Antetorsion des Schenkelhalses"
+          },
+          "children": []
+        },
+        {
+          "code": "Q65.9",
+          "kind": "category",
+          "label": "Angeborene Deformität der Hüfte, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Deformität der Hüfte, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q66",
+      "kind": "category",
+      "label": "Angeborene Deformitäten der Füße",
+      "rubrics": {
+        "preferred": "Angeborene Deformitäten der Füße",
+        "exclusion": "Varusdeformitäten (erworben)M21.1-"
+      },
+      "children": [
+        {
+          "code": "Q66.0",
+          "kind": "category",
+          "label": "Pes equinovarus congenitus",
+          "rubrics": {
+            "preferred": "Pes equinovarus congenitus",
+            "inclusion": "Klumpfuß o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "Q66.1",
+          "kind": "category",
+          "label": "Pes calcaneovarus congenitus",
+          "rubrics": {
+            "preferred": "Pes calcaneovarus congenitus"
+          },
+          "children": []
+        },
+        {
+          "code": "Q66.2",
+          "kind": "category",
+          "label": "Pes adductus (congenitus)",
+          "rubrics": {
+            "preferred": "Pes adductus (congenitus)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q66.3",
+          "kind": "category",
+          "label": "Sonstige angeborene Varusdeformitäten der Füße",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Varusdeformitäten der Füße",
+            "inclusion": "Hallux varus congenitus"
+          },
+          "children": []
+        },
+        {
+          "code": "Q66.4",
+          "kind": "category",
+          "label": "Pes calcaneovalgus congenitus",
+          "rubrics": {
+            "preferred": "Pes calcaneovalgus congenitus"
+          },
+          "children": []
+        },
+        {
+          "code": "Q66.5",
+          "kind": "category",
+          "label": "Pes planus congenitus",
+          "rubrics": {
+            "preferred": "Pes planus congenitus",
+            "inclusion": "Plattfuß:\n\t\t\t\tspastisch (evertiert)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q66.6",
+          "kind": "category",
+          "label": "Sonstige angeborene Valgusdeformitäten der Füße",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Valgusdeformitäten der Füße",
+            "inclusion": "Metatarsus valgus"
+          },
+          "children": []
+        },
+        {
+          "code": "Q66.7",
+          "kind": "category",
+          "label": "Pes cavus",
+          "rubrics": {
+            "preferred": "Pes cavus"
+          },
+          "children": []
+        },
+        {
+          "code": "Q66.8",
+          "kind": "category",
+          "label": "Sonstige angeborene Deformitäten der Füße",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Deformitäten der Füße",
+            "inclusion": "Verschmelzung tarsaler Knochenkerne [tarsal coalition]"
+          },
+          "children": []
+        },
+        {
+          "code": "Q66.9",
+          "kind": "category",
+          "label": "Angeborene Deformität der Füße, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Deformität der Füße, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q67",
+      "kind": "category",
+      "label": "Angeborene Muskel-Skelett-Deformitäten des Kopfes, des Gesichtes, der Wirbelsäule und des Thorax",
+      "rubrics": {
+        "preferred": "Angeborene Muskel-Skelett-Deformitäten des Kopfes, des Gesichtes, der Wirbelsäule und des Thorax",
+        "exclusion": "Potter-SyndromQ60.6"
+      },
+      "children": [
+        {
+          "code": "Q67.0",
+          "kind": "category",
+          "label": "Gesichtsasymmetrie",
+          "rubrics": {
+            "preferred": "Gesichtsasymmetrie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q67.1",
+          "kind": "category",
+          "label": "Flach gedrücktes Gesicht [Compression facies]",
+          "rubrics": {
+            "preferred": "Flach gedrücktes Gesicht [Compression facies]"
+          },
+          "children": []
+        },
+        {
+          "code": "Q67.2",
+          "kind": "category",
+          "label": "Dolichozephalie",
+          "rubrics": {
+            "preferred": "Dolichozephalie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q67.3",
+          "kind": "category",
+          "label": "Plagiozephalie",
+          "rubrics": {
+            "preferred": "Plagiozephalie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q67.4",
+          "kind": "category",
+          "label": "Sonstige angeborene Deformitäten des Schädels, des Gesichtes und des Kiefers",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Deformitäten des Schädels, des Gesichtes und des Kiefers",
+            "inclusion": "Platt- oder Hakennase, angeboren",
+            "exclusion": "Syphilitische SattelnaseA50.5"
+          },
+          "children": []
+        },
+        {
+          "code": "Q67.5",
+          "kind": "category",
+          "label": "Angeborene Deformitäten der Wirbelsäule",
+          "rubrics": {
+            "preferred": "Angeborene Deformitäten der Wirbelsäule",
+            "inclusion": "Angeborene Skoliose:\n\t\t\t\to.n.A.",
+            "exclusion": "Skoliose durch angeborene KnochenfehlbildungQ76.3"
+          },
+          "children": []
+        },
+        {
+          "code": "Q67.6",
+          "kind": "category",
+          "label": "Pectus excavatum",
+          "rubrics": {
+            "preferred": "Pectus excavatum",
+            "inclusion": "Angeborene Trichterbrust"
+          },
+          "children": []
+        },
+        {
+          "code": "Q67.7",
+          "kind": "category",
+          "label": "Pectus carinatum",
+          "rubrics": {
+            "preferred": "Pectus carinatum",
+            "inclusion": "Angeborene Kielbrust"
+          },
+          "children": []
+        },
+        {
+          "code": "Q67.8",
+          "kind": "category",
+          "label": "Sonstige angeborene Deformitäten des Thorax",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Deformitäten des Thorax",
+            "inclusion": "Angeborene Deformität der Thoraxwand o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q68",
+      "kind": "category",
+      "label": "Sonstige angeborene Muskel-Skelett-Deformitäten",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Muskel-Skelett-Deformitäten",
+        "exclusion": "Reduktionsdefekte der Extremität(en)Q71-Q73"
+      },
+      "children": [
+        {
+          "code": "Q68.0",
+          "kind": "category",
+          "label": "Angeborene Deformitäten des M. sternocleidomastoideus",
+          "rubrics": {
+            "preferred": "Angeborene Deformitäten des M. sternocleidomastoideus",
+            "inclusion": "Torticollis congenitus (muscularis)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q68.1",
+          "kind": "category",
+          "label": "Angeborene Deformität der Hand",
+          "rubrics": {
+            "preferred": "Angeborene Deformität der Hand",
+            "inclusion": "Löffelhand (angeboren)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q68.2",
+          "kind": "category",
+          "label": "Angeborene Deformität des Knies",
+          "rubrics": {
+            "preferred": "Angeborene Deformität des Knies",
+            "inclusion": "Angeboren:\n\t\t\t\tKniegelenkluxation"
+          },
+          "children": []
+        },
+        {
+          "code": "Q68.3",
+          "kind": "category",
+          "label": "Angeborene Verbiegung des Femurs",
+          "rubrics": {
+            "preferred": "Angeborene Verbiegung des Femurs",
+            "exclusion": "Vermehrte Antetorsion des SchenkelhalsesQ65.8"
+          },
+          "children": []
+        },
+        {
+          "code": "Q68.4",
+          "kind": "category",
+          "label": "Angeborene Verbiegung der Tibia und der Fibula",
+          "rubrics": {
+            "preferred": "Angeborene Verbiegung der Tibia und der Fibula"
+          },
+          "children": []
+        },
+        {
+          "code": "Q68.5",
+          "kind": "category",
+          "label": "Angeborene Verbiegung der langen Beinknochen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Verbiegung der langen Beinknochen, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "Q68.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete angeborene Muskel-Skelett-Deformitäten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete angeborene Muskel-Skelett-Deformitäten",
+            "inclusion": "Angeboren:\n\t\t\t\tLuxation:\n\t\t\t\tSchulter"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q69",
+      "kind": "category",
+      "label": "Polydaktylie",
+      "rubrics": {
+        "preferred": "Polydaktylie"
+      },
+      "children": [
+        {
+          "code": "Q69.0",
+          "kind": "category",
+          "label": "Akzessorische(r) Finger",
+          "rubrics": {
+            "preferred": "Akzessorische(r) Finger"
+          },
+          "children": []
+        },
+        {
+          "code": "Q69.1",
+          "kind": "category",
+          "label": "Akzessorische(r) Daumen",
+          "rubrics": {
+            "preferred": "Akzessorische(r) Daumen"
+          },
+          "children": []
+        },
+        {
+          "code": "Q69.2",
+          "kind": "category",
+          "label": "Akzessorische Zehe(n)",
+          "rubrics": {
+            "preferred": "Akzessorische Zehe(n)",
+            "inclusion": "Akzessorische Großzehe"
+          },
+          "children": []
+        },
+        {
+          "code": "Q69.9",
+          "kind": "category",
+          "label": "Polydaktylie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Polydaktylie, nicht näher bezeichnet",
+            "inclusion": "Überzählige(r) Finger oder Zehe(n) o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q70",
+      "kind": "category",
+      "label": "Syndaktylie",
+      "rubrics": {
+        "preferred": "Syndaktylie"
+      },
+      "children": [
+        {
+          "code": "Q70.0",
+          "kind": "category",
+          "label": "Miteinander verwachsene Finger",
+          "rubrics": {
+            "preferred": "Miteinander verwachsene Finger",
+            "inclusion": "Knöcherne Syndaktylie von Fingern"
+          },
+          "children": []
+        },
+        {
+          "code": "Q70.1",
+          "kind": "category",
+          "label": "Schwimmhautbildung an den Fingern",
+          "rubrics": {
+            "preferred": "Schwimmhautbildung an den Fingern",
+            "inclusion": "Häutige Syndaktylie von Fingern (komplett) (partiell)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q70.2",
+          "kind": "category",
+          "label": "Miteinander verwachsene Zehen",
+          "rubrics": {
+            "preferred": "Miteinander verwachsene Zehen",
+            "inclusion": "Knöcherne Syndaktylie von Zehen"
+          },
+          "children": []
+        },
+        {
+          "code": "Q70.3",
+          "kind": "category",
+          "label": "Schwimmhautbildung an den Zehen",
+          "rubrics": {
+            "preferred": "Schwimmhautbildung an den Zehen",
+            "inclusion": "Häutige Syndaktylie von Zehen"
+          },
+          "children": []
+        },
+        {
+          "code": "Q70.4",
+          "kind": "category",
+          "label": "Polysyndaktylie",
+          "rubrics": {
+            "preferred": "Polysyndaktylie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q70.9",
+          "kind": "category",
+          "label": "Syndaktylie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Syndaktylie, nicht näher bezeichnet",
+            "inclusion": "Symphalangie o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q71",
+      "kind": "category",
+      "label": "Reduktionsdefekte der oberen Extremität",
+      "rubrics": {
+        "preferred": "Reduktionsdefekte der oberen Extremität"
+      },
+      "children": [
+        {
+          "code": "Q71.0",
+          "kind": "category",
+          "label": "Angeborenes vollständiges Fehlen der oberen Extremität(en)",
+          "rubrics": {
+            "preferred": "Angeborenes vollständiges Fehlen der oberen Extremität(en)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q71.1",
+          "kind": "category",
+          "label": "Angeborenes Fehlen des Ober- und Unterarmes bei vorhandener Hand",
+          "rubrics": {
+            "preferred": "Angeborenes Fehlen des Ober- und Unterarmes bei vorhandener Hand"
+          },
+          "children": []
+        },
+        {
+          "code": "Q71.2",
+          "kind": "category",
+          "label": "Angeborenes Fehlen sowohl des Unterarmes als auch der Hand",
+          "rubrics": {
+            "preferred": "Angeborenes Fehlen sowohl des Unterarmes als auch der Hand"
+          },
+          "children": []
+        },
+        {
+          "code": "Q71.3",
+          "kind": "category",
+          "label": "Angeborenes Fehlen der Hand oder eines oder mehrerer Finger",
+          "rubrics": {
+            "preferred": "Angeborenes Fehlen der Hand oder eines oder mehrerer Finger"
+          },
+          "children": []
+        },
+        {
+          "code": "Q71.4",
+          "kind": "category",
+          "label": "Longitudinaler Reduktionsdefekt des Radius",
+          "rubrics": {
+            "preferred": "Longitudinaler Reduktionsdefekt des Radius",
+            "inclusion": "Radiale Klumphand"
+          },
+          "children": []
+        },
+        {
+          "code": "Q71.5",
+          "kind": "category",
+          "label": "Longitudinaler Reduktionsdefekt der Ulna",
+          "rubrics": {
+            "preferred": "Longitudinaler Reduktionsdefekt der Ulna"
+          },
+          "children": []
+        },
+        {
+          "code": "Q71.6",
+          "kind": "category",
+          "label": "Spalthand",
+          "rubrics": {
+            "preferred": "Spalthand"
+          },
+          "children": []
+        },
+        {
+          "code": "Q71.8",
+          "kind": "category",
+          "label": "Sonstige Reduktionsdefekte der oberen Extremität(en)",
+          "rubrics": {
+            "preferred": "Sonstige Reduktionsdefekte der oberen Extremität(en)",
+            "inclusion": "Angeborene Verkürzung der oberen Extremität(en)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q71.9",
+          "kind": "category",
+          "label": "Reduktionsdefekt der oberen Extremität, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Reduktionsdefekt der oberen Extremität, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q72",
+      "kind": "category",
+      "label": "Reduktionsdefekte der unteren Extremität",
+      "rubrics": {
+        "preferred": "Reduktionsdefekte der unteren Extremität"
+      },
+      "children": [
+        {
+          "code": "Q72.0",
+          "kind": "category",
+          "label": "Angeborenes vollständiges Fehlen der unteren Extremität(en)",
+          "rubrics": {
+            "preferred": "Angeborenes vollständiges Fehlen der unteren Extremität(en)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q72.1",
+          "kind": "category",
+          "label": "Angeborenes Fehlen des Ober- und Unterschenkels bei vorhandenem Fuß",
+          "rubrics": {
+            "preferred": "Angeborenes Fehlen des Ober- und Unterschenkels bei vorhandenem Fuß"
+          },
+          "children": []
+        },
+        {
+          "code": "Q72.2",
+          "kind": "category",
+          "label": "Angeborenes Fehlen sowohl des Unterschenkels als auch des Fußes",
+          "rubrics": {
+            "preferred": "Angeborenes Fehlen sowohl des Unterschenkels als auch des Fußes"
+          },
+          "children": []
+        },
+        {
+          "code": "Q72.3",
+          "kind": "category",
+          "label": "Angeborenes Fehlen des Fußes oder einer oder mehrerer Zehen",
+          "rubrics": {
+            "preferred": "Angeborenes Fehlen des Fußes oder einer oder mehrerer Zehen"
+          },
+          "children": []
+        },
+        {
+          "code": "Q72.4",
+          "kind": "category",
+          "label": "Longitudinaler Reduktionsdefekt des Femurs",
+          "rubrics": {
+            "preferred": "Longitudinaler Reduktionsdefekt des Femurs",
+            "inclusion": "Femur-Fibula-Ulna-Komplex [proximal femoral focal deficiency]"
+          },
+          "children": []
+        },
+        {
+          "code": "Q72.5",
+          "kind": "category",
+          "label": "Longitudinaler Reduktionsdefekt der Tibia",
+          "rubrics": {
+            "preferred": "Longitudinaler Reduktionsdefekt der Tibia"
+          },
+          "children": []
+        },
+        {
+          "code": "Q72.6",
+          "kind": "category",
+          "label": "Longitudinaler Reduktionsdefekt der Fibula",
+          "rubrics": {
+            "preferred": "Longitudinaler Reduktionsdefekt der Fibula"
+          },
+          "children": []
+        },
+        {
+          "code": "Q72.7",
+          "kind": "category",
+          "label": "Spaltfuß",
+          "rubrics": {
+            "preferred": "Spaltfuß"
+          },
+          "children": []
+        },
+        {
+          "code": "Q72.8",
+          "kind": "category",
+          "label": "Sonstige Reduktionsdefekte der unteren Extremität(en)",
+          "rubrics": {
+            "preferred": "Sonstige Reduktionsdefekte der unteren Extremität(en)",
+            "inclusion": "Angeborene Verkürzung der unteren Extremität(en)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q72.9",
+          "kind": "category",
+          "label": "Reduktionsdefekt der unteren Extremität, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Reduktionsdefekt der unteren Extremität, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q73",
+      "kind": "category",
+      "label": "Reduktionsdefekte nicht näher bezeichneter Extremität(en)",
+      "rubrics": {
+        "preferred": "Reduktionsdefekte nicht näher bezeichneter Extremität(en)"
+      },
+      "children": [
+        {
+          "code": "Q73.0",
+          "kind": "category",
+          "label": "Angeborenes Fehlen nicht näher bezeichneter Extremität(en)",
+          "rubrics": {
+            "preferred": "Angeborenes Fehlen nicht näher bezeichneter Extremität(en)",
+            "inclusion": "Amelie o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "Q73.1",
+          "kind": "category",
+          "label": "Phokomelie nicht näher bezeichneter Extremität(en)",
+          "rubrics": {
+            "preferred": "Phokomelie nicht näher bezeichneter Extremität(en)",
+            "inclusion": "Phokomelie o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "Q73.8",
+          "kind": "category",
+          "label": "Sonstige Reduktionsdefekte nicht näher bezeichneter Extremität(en)",
+          "rubrics": {
+            "preferred": "Sonstige Reduktionsdefekte nicht näher bezeichneter Extremität(en)",
+            "inclusion": "Reduktionsdefekt\n\t\t\t\tExtremität(en) o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q74",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Extremität(en)",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Extremität(en)",
+        "exclusion": "SyndaktylieQ70.-"
+      },
+      "children": [
+        {
+          "code": "Q74.0",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen der oberen Extremität(en) und des Schultergürtels",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen der oberen Extremität(en) und des Schultergürtels",
+            "inclusion": "Triphalangie des Daumens"
+          },
+          "children": []
+        },
+        {
+          "code": "Q74.1",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung des Knies",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung des Knies",
+            "inclusion": "Rudimentäre Patella",
+            "exclusion": "Angeboren:\n\t\t\t\tNagel-Patella-SyndromQ87.2"
+          },
+          "children": []
+        },
+        {
+          "code": "Q74.2",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen der unteren Extremität(en) und des Beckengürtels",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen der unteren Extremität(en) und des Beckengürtels",
+            "inclusion": "Angeboren:\n\t\t\t\tVerschmelzung des Iliosakralgelenkes",
+            "exclusion": "Vermehrte Antetorsion des SchenkelhalsesQ65.8"
+          },
+          "children": []
+        },
+        {
+          "code": "Q74.3",
+          "kind": "category",
+          "label": "Arthrogryposis multiplex congenita",
+          "rubrics": {
+            "preferred": "Arthrogryposis multiplex congenita"
+          },
+          "children": []
+        },
+        {
+          "code": "Q74.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete angeborene Fehlbildungen der Extremität(en)",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen der Extremität(en)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q74.9",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete angeborene Fehlbildung der Extremität(en)",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete angeborene Fehlbildung der Extremität(en)",
+            "inclusion": "Angeborene Anomalie der Extremität(en) o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q75",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Schädel- und Gesichtsschädelknochen",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Schädel- und Gesichtsschädelknochen",
+        "exclusion": "Schädeldefekte in Verbindung mit angeborenen Gehirnanomalien, wie z.B.:\n\t\t\t\tMikrozephalieQ02"
+      },
+      "children": [
+        {
+          "code": "Q75.0",
+          "kind": "category",
+          "label": "Kraniosynostose",
+          "rubrics": {
+            "preferred": "Kraniosynostose",
+            "inclusion": "Unvollständige Verschmelzung von Schädelknochen"
+          },
+          "children": []
+        },
+        {
+          "code": "Q75.1",
+          "kind": "category",
+          "label": "Dysostosis craniofacialis",
+          "rubrics": {
+            "preferred": "Dysostosis craniofacialis",
+            "inclusion": "Crouzon-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q75.2",
+          "kind": "category",
+          "label": "Hypertelorismus",
+          "rubrics": {
+            "preferred": "Hypertelorismus"
+          },
+          "children": []
+        },
+        {
+          "code": "Q75.3",
+          "kind": "category",
+          "label": "Makrozephalie",
+          "rubrics": {
+            "preferred": "Makrozephalie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q75.4",
+          "kind": "category",
+          "label": "Dysostosis mandibulofacialis",
+          "rubrics": {
+            "preferred": "Dysostosis mandibulofacialis",
+            "inclusion": "Franceschetti-I-Syndrom [(Treacher-) Collins-Syndrom]"
+          },
+          "children": []
+        },
+        {
+          "code": "Q75.5",
+          "kind": "category",
+          "label": "Okulo-mandibulo-faziales Syndrom",
+          "rubrics": {
+            "preferred": "Okulo-mandibulo-faziales Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q75.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete angeborene Fehlbildungen der Schädel- und Gesichtsschädelknochen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen der Schädel- und Gesichtsschädelknochen",
+            "inclusion": "Platybasie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q75.9",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung der Schädel- und Gesichtsschädelknochen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung der Schädel- und Gesichtsschädelknochen, nicht näher bezeichnet",
+            "inclusion": "Angeborene Anomalie:\n\t\t\t\tSchädel o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q76",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungen der Wirbelsäule und des knöchernen Thorax",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungen der Wirbelsäule und des knöchernen Thorax",
+        "exclusion": "Angeborene Muskel-Skelett-Deformitäten der Wirbelsäule und des ThoraxQ67.5-Q67.8"
+      },
+      "children": [
+        {
+          "code": "Q76.0",
+          "kind": "category",
+          "label": "Spina bifida occulta",
+          "rubrics": {
+            "preferred": "Spina bifida occulta",
+            "exclusion": "Spina bifida (aperta) (cystica)Q05.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Q76.1",
+          "kind": "category",
+          "label": "Klippel-Feil-Syndrom",
+          "rubrics": {
+            "preferred": "Klippel-Feil-Syndrom",
+            "inclusion": "Verschmelzung von Halswirbelkörpern"
+          },
+          "children": []
+        },
+        {
+          "code": "Q76.2",
+          "kind": "category",
+          "label": "Angeborene Spondylolisthesis und Spondylolyse",
+          "rubrics": {
+            "preferred": "Angeborene Spondylolisthesis und Spondylolyse",
+            "exclusion": "Spondylolyse (erworben)M43.0-"
+          },
+          "children": [
+            {
+              "code": "Q76.21",
+              "kind": "category",
+              "label": "Angeborene Spondylolisthesis",
+              "rubrics": {
+                "preferred": "Angeborene Spondylolisthesis"
+              },
+              "children": []
+            },
+            {
+              "code": "Q76.22",
+              "kind": "category",
+              "label": "Angeborene Spondylolyse",
+              "rubrics": {
+                "preferred": "Angeborene Spondylolyse"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Q76.3",
+          "kind": "category",
+          "label": "Angeborene Skoliose durch angeborene Knochenfehlbildung",
+          "rubrics": {
+            "preferred": "Angeborene Skoliose durch angeborene Knochenfehlbildung",
+            "inclusion": "Halbwirbelverschmelzung oder Segmentationsfehler mit Skoliose"
+          },
+          "children": []
+        },
+        {
+          "code": "Q76.4",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen der Wirbelsäule ohne Skoliose",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen der Wirbelsäule ohne Skoliose",
+            "inclusion": "Überzähliger Wirbel\n\t\t\t\tnicht näher bezeichnet oder ohne Skoliose"
+          },
+          "children": []
+        },
+        {
+          "code": "Q76.5",
+          "kind": "category",
+          "label": "Halsrippe",
+          "rubrics": {
+            "preferred": "Halsrippe",
+            "inclusion": "Überzählige Rippe in der Halsregion"
+          },
+          "children": []
+        },
+        {
+          "code": "Q76.6",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen der Rippen",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen der Rippen",
+            "inclusion": "Angeboren:\n\t\t\t\tVerschmelzung von Rippen",
+            "exclusion": "Kurzripp-Polydaktylie-SyndromeQ77.2"
+          },
+          "children": []
+        },
+        {
+          "code": "Q76.7",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung des Sternums",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung des Sternums",
+            "inclusion": "Sternumspalte"
+          },
+          "children": []
+        },
+        {
+          "code": "Q76.8",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen des knöchernen Thorax",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen des knöchernen Thorax"
+          },
+          "children": []
+        },
+        {
+          "code": "Q76.9",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung des knöchernen Thorax, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung des knöchernen Thorax, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q77",
+      "kind": "category",
+      "label": "Osteochondrodysplasie mit Wachstumsstörungen der Röhrenknochen und der Wirbelsäule",
+      "rubrics": {
+        "preferred": "Osteochondrodysplasie mit Wachstumsstörungen der Röhrenknochen und der Wirbelsäule",
+        "exclusion": "MukopolysaccharidoseE76.0-E76.3"
+      },
+      "children": [
+        {
+          "code": "Q77.0",
+          "kind": "category",
+          "label": "Achondrogenesie",
+          "rubrics": {
+            "preferred": "Achondrogenesie",
+            "inclusion": "Hypochondrogenesie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q77.1",
+          "kind": "category",
+          "label": "Thanatophore Dysplasie",
+          "rubrics": {
+            "preferred": "Thanatophore Dysplasie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q77.2",
+          "kind": "category",
+          "label": "Kurzripp-Polydaktylie-Syndrome",
+          "rubrics": {
+            "preferred": "Kurzripp-Polydaktylie-Syndrome",
+            "inclusion": "Asphyxierende Thoraxdysplasie [Jeune]"
+          },
+          "children": []
+        },
+        {
+          "code": "Q77.3",
+          "kind": "category",
+          "label": "Chondrodysplasia-punctata-Syndrome",
+          "rubrics": {
+            "preferred": "Chondrodysplasia-punctata-Syndrome"
+          },
+          "children": []
+        },
+        {
+          "code": "Q77.4",
+          "kind": "category",
+          "label": "Achondroplasie",
+          "rubrics": {
+            "preferred": "Achondroplasie",
+            "inclusion": "Hypochondroplasie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q77.5",
+          "kind": "category",
+          "label": "Diastrophische Dysplasie",
+          "rubrics": {
+            "preferred": "Diastrophische Dysplasie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q77.6",
+          "kind": "category",
+          "label": "Chondroektodermale Dysplasie",
+          "rubrics": {
+            "preferred": "Chondroektodermale Dysplasie",
+            "inclusion": "Ellis-van-Creveld-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q77.7",
+          "kind": "category",
+          "label": "Dysplasia spondyloepiphysaria",
+          "rubrics": {
+            "preferred": "Dysplasia spondyloepiphysaria"
+          },
+          "children": []
+        },
+        {
+          "code": "Q77.8",
+          "kind": "category",
+          "label": "Sonstige Osteochondrodysplasien mit Wachstumsstörungen der Röhrenknochen und der Wirbelsäule",
+          "rubrics": {
+            "preferred": "Sonstige Osteochondrodysplasien mit Wachstumsstörungen der Röhrenknochen und der Wirbelsäule"
+          },
+          "children": []
+        },
+        {
+          "code": "Q77.9",
+          "kind": "category",
+          "label": "Osteochondrodysplasie mit Wachstumsstörungen der Röhrenknochen und der Wirbelsäule, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Osteochondrodysplasie mit Wachstumsstörungen der Röhrenknochen und der Wirbelsäule, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q78",
+      "kind": "category",
+      "label": "Sonstige Osteochondrodysplasien",
+      "rubrics": {
+        "preferred": "Sonstige Osteochondrodysplasien"
+      },
+      "children": [
+        {
+          "code": "Q78.0",
+          "kind": "category",
+          "label": "Osteogenesis imperfecta",
+          "rubrics": {
+            "preferred": "Osteogenesis imperfecta",
+            "inclusion": "Osteopsathyrosis"
+          },
+          "children": []
+        },
+        {
+          "code": "Q78.1",
+          "kind": "category",
+          "label": "Polyostotische fibröse Dysplasie [Jaffé-Lichtenstein-Syndrom]",
+          "rubrics": {
+            "preferred": "Polyostotische fibröse Dysplasie [Jaffé-Lichtenstein-Syndrom]",
+            "inclusion": "McCune-Albright-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q78.2",
+          "kind": "category",
+          "label": "Marmorknochenkrankheit",
+          "rubrics": {
+            "preferred": "Marmorknochenkrankheit",
+            "inclusion": "Albers-Schönberg-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q78.3",
+          "kind": "category",
+          "label": "Progrediente diaphysäre Dysplasie",
+          "rubrics": {
+            "preferred": "Progrediente diaphysäre Dysplasie",
+            "inclusion": "Camurati-Engelmann-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q78.4",
+          "kind": "category",
+          "label": "Enchondromatose",
+          "rubrics": {
+            "preferred": "Enchondromatose",
+            "inclusion": "Ollier-Krankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "Q78.5",
+          "kind": "category",
+          "label": "Metaphysäre Dysplasie",
+          "rubrics": {
+            "preferred": "Metaphysäre Dysplasie",
+            "inclusion": "Pyle-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q78.6",
+          "kind": "category",
+          "label": "Angeborene multiple Exostosen",
+          "rubrics": {
+            "preferred": "Angeborene multiple Exostosen",
+            "inclusion": "Multiple kartilaginäre Exostosen"
+          },
+          "children": []
+        },
+        {
+          "code": "Q78.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Osteochondrodysplasien",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Osteochondrodysplasien",
+            "inclusion": "Osteopoikilie"
+          },
+          "children": []
+        },
+        {
+          "code": "Q78.9",
+          "kind": "category",
+          "label": "Osteochondrodysplasie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Osteochondrodysplasie, nicht näher bezeichnet",
+            "inclusion": "Osteodystrophie o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q79",
+      "kind": "category",
+      "label": "Angeborene Fehlbildungen des Muskel-Skelett-Systems, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildungen des Muskel-Skelett-Systems, anderenorts nicht klassifiziert",
+        "exclusion": "Torticollis congenitus (muscularis)Q68.0"
+      },
+      "children": [
+        {
+          "code": "Q79.0",
+          "kind": "category",
+          "label": "Angeborene Zwerchfellhernie",
+          "rubrics": {
+            "preferred": "Angeborene Zwerchfellhernie",
+            "exclusion": "Angeborene HiatushernieQ40.1"
+          },
+          "children": []
+        },
+        {
+          "code": "Q79.1",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen des Zwerchfells",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen des Zwerchfells",
+            "inclusion": "Fehlen des Zwerchfells"
+          },
+          "children": []
+        },
+        {
+          "code": "Q79.2",
+          "kind": "category",
+          "label": "Exomphalus",
+          "rubrics": {
+            "preferred": "Exomphalus",
+            "inclusion": "Omphalozele",
+            "exclusion": "Hernia umbilicalisK42.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Q79.3",
+          "kind": "category",
+          "label": "Gastroschisis",
+          "rubrics": {
+            "preferred": "Gastroschisis"
+          },
+          "children": []
+        },
+        {
+          "code": "Q79.4",
+          "kind": "category",
+          "label": "Bauchdeckenaplasie-Syndrom",
+          "rubrics": {
+            "preferred": "Bauchdeckenaplasie-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q79.5",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen der Bauchdecke",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen der Bauchdecke",
+            "exclusion": "Hernia umbilicalisK42.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Q79.6",
+          "kind": "category",
+          "label": "Ehlers-Danlos-Syndrom",
+          "rubrics": {
+            "preferred": "Ehlers-Danlos-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q79.8",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen des Muskel-Skelett-Systems",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen des Muskel-Skelett-Systems",
+            "inclusion": "Poland-Syndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "Q79.9",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung des Muskel-Skelett-Systems, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung des Muskel-Skelett-Systems, nicht näher bezeichnet",
+            "inclusion": "Angeboren:\n\t\t\t\tDeformität o.n.A.\n\t\t\t\tMuskel-Skelett-System o.n.A."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

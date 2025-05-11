@@ -1,0 +1,10 @@
+{
+  "code": "R07.1",
+  "kind": "category",
+  "label": "Brustschmerzen bei der Atmung",
+  "rubrics": {
+    "preferred": "Brustschmerzen bei der Atmung",
+    "inclusion": "Schmerzhafte Atmung"
+  },
+  "children": []
+}

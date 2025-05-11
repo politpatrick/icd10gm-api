@@ -1,0 +1,58 @@
+{
+  "code": "S19",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Verletzungen des Halses",
+  "rubrics": {
+    "preferred": "Sonstige und nicht näher bezeichnete Verletzungen des Halses"
+  },
+  "children": [
+    {
+      "code": "S19.7",
+      "kind": "category",
+      "label": "Multiple Verletzungen des Halses",
+      "rubrics": {
+        "preferred": "Multiple Verletzungen des Halses",
+        "inclusion": "Verletzungen, die in mehr als einer der Kategorien S10-S18 klassifizierbar sind",
+        "coding-hint": "Bezüglich der Verschlüsselung multipler Verletzungen sind in der stationären Versorgung die Deutschen Kodierrichtlinien heranzuziehen."
+      },
+      "children": []
+    },
+    {
+      "code": "S19.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Verletzungen des Halses",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Verletzungen des Halses"
+      },
+      "children": [
+        {
+          "code": "S19.80",
+          "kind": "category",
+          "label": "Verletzung zervikaler Rückenmarkhäute",
+          "rubrics": {
+            "preferred": "Verletzung zervikaler Rückenmarkhäute"
+          },
+          "children": []
+        },
+        {
+          "code": "S19.88",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Verletzungen des Halses",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Verletzungen des Halses"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S19.9",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Verletzung des Halses",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Verletzung des Halses"
+      },
+      "children": []
+    }
+  ]
+}

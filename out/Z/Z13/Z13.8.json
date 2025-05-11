@@ -1,0 +1,11 @@
+{
+  "code": "Z13.8",
+  "kind": "category",
+  "label": "Spezielle Verfahren zur Untersuchung auf sonstige näher bezeichnete Krankheiten oder Störungen",
+  "rubrics": {
+    "preferred": "Spezielle Verfahren zur Untersuchung auf sonstige näher bezeichnete Krankheiten oder Störungen",
+    "inclusion": "Zahnkrankheiten",
+    "exclusion": "Diabetes mellitusZ13.1"
+  },
+  "children": []
+}

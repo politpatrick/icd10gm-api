@@ -1,0 +1,10 @@
+{
+  "code": "O08.5",
+  "kind": "category",
+  "label": "Stoffwechselstörungen nach Abort, Extrauteringravidität und Molenschwangerschaft",
+  "rubrics": {
+    "preferred": "Stoffwechselstörungen nach Abort, Extrauteringravidität und Molenschwangerschaft",
+    "inclusion": "Störungen des Elektrolythaushaltes nach Zuständen, die unter O00-O07 klassifizierbar sind"
+  },
+  "children": []
+}

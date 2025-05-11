@@ -1,0 +1,10 @@
+{
+  "code": "P01.4",
+  "kind": "category",
+  "label": "Schädigung des Fetus und Neugeborenen bei Extrauteringravidität",
+  "rubrics": {
+    "preferred": "Schädigung des Fetus und Neugeborenen bei Extrauteringravidität",
+    "inclusion": "Abdominalgravidität"
+  },
+  "children": []
+}

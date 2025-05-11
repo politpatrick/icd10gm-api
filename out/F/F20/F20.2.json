@@ -1,0 +1,11 @@
+{
+  "code": "F20.2",
+  "kind": "category",
+  "label": "Katatone Schizophrenie",
+  "rubrics": {
+    "preferred": "Katatone Schizophrenie",
+    "definition": "Die katatone Schizophrenie ist gekennzeichnet von den im Vordergrund stehenden psychomotorischen Störungen, die zwischen Extremen wie Erregung und Stupor sowie Befehlsautomatismus und Negativismus alternieren können. Zwangshaltungen und -stellungen können lange Zeit beibehalten werden. Episodenhafte schwere Erregungszustände können ein Charakteristikum dieses Krankheitsbildes sein. Die katatonen Phänomene können mit einem traumähnlichen (oneiroiden) Zustand mit lebhaften szenischen Halluzinationen verbunden sein.",
+    "inclusion": "Schizophren:\n\t\t\t\tKatatonie"
+  },
+  "children": []
+}

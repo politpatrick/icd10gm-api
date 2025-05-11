@@ -1,0 +1,11 @@
+{
+  "code": "F44.4",
+  "kind": "category",
+  "label": "Dissoziative Bewegungsstörungen",
+  "rubrics": {
+    "preferred": "Dissoziative Bewegungsstörungen",
+    "definition": "Die häufigsten Formen zeigen den vollständigen oder teilweisen Verlust der Bewegungsfähigkeit eines oder mehrerer Körperglieder. Sie haben große Ähnlichkeit mit fast jeder Form von Ataxie, Apraxie, Akinesie, Aphonie, Dysarthrie, Dyskinesie, Anfällen oder Lähmungen.",
+    "inclusion": "Psychogen:\n\t\t\t\tDysphonie"
+  },
+  "children": []
+}

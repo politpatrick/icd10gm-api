@@ -1,0 +1,10 @@
+{
+  "code": "B91",
+  "kind": "category",
+  "label": "Folgezustände der Poliomyelitis",
+  "rubrics": {
+    "preferred": "Folgezustände der Poliomyelitis",
+    "exclusion": "Postpolio-Syndrom G14"
+  },
+  "children": []
+}

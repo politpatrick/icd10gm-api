@@ -1,0 +1,101 @@
+{
+  "code": "U23",
+  "kind": "category",
+  "label": "Nicht belegte Schlüsselnummern U23.-",
+  "rubrics": {
+    "preferred": "Nicht belegte Schlüsselnummern U23.-",
+    "note": "Die Verwendung der Schlüsselnummern U00-U49 ist der WHO vorbehalten, um eine provisorische Zuordnung von Krankheiten unklarer Genese zu ermöglichen. Im Bedarfsfall können notwendige Schlüsselnummern in EDV-Systemen nicht immer ad hoc bereitgestellt werden. Die vorliegende Spezifikation der Kategorie U23.- stellt sicher, dass diese Kategorie und die Subkategorien in EDV-Systemen jederzeit verfügbar sind und ihre Nutzung, nach Vorgabe durch die WHO, umgehend erfolgen kann."
+  },
+  "children": [
+    {
+      "code": "U23.0",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U23.0",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U23.0"
+      },
+      "children": []
+    },
+    {
+      "code": "U23.1",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U23.1",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U23.1"
+      },
+      "children": []
+    },
+    {
+      "code": "U23.2",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U23.2",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U23.2"
+      },
+      "children": []
+    },
+    {
+      "code": "U23.3",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U23.3",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U23.3"
+      },
+      "children": []
+    },
+    {
+      "code": "U23.4",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U23.4",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U23.4"
+      },
+      "children": []
+    },
+    {
+      "code": "U23.5",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U23.5",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U23.5"
+      },
+      "children": []
+    },
+    {
+      "code": "U23.6",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U23.6",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U23.6"
+      },
+      "children": []
+    },
+    {
+      "code": "U23.7",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U23.7",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U23.7"
+      },
+      "children": []
+    },
+    {
+      "code": "U23.8",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U23.8",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U23.8"
+      },
+      "children": []
+    },
+    {
+      "code": "U23.9",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U23.9",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U23.9"
+      },
+      "children": []
+    }
+  ]
+}

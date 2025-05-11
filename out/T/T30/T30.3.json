@@ -1,0 +1,10 @@
+{
+  "code": "T30.3",
+  "kind": "category",
+  "label": "Verbrennung 3. Grades, Körperregion nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Verbrennung 3. Grades, Körperregion nicht näher bezeichnet",
+    "inclusion": "Verbrennung 3. Grades o.n.A."
+  },
+  "children": []
+}

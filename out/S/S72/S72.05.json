@@ -1,0 +1,11 @@
+{
+  "code": "S72.05",
+  "kind": "category",
+  "label": "Basis",
+  "rubrics": {
+    "preferredLong": "Schenkelhalsfraktur: Basis",
+    "preferred": "Basis",
+    "inclusion": "Zervikotrochantärer Abschnitt"
+  },
+  "children": []
+}

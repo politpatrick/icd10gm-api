@@ -1,0 +1,28 @@
+{
+  "code": "N39.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Krankheiten des Harnsystems",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Krankheiten des Harnsystems"
+  },
+  "children": [
+    {
+      "code": "N39.81",
+      "kind": "category",
+      "label": "Flankenschmerz-Hämaturie-Syndrom",
+      "rubrics": {
+        "preferred": "Flankenschmerz-Hämaturie-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "N39.88",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Harnsystems",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Harnsystems"
+      },
+      "children": []
+    }
+  ]
+}

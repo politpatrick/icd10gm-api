@@ -1,0 +1,11 @@
+{
+  "code": "E72.3",
+  "kind": "category",
+  "label": "Störungen des Lysin- und Hydroxylysinstoffwechsels",
+  "rubrics": {
+    "preferred": "Störungen des Lysin- und Hydroxylysinstoffwechsels",
+    "inclusion": "Hyperlysinämie",
+    "exclusion": "Zellweger-SyndromQ87.8"
+  },
+  "children": []
+}

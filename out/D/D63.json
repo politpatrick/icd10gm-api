@@ -1,0 +1,29 @@
+{
+  "code": "D63",
+  "kind": "category",
+  "label": "Anämie bei chronischen, anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Anämie bei chronischen, anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "D63.0",
+      "kind": "category",
+      "label": "Anämie bei NeubildungenC00-D48",
+      "rubrics": {
+        "preferred": "Anämie bei NeubildungenC00-D48"
+      },
+      "children": []
+    },
+    {
+      "code": "D63.8",
+      "kind": "category",
+      "label": "Anämie bei sonstigen chronischen, anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Anämie bei sonstigen chronischen, anderenorts klassifizierten Krankheiten",
+        "inclusion": "Anämie bei chronischer Nierenkrankheit größer oder gleich Stadium 3 N18.3-N18.5"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "code": "R45",
+  "kind": "category",
+  "label": "Symptome, die die Stimmung betreffen",
+  "rubrics": {
+    "preferred": "Symptome, die die Stimmung betreffen"
+  },
+  "children": [
+    {
+      "code": "R45.0",
+      "kind": "category",
+      "label": "Nervosität",
+      "rubrics": {
+        "preferred": "Nervosität",
+        "inclusion": "Nervöser Spannungszustand"
+      },
+      "children": []
+    },
+    {
+      "code": "R45.1",
+      "kind": "category",
+      "label": "Ruhelosigkeit und Erregung",
+      "rubrics": {
+        "preferred": "Ruhelosigkeit und Erregung"
+      },
+      "children": []
+    },
+    {
+      "code": "R45.2",
+      "kind": "category",
+      "label": "Unglücklichsein",
+      "rubrics": {
+        "preferred": "Unglücklichsein",
+        "inclusion": "Sorgen o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "R45.3",
+      "kind": "category",
+      "label": "Demoralisierung und Apathie",
+      "rubrics": {
+        "preferred": "Demoralisierung und Apathie"
+      },
+      "children": []
+    },
+    {
+      "code": "R45.4",
+      "kind": "category",
+      "label": "Reizbarkeit und Wut",
+      "rubrics": {
+        "preferred": "Reizbarkeit und Wut"
+      },
+      "children": []
+    },
+    {
+      "code": "R45.5",
+      "kind": "category",
+      "label": "Feindseligkeit",
+      "rubrics": {
+        "preferred": "Feindseligkeit"
+      },
+      "children": []
+    },
+    {
+      "code": "R45.6",
+      "kind": "category",
+      "label": "Körperliche Gewalt",
+      "rubrics": {
+        "preferred": "Körperliche Gewalt"
+      },
+      "children": []
+    },
+    {
+      "code": "R45.7",
+      "kind": "category",
+      "label": "Emotioneller Schock oder Stress, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Emotioneller Schock oder Stress, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "R45.8",
+      "kind": "category",
+      "label": "Sonstige Symptome, die die Stimmung betreffen",
+      "rubrics": {
+        "preferred": "Sonstige Symptome, die die Stimmung betreffen",
+        "inclusion": "Suizidgedanken",
+        "exclusion": "Im Rahmen einer psychischen oder VerhaltensstörungF00-F99"
+      },
+      "children": []
+    }
+  ]
+}

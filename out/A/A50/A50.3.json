@@ -1,0 +1,11 @@
+{
+  "code": "A50.3",
+  "kind": "category",
+  "label": "Konnatale spätsyphilitische Augenkrankheit",
+  "rubrics": {
+    "preferred": "Konnatale spätsyphilitische Augenkrankheit",
+    "inclusion": "Konnatale spätsyphilitische:\n\t\t\t\tinterstitielle KeratitisH19.2",
+    "exclusion": "Hutchinson-TriasA50.5"
+  },
+  "children": []
+}

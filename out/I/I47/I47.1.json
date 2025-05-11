@@ -1,0 +1,10 @@
+{
+  "code": "I47.1",
+  "kind": "category",
+  "label": "Supraventrikuläre Tachykardie",
+  "rubrics": {
+    "preferred": "Supraventrikuläre Tachykardie",
+    "inclusion": "Tachykardie (paroxysmal):\n\t\t\t\tVorhof"
+  },
+  "children": []
+}

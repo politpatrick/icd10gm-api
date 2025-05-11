@@ -1,0 +1,38 @@
+{
+  "code": "G90.6",
+  "kind": "category",
+  "label": "Komplexes regionales Schmerzsyndrom, Typ II",
+  "rubrics": {
+    "preferred": "Komplexes regionales Schmerzsyndrom, Typ II",
+    "inclusion": "Kausalgie"
+  },
+  "children": [
+    {
+      "code": "G90.60",
+      "kind": "category",
+      "label": "Komplexes regionales Schmerzsyndrom der oberen Extremität, Typ II",
+      "rubrics": {
+        "preferred": "Komplexes regionales Schmerzsyndrom der oberen Extremität, Typ II"
+      },
+      "children": []
+    },
+    {
+      "code": "G90.61",
+      "kind": "category",
+      "label": "Komplexes regionales Schmerzsyndrom der unteren Extremität, Typ II",
+      "rubrics": {
+        "preferred": "Komplexes regionales Schmerzsyndrom der unteren Extremität, Typ II"
+      },
+      "children": []
+    },
+    {
+      "code": "G90.69",
+      "kind": "category",
+      "label": "Komplexes regionales Schmerzsyndrom, Typ II, Lokalisation nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Komplexes regionales Schmerzsyndrom, Typ II, Lokalisation nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

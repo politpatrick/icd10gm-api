@@ -1,0 +1,11 @@
+{
+  "code": "C09.9",
+  "kind": "category",
+  "label": "Tonsille, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Tonsille, nicht näher bezeichnet",
+    "preferred": "Tonsille, nicht näher bezeichnet",
+    "inclusion": "Tonsille:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

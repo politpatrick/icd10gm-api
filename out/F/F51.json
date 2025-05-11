@@ -1,0 +1,96 @@
+{
+  "code": "F51",
+  "kind": "category",
+  "label": "Nichtorganische Schlafstörungen",
+  "rubrics": {
+    "preferred": "Nichtorganische Schlafstörungen",
+    "definition": "In vielen Fällen ist eine Schlafstörung Symptom einer anderen psychischen oder körperlichen Krankheit. Ob eine Schlafstörung bei einem bestimmten Patienten ein eigenständiges Krankheitsbild oder einfach Merkmal einer anderen Krankheit (klassifiziert anderenorts in Kapitel V oder in anderen Kapiteln) ist, sollte auf der Basis des klinischen Erscheinungsbildes, des Verlaufs sowie aufgrund therapeutischer Erwägungen und Prioritäten zum Zeitpunkt der Konsultation entschieden werden. Wenn die Schlafstörung eine der Hauptbeschwerden darstellt und als eigenständiges Zustandsbild aufgefasst wird, dann soll diese Kodierung gemeinsam mit dazugehörenden Diagnosen verwendet werden, welche die Psychopathologie und Pathophysiologie des gegebenen Falles beschreiben. Diese Kategorie umfasst nur Schlafstörungen, bei denen emotionale Ursachen als primärer Faktor aufgefasst werden, und die nicht durch anderenorts klassifizierte körperliche Störungen verursacht werden.",
+    "exclusion": "Schlafstörungen (organisch)G47.-"
+  },
+  "children": [
+    {
+      "code": "F51.0",
+      "kind": "category",
+      "label": "Nichtorganische Insomnie",
+      "rubrics": {
+        "preferred": "Nichtorganische Insomnie",
+        "definition": "Insomnie ist ein Zustandsbild mit einer ungenügenden Dauer und Qualität des Schlafes, das über einen beträchtlichen Zeitraum besteht und Einschlafstörungen, Durchschlafstörungen und frühmorgendliches Erwachen einschließt. Insomnie ist ein häufiges Symptom vieler psychischer und somatischer Störungen und soll daher nur zusätzlich klassifiziert werden, wenn sie das klinische Bild beherrscht.",
+        "exclusion": "Insomnie (organisch)G47.0"
+      },
+      "children": []
+    },
+    {
+      "code": "F51.1",
+      "kind": "category",
+      "label": "Nichtorganische Hypersomnie",
+      "rubrics": {
+        "preferred": "Nichtorganische Hypersomnie",
+        "definition": "Hypersomnie ist definiert entweder als Zustand exzessiver Schläfrigkeit während des Tages und Schlafattacken (die nicht durch eine inadäquate Schlafdauer erklärbar sind) oder durch verlängerte Übergangszeiten bis zum Wachzustand nach dem Aufwachen. Bei Fehlen einer organischen Ursache für die Hypersomnie ist dieses Zustandsbild gewöhnlich mit anderen psychischen Störungen verbunden.",
+        "exclusion": "NarkolepsieG47.4"
+      },
+      "children": []
+    },
+    {
+      "code": "F51.2",
+      "kind": "category",
+      "label": "Nichtorganische Störung des Schlaf-Wach-Rhythmus",
+      "rubrics": {
+        "preferred": "Nichtorganische Störung des Schlaf-Wach-Rhythmus",
+        "definition": "Eine Störung des Schlaf-Wach-Rhythmus ist definiert als Mangel an Synchronizität zwischen dem individuellen Schlaf-Wach-Rhythmus und dem erwünschten Schlaf-Wach-Rhythmus der Umgebung. Dies führt zu Klagen über Schlaflosigkeit und Hypersomnie.",
+        "inclusion": "Psychogene Umkehr:\n\t\t\t\t24-Stunden-Rhythmus",
+        "exclusion": "Störungen des Schlaf-Wach-Rhythmus (organisch)G47.2"
+      },
+      "children": []
+    },
+    {
+      "code": "F51.3",
+      "kind": "category",
+      "label": "Schlafwandeln [Somnambulismus]",
+      "rubrics": {
+        "preferred": "Schlafwandeln [Somnambulismus]",
+        "definition": "Schlafwandeln oder Somnambulismus ist ein Zustand veränderter Bewusstseinslage, in dem Phänomene von Schlaf und Wachsein kombiniert sind. Während einer schlafwandlerischen Episode verlässt die betreffende Person das Bett, häufig während des ersten Drittels des Nachtschlafes, geht umher, zeigt ein herabgesetztes Bewusstsein, verminderte Reaktivität und Geschicklichkeit. Nach dem Erwachen besteht meist keine Erinnerung an das Schlafwandeln mehr."
+      },
+      "children": []
+    },
+    {
+      "code": "F51.4",
+      "kind": "category",
+      "label": "Pavor nocturnus",
+      "rubrics": {
+        "preferred": "Pavor nocturnus",
+        "definition": "Nächtliche Episoden äußerster Furcht und Panik mit heftigem Schreien, Bewegungen und starker autonomer Erregung. Die betroffene Person setzt sich oder steht mit einem Panikschrei auf, gewöhnlich während des ersten Drittels des Nachtschlafes. Häufig stürzt sie zur Tür wie um zu entfliehen, meist aber ohne den Raum zu verlassen. Nach dem Erwachen fehlt die Erinnerung an das Geschehen oder ist auf ein oder zwei bruchstückhafte bildhafte Vorstellungen begrenzt."
+      },
+      "children": []
+    },
+    {
+      "code": "F51.5",
+      "kind": "category",
+      "label": "Albträume [Angstträume]",
+      "rubrics": {
+        "preferred": "Albträume [Angstträume]",
+        "definition": "Traumerleben voller Angst oder Furcht, mit sehr detaillierter Erinnerung an den Trauminhalt. Dieses Traumerleben ist sehr lebhaft, Themen sind die Bedrohung des Lebens, der Sicherheit oder der Selbstachtung. Oft besteht eine Wiederholung gleicher oder ähnlicher erschreckender Albtraumthemen. Während einer typischen Episode besteht eine autonome Stimulation, aber kein wahrnehmbares Schreien oder Körperbewegungen. Nach dem Aufwachen wird der Patient rasch lebhaft und orientiert.",
+        "inclusion": "Angsttraumstörung"
+      },
+      "children": []
+    },
+    {
+      "code": "F51.8",
+      "kind": "category",
+      "label": "Sonstige nichtorganische Schlafstörungen",
+      "rubrics": {
+        "preferred": "Sonstige nichtorganische Schlafstörungen"
+      },
+      "children": []
+    },
+    {
+      "code": "F51.9",
+      "kind": "category",
+      "label": "Nichtorganische Schlafstörung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Nichtorganische Schlafstörung, nicht näher bezeichnet",
+        "inclusion": "Emotional bedingte Schlafstörung o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

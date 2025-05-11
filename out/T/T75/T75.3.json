@@ -1,0 +1,10 @@
+{
+  "code": "T75.3",
+  "kind": "category",
+  "label": "Kinetose",
+  "rubrics": {
+    "preferred": "Kinetose",
+    "inclusion": "Seekrankheit"
+  },
+  "children": []
+}

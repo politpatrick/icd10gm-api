@@ -1,0 +1,10 @@
+{
+  "code": "J69.8",
+  "kind": "category",
+  "label": "Pneumonie durch sonstige feste und flüssige Substanzen",
+  "rubrics": {
+    "preferred": "Pneumonie durch sonstige feste und flüssige Substanzen",
+    "inclusion": "Pneumonie durch Aspiration von Blut"
+  },
+  "children": []
+}

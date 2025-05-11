@@ -1,0 +1,10 @@
+{
+  "code": "Z80.3",
+  "kind": "category",
+  "label": "Bösartige Neubildung der Brustdrüse [Mamma] in der Familienanamnese",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung der Brustdrüse [Mamma] in der Familienanamnese",
+    "inclusion": "Zustände, klassifizierbar unter C50.-"
+  },
+  "children": []
+}

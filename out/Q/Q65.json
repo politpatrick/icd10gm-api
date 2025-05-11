@@ -1,0 +1,94 @@
+{
+  "code": "Q65",
+  "kind": "category",
+  "label": "Angeborene Deformitäten der Hüfte",
+  "rubrics": {
+    "preferred": "Angeborene Deformitäten der Hüfte",
+    "exclusion": "Schnappende HüfteR29.4"
+  },
+  "children": [
+    {
+      "code": "Q65.0",
+      "kind": "category",
+      "label": "Angeborene Luxation des Hüftgelenkes, einseitig",
+      "rubrics": {
+        "preferred": "Angeborene Luxation des Hüftgelenkes, einseitig"
+      },
+      "children": []
+    },
+    {
+      "code": "Q65.1",
+      "kind": "category",
+      "label": "Angeborene Luxation des Hüftgelenkes, beidseitig",
+      "rubrics": {
+        "preferred": "Angeborene Luxation des Hüftgelenkes, beidseitig"
+      },
+      "children": []
+    },
+    {
+      "code": "Q65.2",
+      "kind": "category",
+      "label": "Angeborene Luxation des Hüftgelenkes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Luxation des Hüftgelenkes, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "Q65.3",
+      "kind": "category",
+      "label": "Angeborene Subluxation des Hüftgelenkes, einseitig",
+      "rubrics": {
+        "preferred": "Angeborene Subluxation des Hüftgelenkes, einseitig"
+      },
+      "children": []
+    },
+    {
+      "code": "Q65.4",
+      "kind": "category",
+      "label": "Angeborene Subluxation des Hüftgelenkes, beidseitig",
+      "rubrics": {
+        "preferred": "Angeborene Subluxation des Hüftgelenkes, beidseitig"
+      },
+      "children": []
+    },
+    {
+      "code": "Q65.5",
+      "kind": "category",
+      "label": "Angeborene Subluxation des Hüftgelenkes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Subluxation des Hüftgelenkes, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "Q65.6",
+      "kind": "category",
+      "label": "Instabiles Hüftgelenk (angeboren)",
+      "rubrics": {
+        "preferred": "Instabiles Hüftgelenk (angeboren)",
+        "inclusion": "Subluxierbare Hüfte"
+      },
+      "children": []
+    },
+    {
+      "code": "Q65.8",
+      "kind": "category",
+      "label": "Sonstige angeborene Deformitäten der Hüfte",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Deformitäten der Hüfte",
+        "inclusion": "Vermehrte Antetorsion des Schenkelhalses"
+      },
+      "children": []
+    },
+    {
+      "code": "Q65.9",
+      "kind": "category",
+      "label": "Angeborene Deformität der Hüfte, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Deformität der Hüfte, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

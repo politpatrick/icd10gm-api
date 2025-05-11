@@ -1,0 +1,10 @@
+{
+  "code": "M25.0",
+  "kind": "category",
+  "label": "Hämarthros",
+  "rubrics": {
+    "preferred": "Hämarthros",
+    "exclusion": "Akute Verletzung - siehe Gelenkverletzung nach Körperregion"
+  },
+  "children": []
+}

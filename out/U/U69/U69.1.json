@@ -1,0 +1,50 @@
+{
+  "code": "U69.1",
+  "kind": "category",
+  "label": "Sekundäre Schlüsselnummern für besondere administrative Zwecke",
+  "rubrics": {
+    "preferred": "Sekundäre Schlüsselnummern für besondere administrative Zwecke"
+  },
+  "children": [
+    {
+      "code": "U69.10",
+      "kind": "category",
+      "label": "Anderenorts klassifizierte Krankheit, für die der Verdacht besteht, dass sie Folge einer medizinisch nicht indizierten ästhetischen Operation, einer Tätowierung oder eines Piercings ist",
+      "rubrics": {
+        "preferred": "Anderenorts klassifizierte Krankheit, für die der Verdacht besteht, dass sie Folge einer medizinisch nicht indizierten ästhetischen Operation, einer Tätowierung oder eines Piercings ist",
+        "definition": "Die Schlüsselnummer dient der Umsetzung des § 52 SGB V (Leistungsbeschränkung bei Selbstverschulden) und ist verpflichtend anzugeben."
+      },
+      "children": []
+    },
+    {
+      "code": "U69.11",
+      "kind": "category",
+      "label": "Dauerhaft erworbene Blutgerinnungsstörung",
+      "rubrics": {
+        "preferred": "Dauerhaft erworbene Blutgerinnungsstörung",
+        "definition": "Dieser Zusatzkode ist nur von Einrichtungen im Geltungsbereich des § 17b KHG zu verwenden. Die Schlüsselnummer darf nur in Verbindung mit einer vorangestellten primären Schlüsselnummer aus der Anlage 7 zur FPV verwendet werden, um dadurch das abrechenbare Zusatzentgelt über die Kodierung eindeutig zu bestimmen."
+      },
+      "children": []
+    },
+    {
+      "code": "U69.12",
+      "kind": "category",
+      "label": "Temporäre Blutgerinnungsstörung",
+      "rubrics": {
+        "preferred": "Temporäre Blutgerinnungsstörung",
+        "definition": "Dieser Zusatzkode ist nur von Einrichtungen im Geltungsbereich des § 17b KHG zu verwenden. Die Schlüsselnummer darf nur in Verbindung mit einer vorangestellten primären Schlüsselnummer aus der Anlage 7 zur FPV verwendet werden, um dadurch das abrechenbare Zusatzentgelt über die Kodierung eindeutig zu bestimmen."
+      },
+      "children": []
+    },
+    {
+      "code": "U69.13",
+      "kind": "category",
+      "label": "Herz-Kreislauf-Stillstand vor Aufnahme in das Krankenhaus",
+      "rubrics": {
+        "preferred": "Herz-Kreislauf-Stillstand vor Aufnahme in das Krankenhaus",
+        "definition": "Diese Schlüsselnummer ist bei Vorliegen eines Herzstillstandes mit erfolgreicher Wiederbelebung I46.0 oder eines Herzstillstandes ohne erfolgreiche Wiederbelebung I46.9 anzugeben, wenn der Herzstillstand in unmittelbarem kausalen Zusammenhang mit der aktuellen stationären Behandlung steht und innerhalb von 24 Stunden vor stationärer Aufnahme außerhalb eines Krankenhauses aufgetreten ist."
+      },
+      "children": []
+    }
+  ]
+}

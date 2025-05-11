@@ -1,0 +1,11 @@
+{
+  "code": "T39.4",
+  "kind": "category",
+  "label": "Antirheumatika, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Antirheumatika, anderenorts nicht klassifiziert",
+    "preferred": "Antirheumatika, anderenorts nicht klassifiziert",
+    "exclusion": "SalizylateT39.0"
+  },
+  "children": []
+}

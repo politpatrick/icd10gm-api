@@ -1,0 +1,10 @@
+{
+  "code": "Z85.3",
+  "kind": "category",
+  "label": "Bösartige Neubildung der Brustdrüse [Mamma] in der Eigenanamnese",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung der Brustdrüse [Mamma] in der Eigenanamnese",
+    "inclusion": "Zustände, klassifizierbar unter C50.-"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "Z87.3",
+  "kind": "category",
+  "label": "Krankheiten des Muskel-Skelett-Systems und des Bindegewebes in der Eigenanamnese",
+  "rubrics": {
+    "preferred": "Krankheiten des Muskel-Skelett-Systems und des Bindegewebes in der Eigenanamnese",
+    "inclusion": "Zustände, klassifizierbar unter M00-M99"
+  },
+  "children": []
+}

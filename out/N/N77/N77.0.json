@@ -1,0 +1,10 @@
+{
+  "code": "N77.0",
+  "kind": "category",
+  "label": "Ulzeration der Vulva bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+  "rubrics": {
+    "preferred": "Ulzeration der Vulva bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+    "inclusion": "Ulzeration der Vulva bei:\n\t\t\t\tTuberkuloseA18.1"
+  },
+  "children": []
+}

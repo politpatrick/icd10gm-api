@@ -1,0 +1,10 @@
+{
+  "code": "T79.60",
+  "kind": "category",
+  "label": "Traumatische Muskelischämie der oberen Extremität",
+  "rubrics": {
+    "preferred": "Traumatische Muskelischämie der oberen Extremität",
+    "inclusion": "Volkmann-Kontraktur [ischämische Muskelkontraktur]"
+  },
+  "children": []
+}

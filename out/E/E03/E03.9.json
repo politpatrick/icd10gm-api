@@ -1,0 +1,10 @@
+{
+  "code": "E03.9",
+  "kind": "category",
+  "label": "Hypothyreose, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Hypothyreose, nicht näher bezeichnet",
+    "inclusion": "Myxödem o.n.A."
+  },
+  "children": []
+}

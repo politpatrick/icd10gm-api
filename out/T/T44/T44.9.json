@@ -1,0 +1,11 @@
+{
+  "code": "T44.9",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete, primär auf das autonome Nervensystem wirkende Arzneimittel",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Sonstige und nicht näher bezeichnete, primär auf das autonome Nervensystem wirkende Arzneimittel",
+    "preferred": "Sonstige und nicht näher bezeichnete, primär auf das autonome Nervensystem wirkende Arzneimittel",
+    "inclusion": "Kombinierte Alpha- und Beta-Rezeptoren-Stimulanzien"
+  },
+  "children": []
+}

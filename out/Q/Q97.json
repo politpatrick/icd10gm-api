@@ -1,0 +1,65 @@
+{
+  "code": "Q97",
+  "kind": "category",
+  "label": "Sonstige Anomalien der Gonosomen bei weiblichem Phänotyp, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Anomalien der Gonosomen bei weiblichem Phänotyp, anderenorts nicht klassifiziert",
+    "exclusion": "Turner-SyndromQ96.-"
+  },
+  "children": [
+    {
+      "code": "Q97.0",
+      "kind": "category",
+      "label": "Karyotyp 47,XXX",
+      "rubrics": {
+        "preferred": "Karyotyp 47,XXX"
+      },
+      "children": []
+    },
+    {
+      "code": "Q97.1",
+      "kind": "category",
+      "label": "Weiblicher Phänotyp mit mehr als drei X-Chromosomen",
+      "rubrics": {
+        "preferred": "Weiblicher Phänotyp mit mehr als drei X-Chromosomen"
+      },
+      "children": []
+    },
+    {
+      "code": "Q97.2",
+      "kind": "category",
+      "label": "Mosaik, Zelllinien mit unterschiedlicher Anzahl von X-Chromosomen",
+      "rubrics": {
+        "preferred": "Mosaik, Zelllinien mit unterschiedlicher Anzahl von X-Chromosomen"
+      },
+      "children": []
+    },
+    {
+      "code": "Q97.3",
+      "kind": "category",
+      "label": "Weiblicher Phänotyp mit Karyotyp 46,XY",
+      "rubrics": {
+        "preferred": "Weiblicher Phänotyp mit Karyotyp 46,XY"
+      },
+      "children": []
+    },
+    {
+      "code": "Q97.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Anomalien der Gonosomen bei weiblichem Phänotyp",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Anomalien der Gonosomen bei weiblichem Phänotyp"
+      },
+      "children": []
+    },
+    {
+      "code": "Q97.9",
+      "kind": "category",
+      "label": "Anomalie der Gonosomen bei weiblichem Phänotyp, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Anomalie der Gonosomen bei weiblichem Phänotyp, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

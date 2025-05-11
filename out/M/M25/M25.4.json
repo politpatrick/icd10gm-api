@@ -1,0 +1,10 @@
+{
+  "code": "M25.4",
+  "kind": "category",
+  "label": "Gelenkerguss",
+  "rubrics": {
+    "preferred": "Gelenkerguss",
+    "exclusion": "Hydrarthrose bei FrambösieA66.6"
+  },
+  "children": []
+}

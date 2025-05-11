@@ -1,0 +1,10 @@
+{
+  "code": "A07.0",
+  "kind": "category",
+  "label": "Balantidiose",
+  "rubrics": {
+    "preferred": "Balantidiose",
+    "inclusion": "Balantidienruhr"
+  },
+  "children": []
+}

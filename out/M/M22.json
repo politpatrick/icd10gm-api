@@ -1,0 +1,74 @@
+{
+  "code": "M22",
+  "kind": "category",
+  "label": "Krankheiten der Patella",
+  "rubrics": {
+    "preferred": "Krankheiten der Patella",
+    "exclusion": "Luxation der PatellaS83.0"
+  },
+  "children": [
+    {
+      "code": "M22.0",
+      "kind": "category",
+      "label": "Habituelle Luxation der Patella",
+      "rubrics": {
+        "preferred": "Habituelle Luxation der Patella"
+      },
+      "children": []
+    },
+    {
+      "code": "M22.1",
+      "kind": "category",
+      "label": "Habituelle Subluxation der Patella",
+      "rubrics": {
+        "preferred": "Habituelle Subluxation der Patella"
+      },
+      "children": []
+    },
+    {
+      "code": "M22.2",
+      "kind": "category",
+      "label": "Krankheiten im Patellofemoralbereich",
+      "rubrics": {
+        "preferred": "Krankheiten im Patellofemoralbereich"
+      },
+      "children": []
+    },
+    {
+      "code": "M22.3",
+      "kind": "category",
+      "label": "Sonstige Schädigungen der Patella",
+      "rubrics": {
+        "preferred": "Sonstige Schädigungen der Patella"
+      },
+      "children": []
+    },
+    {
+      "code": "M22.4",
+      "kind": "category",
+      "label": "Chondromalacia patellae",
+      "rubrics": {
+        "preferred": "Chondromalacia patellae"
+      },
+      "children": []
+    },
+    {
+      "code": "M22.8",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Patella",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Patella"
+      },
+      "children": []
+    },
+    {
+      "code": "M22.9",
+      "kind": "category",
+      "label": "Krankheit der Patella, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit der Patella, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

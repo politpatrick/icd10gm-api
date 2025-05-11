@@ -1,0 +1,10 @@
+{
+  "code": "I45.4",
+  "kind": "category",
+  "label": "Unspezifischer intraventrikulärer Block",
+  "rubrics": {
+    "preferred": "Unspezifischer intraventrikulärer Block",
+    "inclusion": "Schenkelblock o.n.A."
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "N75.8",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der Bartholin-Drüsen",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der Bartholin-Drüsen",
+    "inclusion": "Bartholinitis"
+  },
+  "children": []
+}

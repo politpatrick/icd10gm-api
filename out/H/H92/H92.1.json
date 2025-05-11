@@ -1,0 +1,10 @@
+{
+  "code": "H92.1",
+  "kind": "category",
+  "label": "Otorrhoe",
+  "rubrics": {
+    "preferred": "Otorrhoe",
+    "exclusion": "Austritt von Liquor cerebrospinalis aus dem OhrG96.0"
+  },
+  "children": []
+}

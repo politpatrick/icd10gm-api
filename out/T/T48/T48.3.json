@@ -1,0 +1,10 @@
+{
+  "code": "T48.3",
+  "kind": "category",
+  "label": "Antitussiva",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Antitussiva",
+    "preferred": "Antitussiva"
+  },
+  "children": []
+}

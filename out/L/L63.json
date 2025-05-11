@@ -1,0 +1,55 @@
+{
+  "code": "L63",
+  "kind": "category",
+  "label": "Alopecia areata",
+  "rubrics": {
+    "preferred": "Alopecia areata"
+  },
+  "children": [
+    {
+      "code": "L63.0",
+      "kind": "category",
+      "label": "Alopecia (cranialis) totalis",
+      "rubrics": {
+        "preferred": "Alopecia (cranialis) totalis"
+      },
+      "children": []
+    },
+    {
+      "code": "L63.1",
+      "kind": "category",
+      "label": "Alopecia universalis",
+      "rubrics": {
+        "preferred": "Alopecia universalis"
+      },
+      "children": []
+    },
+    {
+      "code": "L63.2",
+      "kind": "category",
+      "label": "Ophiasis",
+      "rubrics": {
+        "preferred": "Ophiasis"
+      },
+      "children": []
+    },
+    {
+      "code": "L63.8",
+      "kind": "category",
+      "label": "Sonstige Alopecia areata",
+      "rubrics": {
+        "preferred": "Sonstige Alopecia areata"
+      },
+      "children": []
+    },
+    {
+      "code": "L63.9",
+      "kind": "category",
+      "label": "Alopecia areata, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Alopecia areata, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

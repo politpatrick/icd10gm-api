@@ -1,0 +1,10 @@
+{
+  "code": "Z30.5",
+  "kind": "category",
+  "label": "Überwachung von Patientinnen mit Pessar (intrauterin) zur Kontrazeption",
+  "rubrics": {
+    "preferred": "Überwachung von Patientinnen mit Pessar (intrauterin) zur Kontrazeption",
+    "inclusion": "Kontrolle, Wiedereinsetzen oder Entfernen eines Pessars (intrauterin)"
+  },
+  "children": []
+}

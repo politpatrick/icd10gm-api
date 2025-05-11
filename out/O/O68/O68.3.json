@@ -1,0 +1,10 @@
+{
+  "code": "O68.3",
+  "kind": "category",
+  "label": "Komplikationen bei Wehen und Entbindung durch fetalen Distress, biochemisch nachgewiesen",
+  "rubrics": {
+    "preferred": "Komplikationen bei Wehen und Entbindung durch fetalen Distress, biochemisch nachgewiesen",
+    "inclusion": "Gestörter Säure-Basen-Haushalt\n\t\t\t\tbeim Fetus"
+  },
+  "children": []
+}

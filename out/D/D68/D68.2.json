@@ -1,0 +1,89 @@
+{
+  "code": "D68.2",
+  "kind": "category",
+  "label": "Hereditärer Mangel an sonstigen Gerinnungsfaktoren",
+  "rubrics": {
+    "preferred": "Hereditärer Mangel an sonstigen Gerinnungsfaktoren"
+  },
+  "children": [
+    {
+      "code": "D68.20",
+      "kind": "category",
+      "label": "Hereditärer Faktor-I-Mangel",
+      "rubrics": {
+        "preferred": "Hereditärer Faktor-I-Mangel",
+        "inclusion": "Fibrinogen-Mangel"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.21",
+      "kind": "category",
+      "label": "Hereditärer Faktor-II-Mangel",
+      "rubrics": {
+        "preferred": "Hereditärer Faktor-II-Mangel",
+        "inclusion": "Prothrombin-Mangel"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.22",
+      "kind": "category",
+      "label": "Hereditärer Faktor-V-Mangel",
+      "rubrics": {
+        "preferred": "Hereditärer Faktor-V-Mangel",
+        "inclusion": "Proakzelerin-Mangel"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.23",
+      "kind": "category",
+      "label": "Hereditärer Faktor-VII-Mangel",
+      "rubrics": {
+        "preferred": "Hereditärer Faktor-VII-Mangel",
+        "inclusion": "Stabiler-Faktor-Mangel"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.24",
+      "kind": "category",
+      "label": "Hereditärer Faktor-X-Mangel",
+      "rubrics": {
+        "preferred": "Hereditärer Faktor-X-Mangel",
+        "inclusion": "Stuart-Prower-Faktor-Mangel"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.25",
+      "kind": "category",
+      "label": "Hereditärer Faktor-XII-Mangel",
+      "rubrics": {
+        "preferred": "Hereditärer Faktor-XII-Mangel",
+        "inclusion": "Hageman-Faktor-Mangel"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.26",
+      "kind": "category",
+      "label": "Hereditärer Faktor-XIII-Mangel",
+      "rubrics": {
+        "preferred": "Hereditärer Faktor-XIII-Mangel",
+        "inclusion": "Fibrinstabilisierender-Faktor-Mangel"
+      },
+      "children": []
+    },
+    {
+      "code": "D68.28",
+      "kind": "category",
+      "label": "Hereditärer Mangel an sonstigen Gerinnungsfaktoren",
+      "rubrics": {
+        "preferred": "Hereditärer Mangel an sonstigen Gerinnungsfaktoren"
+      },
+      "children": []
+    }
+  ]
+}

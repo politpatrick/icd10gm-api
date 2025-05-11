@@ -1,0 +1,28 @@
+{
+  "code": "G59",
+  "kind": "category",
+  "label": "Mononeuropathie bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Mononeuropathie bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "G59.0",
+      "kind": "category",
+      "label": "Diabetische MononeuropathieE10-E14, vierte Stelle .4",
+      "rubrics": {
+        "preferred": "Diabetische MononeuropathieE10-E14, vierte Stelle .4"
+      },
+      "children": []
+    },
+    {
+      "code": "G59.8",
+      "kind": "category",
+      "label": "Sonstige Mononeuropathien bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Mononeuropathien bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

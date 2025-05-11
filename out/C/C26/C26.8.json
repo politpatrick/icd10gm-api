@@ -1,0 +1,13 @@
+{
+  "code": "C26.8",
+  "kind": "category",
+  "label": "Verdauungssystem, mehrere Teilbereiche überlappend",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Verdauungssystem, mehrere Teilbereiche überlappend",
+    "preferred": "Verdauungssystem, mehrere Teilbereiche überlappend",
+    "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]",
+    "inclusion": "Bösartige Neubildung der Verdauungsorgane, deren Ursprungsort nicht unter den Kategorien C15-C26.1 klassifiziert werden kann",
+    "exclusion": "Speiseröhren-Magen-ÜbergangC16.0"
+  },
+  "children": []
+}

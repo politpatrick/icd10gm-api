@@ -1,0 +1,10 @@
+{
+  "code": "S06.8",
+  "kind": "category",
+  "label": "Sonstige intrakranielle Verletzungen",
+  "rubrics": {
+    "preferred": "Sonstige intrakranielle Verletzungen",
+    "inclusion": "Traumatische Blutung, traumatisches Hämatom, Kontusion:\n\t\t\t\tKleinhirn"
+  },
+  "children": []
+}

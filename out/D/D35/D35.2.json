@@ -1,0 +1,10 @@
+{
+  "code": "D35.2",
+  "kind": "category",
+  "label": "Hypophyse",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Hypophyse",
+    "preferred": "Hypophyse"
+  },
+  "children": []
+}

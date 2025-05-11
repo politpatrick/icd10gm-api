@@ -1,0 +1,10 @@
+{
+  "code": "J99.8",
+  "kind": "category",
+  "label": "Krankheiten der Atemwege bei sonstigen anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten der Atemwege bei sonstigen anderenorts klassifizierten Krankheiten",
+    "inclusion": "Atemwegskrankheiten bei:\n\t\t\t\tSyphilisA52.7"
+  },
+  "children": []
+}

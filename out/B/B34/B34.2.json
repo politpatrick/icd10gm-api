@@ -1,0 +1,10 @@
+{
+  "code": "B34.2",
+  "kind": "category",
+  "label": "Infektion durch Coronaviren nicht näher bezeichneter Lokalisation",
+  "rubrics": {
+    "preferred": "Infektion durch Coronaviren nicht näher bezeichneter Lokalisation",
+    "exclusion": "Schweres akutes respiratorisches Syndrom [SARS]U04.9"
+  },
+  "children": []
+}

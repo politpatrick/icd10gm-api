@@ -1,0 +1,10 @@
+{
+  "code": "G53.0",
+  "kind": "category",
+  "label": "Neuralgie nach ZosterB02.2",
+  "rubrics": {
+    "preferred": "Neuralgie nach ZosterB02.2",
+    "inclusion": "Trigeminusneuralgie nach Zoster"
+  },
+  "children": []
+}

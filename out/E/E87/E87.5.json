@@ -1,0 +1,10 @@
+{
+  "code": "E87.5",
+  "kind": "category",
+  "label": "Hyperkaliämie",
+  "rubrics": {
+    "preferred": "Hyperkaliämie",
+    "inclusion": "Vermehrtes Vorhandensein von Kalium"
+  },
+  "children": []
+}

@@ -1,0 +1,100 @@
+{
+  "code": "Q98",
+  "kind": "category",
+  "label": "Sonstige Anomalien der Gonosomen bei männlichem Phänotyp, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Anomalien der Gonosomen bei männlichem Phänotyp, anderenorts nicht klassifiziert"
+  },
+  "children": [
+    {
+      "code": "Q98.0",
+      "kind": "category",
+      "label": "Klinefelter-Syndrom, Karyotyp 47,XXY",
+      "rubrics": {
+        "preferred": "Klinefelter-Syndrom, Karyotyp 47,XXY"
+      },
+      "children": []
+    },
+    {
+      "code": "Q98.1",
+      "kind": "category",
+      "label": "Klinefelter-Syndrom, männlicher Phänotyp mit mehr als zwei X-Chromosomen",
+      "rubrics": {
+        "preferred": "Klinefelter-Syndrom, männlicher Phänotyp mit mehr als zwei X-Chromosomen"
+      },
+      "children": []
+    },
+    {
+      "code": "Q98.2",
+      "kind": "category",
+      "label": "Klinefelter-Syndrom, männlicher Phänotyp mit Karyotyp 46,XX",
+      "rubrics": {
+        "preferred": "Klinefelter-Syndrom, männlicher Phänotyp mit Karyotyp 46,XX"
+      },
+      "children": []
+    },
+    {
+      "code": "Q98.3",
+      "kind": "category",
+      "label": "Sonstiger männlicher Phänotyp mit Karyotyp 46,XX",
+      "rubrics": {
+        "preferred": "Sonstiger männlicher Phänotyp mit Karyotyp 46,XX"
+      },
+      "children": []
+    },
+    {
+      "code": "Q98.4",
+      "kind": "category",
+      "label": "Klinefelter-Syndrom, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Klinefelter-Syndrom, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "Q98.5",
+      "kind": "category",
+      "label": "Karyotyp 47,XYY",
+      "rubrics": {
+        "preferred": "Karyotyp 47,XYY"
+      },
+      "children": []
+    },
+    {
+      "code": "Q98.6",
+      "kind": "category",
+      "label": "Männlicher Phänotyp mit Strukturanomalie der Gonosomen",
+      "rubrics": {
+        "preferred": "Männlicher Phänotyp mit Strukturanomalie der Gonosomen"
+      },
+      "children": []
+    },
+    {
+      "code": "Q98.7",
+      "kind": "category",
+      "label": "Männlicher Phänotyp mit Gonosomen-Mosaik",
+      "rubrics": {
+        "preferred": "Männlicher Phänotyp mit Gonosomen-Mosaik"
+      },
+      "children": []
+    },
+    {
+      "code": "Q98.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Anomalien der Gonosomen bei männlichem Phänotyp",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Anomalien der Gonosomen bei männlichem Phänotyp"
+      },
+      "children": []
+    },
+    {
+      "code": "Q98.9",
+      "kind": "category",
+      "label": "Anomalie der Gonosomen bei männlichem Phänotyp, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Anomalie der Gonosomen bei männlichem Phänotyp, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

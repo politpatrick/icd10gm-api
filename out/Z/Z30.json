@@ -1,0 +1,88 @@
+{
+  "code": "Z30",
+  "kind": "category",
+  "label": "Kontrazeptive Maßnahmen",
+  "rubrics": {
+    "preferred": "Kontrazeptive Maßnahmen"
+  },
+  "children": [
+    {
+      "code": "Z30.0",
+      "kind": "category",
+      "label": "Allgemeine Beratung zu Fragen der Kontrazeption",
+      "rubrics": {
+        "preferred": "Allgemeine Beratung zu Fragen der Kontrazeption",
+        "inclusion": "Erstverordnung von Kontrazeptiva"
+      },
+      "children": []
+    },
+    {
+      "code": "Z30.1",
+      "kind": "category",
+      "label": "Einsetzen eines Pessars (intrauterin) zur Kontrazeption",
+      "rubrics": {
+        "preferred": "Einsetzen eines Pessars (intrauterin) zur Kontrazeption"
+      },
+      "children": []
+    },
+    {
+      "code": "Z30.2",
+      "kind": "category",
+      "label": "Sterilisierung",
+      "rubrics": {
+        "preferred": "Sterilisierung",
+        "inclusion": "Stationäre Aufnahme zur Tubensterilisation oder Vasektomie"
+      },
+      "children": []
+    },
+    {
+      "code": "Z30.3",
+      "kind": "category",
+      "label": "Auslösung der Menstruation",
+      "rubrics": {
+        "preferred": "Auslösung der Menstruation",
+        "inclusion": "Regulierung der Menstruation"
+      },
+      "children": []
+    },
+    {
+      "code": "Z30.4",
+      "kind": "category",
+      "label": "Überwachung bei medikamentöser Kontrazeption",
+      "rubrics": {
+        "preferred": "Überwachung bei medikamentöser Kontrazeption",
+        "inclusion": "Wiederverordnung oraler oder sonstiger kontrazeptiver Arzneimittel"
+      },
+      "children": []
+    },
+    {
+      "code": "Z30.5",
+      "kind": "category",
+      "label": "Überwachung von Patientinnen mit Pessar (intrauterin) zur Kontrazeption",
+      "rubrics": {
+        "preferred": "Überwachung von Patientinnen mit Pessar (intrauterin) zur Kontrazeption",
+        "inclusion": "Kontrolle, Wiedereinsetzen oder Entfernen eines Pessars (intrauterin)"
+      },
+      "children": []
+    },
+    {
+      "code": "Z30.8",
+      "kind": "category",
+      "label": "Sonstige kontrazeptive Maßnahmen",
+      "rubrics": {
+        "preferred": "Sonstige kontrazeptive Maßnahmen",
+        "inclusion": "Spermienzählung nach Vasektomie"
+      },
+      "children": []
+    },
+    {
+      "code": "Z30.9",
+      "kind": "category",
+      "label": "Kontrazeptive Maßnahme, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Kontrazeptive Maßnahme, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

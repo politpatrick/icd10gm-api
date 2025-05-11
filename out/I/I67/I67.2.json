@@ -1,0 +1,10 @@
+{
+  "code": "I67.2",
+  "kind": "category",
+  "label": "Zerebrale Atherosklerose",
+  "rubrics": {
+    "preferred": "Zerebrale Atherosklerose",
+    "inclusion": "Atheromatose der Hirnarterien"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "P39.0",
+  "kind": "category",
+  "label": "Infektiöse Mastitis beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Infektiöse Mastitis beim Neugeborenen",
+    "exclusion": "Nichtinfektiöse Mastitis beim NeugeborenenP83.4"
+  },
+  "children": []
+}

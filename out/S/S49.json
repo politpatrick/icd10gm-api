@@ -1,0 +1,39 @@
+{
+  "code": "S49",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Verletzungen der Schulter und des Oberarmes",
+  "rubrics": {
+    "preferred": "Sonstige und nicht näher bezeichnete Verletzungen der Schulter und des Oberarmes"
+  },
+  "children": [
+    {
+      "code": "S49.7",
+      "kind": "category",
+      "label": "Multiple Verletzungen der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Multiple Verletzungen der Schulter und des Oberarmes",
+        "inclusion": "Verletzungen, die in mehr als einer der Kategorien S40-S48 klassifizierbar sind",
+        "coding-hint": "Bezüglich der Verschlüsselung multipler Verletzungen sind in der stationären Versorgung die Deutschen Kodierrichtlinien heranzuziehen."
+      },
+      "children": []
+    },
+    {
+      "code": "S49.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Verletzungen der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Verletzungen der Schulter und des Oberarmes"
+      },
+      "children": []
+    },
+    {
+      "code": "S49.9",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Verletzung der Schulter und des Oberarmes",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Verletzung der Schulter und des Oberarmes"
+      },
+      "children": []
+    }
+  ]
+}

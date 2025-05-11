@@ -1,0 +1,10 @@
+{
+  "code": "T14.9",
+  "kind": "category",
+  "label": "Verletzung, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Verletzung, nicht näher bezeichnet",
+    "exclusion": "Multiple Verletzungen o.n.A.T07"
+  },
+  "children": []
+}

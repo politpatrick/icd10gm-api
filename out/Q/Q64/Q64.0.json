@@ -1,0 +1,10 @@
+{
+  "code": "Q64.0",
+  "kind": "category",
+  "label": "Epispadie",
+  "rubrics": {
+    "preferred": "Epispadie",
+    "exclusion": "HypospadieQ54.-"
+  },
+  "children": []
+}

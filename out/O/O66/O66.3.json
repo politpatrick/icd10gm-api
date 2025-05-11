@@ -1,0 +1,10 @@
+{
+  "code": "O66.3",
+  "kind": "category",
+  "label": "Geburtshindernis durch sonstige Anomalien des Fetus",
+  "rubrics": {
+    "preferred": "Geburtshindernis durch sonstige Anomalien des Fetus",
+    "inclusion": "Dystokie durch:\n\t\t\t\tHydrozephalus beim Fetus"
+  },
+  "children": []
+}

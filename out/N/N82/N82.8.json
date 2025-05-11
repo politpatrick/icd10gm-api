@@ -1,0 +1,37 @@
+{
+  "code": "N82.8",
+  "kind": "category",
+  "label": "Sonstige Fisteln des weiblichen Genitaltraktes",
+  "rubrics": {
+    "preferred": "Sonstige Fisteln des weiblichen Genitaltraktes"
+  },
+  "children": [
+    {
+      "code": "N82.80",
+      "kind": "category",
+      "label": "Fistel zwischen Vagina und Pouch als Rektumersatz",
+      "rubrics": {
+        "preferred": "Fistel zwischen Vagina und Pouch als Rektumersatz"
+      },
+      "children": []
+    },
+    {
+      "code": "N82.81",
+      "kind": "category",
+      "label": "Fistel zwischen Vagina und Ersatzharnblase",
+      "rubrics": {
+        "preferred": "Fistel zwischen Vagina und Ersatzharnblase"
+      },
+      "children": []
+    },
+    {
+      "code": "N82.88",
+      "kind": "category",
+      "label": "Sonstige Fisteln des weiblichen Genitaltraktes",
+      "rubrics": {
+        "preferred": "Sonstige Fisteln des weiblichen Genitaltraktes"
+      },
+      "children": []
+    }
+  ]
+}

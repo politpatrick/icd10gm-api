@@ -1,0 +1,10 @@
+{
+  "code": "J96.0",
+  "kind": "category",
+  "label": "Akute respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Akute respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+    "coding-hint": "Bei einer vorbestehenden oder sich im Verlauf entwickelnden chronischen respiratorischen Insuffizienz ist eine Schlüsselnummer aus J96.1- zusätzlich anzugeben."
+  },
+  "children": []
+}

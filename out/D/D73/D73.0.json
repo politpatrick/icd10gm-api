@@ -1,0 +1,11 @@
+{
+  "code": "D73.0",
+  "kind": "category",
+  "label": "Hyposplenismus",
+  "rubrics": {
+    "preferred": "Hyposplenismus",
+    "inclusion": "Atrophie der Milz",
+    "exclusion": "Asplenie (angeboren)Q89.01"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D59.10",
+  "kind": "category",
+  "label": "Kälteagglutininkrankheit [CAD]",
+  "rubrics": {
+    "preferred": "Kälteagglutininkrankheit [CAD]",
+    "inclusion": "Primäre autoimmunhämolytische Krankheit vom Kälteautoantikörper-Typ (symptomatisch)"
+  },
+  "children": []
+}

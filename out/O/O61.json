@@ -1,0 +1,48 @@
+{
+  "code": "O61",
+  "kind": "category",
+  "label": "Misslungene Geburtseinleitung",
+  "rubrics": {
+    "preferred": "Misslungene Geburtseinleitung"
+  },
+  "children": [
+    {
+      "code": "O61.0",
+      "kind": "category",
+      "label": "Misslungene medikamentöse Geburtseinleitung",
+      "rubrics": {
+        "preferred": "Misslungene medikamentöse Geburtseinleitung",
+        "inclusion": "Misslungene Induktion (von Wehen) durch:\n\t\t\t\tProstaglandine"
+      },
+      "children": []
+    },
+    {
+      "code": "O61.1",
+      "kind": "category",
+      "label": "Misslungene instrumentelle Geburtseinleitung",
+      "rubrics": {
+        "preferred": "Misslungene instrumentelle Geburtseinleitung",
+        "inclusion": "Misslungene Geburtseinleitung:\n\t\t\t\toperativ"
+      },
+      "children": []
+    },
+    {
+      "code": "O61.8",
+      "kind": "category",
+      "label": "Sonstige misslungene Geburtseinleitung",
+      "rubrics": {
+        "preferred": "Sonstige misslungene Geburtseinleitung"
+      },
+      "children": []
+    },
+    {
+      "code": "O61.9",
+      "kind": "category",
+      "label": "Misslungene Geburtseinleitung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Misslungene Geburtseinleitung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

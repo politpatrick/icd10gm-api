@@ -1,0 +1,10 @@
+{
+  "code": "T85.3",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch sonstige Augenprothesen, -implantate oder -transplantate",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch sonstige Augenprothesen, -implantate oder -transplantate",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tOrbitaprothese"
+  },
+  "children": []
+}

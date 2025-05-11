@@ -1,0 +1,58 @@
+{
+  "code": "R07",
+  "kind": "category",
+  "label": "Hals- und Brustschmerzen",
+  "rubrics": {
+    "preferred": "Hals- und Brustschmerzen",
+    "exclusion": "Schmerzen in der MammaN64.4"
+  },
+  "children": [
+    {
+      "code": "R07.0",
+      "kind": "category",
+      "label": "Halsschmerzen",
+      "rubrics": {
+        "preferred": "Halsschmerzen"
+      },
+      "children": []
+    },
+    {
+      "code": "R07.1",
+      "kind": "category",
+      "label": "Brustschmerzen bei der Atmung",
+      "rubrics": {
+        "preferred": "Brustschmerzen bei der Atmung",
+        "inclusion": "Schmerzhafte Atmung"
+      },
+      "children": []
+    },
+    {
+      "code": "R07.2",
+      "kind": "category",
+      "label": "Präkordiale Schmerzen",
+      "rubrics": {
+        "preferred": "Präkordiale Schmerzen"
+      },
+      "children": []
+    },
+    {
+      "code": "R07.3",
+      "kind": "category",
+      "label": "Sonstige Brustschmerzen",
+      "rubrics": {
+        "preferred": "Sonstige Brustschmerzen",
+        "inclusion": "Schmerzen in der vorderen Brustwand o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "R07.4",
+      "kind": "category",
+      "label": "Brustschmerzen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Brustschmerzen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

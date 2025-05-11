@@ -1,0 +1,11 @@
+{
+  "code": "Q52.1",
+  "kind": "category",
+  "label": "Vagina duplex",
+  "rubrics": {
+    "preferred": "Vagina duplex",
+    "inclusion": "Vagina septa",
+    "exclusion": "Vagina duplex mit Uterus duplex und Uterus bicollisQ51.1"
+  },
+  "children": []
+}

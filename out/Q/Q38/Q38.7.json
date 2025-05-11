@@ -1,0 +1,11 @@
+{
+  "code": "Q38.7",
+  "kind": "category",
+  "label": "Schlundtasche",
+  "rubrics": {
+    "preferred": "Schlundtasche",
+    "inclusion": "Rachendivertikel",
+    "exclusion": "Syndrom des vierten KiemenbogensD82.1"
+  },
+  "children": []
+}

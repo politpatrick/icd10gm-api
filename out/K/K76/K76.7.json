@@ -1,0 +1,11 @@
+{
+  "code": "K76.7",
+  "kind": "category",
+  "label": "Hepatorenales Syndrom",
+  "rubrics": {
+    "preferred": "Hepatorenales Syndrom",
+    "inclusion": "Benutze zusätzliche Schlüsselnummern, um die zugrunde liegenden Zustände anzugeben.",
+    "exclusion": "Nach Wehen und EntbindungO90.4"
+  },
+  "children": []
+}

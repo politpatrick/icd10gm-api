@@ -1,0 +1,10 @@
+{
+  "code": "E74.0",
+  "kind": "category",
+  "label": "Glykogenspeicherkrankheit [Glykogenose]",
+  "rubrics": {
+    "preferred": "Glykogenspeicherkrankheit [Glykogenose]",
+    "inclusion": "Von-Gierke-Krankheit"
+  },
+  "children": []
+}

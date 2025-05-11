@@ -1,0 +1,10 @@
+{
+  "code": "E85.3",
+  "kind": "category",
+  "label": "Sekundäre systemische Amyloidose",
+  "rubrics": {
+    "preferred": "Sekundäre systemische Amyloidose",
+    "inclusion": "Amyloidose in Verbindung mit Hämodialyse"
+  },
+  "children": []
+}

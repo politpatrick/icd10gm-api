@@ -1,0 +1,10 @@
+{
+  "code": "K29.0",
+  "kind": "category",
+  "label": "Akute hämorrhagische Gastritis",
+  "rubrics": {
+    "preferred": "Akute hämorrhagische Gastritis",
+    "inclusion": "Akute (erosive) Gastritis mit Blutung"
+  },
+  "children": []
+}

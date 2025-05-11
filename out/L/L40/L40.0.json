@@ -1,0 +1,10 @@
+{
+  "code": "L40.0",
+  "kind": "category",
+  "label": "Psoriasis vulgaris",
+  "rubrics": {
+    "preferred": "Psoriasis vulgaris",
+    "inclusion": "Psoriasis nummularis"
+  },
+  "children": []
+}

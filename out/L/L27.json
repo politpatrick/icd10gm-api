@@ -1,0 +1,59 @@
+{
+  "code": "L27",
+  "kind": "category",
+  "label": "Dermatitis durch oral, enteral oder parenteral aufgenommene Substanzen",
+  "rubrics": {
+    "preferred": "Dermatitis durch oral, enteral oder parenteral aufgenommene Substanzen",
+    "exclusion": "UrtikariaL50.-"
+  },
+  "children": [
+    {
+      "code": "L27.0",
+      "kind": "category",
+      "label": "Generalisierte Hauteruption durch Drogen oder Arzneimittel",
+      "rubrics": {
+        "preferred": "Generalisierte Hauteruption durch Drogen oder Arzneimittel",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "L27.1",
+      "kind": "category",
+      "label": "Lokalisierte Hauteruption durch Drogen oder Arzneimittel",
+      "rubrics": {
+        "preferred": "Lokalisierte Hauteruption durch Drogen oder Arzneimittel",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "L27.2",
+      "kind": "category",
+      "label": "Dermatitis durch aufgenommene Nahrungsmittel",
+      "rubrics": {
+        "preferred": "Dermatitis durch aufgenommene Nahrungsmittel",
+        "exclusion": "Dermatitis durch Nahrungsmittel bei HautkontaktL23.6L24.6L25.4"
+      },
+      "children": []
+    },
+    {
+      "code": "L27.8",
+      "kind": "category",
+      "label": "Dermatitis durch sonstige oral, enteral oder parenteral aufgenommene Substanzen",
+      "rubrics": {
+        "preferred": "Dermatitis durch sonstige oral, enteral oder parenteral aufgenommene Substanzen"
+      },
+      "children": []
+    },
+    {
+      "code": "L27.9",
+      "kind": "category",
+      "label": "Dermatitis durch nicht näher bezeichnete oral, enteral oder parenteral aufgenommene Substanz",
+      "rubrics": {
+        "preferred": "Dermatitis durch nicht näher bezeichnete oral, enteral oder parenteral aufgenommene Substanz"
+      },
+      "children": []
+    }
+  ]
+}

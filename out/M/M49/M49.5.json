@@ -1,0 +1,10 @@
+{
+  "code": "M49.5",
+  "kind": "category",
+  "label": "Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Wirbelfraktur infolge von MetastasenC79.5"
+  },
+  "children": []
+}

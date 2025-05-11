@@ -1,0 +1,58 @@
+{
+  "code": "B01",
+  "kind": "category",
+  "label": "Varizellen [Windpocken]",
+  "rubrics": {
+    "preferred": "Varizellen [Windpocken]"
+  },
+  "children": [
+    {
+      "code": "B01.0",
+      "kind": "category",
+      "label": "Varizellen-MeningitisG02.0",
+      "rubrics": {
+        "preferred": "Varizellen-MeningitisG02.0"
+      },
+      "children": []
+    },
+    {
+      "code": "B01.1",
+      "kind": "category",
+      "label": "Varizellen-EnzephalitisG05.1",
+      "rubrics": {
+        "preferred": "Varizellen-EnzephalitisG05.1",
+        "inclusion": "Varizellen-Enzephalomyelitis"
+      },
+      "children": []
+    },
+    {
+      "code": "B01.2",
+      "kind": "category",
+      "label": "Varizellen-PneumonieJ17.1",
+      "rubrics": {
+        "preferred": "Varizellen-PneumonieJ17.1",
+        "coding-hint": "Benutze für Zwecke der externen Qualitätssicherung nach § 137 SGB V eine zusätzliche Schlüsselnummer U69.01U69.04, um den zeitlichen Bezug einer vollstationär behandelten Pneumonie bei erwachsenen Personen (18 Jahre und älter) zur stationären Krankenhausaufnahme anzugeben."
+      },
+      "children": []
+    },
+    {
+      "code": "B01.8",
+      "kind": "category",
+      "label": "Varizellen mit sonstigen Komplikationen",
+      "rubrics": {
+        "preferred": "Varizellen mit sonstigen Komplikationen"
+      },
+      "children": []
+    },
+    {
+      "code": "B01.9",
+      "kind": "category",
+      "label": "Varizellen ohne Komplikation",
+      "rubrics": {
+        "preferred": "Varizellen ohne Komplikation",
+        "inclusion": "Varizellen o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

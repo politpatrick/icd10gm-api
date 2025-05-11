@@ -1,0 +1,153 @@
+{
+  "code": "K86",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Pankreas",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Pankreas",
+    "exclusion": "Zystische PankreasfibroseE84.-"
+  },
+  "children": [
+    {
+      "code": "K86.0",
+      "kind": "category",
+      "label": "Alkoholinduzierte chronische Pankreatitis",
+      "rubrics": {
+        "preferred": "Alkoholinduzierte chronische Pankreatitis"
+      },
+      "children": []
+    },
+    {
+      "code": "K86.1",
+      "kind": "category",
+      "label": "Sonstige chronische Pankreatitis",
+      "rubrics": {
+        "preferred": "Sonstige chronische Pankreatitis"
+      },
+      "children": [
+        {
+          "code": "K86.10",
+          "kind": "category",
+          "label": "Autoimmunpankreatitis [AIP]",
+          "rubrics": {
+            "preferred": "Autoimmunpankreatitis [AIP]",
+            "inclusion": "Autoimmune Pankreatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K86.11",
+          "kind": "category",
+          "label": "Hereditäre Pankreatitis",
+          "rubrics": {
+            "preferred": "Hereditäre Pankreatitis",
+            "inclusion": "Genetisch bedingte Pankreatitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K86.18",
+          "kind": "category",
+          "label": "Sonstige chronische Pankreatitis",
+          "rubrics": {
+            "preferred": "Sonstige chronische Pankreatitis",
+            "inclusion": "Chronische Pankreatitis:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K86.2",
+      "kind": "category",
+      "label": "Pankreaszyste",
+      "rubrics": {
+        "preferred": "Pankreaszyste"
+      },
+      "children": []
+    },
+    {
+      "code": "K86.3",
+      "kind": "category",
+      "label": "Pseudozyste des Pankreas",
+      "rubrics": {
+        "preferred": "Pseudozyste des Pankreas"
+      },
+      "children": []
+    },
+    {
+      "code": "K86.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Pankreas",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Pankreas"
+      },
+      "children": [
+        {
+          "code": "K86.80",
+          "kind": "category",
+          "label": "Pankreasgangstein ohne Pankreasgangstenose",
+          "rubrics": {
+            "preferred": "Pankreasgangstein ohne Pankreasgangstenose"
+          },
+          "children": []
+        },
+        {
+          "code": "K86.81",
+          "kind": "category",
+          "label": "Pankreasgangstein mit Pankreasgangstenose",
+          "rubrics": {
+            "preferred": "Pankreasgangstein mit Pankreasgangstenose"
+          },
+          "children": []
+        },
+        {
+          "code": "K86.82",
+          "kind": "category",
+          "label": "Sonstige Pankreasgangstenose",
+          "rubrics": {
+            "preferred": "Sonstige Pankreasgangstenose",
+            "inclusion": "Pankreasgangstenose o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "K86.83",
+          "kind": "category",
+          "label": "Exokrine Pankreasinsuffizienz",
+          "rubrics": {
+            "preferred": "Exokrine Pankreasinsuffizienz"
+          },
+          "children": []
+        },
+        {
+          "code": "K86.84",
+          "kind": "category",
+          "label": "Pankreatoduodenale Fistel",
+          "rubrics": {
+            "preferred": "Pankreatoduodenale Fistel"
+          },
+          "children": []
+        },
+        {
+          "code": "K86.88",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Pankreas",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Pankreas",
+            "inclusion": "Pankreasnekrose:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K86.9",
+      "kind": "category",
+      "label": "Krankheit des Pankreas, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit des Pankreas, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

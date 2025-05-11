@@ -1,0 +1,92 @@
+{
+  "code": "G46",
+  "kind": "category",
+  "label": "Zerebrale Gefäßsyndrome bei zerebrovaskulären KrankheitenI60-I67",
+  "rubrics": {
+    "preferred": "Zerebrale Gefäßsyndrome bei zerebrovaskulären KrankheitenI60-I67"
+  },
+  "children": [
+    {
+      "code": "G46.0",
+      "kind": "category",
+      "label": "Arteria-cerebri-media-SyndromI66.0",
+      "rubrics": {
+        "preferred": "Arteria-cerebri-media-SyndromI66.0"
+      },
+      "children": []
+    },
+    {
+      "code": "G46.1",
+      "kind": "category",
+      "label": "Arteria-cerebri-anterior-SyndromI66.1",
+      "rubrics": {
+        "preferred": "Arteria-cerebri-anterior-SyndromI66.1"
+      },
+      "children": []
+    },
+    {
+      "code": "G46.2",
+      "kind": "category",
+      "label": "Arteria-cerebri-posterior-SyndromI66.2",
+      "rubrics": {
+        "preferred": "Arteria-cerebri-posterior-SyndromI66.2"
+      },
+      "children": []
+    },
+    {
+      "code": "G46.3",
+      "kind": "category",
+      "label": "HirnstammsyndromI60-I67",
+      "rubrics": {
+        "preferred": "HirnstammsyndromI60-I67",
+        "inclusion": "Weber-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "G46.4",
+      "kind": "category",
+      "label": "KleinhirnsyndromI60-I67",
+      "rubrics": {
+        "preferred": "KleinhirnsyndromI60-I67"
+      },
+      "children": []
+    },
+    {
+      "code": "G46.5",
+      "kind": "category",
+      "label": "Rein motorisches lakunäres SyndromI60-I67",
+      "rubrics": {
+        "preferred": "Rein motorisches lakunäres SyndromI60-I67"
+      },
+      "children": []
+    },
+    {
+      "code": "G46.6",
+      "kind": "category",
+      "label": "Rein sensorisches lakunäres SyndromI60-I67",
+      "rubrics": {
+        "preferred": "Rein sensorisches lakunäres SyndromI60-I67"
+      },
+      "children": []
+    },
+    {
+      "code": "G46.7",
+      "kind": "category",
+      "label": "Sonstige lakunäre SyndromeI60-I67",
+      "rubrics": {
+        "preferred": "Sonstige lakunäre SyndromeI60-I67"
+      },
+      "children": []
+    },
+    {
+      "code": "G46.8",
+      "kind": "category",
+      "label": "Sonstige Syndrome der Hirngefäße bei zerebrovaskulären KrankheitenI60-I67",
+      "rubrics": {
+        "preferred": "Sonstige Syndrome der Hirngefäße bei zerebrovaskulären KrankheitenI60-I67"
+      },
+      "children": []
+    }
+  ]
+}

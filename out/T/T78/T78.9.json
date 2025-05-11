@@ -1,0 +1,10 @@
+{
+  "code": "T78.9",
+  "kind": "category",
+  "label": "Unerwünschte Nebenwirkung, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Unerwünschte Nebenwirkung, nicht näher bezeichnet",
+    "exclusion": "Unerwünschte Nebenwirkung einer chirurgischen und medizinischen Behandlung o.n.A.T88.9"
+  },
+  "children": []
+}

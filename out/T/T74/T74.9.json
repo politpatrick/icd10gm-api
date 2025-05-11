@@ -1,0 +1,10 @@
+{
+  "code": "T74.9",
+  "kind": "category",
+  "label": "Missbrauch von Personen, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Missbrauch von Personen, nicht näher bezeichnet",
+    "inclusion": "Schäden durch Missbrauch:\n\t\t\t\teines Kindes o.n.A."
+  },
+  "children": []
+}

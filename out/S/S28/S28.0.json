@@ -1,0 +1,11 @@
+{
+  "code": "S28.0",
+  "kind": "category",
+  "label": "Brustkorbzerquetschung",
+  "rubrics": {
+    "preferred": "Brustkorbzerquetschung",
+    "coding-hint": "Verschlüssele gegebenenfalls auch Crush-Syndrom T79.5.",
+    "exclusion": "Wenn die Art der Verletzung bekannt ist (z.B. Prellung, Fraktur, Luxation, innere Verletzung), verschlüssele nur nach der Art der Verletzung"
+  },
+  "children": []
+}

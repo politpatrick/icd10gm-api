@@ -1,0 +1,10 @@
+{
+  "code": "K92.1",
+  "kind": "category",
+  "label": "Meläna",
+  "rubrics": {
+    "preferred": "Meläna",
+    "exclusion": "Okkultes Blut im StuhlR19.5"
+  },
+  "children": []
+}

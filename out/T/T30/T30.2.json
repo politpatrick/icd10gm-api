@@ -1,0 +1,29 @@
+{
+  "code": "T30.2",
+  "kind": "category",
+  "label": "Verbrennung 2. Grades, Körperregion nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Verbrennung 2. Grades, Körperregion nicht näher bezeichnet"
+  },
+  "children": [
+    {
+      "code": "T30.20",
+      "kind": "category",
+      "label": "Verbrennung Grad 2a, Körperregion nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Verbrennung Grad 2a, Körperregion nicht näher bezeichnet",
+        "inclusion": "Verbrennung nicht näher bezeichneten 2. Grades, Körperregion nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "T30.21",
+      "kind": "category",
+      "label": "Verbrennung Grad 2b, Körperregion nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Verbrennung Grad 2b, Körperregion nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

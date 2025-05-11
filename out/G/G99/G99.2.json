@@ -1,0 +1,10 @@
+{
+  "code": "G99.2",
+  "kind": "category",
+  "label": "Myelopathie bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Myelopathie bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Myelopathie bei:\n\t\t\t\tSpondyloseM47.-"
+  },
+  "children": []
+}

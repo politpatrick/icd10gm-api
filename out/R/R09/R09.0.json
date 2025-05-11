@@ -1,0 +1,10 @@
+{
+  "code": "R09.0",
+  "kind": "category",
+  "label": "Asphyxie",
+  "rubrics": {
+    "preferred": "Asphyxie",
+    "exclusion": "Asphyxie (durch):\n\t\t\t\ttraumatischT71"
+  },
+  "children": []
+}

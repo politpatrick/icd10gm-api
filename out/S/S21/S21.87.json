@@ -1,0 +1,11 @@
+{
+  "code": "S21.87",
+  "kind": "category",
+  "label": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation des Thorax",
+  "rubrics": {
+    "preferred": "Weichteilschaden I. Grades bei offener Fraktur oder Luxation des Thorax",
+    "text": "Fehlende oder geringe Kontusion, unbedeutende bakterielle Kontamination, einfache bis mittelschwere Bruchformen",
+    "inclusion": "Offene Fraktur oder Luxation nicht näher bezeichneten Grades"
+  },
+  "children": []
+}

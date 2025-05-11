@@ -1,0 +1,11 @@
+{
+  "code": "C47.0",
+  "kind": "category",
+  "label": "Periphere Nerven des Kopfes, des Gesichtes und des Halses",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Periphere Nerven des Kopfes, des Gesichtes und des Halses",
+    "preferred": "Periphere Nerven des Kopfes, des Gesichtes und des Halses",
+    "exclusion": "Periphere Nerven der OrbitaC69.6"
+  },
+  "children": []
+}

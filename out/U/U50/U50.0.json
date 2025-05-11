@@ -1,0 +1,30 @@
+{
+  "code": "U50.0",
+  "kind": "category",
+  "label": "Keine oder geringe motorische Funktionseinschränkung",
+  "rubrics": {
+    "preferred": "Keine oder geringe motorische Funktionseinschränkung"
+  },
+  "children": [
+    {
+      "code": "U50.00",
+      "kind": "category",
+      "label": "Barthel-Index: 100 Punkte",
+      "rubrics": {
+        "preferredLong": "Keine oder geringe motorische Funktionseinschränkung: Barthel-Index: 100 Punkte",
+        "preferred": "Barthel-Index: 100 Punkte"
+      },
+      "children": []
+    },
+    {
+      "code": "U50.01",
+      "kind": "category",
+      "label": "Motorischer FIM: 85-91 Punkte",
+      "rubrics": {
+        "preferredLong": "Keine oder geringe motorische Funktionseinschränkung: Motorischer FIM: 85-91 Punkte",
+        "preferred": "Motorischer FIM: 85-91 Punkte"
+      },
+      "children": []
+    }
+  ]
+}

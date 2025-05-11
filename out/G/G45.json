@@ -1,0 +1,77 @@
+{
+  "code": "G45",
+  "kind": "category",
+  "label": "Zerebrale transitorische Ischämie und verwandte Syndrome",
+  "rubrics": {
+    "preferred": "Zerebrale transitorische Ischämie und verwandte Syndrome",
+    "inclusion": "Zerebrale transitorische ischämische Attacke [TIA]",
+    "exclusion": "Zerebrale Ischämie beim NeugeborenenP91.0"
+  },
+  "children": [
+    {
+      "code": "G45.0",
+      "kind": "category",
+      "label": "Arteria-vertebralis-Syndrom mit Basilaris-Symptomatik",
+      "rubrics": {
+        "preferred": "Arteria-vertebralis-Syndrom mit Basilaris-Symptomatik"
+      },
+      "children": []
+    },
+    {
+      "code": "G45.1",
+      "kind": "category",
+      "label": "Arteria-carotis-interna-Syndrom (halbseitig)",
+      "rubrics": {
+        "preferred": "Arteria-carotis-interna-Syndrom (halbseitig)"
+      },
+      "children": []
+    },
+    {
+      "code": "G45.2",
+      "kind": "category",
+      "label": "Multiple und bilaterale Syndrome der extrazerebralen hirnversorgenden Arterien",
+      "rubrics": {
+        "preferred": "Multiple und bilaterale Syndrome der extrazerebralen hirnversorgenden Arterien"
+      },
+      "children": []
+    },
+    {
+      "code": "G45.3",
+      "kind": "category",
+      "label": "Amaurosis fugax",
+      "rubrics": {
+        "preferred": "Amaurosis fugax"
+      },
+      "children": []
+    },
+    {
+      "code": "G45.4",
+      "kind": "category",
+      "label": "Transiente globale Amnesie [amnestische Episode]",
+      "rubrics": {
+        "preferred": "Transiente globale Amnesie [amnestische Episode]",
+        "exclusion": "Amnesie o.n.A.R41.3"
+      },
+      "children": []
+    },
+    {
+      "code": "G45.8",
+      "kind": "category",
+      "label": "Sonstige zerebrale transitorische Ischämie und verwandte Syndrome",
+      "rubrics": {
+        "preferred": "Sonstige zerebrale transitorische Ischämie und verwandte Syndrome"
+      },
+      "children": []
+    },
+    {
+      "code": "G45.9",
+      "kind": "category",
+      "label": "Zerebrale transitorische Ischämie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Zerebrale transitorische Ischämie, nicht näher bezeichnet",
+        "inclusion": "Zerebrale transitorische Ischämie o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

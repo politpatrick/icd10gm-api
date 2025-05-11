@@ -1,0 +1,10 @@
+{
+  "code": "S82.5",
+  "kind": "category",
+  "label": "Fraktur des Innenknöchels",
+  "rubrics": {
+    "preferred": "Fraktur des Innenknöchels",
+    "inclusion": "Tibia, mit Beteiligung des:\n\t\t\t\toberen Sprunggelenkes"
+  },
+  "children": []
+}

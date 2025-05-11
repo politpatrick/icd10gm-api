@@ -1,0 +1,11 @@
+{
+  "code": "I45.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete kardiale Erregungsleitungsstörungen",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete kardiale Erregungsleitungsstörungen",
+    "inclusion": "Interferenzdissoziation",
+    "exclusion": "Verlängertes QT-IntervallR94.3"
+  },
+  "children": []
+}

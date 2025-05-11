@@ -1,0 +1,11 @@
+{
+  "code": "J98.6",
+  "kind": "category",
+  "label": "Krankheiten des Zwerchfells",
+  "rubrics": {
+    "preferred": "Krankheiten des Zwerchfells",
+    "inclusion": "Zwerchfellentzündung",
+    "exclusion": "Zwerchfellhernie, angeborenQ79.0"
+  },
+  "children": []
+}

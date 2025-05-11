@@ -1,0 +1,67 @@
+{
+  "code": "L12",
+  "kind": "category",
+  "label": "Pemphigoidkrankheiten",
+  "rubrics": {
+    "preferred": "Pemphigoidkrankheiten",
+    "exclusion": "Impetigo herpetiformisL40.1"
+  },
+  "children": [
+    {
+      "code": "L12.0",
+      "kind": "category",
+      "label": "Bullöses Pemphigoid",
+      "rubrics": {
+        "preferred": "Bullöses Pemphigoid"
+      },
+      "children": []
+    },
+    {
+      "code": "L12.1",
+      "kind": "category",
+      "label": "Vernarbendes Pemphigoid",
+      "rubrics": {
+        "preferred": "Vernarbendes Pemphigoid",
+        "inclusion": "Benignes Schleimhautpemphigoid"
+      },
+      "children": []
+    },
+    {
+      "code": "L12.2",
+      "kind": "category",
+      "label": "Chronisch-bullöse Dermatose des Kindesalters",
+      "rubrics": {
+        "preferred": "Chronisch-bullöse Dermatose des Kindesalters"
+      },
+      "children": []
+    },
+    {
+      "code": "L12.3",
+      "kind": "category",
+      "label": "Erworbene Epidermolysis bullosa",
+      "rubrics": {
+        "preferred": "Erworbene Epidermolysis bullosa",
+        "exclusion": "Epidermolysis bullosa (angeboren)Q81.-"
+      },
+      "children": []
+    },
+    {
+      "code": "L12.8",
+      "kind": "category",
+      "label": "Sonstige Pemphigoidkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Pemphigoidkrankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "L12.9",
+      "kind": "category",
+      "label": "Pemphigoidkrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Pemphigoidkrankheit, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

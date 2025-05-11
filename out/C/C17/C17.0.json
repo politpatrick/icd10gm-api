@@ -1,0 +1,10 @@
+{
+  "code": "C17.0",
+  "kind": "category",
+  "label": "Duodenum",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Duodenum",
+    "preferred": "Duodenum"
+  },
+  "children": []
+}

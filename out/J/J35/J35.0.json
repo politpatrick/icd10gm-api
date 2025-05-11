@@ -1,0 +1,10 @@
+{
+  "code": "J35.0",
+  "kind": "category",
+  "label": "Chronische Tonsillitis",
+  "rubrics": {
+    "preferred": "Chronische Tonsillitis",
+    "exclusion": "Tonsillitis:\n\t\t\t\to.n.A.J03.9"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "T04.0",
+  "kind": "category",
+  "label": "Zerquetschungen mit Beteiligung von Kopf und Hals",
+  "rubrics": {
+    "preferred": "Zerquetschungen mit Beteiligung von Kopf und Hals",
+    "inclusion": "Zerquetschungen an Lokalisationen, die unter S07.- und S17.- klassifizierbar sind",
+    "exclusion": "Mit Beteiligung sonstiger Körperregion(en)T04.8"
+  },
+  "children": []
+}

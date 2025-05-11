@@ -1,0 +1,10 @@
+{
+  "code": "K76.2",
+  "kind": "category",
+  "label": "Zentrale hämorrhagische Lebernekrose",
+  "rubrics": {
+    "preferred": "Zentrale hämorrhagische Lebernekrose",
+    "exclusion": "Lebernekrose (mit Leberversagen)K72.-"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "E30.8",
+  "kind": "category",
+  "label": "Sonstige Pubertätsstörungen",
+  "rubrics": {
+    "preferred": "Sonstige Pubertätsstörungen",
+    "inclusion": "Vorzeitige Thelarche"
+  },
+  "children": []
+}

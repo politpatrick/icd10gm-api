@@ -1,0 +1,10 @@
+{
+  "code": "M14.1",
+  "kind": "category",
+  "label": "Kristall-Arthropathie bei sonstigen Stoffwechselstörungen",
+  "rubrics": {
+    "preferred": "Kristall-Arthropathie bei sonstigen Stoffwechselstörungen",
+    "inclusion": "Kristall-Arthropathie bei HyperparathyreoidismusE21.-"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "I44.1",
+  "kind": "category",
+  "label": "Atrioventrikulärer Block 2. Grades",
+  "rubrics": {
+    "preferred": "Atrioventrikulärer Block 2. Grades",
+    "inclusion": "Wenckebach-Periodik"
+  },
+  "children": []
+}

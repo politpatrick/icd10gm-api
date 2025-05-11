@@ -1,0 +1,74 @@
+{
+  "code": "T41",
+  "kind": "category",
+  "label": "Vergiftung durch Anästhetika und therapeutische Gase",
+  "rubrics": {
+    "preferred": "Vergiftung durch Anästhetika und therapeutische Gase",
+    "exclusion": "OpioideT40.0-T40.2"
+  },
+  "children": [
+    {
+      "code": "T41.0",
+      "kind": "category",
+      "label": "Inhalationsanästhetika",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Inhalationsanästhetika",
+        "preferred": "Inhalationsanästhetika",
+        "exclusion": "SauerstoffT41.5"
+      },
+      "children": []
+    },
+    {
+      "code": "T41.1",
+      "kind": "category",
+      "label": "Intravenöse Anästhetika",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Intravenöse Anästhetika",
+        "preferred": "Intravenöse Anästhetika",
+        "inclusion": "Thiobarbiturate"
+      },
+      "children": []
+    },
+    {
+      "code": "T41.2",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Allgemeinanästhetika",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige und nicht näher bezeichnete Allgemeinanästhetika",
+        "preferred": "Sonstige und nicht näher bezeichnete Allgemeinanästhetika"
+      },
+      "children": []
+    },
+    {
+      "code": "T41.3",
+      "kind": "category",
+      "label": "Lokalanästhetika",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Lokalanästhetika",
+        "preferred": "Lokalanästhetika"
+      },
+      "children": []
+    },
+    {
+      "code": "T41.4",
+      "kind": "category",
+      "label": "Anästhetikum, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Anästhetikum, nicht näher bezeichnet",
+        "preferred": "Anästhetikum, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "T41.5",
+      "kind": "category",
+      "label": "Therapeutische Gase",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Therapeutische Gase",
+        "preferred": "Therapeutische Gase",
+        "inclusion": "Sauerstoff"
+      },
+      "children": []
+    }
+  ]
+}

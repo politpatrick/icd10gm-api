@@ -1,0 +1,47 @@
+{
+  "code": "H06",
+  "kind": "category",
+  "label": "Affektionen des Tränenapparates und der Orbita bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Affektionen des Tränenapparates und der Orbita bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "H06.0",
+      "kind": "category",
+      "label": "Affektionen des Tränenapparates bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Affektionen des Tränenapparates bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "H06.1",
+      "kind": "category",
+      "label": "Parasitenbefall der Orbita bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Parasitenbefall der Orbita bei anderenorts klassifizierten Krankheiten",
+        "inclusion": "Myiasis der OrbitaB87.2"
+      },
+      "children": []
+    },
+    {
+      "code": "H06.2",
+      "kind": "category",
+      "label": "Exophthalmus bei Funktionsstörung der SchilddrüseE05.-",
+      "rubrics": {
+        "preferred": "Exophthalmus bei Funktionsstörung der SchilddrüseE05.-"
+      },
+      "children": []
+    },
+    {
+      "code": "H06.3",
+      "kind": "category",
+      "label": "Sonstige Affektionen der Orbita bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Affektionen der Orbita bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

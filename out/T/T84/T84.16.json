@@ -1,0 +1,11 @@
+{
+  "code": "T84.16",
+  "kind": "category",
+  "label": "Knöchel und Fuß",
+  "rubrics": {
+    "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Knöchel und Fuß",
+    "preferred": "Knöchel und Fuß",
+    "inclusion": "Sprunggelenk"
+  },
+  "children": []
+}

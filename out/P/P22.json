@@ -1,0 +1,48 @@
+{
+  "code": "P22",
+  "kind": "category",
+  "label": "Atemnot [Respiratory distress] beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Atemnot [Respiratory distress] beim Neugeborenen",
+    "exclusion": "Respiratorisches Versagen beim NeugeborenenP28.5"
+  },
+  "children": [
+    {
+      "code": "P22.0",
+      "kind": "category",
+      "label": "Atemnotsyndrom [Respiratory distress syndrome] des Neugeborenen",
+      "rubrics": {
+        "preferred": "Atemnotsyndrom [Respiratory distress syndrome] des Neugeborenen",
+        "inclusion": "Hyaline Membranenkrankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "P22.1",
+      "kind": "category",
+      "label": "Transitorische Tachypnoe beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Transitorische Tachypnoe beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P22.8",
+      "kind": "category",
+      "label": "Sonstige Atemnot [Respiratory distress] beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Sonstige Atemnot [Respiratory distress] beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P22.9",
+      "kind": "category",
+      "label": "Atemnot [Respiratory distress] beim Neugeborenen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Atemnot [Respiratory distress] beim Neugeborenen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

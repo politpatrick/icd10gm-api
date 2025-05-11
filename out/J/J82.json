@@ -1,0 +1,11 @@
+{
+  "code": "J82",
+  "kind": "category",
+  "label": "Eosinophiles Lungeninfiltrat, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Eosinophiles Lungeninfiltrat, anderenorts nicht klassifiziert",
+    "inclusion": "Tropische (pulmonale) Eosinophilie o.n.A.",
+    "exclusion": "Durch:\n\t\t\t\tSystemkrankheiten des BindegewebesM30-M36"
+  },
+  "children": []
+}

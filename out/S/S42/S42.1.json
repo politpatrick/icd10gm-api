@@ -1,0 +1,72 @@
+{
+  "code": "S42.1",
+  "kind": "category",
+  "label": "Fraktur der Skapula",
+  "rubrics": {
+    "preferred": "Fraktur der Skapula"
+  },
+  "children": [
+    {
+      "code": "S42.10",
+      "kind": "category",
+      "label": "Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Fraktur der Skapula: Teil nicht näher bezeichnet",
+        "preferred": "Teil nicht näher bezeichnet",
+        "inclusion": "Skapula o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "S42.11",
+      "kind": "category",
+      "label": "Korpus",
+      "rubrics": {
+        "preferredLong": "Fraktur der Skapula: Korpus",
+        "preferred": "Korpus"
+      },
+      "children": []
+    },
+    {
+      "code": "S42.12",
+      "kind": "category",
+      "label": "Akromion",
+      "rubrics": {
+        "preferredLong": "Fraktur der Skapula: Akromion",
+        "preferred": "Akromion",
+        "inclusion": "Spina scapulae"
+      },
+      "children": []
+    },
+    {
+      "code": "S42.13",
+      "kind": "category",
+      "label": "Processus coracoideus",
+      "rubrics": {
+        "preferredLong": "Fraktur der Skapula: Processus coracoideus",
+        "preferred": "Processus coracoideus"
+      },
+      "children": []
+    },
+    {
+      "code": "S42.14",
+      "kind": "category",
+      "label": "Cavitas glenoidalis und Collum scapulae",
+      "rubrics": {
+        "preferredLong": "Fraktur der Skapula: Cavitas glenoidalis und Collum scapulae",
+        "preferred": "Cavitas glenoidalis und Collum scapulae"
+      },
+      "children": []
+    },
+    {
+      "code": "S42.19",
+      "kind": "category",
+      "label": "Multipel",
+      "rubrics": {
+        "preferredLong": "Fraktur der Skapula: Multipel",
+        "preferred": "Multipel"
+      },
+      "children": []
+    }
+  ]
+}

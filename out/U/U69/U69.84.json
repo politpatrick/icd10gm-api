@@ -1,0 +1,10 @@
+{
+  "code": "U69.84",
+  "kind": "category",
+  "label": "Nosokomialer septischer Schock",
+  "rubrics": {
+    "preferred": "Nosokomialer septischer Schock",
+    "definition": "Septischer Schock, ab dem dritten Kalendertag der Krankenhausaufnahme auftretend"
+  },
+  "children": []
+}

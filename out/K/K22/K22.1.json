@@ -1,0 +1,11 @@
+{
+  "code": "K22.1",
+  "kind": "category",
+  "label": "Ösophagusulkus",
+  "rubrics": {
+    "preferred": "Ösophagusulkus",
+    "inclusion": "Ulzerative Ösophagitis",
+    "coding-hint": "Soll das Vorliegen einer Ösophagusblutung angegeben werden, ist eine zusätzliche SchlüsselnummerK22.81 zu benutzen."
+  },
+  "children": []
+}

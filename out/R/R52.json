@@ -1,0 +1,49 @@
+{
+  "code": "R52",
+  "kind": "category",
+  "label": "Schmerz, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Schmerz, anderenorts nicht klassifiziert",
+    "inclusion": "Schmerz, der keinem bestimmten Organ oder keiner bestimmten Körperregion zugeordnet werden kann",
+    "exclusion": "Schmerzen:\n\t\t\t\tZungeK14.6"
+  },
+  "children": [
+    {
+      "code": "R52.0",
+      "kind": "category",
+      "label": "Akuter Schmerz",
+      "rubrics": {
+        "preferred": "Akuter Schmerz"
+      },
+      "children": []
+    },
+    {
+      "code": "R52.1",
+      "kind": "category",
+      "label": "Chronischer unbeeinflussbarer Schmerz",
+      "rubrics": {
+        "preferred": "Chronischer unbeeinflussbarer Schmerz"
+      },
+      "children": []
+    },
+    {
+      "code": "R52.2",
+      "kind": "category",
+      "label": "Sonstiger chronischer Schmerz",
+      "rubrics": {
+        "preferred": "Sonstiger chronischer Schmerz"
+      },
+      "children": []
+    },
+    {
+      "code": "R52.9",
+      "kind": "category",
+      "label": "Schmerz, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Schmerz, nicht näher bezeichnet",
+        "inclusion": "Diffuser Schmerz o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

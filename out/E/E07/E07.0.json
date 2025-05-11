@@ -1,0 +1,10 @@
+{
+  "code": "E07.0",
+  "kind": "category",
+  "label": "Hypersekretion von Kalzitonin",
+  "rubrics": {
+    "preferred": "Hypersekretion von Kalzitonin",
+    "inclusion": "Hypersekretion von Thyreokalzitonin"
+  },
+  "children": []
+}

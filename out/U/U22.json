@@ -1,0 +1,101 @@
+{
+  "code": "U22",
+  "kind": "category",
+  "label": "Nicht belegte Schlüsselnummern U22.-",
+  "rubrics": {
+    "preferred": "Nicht belegte Schlüsselnummern U22.-",
+    "note": "Die Verwendung der Schlüsselnummern U00-U49 ist der WHO vorbehalten, um eine provisorische Zuordnung von Krankheiten unklarer Genese zu ermöglichen. Im Bedarfsfall können notwendige Schlüsselnummern in EDV-Systemen nicht immer ad hoc bereitgestellt werden. Die vorliegende Spezifikation der Kategorie U22.- stellt sicher, dass diese Kategorie und die Subkategorien in EDV-Systemen jederzeit verfügbar sind und ihre Nutzung, nach Vorgabe durch die WHO, umgehend erfolgen kann."
+  },
+  "children": [
+    {
+      "code": "U22.0",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U22.0",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U22.0"
+      },
+      "children": []
+    },
+    {
+      "code": "U22.1",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U22.1",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U22.1"
+      },
+      "children": []
+    },
+    {
+      "code": "U22.2",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U22.2",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U22.2"
+      },
+      "children": []
+    },
+    {
+      "code": "U22.3",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U22.3",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U22.3"
+      },
+      "children": []
+    },
+    {
+      "code": "U22.4",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U22.4",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U22.4"
+      },
+      "children": []
+    },
+    {
+      "code": "U22.5",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U22.5",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U22.5"
+      },
+      "children": []
+    },
+    {
+      "code": "U22.6",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U22.6",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U22.6"
+      },
+      "children": []
+    },
+    {
+      "code": "U22.7",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U22.7",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U22.7"
+      },
+      "children": []
+    },
+    {
+      "code": "U22.8",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U22.8",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U22.8"
+      },
+      "children": []
+    },
+    {
+      "code": "U22.9",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U22.9",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U22.9"
+      },
+      "children": []
+    }
+  ]
+}

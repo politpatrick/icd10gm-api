@@ -1,0 +1,11 @@
+{
+  "code": "Q85.8",
+  "kind": "category",
+  "label": "Sonstige Phakomatosen, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Phakomatosen, anderenorts nicht klassifiziert",
+    "inclusion": "Syndrom:\n\t\t\t\tSturge-Weber- (Dimitri-)",
+    "exclusion": "Meckel-Gruber-SyndromQ61.9"
+  },
+  "children": []
+}

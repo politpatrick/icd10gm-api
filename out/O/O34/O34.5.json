@@ -1,0 +1,10 @@
+{
+  "code": "O34.5",
+  "kind": "category",
+  "label": "Betreuung der Mutter bei sonstigen Anomalien des graviden Uterus",
+  "rubrics": {
+    "preferred": "Betreuung der Mutter bei sonstigen Anomalien des graviden Uterus",
+    "inclusion": "Betreuung der Mutter bei:\n\t\t\t\tRetroversion\n\t\t\t\tdes graviden Uterus"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "T37.5",
+  "kind": "category",
+  "label": "Virostatika",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Virostatika",
+    "preferred": "Virostatika",
+    "exclusion": "CytarabinT45.1"
+  },
+  "children": []
+}

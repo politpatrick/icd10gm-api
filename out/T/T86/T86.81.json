@@ -1,0 +1,10 @@
+{
+  "code": "T86.81",
+  "kind": "category",
+  "label": "Lungentransplantat",
+  "rubrics": {
+    "preferredLong": "Versagen und Abstoßung: Lungentransplantat",
+    "preferred": "Lungentransplantat"
+  },
+  "children": []
+}

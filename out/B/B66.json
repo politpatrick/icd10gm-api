@@ -1,0 +1,89 @@
+{
+  "code": "B66",
+  "kind": "category",
+  "label": "Befall durch sonstige Trematoden [Egel]",
+  "rubrics": {
+    "preferred": "Befall durch sonstige Trematoden [Egel]"
+  },
+  "children": [
+    {
+      "code": "B66.0",
+      "kind": "category",
+      "label": "Opisthorchiasis",
+      "rubrics": {
+        "preferred": "Opisthorchiasis",
+        "inclusion": "Infektion durch:\n\t\t\t\tOpisthorchis (felineus) (viverrini)"
+      },
+      "children": []
+    },
+    {
+      "code": "B66.1",
+      "kind": "category",
+      "label": "Clonorchiasis",
+      "rubrics": {
+        "preferred": "Clonorchiasis",
+        "inclusion": "Orientalische Leberegel-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "B66.2",
+      "kind": "category",
+      "label": "Dicrocoeliasis",
+      "rubrics": {
+        "preferred": "Dicrocoeliasis",
+        "inclusion": "Lanzettegel-Infektion"
+      },
+      "children": []
+    },
+    {
+      "code": "B66.3",
+      "kind": "category",
+      "label": "Fascioliasis",
+      "rubrics": {
+        "preferred": "Fascioliasis",
+        "inclusion": "Schafleberegel-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "B66.4",
+      "kind": "category",
+      "label": "Paragonimiasis",
+      "rubrics": {
+        "preferred": "Paragonimiasis",
+        "inclusion": "Pulmonale Distomatose"
+      },
+      "children": []
+    },
+    {
+      "code": "B66.5",
+      "kind": "category",
+      "label": "Fasciolopsiasis",
+      "rubrics": {
+        "preferred": "Fasciolopsiasis",
+        "inclusion": "Intestinale Distomatose"
+      },
+      "children": []
+    },
+    {
+      "code": "B66.8",
+      "kind": "category",
+      "label": "Befall durch sonstige näher bezeichnete Trematoden",
+      "rubrics": {
+        "preferred": "Befall durch sonstige näher bezeichnete Trematoden",
+        "inclusion": "Watsoniasis"
+      },
+      "children": []
+    },
+    {
+      "code": "B66.9",
+      "kind": "category",
+      "label": "Trematodenbefall, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Trematodenbefall, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

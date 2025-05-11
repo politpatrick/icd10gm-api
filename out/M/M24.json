@@ -1,0 +1,111 @@
+{
+  "code": "M24",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Gelenkschädigungen",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Gelenkschädigungen",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+    "exclusion": "Schnappendes KnieM23.8-"
+  },
+  "children": [
+    {
+      "code": "M24.0",
+      "kind": "category",
+      "label": "Freier Gelenkkörper",
+      "rubrics": {
+        "preferred": "Freier Gelenkkörper",
+        "exclusion": "Freier Gelenkkörper im KniegelenkM23.4"
+      },
+      "children": []
+    },
+    {
+      "code": "M24.1",
+      "kind": "category",
+      "label": "Sonstige Gelenkknorpelschädigungen",
+      "rubrics": {
+        "preferred": "Sonstige Gelenkknorpelschädigungen",
+        "exclusion": "OchronoseE70.2"
+      },
+      "children": []
+    },
+    {
+      "code": "M24.2",
+      "kind": "category",
+      "label": "Krankheiten der Bänder",
+      "rubrics": {
+        "preferred": "Krankheiten der Bänder",
+        "inclusion": "Instabilität nach einer alten Bandverletzung",
+        "exclusion": "KniegelenkM23.5-M23.8"
+      },
+      "children": []
+    },
+    {
+      "code": "M24.3",
+      "kind": "category",
+      "label": "Pathologische Luxation und Subluxation eines Gelenkes, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Pathologische Luxation und Subluxation eines Gelenkes, anderenorts nicht klassifiziert",
+        "exclusion": "Luxation oder Subluxation:\n\t\t\t\thabituellM24.4-"
+      },
+      "children": []
+    },
+    {
+      "code": "M24.4",
+      "kind": "category",
+      "label": "Habituelle Luxation und Subluxation eines Gelenkes",
+      "rubrics": {
+        "preferred": "Habituelle Luxation und Subluxation eines Gelenkes",
+        "exclusion": "Wirbel-SubluxationM43.3-M43.5"
+      },
+      "children": []
+    },
+    {
+      "code": "M24.5",
+      "kind": "category",
+      "label": "Gelenkkontraktur",
+      "rubrics": {
+        "preferred": "Gelenkkontraktur",
+        "exclusion": "Sehnen- (Scheiden-) Kontraktur ohne GelenkkontrakturM67.1-"
+      },
+      "children": []
+    },
+    {
+      "code": "M24.6",
+      "kind": "category",
+      "label": "Ankylose eines Gelenkes",
+      "rubrics": {
+        "preferred": "Ankylose eines Gelenkes",
+        "exclusion": "WirbelsäuleM43.2-"
+      },
+      "children": []
+    },
+    {
+      "code": "M24.7",
+      "kind": "category",
+      "label": "Protrusio acetabuli",
+      "rubrics": {
+        "preferred": "Protrusio acetabuli"
+      },
+      "children": []
+    },
+    {
+      "code": "M24.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Gelenkschädigungen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Gelenkschädigungen, anderenorts nicht klassifiziert",
+        "exclusion": "Tractus-iliotibialis-Scheuersyndrom [iliotibial band syndrome]M76.3"
+      },
+      "children": []
+    },
+    {
+      "code": "M24.9",
+      "kind": "category",
+      "label": "Gelenkschädigung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Gelenkschädigung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

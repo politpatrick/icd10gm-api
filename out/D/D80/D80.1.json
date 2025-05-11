@@ -1,0 +1,10 @@
+{
+  "code": "D80.1",
+  "kind": "category",
+  "label": "Nichtfamiliäre Hypogammaglobulinämie",
+  "rubrics": {
+    "preferred": "Nichtfamiliäre Hypogammaglobulinämie",
+    "inclusion": "Hypogammaglobulinämie o.n.A."
+  },
+  "children": []
+}

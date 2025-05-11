@@ -1,0 +1,10 @@
+{
+  "code": "M91.2",
+  "kind": "category",
+  "label": "Coxa plana",
+  "rubrics": {
+    "preferred": "Coxa plana",
+    "inclusion": "Hüftdeformität durch vorangegangene juvenile Osteochondrose"
+  },
+  "children": []
+}

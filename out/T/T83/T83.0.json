@@ -1,0 +1,10 @@
+{
+  "code": "T83.0",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch einen Harnwegskatheter (Verweilkatheter)",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch einen Harnwegskatheter (Verweilkatheter)",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tZystostomiekatheter"
+  },
+  "children": []
+}

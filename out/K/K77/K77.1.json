@@ -1,0 +1,46 @@
+{
+  "code": "K77.1",
+  "kind": "category",
+  "label": "Beteiligung der Leber bei der akuten Graft-versus-Host-Krankheit",
+  "rubrics": {
+    "preferred": "Beteiligung der Leber bei der akuten Graft-versus-Host-Krankheit"
+  },
+  "children": [
+    {
+      "code": "K77.11",
+      "kind": "category",
+      "label": "Stadium 1 der akuten Leber-Graft-versus-Host-KrankheitT86.01",
+      "rubrics": {
+        "preferred": "Stadium 1 der akuten Leber-Graft-versus-Host-KrankheitT86.01"
+      },
+      "children": []
+    },
+    {
+      "code": "K77.12",
+      "kind": "category",
+      "label": "Stadium 2 der akuten Leber-Graft-versus-Host-KrankheitT86.02",
+      "rubrics": {
+        "preferred": "Stadium 2 der akuten Leber-Graft-versus-Host-KrankheitT86.02"
+      },
+      "children": []
+    },
+    {
+      "code": "K77.13",
+      "kind": "category",
+      "label": "Stadium 3 der akuten Leber-Graft-versus-Host-KrankheitT86.02",
+      "rubrics": {
+        "preferred": "Stadium 3 der akuten Leber-Graft-versus-Host-KrankheitT86.02"
+      },
+      "children": []
+    },
+    {
+      "code": "K77.14",
+      "kind": "category",
+      "label": "Stadium 4 der akuten Leber-Graft-versus-Host-KrankheitT86.02",
+      "rubrics": {
+        "preferred": "Stadium 4 der akuten Leber-Graft-versus-Host-KrankheitT86.02"
+      },
+      "children": []
+    }
+  ]
+}

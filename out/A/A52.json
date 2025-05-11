@@ -1,0 +1,79 @@
+{
+  "code": "A52",
+  "kind": "category",
+  "label": "Spätsyphilis",
+  "rubrics": {
+    "preferred": "Spätsyphilis"
+  },
+  "children": [
+    {
+      "code": "A52.0",
+      "kind": "category",
+      "label": "Kardiovaskuläre Syphilis",
+      "rubrics": {
+        "preferred": "Kardiovaskuläre Syphilis",
+        "inclusion": "Syphilitisch:\n\t\t\t\tZerebrale ArteriitisI68.1"
+      },
+      "children": []
+    },
+    {
+      "code": "A52.1",
+      "kind": "category",
+      "label": "Floride Neurosyphilis",
+      "rubrics": {
+        "preferred": "Floride Neurosyphilis",
+        "inclusion": "Tabes dorsalis",
+        "exclusion": "Charcot-ArthropathieG98M14.6-"
+      },
+      "children": []
+    },
+    {
+      "code": "A52.2",
+      "kind": "category",
+      "label": "Asymptomatische Neurosyphilis",
+      "rubrics": {
+        "preferred": "Asymptomatische Neurosyphilis"
+      },
+      "children": []
+    },
+    {
+      "code": "A52.3",
+      "kind": "category",
+      "label": "Neurosyphilis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Neurosyphilis, nicht näher bezeichnet",
+        "inclusion": "Syphilom\n\t\t\t\tZentralnervensystem, o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "A52.7",
+      "kind": "category",
+      "label": "Sonstige floride Spätsyphilis",
+      "rubrics": {
+        "preferred": "Sonstige floride Spätsyphilis",
+        "inclusion": "Syphilis [nicht näher bezeichnetes Stadium]:\n\t\t\t\tSynovialmembranM68.0-"
+      },
+      "children": []
+    },
+    {
+      "code": "A52.8",
+      "kind": "category",
+      "label": "Latente Spätsyphilis",
+      "rubrics": {
+        "preferred": "Latente Spätsyphilis",
+        "text": "Syphilis (erworben) ohne klinische Manifestationen, mit positiver Serumreaktion und negativem Liquorbefund, zwei Jahre oder später nach Infektion."
+      },
+      "children": []
+    },
+    {
+      "code": "A52.9",
+      "kind": "category",
+      "label": "Spätsyphilis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Spätsyphilis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

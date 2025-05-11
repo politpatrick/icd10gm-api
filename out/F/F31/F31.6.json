@@ -1,0 +1,11 @@
+{
+  "code": "F31.6",
+  "kind": "category",
+  "label": "Bipolare affektive Störung, gegenwärtig gemischte Episode",
+  "rubrics": {
+    "preferred": "Bipolare affektive Störung, gegenwärtig gemischte Episode",
+    "definition": "Der betroffene Patient hatte wenigstens eine eindeutig diagnostizierte hypomanische, manische, depressive oder gemischte affektive Episode in der Anamnese und zeigt gegenwärtig entweder eine Kombination oder einen raschen Wechsel von manischen und depressiven Symptomen.",
+    "exclusion": "Einzelne gemischte affektive EpisodeF38.0"
+  },
+  "children": []
+}

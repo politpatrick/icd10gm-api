@@ -1,0 +1,11 @@
+{
+  "code": "K31.5",
+  "kind": "category",
+  "label": "Duodenalverschluss",
+  "rubrics": {
+    "preferred": "Duodenalverschluss",
+    "inclusion": "Striktur\n\t\t\t\tDuodenum",
+    "exclusion": "Angeborene Stenose des DuodenumsQ41.0"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "K81.0",
+  "kind": "category",
+  "label": "Akute Cholezystitis",
+  "rubrics": {
+    "preferred": "Akute Cholezystitis",
+    "inclusion": "Gallenblasengangrän\n\t\t\t\tohne Gallenstein"
+  },
+  "children": []
+}

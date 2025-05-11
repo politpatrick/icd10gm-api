@@ -1,0 +1,11 @@
+{
+  "code": "S01.89",
+  "kind": "category",
+  "label": "Weichteilschaden III. Grades bei offener Fraktur oder Luxation des Kopfes",
+  "rubrics": {
+    "preferred": "Weichteilschaden III. Grades bei offener Fraktur oder Luxation des Kopfes",
+    "text": "Ausgedehnte Weichteildestruktion, häufig zusätzliche Gefäß- und Nervenverletzungen, starke Wundkontamination",
+    "note": "Offene Frakturen mit Weichteilschaden IV. Grades (subtotale und totale Amputation) werden als Amputation nach deren Lokalisation kodiert."
+  },
+  "children": []
+}

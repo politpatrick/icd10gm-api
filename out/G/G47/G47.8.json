@@ -1,0 +1,10 @@
+{
+  "code": "G47.8",
+  "kind": "category",
+  "label": "Sonstige Schlafstörungen",
+  "rubrics": {
+    "preferred": "Sonstige Schlafstörungen",
+    "inclusion": "Kleine-Levin-Syndrom"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "R00.2",
+  "kind": "category",
+  "label": "Palpitationen",
+  "rubrics": {
+    "preferred": "Palpitationen",
+    "inclusion": "Herzklopfen"
+  },
+  "children": []
+}

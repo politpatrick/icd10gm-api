@@ -1,0 +1,11 @@
+{
+  "code": "N90.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete nichtentzündliche Krankheiten der Vulva und des Perineums",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete nichtentzündliche Krankheiten der Vulva und des Perineums",
+    "inclusion": "Hypertrophie der Klitoris",
+    "exclusion": "Weibliche GenitalverstümmelungZ91.7-"
+  },
+  "children": []
+}

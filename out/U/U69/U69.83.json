@@ -1,0 +1,10 @@
+{
+  "code": "U69.83",
+  "kind": "category",
+  "label": "Nicht-nosokomialer septischer Schock",
+  "rubrics": {
+    "preferred": "Nicht-nosokomialer septischer Schock",
+    "definition": "Septischer Schock, vor dem dritten Kalendertag der Krankenhausaufnahme auftretend"
+  },
+  "children": []
+}

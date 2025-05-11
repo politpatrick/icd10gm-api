@@ -1,0 +1,40 @@
+{
+  "code": "N70",
+  "kind": "category",
+  "label": "Salpingitis und Oophoritis",
+  "rubrics": {
+    "preferred": "Salpingitis und Oophoritis",
+    "inclusion": "Tuboovarialentzündung",
+    "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+  },
+  "children": [
+    {
+      "code": "N70.0",
+      "kind": "category",
+      "label": "Akute Salpingitis und Oophoritis",
+      "rubrics": {
+        "preferred": "Akute Salpingitis und Oophoritis"
+      },
+      "children": []
+    },
+    {
+      "code": "N70.1",
+      "kind": "category",
+      "label": "Chronische Salpingitis und Oophoritis",
+      "rubrics": {
+        "preferred": "Chronische Salpingitis und Oophoritis",
+        "inclusion": "Hydrosalpinx"
+      },
+      "children": []
+    },
+    {
+      "code": "N70.9",
+      "kind": "category",
+      "label": "Salpingitis und Oophoritis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Salpingitis und Oophoritis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

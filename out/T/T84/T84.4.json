@@ -1,0 +1,10 @@
+{
+  "code": "T84.4",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch sonstige intern verwendete orthopädische Geräte, Implantate und Transplantate",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch sonstige intern verwendete orthopädische Geräte, Implantate und Transplantate",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch Muskel- oder Sehnentransplantat"
+  },
+  "children": []
+}

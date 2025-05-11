@@ -1,0 +1,10 @@
+{
+  "code": "T90.4",
+  "kind": "category",
+  "label": "Folgen einer Verletzung des Auges und der Orbita",
+  "rubrics": {
+    "preferred": "Folgen einer Verletzung des Auges und der Orbita",
+    "inclusion": "Folgen einer Verletzung, die unter S05.- klassifizierbar ist"
+  },
+  "children": []
+}

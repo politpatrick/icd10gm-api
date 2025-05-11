@@ -1,0 +1,10 @@
+{
+  "code": "M18.1",
+  "kind": "category",
+  "label": "Sonstige primäre Rhizarthrose",
+  "rubrics": {
+    "preferred": "Sonstige primäre Rhizarthrose",
+    "inclusion": "Primäre Rhizarthrose:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

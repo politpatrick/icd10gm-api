@@ -1,0 +1,10 @@
+{
+  "code": "L23.6",
+  "kind": "category",
+  "label": "Allergische Kontaktdermatitis durch Nahrungsmittel bei Hautkontakt",
+  "rubrics": {
+    "preferred": "Allergische Kontaktdermatitis durch Nahrungsmittel bei Hautkontakt",
+    "exclusion": "Dermatitis durch aufgenommene NahrungsmittelL27.2"
+  },
+  "children": []
+}

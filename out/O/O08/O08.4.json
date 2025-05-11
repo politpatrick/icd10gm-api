@@ -1,0 +1,11 @@
+{
+  "code": "O08.4",
+  "kind": "category",
+  "label": "Niereninsuffizienz nach Abort, Extrauteringravidität und Molenschwangerschaft",
+  "rubrics": {
+    "preferred": "Niereninsuffizienz nach Abort, Extrauteringravidität und Molenschwangerschaft",
+    "inclusion": "Urämie\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind",
+    "coding-hint": "Soll das Stadium des akuten Nierenversagens angegeben werden, ist eine zusätzliche Schlüsselnummer aus N17.- zu benutzen."
+  },
+  "children": []
+}

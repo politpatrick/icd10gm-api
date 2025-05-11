@@ -1,0 +1,10 @@
+{
+  "code": "E24.0",
+  "kind": "category",
+  "label": "Hypophysäres Cushing-Syndrom",
+  "rubrics": {
+    "preferred": "Hypophysäres Cushing-Syndrom",
+    "inclusion": "Überproduktion von ACTH der Adenohypophyse"
+  },
+  "children": []
+}

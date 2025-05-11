@@ -1,0 +1,11 @@
+{
+  "code": "S82.38",
+  "kind": "category",
+  "label": "Sonstige",
+  "rubrics": {
+    "preferredLong": "Distale Fraktur der Tibia: Sonstige",
+    "preferred": "Sonstige",
+    "inclusion": "Distale Tibiafraktur o.n.A."
+  },
+  "children": []
+}

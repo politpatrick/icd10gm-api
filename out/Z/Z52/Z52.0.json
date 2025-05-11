@@ -1,0 +1,38 @@
+{
+  "code": "Z52.0",
+  "kind": "category",
+  "label": "Blutspender",
+  "rubrics": {
+    "preferred": "Blutspender"
+  },
+  "children": [
+    {
+      "code": "Z52.00",
+      "kind": "category",
+      "label": "Vollblutspender",
+      "rubrics": {
+        "preferred": "Vollblutspender"
+      },
+      "children": []
+    },
+    {
+      "code": "Z52.01",
+      "kind": "category",
+      "label": "Stammzellenspender",
+      "rubrics": {
+        "preferred": "Stammzellenspender"
+      },
+      "children": []
+    },
+    {
+      "code": "Z52.08",
+      "kind": "category",
+      "label": "Spender sonstiger Blutbestandteile",
+      "rubrics": {
+        "preferred": "Spender sonstiger Blutbestandteile",
+        "inclusion": "Thrombozyten"
+      },
+      "children": []
+    }
+  ]
+}

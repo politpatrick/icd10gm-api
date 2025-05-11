@@ -1,0 +1,10 @@
+{
+  "code": "O91.0",
+  "kind": "category",
+  "label": "Infektion der Brustwarze im Zusammenhang mit der Gestation",
+  "rubrics": {
+    "preferred": "Infektion der Brustwarze im Zusammenhang mit der Gestation",
+    "inclusion": "Abszess der Brustwarze:\n\t\t\t\tschwangerschaftsbedingt"
+  },
+  "children": []
+}

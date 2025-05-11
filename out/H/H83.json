@@ -1,0 +1,66 @@
+{
+  "code": "H83",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Innenohres",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Innenohres"
+  },
+  "children": [
+    {
+      "code": "H83.0",
+      "kind": "category",
+      "label": "Labyrinthitis",
+      "rubrics": {
+        "preferred": "Labyrinthitis"
+      },
+      "children": []
+    },
+    {
+      "code": "H83.1",
+      "kind": "category",
+      "label": "Labyrinthfistel",
+      "rubrics": {
+        "preferred": "Labyrinthfistel"
+      },
+      "children": []
+    },
+    {
+      "code": "H83.2",
+      "kind": "category",
+      "label": "Funktionsstörung des Labyrinths",
+      "rubrics": {
+        "preferred": "Funktionsstörung des Labyrinths",
+        "inclusion": "Unterfunktion\n\t\t\t\tLabyrinth"
+      },
+      "children": []
+    },
+    {
+      "code": "H83.3",
+      "kind": "category",
+      "label": "Lärmschädigungen des Innenohres",
+      "rubrics": {
+        "preferred": "Lärmschädigungen des Innenohres",
+        "inclusion": "Lärmschwerhörigkeit"
+      },
+      "children": []
+    },
+    {
+      "code": "H83.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Innenohres",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Innenohres"
+      },
+      "children": []
+    },
+    {
+      "code": "H83.9",
+      "kind": "category",
+      "label": "Krankheit des Innenohres, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit des Innenohres, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

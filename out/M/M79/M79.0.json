@@ -1,0 +1,10 @@
+{
+  "code": "M79.0",
+  "kind": "category",
+  "label": "Rheumatismus, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Rheumatismus, nicht näher bezeichnet",
+    "exclusion": "Palindromer RheumatismusM12.3-"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "M10.3",
+  "kind": "category",
+  "label": "Gicht durch Nierenfunktionsstörung",
+  "rubrics": {
+    "preferred": "Gicht durch Nierenfunktionsstörung",
+    "coding-hint": "Soll die Art der Nierenfunktionsstörung angegeben werden, ist eine zusätzliche Schlüsselnummer (N17-N19) zu benutzen."
+  },
+  "children": []
+}

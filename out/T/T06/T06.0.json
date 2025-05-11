@@ -1,0 +1,10 @@
+{
+  "code": "T06.0",
+  "kind": "category",
+  "label": "Verletzungen des Gehirns und der Hirnnerven kombiniert mit Verletzungen von Nerven und Rückenmark in Halshöhe",
+  "rubrics": {
+    "preferred": "Verletzungen des Gehirns und der Hirnnerven kombiniert mit Verletzungen von Nerven und Rückenmark in Halshöhe",
+    "inclusion": "Verletzungen, die unter S04.- und S06.- klassifizierbar sind, gemeinsam mit Verletzungen, die unter S14.- klassifizierbar sind"
+  },
+  "children": []
+}

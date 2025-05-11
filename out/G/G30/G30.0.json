@@ -1,0 +1,10 @@
+{
+  "code": "G30.0",
+  "kind": "category",
+  "label": "Alzheimer-Krankheit mit frühem BeginnF00.0",
+  "rubrics": {
+    "preferred": "Alzheimer-Krankheit mit frühem BeginnF00.0",
+    "note": "Beginn gewöhnlich vor dem 65. Lebensjahr"
+  },
+  "children": []
+}

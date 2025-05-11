@@ -1,0 +1,67 @@
+{
+  "code": "K12.2",
+  "kind": "category",
+  "label": "Phlegmone und Abszess des Mundes",
+  "rubrics": {
+    "preferred": "Phlegmone und Abszess des Mundes",
+    "exclusion": "Abszess:\n\t\t\t\tZungeK14.0"
+  },
+  "children": [
+    {
+      "code": "K12.20",
+      "kind": "category",
+      "label": "Mund- (Boden-) Phlegmone",
+      "rubrics": {
+        "preferred": "Mund- (Boden-) Phlegmone"
+      },
+      "children": []
+    },
+    {
+      "code": "K12.21",
+      "kind": "category",
+      "label": "Submandibularabszess ohne Angabe einer Ausbreitung nach mediastinal, parapharyngeal oder zervikal",
+      "rubrics": {
+        "preferred": "Submandibularabszess ohne Angabe einer Ausbreitung nach mediastinal, parapharyngeal oder zervikal"
+      },
+      "children": []
+    },
+    {
+      "code": "K12.22",
+      "kind": "category",
+      "label": "Submandibularabszess mit Ausbreitung nach mediastinal, parapharyngeal oder zervikal",
+      "rubrics": {
+        "preferred": "Submandibularabszess mit Ausbreitung nach mediastinal, parapharyngeal oder zervikal"
+      },
+      "children": []
+    },
+    {
+      "code": "K12.23",
+      "kind": "category",
+      "label": "Wangenabszess",
+      "rubrics": {
+        "preferred": "Wangenabszess",
+        "exclusion": "Abszess der WangenhautL02.0"
+      },
+      "children": []
+    },
+    {
+      "code": "K12.28",
+      "kind": "category",
+      "label": "Sonstige Phlegmone und Abszess des Mundes",
+      "rubrics": {
+        "preferred": "Sonstige Phlegmone und Abszess des Mundes",
+        "inclusion": "Perimandibularabszess"
+      },
+      "children": []
+    },
+    {
+      "code": "K12.29",
+      "kind": "category",
+      "label": "Phlegmone und Abszess des Mundes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Phlegmone und Abszess des Mundes, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

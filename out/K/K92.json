@@ -1,0 +1,59 @@
+{
+  "code": "K92",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Verdauungssystems",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Verdauungssystems",
+    "exclusion": "Gastrointestinale Blutung beim NeugeborenenP54.0-P54.3"
+  },
+  "children": [
+    {
+      "code": "K92.0",
+      "kind": "category",
+      "label": "Hämatemesis",
+      "rubrics": {
+        "preferred": "Hämatemesis"
+      },
+      "children": []
+    },
+    {
+      "code": "K92.1",
+      "kind": "category",
+      "label": "Meläna",
+      "rubrics": {
+        "preferred": "Meläna",
+        "exclusion": "Okkultes Blut im StuhlR19.5"
+      },
+      "children": []
+    },
+    {
+      "code": "K92.2",
+      "kind": "category",
+      "label": "Gastrointestinale Blutung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Gastrointestinale Blutung, nicht näher bezeichnet",
+        "inclusion": "Blutung:\n\t\t\t\tMagen o.n.A.",
+        "exclusion": "ÖsophagusblutungK22.81"
+      },
+      "children": []
+    },
+    {
+      "code": "K92.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Verdauungssystems",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Verdauungssystems"
+      },
+      "children": []
+    },
+    {
+      "code": "K92.9",
+      "kind": "category",
+      "label": "Krankheit des Verdauungssystems, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit des Verdauungssystems, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

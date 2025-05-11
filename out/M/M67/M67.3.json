@@ -1,0 +1,11 @@
+{
+  "code": "M67.3",
+  "kind": "category",
+  "label": "Transitorische Synovitis",
+  "rubrics": {
+    "preferred": "Transitorische Synovitis",
+    "inclusion": "Toxische Synovitis",
+    "exclusion": "Palindromer RheumatismusM12.3-"
+  },
+  "children": []
+}

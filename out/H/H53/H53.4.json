@@ -1,0 +1,10 @@
+{
+  "code": "H53.4",
+  "kind": "category",
+  "label": "Gesichtsfelddefekte",
+  "rubrics": {
+    "preferred": "Gesichtsfelddefekte",
+    "inclusion": "Vergrößerter blinder Fleck"
+  },
+  "children": []
+}

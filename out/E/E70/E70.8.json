@@ -1,0 +1,10 @@
+{
+  "code": "E70.8",
+  "kind": "category",
+  "label": "Sonstige Störungen des Stoffwechsels aromatischer Aminosäuren",
+  "rubrics": {
+    "preferred": "Sonstige Störungen des Stoffwechsels aromatischer Aminosäuren",
+    "inclusion": "Störungen:\n\t\t\t\tTryptophanstoffwechsel"
+  },
+  "children": []
+}

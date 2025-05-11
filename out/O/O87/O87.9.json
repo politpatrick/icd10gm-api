@@ -1,0 +1,10 @@
+{
+  "code": "O87.9",
+  "kind": "category",
+  "label": "Venenkrankheit als Komplikation im Wochenbett, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Venenkrankheit als Komplikation im Wochenbett, nicht näher bezeichnet",
+    "inclusion": "Puerperal:\n\t\t\t\tThrombose o.n.A."
+  },
+  "children": []
+}

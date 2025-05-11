@@ -1,0 +1,11 @@
+{
+  "code": "N48.4",
+  "kind": "category",
+  "label": "Impotenz organischen Ursprungs",
+  "rubrics": {
+    "preferred": "Impotenz organischen Ursprungs",
+    "coding-hint": "Soll die Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen.",
+    "exclusion": "Psychogene ImpotenzF52.2"
+  },
+  "children": []
+}

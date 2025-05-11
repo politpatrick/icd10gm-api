@@ -1,0 +1,76 @@
+{
+  "code": "B42",
+  "kind": "category",
+  "label": "Sporotrichose",
+  "rubrics": {
+    "preferred": "Sporotrichose"
+  },
+  "children": [
+    {
+      "code": "B42.0",
+      "kind": "category",
+      "label": "Sporotrichose der LungeJ99.8",
+      "rubrics": {
+        "preferred": "Sporotrichose der LungeJ99.8"
+      },
+      "children": []
+    },
+    {
+      "code": "B42.1",
+      "kind": "category",
+      "label": "Lymphokutane Sporotrichose",
+      "rubrics": {
+        "preferred": "Lymphokutane Sporotrichose"
+      },
+      "children": []
+    },
+    {
+      "code": "B42.7",
+      "kind": "category",
+      "label": "Disseminierte Sporotrichose",
+      "rubrics": {
+        "preferred": "Disseminierte Sporotrichose"
+      },
+      "children": [
+        {
+          "code": "B42.70",
+          "kind": "category",
+          "label": "Sepsis durch Sporothrix",
+          "rubrics": {
+            "preferred": "Sepsis durch Sporothrix",
+            "coding-hint": "Benutze für vollstationär im Krankenhaus behandelte, erwachsene Personen (18 Jahre und älter) eine zusätzliche SchlüsselnummerU69.80!-U69.82, um den zeitlichen Bezug der Sepsis zur stationären Krankenhausaufnahme anzugeben."
+          },
+          "children": []
+        },
+        {
+          "code": "B42.78",
+          "kind": "category",
+          "label": "Sonstige disseminierte Sporotrichose",
+          "rubrics": {
+            "preferred": "Sonstige disseminierte Sporotrichose",
+            "inclusion": "Generalisierte Sporotrichose o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B42.8",
+      "kind": "category",
+      "label": "Sonstige Formen der Sporotrichose",
+      "rubrics": {
+        "preferred": "Sonstige Formen der Sporotrichose"
+      },
+      "children": []
+    },
+    {
+      "code": "B42.9",
+      "kind": "category",
+      "label": "Sporotrichose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Sporotrichose, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "Q61.9",
+  "kind": "category",
+  "label": "Zystische Nierenkrankheit, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Zystische Nierenkrankheit, nicht näher bezeichnet",
+    "inclusion": "Meckel-Gruber-Syndrom"
+  },
+  "children": []
+}

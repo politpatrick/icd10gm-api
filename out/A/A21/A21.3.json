@@ -1,0 +1,10 @@
+{
+  "code": "A21.3",
+  "kind": "category",
+  "label": "Gastrointestinale Tularämie",
+  "rubrics": {
+    "preferred": "Gastrointestinale Tularämie",
+    "inclusion": "Abdominale Tularämie"
+  },
+  "children": []
+}

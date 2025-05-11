@@ -1,0 +1,10 @@
+{
+  "code": "P61.0",
+  "kind": "category",
+  "label": "Transitorische Thrombozytopenie beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Transitorische Thrombozytopenie beim Neugeborenen",
+    "inclusion": "Thrombozytopenie beim Neugeborenen durch:\n\t\t\t\tIsoimmunisierung"
+  },
+  "children": []
+}

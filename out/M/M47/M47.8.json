@@ -1,0 +1,10 @@
+{
+  "code": "M47.8",
+  "kind": "category",
+  "label": "Sonstige Spondylose",
+  "rubrics": {
+    "preferred": "Sonstige Spondylose",
+    "inclusion": "Zervikale Spondylose\n\t\t\t\tohne Myelopathie oder Radikulopathie"
+  },
+  "children": []
+}

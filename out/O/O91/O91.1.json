@@ -1,0 +1,10 @@
+{
+  "code": "O91.1",
+  "kind": "category",
+  "label": "Abszess der Mamma im Zusammenhang mit der Gestation",
+  "rubrics": {
+    "preferred": "Abszess der Mamma im Zusammenhang mit der Gestation",
+    "inclusion": "Subareolarabszess\n\t\t\t\tschwangerschaftsbedingt oder im Wochenbett"
+  },
+  "children": []
+}

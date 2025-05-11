@@ -1,0 +1,10 @@
+{
+  "code": "I09.0",
+  "kind": "category",
+  "label": "Rheumatische Myokarditis",
+  "rubrics": {
+    "preferred": "Rheumatische Myokarditis",
+    "exclusion": "Myokarditis, nicht als rheumatisch bezeichnetI51.4"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "F51.5",
+  "kind": "category",
+  "label": "Albträume [Angstträume]",
+  "rubrics": {
+    "preferred": "Albträume [Angstträume]",
+    "definition": "Traumerleben voller Angst oder Furcht, mit sehr detaillierter Erinnerung an den Trauminhalt. Dieses Traumerleben ist sehr lebhaft, Themen sind die Bedrohung des Lebens, der Sicherheit oder der Selbstachtung. Oft besteht eine Wiederholung gleicher oder ähnlicher erschreckender Albtraumthemen. Während einer typischen Episode besteht eine autonome Stimulation, aber kein wahrnehmbares Schreien oder Körperbewegungen. Nach dem Aufwachen wird der Patient rasch lebhaft und orientiert.",
+    "inclusion": "Angsttraumstörung"
+  },
+  "children": []
+}

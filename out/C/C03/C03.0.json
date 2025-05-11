@@ -1,0 +1,10 @@
+{
+  "code": "C03.0",
+  "kind": "category",
+  "label": "Oberkieferzahnfleisch",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Oberkieferzahnfleisch",
+    "preferred": "Oberkieferzahnfleisch"
+  },
+  "children": []
+}

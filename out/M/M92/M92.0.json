@@ -1,0 +1,10 @@
+{
+  "code": "M92.0",
+  "kind": "category",
+  "label": "Juvenile Osteochondrose des Humerus",
+  "rubrics": {
+    "preferred": "Juvenile Osteochondrose des Humerus",
+    "inclusion": "Osteochondrose (juvenile):\n\t\t\t\tCaput humeri [Hass-Krankheit]"
+  },
+  "children": []
+}

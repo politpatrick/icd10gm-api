@@ -1,0 +1,59 @@
+{
+  "code": "J30",
+  "kind": "category",
+  "label": "Vasomotorische und allergische Rhinopathie",
+  "rubrics": {
+    "preferred": "Vasomotorische und allergische Rhinopathie",
+    "inclusion": "Reflektorischer Fließschnupfen",
+    "exclusion": "Rhinitis o.n.A.J31.0"
+  },
+  "children": [
+    {
+      "code": "J30.0",
+      "kind": "category",
+      "label": "Rhinopathia vasomotorica",
+      "rubrics": {
+        "preferred": "Rhinopathia vasomotorica"
+      },
+      "children": []
+    },
+    {
+      "code": "J30.1",
+      "kind": "category",
+      "label": "Allergische Rhinopathie durch Pollen",
+      "rubrics": {
+        "preferred": "Allergische Rhinopathie durch Pollen",
+        "inclusion": "Pollinose"
+      },
+      "children": []
+    },
+    {
+      "code": "J30.2",
+      "kind": "category",
+      "label": "Sonstige saisonale allergische Rhinopathie",
+      "rubrics": {
+        "preferred": "Sonstige saisonale allergische Rhinopathie"
+      },
+      "children": []
+    },
+    {
+      "code": "J30.3",
+      "kind": "category",
+      "label": "Sonstige allergische Rhinopathie",
+      "rubrics": {
+        "preferred": "Sonstige allergische Rhinopathie",
+        "inclusion": "Ganzjährig bestehende allergische Rhinopathie"
+      },
+      "children": []
+    },
+    {
+      "code": "J30.4",
+      "kind": "category",
+      "label": "Allergische Rhinopathie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Allergische Rhinopathie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

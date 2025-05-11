@@ -1,0 +1,40 @@
+{
+  "code": "N13.2",
+  "kind": "category",
+  "label": "Hydronephrose bei Obstruktion durch Nieren- und Ureterstein",
+  "rubrics": {
+    "preferred": "Hydronephrose bei Obstruktion durch Nieren- und Ureterstein"
+  },
+  "children": [
+    {
+      "code": "N13.20",
+      "kind": "category",
+      "label": "Hydronephrose bei Obstruktion durch Nierenstein",
+      "rubrics": {
+        "preferred": "Hydronephrose bei Obstruktion durch Nierenstein",
+        "exclusion": "Mit Infektion der NiereN13.62"
+      },
+      "children": []
+    },
+    {
+      "code": "N13.21",
+      "kind": "category",
+      "label": "Hydronephrose bei Obstruktion durch Ureterstein",
+      "rubrics": {
+        "preferred": "Hydronephrose bei Obstruktion durch Ureterstein",
+        "exclusion": "Mit Infektion der NiereN13.63"
+      },
+      "children": []
+    },
+    {
+      "code": "N13.29",
+      "kind": "category",
+      "label": "Hydronephrose bei Obstruktion durch Nieren- und Ureterstein, Steinlokalisation nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hydronephrose bei Obstruktion durch Nieren- und Ureterstein, Steinlokalisation nicht näher bezeichnet",
+        "exclusion": "Mit Infektion der NiereN13.64"
+      },
+      "children": []
+    }
+  ]
+}

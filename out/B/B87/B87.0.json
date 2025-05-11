@@ -1,0 +1,10 @@
+{
+  "code": "B87.0",
+  "kind": "category",
+  "label": "Dermatomyiasis",
+  "rubrics": {
+    "preferred": "Dermatomyiasis",
+    "inclusion": "Hautmadenfraß"
+  },
+  "children": []
+}

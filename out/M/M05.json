@@ -1,0 +1,68 @@
+{
+  "code": "M05",
+  "kind": "category",
+  "label": "Seropositive chronische Polyarthritis",
+  "rubrics": {
+    "preferred": "Seropositive chronische Polyarthritis",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+    "exclusion": "Rheumatisches FieberI00"
+  },
+  "children": [
+    {
+      "code": "M05.0",
+      "kind": "category",
+      "label": "Felty-Syndrom",
+      "rubrics": {
+        "preferred": "Felty-Syndrom",
+        "inclusion": "Chronische Polyarthritis mit Lymphosplenomegalie und Leukopenie"
+      },
+      "children": []
+    },
+    {
+      "code": "M05.1",
+      "kind": "category",
+      "label": "Lungenmanifestation der seropositiven chronischen PolyarthritisJ99.0",
+      "rubrics": {
+        "preferred": "Lungenmanifestation der seropositiven chronischen PolyarthritisJ99.0"
+      },
+      "children": []
+    },
+    {
+      "code": "M05.2",
+      "kind": "category",
+      "label": "Vaskulitis bei seropositiver chronischer Polyarthritis",
+      "rubrics": {
+        "preferred": "Vaskulitis bei seropositiver chronischer Polyarthritis"
+      },
+      "children": []
+    },
+    {
+      "code": "M05.3",
+      "kind": "category",
+      "label": "Seropositive chronische Polyarthritis mit Beteiligung sonstiger Organe und Organsysteme",
+      "rubrics": {
+        "preferred": "Seropositive chronische Polyarthritis mit Beteiligung sonstiger Organe und Organsysteme",
+        "inclusion": "PolyneuropathieG63.6\n\t\t\t\tbei seropositiver chronischer Polyarthritis"
+      },
+      "children": []
+    },
+    {
+      "code": "M05.8",
+      "kind": "category",
+      "label": "Sonstige seropositive chronische Polyarthritis",
+      "rubrics": {
+        "preferred": "Sonstige seropositive chronische Polyarthritis"
+      },
+      "children": []
+    },
+    {
+      "code": "M05.9",
+      "kind": "category",
+      "label": "Seropositive chronische Polyarthritis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Seropositive chronische Polyarthritis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "T44.3",
+  "kind": "category",
+  "label": "Sonstige Parasympatholytika [Anticholinergika und Antimuskarinika] und Spasmolytika, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Sonstige Parasympatholytika [Anticholinergika und Antimuskarinika] und Spasmolytika, anderenorts nicht klassifiziert",
+    "preferred": "Sonstige Parasympatholytika [Anticholinergika und Antimuskarinika] und Spasmolytika, anderenorts nicht klassifiziert",
+    "inclusion": "Papaverin"
+  },
+  "children": []
+}

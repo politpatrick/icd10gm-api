@@ -1,0 +1,30 @@
+{
+  "code": "G93.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Krankheiten des Gehirns",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Krankheiten des Gehirns",
+    "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": [
+    {
+      "code": "G93.80",
+      "kind": "category",
+      "label": "Apallisches Syndrom",
+      "rubrics": {
+        "preferred": "Apallisches Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "G93.88",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten des Gehirns",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten des Gehirns",
+        "inclusion": "Enzephalopathie nach Strahlenexposition"
+      },
+      "children": []
+    }
+  ]
+}

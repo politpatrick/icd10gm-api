@@ -1,0 +1,11 @@
+{
+  "code": "O72.0",
+  "kind": "category",
+  "label": "Blutung in der Nachgeburtsperiode",
+  "rubrics": {
+    "preferred": "Blutung in der Nachgeburtsperiode",
+    "inclusion": "Plazentaretention o.n.A.",
+    "coding-hint": "Soll das Vorliegen einer krankhaft anhaftenden Plazenta angegeben werden, ist eine zusätzliche Schlüsselnummer (O43.2-) zu benutzen."
+  },
+  "children": []
+}

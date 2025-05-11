@@ -1,0 +1,10 @@
+{
+  "code": "O02.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete abnorme Konzeptionsprodukte",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete abnorme Konzeptionsprodukte",
+    "exclusion": "Abnorme Konzeptionsprodukte mit:\n\t\t\t\tMole:\n\t\t\t\tsonstigeO02.0"
+  },
+  "children": []
+}

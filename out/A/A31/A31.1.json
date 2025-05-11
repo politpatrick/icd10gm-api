@@ -1,0 +1,10 @@
+{
+  "code": "A31.1",
+  "kind": "category",
+  "label": "Infektion der Haut durch sonstige Mykobakterien",
+  "rubrics": {
+    "preferred": "Infektion der Haut durch sonstige Mykobakterien",
+    "inclusion": "Infektion durch Mycobacterium:\n\t\t\t\tulcerans [Buruli-Ulkus]"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "R25.2",
+  "kind": "category",
+  "label": "Krämpfe und Spasmen der Muskulatur",
+  "rubrics": {
+    "preferred": "Krämpfe und Spasmen der Muskulatur",
+    "exclusion": "Krämpfe im KindesalterG40.4"
+  },
+  "children": []
+}

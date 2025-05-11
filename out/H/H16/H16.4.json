@@ -1,0 +1,10 @@
+{
+  "code": "H16.4",
+  "kind": "category",
+  "label": "Neovaskularisation der Hornhaut",
+  "rubrics": {
+    "preferred": "Neovaskularisation der Hornhaut",
+    "inclusion": "Pannus"
+  },
+  "children": []
+}

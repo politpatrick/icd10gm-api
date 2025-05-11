@@ -1,0 +1,10 @@
+{
+  "code": "H19.1",
+  "kind": "category",
+  "label": "Keratitis und Keratokonjunktivitis durch HerpesvirenB00.5",
+  "rubrics": {
+    "preferred": "Keratitis und Keratokonjunktivitis durch HerpesvirenB00.5",
+    "inclusion": "Keratitis dendritica und disciformis"
+  },
+  "children": []
+}

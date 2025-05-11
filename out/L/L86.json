@@ -1,0 +1,10 @@
+{
+  "code": "L86",
+  "kind": "category",
+  "label": "Keratom bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Keratom bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Xeroderma\n\t\t\t\tdurch Vitamin-A-MangelE50.8"
+  },
+  "children": []
+}

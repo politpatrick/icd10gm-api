@@ -1,0 +1,10 @@
+{
+  "code": "A68.0",
+  "kind": "category",
+  "label": "Durch Läuse übertragenes Rückfallfieber",
+  "rubrics": {
+    "preferred": "Durch Läuse übertragenes Rückfallfieber",
+    "inclusion": "Rückfallfieber durch Borrelia recurrentis"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "M18.5",
+  "kind": "category",
+  "label": "Sonstige sekundäre Rhizarthrose",
+  "rubrics": {
+    "preferred": "Sonstige sekundäre Rhizarthrose",
+    "inclusion": "Sekundäre Rhizarthrose:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

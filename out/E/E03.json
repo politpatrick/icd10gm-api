@@ -1,0 +1,89 @@
+{
+  "code": "E03",
+  "kind": "category",
+  "label": "Sonstige Hypothyreose",
+  "rubrics": {
+    "preferred": "Sonstige Hypothyreose",
+    "exclusion": "Jodmangelbedingte HypothyreoseE00-E02"
+  },
+  "children": [
+    {
+      "code": "E03.0",
+      "kind": "category",
+      "label": "Angeborene Hypothyreose mit diffuser Struma",
+      "rubrics": {
+        "preferred": "Angeborene Hypothyreose mit diffuser Struma",
+        "inclusion": "Struma congenita (nichttoxisch):\n\t\t\t\to.n.A.",
+        "exclusion": "Transitorische Struma congenita mit normaler FunktionP72.0"
+      },
+      "children": []
+    },
+    {
+      "code": "E03.1",
+      "kind": "category",
+      "label": "Angeborene Hypothyreose ohne Struma",
+      "rubrics": {
+        "preferred": "Angeborene Hypothyreose ohne Struma",
+        "inclusion": "Aplasie der Schilddrüse (mit Myxödem)"
+      },
+      "children": []
+    },
+    {
+      "code": "E03.2",
+      "kind": "category",
+      "label": "Hypothyreose durch Arzneimittel oder andere exogene Substanzen",
+      "rubrics": {
+        "preferred": "Hypothyreose durch Arzneimittel oder andere exogene Substanzen",
+        "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "E03.3",
+      "kind": "category",
+      "label": "Postinfektiöse Hypothyreose",
+      "rubrics": {
+        "preferred": "Postinfektiöse Hypothyreose"
+      },
+      "children": []
+    },
+    {
+      "code": "E03.4",
+      "kind": "category",
+      "label": "Atrophie der Schilddrüse (erworben)",
+      "rubrics": {
+        "preferred": "Atrophie der Schilddrüse (erworben)",
+        "exclusion": "Angeborene Atrophie der SchilddrüseE03.1"
+      },
+      "children": []
+    },
+    {
+      "code": "E03.5",
+      "kind": "category",
+      "label": "Myxödemkoma",
+      "rubrics": {
+        "preferred": "Myxödemkoma"
+      },
+      "children": []
+    },
+    {
+      "code": "E03.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Hypothyreose",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Hypothyreose"
+      },
+      "children": []
+    },
+    {
+      "code": "E03.9",
+      "kind": "category",
+      "label": "Hypothyreose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hypothyreose, nicht näher bezeichnet",
+        "inclusion": "Myxödem o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

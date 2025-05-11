@@ -1,0 +1,1812 @@
+{
+  "code": "Z80-Z99",
+  "kind": "block",
+  "label": "Personen mit potentiellen Gesundheitsrisiken aufgrund der Familien- oder Eigenanamnese und bestimmte Zustände, die den Gesundheitszustand beeinflussen",
+  "rubrics": {
+    "preferred": "Personen mit potentiellen Gesundheitsrisiken aufgrund der Familien- oder Eigenanamnese und bestimmte Zustände, die den Gesundheitszustand beeinflussen",
+    "exclusion": "Spezielles Screening oder andere Untersuchung und Abklärung aufgrund der Familien- oder EigenanamneseZ00-Z13"
+  },
+  "children": [
+    {
+      "code": "Z80",
+      "kind": "category",
+      "label": "Bösartige Neubildung in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung in der Familienanamnese"
+      },
+      "children": [
+        {
+          "code": "Z80.0",
+          "kind": "category",
+          "label": "Bösartige Neubildung der Verdauungsorgane in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung der Verdauungsorgane in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C15-C26"
+          },
+          "children": []
+        },
+        {
+          "code": "Z80.1",
+          "kind": "category",
+          "label": "Bösartige Neubildung der Trachea, der Bronchien oder der Lunge in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung der Trachea, der Bronchien oder der Lunge in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C33-C34"
+          },
+          "children": []
+        },
+        {
+          "code": "Z80.2",
+          "kind": "category",
+          "label": "Bösartige Neubildung anderer Atmungs- und intrathorakaler Organe in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung anderer Atmungs- und intrathorakaler Organe in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C30-C32, C37-C39"
+          },
+          "children": []
+        },
+        {
+          "code": "Z80.3",
+          "kind": "category",
+          "label": "Bösartige Neubildung der Brustdrüse [Mamma] in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung der Brustdrüse [Mamma] in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C50.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Z80.4",
+          "kind": "category",
+          "label": "Bösartige Neubildung der Genitalorgane in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung der Genitalorgane in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C51-C63"
+          },
+          "children": []
+        },
+        {
+          "code": "Z80.5",
+          "kind": "category",
+          "label": "Bösartige Neubildung der Harnorgane in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung der Harnorgane in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C64-C68"
+          },
+          "children": []
+        },
+        {
+          "code": "Z80.6",
+          "kind": "category",
+          "label": "Leukämie in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Leukämie in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C91-C95"
+          },
+          "children": []
+        },
+        {
+          "code": "Z80.7",
+          "kind": "category",
+          "label": "Andere bösartige Neubildungen des lymphatischen, blutbildenden oder verwandten Gewebes in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Andere bösartige Neubildungen des lymphatischen, blutbildenden oder verwandten Gewebes in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C81-C90, C96.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Z80.8",
+          "kind": "category",
+          "label": "Bösartige Neubildung sonstiger Organe und Systeme in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung sonstiger Organe und Systeme in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C00-C14, C40-C49, C69-C79, C97!"
+          },
+          "children": []
+        },
+        {
+          "code": "Z80.9",
+          "kind": "category",
+          "label": "Bösartige Neubildung in der Familienanamnese, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung in der Familienanamnese, nicht näher bezeichnet",
+            "inclusion": "Zustände, klassifizierbar unter C80.-"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z81",
+      "kind": "category",
+      "label": "Psychische Krankheiten oder Verhaltensstörungen in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Psychische Krankheiten oder Verhaltensstörungen in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter F00-F99"
+      },
+      "children": []
+    },
+    {
+      "code": "Z82",
+      "kind": "category",
+      "label": "Bestimmte Behinderungen oder chronische Krankheiten in der Familienanamnese, die zu Schädigung oder Behinderung führen",
+      "rubrics": {
+        "preferred": "Bestimmte Behinderungen oder chronische Krankheiten in der Familienanamnese, die zu Schädigung oder Behinderung führen",
+        "inclusion": "Taubheit oder Hörverlust (Zustände, klassifizierbar unter H90-H91)"
+      },
+      "children": []
+    },
+    {
+      "code": "Z83",
+      "kind": "category",
+      "label": "Andere spezifische Krankheiten in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Andere spezifische Krankheiten in der Familienanamnese",
+        "exclusion": "Kontakt mit und Exposition gegenüber übertragbarer Krankheit in der FamilieZ20.-"
+      },
+      "children": [
+        {
+          "code": "Z83.1",
+          "kind": "category",
+          "label": "Infektiöse oder parasitäre Krankheiten in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Infektiöse oder parasitäre Krankheiten in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter A00-B94, B99"
+          },
+          "children": []
+        },
+        {
+          "code": "Z83.2",
+          "kind": "category",
+          "label": "Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter D50-D89"
+          },
+          "children": []
+        },
+        {
+          "code": "Z83.3",
+          "kind": "category",
+          "label": "Diabetes mellitus in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Diabetes mellitus in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter E10-E14, O24"
+          },
+          "children": []
+        },
+        {
+          "code": "Z83.4",
+          "kind": "category",
+          "label": "Andere endokrine, Ernährungs- oder Stoffwechselkrankheiten in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Andere endokrine, Ernährungs- oder Stoffwechselkrankheiten in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter E00-E07, E15-E90"
+          },
+          "children": []
+        },
+        {
+          "code": "Z83.5",
+          "kind": "category",
+          "label": "Augen- oder Ohrenkrankheiten in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Augen- oder Ohrenkrankheiten in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter H00-H53, H55-H83, H92-H95",
+            "exclusion": "Familienanamnese:\n\t\t\t\tTaubheit oder HörverlustZ82"
+          },
+          "children": []
+        },
+        {
+          "code": "Z83.6",
+          "kind": "category",
+          "label": "Krankheiten der Atemwege in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten der Atemwege in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter J00-J39, J60-J99",
+            "exclusion": "Chronische Krankheiten der unteren Atemwege in der FamilienanamneseZ82"
+          },
+          "children": []
+        },
+        {
+          "code": "Z83.7",
+          "kind": "category",
+          "label": "Krankheiten des Verdauungssystems in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten des Verdauungssystems in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter K00-K93"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z84",
+      "kind": "category",
+      "label": "Andere Krankheiten oder Zustände in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Andere Krankheiten oder Zustände in der Familienanamnese"
+      },
+      "children": [
+        {
+          "code": "Z84.0",
+          "kind": "category",
+          "label": "Krankheiten der Haut und der Unterhaut in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten der Haut und der Unterhaut in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter L00-L99"
+          },
+          "children": []
+        },
+        {
+          "code": "Z84.1",
+          "kind": "category",
+          "label": "Krankheiten der Niere oder des Ureters in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten der Niere oder des Ureters in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter N00-N29"
+          },
+          "children": []
+        },
+        {
+          "code": "Z84.2",
+          "kind": "category",
+          "label": "Andere Krankheiten des Urogenitalsystems in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Andere Krankheiten des Urogenitalsystems in der Familienanamnese",
+            "inclusion": "Zustände, klassifizierbar unter N30-N99"
+          },
+          "children": []
+        },
+        {
+          "code": "Z84.3",
+          "kind": "category",
+          "label": "Konsanguinität in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Konsanguinität in der Familienanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z84.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten oder Zustände in der Familienanamnese",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten oder Zustände in der Familienanamnese"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z85",
+      "kind": "category",
+      "label": "Bösartige Neubildung in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Bösartige Neubildung in der Eigenanamnese",
+        "exclusion": "Nachuntersuchung nach Behandlung wegen bösartiger NeubildungZ08.-"
+      },
+      "children": [
+        {
+          "code": "Z85.0",
+          "kind": "category",
+          "label": "Bösartige Neubildung der Verdauungsorgane in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung der Verdauungsorgane in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C15-C26"
+          },
+          "children": []
+        },
+        {
+          "code": "Z85.1",
+          "kind": "category",
+          "label": "Bösartige Neubildung der Trachea, der Bronchien oder der Lunge in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung der Trachea, der Bronchien oder der Lunge in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C33-C34"
+          },
+          "children": []
+        },
+        {
+          "code": "Z85.2",
+          "kind": "category",
+          "label": "Bösartige Neubildung anderer Atmungs- und intrathorakaler Organe in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung anderer Atmungs- und intrathorakaler Organe in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C30-C32, C37-C39"
+          },
+          "children": []
+        },
+        {
+          "code": "Z85.3",
+          "kind": "category",
+          "label": "Bösartige Neubildung der Brustdrüse [Mamma] in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung der Brustdrüse [Mamma] in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C50.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Z85.4",
+          "kind": "category",
+          "label": "Bösartige Neubildung der Genitalorgane in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung der Genitalorgane in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C51-C63"
+          },
+          "children": []
+        },
+        {
+          "code": "Z85.5",
+          "kind": "category",
+          "label": "Bösartige Neubildung der Harnorgane in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung der Harnorgane in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C64-C68"
+          },
+          "children": []
+        },
+        {
+          "code": "Z85.6",
+          "kind": "category",
+          "label": "Leukämie in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Leukämie in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C91-C95"
+          },
+          "children": []
+        },
+        {
+          "code": "Z85.7",
+          "kind": "category",
+          "label": "Andere bösartige Neubildungen des lymphatischen, blutbildenden oder verwandten Gewebes in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Andere bösartige Neubildungen des lymphatischen, blutbildenden oder verwandten Gewebes in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C81-C90, C96.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Z85.8",
+          "kind": "category",
+          "label": "Bösartige Neubildungen sonstiger Organe oder Systeme in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Bösartige Neubildungen sonstiger Organe oder Systeme in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter C00-C14, C40-C49, C69-C79, C97!"
+          },
+          "children": []
+        },
+        {
+          "code": "Z85.9",
+          "kind": "category",
+          "label": "Bösartige Neubildung in der Eigenanamnese, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Bösartige Neubildung in der Eigenanamnese, nicht näher bezeichnet",
+            "inclusion": "Zustände, klassifizierbar unter C80.-"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z86",
+      "kind": "category",
+      "label": "Bestimmte andere Krankheiten in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Bestimmte andere Krankheiten in der Eigenanamnese",
+        "exclusion": "Medizinische Nachbetreuung und RekonvaleszenzZ42-Z51Z54.-!"
+      },
+      "children": [
+        {
+          "code": "Z86.0",
+          "kind": "category",
+          "label": "Andere Neubildungen in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Andere Neubildungen in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter D00-D48",
+            "exclusion": "Bösartige NeubildungenZ85.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Z86.1",
+          "kind": "category",
+          "label": "Infektiöse oder parasitäre Krankheiten in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Infektiöse oder parasitäre Krankheiten in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter A00-B89, B99",
+            "exclusion": "Folgezustände von infektiösen oder parasitären KrankheitenB90-B94"
+          },
+          "children": []
+        },
+        {
+          "code": "Z86.2",
+          "kind": "category",
+          "label": "Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter D50-D89"
+          },
+          "children": []
+        },
+        {
+          "code": "Z86.3",
+          "kind": "category",
+          "label": "Endokrine, Ernährungs- oder Stoffwechselkrankheiten in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Endokrine, Ernährungs- oder Stoffwechselkrankheiten in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter E00-E90"
+          },
+          "children": []
+        },
+        {
+          "code": "Z86.4",
+          "kind": "category",
+          "label": "Missbrauch einer psychotropen Substanz in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Missbrauch einer psychotropen Substanz in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter F10-F19",
+            "exclusion": "Probleme im Zusammenhang mit dem Konsum von:\n\t\t\t\tTabakZ72.0"
+          },
+          "children": []
+        },
+        {
+          "code": "Z86.5",
+          "kind": "category",
+          "label": "Andere psychische Krankheiten oder Verhaltensstörungen in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Andere psychische Krankheiten oder Verhaltensstörungen in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter F00-F09, F20-F99"
+          },
+          "children": []
+        },
+        {
+          "code": "Z86.6",
+          "kind": "category",
+          "label": "Krankheiten des Nervensystems oder der Sinnesorgane in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten des Nervensystems oder der Sinnesorgane in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter G00-G99, H00-H95"
+          },
+          "children": []
+        },
+        {
+          "code": "Z86.7",
+          "kind": "category",
+          "label": "Krankheiten des Kreislaufsystems in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten des Kreislaufsystems in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter I00-I99",
+            "exclusion": "Postmyokardinfarkt-SyndromI24.1"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z87",
+      "kind": "category",
+      "label": "Andere Krankheiten oder Zustände in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Andere Krankheiten oder Zustände in der Eigenanamnese",
+        "exclusion": "Medizinische Nachbetreuung und RekonvaleszenzZ42-Z51Z54.-!"
+      },
+      "children": [
+        {
+          "code": "Z87.0",
+          "kind": "category",
+          "label": "Krankheiten des Atmungssystems in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten des Atmungssystems in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter J00-J99"
+          },
+          "children": []
+        },
+        {
+          "code": "Z87.1",
+          "kind": "category",
+          "label": "Krankheiten des Verdauungssystems in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten des Verdauungssystems in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter K00-K93"
+          },
+          "children": []
+        },
+        {
+          "code": "Z87.2",
+          "kind": "category",
+          "label": "Krankheiten der Haut und der Unterhaut in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten der Haut und der Unterhaut in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter L00-L99"
+          },
+          "children": []
+        },
+        {
+          "code": "Z87.3",
+          "kind": "category",
+          "label": "Krankheiten des Muskel-Skelett-Systems und des Bindegewebes in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten des Muskel-Skelett-Systems und des Bindegewebes in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter M00-M99"
+          },
+          "children": []
+        },
+        {
+          "code": "Z87.4",
+          "kind": "category",
+          "label": "Krankheiten des Urogenitalsystems in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Krankheiten des Urogenitalsystems in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter N00-N99"
+          },
+          "children": []
+        },
+        {
+          "code": "Z87.5",
+          "kind": "category",
+          "label": "Komplikationen der Schwangerschaft, der Geburt und des Wochenbettes in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Komplikationen der Schwangerschaft, der Geburt und des Wochenbettes in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter O00-O99",
+            "exclusion": "Überwachung einer Schwangeren mit ungünstiger geburtshilflicher AnamneseZ35.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Z87.6",
+          "kind": "category",
+          "label": "Bestimmte in der Perinatalperiode entstandene Zustände in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Bestimmte in der Perinatalperiode entstandene Zustände in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter P00-P96"
+          },
+          "children": []
+        },
+        {
+          "code": "Z87.7",
+          "kind": "category",
+          "label": "Angeborene Fehlbildungen, Deformitäten oder Chromosomenanomalien in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildungen, Deformitäten oder Chromosomenanomalien in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter Q00-Q99"
+          },
+          "children": []
+        },
+        {
+          "code": "Z87.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten oder Zustände in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten oder Zustände in der Eigenanamnese",
+            "inclusion": "Zustände, klassifizierbar unter S00-T98",
+            "exclusion": "Selbstbeschädigung in der EigenanamneseZ91.8"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z88",
+      "kind": "category",
+      "label": "Allergie gegenüber Arzneimitteln, Drogen oder biologisch aktiven Substanzen in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Allergie gegenüber Arzneimitteln, Drogen oder biologisch aktiven Substanzen in der Eigenanamnese"
+      },
+      "children": [
+        {
+          "code": "Z88.0",
+          "kind": "category",
+          "label": "Allergie gegenüber Penicillin in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie gegenüber Penicillin in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z88.1",
+          "kind": "category",
+          "label": "Allergie gegenüber anderen Antibiotika in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie gegenüber anderen Antibiotika in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z88.2",
+          "kind": "category",
+          "label": "Allergie gegenüber Sulfonamiden in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie gegenüber Sulfonamiden in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z88.3",
+          "kind": "category",
+          "label": "Allergie gegenüber anderen Antiinfektiva in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie gegenüber anderen Antiinfektiva in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z88.4",
+          "kind": "category",
+          "label": "Allergie gegenüber Anästhetikum in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie gegenüber Anästhetikum in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z88.5",
+          "kind": "category",
+          "label": "Allergie gegenüber Betäubungsmittel in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie gegenüber Betäubungsmittel in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z88.6",
+          "kind": "category",
+          "label": "Allergie gegenüber Analgetikum in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie gegenüber Analgetikum in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z88.7",
+          "kind": "category",
+          "label": "Allergie gegenüber Serum oder Impfstoff in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie gegenüber Serum oder Impfstoff in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z88.8",
+          "kind": "category",
+          "label": "Allergie gegenüber sonstigen Arzneimitteln, Drogen oder biologisch aktiven Substanzen in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie gegenüber sonstigen Arzneimitteln, Drogen oder biologisch aktiven Substanzen in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z88.9",
+          "kind": "category",
+          "label": "Allergie gegenüber nicht näher bezeichneten Arzneimitteln, Drogen oder biologisch aktiven Substanzen in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie gegenüber nicht näher bezeichneten Arzneimitteln, Drogen oder biologisch aktiven Substanzen in der Eigenanamnese"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z89",
+      "kind": "category",
+      "label": "Extremitätenverlust",
+      "rubrics": {
+        "preferred": "Extremitätenverlust",
+        "inclusion": "Extremitätenverlust:\n\t\t\t\tposttraumatisch",
+        "exclusion": "Erworbene Deformitäten der ExtremitätenM20-M21"
+      },
+      "children": [
+        {
+          "code": "Z89.0",
+          "kind": "category",
+          "label": "Verlust eines oder mehrerer Finger [einschließlich Daumen], einseitig",
+          "rubrics": {
+            "preferred": "Verlust eines oder mehrerer Finger [einschließlich Daumen], einseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Z89.1",
+          "kind": "category",
+          "label": "Verlust der Hand und des Handgelenkes, einseitig",
+          "rubrics": {
+            "preferred": "Verlust der Hand und des Handgelenkes, einseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Z89.2",
+          "kind": "category",
+          "label": "Verlust der oberen Extremität oberhalb des Handgelenkes, einseitig",
+          "rubrics": {
+            "preferred": "Verlust der oberen Extremität oberhalb des Handgelenkes, einseitig",
+            "inclusion": "Arm o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "Z89.3",
+          "kind": "category",
+          "label": "(Teilweiser) Verlust der oberen Extremität, beidseitig",
+          "rubrics": {
+            "preferred": "(Teilweiser) Verlust der oberen Extremität, beidseitig",
+            "inclusion": "Verlust eines oder mehrerer Finger, auch des Daumens, beidseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Z89.4",
+          "kind": "category",
+          "label": "Verlust des Fußes und des Knöchels, einseitig",
+          "rubrics": {
+            "preferred": "Verlust des Fußes und des Knöchels, einseitig",
+            "inclusion": "Zehe(n), auch beidseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Z89.5",
+          "kind": "category",
+          "label": "Verlust der unteren Extremität unterhalb oder bis zum Knie, einseitig",
+          "rubrics": {
+            "preferred": "Verlust der unteren Extremität unterhalb oder bis zum Knie, einseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Z89.6",
+          "kind": "category",
+          "label": "Verlust der unteren Extremität oberhalb des Knies, einseitig",
+          "rubrics": {
+            "preferred": "Verlust der unteren Extremität oberhalb des Knies, einseitig",
+            "inclusion": "Bein o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "Z89.7",
+          "kind": "category",
+          "label": "(Teilweiser) Verlust der unteren Extremität, beidseitig",
+          "rubrics": {
+            "preferred": "(Teilweiser) Verlust der unteren Extremität, beidseitig",
+            "exclusion": "Isolierter Verlust der Zehen, beidseitigZ89.4"
+          },
+          "children": []
+        },
+        {
+          "code": "Z89.8",
+          "kind": "category",
+          "label": "Verlust von oberen und unteren Extremitäten [jede Höhe]",
+          "rubrics": {
+            "preferred": "Verlust von oberen und unteren Extremitäten [jede Höhe]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z89.9",
+          "kind": "category",
+          "label": "Extremitätenverlust, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Extremitätenverlust, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z90",
+      "kind": "category",
+      "label": "Verlust von Organen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Verlust von Organen, anderenorts nicht klassifiziert",
+        "inclusion": "Postoperativer oder posttraumatischer Verlust eines Körperteils, anderenorts nicht klassifiziert",
+        "exclusion": "Postoperatives Fehlen:\n\t\t\t\tPankreasE13.-"
+      },
+      "children": [
+        {
+          "code": "Z90.0",
+          "kind": "category",
+          "label": "Verlust von Teilen des Kopfes oder des Halses",
+          "rubrics": {
+            "preferred": "Verlust von Teilen des Kopfes oder des Halses",
+            "inclusion": "Nase",
+            "exclusion": "ZähneK08.1"
+          },
+          "children": []
+        },
+        {
+          "code": "Z90.1",
+          "kind": "category",
+          "label": "Verlust der Mamma(e) [Brustdrüse]",
+          "rubrics": {
+            "preferred": "Verlust der Mamma(e) [Brustdrüse]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z90.2",
+          "kind": "category",
+          "label": "Verlust der Lunge [Teile der Lunge]",
+          "rubrics": {
+            "preferred": "Verlust der Lunge [Teile der Lunge]"
+          },
+          "children": []
+        },
+        {
+          "code": "Z90.3",
+          "kind": "category",
+          "label": "Verlust von Teilen des Magens",
+          "rubrics": {
+            "preferred": "Verlust von Teilen des Magens"
+          },
+          "children": []
+        },
+        {
+          "code": "Z90.4",
+          "kind": "category",
+          "label": "Verlust anderer Teile des Verdauungstraktes",
+          "rubrics": {
+            "preferred": "Verlust anderer Teile des Verdauungstraktes"
+          },
+          "children": []
+        },
+        {
+          "code": "Z90.5",
+          "kind": "category",
+          "label": "Verlust der Niere(n)",
+          "rubrics": {
+            "preferred": "Verlust der Niere(n)"
+          },
+          "children": []
+        },
+        {
+          "code": "Z90.6",
+          "kind": "category",
+          "label": "Verlust anderer Teile des Harntraktes",
+          "rubrics": {
+            "preferred": "Verlust anderer Teile des Harntraktes"
+          },
+          "children": []
+        },
+        {
+          "code": "Z90.7",
+          "kind": "category",
+          "label": "Verlust eines oder mehrerer Genitalorgane",
+          "rubrics": {
+            "preferred": "Verlust eines oder mehrerer Genitalorgane"
+          },
+          "children": []
+        },
+        {
+          "code": "Z90.8",
+          "kind": "category",
+          "label": "Verlust sonstiger Organe",
+          "rubrics": {
+            "preferred": "Verlust sonstiger Organe"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z91",
+      "kind": "category",
+      "label": "Risikofaktoren in der Eigenanamnese, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Risikofaktoren in der Eigenanamnese, anderenorts nicht klassifiziert",
+        "exclusion": "Missbrauch einer psychotropen Substanz in der EigenanamneseZ86.4"
+      },
+      "children": [
+        {
+          "code": "Z91.0",
+          "kind": "category",
+          "label": "Allergie, ausgenommen Allergie gegenüber Arzneimitteln, Drogen oder biologisch aktiven Substanzen, in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Allergie, ausgenommen Allergie gegenüber Arzneimitteln, Drogen oder biologisch aktiven Substanzen, in der Eigenanamnese",
+            "exclusion": "Allergie gegenüber Arzneimitteln, Drogen oder biologisch aktiven Substanzen in der EigenanamneseZ88.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Z91.1",
+          "kind": "category",
+          "label": "Nichtbefolgung ärztlicher Anordnungen [Non-compliance] in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Nichtbefolgung ärztlicher Anordnungen [Non-compliance] in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z91.7",
+          "kind": "category",
+          "label": "Weibliche Genitalverstümmelung in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese",
+            "note": "Die Schlüsselnummern dieser Kategorie sind bei aktuellen Zuständen weiblicher Genitalverstümmelung anzugeben, wenn diese Anlass der Behandlung sind oder die Behandlung anderer Zustände beeinflussen.\n\t\t\t\tAusgeschlossen sind Zustände nach vorausgegangenen Eingriffen aus medizinischen und kosmetischen Gründen und anderen ästhetischen Maßnahmen, wie z.B. Tattoos und Piercings."
+          },
+          "children": [
+            {
+              "code": "Z91.70",
+              "kind": "category",
+              "label": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ nicht näher bezeichnet",
+                "inclusion": "Weibliche Genitalverstümmelung o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "Z91.71",
+              "kind": "category",
+              "label": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 1",
+              "rubrics": {
+                "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 1",
+                "inclusion": "Female genital mutilation [FGM], type 1"
+              },
+              "children": []
+            },
+            {
+              "code": "Z91.72",
+              "kind": "category",
+              "label": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 2",
+              "rubrics": {
+                "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 2",
+                "inclusion": "Female genital mutilation [FGM], type 2"
+              },
+              "children": []
+            },
+            {
+              "code": "Z91.73",
+              "kind": "category",
+              "label": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 3",
+              "rubrics": {
+                "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 3",
+                "inclusion": "Female genital mutilation [FGM], type 3"
+              },
+              "children": []
+            },
+            {
+              "code": "Z91.74",
+              "kind": "category",
+              "label": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 4",
+              "rubrics": {
+                "preferred": "Weibliche Genitalverstümmelung in der Eigenanamnese, Typ 4",
+                "inclusion": "Female genital mutilation [FGM], type 4"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Z91.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Risikofaktoren in der Eigenanamnese, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Risikofaktoren in der Eigenanamnese, anderenorts nicht klassifiziert",
+            "inclusion": "Versuchte Selbsttötung",
+            "exclusion": "SchlafstörungenG47.-"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z92",
+      "kind": "category",
+      "label": "Medizinische Behandlung in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Medizinische Behandlung in der Eigenanamnese"
+      },
+      "children": [
+        {
+          "code": "Z92.1",
+          "kind": "category",
+          "label": "Dauertherapie (gegenwärtig) mit Antikoagulanzien in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Dauertherapie (gegenwärtig) mit Antikoagulanzien in der Eigenanamnese",
+            "exclusion": "Blutung bei Dauertherapie mit AntikoagulanzienD68.3-"
+          },
+          "children": []
+        },
+        {
+          "code": "Z92.2",
+          "kind": "category",
+          "label": "Dauertherapie (gegenwärtig) mit anderen Arzneimitteln in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Dauertherapie (gegenwärtig) mit anderen Arzneimitteln in der Eigenanamnese",
+            "inclusion": "Azetylsalizylsäure"
+          },
+          "children": []
+        },
+        {
+          "code": "Z92.3",
+          "kind": "category",
+          "label": "Bestrahlung in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Bestrahlung in der Eigenanamnese",
+            "inclusion": "Therapeutische Bestrahlung",
+            "exclusion": "Exposition gegenüber Strahlung in der kommunalen UmweltZ65"
+          },
+          "children": []
+        },
+        {
+          "code": "Z92.4",
+          "kind": "category",
+          "label": "Größerer operativer Eingriff in der Eigenanamnese, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Größerer operativer Eingriff in der Eigenanamnese, anderenorts nicht klassifiziert",
+            "exclusion": "Zustand nach Organ- oder GewebetransplantationZ94.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Z92.6",
+          "kind": "category",
+          "label": "Zytostatische Chemotherapie wegen bösartiger Neubildung in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Zytostatische Chemotherapie wegen bösartiger Neubildung in der Eigenanamnese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z92.8",
+          "kind": "category",
+          "label": "Sonstige medizinische Behandlung in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Sonstige medizinische Behandlung in der Eigenanamnese",
+            "inclusion": "Rehabilitationsmaßnahmen in der Eigenanamnese",
+            "exclusion": "Vorhandensein eines Pessars (intrauterin) zur KontrazeptionZ97.8"
+          },
+          "children": []
+        },
+        {
+          "code": "Z92.9",
+          "kind": "category",
+          "label": "Medizinische Behandlung, nicht näher bezeichnet, in der Eigenanamnese",
+          "rubrics": {
+            "preferred": "Medizinische Behandlung, nicht näher bezeichnet, in der Eigenanamnese"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z93",
+      "kind": "category",
+      "label": "Vorhandensein einer künstlichen Körperöffnung",
+      "rubrics": {
+        "preferred": "Vorhandensein einer künstlichen Körperöffnung",
+        "exclusion": "Künstliche Körperöffnungen, die der Beobachtung oder Versorgung bedürfenZ43.-"
+      },
+      "children": [
+        {
+          "code": "Z93.0",
+          "kind": "category",
+          "label": "Vorhandensein eines Tracheostomas",
+          "rubrics": {
+            "preferred": "Vorhandensein eines Tracheostomas"
+          },
+          "children": []
+        },
+        {
+          "code": "Z93.1",
+          "kind": "category",
+          "label": "Vorhandensein eines Gastrostomas",
+          "rubrics": {
+            "preferred": "Vorhandensein eines Gastrostomas"
+          },
+          "children": []
+        },
+        {
+          "code": "Z93.2",
+          "kind": "category",
+          "label": "Vorhandensein eines Ileostomas",
+          "rubrics": {
+            "preferred": "Vorhandensein eines Ileostomas"
+          },
+          "children": []
+        },
+        {
+          "code": "Z93.3",
+          "kind": "category",
+          "label": "Vorhandensein eines Kolostomas",
+          "rubrics": {
+            "preferred": "Vorhandensein eines Kolostomas"
+          },
+          "children": []
+        },
+        {
+          "code": "Z93.4",
+          "kind": "category",
+          "label": "Vorhandensein anderer künstlicher Körperöffnungen des Magen-Darm-Trakts",
+          "rubrics": {
+            "preferred": "Vorhandensein anderer künstlicher Körperöffnungen des Magen-Darm-Trakts"
+          },
+          "children": []
+        },
+        {
+          "code": "Z93.5",
+          "kind": "category",
+          "label": "Vorhandensein eines Zystostomas",
+          "rubrics": {
+            "preferred": "Vorhandensein eines Zystostomas"
+          },
+          "children": []
+        },
+        {
+          "code": "Z93.6",
+          "kind": "category",
+          "label": "Vorhandensein anderer künstlicher Körperöffnungen der Harnwege",
+          "rubrics": {
+            "preferred": "Vorhandensein anderer künstlicher Körperöffnungen der Harnwege",
+            "inclusion": "Urethrostoma"
+          },
+          "children": []
+        },
+        {
+          "code": "Z93.8",
+          "kind": "category",
+          "label": "Vorhandensein sonstiger künstlicher Körperöffnungen",
+          "rubrics": {
+            "preferred": "Vorhandensein sonstiger künstlicher Körperöffnungen"
+          },
+          "children": [
+            {
+              "code": "Z93.80",
+              "kind": "category",
+              "label": "Vorhandensein eines Thorakostomas",
+              "rubrics": {
+                "preferred": "Vorhandensein eines Thorakostomas"
+              },
+              "children": []
+            },
+            {
+              "code": "Z93.88",
+              "kind": "category",
+              "label": "Vorhandensein sonstiger künstlicher Körperöffnungen",
+              "rubrics": {
+                "preferred": "Vorhandensein sonstiger künstlicher Körperöffnungen"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Z93.9",
+          "kind": "category",
+          "label": "Vorhandensein einer künstlichen Körperöffnung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Vorhandensein einer künstlichen Körperöffnung, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z94",
+      "kind": "category",
+      "label": "Zustand nach Organ- oder Gewebetransplantation",
+      "rubrics": {
+        "preferred": "Zustand nach Organ- oder Gewebetransplantation",
+        "inclusion": "Organ- oder Gewebeersatz durch heterogenes oder homogenes Transplantat",
+        "exclusion": "Vorhandensein:\n\t\t\t\txenogene HerzklappeZ95.3"
+      },
+      "children": [
+        {
+          "code": "Z94.0",
+          "kind": "category",
+          "label": "Zustand nach Nierentransplantation",
+          "rubrics": {
+            "preferred": "Zustand nach Nierentransplantation"
+          },
+          "children": []
+        },
+        {
+          "code": "Z94.1",
+          "kind": "category",
+          "label": "Zustand nach Herztransplantation",
+          "rubrics": {
+            "preferred": "Zustand nach Herztransplantation",
+            "exclusion": "Zustand nach HerzklappenersatzZ95.2-Z95.4"
+          },
+          "children": []
+        },
+        {
+          "code": "Z94.2",
+          "kind": "category",
+          "label": "Zustand nach Lungentransplantation",
+          "rubrics": {
+            "preferred": "Zustand nach Lungentransplantation"
+          },
+          "children": []
+        },
+        {
+          "code": "Z94.3",
+          "kind": "category",
+          "label": "Zustand nach Herz-Lungen-Transplantation",
+          "rubrics": {
+            "preferred": "Zustand nach Herz-Lungen-Transplantation"
+          },
+          "children": []
+        },
+        {
+          "code": "Z94.4",
+          "kind": "category",
+          "label": "Zustand nach Lebertransplantation",
+          "rubrics": {
+            "preferred": "Zustand nach Lebertransplantation"
+          },
+          "children": []
+        },
+        {
+          "code": "Z94.5",
+          "kind": "category",
+          "label": "Zustand nach Hauttransplantation",
+          "rubrics": {
+            "preferred": "Zustand nach Hauttransplantation",
+            "inclusion": "Zustand nach autogener Hauttransplantation"
+          },
+          "children": []
+        },
+        {
+          "code": "Z94.6",
+          "kind": "category",
+          "label": "Zustand nach Knochentransplantation",
+          "rubrics": {
+            "preferred": "Zustand nach Knochentransplantation"
+          },
+          "children": []
+        },
+        {
+          "code": "Z94.7",
+          "kind": "category",
+          "label": "Zustand nach Keratoplastik",
+          "rubrics": {
+            "preferred": "Zustand nach Keratoplastik"
+          },
+          "children": []
+        },
+        {
+          "code": "Z94.8",
+          "kind": "category",
+          "label": "Zustand nach sonstiger Organ- oder Gewebetransplantation",
+          "rubrics": {
+            "preferred": "Zustand nach sonstiger Organ- oder Gewebetransplantation"
+          },
+          "children": [
+            {
+              "code": "Z94.80",
+              "kind": "category",
+              "label": "Zustand nach hämatopoetischer Stammzelltransplantation ohne gegenwärtige Immunsuppression",
+              "rubrics": {
+                "preferred": "Zustand nach hämatopoetischer Stammzelltransplantation ohne gegenwärtige Immunsuppression"
+              },
+              "children": []
+            },
+            {
+              "code": "Z94.81",
+              "kind": "category",
+              "label": "Zustand nach hämatopoetischer Stammzelltransplantation mit gegenwärtiger Immunsuppression",
+              "rubrics": {
+                "preferred": "Zustand nach hämatopoetischer Stammzelltransplantation mit gegenwärtiger Immunsuppression"
+              },
+              "children": []
+            },
+            {
+              "code": "Z94.88",
+              "kind": "category",
+              "label": "Zustand nach sonstiger Organ- oder Gewebetransplantation",
+              "rubrics": {
+                "preferred": "Zustand nach sonstiger Organ- oder Gewebetransplantation",
+                "inclusion": "Pankreas"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Z94.9",
+          "kind": "category",
+          "label": "Zustand nach Organ- oder Gewebetransplantation, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Zustand nach Organ- oder Gewebetransplantation, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z95",
+      "kind": "category",
+      "label": "Vorhandensein von kardialen oder vaskulären Implantaten oder Transplantaten",
+      "rubrics": {
+        "preferred": "Vorhandensein von kardialen oder vaskulären Implantaten oder Transplantaten",
+        "exclusion": "Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den GefäßenT82.-"
+      },
+      "children": [
+        {
+          "code": "Z95.0",
+          "kind": "category",
+          "label": "Vorhandensein eines kardialen elektronischen Geräts",
+          "rubrics": {
+            "preferred": "Vorhandensein eines kardialen elektronischen Geräts",
+            "inclusion": "Vorhandensein:\n\t\t\t\tKardiodefibrillator",
+            "exclusion": "Langzeitige Abhängigkeit vom KunstherzZ99.4"
+          },
+          "children": []
+        },
+        {
+          "code": "Z95.1",
+          "kind": "category",
+          "label": "Vorhandensein eines aortokoronaren Bypasses",
+          "rubrics": {
+            "preferred": "Vorhandensein eines aortokoronaren Bypasses"
+          },
+          "children": []
+        },
+        {
+          "code": "Z95.2",
+          "kind": "category",
+          "label": "Vorhandensein einer künstlichen Herzklappe",
+          "rubrics": {
+            "preferred": "Vorhandensein einer künstlichen Herzklappe"
+          },
+          "children": []
+        },
+        {
+          "code": "Z95.3",
+          "kind": "category",
+          "label": "Vorhandensein einer xenogenen Herzklappe",
+          "rubrics": {
+            "preferred": "Vorhandensein einer xenogenen Herzklappe"
+          },
+          "children": []
+        },
+        {
+          "code": "Z95.4",
+          "kind": "category",
+          "label": "Vorhandensein eines anderen Herzklappenersatzes",
+          "rubrics": {
+            "preferred": "Vorhandensein eines anderen Herzklappenersatzes"
+          },
+          "children": []
+        },
+        {
+          "code": "Z95.5",
+          "kind": "category",
+          "label": "Vorhandensein eines Implantates oder Transplantates nach koronarer Gefäßplastik",
+          "rubrics": {
+            "preferred": "Vorhandensein eines Implantates oder Transplantates nach koronarer Gefäßplastik",
+            "inclusion": "Zustand nach koronarer Gefäßplastik o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "Z95.8",
+          "kind": "category",
+          "label": "Vorhandensein von sonstigen kardialen oder vaskulären Implantaten oder Transplantaten",
+          "rubrics": {
+            "preferred": "Vorhandensein von sonstigen kardialen oder vaskulären Implantaten oder Transplantaten"
+          },
+          "children": [
+            {
+              "code": "Z95.80",
+              "kind": "category",
+              "label": "Vorhandensein eines herzunterstützenden Systems",
+              "rubrics": {
+                "preferred": "Vorhandensein eines herzunterstützenden Systems",
+                "inclusion": "Pumpe:\n\t\t\t\tparakorporal"
+              },
+              "children": []
+            },
+            {
+              "code": "Z95.81",
+              "kind": "category",
+              "label": "Vorhandensein eines operativ implantierten vaskulären Katheterverweilsystems",
+              "rubrics": {
+                "preferred": "Vorhandensein eines operativ implantierten vaskulären Katheterverweilsystems",
+                "inclusion": "Port-System"
+              },
+              "children": []
+            },
+            {
+              "code": "Z95.88",
+              "kind": "category",
+              "label": "Vorhandensein von sonstigen kardialen oder vaskulären Implantaten oder Transplantaten",
+              "rubrics": {
+                "preferred": "Vorhandensein von sonstigen kardialen oder vaskulären Implantaten oder Transplantaten",
+                "inclusion": "Zustand nach peripherer Gefäßplastik o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Z95.9",
+          "kind": "category",
+          "label": "Vorhandensein von kardialem oder vaskulärem Implantat oder Transplantat, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Vorhandensein von kardialem oder vaskulärem Implantat oder Transplantat, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z96",
+      "kind": "category",
+      "label": "Vorhandensein von anderen funktionellen Implantaten",
+      "rubrics": {
+        "preferred": "Vorhandensein von anderen funktionellen Implantaten",
+        "exclusion": "Komplikationen durch interne Prothesen, Implantate oder TransplantateT82-T85"
+      },
+      "children": [
+        {
+          "code": "Z96.0",
+          "kind": "category",
+          "label": "Vorhandensein von urogenitalen Implantaten",
+          "rubrics": {
+            "preferred": "Vorhandensein von urogenitalen Implantaten"
+          },
+          "children": []
+        },
+        {
+          "code": "Z96.1",
+          "kind": "category",
+          "label": "Vorhandensein eines intraokularen Linsenimplantates",
+          "rubrics": {
+            "preferred": "Vorhandensein eines intraokularen Linsenimplantates",
+            "inclusion": "Pseudophakie"
+          },
+          "children": []
+        },
+        {
+          "code": "Z96.2",
+          "kind": "category",
+          "label": "Vorhandensein von Implantaten im Gehörorgan",
+          "rubrics": {
+            "preferred": "Vorhandensein von Implantaten im Gehörorgan",
+            "inclusion": "Tuba-Eustachii-Plastik"
+          },
+          "children": []
+        },
+        {
+          "code": "Z96.3",
+          "kind": "category",
+          "label": "Vorhandensein eines künstlichen Larynx",
+          "rubrics": {
+            "preferred": "Vorhandensein eines künstlichen Larynx"
+          },
+          "children": []
+        },
+        {
+          "code": "Z96.4",
+          "kind": "category",
+          "label": "Vorhandensein von endokrinen Implantaten",
+          "rubrics": {
+            "preferred": "Vorhandensein von endokrinen Implantaten",
+            "inclusion": "Insulinpumpe"
+          },
+          "children": []
+        },
+        {
+          "code": "Z96.5",
+          "kind": "category",
+          "label": "Vorhandensein von Zahnwurzel- oder Unterkieferimplantaten",
+          "rubrics": {
+            "preferred": "Vorhandensein von Zahnwurzel- oder Unterkieferimplantaten"
+          },
+          "children": []
+        },
+        {
+          "code": "Z96.6",
+          "kind": "category",
+          "label": "Vorhandensein von orthopädischen Gelenkimplantaten",
+          "rubrics": {
+            "preferred": "Vorhandensein von orthopädischen Gelenkimplantaten",
+            "inclusion": "Vorhandensein von (partiellen) (totalen) orthopädischen Gelenkimplantaten"
+          },
+          "children": [
+            {
+              "code": "Z96.60",
+              "kind": "category",
+              "label": "Vorhandensein einer Schulterprothese",
+              "rubrics": {
+                "preferred": "Vorhandensein einer Schulterprothese"
+              },
+              "children": []
+            },
+            {
+              "code": "Z96.61",
+              "kind": "category",
+              "label": "Vorhandensein einer Ellenbogenprothese",
+              "rubrics": {
+                "preferred": "Vorhandensein einer Ellenbogenprothese"
+              },
+              "children": []
+            },
+            {
+              "code": "Z96.62",
+              "kind": "category",
+              "label": "Vorhandensein einer Radiuskopfprothese",
+              "rubrics": {
+                "preferred": "Vorhandensein einer Radiuskopfprothese"
+              },
+              "children": []
+            },
+            {
+              "code": "Z96.63",
+              "kind": "category",
+              "label": "Vorhandensein einer Handgelenkprothese",
+              "rubrics": {
+                "preferred": "Vorhandensein einer Handgelenkprothese"
+              },
+              "children": []
+            },
+            {
+              "code": "Z96.64",
+              "kind": "category",
+              "label": "Vorhandensein einer Hüftgelenkprothese",
+              "rubrics": {
+                "preferred": "Vorhandensein einer Hüftgelenkprothese"
+              },
+              "children": []
+            },
+            {
+              "code": "Z96.65",
+              "kind": "category",
+              "label": "Vorhandensein einer Kniegelenkprothese",
+              "rubrics": {
+                "preferred": "Vorhandensein einer Kniegelenkprothese"
+              },
+              "children": []
+            },
+            {
+              "code": "Z96.66",
+              "kind": "category",
+              "label": "Vorhandensein einer Sprunggelenkprothese",
+              "rubrics": {
+                "preferred": "Vorhandensein einer Sprunggelenkprothese"
+              },
+              "children": []
+            },
+            {
+              "code": "Z96.67",
+              "kind": "category",
+              "label": "Vorhandensein einer Bandscheibenprothese",
+              "rubrics": {
+                "preferred": "Vorhandensein einer Bandscheibenprothese"
+              },
+              "children": []
+            },
+            {
+              "code": "Z96.68",
+              "kind": "category",
+              "label": "Vorhandensein von sonstigen näher bezeichneten orthopädischen Gelenkimplantaten",
+              "rubrics": {
+                "preferred": "Vorhandensein von sonstigen näher bezeichneten orthopädischen Gelenkimplantaten",
+                "inclusion": "Kiefergelenkersatz"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Z96.7",
+          "kind": "category",
+          "label": "Vorhandensein von anderen Knochen- und Sehnenimplantaten",
+          "rubrics": {
+            "preferred": "Vorhandensein von anderen Knochen- und Sehnenimplantaten",
+            "inclusion": "Schädelplatte"
+          },
+          "children": []
+        },
+        {
+          "code": "Z96.8",
+          "kind": "category",
+          "label": "Vorhandensein von sonstigen näher bezeichneten funktionellen Implantaten",
+          "rubrics": {
+            "preferred": "Vorhandensein von sonstigen näher bezeichneten funktionellen Implantaten"
+          },
+          "children": [
+            {
+              "code": "Z96.80",
+              "kind": "category",
+              "label": "Vorhandensein eines Bronchialstents",
+              "rubrics": {
+                "preferred": "Vorhandensein eines Bronchialstents"
+              },
+              "children": []
+            },
+            {
+              "code": "Z96.81",
+              "kind": "category",
+              "label": "Vorhandensein eines Trachealstents",
+              "rubrics": {
+                "preferred": "Vorhandensein eines Trachealstents"
+              },
+              "children": []
+            },
+            {
+              "code": "Z96.88",
+              "kind": "category",
+              "label": "Vorhandensein von sonstigen näher bezeichneten funktionellen Implantaten",
+              "rubrics": {
+                "preferred": "Vorhandensein von sonstigen näher bezeichneten funktionellen Implantaten"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "Z96.9",
+          "kind": "category",
+          "label": "Vorhandensein eines funktionellen Implantates, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Vorhandensein eines funktionellen Implantates, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z97",
+      "kind": "category",
+      "label": "Vorhandensein anderer medizinischer Geräte oder Hilfsmittel",
+      "rubrics": {
+        "preferred": "Vorhandensein anderer medizinischer Geräte oder Hilfsmittel",
+        "exclusion": "Vorhandensein einer Drainage des Liquor cerebrospinalisZ98.2"
+      },
+      "children": [
+        {
+          "code": "Z97.1",
+          "kind": "category",
+          "label": "Vorhandensein einer künstlichen Extremität (komplett) (partiell)",
+          "rubrics": {
+            "preferred": "Vorhandensein einer künstlichen Extremität (komplett) (partiell)"
+          },
+          "children": []
+        },
+        {
+          "code": "Z97.8",
+          "kind": "category",
+          "label": "Vorhandensein sonstiger und nicht näher bezeichneter medizinischer Geräte oder Hilfsmittel",
+          "rubrics": {
+            "preferred": "Vorhandensein sonstiger und nicht näher bezeichneter medizinischer Geräte oder Hilfsmittel",
+            "inclusion": "Zahnprothese (komplett) (partiell)",
+            "exclusion": "Kontrolle, Wiedereinsetzen oder Entfernen eines Pessars (intrauterin) zur KontrazeptionZ30.5"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z98",
+      "kind": "category",
+      "label": "Sonstige Zustände nach chirurgischem Eingriff",
+      "rubrics": {
+        "preferred": "Sonstige Zustände nach chirurgischem Eingriff",
+        "exclusion": "Postoperative Komplikation oder Komplikation nach anderen Behandlungsmethoden - siehe Alphabetisches Verzeichnis"
+      },
+      "children": [
+        {
+          "code": "Z98.0",
+          "kind": "category",
+          "label": "Zustand nach intestinalem Bypass oder intestinaler Anastomose",
+          "rubrics": {
+            "preferred": "Zustand nach intestinalem Bypass oder intestinaler Anastomose"
+          },
+          "children": []
+        },
+        {
+          "code": "Z98.1",
+          "kind": "category",
+          "label": "Zustand nach Arthrodese",
+          "rubrics": {
+            "preferred": "Zustand nach Arthrodese"
+          },
+          "children": []
+        },
+        {
+          "code": "Z98.2",
+          "kind": "category",
+          "label": "Vorhandensein einer Drainage des Liquor cerebrospinalis",
+          "rubrics": {
+            "preferred": "Vorhandensein einer Drainage des Liquor cerebrospinalis",
+            "inclusion": "Liquor-cerebrospinalis-Shunt"
+          },
+          "children": []
+        },
+        {
+          "code": "Z98.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Zustände nach chirurgischen Eingriffen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Zustände nach chirurgischen Eingriffen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z99",
+      "kind": "category",
+      "label": "Abhängigkeit (langzeitig) von unterstützenden Apparaten, medizinischen Geräten oder Hilfsmitteln, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Abhängigkeit (langzeitig) von unterstützenden Apparaten, medizinischen Geräten oder Hilfsmitteln, anderenorts nicht klassifiziert",
+        "note": "Eine langzeitige Abhängigkeit beträgt mindestens 3 vollendete Monate."
+      },
+      "children": [
+        {
+          "code": "Z99.0",
+          "kind": "category",
+          "label": "Abhängigkeit (langzeitig) vom Aspirator",
+          "rubrics": {
+            "preferred": "Abhängigkeit (langzeitig) vom Aspirator",
+            "note": "Die Versorgung eines Tracheostomas ist zusätzlich mit Z43.0 zu kodieren.\n\t\t\t\tIm Geltungsbereich des § 17b KHG ist der Kode nur zu verwenden bei Patienten, bei denen eine langzeitige Abhängigkeit besteht.",
+            "inclusion": "Abhängigkeit (langzeitig) von:\n\t\t\t\tIn-/Exsufflator (Hustenunterstützungsgerät)"
+          },
+          "children": []
+        },
+        {
+          "code": "Z99.1",
+          "kind": "category",
+          "label": "Abhängigkeit (langzeitig) vom Respirator",
+          "rubrics": {
+            "preferred": "Abhängigkeit (langzeitig) vom Respirator",
+            "inclusion": "Abhängigkeit (langzeitig) vom Beatmungsgerät",
+            "note": "Die Versorgung eines Tracheostomas ist zusätzlich mit Z43.0 zu kodieren.\n\t\t\t\tIm Geltungsbereich des § 17b KHG ist der Kode nur zu verwenden bei Patienten, bei denen eine langzeitige Abhängigkeit besteht."
+          },
+          "children": []
+        },
+        {
+          "code": "Z99.2",
+          "kind": "category",
+          "label": "Langzeitige Abhängigkeit von Dialyse bei Niereninsuffizienz",
+          "rubrics": {
+            "preferred": "Langzeitige Abhängigkeit von Dialyse bei Niereninsuffizienz",
+            "inclusion": "Langzeitdialyse bei Niereninsuffizienz"
+          },
+          "children": []
+        },
+        {
+          "code": "Z99.3",
+          "kind": "category",
+          "label": "Langzeitige Abhängigkeit vom Rollstuhl",
+          "rubrics": {
+            "preferred": "Langzeitige Abhängigkeit vom Rollstuhl"
+          },
+          "children": []
+        },
+        {
+          "code": "Z99.4",
+          "kind": "category",
+          "label": "Langzeitige Abhängigkeit vom Kunstherz",
+          "rubrics": {
+            "preferred": "Langzeitige Abhängigkeit vom Kunstherz"
+          },
+          "children": []
+        },
+        {
+          "code": "Z99.8",
+          "kind": "category",
+          "label": "Langzeitige Abhängigkeit von sonstigen unterstützenden Apparaten, medizinischen Geräten oder Hilfsmitteln",
+          "rubrics": {
+            "preferred": "Langzeitige Abhängigkeit von sonstigen unterstützenden Apparaten, medizinischen Geräten oder Hilfsmitteln"
+          },
+          "children": []
+        },
+        {
+          "code": "Z99.9",
+          "kind": "category",
+          "label": "Langzeitige Abhängigkeit von einem nicht näher bezeichneten unterstützenden Apparat, medizinischen Gerät oder Hilfsmittel",
+          "rubrics": {
+            "preferred": "Langzeitige Abhängigkeit von einem nicht näher bezeichneten unterstützenden Apparat, medizinischen Gerät oder Hilfsmittel"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "code": "G60",
+  "kind": "category",
+  "label": "Hereditäre und idiopathische Neuropathie",
+  "rubrics": {
+    "preferred": "Hereditäre und idiopathische Neuropathie"
+  },
+  "children": [
+    {
+      "code": "G60.0",
+      "kind": "category",
+      "label": "Hereditäre sensomotorische Neuropathie",
+      "rubrics": {
+        "preferred": "Hereditäre sensomotorische Neuropathie",
+        "inclusion": "Roussy-Lévy-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "G60.1",
+      "kind": "category",
+      "label": "Refsum-Krankheit",
+      "rubrics": {
+        "preferred": "Refsum-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "G60.2",
+      "kind": "category",
+      "label": "Neuropathie in Verbindung mit hereditärer Ataxie",
+      "rubrics": {
+        "preferred": "Neuropathie in Verbindung mit hereditärer Ataxie"
+      },
+      "children": []
+    },
+    {
+      "code": "G60.3",
+      "kind": "category",
+      "label": "Idiopathische progressive Neuropathie",
+      "rubrics": {
+        "preferred": "Idiopathische progressive Neuropathie"
+      },
+      "children": []
+    },
+    {
+      "code": "G60.8",
+      "kind": "category",
+      "label": "Sonstige hereditäre und idiopathische Neuropathien",
+      "rubrics": {
+        "preferred": "Sonstige hereditäre und idiopathische Neuropathien",
+        "inclusion": "Sensible Neuropathie:\n\t\t\t\trezessiv vererbt"
+      },
+      "children": []
+    },
+    {
+      "code": "G60.9",
+      "kind": "category",
+      "label": "Hereditäre und idiopathische Neuropathie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hereditäre und idiopathische Neuropathie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

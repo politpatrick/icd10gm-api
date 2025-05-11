@@ -1,0 +1,108 @@
+{
+  "code": "A06",
+  "kind": "category",
+  "label": "Amöbiasis",
+  "rubrics": {
+    "preferred": "Amöbiasis",
+    "inclusion": "Infektion durch Entamoeba histolytica",
+    "exclusion": "Sonstige Darmkrankheiten durch ProtozoenA07.-"
+  },
+  "children": [
+    {
+      "code": "A06.0",
+      "kind": "category",
+      "label": "Akute Amöbenruhr",
+      "rubrics": {
+        "preferred": "Akute Amöbenruhr",
+        "inclusion": "Amöbenkolitis o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "A06.1",
+      "kind": "category",
+      "label": "Chronische intestinale Amöbiasis",
+      "rubrics": {
+        "preferred": "Chronische intestinale Amöbiasis"
+      },
+      "children": []
+    },
+    {
+      "code": "A06.2",
+      "kind": "category",
+      "label": "Nichtdysenterische Kolitis durch Amöben",
+      "rubrics": {
+        "preferred": "Nichtdysenterische Kolitis durch Amöben"
+      },
+      "children": []
+    },
+    {
+      "code": "A06.3",
+      "kind": "category",
+      "label": "Amöbom des Darmes",
+      "rubrics": {
+        "preferred": "Amöbom des Darmes",
+        "inclusion": "Amöbom o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "A06.4",
+      "kind": "category",
+      "label": "Leberabszess durch AmöbenK77.0",
+      "rubrics": {
+        "preferred": "Leberabszess durch AmöbenK77.0",
+        "inclusion": "Amöbenhepatitis"
+      },
+      "children": []
+    },
+    {
+      "code": "A06.5",
+      "kind": "category",
+      "label": "Lungenabszess durch Amöben",
+      "rubrics": {
+        "preferred": "Lungenabszess durch Amöben",
+        "inclusion": "Abszess der Lunge (und der Leber) durch Amöben mit Pneumonie J17.3"
+      },
+      "children": []
+    },
+    {
+      "code": "A06.6",
+      "kind": "category",
+      "label": "Hirnabszess durch AmöbenG07",
+      "rubrics": {
+        "preferred": "Hirnabszess durch AmöbenG07",
+        "inclusion": "Abszess des Gehirns (und der Leber) (und der Lunge) durch Amöben"
+      },
+      "children": []
+    },
+    {
+      "code": "A06.7",
+      "kind": "category",
+      "label": "Amöbiasis der Haut",
+      "rubrics": {
+        "preferred": "Amöbiasis der Haut"
+      },
+      "children": []
+    },
+    {
+      "code": "A06.8",
+      "kind": "category",
+      "label": "Amöbeninfektion an sonstigen Lokalisationen",
+      "rubrics": {
+        "preferred": "Amöbeninfektion an sonstigen Lokalisationen",
+        "inclusion": "BalanitisN51.2\n\t\t\t\tdurch Amöben"
+      },
+      "children": []
+    },
+    {
+      "code": "A06.9",
+      "kind": "category",
+      "label": "Amöbiasis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Amöbiasis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

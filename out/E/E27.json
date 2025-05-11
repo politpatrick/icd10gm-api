@@ -1,0 +1,92 @@
+{
+  "code": "E27",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der Nebenniere",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der Nebenniere"
+  },
+  "children": [
+    {
+      "code": "E27.0",
+      "kind": "category",
+      "label": "Sonstige Nebennierenrindenüberfunktion",
+      "rubrics": {
+        "preferred": "Sonstige Nebennierenrindenüberfunktion",
+        "inclusion": "Vorzeitige Adrenarche",
+        "exclusion": "Cushing-SyndromE24.-"
+      },
+      "children": []
+    },
+    {
+      "code": "E27.1",
+      "kind": "category",
+      "label": "Primäre Nebennierenrindeninsuffizienz",
+      "rubrics": {
+        "preferred": "Primäre Nebennierenrindeninsuffizienz",
+        "inclusion": "Autoimmunadrenalitis",
+        "exclusion": "Waterhouse-Friderichsen-SyndromA39.1"
+      },
+      "children": []
+    },
+    {
+      "code": "E27.2",
+      "kind": "category",
+      "label": "Addison-Krise",
+      "rubrics": {
+        "preferred": "Addison-Krise",
+        "inclusion": "Nebennierenrinden-Krise"
+      },
+      "children": []
+    },
+    {
+      "code": "E27.3",
+      "kind": "category",
+      "label": "Arzneimittelinduzierte Nebennierenrindeninsuffizienz",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierte Nebennierenrindeninsuffizienz",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "E27.4",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Nebennierenrindeninsuffizienz",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Nebennierenrindeninsuffizienz",
+        "inclusion": "Nebennierenrindeninsuffizienz o.n.A.",
+        "exclusion": "Waterhouse-Friderichsen-SyndromA39.1"
+      },
+      "children": []
+    },
+    {
+      "code": "E27.5",
+      "kind": "category",
+      "label": "Nebennierenmarküberfunktion",
+      "rubrics": {
+        "preferred": "Nebennierenmarküberfunktion",
+        "inclusion": "Nebennierenmarkhyperplasie"
+      },
+      "children": []
+    },
+    {
+      "code": "E27.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten der Nebenniere",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten der Nebenniere",
+        "inclusion": "Abnormität des kortisolbindenden Globulins [Transcortin]"
+      },
+      "children": []
+    },
+    {
+      "code": "E27.9",
+      "kind": "category",
+      "label": "Krankheit der Nebenniere, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit der Nebenniere, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

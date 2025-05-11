@@ -1,0 +1,10 @@
+{
+  "code": "B23.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Krankheitszustände infolge HIV-Krankheit",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Krankheitszustände infolge HIV-Krankheit",
+    "inclusion": "(Persistierende) generalisierte Lymphadenopathie"
+  },
+  "children": []
+}

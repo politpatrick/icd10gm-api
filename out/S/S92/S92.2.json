@@ -1,0 +1,60 @@
+{
+  "code": "S92.2",
+  "kind": "category",
+  "label": "Fraktur eines oder mehrerer sonstiger Fußwurzelknochen",
+  "rubrics": {
+    "preferred": "Fraktur eines oder mehrerer sonstiger Fußwurzelknochen"
+  },
+  "children": [
+    {
+      "code": "S92.20",
+      "kind": "category",
+      "label": "Ein oder mehrere sonstige Fußwurzelknochen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Fraktur: Ein oder mehrere sonstige Fußwurzelknochen, nicht näher bezeichnet",
+        "preferred": "Ein oder mehrere sonstige Fußwurzelknochen, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "S92.21",
+      "kind": "category",
+      "label": "Os naviculare pedis",
+      "rubrics": {
+        "preferredLong": "Fraktur: Os naviculare pedis",
+        "preferred": "Os naviculare pedis"
+      },
+      "children": []
+    },
+    {
+      "code": "S92.22",
+      "kind": "category",
+      "label": "Os cuboideum",
+      "rubrics": {
+        "preferredLong": "Fraktur: Os cuboideum",
+        "preferred": "Os cuboideum"
+      },
+      "children": []
+    },
+    {
+      "code": "S92.23",
+      "kind": "category",
+      "label": "Os cuneiforme (intermedium) (laterale) (mediale)",
+      "rubrics": {
+        "preferredLong": "Fraktur: Os cuneiforme (intermedium) (laterale) (mediale)",
+        "preferred": "Os cuneiforme (intermedium) (laterale) (mediale)"
+      },
+      "children": []
+    },
+    {
+      "code": "S92.28",
+      "kind": "category",
+      "label": "Sonstige Fußwurzelknochen",
+      "rubrics": {
+        "preferredLong": "Fraktur: Sonstige Fußwurzelknochen",
+        "preferred": "Sonstige Fußwurzelknochen"
+      },
+      "children": []
+    }
+  ]
+}

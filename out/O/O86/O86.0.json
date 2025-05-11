@@ -1,0 +1,10 @@
+{
+  "code": "O86.0",
+  "kind": "category",
+  "label": "Infektion der Wunde nach operativem geburtshilflichem Eingriff",
+  "rubrics": {
+    "preferred": "Infektion der Wunde nach operativem geburtshilflichem Eingriff",
+    "inclusion": "Infiziert:\n\t\t\t\tSchnittentbindungswunde\n\t\t\t\tnach Entbindung"
+  },
+  "children": []
+}

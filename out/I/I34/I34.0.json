@@ -1,0 +1,10 @@
+{
+  "code": "I34.0",
+  "kind": "category",
+  "label": "Mitralklappeninsuffizienz",
+  "rubrics": {
+    "preferred": "Mitralklappeninsuffizienz",
+    "inclusion": "Mitralklappen:\n\t\t\t\tRegurgitation\n\t\t\t\to.n.A. oder näher bezeichnete Ursache, ausgenommen rheumatisch"
+  },
+  "children": []
+}

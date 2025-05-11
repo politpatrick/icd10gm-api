@@ -1,0 +1,10 @@
+{
+  "code": "B55.0",
+  "kind": "category",
+  "label": "Viszerale Leishmaniose",
+  "rubrics": {
+    "preferred": "Viszerale Leishmaniose",
+    "inclusion": "Kala-Azar"
+  },
+  "children": []
+}

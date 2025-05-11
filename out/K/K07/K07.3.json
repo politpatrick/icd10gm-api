@@ -1,0 +1,11 @@
+{
+  "code": "K07.3",
+  "kind": "category",
+  "label": "Zahnstellungsanomalien",
+  "rubrics": {
+    "preferred": "Zahnstellungsanomalien",
+    "inclusion": "Impaktierte oder retinierte Zähne mit abnormer Stellung derselben oder der benachbarten Zähne",
+    "exclusion": "Retinierte und impaktierte Zähne ohne abnorme StellungK01.-"
+  },
+  "children": []
+}

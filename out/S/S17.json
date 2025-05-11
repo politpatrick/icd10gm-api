@@ -1,0 +1,39 @@
+{
+  "code": "S17",
+  "kind": "category",
+  "label": "Zerquetschung des Halses",
+  "rubrics": {
+    "preferred": "Zerquetschung des Halses",
+    "note": "Verschlüssele gegebenenfalls auch Crush-Syndrom T79.5.",
+    "exclusion": "Wenn die Art der Verletzung bekannt ist (z.B. Prellung, Fraktur, Luxation, innere Verletzung), verschlüssele nur nach der Art der Verletzung"
+  },
+  "children": [
+    {
+      "code": "S17.0",
+      "kind": "category",
+      "label": "Zerquetschung des Kehlkopfes und der Trachea",
+      "rubrics": {
+        "preferred": "Zerquetschung des Kehlkopfes und der Trachea"
+      },
+      "children": []
+    },
+    {
+      "code": "S17.8",
+      "kind": "category",
+      "label": "Zerquetschung sonstiger Teile des Halses",
+      "rubrics": {
+        "preferred": "Zerquetschung sonstiger Teile des Halses"
+      },
+      "children": []
+    },
+    {
+      "code": "S17.9",
+      "kind": "category",
+      "label": "Zerquetschung des Halses, Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Zerquetschung des Halses, Teil nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

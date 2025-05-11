@@ -1,0 +1,11 @@
+{
+  "code": "J04.2",
+  "kind": "category",
+  "label": "Akute Laryngotracheitis",
+  "rubrics": {
+    "preferred": "Akute Laryngotracheitis",
+    "inclusion": "Tracheitis (akut) mit Laryngitis (akut)",
+    "exclusion": "Chronische LaryngotracheitisJ37.1"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "B26.9",
+  "kind": "category",
+  "label": "Mumps ohne Komplikation",
+  "rubrics": {
+    "preferred": "Mumps ohne Komplikation",
+    "inclusion": "Mumps-Parotitis o.n.A."
+  },
+  "children": []
+}

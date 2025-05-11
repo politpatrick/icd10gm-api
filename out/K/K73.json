@@ -1,0 +1,56 @@
+{
+  "code": "K73",
+  "kind": "category",
+  "label": "Chronische Hepatitis, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Chronische Hepatitis, anderenorts nicht klassifiziert",
+    "exclusion": "Hepatitis (chronisch):\n\t\t\t\tVirus-B15-B19"
+  },
+  "children": [
+    {
+      "code": "K73.0",
+      "kind": "category",
+      "label": "Chronische persistierende Hepatitis, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Chronische persistierende Hepatitis, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "K73.1",
+      "kind": "category",
+      "label": "Chronische lobuläre Hepatitis, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Chronische lobuläre Hepatitis, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "K73.2",
+      "kind": "category",
+      "label": "Chronische aktive Hepatitis, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Chronische aktive Hepatitis, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "K73.8",
+      "kind": "category",
+      "label": "Sonstige chronische Hepatitis, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige chronische Hepatitis, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "K73.9",
+      "kind": "category",
+      "label": "Chronische Hepatitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Chronische Hepatitis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

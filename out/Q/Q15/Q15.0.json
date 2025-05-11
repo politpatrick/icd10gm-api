@@ -1,0 +1,10 @@
+{
+  "code": "Q15.0",
+  "kind": "category",
+  "label": "Angeborenes Glaukom",
+  "rubrics": {
+    "preferred": "Angeborenes Glaukom",
+    "inclusion": "Megalokornea mit Glaukom"
+  },
+  "children": []
+}

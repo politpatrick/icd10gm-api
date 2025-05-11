@@ -1,0 +1,58 @@
+{
+  "code": "Z84",
+  "kind": "category",
+  "label": "Andere Krankheiten oder Zustände in der Familienanamnese",
+  "rubrics": {
+    "preferred": "Andere Krankheiten oder Zustände in der Familienanamnese"
+  },
+  "children": [
+    {
+      "code": "Z84.0",
+      "kind": "category",
+      "label": "Krankheiten der Haut und der Unterhaut in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Krankheiten der Haut und der Unterhaut in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter L00-L99"
+      },
+      "children": []
+    },
+    {
+      "code": "Z84.1",
+      "kind": "category",
+      "label": "Krankheiten der Niere oder des Ureters in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Krankheiten der Niere oder des Ureters in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter N00-N29"
+      },
+      "children": []
+    },
+    {
+      "code": "Z84.2",
+      "kind": "category",
+      "label": "Andere Krankheiten des Urogenitalsystems in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Andere Krankheiten des Urogenitalsystems in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter N30-N99"
+      },
+      "children": []
+    },
+    {
+      "code": "Z84.3",
+      "kind": "category",
+      "label": "Konsanguinität in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Konsanguinität in der Familienanamnese"
+      },
+      "children": []
+    },
+    {
+      "code": "Z84.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten oder Zustände in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten oder Zustände in der Familienanamnese"
+      },
+      "children": []
+    }
+  ]
+}

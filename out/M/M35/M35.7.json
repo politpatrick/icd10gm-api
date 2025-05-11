@@ -1,0 +1,11 @@
+{
+  "code": "M35.7",
+  "kind": "category",
+  "label": "Hypermobilitäts-Syndrom",
+  "rubrics": {
+    "preferred": "Hypermobilitäts-Syndrom",
+    "inclusion": "Familiäre Bänderschwäche",
+    "exclusion": "Ehlers-Danlos-SyndromQ79.6"
+  },
+  "children": []
+}

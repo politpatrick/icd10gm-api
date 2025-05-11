@@ -1,0 +1,97 @@
+{
+  "code": "T84.1",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch eine interne Osteosynthesevorrichtung an Extremitätenknochen"
+  },
+  "children": [
+    {
+      "code": "T84.10",
+      "kind": "category",
+      "label": "Schulterregion",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Schulterregion",
+        "preferred": "Schulterregion",
+        "inclusion": "Sternoklavikulargelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.11",
+      "kind": "category",
+      "label": "Oberarm",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Oberarm",
+        "preferred": "Oberarm",
+        "inclusion": "Ellenbogengelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.12",
+      "kind": "category",
+      "label": "Unterarm",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Unterarm",
+        "preferred": "Unterarm",
+        "inclusion": "Handgelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.13",
+      "kind": "category",
+      "label": "Hand",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Hand",
+        "preferred": "Hand"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.14",
+      "kind": "category",
+      "label": "Beckenregion und Oberschenkel",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Beckenregion und Oberschenkel",
+        "preferred": "Beckenregion und Oberschenkel",
+        "inclusion": "Iliosakralgelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.15",
+      "kind": "category",
+      "label": "Unterschenkel",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Unterschenkel",
+        "preferred": "Unterschenkel",
+        "inclusion": "Kniegelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.16",
+      "kind": "category",
+      "label": "Knöchel und Fuß",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Knöchel und Fuß",
+        "preferred": "Knöchel und Fuß",
+        "inclusion": "Sprunggelenk"
+      },
+      "children": []
+    },
+    {
+      "code": "T84.18",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Extremitätenknochen",
+      "rubrics": {
+        "preferredLong": "Mechanische Komplikation durch eine interne Osteosynthesevorrichtung an Extremitätenknochen: Sonstige näher bezeichnete Extremitätenknochen",
+        "preferred": "Sonstige näher bezeichnete Extremitätenknochen"
+      },
+      "children": []
+    }
+  ]
+}

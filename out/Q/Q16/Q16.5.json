@@ -1,0 +1,10 @@
+{
+  "code": "Q16.5",
+  "kind": "category",
+  "label": "Angeborene Fehlbildung des Innenohres",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildung des Innenohres",
+    "inclusion": "Anomalie:\n\t\t\t\thäutiges Labyrinth"
+  },
+  "children": []
+}

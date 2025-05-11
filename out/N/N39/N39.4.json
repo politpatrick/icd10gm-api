@@ -1,0 +1,67 @@
+{
+  "code": "N39.4",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Harninkontinenz",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Harninkontinenz",
+    "coding-hint": "Soll nach einer durchgeführten Harninkontinenzoperation das erneute Auftreten der ursprünglich diagnostizierten Inkontinenz (Rezidivinkontinenz) angegeben werden, ist eine zusätzliche Schlüsselnummer (N39.47!) zu benutzen.",
+    "exclusion": "Harninkontinenz:\n\t\t\t\to.n.A. R32"
+  },
+  "children": [
+    {
+      "code": "N39.40",
+      "kind": "category",
+      "label": "Reflexinkontinenz",
+      "rubrics": {
+        "preferred": "Reflexinkontinenz"
+      },
+      "children": []
+    },
+    {
+      "code": "N39.41",
+      "kind": "category",
+      "label": "Überlaufinkontinenz",
+      "rubrics": {
+        "preferred": "Überlaufinkontinenz"
+      },
+      "children": []
+    },
+    {
+      "code": "N39.42",
+      "kind": "category",
+      "label": "Dranginkontinenz",
+      "rubrics": {
+        "preferred": "Dranginkontinenz"
+      },
+      "children": []
+    },
+    {
+      "code": "N39.43",
+      "kind": "category",
+      "label": "Extraurethrale Harninkontinenz",
+      "rubrics": {
+        "preferred": "Extraurethrale Harninkontinenz",
+        "definition": "Urinverlust aus anderen Öffnungen als der Urethra"
+      },
+      "children": []
+    },
+    {
+      "code": "N39.47",
+      "kind": "category",
+      "label": "Rezidivinkontinenz",
+      "rubrics": {
+        "preferred": "Rezidivinkontinenz"
+      },
+      "children": []
+    },
+    {
+      "code": "N39.48",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Harninkontinenz",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Harninkontinenz"
+      },
+      "children": []
+    }
+  ]
+}

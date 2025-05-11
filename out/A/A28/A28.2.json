@@ -1,0 +1,10 @@
+{
+  "code": "A28.2",
+  "kind": "category",
+  "label": "Extraintestinale Yersiniose",
+  "rubrics": {
+    "preferred": "Extraintestinale Yersiniose",
+    "exclusion": "PestA20.-"
+  },
+  "children": []
+}

@@ -1,0 +1,86 @@
+{
+  "code": "Q10",
+  "kind": "category",
+  "label": "Angeborene Fehlbildungen des Augenlides, des Tränenapparates und der Orbita",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildungen des Augenlides, des Tränenapparates und der Orbita",
+    "exclusion": "Kryptophthalmus-SyndromQ87.0"
+  },
+  "children": [
+    {
+      "code": "Q10.0",
+      "kind": "category",
+      "label": "Angeborene Ptose",
+      "rubrics": {
+        "preferred": "Angeborene Ptose"
+      },
+      "children": []
+    },
+    {
+      "code": "Q10.1",
+      "kind": "category",
+      "label": "Angeborenes Ektropium",
+      "rubrics": {
+        "preferred": "Angeborenes Ektropium"
+      },
+      "children": []
+    },
+    {
+      "code": "Q10.2",
+      "kind": "category",
+      "label": "Angeborenes Entropium",
+      "rubrics": {
+        "preferred": "Angeborenes Entropium"
+      },
+      "children": []
+    },
+    {
+      "code": "Q10.3",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Augenlides",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Augenlides",
+        "inclusion": "Lidkolobom"
+      },
+      "children": []
+    },
+    {
+      "code": "Q10.4",
+      "kind": "category",
+      "label": "Fehlen und Agenesie des Tränenapparates",
+      "rubrics": {
+        "preferred": "Fehlen und Agenesie des Tränenapparates",
+        "inclusion": "Fehlen des Punctum lacrimale"
+      },
+      "children": []
+    },
+    {
+      "code": "Q10.5",
+      "kind": "category",
+      "label": "Angeborene Stenose und Striktur des Canaliculus lacrimalis",
+      "rubrics": {
+        "preferred": "Angeborene Stenose und Striktur des Canaliculus lacrimalis"
+      },
+      "children": []
+    },
+    {
+      "code": "Q10.6",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Tränenapparates",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Tränenapparates",
+        "inclusion": "Angeborene Fehlbildung des Tränenapparates o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "Q10.7",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung der Orbita",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung der Orbita"
+      },
+      "children": []
+    }
+  ]
+}

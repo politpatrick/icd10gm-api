@@ -1,0 +1,63 @@
+{
+  "code": "D39",
+  "kind": "category",
+  "label": "Neubildung unsicheren oder unbekannten Verhaltens der weiblichen Genitalorgane",
+  "rubrics": {
+    "preferred": "Neubildung unsicheren oder unbekannten Verhaltens der weiblichen Genitalorgane"
+  },
+  "children": [
+    {
+      "code": "D39.0",
+      "kind": "category",
+      "label": "Uterus",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Uterus",
+        "preferred": "Uterus"
+      },
+      "children": []
+    },
+    {
+      "code": "D39.1",
+      "kind": "category",
+      "label": "Ovar",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Ovar",
+        "preferred": "Ovar"
+      },
+      "children": []
+    },
+    {
+      "code": "D39.2",
+      "kind": "category",
+      "label": "Plazenta",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Plazenta",
+        "preferred": "Plazenta",
+        "inclusion": "Chorioadenoma destruens",
+        "exclusion": "Blasenmole o.n.A.O01.9"
+      },
+      "children": []
+    },
+    {
+      "code": "D39.7",
+      "kind": "category",
+      "label": "Sonstige weibliche Genitalorgane",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Sonstige weibliche Genitalorgane",
+        "preferred": "Sonstige weibliche Genitalorgane",
+        "inclusion": "Haut der weiblichen Genitalorgane"
+      },
+      "children": []
+    },
+    {
+      "code": "D39.9",
+      "kind": "category",
+      "label": "Weibliches Genitalorgan, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Neubildung unsicheren oder unbekannten Verhaltens: Weibliches Genitalorgan, nicht näher bezeichnet",
+        "preferred": "Weibliches Genitalorgan, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

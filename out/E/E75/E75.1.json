@@ -1,0 +1,10 @@
+{
+  "code": "E75.1",
+  "kind": "category",
+  "label": "Sonstige Gangliosidosen",
+  "rubrics": {
+    "preferred": "Sonstige Gangliosidosen",
+    "inclusion": "Mukolipidose IV"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "F29",
+  "kind": "category",
+  "label": "Nicht näher bezeichnete nichtorganische Psychose",
+  "rubrics": {
+    "preferred": "Nicht näher bezeichnete nichtorganische Psychose",
+    "inclusion": "Psychose o.n.A.",
+    "exclusion": "Psychische Störung o.n.A.F99"
+  },
+  "children": []
+}

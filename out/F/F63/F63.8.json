@@ -1,0 +1,11 @@
+{
+  "code": "F63.8",
+  "kind": "category",
+  "label": "Sonstige abnorme Gewohnheiten und Störungen der Impulskontrolle",
+  "rubrics": {
+    "preferred": "Sonstige abnorme Gewohnheiten und Störungen der Impulskontrolle",
+    "definition": "In diese Kategorie fallen andere Arten sich dauernd wiederholenden unangepassten Verhaltens, die nicht Folge eines erkennbaren psychiatrischen Syndroms sind und bei denen der betroffene Patient den Impulsen, das pathologische Verhalten auszuführen, nicht widerstehen kann. Nach einer vorausgehenden Periode mit Anspannung folgt während des Handlungsablaufs ein Gefühl der Erleichterung.",
+    "inclusion": "Störung mit intermittierend auftretender Reizbarkeit"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D56.0",
+  "kind": "category",
+  "label": "Alpha-Thalassämie",
+  "rubrics": {
+    "preferred": "Alpha-Thalassämie",
+    "exclusion": "Hydrops fetalis durch hämolytische KrankheitP56.-"
+  },
+  "children": []
+}

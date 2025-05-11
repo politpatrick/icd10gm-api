@@ -1,0 +1,37 @@
+{
+  "code": "H58.2",
+  "kind": "category",
+  "label": "Beteiligung des Auges und der Augenanhangsgebilde bei der chronischen Graft-versus-Host-Krankheit",
+  "rubrics": {
+    "preferred": "Beteiligung des Auges und der Augenanhangsgebilde bei der chronischen Graft-versus-Host-Krankheit"
+  },
+  "children": [
+    {
+      "code": "H58.21",
+      "kind": "category",
+      "label": "Stadium 1 der chronischen Augen-Graft-versus-Host-Krankheit T86.05T86.06",
+      "rubrics": {
+        "preferred": "Stadium 1 der chronischen Augen-Graft-versus-Host-Krankheit T86.05T86.06"
+      },
+      "children": []
+    },
+    {
+      "code": "H58.22",
+      "kind": "category",
+      "label": "Stadium 2 der chronischen Augen-Graft-versus-Host-Krankheit T86.06",
+      "rubrics": {
+        "preferred": "Stadium 2 der chronischen Augen-Graft-versus-Host-Krankheit T86.06"
+      },
+      "children": []
+    },
+    {
+      "code": "H58.23",
+      "kind": "category",
+      "label": "Stadium 3 der chronischen Augen-Graft-versus-Host-KrankheitT86.07",
+      "rubrics": {
+        "preferred": "Stadium 3 der chronischen Augen-Graft-versus-Host-KrankheitT86.07"
+      },
+      "children": []
+    }
+  ]
+}

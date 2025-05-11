@@ -1,0 +1,11 @@
+{
+  "code": "T38.6",
+  "kind": "category",
+  "label": "Antigonadotropine, Antiöstrogene und Antiandrogene, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Antigonadotropine, Antiöstrogene und Antiandrogene, anderenorts nicht klassifiziert",
+    "preferred": "Antigonadotropine, Antiöstrogene und Antiandrogene, anderenorts nicht klassifiziert",
+    "inclusion": "Tamoxifen"
+  },
+  "children": []
+}

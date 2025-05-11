@@ -1,0 +1,11 @@
+{
+  "code": "Q04.6",
+  "kind": "category",
+  "label": "Angeborene Gehirnzysten",
+  "rubrics": {
+    "preferred": "Angeborene Gehirnzysten",
+    "inclusion": "Schizenzephalie",
+    "exclusion": "Erworbene porenzephalische ZysteG93.0"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "C79.81",
+  "kind": "category",
+  "label": "Sekundäre bösartige Neubildung der Brustdrüse",
+  "rubrics": {
+    "preferred": "Sekundäre bösartige Neubildung der Brustdrüse",
+    "exclusion": "Haut der BrustdrüseC79.2"
+  },
+  "children": []
+}

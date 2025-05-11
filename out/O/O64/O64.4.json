@@ -1,0 +1,11 @@
+{
+  "code": "O64.4",
+  "kind": "category",
+  "label": "Geburtshindernis durch Querlage",
+  "rubrics": {
+    "preferred": "Geburtshindernis durch Querlage",
+    "inclusion": "Armvorfall",
+    "exclusion": "SchulterdystokieO66.0"
+  },
+  "children": []
+}

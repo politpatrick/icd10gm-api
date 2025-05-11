@@ -1,0 +1,57 @@
+{
+  "code": "Q01",
+  "kind": "category",
+  "label": "Enzephalozele",
+  "rubrics": {
+    "preferred": "Enzephalozele",
+    "inclusion": "Meningozele, zerebral",
+    "exclusion": "Meckel-Gruber-SyndromQ61.9"
+  },
+  "children": [
+    {
+      "code": "Q01.0",
+      "kind": "category",
+      "label": "Frontale Enzephalozele",
+      "rubrics": {
+        "preferred": "Frontale Enzephalozele"
+      },
+      "children": []
+    },
+    {
+      "code": "Q01.1",
+      "kind": "category",
+      "label": "Nasofrontale Enzephalozele",
+      "rubrics": {
+        "preferred": "Nasofrontale Enzephalozele"
+      },
+      "children": []
+    },
+    {
+      "code": "Q01.2",
+      "kind": "category",
+      "label": "Okzipitale Enzephalozele",
+      "rubrics": {
+        "preferred": "Okzipitale Enzephalozele"
+      },
+      "children": []
+    },
+    {
+      "code": "Q01.8",
+      "kind": "category",
+      "label": "Enzephalozele sonstiger Lokalisationen",
+      "rubrics": {
+        "preferred": "Enzephalozele sonstiger Lokalisationen"
+      },
+      "children": []
+    },
+    {
+      "code": "Q01.9",
+      "kind": "category",
+      "label": "Enzephalozele, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Enzephalozele, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

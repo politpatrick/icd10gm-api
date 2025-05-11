@@ -1,0 +1,93 @@
+{
+  "code": "S24.7",
+  "kind": "category",
+  "label": "Funktionale Höhe einer Verletzung des thorakalen Rückenmarkes",
+  "rubrics": {
+    "preferred": "Funktionale Höhe einer Verletzung des thorakalen Rückenmarkes",
+    "text": "Diese Subkategorie dient zur Verschlüsselung der funktionalen Höhe einer Rückenmarksverletzung. Unter der funktionalen Höhe einer Rückenmarksverletzung wird das unterste intakte Rückenmarkssegment verstanden (so bedeutet z.B. \"komplette T4-Läsion des Rückenmarks\", dass die Funktionen des 4. und der höheren Thorakalnerven intakt sind und dass unterhalb T4 keine Funktion mehr vorhanden ist).",
+    "coding-hint": "Kodiere zuerst die Art der thorakalen Rückenmarksverletzung."
+  },
+  "children": [
+    {
+      "code": "S24.70",
+      "kind": "category",
+      "label": "Höhe nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Verletzung des thorakalen Rückenmarkes: Höhe nicht näher bezeichnet",
+        "preferred": "Höhe nicht näher bezeichnet",
+        "inclusion": "Brustmark o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "S24.71",
+      "kind": "category",
+      "label": "T1",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: T1",
+        "preferred": "T1"
+      },
+      "children": []
+    },
+    {
+      "code": "S24.72",
+      "kind": "category",
+      "label": "T2/T3",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: T2/T3",
+        "preferred": "T2/T3"
+      },
+      "children": []
+    },
+    {
+      "code": "S24.73",
+      "kind": "category",
+      "label": "T4/T5",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: T4/T5",
+        "preferred": "T4/T5"
+      },
+      "children": []
+    },
+    {
+      "code": "S24.74",
+      "kind": "category",
+      "label": "T6/T7",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: T6/T7",
+        "preferred": "T6/T7"
+      },
+      "children": []
+    },
+    {
+      "code": "S24.75",
+      "kind": "category",
+      "label": "T8/T9",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: T8/T9",
+        "preferred": "T8/T9"
+      },
+      "children": []
+    },
+    {
+      "code": "S24.76",
+      "kind": "category",
+      "label": "T10/T11",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: T10/T11",
+        "preferred": "T10/T11"
+      },
+      "children": []
+    },
+    {
+      "code": "S24.77",
+      "kind": "category",
+      "label": "T12",
+      "rubrics": {
+        "preferredLong": "Verletzung des Rückenmarkes: T12",
+        "preferred": "T12"
+      },
+      "children": []
+    }
+  ]
+}

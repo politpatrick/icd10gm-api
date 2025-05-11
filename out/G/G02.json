@@ -1,0 +1,41 @@
+{
+  "code": "G02",
+  "kind": "category",
+  "label": "Meningitis bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+  "rubrics": {
+    "preferred": "Meningitis bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+    "exclusion": "Meningoenzephalitis und Meningomyelitis bei sonstigen anderenorts klassifizierten infektiösen und parasitären KrankheitenG05.1*-G05.2"
+  },
+  "children": [
+    {
+      "code": "G02.0",
+      "kind": "category",
+      "label": "Meningitis bei anderenorts klassifizierten Viruskrankheiten",
+      "rubrics": {
+        "preferred": "Meningitis bei anderenorts klassifizierten Viruskrankheiten",
+        "inclusion": "Meningitis (bei) (durch):\n\t\t\t\tZosterB02.1"
+      },
+      "children": []
+    },
+    {
+      "code": "G02.1",
+      "kind": "category",
+      "label": "Meningitis bei anderenorts klassifizierten Mykosen",
+      "rubrics": {
+        "preferred": "Meningitis bei anderenorts klassifizierten Mykosen",
+        "inclusion": "Meningitis bei:\n\t\t\t\tKryptokokkoseB45.1"
+      },
+      "children": []
+    },
+    {
+      "code": "G02.8",
+      "kind": "category",
+      "label": "Meningitis bei sonstigen näher bezeichneten anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+      "rubrics": {
+        "preferred": "Meningitis bei sonstigen näher bezeichneten anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+        "inclusion": "Meningitis durch:\n\t\t\t\tChagas-Krankheit (chronisch)B57.4"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "T91.8",
+  "kind": "category",
+  "label": "Folgen sonstiger näher bezeichneter Verletzungen des Halses und des Rumpfes",
+  "rubrics": {
+    "preferred": "Folgen sonstiger näher bezeichneter Verletzungen des Halses und des Rumpfes",
+    "inclusion": "Folgen einer Verletzung, die unter S13.-, S14.2-S14.6, S15-S18, S19.7-S19.8-, S23.-, S24.2-S24.6, S25.-, S28.-, S29.0-S29.8-, S33.-, S34.2-S34.8, S35.-, S38.-, S39.0-S39.8, T09.2 und T09.4-T09.8 klassifizierbar ist"
+  },
+  "children": []
+}

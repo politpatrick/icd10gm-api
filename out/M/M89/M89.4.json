@@ -1,0 +1,10 @@
+{
+  "code": "M89.4",
+  "kind": "category",
+  "label": "Sonstige hypertrophische Osteoarthropathie",
+  "rubrics": {
+    "preferred": "Sonstige hypertrophische Osteoarthropathie",
+    "inclusion": "Pachydermoperiostose"
+  },
+  "children": []
+}

@@ -1,0 +1,31 @@
+{
+  "code": "I11",
+  "kind": "category",
+  "label": "Hypertensive Herzkrankheit",
+  "rubrics": {
+    "preferred": "Hypertensive Herzkrankheit",
+    "note": "Benutze, sofern zutreffend, zunächst Schlüsselnummern aus I50.- oder I51.4-I51.9, um die Art der Herzkrankheit anzugeben."
+  },
+  "children": [
+    {
+      "code": "I11.0",
+      "kind": "category",
+      "label": "Hypertensive Herzkrankheit mit (kongestiver) Herzinsuffizienz",
+      "rubrics": {
+        "preferred": "Hypertensive Herzkrankheit mit (kongestiver) Herzinsuffizienz",
+        "inclusion": "Hypertensives Herzversagen"
+      },
+      "children": []
+    },
+    {
+      "code": "I11.9",
+      "kind": "category",
+      "label": "Hypertensive Herzkrankheit ohne (kongestive) Herzinsuffizienz",
+      "rubrics": {
+        "preferred": "Hypertensive Herzkrankheit ohne (kongestive) Herzinsuffizienz",
+        "inclusion": "Hypertensive Herzkrankheit o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

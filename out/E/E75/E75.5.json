@@ -1,0 +1,10 @@
+{
+  "code": "E75.5",
+  "kind": "category",
+  "label": "Sonstige Störungen der Lipidspeicherung",
+  "rubrics": {
+    "preferred": "Sonstige Störungen der Lipidspeicherung",
+    "inclusion": "Zerebrotendinöse Xanthomatose [van-Bogaert-Scherer-Epstein-Syndrom]"
+  },
+  "children": []
+}

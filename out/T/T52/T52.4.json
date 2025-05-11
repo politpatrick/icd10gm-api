@@ -1,0 +1,10 @@
+{
+  "code": "T52.4",
+  "kind": "category",
+  "label": "Ketone",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Ketone",
+    "preferred": "Ketone"
+  },
+  "children": []
+}

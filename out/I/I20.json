@@ -1,0 +1,50 @@
+{
+  "code": "I20",
+  "kind": "category",
+  "label": "Angina pectoris",
+  "rubrics": {
+    "preferred": "Angina pectoris"
+  },
+  "children": [
+    {
+      "code": "I20.0",
+      "kind": "category",
+      "label": "Instabile Angina pectoris",
+      "rubrics": {
+        "preferred": "Instabile Angina pectoris",
+        "inclusion": "Präinfarkt-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "I20.1",
+      "kind": "category",
+      "label": "Angina pectoris mit nachgewiesenem Koronarspasmus",
+      "rubrics": {
+        "preferred": "Angina pectoris mit nachgewiesenem Koronarspasmus",
+        "inclusion": "Prinzmetal-Angina (-pectoris)"
+      },
+      "children": []
+    },
+    {
+      "code": "I20.8",
+      "kind": "category",
+      "label": "Sonstige Formen der Angina pectoris",
+      "rubrics": {
+        "preferred": "Sonstige Formen der Angina pectoris",
+        "inclusion": "Stenokardie"
+      },
+      "children": []
+    },
+    {
+      "code": "I20.9",
+      "kind": "category",
+      "label": "Angina pectoris, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angina pectoris, nicht näher bezeichnet",
+        "inclusion": "Ischämischer Thoraxschmerz"
+      },
+      "children": []
+    }
+  ]
+}

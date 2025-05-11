@@ -1,0 +1,349 @@
+{
+  "code": "L40-L45",
+  "kind": "block",
+  "label": "Papulosquamöse Hautkrankheiten",
+  "rubrics": {
+    "preferred": "Papulosquamöse Hautkrankheiten"
+  },
+  "children": [
+    {
+      "code": "L40",
+      "kind": "category",
+      "label": "Psoriasis",
+      "rubrics": {
+        "preferred": "Psoriasis",
+        "coding-hint": "Soll das Vorliegen einer mittelschweren oder schweren Psoriasis angegeben werden, ist bei den Schlüsselnummern L40.0, L40.4 und L40.8 eine zusätzliche Schlüsselnummer L40.70 zu benutzen."
+      },
+      "children": [
+        {
+          "code": "L40.0",
+          "kind": "category",
+          "label": "Psoriasis vulgaris",
+          "rubrics": {
+            "preferred": "Psoriasis vulgaris",
+            "inclusion": "Psoriasis nummularis"
+          },
+          "children": []
+        },
+        {
+          "code": "L40.1",
+          "kind": "category",
+          "label": "Generalisierte Psoriasis pustulosa",
+          "rubrics": {
+            "preferred": "Generalisierte Psoriasis pustulosa",
+            "inclusion": "Psoriasis pustulosa, Typ Zumbusch"
+          },
+          "children": []
+        },
+        {
+          "code": "L40.2",
+          "kind": "category",
+          "label": "Akrodermatitis continua suppurativa [Hallopeau]",
+          "rubrics": {
+            "preferred": "Akrodermatitis continua suppurativa [Hallopeau]"
+          },
+          "children": []
+        },
+        {
+          "code": "L40.3",
+          "kind": "category",
+          "label": "Psoriasis pustulosa palmoplantaris",
+          "rubrics": {
+            "preferred": "Psoriasis pustulosa palmoplantaris"
+          },
+          "children": []
+        },
+        {
+          "code": "L40.4",
+          "kind": "category",
+          "label": "Psoriasis guttata",
+          "rubrics": {
+            "preferred": "Psoriasis guttata"
+          },
+          "children": []
+        },
+        {
+          "code": "L40.5",
+          "kind": "category",
+          "label": "Psoriasis-ArthropathieM07.0-M07.3M09.0-",
+          "rubrics": {
+            "preferred": "Psoriasis-ArthropathieM07.0-M07.3M09.0-",
+            "inclusion": "Psoriasis-Arthritis"
+          },
+          "children": []
+        },
+        {
+          "code": "L40.7",
+          "kind": "category",
+          "label": "Schweregrad der Psoriasis",
+          "rubrics": {
+            "preferred": "Schweregrad der Psoriasis"
+          },
+          "children": [
+            {
+              "code": "L40.70",
+              "kind": "category",
+              "label": "Mittelschwere bis schwere Psoriasis",
+              "rubrics": {
+                "preferred": "Mittelschwere bis schwere Psoriasis",
+                "definition": "Body Surface Area [BSA] >10 und Dermatologischer Lebensqualitäts-Index [DLQI] >10\n\t\t\t\tPsoriasis Area and Severity Index [PASI] >10 und Dermatologischer Lebensqualitäts-Index [DLQI] >10"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "L40.8",
+          "kind": "category",
+          "label": "Sonstige Psoriasis",
+          "rubrics": {
+            "preferred": "Sonstige Psoriasis",
+            "inclusion": "Psoriasis inversa"
+          },
+          "children": []
+        },
+        {
+          "code": "L40.9",
+          "kind": "category",
+          "label": "Psoriasis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Psoriasis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L41",
+      "kind": "category",
+      "label": "Parapsoriasis",
+      "rubrics": {
+        "preferred": "Parapsoriasis",
+        "exclusion": "Poikilodermia atrophicans vascularis [Jacobi]L94.5"
+      },
+      "children": [
+        {
+          "code": "L41.0",
+          "kind": "category",
+          "label": "Pityriasis lichenoides et varioliformis acuta [Mucha-Habermann]",
+          "rubrics": {
+            "preferred": "Pityriasis lichenoides et varioliformis acuta [Mucha-Habermann]"
+          },
+          "children": []
+        },
+        {
+          "code": "L41.1",
+          "kind": "category",
+          "label": "Parapsoriasis guttata",
+          "rubrics": {
+            "preferred": "Parapsoriasis guttata"
+          },
+          "children": []
+        },
+        {
+          "code": "L41.3",
+          "kind": "category",
+          "label": "Kleinfleckige Parapsoriasis en plaques",
+          "rubrics": {
+            "preferred": "Kleinfleckige Parapsoriasis en plaques"
+          },
+          "children": []
+        },
+        {
+          "code": "L41.4",
+          "kind": "category",
+          "label": "Großfleckige Parapsoriasis en plaques",
+          "rubrics": {
+            "preferred": "Großfleckige Parapsoriasis en plaques"
+          },
+          "children": []
+        },
+        {
+          "code": "L41.5",
+          "kind": "category",
+          "label": "Parapsoriasis mit Poikilodermie",
+          "rubrics": {
+            "preferred": "Parapsoriasis mit Poikilodermie"
+          },
+          "children": []
+        },
+        {
+          "code": "L41.8",
+          "kind": "category",
+          "label": "Sonstige Parapsoriasis",
+          "rubrics": {
+            "preferred": "Sonstige Parapsoriasis"
+          },
+          "children": []
+        },
+        {
+          "code": "L41.9",
+          "kind": "category",
+          "label": "Parapsoriasis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Parapsoriasis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L42",
+      "kind": "category",
+      "label": "Pityriasis rosea",
+      "rubrics": {
+        "preferred": "Pityriasis rosea"
+      },
+      "children": []
+    },
+    {
+      "code": "L43",
+      "kind": "category",
+      "label": "Lichen ruber planus",
+      "rubrics": {
+        "preferred": "Lichen ruber planus",
+        "exclusion": "Lichen pilarisL66.1"
+      },
+      "children": [
+        {
+          "code": "L43.0",
+          "kind": "category",
+          "label": "Lichen ruber hypertrophicus",
+          "rubrics": {
+            "preferred": "Lichen ruber hypertrophicus"
+          },
+          "children": []
+        },
+        {
+          "code": "L43.1",
+          "kind": "category",
+          "label": "Lichen ruber pemphigoides",
+          "rubrics": {
+            "preferred": "Lichen ruber pemphigoides"
+          },
+          "children": []
+        },
+        {
+          "code": "L43.2",
+          "kind": "category",
+          "label": "Lichenoide Arzneimittelreaktion",
+          "rubrics": {
+            "preferred": "Lichenoide Arzneimittelreaktion",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "L43.3",
+          "kind": "category",
+          "label": "Subakuter Lichen ruber planus (aktiv)",
+          "rubrics": {
+            "preferred": "Subakuter Lichen ruber planus (aktiv)",
+            "inclusion": "Lichen planus tropicus"
+          },
+          "children": []
+        },
+        {
+          "code": "L43.8",
+          "kind": "category",
+          "label": "Sonstiger Lichen ruber planus",
+          "rubrics": {
+            "preferred": "Sonstiger Lichen ruber planus"
+          },
+          "children": []
+        },
+        {
+          "code": "L43.9",
+          "kind": "category",
+          "label": "Lichen ruber planus, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Lichen ruber planus, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L44",
+      "kind": "category",
+      "label": "Sonstige papulosquamöse Hautkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige papulosquamöse Hautkrankheiten"
+      },
+      "children": [
+        {
+          "code": "L44.0",
+          "kind": "category",
+          "label": "Pityriasis rubra pilaris",
+          "rubrics": {
+            "preferred": "Pityriasis rubra pilaris"
+          },
+          "children": []
+        },
+        {
+          "code": "L44.1",
+          "kind": "category",
+          "label": "Lichen nitidus",
+          "rubrics": {
+            "preferred": "Lichen nitidus"
+          },
+          "children": []
+        },
+        {
+          "code": "L44.2",
+          "kind": "category",
+          "label": "Lichen striatus",
+          "rubrics": {
+            "preferred": "Lichen striatus"
+          },
+          "children": []
+        },
+        {
+          "code": "L44.3",
+          "kind": "category",
+          "label": "Lichen ruber moniliformis",
+          "rubrics": {
+            "preferred": "Lichen ruber moniliformis"
+          },
+          "children": []
+        },
+        {
+          "code": "L44.4",
+          "kind": "category",
+          "label": "Infantile papulöse Akrodermatitis [Gianotti-Crosti-Syndrom]",
+          "rubrics": {
+            "preferred": "Infantile papulöse Akrodermatitis [Gianotti-Crosti-Syndrom]"
+          },
+          "children": []
+        },
+        {
+          "code": "L44.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete papulosquamöse Hautkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete papulosquamöse Hautkrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "L44.9",
+          "kind": "category",
+          "label": "Papulosquamöse Hautkrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Papulosquamöse Hautkrankheit, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L45",
+      "kind": "category",
+      "label": "Papulosquamöse Hautkrankheiten bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Papulosquamöse Hautkrankheiten bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": []
+    }
+  ]
+}

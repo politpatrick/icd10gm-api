@@ -1,0 +1,90 @@
+{
+  "code": "T91",
+  "kind": "category",
+  "label": "Folgen von Verletzungen des Halses und des Rumpfes",
+  "rubrics": {
+    "preferred": "Folgen von Verletzungen des Halses und des Rumpfes"
+  },
+  "children": [
+    {
+      "code": "T91.0",
+      "kind": "category",
+      "label": "Folgen einer oberflächlichen Verletzung und einer offenen Wunde des Halses und des Rumpfes",
+      "rubrics": {
+        "preferred": "Folgen einer oberflächlichen Verletzung und einer offenen Wunde des Halses und des Rumpfes",
+        "inclusion": "Folgen einer Verletzung, die unter S10-S11, S20-S21, S30-S31 und T09.0-T09.1 klassifizierbar ist"
+      },
+      "children": []
+    },
+    {
+      "code": "T91.1",
+      "kind": "category",
+      "label": "Folgen einer Fraktur der Wirbelsäule",
+      "rubrics": {
+        "preferred": "Folgen einer Fraktur der Wirbelsäule",
+        "inclusion": "Folgen einer Verletzung, die unter S12.-, S22.0-, S22.1, S32.0-, S32.7 und T08.- klassifizierbar ist"
+      },
+      "children": []
+    },
+    {
+      "code": "T91.2",
+      "kind": "category",
+      "label": "Folgen einer sonstigen Fraktur des Thorax und des Beckens",
+      "rubrics": {
+        "preferred": "Folgen einer sonstigen Fraktur des Thorax und des Beckens",
+        "inclusion": "Folgen einer Verletzung, die unter S22.2-S22.9, S32.1-S32.5 und S32.8- klassifizierbar ist"
+      },
+      "children": []
+    },
+    {
+      "code": "T91.3",
+      "kind": "category",
+      "label": "Folgen einer Verletzung des Rückenmarkes",
+      "rubrics": {
+        "preferred": "Folgen einer Verletzung des Rückenmarkes",
+        "inclusion": "Folgen einer Verletzung, die unter S14.0-S14.1-, S24.0-S24.1-, S34.0-S34.1 und T09.3 klassifizierbar ist"
+      },
+      "children": []
+    },
+    {
+      "code": "T91.4",
+      "kind": "category",
+      "label": "Folgen einer Verletzung der intrathorakalen Organe",
+      "rubrics": {
+        "preferred": "Folgen einer Verletzung der intrathorakalen Organe",
+        "inclusion": "Folgen einer Verletzung, die unter S26-S27 klassifizierbar ist"
+      },
+      "children": []
+    },
+    {
+      "code": "T91.5",
+      "kind": "category",
+      "label": "Folgen einer Verletzung der intraabdominalen Organe und der Beckenorgane",
+      "rubrics": {
+        "preferred": "Folgen einer Verletzung der intraabdominalen Organe und der Beckenorgane",
+        "inclusion": "Folgen einer Verletzung, die unter S36-S37 klassifizierbar ist"
+      },
+      "children": []
+    },
+    {
+      "code": "T91.8",
+      "kind": "category",
+      "label": "Folgen sonstiger näher bezeichneter Verletzungen des Halses und des Rumpfes",
+      "rubrics": {
+        "preferred": "Folgen sonstiger näher bezeichneter Verletzungen des Halses und des Rumpfes",
+        "inclusion": "Folgen einer Verletzung, die unter S13.-, S14.2-S14.6, S15-S18, S19.7-S19.8-, S23.-, S24.2-S24.6, S25.-, S28.-, S29.0-S29.8-, S33.-, S34.2-S34.8, S35.-, S38.-, S39.0-S39.8, T09.2 und T09.4-T09.8 klassifizierbar ist"
+      },
+      "children": []
+    },
+    {
+      "code": "T91.9",
+      "kind": "category",
+      "label": "Folgen einer nicht näher bezeichneten Verletzung des Halses und des Rumpfes",
+      "rubrics": {
+        "preferred": "Folgen einer nicht näher bezeichneten Verletzung des Halses und des Rumpfes",
+        "inclusion": "Folgen einer Verletzung, die unter S19.9, S29.9, S39.9 und T09.9 klassifizierbar ist"
+      },
+      "children": []
+    }
+  ]
+}

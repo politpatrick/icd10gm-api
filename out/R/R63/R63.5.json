@@ -1,0 +1,10 @@
+{
+  "code": "R63.5",
+  "kind": "category",
+  "label": "Abnorme Gewichtszunahme",
+  "rubrics": {
+    "preferred": "Abnorme Gewichtszunahme",
+    "exclusion": "Übermäßige Gewichtszunahme in der SchwangerschaftO26.0"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "Q78.0",
+  "kind": "category",
+  "label": "Osteogenesis imperfecta",
+  "rubrics": {
+    "preferred": "Osteogenesis imperfecta",
+    "inclusion": "Osteopsathyrosis"
+  },
+  "children": []
+}

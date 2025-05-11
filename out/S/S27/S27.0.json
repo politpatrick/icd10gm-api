@@ -1,0 +1,10 @@
+{
+  "code": "S27.0",
+  "kind": "category",
+  "label": "Traumatischer Pneumothorax",
+  "rubrics": {
+    "preferred": "Traumatischer Pneumothorax",
+    "exclusion": "Iatrogener PneumothoraxJ95.80"
+  },
+  "children": []
+}

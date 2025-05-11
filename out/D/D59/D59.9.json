@@ -1,0 +1,10 @@
+{
+  "code": "D59.9",
+  "kind": "category",
+  "label": "Erworbene hämolytische Anämie, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Erworbene hämolytische Anämie, nicht näher bezeichnet",
+    "inclusion": "Idiopathische hämolytische Anämie, chronisch"
+  },
+  "children": []
+}

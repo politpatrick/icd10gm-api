@@ -1,0 +1,270 @@
+{
+  "code": "M65-M68",
+  "kind": "block",
+  "label": "Krankheiten der Synovialis und der Sehnen",
+  "rubrics": {
+    "preferred": "Krankheiten der Synovialis und der Sehnen"
+  },
+  "children": [
+    {
+      "code": "M65",
+      "kind": "category",
+      "label": "Synovitis und Tenosynovitis",
+      "rubrics": {
+        "preferred": "Synovitis und Tenosynovitis",
+        "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+        "exclusion": "Krankheiten des Weichteilgewebes im Zusammenhang mit Beanspruchung, Überbeanspruchung und DruckM70.-"
+      },
+      "children": [
+        {
+          "code": "M65.0",
+          "kind": "category",
+          "label": "Sehnenscheidenabszess",
+          "rubrics": {
+            "preferred": "Sehnenscheidenabszess",
+            "coding-hint": "Soll der bakterielle Erreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B96) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "M65.1",
+          "kind": "category",
+          "label": "Sonstige infektiöse (Teno-)Synovitis",
+          "rubrics": {
+            "preferred": "Sonstige infektiöse (Teno-)Synovitis"
+          },
+          "children": []
+        },
+        {
+          "code": "M65.2",
+          "kind": "category",
+          "label": "Tendinitis calcarea",
+          "rubrics": {
+            "preferred": "Tendinitis calcarea",
+            "exclusion": "Näher bezeichnete TendinitisM75-M77"
+          },
+          "children": []
+        },
+        {
+          "code": "M65.3",
+          "kind": "category",
+          "label": "Schnellender Finger",
+          "rubrics": {
+            "preferred": "Schnellender Finger",
+            "inclusion": "Tendopathia nodosa"
+          },
+          "children": []
+        },
+        {
+          "code": "M65.4",
+          "kind": "category",
+          "label": "Tendovaginitis stenosans [de Quervain]",
+          "rubrics": {
+            "preferred": "Tendovaginitis stenosans [de Quervain]"
+          },
+          "children": []
+        },
+        {
+          "code": "M65.8",
+          "kind": "category",
+          "label": "Sonstige Synovitis und Tenosynovitis",
+          "rubrics": {
+            "preferred": "Sonstige Synovitis und Tenosynovitis",
+            "inclusion": "Reizhüfte"
+          },
+          "children": []
+        },
+        {
+          "code": "M65.9",
+          "kind": "category",
+          "label": "Synovitis und Tenosynovitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Synovitis und Tenosynovitis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M66",
+      "kind": "category",
+      "label": "Spontanruptur der Synovialis und von Sehnen",
+      "rubrics": {
+        "preferred": "Spontanruptur der Synovialis und von Sehnen",
+        "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+        "inclusion": "Rupturen, die durch Einwirken normaler Kräfte auf ein Gewebe eintreten, lassen auf eine verminderte Gewebefestigkeit schließen.",
+        "exclusion": "Rupturen, die bei Einwirkung übernormaler Kräfte auf normal ausgebildetes Gewebe eintreten - siehe Sehnenverletzung nach Körperregion"
+      },
+      "children": [
+        {
+          "code": "M66.0",
+          "kind": "category",
+          "label": "Ruptur einer Poplitealzyste",
+          "rubrics": {
+            "preferred": "Ruptur einer Poplitealzyste"
+          },
+          "children": []
+        },
+        {
+          "code": "M66.1",
+          "kind": "category",
+          "label": "Ruptur der Synovialis",
+          "rubrics": {
+            "preferred": "Ruptur der Synovialis",
+            "inclusion": "Ruptur einer Synovialzyste",
+            "exclusion": "Ruptur einer PoplitealzysteM66.0"
+          },
+          "children": []
+        },
+        {
+          "code": "M66.2",
+          "kind": "category",
+          "label": "Spontanruptur von Strecksehnen",
+          "rubrics": {
+            "preferred": "Spontanruptur von Strecksehnen"
+          },
+          "children": []
+        },
+        {
+          "code": "M66.3",
+          "kind": "category",
+          "label": "Spontanruptur von Beugesehnen",
+          "rubrics": {
+            "preferred": "Spontanruptur von Beugesehnen"
+          },
+          "children": []
+        },
+        {
+          "code": "M66.4",
+          "kind": "category",
+          "label": "Spontanruptur sonstiger Sehnen",
+          "rubrics": {
+            "preferred": "Spontanruptur sonstiger Sehnen"
+          },
+          "children": []
+        },
+        {
+          "code": "M66.5",
+          "kind": "category",
+          "label": "Spontanruptur von nicht näher bezeichneten Sehnen",
+          "rubrics": {
+            "preferred": "Spontanruptur von nicht näher bezeichneten Sehnen",
+            "inclusion": "Ruptur der Muskel-Sehnen-Verbindung, nichttraumatisch"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M67",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Synovialis und der Sehnen",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Synovialis und der Sehnen",
+        "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+        "exclusion": "Xanthomatose der SehnenE78.2"
+      },
+      "children": [
+        {
+          "code": "M67.0",
+          "kind": "category",
+          "label": "Achillessehnenverkürzung (erworben)",
+          "rubrics": {
+            "preferred": "Achillessehnenverkürzung (erworben)"
+          },
+          "children": []
+        },
+        {
+          "code": "M67.1",
+          "kind": "category",
+          "label": "Sonstige Sehnen- (Scheiden-) Kontraktur",
+          "rubrics": {
+            "preferred": "Sonstige Sehnen- (Scheiden-) Kontraktur",
+            "exclusion": "Mit GelenkkontrakturM24.5-"
+          },
+          "children": []
+        },
+        {
+          "code": "M67.2",
+          "kind": "category",
+          "label": "Hypertrophie der Synovialis, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Hypertrophie der Synovialis, anderenorts nicht klassifiziert",
+            "exclusion": "Villonoduläre Synovitis (pigmentiert)M12.2-"
+          },
+          "children": []
+        },
+        {
+          "code": "M67.3",
+          "kind": "category",
+          "label": "Transitorische Synovitis",
+          "rubrics": {
+            "preferred": "Transitorische Synovitis",
+            "inclusion": "Toxische Synovitis",
+            "exclusion": "Palindromer RheumatismusM12.3-"
+          },
+          "children": []
+        },
+        {
+          "code": "M67.4",
+          "kind": "category",
+          "label": "Ganglion",
+          "rubrics": {
+            "preferred": "Ganglion",
+            "inclusion": "Ganglion eines Gelenkes oder einer Sehne oder Sehnenscheide",
+            "exclusion": "SynovialzysteM71.2-M71.3"
+          },
+          "children": []
+        },
+        {
+          "code": "M67.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten der Synovialis und der Sehnen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten der Synovialis und der Sehnen"
+          },
+          "children": []
+        },
+        {
+          "code": "M67.9",
+          "kind": "category",
+          "label": "Krankheit der Synovialis und der Sehnen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der Synovialis und der Sehnen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M68",
+      "kind": "category",
+      "label": "Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten",
+        "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+      },
+      "children": [
+        {
+          "code": "M68.0",
+          "kind": "category",
+          "label": "Synovitis und Tenosynovitis bei anderenorts klassifizierten bakteriellen Krankheiten",
+          "rubrics": {
+            "preferred": "Synovitis und Tenosynovitis bei anderenorts klassifizierten bakteriellen Krankheiten",
+            "inclusion": "Synovitis oder Tenosynovitis bei:\n\t\t\t\tTuberkuloseA18.0"
+          },
+          "children": []
+        },
+        {
+          "code": "M68.8",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

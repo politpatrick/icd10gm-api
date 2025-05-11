@@ -1,0 +1,11 @@
+{
+  "code": "S09.7",
+  "kind": "category",
+  "label": "Multiple Verletzungen des Kopfes",
+  "rubrics": {
+    "preferred": "Multiple Verletzungen des Kopfes",
+    "inclusion": "Verletzungen, die in mehr als einer der Kategorien S00-S09.2 klassifizierbar sind",
+    "coding-hint": "Bezüglich der Verschlüsselung multipler Verletzungen sind in der stationären Versorgung die Deutschen Kodierrichtlinien heranzuziehen."
+  },
+  "children": []
+}

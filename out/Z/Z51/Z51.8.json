@@ -1,0 +1,48 @@
+{
+  "code": "Z51.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete medizinische Behandlung",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete medizinische Behandlung",
+    "exclusion": "Betreuung einer pflegebedürftigen Person während des Urlaubs der AngehörigenZ75.8"
+  },
+  "children": [
+    {
+      "code": "Z51.81",
+      "kind": "category",
+      "label": "Apherese",
+      "rubrics": {
+        "preferred": "Apherese"
+      },
+      "children": []
+    },
+    {
+      "code": "Z51.82",
+      "kind": "category",
+      "label": "Kombinierte Strahlen- und Chemotherapiesitzung wegen bösartiger Neubildung",
+      "rubrics": {
+        "preferred": "Kombinierte Strahlen- und Chemotherapiesitzung wegen bösartiger Neubildung"
+      },
+      "children": []
+    },
+    {
+      "code": "Z51.83",
+      "kind": "category",
+      "label": "Opiatsubstitution",
+      "rubrics": {
+        "preferred": "Opiatsubstitution",
+        "inclusion": "Methadonsubstitution"
+      },
+      "children": []
+    },
+    {
+      "code": "Z51.88",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete medizinische Behandlung",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete medizinische Behandlung"
+      },
+      "children": []
+    }
+  ]
+}

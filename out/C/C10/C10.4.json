@@ -1,0 +1,11 @@
+{
+  "code": "C10.4",
+  "kind": "category",
+  "label": "Kiemengang",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Kiemengang",
+    "preferred": "Kiemengang",
+    "inclusion": "Branchiogene Zyste [Lokalisation der Neubildung]"
+  },
+  "children": []
+}

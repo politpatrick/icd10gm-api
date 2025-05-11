@@ -1,0 +1,10 @@
+{
+  "code": "S52.01",
+  "kind": "category",
+  "label": "Olekranon",
+  "rubrics": {
+    "preferredLong": "Fraktur des proximalen Endes der Ulna: Olekranon",
+    "preferred": "Olekranon"
+  },
+  "children": []
+}

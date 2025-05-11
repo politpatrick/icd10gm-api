@@ -1,0 +1,10 @@
+{
+  "code": "D53.2",
+  "kind": "category",
+  "label": "Skorbutanämie",
+  "rubrics": {
+    "preferred": "Skorbutanämie",
+    "exclusion": "SkorbutE54"
+  },
+  "children": []
+}

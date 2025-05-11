@@ -1,0 +1,10 @@
+{
+  "code": "T86.2",
+  "kind": "category",
+  "label": "Versagen und Abstoßung eines Herztransplantates",
+  "rubrics": {
+    "preferred": "Versagen und Abstoßung eines Herztransplantates",
+    "exclusion": "Komplikation durch:\n\t\t\t\tKünstliches HerzgerätT82.-"
+  },
+  "children": []
+}

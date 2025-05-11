@@ -1,0 +1,10 @@
+{
+  "code": "P07.10",
+  "kind": "category",
+  "label": "Geburtsgewicht 1000 bis unter 1250 Gramm",
+  "rubrics": {
+    "preferredLong": "Neugeborenes: Geburtsgewicht 1000 bis unter 1250 Gramm",
+    "preferred": "Geburtsgewicht 1000 bis unter 1250 Gramm"
+  },
+  "children": []
+}

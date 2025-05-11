@@ -1,0 +1,270 @@
+{
+  "code": "S63",
+  "kind": "category",
+  "label": "Luxation, Verstauchung und Zerrung von Gelenken und Bändern in Höhe des Handgelenkes und der Hand",
+  "rubrics": {
+    "preferred": "Luxation, Verstauchung und Zerrung von Gelenken und Bändern in Höhe des Handgelenkes und der Hand",
+    "coding-hint": "Benutze eine zusätzliche Schlüsselnummer aus S61.84!-S61.89! zusammen mit S63.0-S63.3, um den Schweregrad des Weichteilschadens bei einer Luxation zu verschlüsseln.",
+    "exclusion": "Verstauchung und Zerrung von Muskeln und Sehnen in Höhe des Handgelenkes und der HandS66.-"
+  },
+  "children": [
+    {
+      "code": "S63.0",
+      "kind": "category",
+      "label": "Luxation des Handgelenkes",
+      "rubrics": {
+        "preferred": "Luxation des Handgelenkes"
+      },
+      "children": [
+        {
+          "code": "S63.00",
+          "kind": "category",
+          "label": "Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Luxation des Handgelenkes: Teil nicht näher bezeichnet",
+            "preferred": "Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.01",
+          "kind": "category",
+          "label": "Radioulnar (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Luxation des Handgelenkes: Radioulnar (-Gelenk)",
+            "preferred": "Radioulnar (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.02",
+          "kind": "category",
+          "label": "Radiokarpal (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Luxation des Handgelenkes: Radiokarpal (-Gelenk)",
+            "preferred": "Radiokarpal (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.03",
+          "kind": "category",
+          "label": "Mediokarpal (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Luxation des Handgelenkes: Mediokarpal (-Gelenk)",
+            "preferred": "Mediokarpal (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.04",
+          "kind": "category",
+          "label": "Karpometakarpal (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Luxation des Handgelenkes: Karpometakarpal (-Gelenk)",
+            "preferred": "Karpometakarpal (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.08",
+          "kind": "category",
+          "label": "Sonstige",
+          "rubrics": {
+            "preferredLong": "Luxation des Handgelenkes: Sonstige",
+            "preferred": "Sonstige"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S63.1",
+      "kind": "category",
+      "label": "Luxation eines Fingers",
+      "rubrics": {
+        "preferred": "Luxation eines Fingers"
+      },
+      "children": [
+        {
+          "code": "S63.10",
+          "kind": "category",
+          "label": "Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Luxation eines Fingers: Teil nicht näher bezeichnet",
+            "preferred": "Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.11",
+          "kind": "category",
+          "label": "Metakarpophalangeal (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Luxation eines Fingers: Metakarpophalangeal (-Gelenk)",
+            "preferred": "Metakarpophalangeal (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.12",
+          "kind": "category",
+          "label": "Interphalangeal (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Luxation eines Fingers: Interphalangeal (-Gelenk)",
+            "preferred": "Interphalangeal (-Gelenk)"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S63.2",
+      "kind": "category",
+      "label": "Multiple Luxationen der Finger",
+      "rubrics": {
+        "preferred": "Multiple Luxationen der Finger"
+      },
+      "children": []
+    },
+    {
+      "code": "S63.3",
+      "kind": "category",
+      "label": "Traumatische Ruptur von Bändern des Handgelenkes und der Handwurzel",
+      "rubrics": {
+        "preferred": "Traumatische Ruptur von Bändern des Handgelenkes und der Handwurzel",
+        "inclusion": "Triangulärer fibrokartilaginärer Komplex [TFCC]"
+      },
+      "children": []
+    },
+    {
+      "code": "S63.4",
+      "kind": "category",
+      "label": "Traumatische Ruptur von Bändern der Finger im Metakarpophalangeal- und Interphalangealgelenk",
+      "rubrics": {
+        "preferred": "Traumatische Ruptur von Bändern der Finger im Metakarpophalangeal- und Interphalangealgelenk",
+        "inclusion": "Volar"
+      },
+      "children": []
+    },
+    {
+      "code": "S63.5",
+      "kind": "category",
+      "label": "Verstauchung und Zerrung des Handgelenkes",
+      "rubrics": {
+        "preferred": "Verstauchung und Zerrung des Handgelenkes"
+      },
+      "children": [
+        {
+          "code": "S63.50",
+          "kind": "category",
+          "label": "Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Handgelenkes: Teil nicht näher bezeichnet",
+            "preferred": "Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.51",
+          "kind": "category",
+          "label": "Karpal (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Handgelenkes: Karpal (-Gelenk)",
+            "preferred": "Karpal (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.52",
+          "kind": "category",
+          "label": "Radiokarpal (-Band) (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Handgelenkes: Radiokarpal (-Band) (-Gelenk)",
+            "preferred": "Radiokarpal (-Band) (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.53",
+          "kind": "category",
+          "label": "Karpometakarpal (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Handgelenkes: Karpometakarpal (-Gelenk)",
+            "preferred": "Karpometakarpal (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.58",
+          "kind": "category",
+          "label": "Sonstige Teile",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung des Handgelenkes: Sonstige Teile",
+            "preferred": "Sonstige Teile"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S63.6",
+      "kind": "category",
+      "label": "Verstauchung und Zerrung eines oder mehrerer Finger",
+      "rubrics": {
+        "preferred": "Verstauchung und Zerrung eines oder mehrerer Finger"
+      },
+      "children": [
+        {
+          "code": "S63.60",
+          "kind": "category",
+          "label": "Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung eines oder mehrerer Finger: Teil nicht näher bezeichnet",
+            "preferred": "Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.61",
+          "kind": "category",
+          "label": "Metakarpophalangeal (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung eines oder mehrerer Finger: Metakarpophalangeal (-Gelenk)",
+            "preferred": "Metakarpophalangeal (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.62",
+          "kind": "category",
+          "label": "Interphalangeal (-Gelenk)",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung eines oder mehrerer Finger: Interphalangeal (-Gelenk)",
+            "preferred": "Interphalangeal (-Gelenk)"
+          },
+          "children": []
+        },
+        {
+          "code": "S63.68",
+          "kind": "category",
+          "label": "Sonstige Teile",
+          "rubrics": {
+            "preferredLong": "Verstauchung und Zerrung eines oder mehrerer Finger: Sonstige Teile",
+            "preferred": "Sonstige Teile"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S63.7",
+      "kind": "category",
+      "label": "Verstauchung und Zerrung sonstiger und nicht näher bezeichneter Teile der Hand",
+      "rubrics": {
+        "preferred": "Verstauchung und Zerrung sonstiger und nicht näher bezeichneter Teile der Hand"
+      },
+      "children": []
+    }
+  ]
+}

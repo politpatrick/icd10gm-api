@@ -1,0 +1,10 @@
+{
+  "code": "A95.0",
+  "kind": "category",
+  "label": "Buschgelbfieber",
+  "rubrics": {
+    "preferred": "Buschgelbfieber",
+    "inclusion": "Silvatisches Gelbfieber"
+  },
+  "children": []
+}

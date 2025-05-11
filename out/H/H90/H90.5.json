@@ -1,0 +1,10 @@
+{
+  "code": "H90.5",
+  "kind": "category",
+  "label": "Hörverlust durch Schallempfindungsstörung, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Hörverlust durch Schallempfindungsstörung, nicht näher bezeichnet",
+    "inclusion": "Schallempfindungsschwerhörigkeit o.n.A."
+  },
+  "children": []
+}

@@ -1,0 +1,84 @@
+{
+  "code": "U69.3",
+  "kind": "category",
+  "label": "Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen",
+  "rubrics": {
+    "preferred": "Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen",
+    "definition": "Die Schlüsselnummern dieser Kategorie sind nur von Einrichtungen im Geltungsbereich des § 17d KHG zu verwenden. Sie sind nur in Kombination mit Schlüsselnummern aus Kap. V, Bereich F10-F19 Psychische und Verhaltensstörungen durch psychotrope Substanzen für die Kodierung der Art des Konsums dieser Substanzen anzugeben, siehe auch die Hinweise bei den entsprechenden Schlüsselnummern."
+  },
+  "children": [
+    {
+      "code": "U69.30",
+      "kind": "category",
+      "label": "Intravenöser Konsum von Heroin",
+      "rubrics": {
+        "preferredLong": "Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen: Intravenöser Konsum von Heroin",
+        "preferred": "Intravenöser Konsum von Heroin"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.31",
+      "kind": "category",
+      "label": "Nichtintravenöser Konsum von Heroin",
+      "rubrics": {
+        "preferredLong": "Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen: Nichtintravenöser Konsum von Heroin",
+        "preferred": "Nichtintravenöser Konsum von Heroin"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.32",
+      "kind": "category",
+      "label": "Intravenöser Konsum sonstiger psychotroper Substanzen",
+      "rubrics": {
+        "preferredLong": "Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen:Intravenöser Konsum sonstiger psychotroper Substanzen",
+        "preferred": "Intravenöser Konsum sonstiger psychotroper Substanzen",
+        "exclusion": "Intravenöser Konsum sonstiger StimulanzienU69.35!"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.33",
+      "kind": "category",
+      "label": "Intravenöser Konsum (Meth-)Amphetamin-haltiger Stoffe",
+      "rubrics": {
+        "preferredLong": "Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen: Intravenöser Konsum (Meth-)Amphetamin-haltiger Stoffe",
+        "preferred": "Intravenöser Konsum (Meth-)Amphetamin-haltiger Stoffe"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.34",
+      "kind": "category",
+      "label": "Nichtintravenöser Konsum (Meth-)Amphetamin-haltiger Stoffe",
+      "rubrics": {
+        "preferredLong": "Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen: Nichtintravenöser Konsum (Meth-)Amphetamin-haltiger Stoffe",
+        "preferred": "Nichtintravenöser Konsum (Meth-)Amphetamin-haltiger Stoffe"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.35",
+      "kind": "category",
+      "label": "Intravenöser Konsum sonstiger Stimulanzien, außer Koffein",
+      "rubrics": {
+        "preferredLong": "Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen: Intravenöser Konsum sonstiger Stimulanzien, außer Koffein",
+        "preferred": "Intravenöser Konsum sonstiger Stimulanzien, außer Koffein",
+        "exclusion": "Intravenöser Konsum (Meth-)Amphetamin-haltiger StoffeU69.33!"
+      },
+      "children": []
+    },
+    {
+      "code": "U69.36",
+      "kind": "category",
+      "label": "Nichtintravenöser Konsum sonstiger Stimulanzien, außer Koffein",
+      "rubrics": {
+        "preferredLong": "Sekundäre Schlüsselnummern für die Art des Konsums psychotroper Substanzen bei durch diese verursachten psychischen und Verhaltensstörungen: Nichtintravenöser Konsum sonstiger Stimulanzien, außer Koffein",
+        "preferred": "Nichtintravenöser Konsum sonstiger Stimulanzien, außer Koffein",
+        "exclusion": "Nichtintravenöser Konsum (Meth-)Amphetamin-haltiger StoffeU69.34!"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "B53.8",
+  "kind": "category",
+  "label": "Sonstige parasitologisch bestätigte Malaria, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige parasitologisch bestätigte Malaria, anderenorts nicht klassifiziert",
+    "inclusion": "Parasitologisch bestätigte Malaria o.n.A."
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "M30.1",
+  "kind": "category",
+  "label": "Panarteriitis mit Lungenbeteiligung",
+  "rubrics": {
+    "preferred": "Panarteriitis mit Lungenbeteiligung",
+    "inclusion": "Eosinophile Granulomatose mit Polyangiitis"
+  },
+  "children": []
+}

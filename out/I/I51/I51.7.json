@@ -1,0 +1,10 @@
+{
+  "code": "I51.7",
+  "kind": "category",
+  "label": "Kardiomegalie",
+  "rubrics": {
+    "preferred": "Kardiomegalie",
+    "inclusion": "Ventrikelerweiterung"
+  },
+  "children": []
+}

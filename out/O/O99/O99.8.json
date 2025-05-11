@@ -1,0 +1,11 @@
+{
+  "code": "O99.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Krankheiten und Zustände, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Krankheiten und Zustände, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+    "inclusion": "Krankheitszustände unter C00-D48, H00-H95, M00-M99, N00-N99 und Q00-Q99, anderenorts nicht klassifiziert",
+    "exclusion": "Postpartales akutes NierenversagenO90.4"
+  },
+  "children": []
+}

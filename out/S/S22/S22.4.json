@@ -1,0 +1,64 @@
+{
+  "code": "S22.4",
+  "kind": "category",
+  "label": "Rippenserienfraktur",
+  "rubrics": {
+    "preferred": "Rippenserienfraktur"
+  },
+  "children": [
+    {
+      "code": "S22.40",
+      "kind": "category",
+      "label": "Nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Rippenserienfraktur: Nicht näher bezeichnet",
+        "preferred": "Nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "S22.41",
+      "kind": "category",
+      "label": "Mit Beteiligung der ersten Rippe",
+      "rubrics": {
+        "preferredLong": "Rippenserienfraktur: Mit Beteiligung der ersten Rippe",
+        "preferred": "Mit Beteiligung der ersten Rippe",
+        "inclusion": "Jede Fraktur multipler Rippen mit Beteiligung der ersten Rippe"
+      },
+      "children": []
+    },
+    {
+      "code": "S22.42",
+      "kind": "category",
+      "label": "Mit Beteiligung von zwei Rippen",
+      "rubrics": {
+        "preferredLong": "Rippenserienfraktur: Mit Beteiligung von zwei Rippen",
+        "preferred": "Mit Beteiligung von zwei Rippen",
+        "exclusion": "Fraktur multipler Rippen mit Beteiligung der ersten RippeS22.41"
+      },
+      "children": []
+    },
+    {
+      "code": "S22.43",
+      "kind": "category",
+      "label": "Mit Beteiligung von drei Rippen",
+      "rubrics": {
+        "preferredLong": "Rippenserienfraktur: Mit Beteiligung von drei Rippen",
+        "preferred": "Mit Beteiligung von drei Rippen",
+        "exclusion": "Fraktur multipler Rippen mit Beteiligung der ersten RippeS22.41"
+      },
+      "children": []
+    },
+    {
+      "code": "S22.44",
+      "kind": "category",
+      "label": "Mit Beteiligung von vier und mehr Rippen",
+      "rubrics": {
+        "preferredLong": "Rippenserienfraktur: Mit Beteiligung von vier und mehr Rippen",
+        "preferred": "Mit Beteiligung von vier und mehr Rippen",
+        "exclusion": "Fraktur multipler Rippen mit Beteiligung der ersten RippeS22.41"
+      },
+      "children": []
+    }
+  ]
+}

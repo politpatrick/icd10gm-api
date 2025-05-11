@@ -1,0 +1,10 @@
+{
+  "code": "I50.04",
+  "kind": "category",
+  "label": "Rechtsherzinsuffizienz mit Beschwerden bei leichterer Belastung",
+  "rubrics": {
+    "preferred": "Rechtsherzinsuffizienz mit Beschwerden bei leichterer Belastung",
+    "inclusion": "NYHA-Stadium III"
+  },
+  "children": []
+}

@@ -1,0 +1,12 @@
+{
+  "code": "T42.6",
+  "kind": "category",
+  "label": "Sonstige Antiepileptika, Sedativa und Hypnotika",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Sonstige Antiepileptika, Sedativa und Hypnotika",
+    "preferred": "Sonstige Antiepileptika, Sedativa und Hypnotika",
+    "inclusion": "Valproinsäure",
+    "exclusion": "CarbamazepinT42.1"
+  },
+  "children": []
+}

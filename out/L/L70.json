@@ -1,0 +1,85 @@
+{
+  "code": "L70",
+  "kind": "category",
+  "label": "Akne",
+  "rubrics": {
+    "preferred": "Akne",
+    "exclusion": "AknekeloidL73.0"
+  },
+  "children": [
+    {
+      "code": "L70.0",
+      "kind": "category",
+      "label": "Acne vulgaris",
+      "rubrics": {
+        "preferred": "Acne vulgaris"
+      },
+      "children": []
+    },
+    {
+      "code": "L70.1",
+      "kind": "category",
+      "label": "Acne conglobata",
+      "rubrics": {
+        "preferred": "Acne conglobata"
+      },
+      "children": []
+    },
+    {
+      "code": "L70.2",
+      "kind": "category",
+      "label": "Acne varioliformis",
+      "rubrics": {
+        "preferred": "Acne varioliformis",
+        "inclusion": "Acne necroticans miliaris"
+      },
+      "children": []
+    },
+    {
+      "code": "L70.3",
+      "kind": "category",
+      "label": "Acne tropica",
+      "rubrics": {
+        "preferred": "Acne tropica"
+      },
+      "children": []
+    },
+    {
+      "code": "L70.4",
+      "kind": "category",
+      "label": "Acne infantum",
+      "rubrics": {
+        "preferred": "Acne infantum"
+      },
+      "children": []
+    },
+    {
+      "code": "L70.5",
+      "kind": "category",
+      "label": "Acné excoriée",
+      "rubrics": {
+        "preferred": "Acné excoriée",
+        "inclusion": "Acné excoriée des jeunes filles"
+      },
+      "children": []
+    },
+    {
+      "code": "L70.8",
+      "kind": "category",
+      "label": "Sonstige Akne",
+      "rubrics": {
+        "preferred": "Sonstige Akne"
+      },
+      "children": []
+    },
+    {
+      "code": "L70.9",
+      "kind": "category",
+      "label": "Akne, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Akne, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "N08.0",
+  "kind": "category",
+  "label": "Glomeruläre Krankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+  "rubrics": {
+    "preferred": "Glomeruläre Krankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+    "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tSyphilisA52.7"
+  },
+  "children": []
+}

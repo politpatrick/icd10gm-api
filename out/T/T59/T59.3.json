@@ -1,0 +1,10 @@
+{
+  "code": "T59.3",
+  "kind": "category",
+  "label": "Tränengas",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Tränengas",
+    "preferred": "Tränengas"
+  },
+  "children": []
+}

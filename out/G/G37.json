@@ -1,0 +1,87 @@
+{
+  "code": "G37",
+  "kind": "category",
+  "label": "Sonstige demyelinisierende Krankheiten des Zentralnervensystems",
+  "rubrics": {
+    "preferred": "Sonstige demyelinisierende Krankheiten des Zentralnervensystems"
+  },
+  "children": [
+    {
+      "code": "G37.0",
+      "kind": "category",
+      "label": "Diffuse Hirnsklerose",
+      "rubrics": {
+        "preferred": "Diffuse Hirnsklerose",
+        "inclusion": "Schilder-Krankheit",
+        "exclusion": "Adrenoleukodystrophie [Addison-Schilder-Syndrom]E71.3"
+      },
+      "children": []
+    },
+    {
+      "code": "G37.1",
+      "kind": "category",
+      "label": "Zentrale Demyelinisation des Corpus callosum",
+      "rubrics": {
+        "preferred": "Zentrale Demyelinisation des Corpus callosum"
+      },
+      "children": []
+    },
+    {
+      "code": "G37.2",
+      "kind": "category",
+      "label": "Zentrale pontine Myelinolyse",
+      "rubrics": {
+        "preferred": "Zentrale pontine Myelinolyse"
+      },
+      "children": []
+    },
+    {
+      "code": "G37.3",
+      "kind": "category",
+      "label": "Myelitis transversa acuta bei demyelinisierender Krankheit des Zentralnervensystems",
+      "rubrics": {
+        "preferred": "Myelitis transversa acuta bei demyelinisierender Krankheit des Zentralnervensystems",
+        "inclusion": "Myelitis transversa acuta o.n.A.",
+        "exclusion": "Neuromyelitis optica [Devic-Krankheit]G36.0"
+      },
+      "children": []
+    },
+    {
+      "code": "G37.4",
+      "kind": "category",
+      "label": "Subakute nekrotisierende Myelitis [Foix-Alajouanine-Syndrom]",
+      "rubrics": {
+        "preferred": "Subakute nekrotisierende Myelitis [Foix-Alajouanine-Syndrom]"
+      },
+      "children": []
+    },
+    {
+      "code": "G37.5",
+      "kind": "category",
+      "label": "Konzentrische Sklerose [Baló-Krankheit]",
+      "rubrics": {
+        "preferred": "Konzentrische Sklerose [Baló-Krankheit]"
+      },
+      "children": []
+    },
+    {
+      "code": "G37.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete demyelinisierende Krankheiten des Zentralnervensystems",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete demyelinisierende Krankheiten des Zentralnervensystems",
+        "inclusion": "Akute demyelinisierende Enzephalomyelitis [ADEM]"
+      },
+      "children": []
+    },
+    {
+      "code": "G37.9",
+      "kind": "category",
+      "label": "Demyelinisierende Krankheit des Zentralnervensystems, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Demyelinisierende Krankheit des Zentralnervensystems, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

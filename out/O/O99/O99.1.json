@@ -1,0 +1,11 @@
+{
+  "code": "O99.1",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+    "inclusion": "Krankheitszustände unter D65-D89",
+    "exclusion": "Blutung bei GerinnungsstörungenO46.0O67.0O72.3"
+  },
+  "children": []
+}

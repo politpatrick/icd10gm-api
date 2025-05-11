@@ -1,0 +1,11 @@
+{
+  "code": "T86.10",
+  "kind": "category",
+  "label": "Akute Funktionsverschlechterung eines Nierentransplantates",
+  "rubrics": {
+    "preferred": "Akute Funktionsverschlechterung eines Nierentransplantates",
+    "inclusion": "Akute Funktionsverschlechterung ohne Nachweis einer Abstoßung",
+    "coding-hint": "Soll die Ursache der akuten Funktionsverschlechterung angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+  },
+  "children": []
+}

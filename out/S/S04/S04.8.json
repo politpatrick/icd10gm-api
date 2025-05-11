@@ -1,0 +1,10 @@
+{
+  "code": "S04.8",
+  "kind": "category",
+  "label": "Verletzung sonstiger Hirnnerven",
+  "rubrics": {
+    "preferred": "Verletzung sonstiger Hirnnerven",
+    "inclusion": "Nn. olfactorii [I. Hirnnerv]"
+  },
+  "children": []
+}

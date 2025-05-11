@@ -1,0 +1,10 @@
+{
+  "code": "T54.9",
+  "kind": "category",
+  "label": "Ätzende Substanz, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Ätzende Substanz, nicht näher bezeichnet",
+    "preferred": "Ätzende Substanz, nicht näher bezeichnet"
+  },
+  "children": []
+}

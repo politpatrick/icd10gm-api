@@ -1,0 +1,99 @@
+{
+  "code": "R94",
+  "kind": "category",
+  "label": "Abnorme Ergebnisse von Funktionsprüfungen",
+  "rubrics": {
+    "preferred": "Abnorme Ergebnisse von Funktionsprüfungen",
+    "inclusion": "Abnorme Ergebnisse von:\n\t\t\t\tUntersuchung durch Einbringen von Radionukliden [Radioisotopen]"
+  },
+  "children": [
+    {
+      "code": "R94.0",
+      "kind": "category",
+      "label": "Abnorme Ergebnisse von Funktionsprüfungen des Zentralnervensystems",
+      "rubrics": {
+        "preferred": "Abnorme Ergebnisse von Funktionsprüfungen des Zentralnervensystems",
+        "inclusion": "Abnormes Elektroenzephalogramm [EEG]"
+      },
+      "children": []
+    },
+    {
+      "code": "R94.1",
+      "kind": "category",
+      "label": "Abnorme Ergebnisse von Funktionsprüfungen des peripheren Nervensystems und bestimmter Sinnesorgane",
+      "rubrics": {
+        "preferred": "Abnorme Ergebnisse von Funktionsprüfungen des peripheren Nervensystems und bestimmter Sinnesorgane",
+        "inclusion": "Abnorm:\n\t\t\t\tVisuell evozierte Potentiale [VEP]"
+      },
+      "children": []
+    },
+    {
+      "code": "R94.2",
+      "kind": "category",
+      "label": "Abnorme Ergebnisse von Lungenfunktionsprüfungen",
+      "rubrics": {
+        "preferred": "Abnorme Ergebnisse von Lungenfunktionsprüfungen",
+        "inclusion": "Vermindert:\n\t\t\t\tVitalkapazität"
+      },
+      "children": []
+    },
+    {
+      "code": "R94.3",
+      "kind": "category",
+      "label": "Abnorme Ergebnisse von kardiovaskulären Funktionsprüfungen",
+      "rubrics": {
+        "preferred": "Abnorme Ergebnisse von kardiovaskulären Funktionsprüfungen",
+        "inclusion": "Abnorm:\n\t\t\t\tVektorkardiogramm"
+      },
+      "children": []
+    },
+    {
+      "code": "R94.4",
+      "kind": "category",
+      "label": "Abnorme Ergebnisse von Nierenfunktionsprüfungen",
+      "rubrics": {
+        "preferred": "Abnorme Ergebnisse von Nierenfunktionsprüfungen",
+        "inclusion": "Nierenfunktionstest mit abnormem Befund"
+      },
+      "children": []
+    },
+    {
+      "code": "R94.5",
+      "kind": "category",
+      "label": "Abnorme Ergebnisse von Leberfunktionsprüfungen",
+      "rubrics": {
+        "preferred": "Abnorme Ergebnisse von Leberfunktionsprüfungen"
+      },
+      "children": []
+    },
+    {
+      "code": "R94.6",
+      "kind": "category",
+      "label": "Abnorme Ergebnisse von Schilddrüsenfunktionsprüfungen",
+      "rubrics": {
+        "preferred": "Abnorme Ergebnisse von Schilddrüsenfunktionsprüfungen"
+      },
+      "children": []
+    },
+    {
+      "code": "R94.7",
+      "kind": "category",
+      "label": "Abnorme Ergebnisse von sonstigen endokrinen Funktionsprüfungen",
+      "rubrics": {
+        "preferred": "Abnorme Ergebnisse von sonstigen endokrinen Funktionsprüfungen",
+        "exclusion": "Abnormer GlukosetoleranztestR73.0"
+      },
+      "children": []
+    },
+    {
+      "code": "R94.8",
+      "kind": "category",
+      "label": "Abnorme Ergebnisse von Funktionsprüfungen sonstiger Organe und Organsysteme",
+      "rubrics": {
+        "preferred": "Abnorme Ergebnisse von Funktionsprüfungen sonstiger Organe und Organsysteme",
+        "inclusion": "Abnorm:\n\t\t\t\tMilzfunktionstest"
+      },
+      "children": []
+    }
+  ]
+}

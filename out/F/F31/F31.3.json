@@ -1,0 +1,10 @@
+{
+  "code": "F31.3",
+  "kind": "category",
+  "label": "Bipolare affektive Störung, gegenwärtig leichte oder mittelgradige depressive Episode",
+  "rubrics": {
+    "preferred": "Bipolare affektive Störung, gegenwärtig leichte oder mittelgradige depressive Episode",
+    "definition": "Der betroffene Patient ist gegenwärtig depressiv, wie bei einer leichten oder mittelgradigen depressiven Episode (siehe F32.0 oder F32.1) und hatte wenigstens eine eindeutig diagnostizierte hypomanische, manische oder gemischte Episode in der Anamnese."
+  },
+  "children": []
+}

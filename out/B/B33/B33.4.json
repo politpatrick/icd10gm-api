@@ -1,0 +1,12 @@
+{
+  "code": "B33.4",
+  "kind": "category",
+  "label": "Hantavirus- (Herz-) LungensyndromJ17.1",
+  "rubrics": {
+    "preferred": "Hantavirus- (Herz-) LungensyndromJ17.1",
+    "inclusion": "Sin-nombre-Virus-Krankheit",
+    "coding-hint": "Soll ein mit dem Hantavirus- (Herz-) Lungensyndrom verbundenes Nierenversagen durch das Andes-, Bayou- und Black-Creek-Canal-Hantavirus angegeben werden, ist eine zusätzliche SchlüsselnummerN17.9- zu benutzen.",
+    "exclusion": "Hämorrhagisches Fieber mit renaler BeteiligungA98.5N08.0"
+  },
+  "children": []
+}

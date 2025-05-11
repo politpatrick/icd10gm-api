@@ -1,0 +1,11 @@
+{
+  "code": "Z39.1",
+  "kind": "category",
+  "label": "Betreuung und Untersuchung der stillenden Mutter",
+  "rubrics": {
+    "preferred": "Betreuung und Untersuchung der stillenden Mutter",
+    "inclusion": "Überwachung der Laktation",
+    "exclusion": "LaktationsstörungenO92.-"
+  },
+  "children": []
+}

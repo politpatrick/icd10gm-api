@@ -1,0 +1,10 @@
+{
+  "code": "S08.9",
+  "kind": "category",
+  "label": "Traumatische Amputation eines nicht näher bezeichneten Teiles des Kopfes",
+  "rubrics": {
+    "preferred": "Traumatische Amputation eines nicht näher bezeichneten Teiles des Kopfes",
+    "exclusion": "DekapitationS18"
+  },
+  "children": []
+}

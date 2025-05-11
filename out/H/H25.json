@@ -1,0 +1,60 @@
+{
+  "code": "H25",
+  "kind": "category",
+  "label": "Cataracta senilis",
+  "rubrics": {
+    "preferred": "Cataracta senilis",
+    "exclusion": "Kapsuläres Glaukom mit Pseudoexfoliation der LinsenH40.1"
+  },
+  "children": [
+    {
+      "code": "H25.0",
+      "kind": "category",
+      "label": "Cataracta senilis incipiens",
+      "rubrics": {
+        "preferred": "Cataracta senilis incipiens",
+        "inclusion": "Wasserspalten-Speichen-Katarakt"
+      },
+      "children": []
+    },
+    {
+      "code": "H25.1",
+      "kind": "category",
+      "label": "Cataracta nuclearis senilis",
+      "rubrics": {
+        "preferred": "Cataracta nuclearis senilis",
+        "inclusion": "Linsenkernsklerose"
+      },
+      "children": []
+    },
+    {
+      "code": "H25.2",
+      "kind": "category",
+      "label": "Cataracta senilis, Morgagni-Typ",
+      "rubrics": {
+        "preferred": "Cataracta senilis, Morgagni-Typ",
+        "inclusion": "Cataracta senilis hypermatura"
+      },
+      "children": []
+    },
+    {
+      "code": "H25.8",
+      "kind": "category",
+      "label": "Sonstige senile Kataraktformen",
+      "rubrics": {
+        "preferred": "Sonstige senile Kataraktformen",
+        "inclusion": "Kombinierte Formen der senilen Katarakt"
+      },
+      "children": []
+    },
+    {
+      "code": "H25.9",
+      "kind": "category",
+      "label": "Senile Katarakt, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Senile Katarakt, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "Q33.0",
+  "kind": "category",
+  "label": "Angeborene Zystenlunge",
+  "rubrics": {
+    "preferred": "Angeborene Zystenlunge",
+    "inclusion": "Angeboren:\n\t\t\t\tWabenlunge",
+    "exclusion": "Zystische Lungenkrankheit, erworben oder nicht näher bezeichnetJ98.4"
+  },
+  "children": []
+}

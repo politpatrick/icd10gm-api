@@ -1,0 +1,10 @@
+{
+  "code": "I44.2",
+  "kind": "category",
+  "label": "Atrioventrikulärer Block 3. Grades",
+  "rubrics": {
+    "preferred": "Atrioventrikulärer Block 3. Grades",
+    "inclusion": "Kompletter Herzblock o.n.A."
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "T15.8",
+  "kind": "category",
+  "label": "Fremdkörper an sonstigen und mehreren Lokalisationen des äußeren Auges",
+  "rubrics": {
+    "preferred": "Fremdkörper an sonstigen und mehreren Lokalisationen des äußeren Auges",
+    "inclusion": "Fremdkörper im Punctum lacrimale"
+  },
+  "children": []
+}

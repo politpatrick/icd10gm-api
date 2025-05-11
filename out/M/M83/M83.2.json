@@ -1,0 +1,10 @@
+{
+  "code": "M83.2",
+  "kind": "category",
+  "label": "Osteomalazie im Erwachsenenalter durch Malabsorption",
+  "rubrics": {
+    "preferred": "Osteomalazie im Erwachsenenalter durch Malabsorption",
+    "inclusion": "Osteomalazie bei Erwachsenen durch Malabsorption nach chirurgischem Eingriff"
+  },
+  "children": []
+}

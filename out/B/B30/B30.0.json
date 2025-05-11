@@ -1,0 +1,10 @@
+{
+  "code": "B30.0",
+  "kind": "category",
+  "label": "Keratokonjunktivitis durch AdenovirenH19.2",
+  "rubrics": {
+    "preferred": "Keratokonjunktivitis durch AdenovirenH19.2",
+    "inclusion": "Keratoconjunctivitis epidemica"
+  },
+  "children": []
+}

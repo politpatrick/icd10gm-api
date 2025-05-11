@@ -1,0 +1,1012 @@
+{
+  "code": "G90-G99",
+  "kind": "block",
+  "label": "Sonstige Krankheiten des Nervensystems",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Nervensystems"
+  },
+  "children": [
+    {
+      "code": "G90",
+      "kind": "category",
+      "label": "Krankheiten des autonomen Nervensystems",
+      "rubrics": {
+        "preferred": "Krankheiten des autonomen Nervensystems",
+        "exclusion": "Dysfunktion des autonomen Nervensystems durch AlkoholG31.2"
+      },
+      "children": [
+        {
+          "code": "G90.0",
+          "kind": "category",
+          "label": "Idiopathische periphere autonome Neuropathie",
+          "rubrics": {
+            "preferred": "Idiopathische periphere autonome Neuropathie"
+          },
+          "children": [
+            {
+              "code": "G90.00",
+              "kind": "category",
+              "label": "Karotissinus-Syndrom (Synkope)",
+              "rubrics": {
+                "preferred": "Karotissinus-Syndrom (Synkope)"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.08",
+              "kind": "category",
+              "label": "Sonstige idiopathische periphere autonome Neuropathie",
+              "rubrics": {
+                "preferred": "Sonstige idiopathische periphere autonome Neuropathie"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.09",
+              "kind": "category",
+              "label": "Idiopathische periphere autonome Neuropathie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Idiopathische periphere autonome Neuropathie, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G90.1",
+          "kind": "category",
+          "label": "Familiäre Dysautonomie [Riley-Day-Syndrom]",
+          "rubrics": {
+            "preferred": "Familiäre Dysautonomie [Riley-Day-Syndrom]"
+          },
+          "children": []
+        },
+        {
+          "code": "G90.2",
+          "kind": "category",
+          "label": "Horner-Syndrom",
+          "rubrics": {
+            "preferred": "Horner-Syndrom",
+            "inclusion": "Horner-Trias"
+          },
+          "children": []
+        },
+        {
+          "code": "G90.4",
+          "kind": "category",
+          "label": "Autonome Dysreflexie",
+          "rubrics": {
+            "preferred": "Autonome Dysreflexie"
+          },
+          "children": [
+            {
+              "code": "G90.40",
+              "kind": "category",
+              "label": "Autonome Dysreflexie als hypertone Krisen",
+              "rubrics": {
+                "preferred": "Autonome Dysreflexie als hypertone Krisen"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.41",
+              "kind": "category",
+              "label": "Autonome Dysreflexie als Schwitzattacken",
+              "rubrics": {
+                "preferred": "Autonome Dysreflexie als Schwitzattacken"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.48",
+              "kind": "category",
+              "label": "Sonstige autonome Dysreflexie",
+              "rubrics": {
+                "preferred": "Sonstige autonome Dysreflexie"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.49",
+              "kind": "category",
+              "label": "Autonome Dysreflexie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Autonome Dysreflexie, nicht näher bezeichnet",
+                "inclusion": "Autonome Dysreflexie o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G90.5",
+          "kind": "category",
+          "label": "Komplexes regionales Schmerzsyndrom, Typ I",
+          "rubrics": {
+            "preferred": "Komplexes regionales Schmerzsyndrom, Typ I",
+            "inclusion": "Sympathische Reflexdystrophie"
+          },
+          "children": [
+            {
+              "code": "G90.50",
+              "kind": "category",
+              "label": "Komplexes regionales Schmerzsyndrom der oberen Extremität, Typ I",
+              "rubrics": {
+                "preferred": "Komplexes regionales Schmerzsyndrom der oberen Extremität, Typ I"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.51",
+              "kind": "category",
+              "label": "Komplexes regionales Schmerzsyndrom der unteren Extremität, Typ I",
+              "rubrics": {
+                "preferred": "Komplexes regionales Schmerzsyndrom der unteren Extremität, Typ I"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.59",
+              "kind": "category",
+              "label": "Komplexes regionales Schmerzsyndrom, Typ I, Lokalisation nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Komplexes regionales Schmerzsyndrom, Typ I, Lokalisation nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G90.6",
+          "kind": "category",
+          "label": "Komplexes regionales Schmerzsyndrom, Typ II",
+          "rubrics": {
+            "preferred": "Komplexes regionales Schmerzsyndrom, Typ II",
+            "inclusion": "Kausalgie"
+          },
+          "children": [
+            {
+              "code": "G90.60",
+              "kind": "category",
+              "label": "Komplexes regionales Schmerzsyndrom der oberen Extremität, Typ II",
+              "rubrics": {
+                "preferred": "Komplexes regionales Schmerzsyndrom der oberen Extremität, Typ II"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.61",
+              "kind": "category",
+              "label": "Komplexes regionales Schmerzsyndrom der unteren Extremität, Typ II",
+              "rubrics": {
+                "preferred": "Komplexes regionales Schmerzsyndrom der unteren Extremität, Typ II"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.69",
+              "kind": "category",
+              "label": "Komplexes regionales Schmerzsyndrom, Typ II, Lokalisation nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Komplexes regionales Schmerzsyndrom, Typ II, Lokalisation nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G90.7",
+          "kind": "category",
+          "label": "Komplexes regionales Schmerzsyndrom, sonstiger und nicht näher bezeichneter Typ",
+          "rubrics": {
+            "preferred": "Komplexes regionales Schmerzsyndrom, sonstiger und nicht näher bezeichneter Typ"
+          },
+          "children": [
+            {
+              "code": "G90.70",
+              "kind": "category",
+              "label": "Komplexes regionales Schmerzsyndrom der oberen Extremität, sonstiger und nicht näher bezeichneter Typ",
+              "rubrics": {
+                "preferred": "Komplexes regionales Schmerzsyndrom der oberen Extremität, sonstiger und nicht näher bezeichneter Typ"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.71",
+              "kind": "category",
+              "label": "Komplexes regionales Schmerzsyndrom der unteren Extremität, sonstiger und nicht näher bezeichneter Typ",
+              "rubrics": {
+                "preferred": "Komplexes regionales Schmerzsyndrom der unteren Extremität, sonstiger und nicht näher bezeichneter Typ"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.79",
+              "kind": "category",
+              "label": "Komplexes regionales Schmerzsyndrom, sonstiger und nicht näher bezeichneter Typ, Lokalisation nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Komplexes regionales Schmerzsyndrom, sonstiger und nicht näher bezeichneter Typ, Lokalisation nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G90.8",
+          "kind": "category",
+          "label": "Sonstige Krankheiten des autonomen Nervensystems",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten des autonomen Nervensystems"
+          },
+          "children": [
+            {
+              "code": "G90.80",
+              "kind": "category",
+              "label": "Posturales Tachykardiesyndrom [PoTS]",
+              "rubrics": {
+                "preferred": "Posturales Tachykardiesyndrom [PoTS]"
+              },
+              "children": []
+            },
+            {
+              "code": "G90.88",
+              "kind": "category",
+              "label": "Sonstige Krankheiten des autonomen Nervensystems",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten des autonomen Nervensystems"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G90.9",
+          "kind": "category",
+          "label": "Krankheit des autonomen Nervensystems, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des autonomen Nervensystems, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G91",
+      "kind": "category",
+      "label": "Hydrozephalus",
+      "rubrics": {
+        "preferred": "Hydrozephalus",
+        "inclusion": "Erworbener Hydrozephalus",
+        "exclusion": "Hydrozephalus durch angeborene ToxoplasmoseP37.1"
+      },
+      "children": [
+        {
+          "code": "G91.0",
+          "kind": "category",
+          "label": "Hydrocephalus communicans",
+          "rubrics": {
+            "preferred": "Hydrocephalus communicans"
+          },
+          "children": []
+        },
+        {
+          "code": "G91.1",
+          "kind": "category",
+          "label": "Hydrocephalus occlusus",
+          "rubrics": {
+            "preferred": "Hydrocephalus occlusus"
+          },
+          "children": []
+        },
+        {
+          "code": "G91.2",
+          "kind": "category",
+          "label": "Normaldruckhydrozephalus",
+          "rubrics": {
+            "preferred": "Normaldruckhydrozephalus"
+          },
+          "children": [
+            {
+              "code": "G91.20",
+              "kind": "category",
+              "label": "Idiopathischer Normaldruckhydrozephalus",
+              "rubrics": {
+                "preferred": "Idiopathischer Normaldruckhydrozephalus"
+              },
+              "children": []
+            },
+            {
+              "code": "G91.21",
+              "kind": "category",
+              "label": "Sekundärer Normaldruckhydrozephalus",
+              "rubrics": {
+                "preferred": "Sekundärer Normaldruckhydrozephalus"
+              },
+              "children": []
+            },
+            {
+              "code": "G91.29",
+              "kind": "category",
+              "label": "Normaldruckhydrozephalus, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Normaldruckhydrozephalus, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G91.3",
+          "kind": "category",
+          "label": "Posttraumatischer Hydrozephalus, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Posttraumatischer Hydrozephalus, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "G91.8",
+          "kind": "category",
+          "label": "Sonstiger Hydrozephalus",
+          "rubrics": {
+            "preferred": "Sonstiger Hydrozephalus"
+          },
+          "children": []
+        },
+        {
+          "code": "G91.9",
+          "kind": "category",
+          "label": "Hydrozephalus, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Hydrozephalus, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G92",
+      "kind": "category",
+      "label": "Toxische Enzephalopathie",
+      "rubrics": {
+        "preferred": "Toxische Enzephalopathie",
+        "coding-hint": "Soll das toxische Agens angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": [
+        {
+          "code": "G92.0",
+          "kind": "category",
+          "label": "Toxische Enzephalopathie unter Immuntherapie",
+          "rubrics": {
+            "preferred": "Toxische Enzephalopathie unter Immuntherapie",
+            "inclusion": "Immuneffektorzell-assoziiertes Neurotoxizitätssyndrom"
+          },
+          "children": []
+        },
+        {
+          "code": "G92.9",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete toxische Enzephalopathie",
+          "rubrics": {
+            "preferred": "Sonstige und nicht näher bezeichnete toxische Enzephalopathie"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G93",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Gehirns",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Gehirns"
+      },
+      "children": [
+        {
+          "code": "G93.0",
+          "kind": "category",
+          "label": "Hirnzysten",
+          "rubrics": {
+            "preferred": "Hirnzysten",
+            "inclusion": "Arachnoidalzyste",
+            "exclusion": "Erworbene periventrikuläre Zysten beim NeugeborenenP91.1"
+          },
+          "children": []
+        },
+        {
+          "code": "G93.1",
+          "kind": "category",
+          "label": "Anoxische Hirnschädigung, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Anoxische Hirnschädigung, anderenorts nicht klassifiziert",
+            "exclusion": "Asphyxie beim NeugeborenenP21.9"
+          },
+          "children": []
+        },
+        {
+          "code": "G93.2",
+          "kind": "category",
+          "label": "Benigne intrakranielle Hypertension [Pseudotumor cerebri]",
+          "rubrics": {
+            "preferred": "Benigne intrakranielle Hypertension [Pseudotumor cerebri]",
+            "exclusion": "Hypertensive EnzephalopathieI67.4"
+          },
+          "children": []
+        },
+        {
+          "code": "G93.3",
+          "kind": "category",
+          "label": "Chronisches Fatigue-Syndrom [Chronic fatigue syndrome]",
+          "rubrics": {
+            "preferred": "Chronisches Fatigue-Syndrom [Chronic fatigue syndrome]",
+            "inclusion": "Postvirales (chronisches) Müdigkeitssyndrom",
+            "exclusion": "FatigueR53"
+          },
+          "children": []
+        },
+        {
+          "code": "G93.4",
+          "kind": "category",
+          "label": "Enzephalopathie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Enzephalopathie, nicht näher bezeichnet",
+            "exclusion": "Enzephalopathie:\n\t\t\t\ttoxischG92.-"
+          },
+          "children": []
+        },
+        {
+          "code": "G93.5",
+          "kind": "category",
+          "label": "Compressio cerebri",
+          "rubrics": {
+            "preferred": "Compressio cerebri",
+            "inclusion": "Kompression\n\t\t\t\tHirn (-stamm)",
+            "exclusion": "Compressio cerebri, traumatisch, umschriebenS06.38"
+          },
+          "children": []
+        },
+        {
+          "code": "G93.6",
+          "kind": "category",
+          "label": "Hirnödem",
+          "rubrics": {
+            "preferred": "Hirnödem",
+            "exclusion": "Hirnödem:\n\t\t\t\ttraumatischS06.1"
+          },
+          "children": []
+        },
+        {
+          "code": "G93.7",
+          "kind": "category",
+          "label": "Reye-Syndrom",
+          "rubrics": {
+            "preferred": "Reye-Syndrom",
+            "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "G93.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Gehirns",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Gehirns",
+            "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": [
+            {
+              "code": "G93.80",
+              "kind": "category",
+              "label": "Apallisches Syndrom",
+              "rubrics": {
+                "preferred": "Apallisches Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "G93.88",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten des Gehirns",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten des Gehirns",
+                "inclusion": "Enzephalopathie nach Strahlenexposition"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G93.9",
+          "kind": "category",
+          "label": "Krankheit des Gehirns, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des Gehirns, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G94",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Gehirns bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Gehirns bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "G94.0",
+          "kind": "category",
+          "label": "Hydrozephalus bei anderenorts klassifizierten infektiösen und parasitären KrankheitenA00-B99",
+          "rubrics": {
+            "preferred": "Hydrozephalus bei anderenorts klassifizierten infektiösen und parasitären KrankheitenA00-B99"
+          },
+          "children": []
+        },
+        {
+          "code": "G94.1",
+          "kind": "category",
+          "label": "Hydrozephalus bei NeubildungenC00-D48",
+          "rubrics": {
+            "preferred": "Hydrozephalus bei NeubildungenC00-D48"
+          },
+          "children": []
+        },
+        {
+          "code": "G94.2",
+          "kind": "category",
+          "label": "Hydrozephalus bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Hydrozephalus bei sonstigen anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "G94.3",
+          "kind": "category",
+          "label": "Enzephalopathie bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Enzephalopathie bei sonstigen anderenorts klassifizierten Krankheiten",
+            "exclusion": "Hepatische EnzephalopathieK72.7-"
+          },
+          "children": [
+            {
+              "code": "G94.30",
+              "kind": "category",
+              "label": "Enzephalopathie bei anderenorts klassifizierten endokrinen und Stoffwechselkrankheiten",
+              "rubrics": {
+                "preferred": "Enzephalopathie bei anderenorts klassifizierten endokrinen und Stoffwechselkrankheiten"
+              },
+              "children": []
+            },
+            {
+              "code": "G94.31",
+              "kind": "category",
+              "label": "Enzephalopathie bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Enzephalopathie bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "exclusion": "Septische EnzephalopathieG94.32"
+              },
+              "children": []
+            },
+            {
+              "code": "G94.32",
+              "kind": "category",
+              "label": "Septische Enzephalopathie",
+              "rubrics": {
+                "preferred": "Septische Enzephalopathie",
+                "inclusion": "Enzephalopathie bei Sepsis durch Viren o.n.A.B34.80",
+                "exclusion": "Enzephalopathie bei anderenorts klassifizierten infektiösen und parasitären Krankheiten ohne Vorliegen einer SepsisG94.31"
+              },
+              "children": []
+            },
+            {
+              "code": "G94.39",
+              "kind": "category",
+              "label": "Nicht näher bezeichnete Enzephalopathie bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Nicht näher bezeichnete Enzephalopathie bei sonstigen anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G94.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Gehirns bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Gehirns bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G95",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Rückenmarkes",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Rückenmarkes",
+        "exclusion": "MyelitisG04.-"
+      },
+      "children": [
+        {
+          "code": "G95.0",
+          "kind": "category",
+          "label": "Syringomyelie und Syringobulbie",
+          "rubrics": {
+            "preferred": "Syringomyelie und Syringobulbie"
+          },
+          "children": []
+        },
+        {
+          "code": "G95.1",
+          "kind": "category",
+          "label": "Vaskuläre Myelopathien",
+          "rubrics": {
+            "preferred": "Vaskuläre Myelopathien"
+          },
+          "children": [
+            {
+              "code": "G95.10",
+              "kind": "category",
+              "label": "Nichttraumatische spinale Blutung",
+              "rubrics": {
+                "preferred": "Nichttraumatische spinale Blutung",
+                "inclusion": "Hämatomyelie"
+              },
+              "children": []
+            },
+            {
+              "code": "G95.18",
+              "kind": "category",
+              "label": "Sonstige vaskuläre Myelopathien",
+              "rubrics": {
+                "preferred": "Sonstige vaskuläre Myelopathien",
+                "inclusion": "Subakute nekrotisierende Myelopathie",
+                "exclusion": "Intraspinale Phlebitis und Thrombophlebitis, ausgenommen nichteitrigG08"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G95.2",
+          "kind": "category",
+          "label": "Rückenmarkkompression, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Rückenmarkkompression, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "G95.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Rückenmarkes",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Rückenmarkes",
+            "inclusion": "Rückenmarkblase o.n.A.",
+            "coding-hint": "Soll das exogene Agens angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+            "exclusion": "Neuromuskuläre Dysfunktion der Harnblase ohne Angabe einer RückenmarkläsionN31.-"
+          },
+          "children": [
+            {
+              "code": "G95.80",
+              "kind": "category",
+              "label": "Harnblasenlähmung bei Schädigung des oberen motorischen Neurons [UMNL]",
+              "rubrics": {
+                "preferred": "Harnblasenlähmung bei Schädigung des oberen motorischen Neurons [UMNL]",
+                "inclusion": "Spastische Blase"
+              },
+              "children": []
+            },
+            {
+              "code": "G95.81",
+              "kind": "category",
+              "label": "Harnblasenlähmung bei Schädigung des unteren motorischen Neurons [LMNL]",
+              "rubrics": {
+                "preferred": "Harnblasenlähmung bei Schädigung des unteren motorischen Neurons [LMNL]",
+                "inclusion": "Schlaffe Blase"
+              },
+              "children": []
+            },
+            {
+              "code": "G95.82",
+              "kind": "category",
+              "label": "Harnblasenfunktionsstörung durch spinalen Schock",
+              "rubrics": {
+                "preferred": "Harnblasenfunktionsstörung durch spinalen Schock"
+              },
+              "children": []
+            },
+            {
+              "code": "G95.83",
+              "kind": "category",
+              "label": "Spinale Spastik der quergestreiften Muskulatur",
+              "rubrics": {
+                "preferred": "Spinale Spastik der quergestreiften Muskulatur"
+              },
+              "children": []
+            },
+            {
+              "code": "G95.84",
+              "kind": "category",
+              "label": "Detrusor-Sphinkter-Dyssynergie bei Schädigungen des Rückenmarkes",
+              "rubrics": {
+                "preferred": "Detrusor-Sphinkter-Dyssynergie bei Schädigungen des Rückenmarkes"
+              },
+              "children": []
+            },
+            {
+              "code": "G95.85",
+              "kind": "category",
+              "label": "Deafferentierungsschmerz bei Schädigungen des Rückenmarkes",
+              "rubrics": {
+                "preferred": "Deafferentierungsschmerz bei Schädigungen des Rückenmarkes"
+              },
+              "children": []
+            },
+            {
+              "code": "G95.88",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten des Rückenmarkes",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten des Rückenmarkes"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G95.9",
+          "kind": "category",
+          "label": "Krankheit des Rückenmarkes, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des Rückenmarkes, nicht näher bezeichnet",
+            "inclusion": "Myelopathie o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G96",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Zentralnervensystems",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Zentralnervensystems"
+      },
+      "children": [
+        {
+          "code": "G96.0",
+          "kind": "category",
+          "label": "Austritt von Liquor cerebrospinalis",
+          "rubrics": {
+            "preferred": "Austritt von Liquor cerebrospinalis",
+            "inclusion": "Liquorrhoe",
+            "exclusion": "Nach LumbalpunktionG97.0"
+          },
+          "children": []
+        },
+        {
+          "code": "G96.1",
+          "kind": "category",
+          "label": "Krankheiten der Meningen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Krankheiten der Meningen, anderenorts nicht klassifiziert",
+            "inclusion": "Meningeale Adhäsionen (zerebral) (spinal)"
+          },
+          "children": []
+        },
+        {
+          "code": "G96.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Zentralnervensystems",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Zentralnervensystems"
+          },
+          "children": []
+        },
+        {
+          "code": "G96.9",
+          "kind": "category",
+          "label": "Krankheit des Zentralnervensystems, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des Zentralnervensystems, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G97",
+      "kind": "category",
+      "label": "Krankheiten des Nervensystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Krankheiten des Nervensystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert"
+      },
+      "children": [
+        {
+          "code": "G97.0",
+          "kind": "category",
+          "label": "Austritt von Liquor cerebrospinalis nach Lumbalpunktion",
+          "rubrics": {
+            "preferred": "Austritt von Liquor cerebrospinalis nach Lumbalpunktion"
+          },
+          "children": []
+        },
+        {
+          "code": "G97.1",
+          "kind": "category",
+          "label": "Sonstige Reaktion auf Spinal- und Lumbalpunktion",
+          "rubrics": {
+            "preferred": "Sonstige Reaktion auf Spinal- und Lumbalpunktion"
+          },
+          "children": []
+        },
+        {
+          "code": "G97.2",
+          "kind": "category",
+          "label": "Intrakranielle Druckminderung nach ventrikulärem Shunt",
+          "rubrics": {
+            "preferred": "Intrakranielle Druckminderung nach ventrikulärem Shunt"
+          },
+          "children": []
+        },
+        {
+          "code": "G97.8",
+          "kind": "category",
+          "label": "Sonstige Krankheiten des Nervensystems nach medizinischen Maßnahmen",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten des Nervensystems nach medizinischen Maßnahmen"
+          },
+          "children": [
+            {
+              "code": "G97.80",
+              "kind": "category",
+              "label": "Postoperative Liquorfistel",
+              "rubrics": {
+                "preferred": "Postoperative Liquorfistel"
+              },
+              "children": []
+            },
+            {
+              "code": "G97.81",
+              "kind": "category",
+              "label": "Postoperativer (zerebellärer) Mutismus",
+              "rubrics": {
+                "preferred": "Postoperativer (zerebellärer) Mutismus",
+                "inclusion": "Posterior-Fossa-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "G97.82",
+              "kind": "category",
+              "label": "Postoperative epidurale spinale Blutung",
+              "rubrics": {
+                "preferred": "Postoperative epidurale spinale Blutung"
+              },
+              "children": []
+            },
+            {
+              "code": "G97.83",
+              "kind": "category",
+              "label": "Postoperative subdurale spinale Blutung",
+              "rubrics": {
+                "preferred": "Postoperative subdurale spinale Blutung"
+              },
+              "children": []
+            },
+            {
+              "code": "G97.84",
+              "kind": "category",
+              "label": "Postoperative subarachnoidale spinale Blutung",
+              "rubrics": {
+                "preferred": "Postoperative subarachnoidale spinale Blutung"
+              },
+              "children": []
+            },
+            {
+              "code": "G97.88",
+              "kind": "category",
+              "label": "Sonstige Krankheiten des Nervensystems nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten des Nervensystems nach medizinischen Maßnahmen"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G97.9",
+          "kind": "category",
+          "label": "Krankheit des Nervensystems nach medizinischer Maßnahme, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit des Nervensystems nach medizinischer Maßnahme, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G98",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Nervensystems, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Nervensystems, anderenorts nicht klassifiziert",
+        "inclusion": "Krankheit des Nervensystems o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "G99",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "G99.0",
+          "kind": "category",
+          "label": "Autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten",
+          "rubrics": {
+            "preferred": "Autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten",
+            "inclusion": "Diabetische autonome NeuropathieE10-E14, vierte Stelle .4"
+          },
+          "children": [
+            {
+              "code": "G99.00",
+              "kind": "category",
+              "label": "Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten",
+              "rubrics": {
+                "preferred": "Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten"
+              },
+              "children": []
+            },
+            {
+              "code": "G99.08",
+              "kind": "category",
+              "label": "Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten",
+              "rubrics": {
+                "preferred": "Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "G99.1",
+          "kind": "category",
+          "label": "Sonstige Krankheiten des autonomen Nervensystems bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten des autonomen Nervensystems bei sonstigen anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "G99.2",
+          "kind": "category",
+          "label": "Myelopathie bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Myelopathie bei anderenorts klassifizierten Krankheiten",
+            "inclusion": "Myelopathie bei:\n\t\t\t\tSpondyloseM47.-"
+          },
+          "children": []
+        },
+        {
+          "code": "G99.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten",
+            "inclusion": "Urämische Paralyse N18.-"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "G72.3",
+  "kind": "category",
+  "label": "Periodische Lähmung",
+  "rubrics": {
+    "preferred": "Periodische Lähmung",
+    "inclusion": "Periodische Lähmung (familiär):\n\t\t\t\tnormokaliämisch"
+  },
+  "children": []
+}

@@ -1,0 +1,279 @@
+{
+  "code": "S02",
+  "kind": "category",
+  "label": "Fraktur des Schädels und der Gesichtsschädelknochen",
+  "rubrics": {
+    "preferred": "Fraktur des Schädels und der Gesichtsschädelknochen",
+    "coding-hint": "Ein Bewusstseinsverlust bei einer Schädelfraktur ist mit einer zusätzlichen Schlüsselnummer aus S06.7- zu verschlüsseln."
+  },
+  "children": [
+    {
+      "code": "S02.0",
+      "kind": "category",
+      "label": "Schädeldachfraktur",
+      "rubrics": {
+        "preferred": "Schädeldachfraktur",
+        "inclusion": "Os temporale, Pars squamosa"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.1",
+      "kind": "category",
+      "label": "Schädelbasisfraktur",
+      "rubrics": {
+        "preferred": "Schädelbasisfraktur",
+        "inclusion": "Sinus:\n\t\t\t\tfrontalis",
+        "exclusion": "Os temporale, Pars squamosaS02.0"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.2",
+      "kind": "category",
+      "label": "Nasenbeinfraktur",
+      "rubrics": {
+        "preferred": "Nasenbeinfraktur"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.3",
+      "kind": "category",
+      "label": "Fraktur des Orbitabodens",
+      "rubrics": {
+        "preferred": "Fraktur des Orbitabodens",
+        "inclusion": "Blow-out-Fraktur",
+        "exclusion": "OrbitadachS02.1"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.4",
+      "kind": "category",
+      "label": "Fraktur des Jochbeins und des Oberkiefers",
+      "rubrics": {
+        "preferred": "Fraktur des Jochbeins und des Oberkiefers"
+      },
+      "children": [
+        {
+          "code": "S02.40",
+          "kind": "category",
+          "label": "Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Teil nicht näher bezeichnet",
+            "preferred": "Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.41",
+          "kind": "category",
+          "label": "Arcus zygomaticus des Jochbeins",
+          "rubrics": {
+            "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Arcus zygomaticus des Jochbeins",
+            "preferred": "Arcus zygomaticus des Jochbeins",
+            "inclusion": "Jochbogen"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.42",
+          "kind": "category",
+          "label": "Sonstiger Teil des Jochbeins",
+          "rubrics": {
+            "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Sonstiger Teil des Jochbeins",
+            "preferred": "Sonstiger Teil des Jochbeins",
+            "inclusion": "Os zygomaticum"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.43",
+          "kind": "category",
+          "label": "Pars alveolaris des Oberkiefers",
+          "rubrics": {
+            "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Pars alveolaris des Oberkiefers",
+            "preferred": "Pars alveolaris des Oberkiefers",
+            "inclusion": "Alveolarfortsatz des Oberkiefers"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.48",
+          "kind": "category",
+          "label": "Sonstiger Teil des Oberkiefers",
+          "rubrics": {
+            "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Sonstiger Teil des Oberkiefers",
+            "preferred": "Sonstiger Teil des Oberkiefers",
+            "inclusion": "Oberkiefer (-Knochen)"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.49",
+          "kind": "category",
+          "label": "Mehrere Teile",
+          "rubrics": {
+            "preferredLong": "Fraktur des Jochbeins und des Oberkiefers: Mehrere Teile",
+            "preferred": "Mehrere Teile"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S02.5",
+      "kind": "category",
+      "label": "Zahnfraktur",
+      "rubrics": {
+        "preferred": "Zahnfraktur",
+        "inclusion": "Gebrochener Zahn",
+        "exclusion": "Pathologische ZahnfrakturK08.81"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.6",
+      "kind": "category",
+      "label": "Unterkieferfraktur",
+      "rubrics": {
+        "preferred": "Unterkieferfraktur",
+        "inclusion": "Unterkiefer (-Knochen)"
+      },
+      "children": [
+        {
+          "code": "S02.60",
+          "kind": "category",
+          "label": "Teil nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Unterkieferfraktur: Teil nicht näher bezeichnet",
+            "preferred": "Teil nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.61",
+          "kind": "category",
+          "label": "Processus condylaris",
+          "rubrics": {
+            "preferredLong": "Unterkieferfraktur: Processus condylaris",
+            "preferred": "Processus condylaris"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.62",
+          "kind": "category",
+          "label": "Subkondylär",
+          "rubrics": {
+            "preferredLong": "Unterkieferfraktur: Subkondylär",
+            "preferred": "Subkondylär"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.63",
+          "kind": "category",
+          "label": "Processus coronoideus",
+          "rubrics": {
+            "preferredLong": "Unterkieferfraktur: Processus coronoideus",
+            "preferred": "Processus coronoideus"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.64",
+          "kind": "category",
+          "label": "Ramus mandibulae, nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Unterkieferfraktur: Ramus mandibulae, nicht näher bezeichnet",
+            "preferred": "Ramus mandibulae, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.65",
+          "kind": "category",
+          "label": "Angulus mandibulae",
+          "rubrics": {
+            "preferredLong": "Unterkieferfraktur: Angulus mandibulae",
+            "preferred": "Angulus mandibulae"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.66",
+          "kind": "category",
+          "label": "Symphysis mandibulae",
+          "rubrics": {
+            "preferredLong": "Unterkieferfraktur: Symphysis mandibulae",
+            "preferred": "Symphysis mandibulae"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.67",
+          "kind": "category",
+          "label": "Pars alveolaris",
+          "rubrics": {
+            "preferredLong": "Unterkieferfraktur: Pars alveolaris",
+            "preferred": "Pars alveolaris",
+            "inclusion": "Alveolarfortsatz des Unterkiefers"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.68",
+          "kind": "category",
+          "label": "Corpus mandibulae, sonstige und nicht näher bezeichnete Teile",
+          "rubrics": {
+            "preferredLong": "Unterkieferfraktur: Corpus mandibulae, sonstige und nicht näher bezeichnete Teile",
+            "preferred": "Corpus mandibulae, sonstige und nicht näher bezeichnete Teile"
+          },
+          "children": []
+        },
+        {
+          "code": "S02.69",
+          "kind": "category",
+          "label": "Mehrere Teile",
+          "rubrics": {
+            "preferredLong": "Unterkieferfraktur: Mehrere Teile",
+            "preferred": "Mehrere Teile"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "S02.7",
+      "kind": "category",
+      "label": "Multiple Frakturen der Schädel- und Gesichtsschädelknochen",
+      "rubrics": {
+        "preferred": "Multiple Frakturen der Schädel- und Gesichtsschädelknochen"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.8",
+      "kind": "category",
+      "label": "Frakturen sonstiger Schädel- und Gesichtsschädelknochen",
+      "rubrics": {
+        "preferred": "Frakturen sonstiger Schädel- und Gesichtsschädelknochen",
+        "inclusion": "Orbita o.n.A.",
+        "exclusion": "OrbitadachS02.1"
+      },
+      "children": []
+    },
+    {
+      "code": "S02.9",
+      "kind": "category",
+      "label": "Fraktur des Schädels und der Gesichtsschädelknochen, Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Fraktur des Schädels und der Gesichtsschädelknochen, Teil nicht näher bezeichnet",
+        "inclusion": "Gesicht o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

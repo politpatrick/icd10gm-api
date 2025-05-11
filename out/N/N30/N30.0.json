@@ -1,0 +1,10 @@
+{
+  "code": "N30.0",
+  "kind": "category",
+  "label": "Akute Zystitis",
+  "rubrics": {
+    "preferred": "Akute Zystitis",
+    "exclusion": "TrigonumzystitisN30.3"
+  },
+  "children": []
+}

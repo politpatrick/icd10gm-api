@@ -1,0 +1,29 @@
+{
+  "code": "U80.1",
+  "kind": "category",
+  "label": "Streptococcus pneumoniae mit Resistenz gegen Penicillin, Oxacillin, Makrolid-Antibiotika, Oxazolidinone oder Streptogramine",
+  "rubrics": {
+    "preferred": "Streptococcus pneumoniae mit Resistenz gegen Penicillin, Oxacillin, Makrolid-Antibiotika, Oxazolidinone oder Streptogramine"
+  },
+  "children": [
+    {
+      "code": "U80.10",
+      "kind": "category",
+      "label": "Streptococcus pneumoniae mit Resistenz gegen Penicillin oder Oxacillin",
+      "rubrics": {
+        "preferred": "Streptococcus pneumoniae mit Resistenz gegen Penicillin oder Oxacillin",
+        "inclusion": "Streptococcus pneumoniae mit Resistenz gegen Penicillin oder Oxacillin und ggf. gegen Makrolid-Antibiotika, Oxazolidinone oder Streptogramine"
+      },
+      "children": []
+    },
+    {
+      "code": "U80.11",
+      "kind": "category",
+      "label": "Streptococcus pneumoniae mit Resistenz gegen Makrolid-Antibiotika, Oxazolidinone oder Streptogramine und ohne Resistenz gegen Penicillin oder Oxacillin",
+      "rubrics": {
+        "preferred": "Streptococcus pneumoniae mit Resistenz gegen Makrolid-Antibiotika, Oxazolidinone oder Streptogramine und ohne Resistenz gegen Penicillin oder Oxacillin"
+      },
+      "children": []
+    }
+  ]
+}

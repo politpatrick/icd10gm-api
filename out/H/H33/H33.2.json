@@ -1,0 +1,11 @@
+{
+  "code": "H33.2",
+  "kind": "category",
+  "label": "Seröse Netzhautablösung",
+  "rubrics": {
+    "preferred": "Seröse Netzhautablösung",
+    "inclusion": "Netzhautablösung:\n\t\t\t\to.n.A.",
+    "exclusion": "Chorioretinopathia centralis serosaH35.7"
+  },
+  "children": []
+}

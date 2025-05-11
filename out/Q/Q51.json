@@ -1,0 +1,104 @@
+{
+  "code": "Q51",
+  "kind": "category",
+  "label": "Angeborene Fehlbildungen des Uterus und der Cervix uteri",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildungen des Uterus und der Cervix uteri"
+  },
+  "children": [
+    {
+      "code": "Q51.0",
+      "kind": "category",
+      "label": "Agenesie und Aplasie des Uterus",
+      "rubrics": {
+        "preferred": "Agenesie und Aplasie des Uterus",
+        "inclusion": "Angeborenes Fehlen des Uterus"
+      },
+      "children": []
+    },
+    {
+      "code": "Q51.1",
+      "kind": "category",
+      "label": "Uterus duplex mit Uterus bicollis und Vagina duplex",
+      "rubrics": {
+        "preferred": "Uterus duplex mit Uterus bicollis und Vagina duplex"
+      },
+      "children": []
+    },
+    {
+      "code": "Q51.2",
+      "kind": "category",
+      "label": "Sonstige Formen des Uterus duplex",
+      "rubrics": {
+        "preferred": "Sonstige Formen des Uterus duplex",
+        "inclusion": "Uterus duplex o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "Q51.3",
+      "kind": "category",
+      "label": "Uterus bicornis",
+      "rubrics": {
+        "preferred": "Uterus bicornis"
+      },
+      "children": []
+    },
+    {
+      "code": "Q51.4",
+      "kind": "category",
+      "label": "Uterus unicornis",
+      "rubrics": {
+        "preferred": "Uterus unicornis"
+      },
+      "children": []
+    },
+    {
+      "code": "Q51.5",
+      "kind": "category",
+      "label": "Agenesie und Aplasie der Cervix uteri",
+      "rubrics": {
+        "preferred": "Agenesie und Aplasie der Cervix uteri",
+        "inclusion": "Angeborenes Fehlen der Cervix uteri"
+      },
+      "children": []
+    },
+    {
+      "code": "Q51.6",
+      "kind": "category",
+      "label": "Embryonale Zyste der Cervix uteri",
+      "rubrics": {
+        "preferred": "Embryonale Zyste der Cervix uteri"
+      },
+      "children": []
+    },
+    {
+      "code": "Q51.7",
+      "kind": "category",
+      "label": "Angeborene Fisteln zwischen Uterus und Verdauungs- oder Harntrakt",
+      "rubrics": {
+        "preferred": "Angeborene Fisteln zwischen Uterus und Verdauungs- oder Harntrakt"
+      },
+      "children": []
+    },
+    {
+      "code": "Q51.8",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Uterus und der Cervix uteri",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Uterus und der Cervix uteri",
+        "inclusion": "Hypoplasie des Uterus und der Cervix uteri"
+      },
+      "children": []
+    },
+    {
+      "code": "Q51.9",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung des Uterus und der Cervix uteri, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung des Uterus und der Cervix uteri, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

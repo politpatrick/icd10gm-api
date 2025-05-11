@@ -1,0 +1,10 @@
+{
+  "code": "B46.8",
+  "kind": "category",
+  "label": "Sonstige Formen der Zygomykose",
+  "rubrics": {
+    "preferred": "Sonstige Formen der Zygomykose",
+    "inclusion": "Entomophthoramykose"
+  },
+  "children": []
+}

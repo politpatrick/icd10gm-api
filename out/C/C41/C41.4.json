@@ -1,0 +1,11 @@
+{
+  "code": "C41.4",
+  "kind": "category",
+  "label": "Beckenknochen",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung des Knochens und des Gelenkknorpels: Beckenknochen",
+    "preferred": "Beckenknochen",
+    "inclusion": "Steißbein"
+  },
+  "children": []
+}

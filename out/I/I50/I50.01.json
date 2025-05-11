@@ -1,0 +1,11 @@
+{
+  "code": "I50.01",
+  "kind": "category",
+  "label": "Sekundäre Rechtsherzinsuffizienz",
+  "rubrics": {
+    "preferred": "Sekundäre Rechtsherzinsuffizienz",
+    "inclusion": "Rechtsherzinsuffizienz o.n.A.",
+    "coding-hint": "Bei einer globalen Herzinsuffizienz kommen die Schlüsselnummern I50.02!-I50.05! nicht zur Anwendung. Es ist in diesem Fall die Schlüsselnummer I50.01 in Kombination mit einer Schlüsselnummer aus I50.1- zur Angabe des Stadiums der Herzinsuffizienz anzugeben."
+  },
+  "children": []
+}

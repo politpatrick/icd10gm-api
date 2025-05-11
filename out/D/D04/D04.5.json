@@ -1,0 +1,12 @@
+{
+  "code": "D04.5",
+  "kind": "category",
+  "label": "Haut des Rumpfes",
+  "rubrics": {
+    "preferredLong": "Carcinoma in situ: Haut des Rumpfes",
+    "preferred": "Haut des Rumpfes",
+    "inclusion": "Perianalhaut",
+    "exclusion": "Haut der GenitalorganeD07.-"
+  },
+  "children": []
+}

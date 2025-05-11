@@ -1,0 +1,10 @@
+{
+  "code": "I49.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete kardiale Arrhythmien",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete kardiale Arrhythmien",
+    "inclusion": "Long-QT-Syndrom"
+  },
+  "children": []
+}

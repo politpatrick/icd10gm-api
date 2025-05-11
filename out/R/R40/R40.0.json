@@ -1,0 +1,10 @@
+{
+  "code": "R40.0",
+  "kind": "category",
+  "label": "Somnolenz",
+  "rubrics": {
+    "preferred": "Somnolenz",
+    "inclusion": "Benommenheit"
+  },
+  "children": []
+}

@@ -1,0 +1,12 @@
+{
+  "code": "F94.1",
+  "kind": "category",
+  "label": "Reaktive Bindungsstörung des Kindesalters",
+  "rubrics": {
+    "preferred": "Reaktive Bindungsstörung des Kindesalters",
+    "definition": "Diese tritt in den ersten fünf Lebensjahren auf und ist durch anhaltende Auffälligkeiten im sozialen Beziehungsmuster des Kindes charakterisiert. Diese sind von einer emotionalen Störung begleitet und reagieren auf Wechsel in den Milieuverhältnissen. Die Symptome bestehen aus Furchtsamkeit und Übervorsichtigkeit, eingeschränkten sozialen Interaktionen mit Gleichaltrigen, gegen sich selbst oder andere gerichteten Aggressionen, Unglücklichsein und in einigen Fällen Wachstumsverzögerung. Das Syndrom tritt wahrscheinlich als direkte Folge schwerer elterlicher Vernachlässigung, Missbrauch oder schwerer Misshandlung auf.",
+    "coding-hint": "Soll eine begleitende Gedeih- oder Wachstumsstörung angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen.",
+    "exclusion": "Psychosoziale Probleme infolge von sexueller oder körperlicher Misshandlung im KindesalterZ61"
+  },
+  "children": []
+}

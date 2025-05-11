@@ -1,0 +1,11 @@
+{
+  "code": "D30.0",
+  "kind": "category",
+  "label": "Niere",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Niere",
+    "preferred": "Niere",
+    "exclusion": "NierenbeckenkelcheD30.1"
+  },
+  "children": []
+}

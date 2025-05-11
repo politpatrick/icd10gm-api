@@ -1,0 +1,11 @@
+{
+  "code": "M47.1",
+  "kind": "category",
+  "label": "Sonstige Spondylose mit Myelopathie",
+  "rubrics": {
+    "preferred": "Sonstige Spondylose mit Myelopathie",
+    "inclusion": "Spondylogene Kompression des RückenmarkesG99.2",
+    "exclusion": "WirbelsubluxationM43.3-M43.5"
+  },
+  "children": []
+}

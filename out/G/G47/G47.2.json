@@ -1,0 +1,10 @@
+{
+  "code": "G47.2",
+  "kind": "category",
+  "label": "Störungen des Schlaf-Wach-Rhythmus",
+  "rubrics": {
+    "preferred": "Störungen des Schlaf-Wach-Rhythmus",
+    "inclusion": "Unregelmäßiger Schlaf-Wach-Rhythmus"
+  },
+  "children": []
+}

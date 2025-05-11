@@ -1,0 +1,78 @@
+{
+  "code": "H26",
+  "kind": "category",
+  "label": "Sonstige Kataraktformen",
+  "rubrics": {
+    "preferred": "Sonstige Kataraktformen",
+    "exclusion": "Cataracta congenitaQ12.0"
+  },
+  "children": [
+    {
+      "code": "H26.0",
+      "kind": "category",
+      "label": "Infantile, juvenile und präsenile Katarakt",
+      "rubrics": {
+        "preferred": "Infantile, juvenile und präsenile Katarakt"
+      },
+      "children": []
+    },
+    {
+      "code": "H26.1",
+      "kind": "category",
+      "label": "Cataracta traumatica",
+      "rubrics": {
+        "preferred": "Cataracta traumatica",
+        "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "H26.2",
+      "kind": "category",
+      "label": "Cataracta complicata",
+      "rubrics": {
+        "preferred": "Cataracta complicata",
+        "inclusion": "Katarakt infolge anderer Augenkrankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "H26.3",
+      "kind": "category",
+      "label": "Arzneimittelinduzierte Katarakt",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierte Katarakt",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "H26.4",
+      "kind": "category",
+      "label": "Cataracta secundaria",
+      "rubrics": {
+        "preferred": "Cataracta secundaria",
+        "inclusion": "Ringstar nach Soemmering"
+      },
+      "children": []
+    },
+    {
+      "code": "H26.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Kataraktformen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Kataraktformen"
+      },
+      "children": []
+    },
+    {
+      "code": "H26.9",
+      "kind": "category",
+      "label": "Katarakt, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Katarakt, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "B33.0",
+  "kind": "category",
+  "label": "Pleurodynia epidemica",
+  "rubrics": {
+    "preferred": "Pleurodynia epidemica",
+    "inclusion": "Myalgia epidemica"
+  },
+  "children": []
+}

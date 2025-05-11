@@ -1,0 +1,10 @@
+{
+  "code": "O21.0",
+  "kind": "category",
+  "label": "Leichte Hyperemesis gravidarum",
+  "rubrics": {
+    "preferred": "Leichte Hyperemesis gravidarum",
+    "inclusion": "Hyperemesis gravidarum, leicht oder nicht näher bezeichnet, Beginn vor Beendigung der 20. Schwangerschaftswoche"
+  },
+  "children": []
+}

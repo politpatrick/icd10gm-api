@@ -1,0 +1,10 @@
+{
+  "code": "M67.1",
+  "kind": "category",
+  "label": "Sonstige Sehnen- (Scheiden-) Kontraktur",
+  "rubrics": {
+    "preferred": "Sonstige Sehnen- (Scheiden-) Kontraktur",
+    "exclusion": "Mit GelenkkontrakturM24.5-"
+  },
+  "children": []
+}

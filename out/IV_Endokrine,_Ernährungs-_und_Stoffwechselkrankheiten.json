@@ -1,0 +1,3953 @@
+{
+  "code": "IV",
+  "kind": "chapter",
+  "label": "Endokrine, Ernährungs- und Stoffwechselkrankheiten",
+  "rubrics": {
+    "preferred": "Endokrine, Ernährungs- und Stoffwechselkrankheiten",
+    "note": "Alle Neubildungen, ob funktionell aktiv oder nicht, sind in Kapitel II klassifiziert. Zutreffende Schlüsselnummern dieses Krankheitskapitels (d.h. E05.8, E07.0, E16-E31, E34.-) können zusätzlich benutzt werden zur Angabe der funktionellen Aktivität einer Neubildung, eines ektopen endokrinen Gewebes sowie der Über- oder Unterfunktion endokriner Drüsen durch Neubildungen oder sonstige anderenorts klassifizierte Zustände.",
+    "exclusion": "Transitorische endokrine und Stoffwechselstörungen, die für den Fetus und das Neugeborene spezifisch sindP70-P74"
+  },
+  "children": [
+    {
+      "code": "E00-E07",
+      "kind": "block",
+      "label": "Krankheiten der Schilddrüse",
+      "rubrics": {
+        "preferred": "Krankheiten der Schilddrüse"
+      },
+      "children": [
+        {
+          "code": "E00",
+          "kind": "category",
+          "label": "Angeborenes Jodmangelsyndrom",
+          "rubrics": {
+            "preferred": "Angeborenes Jodmangelsyndrom",
+            "inclusion": "Endemische Krankheitszustände durch direkten umweltbedingten Jodmangel oder infolge mütterlichen Jodmangels. Einige dieser Krankheitszustände gehen aktuell nicht mehr mit einer Hypothyreose einher, sind jedoch Folge unzureichender Schilddrüsenhormonsekretion des Fetus in der Entwicklungsphase. Umweltbedingte strumigene Substanzen können beteiligt sein.",
+            "coding-hint": "Soll eine damit verbundene geistige Retardierung angegeben werden, ist eine zusätzliche Schlüsselnummer (F70-F79) zu benutzen.",
+            "exclusion": "Subklinische Jodmangel-HypothyreoseE02"
+          },
+          "children": [
+            {
+              "code": "E00.0",
+              "kind": "category",
+              "label": "Angeborenes Jodmangelsyndrom, neurologischer Typ",
+              "rubrics": {
+                "preferred": "Angeborenes Jodmangelsyndrom, neurologischer Typ",
+                "inclusion": "Endemischer Kretinismus, neurologischer Typ"
+              },
+              "children": []
+            },
+            {
+              "code": "E00.1",
+              "kind": "category",
+              "label": "Angeborenes Jodmangelsyndrom, myxödematöser Typ",
+              "rubrics": {
+                "preferred": "Angeborenes Jodmangelsyndrom, myxödematöser Typ",
+                "inclusion": "Endemischer Kretinismus:\n\t\t\t\tmyxödematöser Typ"
+              },
+              "children": []
+            },
+            {
+              "code": "E00.2",
+              "kind": "category",
+              "label": "Angeborenes Jodmangelsyndrom, gemischter Typ",
+              "rubrics": {
+                "preferred": "Angeborenes Jodmangelsyndrom, gemischter Typ",
+                "inclusion": "Endemischer Kretinismus, gemischter Typ"
+              },
+              "children": []
+            },
+            {
+              "code": "E00.9",
+              "kind": "category",
+              "label": "Angeborenes Jodmangelsyndrom, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Angeborenes Jodmangelsyndrom, nicht näher bezeichnet",
+                "inclusion": "Endemischer Kretinismus o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E01",
+          "kind": "category",
+          "label": "Jodmangelbedingte Schilddrüsenkrankheiten und verwandte Zustände",
+          "rubrics": {
+            "preferred": "Jodmangelbedingte Schilddrüsenkrankheiten und verwandte Zustände",
+            "exclusion": "Subklinische Jodmangel-HypothyreoseE02"
+          },
+          "children": [
+            {
+              "code": "E01.0",
+              "kind": "category",
+              "label": "Jodmangelbedingte diffuse Struma (endemisch)",
+              "rubrics": {
+                "preferred": "Jodmangelbedingte diffuse Struma (endemisch)"
+              },
+              "children": []
+            },
+            {
+              "code": "E01.1",
+              "kind": "category",
+              "label": "Jodmangelbedingte mehrknotige Struma (endemisch)",
+              "rubrics": {
+                "preferred": "Jodmangelbedingte mehrknotige Struma (endemisch)",
+                "inclusion": "Jodmangelbedingte knotige Struma"
+              },
+              "children": []
+            },
+            {
+              "code": "E01.2",
+              "kind": "category",
+              "label": "Jodmangelbedingte Struma (endemisch), nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Jodmangelbedingte Struma (endemisch), nicht näher bezeichnet",
+                "inclusion": "Endemische Struma o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "E01.8",
+              "kind": "category",
+              "label": "Sonstige jodmangelbedingte Schilddrüsenkrankheiten und verwandte Zustände",
+              "rubrics": {
+                "preferred": "Sonstige jodmangelbedingte Schilddrüsenkrankheiten und verwandte Zustände",
+                "inclusion": "Erworbene Jodmangel-Hypothyreose o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E02",
+          "kind": "category",
+          "label": "Subklinische Jodmangel-Hypothyreose",
+          "rubrics": {
+            "preferred": "Subklinische Jodmangel-Hypothyreose"
+          },
+          "children": []
+        },
+        {
+          "code": "E03",
+          "kind": "category",
+          "label": "Sonstige Hypothyreose",
+          "rubrics": {
+            "preferred": "Sonstige Hypothyreose",
+            "exclusion": "Jodmangelbedingte HypothyreoseE00-E02"
+          },
+          "children": [
+            {
+              "code": "E03.0",
+              "kind": "category",
+              "label": "Angeborene Hypothyreose mit diffuser Struma",
+              "rubrics": {
+                "preferred": "Angeborene Hypothyreose mit diffuser Struma",
+                "inclusion": "Struma congenita (nichttoxisch):\n\t\t\t\to.n.A.",
+                "exclusion": "Transitorische Struma congenita mit normaler FunktionP72.0"
+              },
+              "children": []
+            },
+            {
+              "code": "E03.1",
+              "kind": "category",
+              "label": "Angeborene Hypothyreose ohne Struma",
+              "rubrics": {
+                "preferred": "Angeborene Hypothyreose ohne Struma",
+                "inclusion": "Aplasie der Schilddrüse (mit Myxödem)"
+              },
+              "children": []
+            },
+            {
+              "code": "E03.2",
+              "kind": "category",
+              "label": "Hypothyreose durch Arzneimittel oder andere exogene Substanzen",
+              "rubrics": {
+                "preferred": "Hypothyreose durch Arzneimittel oder andere exogene Substanzen",
+                "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E03.3",
+              "kind": "category",
+              "label": "Postinfektiöse Hypothyreose",
+              "rubrics": {
+                "preferred": "Postinfektiöse Hypothyreose"
+              },
+              "children": []
+            },
+            {
+              "code": "E03.4",
+              "kind": "category",
+              "label": "Atrophie der Schilddrüse (erworben)",
+              "rubrics": {
+                "preferred": "Atrophie der Schilddrüse (erworben)",
+                "exclusion": "Angeborene Atrophie der SchilddrüseE03.1"
+              },
+              "children": []
+            },
+            {
+              "code": "E03.5",
+              "kind": "category",
+              "label": "Myxödemkoma",
+              "rubrics": {
+                "preferred": "Myxödemkoma"
+              },
+              "children": []
+            },
+            {
+              "code": "E03.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Hypothyreose",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Hypothyreose"
+              },
+              "children": []
+            },
+            {
+              "code": "E03.9",
+              "kind": "category",
+              "label": "Hypothyreose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Hypothyreose, nicht näher bezeichnet",
+                "inclusion": "Myxödem o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E04",
+          "kind": "category",
+          "label": "Sonstige nichttoxische Struma",
+          "rubrics": {
+            "preferred": "Sonstige nichttoxische Struma",
+            "exclusion": "Struma congenita:\n\t\t\t\to.n.A.E03.0"
+          },
+          "children": [
+            {
+              "code": "E04.0",
+              "kind": "category",
+              "label": "Nichttoxische diffuse Struma",
+              "rubrics": {
+                "preferred": "Nichttoxische diffuse Struma",
+                "inclusion": "Struma, nichttoxisch:\n\t\t\t\tsimplex"
+              },
+              "children": []
+            },
+            {
+              "code": "E04.1",
+              "kind": "category",
+              "label": "Nichttoxischer solitärer Schilddrüsenknoten",
+              "rubrics": {
+                "preferred": "Nichttoxischer solitärer Schilddrüsenknoten",
+                "inclusion": "Struma nodosa colloides (cystica)"
+              },
+              "children": []
+            },
+            {
+              "code": "E04.2",
+              "kind": "category",
+              "label": "Nichttoxische mehrknotige Struma",
+              "rubrics": {
+                "preferred": "Nichttoxische mehrknotige Struma",
+                "inclusion": "Zystische Struma o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "E04.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete nichttoxische Struma",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete nichttoxische Struma"
+              },
+              "children": []
+            },
+            {
+              "code": "E04.9",
+              "kind": "category",
+              "label": "Nichttoxische Struma, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Nichttoxische Struma, nicht näher bezeichnet",
+                "inclusion": "Struma o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E05",
+          "kind": "category",
+          "label": "Hyperthyreose [Thyreotoxikose]",
+          "rubrics": {
+            "preferred": "Hyperthyreose [Thyreotoxikose]",
+            "inclusion": "Hyperthyreote [thyreotoxische]:\n\t\t\t\tHerzkrankheitI43.8",
+            "exclusion": "Hyperthyreose beim NeugeborenenP72.1"
+          },
+          "children": [
+            {
+              "code": "E05.0",
+              "kind": "category",
+              "label": "Hyperthyreose mit diffuser Struma",
+              "rubrics": {
+                "preferred": "Hyperthyreose mit diffuser Struma",
+                "inclusion": "Toxische Struma o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "E05.1",
+              "kind": "category",
+              "label": "Hyperthyreose mit toxischem solitärem Schilddrüsenknoten",
+              "rubrics": {
+                "preferred": "Hyperthyreose mit toxischem solitärem Schilddrüsenknoten",
+                "inclusion": "Hyperthyreose mit toxischer einknotiger Struma"
+              },
+              "children": []
+            },
+            {
+              "code": "E05.2",
+              "kind": "category",
+              "label": "Hyperthyreose mit toxischer mehrknotiger Struma",
+              "rubrics": {
+                "preferred": "Hyperthyreose mit toxischer mehrknotiger Struma",
+                "inclusion": "Toxische Struma nodosa o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "E05.3",
+              "kind": "category",
+              "label": "Hyperthyreose durch ektopisches Schilddrüsengewebe",
+              "rubrics": {
+                "preferred": "Hyperthyreose durch ektopisches Schilddrüsengewebe"
+              },
+              "children": []
+            },
+            {
+              "code": "E05.4",
+              "kind": "category",
+              "label": "Hyperthyreosis factitia",
+              "rubrics": {
+                "preferred": "Hyperthyreosis factitia"
+              },
+              "children": []
+            },
+            {
+              "code": "E05.5",
+              "kind": "category",
+              "label": "Thyreotoxische Krise",
+              "rubrics": {
+                "preferred": "Thyreotoxische Krise"
+              },
+              "children": []
+            },
+            {
+              "code": "E05.8",
+              "kind": "category",
+              "label": "Sonstige Hyperthyreose",
+              "rubrics": {
+                "preferred": "Sonstige Hyperthyreose",
+                "inclusion": "Überproduktion von Thyreotropin",
+                "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E05.9",
+              "kind": "category",
+              "label": "Hyperthyreose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Hyperthyreose, nicht näher bezeichnet",
+                "inclusion": "Hyperthyreose o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E06",
+          "kind": "category",
+          "label": "Thyreoiditis",
+          "rubrics": {
+            "preferred": "Thyreoiditis",
+            "exclusion": "Postpartale ThyreoiditisO90.5"
+          },
+          "children": [
+            {
+              "code": "E06.0",
+              "kind": "category",
+              "label": "Akute Thyreoiditis",
+              "rubrics": {
+                "preferred": "Akute Thyreoiditis",
+                "inclusion": "Thyreoiditis:\n\t\t\t\tpyogen",
+                "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E06.1",
+              "kind": "category",
+              "label": "Subakute Thyreoiditis",
+              "rubrics": {
+                "preferred": "Subakute Thyreoiditis",
+                "inclusion": "Thyreoiditis:\n\t\t\t\tRiesenzell-",
+                "exclusion": "AutoimmunthyreoiditisE06.3"
+              },
+              "children": []
+            },
+            {
+              "code": "E06.2",
+              "kind": "category",
+              "label": "Chronische Thyreoiditis mit transitorischer Hyperthyreose",
+              "rubrics": {
+                "preferred": "Chronische Thyreoiditis mit transitorischer Hyperthyreose",
+                "exclusion": "AutoimmunthyreoiditisE06.3"
+              },
+              "children": []
+            },
+            {
+              "code": "E06.3",
+              "kind": "category",
+              "label": "Autoimmunthyreoiditis",
+              "rubrics": {
+                "preferred": "Autoimmunthyreoiditis",
+                "inclusion": "Struma lymphomatosa [Hashimoto]"
+              },
+              "children": []
+            },
+            {
+              "code": "E06.4",
+              "kind": "category",
+              "label": "Arzneimittelinduzierte Thyreoiditis",
+              "rubrics": {
+                "preferred": "Arzneimittelinduzierte Thyreoiditis",
+                "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E06.5",
+              "kind": "category",
+              "label": "Sonstige chronische Thyreoiditis",
+              "rubrics": {
+                "preferred": "Sonstige chronische Thyreoiditis",
+                "inclusion": "Thyreoiditis:\n\t\t\t\tRiedel-Struma"
+              },
+              "children": []
+            },
+            {
+              "code": "E06.9",
+              "kind": "category",
+              "label": "Thyreoiditis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Thyreoiditis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E07",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Schilddrüse",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Schilddrüse"
+          },
+          "children": [
+            {
+              "code": "E07.0",
+              "kind": "category",
+              "label": "Hypersekretion von Kalzitonin",
+              "rubrics": {
+                "preferred": "Hypersekretion von Kalzitonin",
+                "inclusion": "Hypersekretion von Thyreokalzitonin"
+              },
+              "children": []
+            },
+            {
+              "code": "E07.1",
+              "kind": "category",
+              "label": "Dyshormogene Struma",
+              "rubrics": {
+                "preferred": "Dyshormogene Struma",
+                "inclusion": "Pendred-Syndrom",
+                "exclusion": "Transitorische Struma congenita mit normaler FunktionP72.0"
+              },
+              "children": []
+            },
+            {
+              "code": "E07.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der Schilddrüse",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der Schilddrüse",
+                "inclusion": "Schilddrüse:\n\t\t\t\tInfarzierung"
+              },
+              "children": []
+            },
+            {
+              "code": "E07.9",
+              "kind": "category",
+              "label": "Krankheit der Schilddrüse, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Schilddrüse, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "E10-E14",
+      "kind": "block",
+      "label": "Diabetes mellitus",
+      "rubrics": {
+        "preferred": "Diabetes mellitus",
+        "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": [
+        {
+          "code": "E10",
+          "kind": "category",
+          "label": "Diabetes mellitus, Typ 1",
+          "rubrics": {
+            "preferred": "Diabetes mellitus, Typ 1",
+            "modifierlink": "[4. und 5. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Diabetes mellitus:\n\t\t\t\tmit Ketoseneigung",
+            "exclusion": "Postoperative Hypoinsulinämie, außer pankreopriver Diabetes mellitusE89.1",
+            "coding-hint": "Soll das Vorliegen einer Insulinresistenz bei Diabetes mellitus, Typ 1, bei Personen von 18 Jahren und älter angegeben werden, ist eine zusätzliche SchlüsselnummerU69.75 zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "E11",
+          "kind": "category",
+          "label": "Diabetes mellitus, Typ 2",
+          "rubrics": {
+            "preferred": "Diabetes mellitus, Typ 2",
+            "modifierlink": "[4. und 5. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Typ-2-Diabetes unter Insulinbehandlung",
+            "exclusion": "Postoperative Hypoinsulinämie, außer pankreopriver Diabetes mellitusE89.1"
+          },
+          "children": []
+        },
+        {
+          "code": "E12",
+          "kind": "category",
+          "label": "Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition]",
+          "rubrics": {
+            "preferred": "Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition]",
+            "modifierlink": "[4. und 5. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition]:\n\t\t\t\tTyp 2",
+            "exclusion": "Postoperative Hypoinsulinämie, außer pankreopriver Diabetes mellitusE89.1"
+          },
+          "children": []
+        },
+        {
+          "code": "E13",
+          "kind": "category",
+          "label": "Sonstiger näher bezeichneter Diabetes mellitus",
+          "rubrics": {
+            "preferred": "Sonstiger näher bezeichneter Diabetes mellitus",
+            "modifierlink": "[4. und 5. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Pankreopriver Diabetes mellitus",
+            "exclusion": "Postoperative Hypoinsulinämie, außer pankreopriver Diabetes mellitusE89.1"
+          },
+          "children": []
+        },
+        {
+          "code": "E14",
+          "kind": "category",
+          "label": "Nicht näher bezeichneter Diabetes mellitus",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichneter Diabetes mellitus",
+            "modifierlink": "[4. und 5. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Diabetes mellitus o.n.A.",
+            "exclusion": "Postoperative Hypoinsulinämie, außer pankreopriver Diabetes mellitusE89.1"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "E15-E16",
+      "kind": "block",
+      "label": "Sonstige Störungen der Blutglukose-Regulation und der inneren Sekretion des Pankreas",
+      "rubrics": {
+        "preferred": "Sonstige Störungen der Blutglukose-Regulation und der inneren Sekretion des Pankreas"
+      },
+      "children": [
+        {
+          "code": "E15",
+          "kind": "category",
+          "label": "Hypoglykämisches Koma, nichtdiabetisch",
+          "rubrics": {
+            "preferred": "Hypoglykämisches Koma, nichtdiabetisch",
+            "inclusion": "Hypoglykämisches Koma o.n.A.",
+            "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "E16",
+          "kind": "category",
+          "label": "Sonstige Störungen der inneren Sekretion des Pankreas",
+          "rubrics": {
+            "preferred": "Sonstige Störungen der inneren Sekretion des Pankreas"
+          },
+          "children": [
+            {
+              "code": "E16.0",
+              "kind": "category",
+              "label": "Arzneimittelinduzierte Hypoglykämie ohne Koma",
+              "rubrics": {
+                "preferred": "Arzneimittelinduzierte Hypoglykämie ohne Koma",
+                "coding-hint": "Soll der Schweregrad einer Hypoglykämie angegeben werden, ist eine zusätzliche SchlüsselnummerU69.70U69.71U69.72 zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E16.1",
+              "kind": "category",
+              "label": "Sonstige Hypoglykämie",
+              "rubrics": {
+                "preferred": "Sonstige Hypoglykämie",
+                "inclusion": "Hyperplasie der Betazellen der Langerhans-Inseln o.n.A.",
+                "coding-hint": "Soll der Schweregrad einer Hypoglykämie angegeben werden, ist eine zusätzliche SchlüsselnummerU69.70U69.71U69.72 zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E16.2",
+              "kind": "category",
+              "label": "Hypoglykämie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Hypoglykämie, nicht näher bezeichnet",
+                "coding-hint": "Soll der Schweregrad einer Hypoglykämie angegeben werden, ist eine zusätzliche SchlüsselnummerU69.70U69.71U69.72 zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E16.3",
+              "kind": "category",
+              "label": "Erhöhte Glukagonsekretion",
+              "rubrics": {
+                "preferred": "Erhöhte Glukagonsekretion",
+                "inclusion": "Hyperplasie des endokrinen Drüsenanteils des Pankreas mit Glukagonüberproduktion"
+              },
+              "children": []
+            },
+            {
+              "code": "E16.4",
+              "kind": "category",
+              "label": "Abnorme Gastrinsekretion",
+              "rubrics": {
+                "preferred": "Abnorme Gastrinsekretion",
+                "inclusion": "Zollinger-Ellison-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E16.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Störungen der inneren Sekretion des Pankreas",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Störungen der inneren Sekretion des Pankreas",
+                "inclusion": "Erhöhte Sekretion von:\n\t\t\t\tvasoaktivem gastrointestinalem Polypeptid\n\t\t\t\taus dem endokrinen Drüsenanteil des Pankreas",
+                "coding-hint": "Soll der Schweregrad einer Hypoglykämie angegeben werden, ist eine zusätzliche SchlüsselnummerU69.70U69.71U69.72 zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E16.9",
+              "kind": "category",
+              "label": "Störung der inneren Sekretion des Pankreas, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung der inneren Sekretion des Pankreas, nicht näher bezeichnet",
+                "inclusion": "Inselzellhyperplasie o.n.A.",
+                "coding-hint": "Soll der Schweregrad einer Hypoglykämie angegeben werden, ist eine zusätzliche SchlüsselnummerU69.70U69.71U69.72 zu benutzen."
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "E20-E35",
+      "kind": "block",
+      "label": "Krankheiten sonstiger endokriner Drüsen",
+      "rubrics": {
+        "preferred": "Krankheiten sonstiger endokriner Drüsen",
+        "exclusion": "GynäkomastieN62"
+      },
+      "children": [
+        {
+          "code": "E20",
+          "kind": "category",
+          "label": "Hypoparathyreoidismus",
+          "rubrics": {
+            "preferred": "Hypoparathyreoidismus",
+            "exclusion": "Transitorischer Hypoparathyreoidismus beim NeugeborenenP71.4"
+          },
+          "children": [
+            {
+              "code": "E20.0",
+              "kind": "category",
+              "label": "Idiopathischer Hypoparathyreoidismus",
+              "rubrics": {
+                "preferred": "Idiopathischer Hypoparathyreoidismus"
+              },
+              "children": []
+            },
+            {
+              "code": "E20.1",
+              "kind": "category",
+              "label": "Pseudohypoparathyreoidismus",
+              "rubrics": {
+                "preferred": "Pseudohypoparathyreoidismus"
+              },
+              "children": []
+            },
+            {
+              "code": "E20.8",
+              "kind": "category",
+              "label": "Sonstiger Hypoparathyreoidismus",
+              "rubrics": {
+                "preferred": "Sonstiger Hypoparathyreoidismus"
+              },
+              "children": []
+            },
+            {
+              "code": "E20.9",
+              "kind": "category",
+              "label": "Hypoparathyreoidismus, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Hypoparathyreoidismus, nicht näher bezeichnet",
+                "inclusion": "Parathyreogene Tetanie"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E21",
+          "kind": "category",
+          "label": "Hyperparathyreoidismus und sonstige Krankheiten der Nebenschilddrüse",
+          "rubrics": {
+            "preferred": "Hyperparathyreoidismus und sonstige Krankheiten der Nebenschilddrüse",
+            "exclusion": "Osteomalazie:\n\t\t\t\tim Kindes- und JugendalterE55.0"
+          },
+          "children": [
+            {
+              "code": "E21.0",
+              "kind": "category",
+              "label": "Primärer Hyperparathyreoidismus",
+              "rubrics": {
+                "preferred": "Primärer Hyperparathyreoidismus",
+                "inclusion": "Osteodystrophia fibrosa cystica generalisata [von-Recklinghausen-Krankheit des Knochens]"
+              },
+              "children": []
+            },
+            {
+              "code": "E21.1",
+              "kind": "category",
+              "label": "Sekundärer Hyperparathyreoidismus, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sekundärer Hyperparathyreoidismus, anderenorts nicht klassifiziert",
+                "exclusion": "Sekundärer Hyperparathyreoidismus renalen UrsprungsN25.8"
+              },
+              "children": []
+            },
+            {
+              "code": "E21.2",
+              "kind": "category",
+              "label": "Sonstiger Hyperparathyreoidismus",
+              "rubrics": {
+                "preferred": "Sonstiger Hyperparathyreoidismus",
+                "inclusion": "Tertiärer Hyperparathyreoidismus",
+                "exclusion": "Familiäre hypokalziurische Hyperkalziämie E83.58"
+              },
+              "children": []
+            },
+            {
+              "code": "E21.3",
+              "kind": "category",
+              "label": "Hyperparathyreoidismus, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Hyperparathyreoidismus, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "E21.4",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der Nebenschilddrüse",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der Nebenschilddrüse"
+              },
+              "children": []
+            },
+            {
+              "code": "E21.5",
+              "kind": "category",
+              "label": "Krankheit der Nebenschilddrüse, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Nebenschilddrüse, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E22",
+          "kind": "category",
+          "label": "Überfunktion der Hypophyse",
+          "rubrics": {
+            "preferred": "Überfunktion der Hypophyse",
+            "exclusion": "Überproduktion von:\n\t\t\t\tThyreotropinE05.8"
+          },
+          "children": [
+            {
+              "code": "E22.0",
+              "kind": "category",
+              "label": "Akromegalie und hypophysärer Hochwuchs",
+              "rubrics": {
+                "preferred": "Akromegalie und hypophysärer Hochwuchs",
+                "inclusion": "Überproduktion von Somatotropin [Wachstumshormon]",
+                "exclusion": "Konstitutioneller HochwuchsE34.4"
+              },
+              "children": []
+            },
+            {
+              "code": "E22.1",
+              "kind": "category",
+              "label": "Hyperprolaktinämie",
+              "rubrics": {
+                "preferred": "Hyperprolaktinämie",
+                "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E22.2",
+              "kind": "category",
+              "label": "Syndrom der inadäquaten Sekretion von Adiuretin",
+              "rubrics": {
+                "preferred": "Syndrom der inadäquaten Sekretion von Adiuretin"
+              },
+              "children": []
+            },
+            {
+              "code": "E22.8",
+              "kind": "category",
+              "label": "Sonstige Überfunktion der Hypophyse",
+              "rubrics": {
+                "preferred": "Sonstige Überfunktion der Hypophyse",
+                "inclusion": "Zentral ausgelöste Pubertas praecox"
+              },
+              "children": []
+            },
+            {
+              "code": "E22.9",
+              "kind": "category",
+              "label": "Überfunktion der Hypophyse, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Überfunktion der Hypophyse, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E23",
+          "kind": "category",
+          "label": "Unterfunktion und andere Störungen der Hypophyse",
+          "rubrics": {
+            "preferred": "Unterfunktion und andere Störungen der Hypophyse",
+            "inclusion": "Aufgeführte Zustände, unabhängig davon, ob die Störung in der Hypophyse oder im Hypothalamus liegt.",
+            "exclusion": "Hypopituitarismus nach medizinischen MaßnahmenE89.3"
+          },
+          "children": [
+            {
+              "code": "E23.0",
+              "kind": "category",
+              "label": "Hypopituitarismus",
+              "rubrics": {
+                "preferred": "Hypopituitarismus",
+                "inclusion": "Simmonds-Sheehan-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E23.1",
+              "kind": "category",
+              "label": "Arzneimittelinduzierter Hypopituitarismus",
+              "rubrics": {
+                "preferred": "Arzneimittelinduzierter Hypopituitarismus",
+                "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E23.2",
+              "kind": "category",
+              "label": "Diabetes insipidus",
+              "rubrics": {
+                "preferred": "Diabetes insipidus",
+                "exclusion": "Renaler Diabetes insipidusN25.1"
+              },
+              "children": []
+            },
+            {
+              "code": "E23.3",
+              "kind": "category",
+              "label": "Hypothalamische Dysfunktion, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Hypothalamische Dysfunktion, anderenorts nicht klassifiziert",
+                "exclusion": "Silver-Russell-SyndromQ87.1"
+              },
+              "children": []
+            },
+            {
+              "code": "E23.6",
+              "kind": "category",
+              "label": "Sonstige Störungen der Hypophyse",
+              "rubrics": {
+                "preferred": "Sonstige Störungen der Hypophyse",
+                "inclusion": "Dystrophia adiposogenitalis"
+              },
+              "children": []
+            },
+            {
+              "code": "E23.7",
+              "kind": "category",
+              "label": "Störung der Hypophyse, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung der Hypophyse, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E24",
+          "kind": "category",
+          "label": "Cushing-Syndrom",
+          "rubrics": {
+            "preferred": "Cushing-Syndrom"
+          },
+          "children": [
+            {
+              "code": "E24.0",
+              "kind": "category",
+              "label": "Hypophysäres Cushing-Syndrom",
+              "rubrics": {
+                "preferred": "Hypophysäres Cushing-Syndrom",
+                "inclusion": "Überproduktion von ACTH der Adenohypophyse"
+              },
+              "children": []
+            },
+            {
+              "code": "E24.1",
+              "kind": "category",
+              "label": "Nelson-Tumor",
+              "rubrics": {
+                "preferred": "Nelson-Tumor"
+              },
+              "children": []
+            },
+            {
+              "code": "E24.2",
+              "kind": "category",
+              "label": "Arzneimittelinduziertes Cushing-Syndrom",
+              "rubrics": {
+                "preferred": "Arzneimittelinduziertes Cushing-Syndrom",
+                "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E24.3",
+              "kind": "category",
+              "label": "Ektopisches ACTH-Syndrom",
+              "rubrics": {
+                "preferred": "Ektopisches ACTH-Syndrom",
+                "inclusion": "Cushing-Syndrom als Folge von ektopischem ACTH-bildendem Tumor"
+              },
+              "children": []
+            },
+            {
+              "code": "E24.4",
+              "kind": "category",
+              "label": "Alkoholinduziertes Pseudo-Cushing-Syndrom",
+              "rubrics": {
+                "preferred": "Alkoholinduziertes Pseudo-Cushing-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E24.8",
+              "kind": "category",
+              "label": "Sonstiges Cushing-Syndrom",
+              "rubrics": {
+                "preferred": "Sonstiges Cushing-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E24.9",
+              "kind": "category",
+              "label": "Cushing-Syndrom, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Cushing-Syndrom, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E25",
+          "kind": "category",
+          "label": "Adrenogenitale Störungen",
+          "rubrics": {
+            "preferred": "Adrenogenitale Störungen",
+            "inclusion": "Virilisierung (bei der Frau)"
+          },
+          "children": [
+            {
+              "code": "E25.0",
+              "kind": "category",
+              "label": "Angeborene adrenogenitale Störungen in Verbindung mit Enzymmangel",
+              "rubrics": {
+                "preferred": "Angeborene adrenogenitale Störungen in Verbindung mit Enzymmangel",
+                "inclusion": "Angeborenes adrenogenitales Salzverlustsyndrom"
+              },
+              "children": [
+                {
+                  "code": "E25.00",
+                  "kind": "category",
+                  "label": "21-Hydroxylase-Mangel [AGS Typ 3], klassische Form",
+                  "rubrics": {
+                    "preferred": "21-Hydroxylase-Mangel [AGS Typ 3], klassische Form"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E25.01",
+                  "kind": "category",
+                  "label": "21-Hydroxylase-Mangel [AGS Typ 3], Late-onset-Form",
+                  "rubrics": {
+                    "preferred": "21-Hydroxylase-Mangel [AGS Typ 3], Late-onset-Form"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E25.08",
+                  "kind": "category",
+                  "label": "Sonstige angeborene adrenogenitale Störungen in Verbindung mit Enzymmangel",
+                  "rubrics": {
+                    "preferred": "Sonstige angeborene adrenogenitale Störungen in Verbindung mit Enzymmangel"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E25.09",
+                  "kind": "category",
+                  "label": "Angeborene adrenogenitale Störung in Verbindung mit Enzymmangel, nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Angeborene adrenogenitale Störung in Verbindung mit Enzymmangel, nicht näher bezeichnet"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "E25.8",
+              "kind": "category",
+              "label": "Sonstige adrenogenitale Störungen",
+              "rubrics": {
+                "preferred": "Sonstige adrenogenitale Störungen",
+                "inclusion": "Idiopathische adrenogenitale Störung",
+                "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E25.9",
+              "kind": "category",
+              "label": "Adrenogenitale Störung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Adrenogenitale Störung, nicht näher bezeichnet",
+                "inclusion": "Adrenogenitales Syndrom o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E26",
+          "kind": "category",
+          "label": "Hyperaldosteronismus",
+          "rubrics": {
+            "preferred": "Hyperaldosteronismus"
+          },
+          "children": [
+            {
+              "code": "E26.0",
+              "kind": "category",
+              "label": "Primärer Hyperaldosteronismus",
+              "rubrics": {
+                "preferred": "Primärer Hyperaldosteronismus",
+                "inclusion": "Primärer Aldosteronismus durch Nebennierenrindenhyperplasie (beidseitig)"
+              },
+              "children": []
+            },
+            {
+              "code": "E26.1",
+              "kind": "category",
+              "label": "Sekundärer Hyperaldosteronismus",
+              "rubrics": {
+                "preferred": "Sekundärer Hyperaldosteronismus"
+              },
+              "children": []
+            },
+            {
+              "code": "E26.8",
+              "kind": "category",
+              "label": "Sonstiger Hyperaldosteronismus",
+              "rubrics": {
+                "preferred": "Sonstiger Hyperaldosteronismus",
+                "inclusion": "Bartter-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E26.9",
+              "kind": "category",
+              "label": "Hyperaldosteronismus, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Hyperaldosteronismus, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E27",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Nebenniere",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Nebenniere"
+          },
+          "children": [
+            {
+              "code": "E27.0",
+              "kind": "category",
+              "label": "Sonstige Nebennierenrindenüberfunktion",
+              "rubrics": {
+                "preferred": "Sonstige Nebennierenrindenüberfunktion",
+                "inclusion": "Vorzeitige Adrenarche",
+                "exclusion": "Cushing-SyndromE24.-"
+              },
+              "children": []
+            },
+            {
+              "code": "E27.1",
+              "kind": "category",
+              "label": "Primäre Nebennierenrindeninsuffizienz",
+              "rubrics": {
+                "preferred": "Primäre Nebennierenrindeninsuffizienz",
+                "inclusion": "Autoimmunadrenalitis",
+                "exclusion": "Waterhouse-Friderichsen-SyndromA39.1"
+              },
+              "children": []
+            },
+            {
+              "code": "E27.2",
+              "kind": "category",
+              "label": "Addison-Krise",
+              "rubrics": {
+                "preferred": "Addison-Krise",
+                "inclusion": "Nebennierenrinden-Krise"
+              },
+              "children": []
+            },
+            {
+              "code": "E27.3",
+              "kind": "category",
+              "label": "Arzneimittelinduzierte Nebennierenrindeninsuffizienz",
+              "rubrics": {
+                "preferred": "Arzneimittelinduzierte Nebennierenrindeninsuffizienz",
+                "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E27.4",
+              "kind": "category",
+              "label": "Sonstige und nicht näher bezeichnete Nebennierenrindeninsuffizienz",
+              "rubrics": {
+                "preferred": "Sonstige und nicht näher bezeichnete Nebennierenrindeninsuffizienz",
+                "inclusion": "Nebennierenrindeninsuffizienz o.n.A.",
+                "exclusion": "Waterhouse-Friderichsen-SyndromA39.1"
+              },
+              "children": []
+            },
+            {
+              "code": "E27.5",
+              "kind": "category",
+              "label": "Nebennierenmarküberfunktion",
+              "rubrics": {
+                "preferred": "Nebennierenmarküberfunktion",
+                "inclusion": "Nebennierenmarkhyperplasie"
+              },
+              "children": []
+            },
+            {
+              "code": "E27.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der Nebenniere",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der Nebenniere",
+                "inclusion": "Abnormität des kortisolbindenden Globulins [Transcortin]"
+              },
+              "children": []
+            },
+            {
+              "code": "E27.9",
+              "kind": "category",
+              "label": "Krankheit der Nebenniere, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Nebenniere, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E28",
+          "kind": "category",
+          "label": "Ovarielle Dysfunktion",
+          "rubrics": {
+            "preferred": "Ovarielle Dysfunktion",
+            "exclusion": "Ovarialinsuffizienz nach medizinischen MaßnahmenE89.4"
+          },
+          "children": [
+            {
+              "code": "E28.0",
+              "kind": "category",
+              "label": "Östrogenüberschuss",
+              "rubrics": {
+                "preferredLong": "Ovarielle Dysfunktion: Östrogenüberschuss",
+                "preferred": "Östrogenüberschuss",
+                "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E28.1",
+              "kind": "category",
+              "label": "Androgenüberschuss",
+              "rubrics": {
+                "preferredLong": "Ovarielle Dysfunktion: Androgenüberschuss",
+                "preferred": "Androgenüberschuss",
+                "inclusion": "Hypersekretion ovarieller Androgene",
+                "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E28.2",
+              "kind": "category",
+              "label": "Syndrom polyzystischer Ovarien",
+              "rubrics": {
+                "preferred": "Syndrom polyzystischer Ovarien",
+                "inclusion": "Syndrom sklerozystischer Ovarien"
+              },
+              "children": []
+            },
+            {
+              "code": "E28.3",
+              "kind": "category",
+              "label": "Primäre Ovarialinsuffizienz",
+              "rubrics": {
+                "preferred": "Primäre Ovarialinsuffizienz",
+                "inclusion": "Vorzeitige Menopause o.n.A.",
+                "exclusion": "Turner-SyndromQ96.-"
+              },
+              "children": []
+            },
+            {
+              "code": "E28.8",
+              "kind": "category",
+              "label": "Sonstige ovarielle Dysfunktion",
+              "rubrics": {
+                "preferred": "Sonstige ovarielle Dysfunktion",
+                "inclusion": "Ovarielle Überfunktion o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "E28.9",
+              "kind": "category",
+              "label": "Ovarielle Dysfunktion, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Ovarielle Dysfunktion, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E29",
+          "kind": "category",
+          "label": "Testikuläre Dysfunktion",
+          "rubrics": {
+            "preferred": "Testikuläre Dysfunktion",
+            "exclusion": "Testikuläre Unterfunktion nach medizinischen MaßnahmenE89.5"
+          },
+          "children": [
+            {
+              "code": "E29.0",
+              "kind": "category",
+              "label": "Testikuläre Überfunktion",
+              "rubrics": {
+                "preferred": "Testikuläre Überfunktion",
+                "inclusion": "Hypersekretion von testikulären Hormonen"
+              },
+              "children": []
+            },
+            {
+              "code": "E29.1",
+              "kind": "category",
+              "label": "Testikuläre Unterfunktion",
+              "rubrics": {
+                "preferred": "Testikuläre Unterfunktion",
+                "inclusion": "5-Alpha-Reduktase-Mangel (mit Pseudohermaphroditismus masculinus)",
+                "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E29.8",
+              "kind": "category",
+              "label": "Sonstige testikuläre Dysfunktion",
+              "rubrics": {
+                "preferred": "Sonstige testikuläre Dysfunktion"
+              },
+              "children": []
+            },
+            {
+              "code": "E29.9",
+              "kind": "category",
+              "label": "Testikuläre Dysfunktion, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Testikuläre Dysfunktion, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E30",
+          "kind": "category",
+          "label": "Pubertätsstörungen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Pubertätsstörungen, anderenorts nicht klassifiziert"
+          },
+          "children": [
+            {
+              "code": "E30.0",
+              "kind": "category",
+              "label": "Verzögerte Pubertät [Pubertas tarda]",
+              "rubrics": {
+                "preferred": "Verzögerte Pubertät [Pubertas tarda]",
+                "inclusion": "Verzögerte sexuelle Entwicklung"
+              },
+              "children": []
+            },
+            {
+              "code": "E30.1",
+              "kind": "category",
+              "label": "Vorzeitige Pubertät [Pubertas praecox]",
+              "rubrics": {
+                "preferred": "Vorzeitige Pubertät [Pubertas praecox]",
+                "inclusion": "Vorzeitige Menarche",
+                "exclusion": "Zentral ausgelöste Pubertas praecoxE22.8"
+              },
+              "children": []
+            },
+            {
+              "code": "E30.8",
+              "kind": "category",
+              "label": "Sonstige Pubertätsstörungen",
+              "rubrics": {
+                "preferred": "Sonstige Pubertätsstörungen",
+                "inclusion": "Vorzeitige Thelarche"
+              },
+              "children": []
+            },
+            {
+              "code": "E30.9",
+              "kind": "category",
+              "label": "Pubertätsstörung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Pubertätsstörung, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E31",
+          "kind": "category",
+          "label": "Polyglanduläre Dysfunktion",
+          "rubrics": {
+            "preferred": "Polyglanduläre Dysfunktion",
+            "exclusion": "PseudohypoparathyreoidismusE20.1"
+          },
+          "children": [
+            {
+              "code": "E31.0",
+              "kind": "category",
+              "label": "Autoimmune polyglanduläre Insuffizienz",
+              "rubrics": {
+                "preferred": "Autoimmune polyglanduläre Insuffizienz",
+                "inclusion": "Schmidt-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E31.1",
+              "kind": "category",
+              "label": "Polyglanduläre Überfunktion",
+              "rubrics": {
+                "preferred": "Polyglanduläre Überfunktion",
+                "exclusion": "Multiple endokrine AdenomatoseD44.8"
+              },
+              "children": []
+            },
+            {
+              "code": "E31.8",
+              "kind": "category",
+              "label": "Sonstige polyglanduläre Dysfunktion",
+              "rubrics": {
+                "preferred": "Sonstige polyglanduläre Dysfunktion"
+              },
+              "children": []
+            },
+            {
+              "code": "E31.9",
+              "kind": "category",
+              "label": "Polyglanduläre Dysfunktion, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Polyglanduläre Dysfunktion, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E32",
+          "kind": "category",
+          "label": "Krankheiten des Thymus",
+          "rubrics": {
+            "preferred": "Krankheiten des Thymus",
+            "exclusion": "Myasthenia gravisG70.0"
+          },
+          "children": [
+            {
+              "code": "E32.0",
+              "kind": "category",
+              "label": "Persistierende Thymushyperplasie",
+              "rubrics": {
+                "preferred": "Persistierende Thymushyperplasie",
+                "inclusion": "Thymushypertrophie"
+              },
+              "children": []
+            },
+            {
+              "code": "E32.1",
+              "kind": "category",
+              "label": "Abszess des Thymus",
+              "rubrics": {
+                "preferred": "Abszess des Thymus"
+              },
+              "children": []
+            },
+            {
+              "code": "E32.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten des Thymus",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten des Thymus"
+              },
+              "children": []
+            },
+            {
+              "code": "E32.9",
+              "kind": "category",
+              "label": "Krankheit des Thymus, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit des Thymus, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E34",
+          "kind": "category",
+          "label": "Sonstige endokrine Störungen",
+          "rubrics": {
+            "preferred": "Sonstige endokrine Störungen",
+            "exclusion": "PseudohypoparathyreoidismusE20.1"
+          },
+          "children": [
+            {
+              "code": "E34.0",
+              "kind": "category",
+              "label": "Karzinoid-Syndrom",
+              "rubrics": {
+                "preferred": "Karzinoid-Syndrom",
+                "note": "Kann als zusätzliche Schlüsselnummer angegeben werden, um die mit einem Karzinoid zusammenhängende funktionelle Aktivität auszuweisen."
+              },
+              "children": []
+            },
+            {
+              "code": "E34.1",
+              "kind": "category",
+              "label": "Sonstige Hypersekretion intestinaler Hormone",
+              "rubrics": {
+                "preferred": "Sonstige Hypersekretion intestinaler Hormone"
+              },
+              "children": []
+            },
+            {
+              "code": "E34.2",
+              "kind": "category",
+              "label": "Ektopische Hormonsekretion, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Ektopische Hormonsekretion, anderenorts nicht klassifiziert"
+              },
+              "children": []
+            },
+            {
+              "code": "E34.3",
+              "kind": "category",
+              "label": "Kleinwuchs, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Kleinwuchs, anderenorts nicht klassifiziert",
+                "inclusion": "Kleinwuchs:\n\t\t\t\to.n.A.",
+                "exclusion": "Silver-Russell-SyndromQ87.1"
+              },
+              "children": []
+            },
+            {
+              "code": "E34.4",
+              "kind": "category",
+              "label": "Konstitutioneller Hochwuchs",
+              "rubrics": {
+                "preferred": "Konstitutioneller Hochwuchs"
+              },
+              "children": []
+            },
+            {
+              "code": "E34.5",
+              "kind": "category",
+              "label": "Androgenresistenz-Syndrom",
+              "rubrics": {
+                "preferred": "Androgenresistenz-Syndrom",
+                "inclusion": "Pseudohermaphroditismus masculinus mit Androgenresistenz"
+              },
+              "children": [
+                {
+                  "code": "E34.50",
+                  "kind": "category",
+                  "label": "Partielles Androgenresistenz-Syndrom",
+                  "rubrics": {
+                    "preferred": "Partielles Androgenresistenz-Syndrom",
+                    "inclusion": "Reifenstein-Syndrom"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E34.51",
+                  "kind": "category",
+                  "label": "Komplettes Androgenresistenz-Syndrom",
+                  "rubrics": {
+                    "preferred": "Komplettes Androgenresistenz-Syndrom",
+                    "inclusion": "Testikuläre Feminisierung (Syndrom)"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E34.59",
+                  "kind": "category",
+                  "label": "Androgenresistenz-Syndrom, nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Androgenresistenz-Syndrom, nicht näher bezeichnet"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "E34.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete endokrine Störungen",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete endokrine Störungen",
+                "inclusion": "Progerie"
+              },
+              "children": []
+            },
+            {
+              "code": "E34.9",
+              "kind": "category",
+              "label": "Endokrine Störung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Endokrine Störung, nicht näher bezeichnet",
+                "inclusion": "Hormonelle Störung o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E35",
+          "kind": "category",
+          "label": "Störungen der endokrinen Drüsen bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Störungen der endokrinen Drüsen bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "E35.0",
+              "kind": "category",
+              "label": "Krankheiten der Schilddrüse bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Krankheiten der Schilddrüse bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Tuberkulose der SchilddrüseA18.8"
+              },
+              "children": []
+            },
+            {
+              "code": "E35.1",
+              "kind": "category",
+              "label": "Krankheiten der Nebennieren bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Krankheiten der Nebennieren bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Waterhouse-Friderichsen-Syndrom (durch Meningokokken)A39.1"
+              },
+              "children": []
+            },
+            {
+              "code": "E35.8",
+              "kind": "category",
+              "label": "Krankheiten sonstiger endokriner Drüsen bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Krankheiten sonstiger endokriner Drüsen bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "E40-E46",
+      "kind": "block",
+      "label": "Mangelernährung",
+      "rubrics": {
+        "preferred": "Mangelernährung",
+        "note": "Der Grad der Unterernährung wird gewöhnlich mittels des Gewichtes ermittelt und in Standardabweichungen vom Mittelwert der entsprechenden Bezugspopulation dargestellt. Liegen eine oder mehrere vorausgegangene Messungen vor, so ist eine fehlende Gewichtszunahme bei Kindern bzw. eine Gewichtsabnahme bei Kindern oder Erwachsenen in der Regel ein Anzeichen für eine Mangelernährung.\n\t\t\t\tLiegt nur eine Messung vor, so stützt sich die Diagnose auf Annahmen und ist ohne weitere klinische Befunde oder Laborergebnisse nicht endgültig. In jenen außergewöhnlichen Fällen, bei denen kein Gewichtswert vorliegt, sollte man sich auf klinische Befunde verlassen. Bei Gewichtswerten unterhalb des Mittelwertes der Bezugspopulation besteht mit hoher Wahrscheinlichkeit dann eine erhebliche Unterernährung, wenn der Messwert 3 oder mehr Standardabweichungen unter dem Mittelwert der Bezugspopulation liegt; mit hoher Wahrscheinlichkeit eine mäßige Unterernährung, wenn der Messwert zwischen 2 und weniger als 3 Standardabweichungen unter diesem Mittelwert liegt, und mit hoher Wahrscheinlichkeit eine leichte Unterernährung, wenn der Messwert zwischen 1 und weniger als 2 Standardabweichungen unter diesem Mittelwert liegt.",
+        "exclusion": "Kachexie infolge HIV-Krankheit [Slim disease]B22"
+      },
+      "children": [
+        {
+          "code": "E40",
+          "kind": "category",
+          "label": "Kwashiorkor",
+          "rubrics": {
+            "preferred": "Kwashiorkor",
+            "exclusion": "Kwashiorkor-Marasmus E42",
+            "definition": "Erhebliche Mangelernährung mit alimentärem Ödem und Pigmentstörung der Haut und der Haare"
+          },
+          "children": []
+        },
+        {
+          "code": "E41",
+          "kind": "category",
+          "label": "Alimentärer Marasmus",
+          "rubrics": {
+            "preferred": "Alimentärer Marasmus",
+            "inclusion": "Erhebliche Mangelernährung mit Marasmus",
+            "exclusion": "Kwashiorkor-MarasmusE42"
+          },
+          "children": []
+        },
+        {
+          "code": "E42",
+          "kind": "category",
+          "label": "Kwashiorkor-Marasmus",
+          "rubrics": {
+            "preferred": "Kwashiorkor-Marasmus",
+            "inclusion": "Erhebliche Energie- und Eiweißmangelernährung [wie unter E43 aufgeführt]:\n\t\t\t\tmit Anzeichen von Kwashiorkor und Marasmus gleichzeitig"
+          },
+          "children": []
+        },
+        {
+          "code": "E43",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete erhebliche Energie- und Eiweißmangelernährung",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete erhebliche Energie- und Eiweißmangelernährung",
+            "definition": "Erheblicher Gewichtsverlust [Unterernährung] [Kachexie] bei Kindern oder Erwachsenen oder fehlende Gewichtszunahme bei Kindern, die zu einem Gewichtswert führen, der mindestens 3 Standardabweichungen unter dem Mittelwert der Bezugspopulation liegt (oder eine ähnliche Abweichung in anderen statistischen Verteilungen). Wenn nur eine Gewichtsmessung vorliegt, besteht mit hoher Wahrscheinlichkeit eine erhebliche Unterernährung, wenn der Gewichtswert 3 oder mehr Standardabweichungen unter dem Mittelwert der Bezugspopulation liegt.",
+            "inclusion": "Hungerödem"
+          },
+          "children": []
+        },
+        {
+          "code": "E44",
+          "kind": "category",
+          "label": "Energie- und Eiweißmangelernährung mäßigen und leichten Grades",
+          "rubrics": {
+            "preferred": "Energie- und Eiweißmangelernährung mäßigen und leichten Grades"
+          },
+          "children": [
+            {
+              "code": "E44.0",
+              "kind": "category",
+              "label": "Mäßige Energie- und Eiweißmangelernährung",
+              "rubrics": {
+                "preferred": "Mäßige Energie- und Eiweißmangelernährung",
+                "definition": "Gewichtsverlust bei Kindern oder Erwachsenen oder fehlende Gewichtszunahme bei Kindern, die zu einem Gewichtswert führen, der 2 oder mehr, aber weniger als 3 Standardabweichungen unter dem Mittelwert der Bezugspopulation liegt (oder einer ähnlichen Abweichung in anderen statistischen Verteilungen). Wenn nur eine Gewichtsmessung vorliegt, besteht mit hoher Wahrscheinlichkeit eine mäßige Energie- und Eiweißmangelernährung, wenn der Gewichtswert 2 oder mehr, aber weniger als 3 Standardabweichungen unter dem Mittelwert der Bezugspopulation liegt."
+              },
+              "children": []
+            },
+            {
+              "code": "E44.1",
+              "kind": "category",
+              "label": "Leichte Energie- und Eiweißmangelernährung",
+              "rubrics": {
+                "preferred": "Leichte Energie- und Eiweißmangelernährung",
+                "definition": "Gewichtsverlust bei Kindern oder Erwachsenen oder fehlende Gewichtszunahme bei Kindern, die zu einem Gewichtswert führen, der 1 oder mehr, aber weniger als 2 Standardabweichungen unter dem Mittelwert der Bezugspopulation liegt (oder einer ähnlichen Abweichung in anderen statistischen Verteilungen). Wenn nur eine Gewichtsmessung vorliegt, besteht mit hoher Wahrscheinlichkeit eine leichte Energie- und Eiweißmangelernährung, wenn der Gewichtswert 1 oder mehr, aber weniger als 2 Standardabweichungen unter dem Mittelwert der Bezugspopulation liegt."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E45",
+          "kind": "category",
+          "label": "Entwicklungsverzögerung durch Energie- und Eiweißmangelernährung",
+          "rubrics": {
+            "preferred": "Entwicklungsverzögerung durch Energie- und Eiweißmangelernährung",
+            "inclusion": "Körperliche Retardation durch Mangelernährung"
+          },
+          "children": []
+        },
+        {
+          "code": "E46",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Energie- und Eiweißmangelernährung",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Energie- und Eiweißmangelernährung",
+            "inclusion": "Störung der Protein-Energie-Balance o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "E50-E64",
+      "kind": "block",
+      "label": "Sonstige alimentäre Mangelzustände",
+      "rubrics": {
+        "preferred": "Sonstige alimentäre Mangelzustände",
+        "exclusion": "Alimentäre AnämienD50-D53"
+      },
+      "children": [
+        {
+          "code": "E50",
+          "kind": "category",
+          "label": "Vitamin-A-Mangel",
+          "rubrics": {
+            "preferred": "Vitamin-A-Mangel",
+            "exclusion": "Folgen des Vitamin-A-MangelsE64.1"
+          },
+          "children": [
+            {
+              "code": "E50.0",
+              "kind": "category",
+              "label": "Vitamin-A-Mangel mit Xerosis conjunctivae",
+              "rubrics": {
+                "preferred": "Vitamin-A-Mangel mit Xerosis conjunctivae"
+              },
+              "children": []
+            },
+            {
+              "code": "E50.1",
+              "kind": "category",
+              "label": "Vitamin-A-Mangel mit Bitot-Flecken und Xerosis conjunctivae",
+              "rubrics": {
+                "preferred": "Vitamin-A-Mangel mit Bitot-Flecken und Xerosis conjunctivae",
+                "inclusion": "Bitot-Flecke beim Kleinkind"
+              },
+              "children": []
+            },
+            {
+              "code": "E50.2",
+              "kind": "category",
+              "label": "Vitamin-A-Mangel mit Hornhautxerose",
+              "rubrics": {
+                "preferred": "Vitamin-A-Mangel mit Hornhautxerose"
+              },
+              "children": []
+            },
+            {
+              "code": "E50.3",
+              "kind": "category",
+              "label": "Vitamin-A-Mangel mit Hornhautulzeration und Hornhautxerose",
+              "rubrics": {
+                "preferred": "Vitamin-A-Mangel mit Hornhautulzeration und Hornhautxerose"
+              },
+              "children": []
+            },
+            {
+              "code": "E50.4",
+              "kind": "category",
+              "label": "Vitamin-A-Mangel mit Keratomalazie",
+              "rubrics": {
+                "preferred": "Vitamin-A-Mangel mit Keratomalazie"
+              },
+              "children": []
+            },
+            {
+              "code": "E50.5",
+              "kind": "category",
+              "label": "Vitamin-A-Mangel mit Nachtblindheit",
+              "rubrics": {
+                "preferred": "Vitamin-A-Mangel mit Nachtblindheit"
+              },
+              "children": []
+            },
+            {
+              "code": "E50.6",
+              "kind": "category",
+              "label": "Vitamin-A-Mangel mit xerophthalmischen Narben der Hornhaut",
+              "rubrics": {
+                "preferred": "Vitamin-A-Mangel mit xerophthalmischen Narben der Hornhaut"
+              },
+              "children": []
+            },
+            {
+              "code": "E50.7",
+              "kind": "category",
+              "label": "Sonstige Manifestationen des Vitamin-A-Mangels am Auge",
+              "rubrics": {
+                "preferred": "Sonstige Manifestationen des Vitamin-A-Mangels am Auge",
+                "inclusion": "Xerophthalmie o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "E50.8",
+              "kind": "category",
+              "label": "Sonstige Manifestationen des Vitamin-A-Mangels",
+              "rubrics": {
+                "preferred": "Sonstige Manifestationen des Vitamin-A-Mangels",
+                "inclusion": "Xerodermie\n\t\t\t\tdurch Vitamin-A-MangelL86"
+              },
+              "children": []
+            },
+            {
+              "code": "E50.9",
+              "kind": "category",
+              "label": "Vitamin-A-Mangel, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Vitamin-A-Mangel, nicht näher bezeichnet",
+                "inclusion": "Hypovitaminose A o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E51",
+          "kind": "category",
+          "label": "Thiaminmangel [Vitamin-B1-Mangel]",
+          "rubrics": {
+            "preferred": "Thiaminmangel [Vitamin-B1-Mangel]",
+            "exclusion": "Folgen des ThiaminmangelsE64.8"
+          },
+          "children": [
+            {
+              "code": "E51.1",
+              "kind": "category",
+              "label": "Beriberi",
+              "rubrics": {
+                "preferred": "Beriberi",
+                "inclusion": "Beriberi:\n\t\t\t\ttrockene Form"
+              },
+              "children": []
+            },
+            {
+              "code": "E51.2",
+              "kind": "category",
+              "label": "Wernicke-Enzephalopathie",
+              "rubrics": {
+                "preferred": "Wernicke-Enzephalopathie"
+              },
+              "children": []
+            },
+            {
+              "code": "E51.8",
+              "kind": "category",
+              "label": "Sonstige Manifestationen des Thiaminmangels",
+              "rubrics": {
+                "preferred": "Sonstige Manifestationen des Thiaminmangels"
+              },
+              "children": []
+            },
+            {
+              "code": "E51.9",
+              "kind": "category",
+              "label": "Thiaminmangel, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Thiaminmangel, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E52",
+          "kind": "category",
+          "label": "Niazinmangel [Pellagra]",
+          "rubrics": {
+            "preferred": "Niazinmangel [Pellagra]",
+            "inclusion": "Pellagra (alkoholbedingt)",
+            "exclusion": "Folgen des NiazinmangelsE64.8"
+          },
+          "children": []
+        },
+        {
+          "code": "E53",
+          "kind": "category",
+          "label": "Mangel an sonstigen Vitaminen des Vitamin-B-Komplexes",
+          "rubrics": {
+            "preferred": "Mangel an sonstigen Vitaminen des Vitamin-B-Komplexes",
+            "exclusion": "Vitamin-B12-Mangelanämie D51.-"
+          },
+          "children": [
+            {
+              "code": "E53.0",
+              "kind": "category",
+              "label": "Riboflavinmangel",
+              "rubrics": {
+                "preferred": "Riboflavinmangel",
+                "inclusion": "Ariboflavinose"
+              },
+              "children": []
+            },
+            {
+              "code": "E53.1",
+              "kind": "category",
+              "label": "Pyridoxinmangel",
+              "rubrics": {
+                "preferred": "Pyridoxinmangel",
+                "inclusion": "Vitamin-B6-Mangel",
+                "exclusion": "Pyridoxinsensible sideroachrestische [sideroblastische] AnämieD64.3"
+              },
+              "children": []
+            },
+            {
+              "code": "E53.8",
+              "kind": "category",
+              "label": "Mangel an sonstigen näher bezeichneten Vitaminen des Vitamin-B-Komplexes",
+              "rubrics": {
+                "preferred": "Mangel an sonstigen näher bezeichneten Vitaminen des Vitamin-B-Komplexes",
+                "inclusion": "Mangel:\n\t\t\t\tZyanocobalamin"
+              },
+              "children": []
+            },
+            {
+              "code": "E53.9",
+              "kind": "category",
+              "label": "Vitamin-B-Mangel, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Vitamin-B-Mangel, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E54",
+          "kind": "category",
+          "label": "Ascorbinsäuremangel",
+          "rubrics": {
+            "preferred": "Ascorbinsäuremangel",
+            "inclusion": "Skorbut",
+            "exclusion": "SkorbutanämieD53.2"
+          },
+          "children": []
+        },
+        {
+          "code": "E55",
+          "kind": "category",
+          "label": "Vitamin-D-Mangel",
+          "rubrics": {
+            "preferred": "Vitamin-D-Mangel",
+            "exclusion": "OsteoporoseM80-M81"
+          },
+          "children": [
+            {
+              "code": "E55.0",
+              "kind": "category",
+              "label": "Floride Rachitis",
+              "rubrics": {
+                "preferred": "Floride Rachitis",
+                "inclusion": "Osteomalazie:\n\t\t\t\tim Kindesalter",
+                "exclusion": "Rachitis (bei):\n\t\t\t\tZöliakieK90.0"
+              },
+              "children": []
+            },
+            {
+              "code": "E55.9",
+              "kind": "category",
+              "label": "Vitamin-D-Mangel, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Vitamin-D-Mangel, nicht näher bezeichnet",
+                "inclusion": "Avitaminose D"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E56",
+          "kind": "category",
+          "label": "Sonstige Vitaminmangelzustände",
+          "rubrics": {
+            "preferred": "Sonstige Vitaminmangelzustände",
+            "exclusion": "Folgen sonstiger VitaminmangelzuständeE64.8"
+          },
+          "children": [
+            {
+              "code": "E56.0",
+              "kind": "category",
+              "label": "Vitamin-E-Mangel",
+              "rubrics": {
+                "preferred": "Vitamin-E-Mangel"
+              },
+              "children": []
+            },
+            {
+              "code": "E56.1",
+              "kind": "category",
+              "label": "Vitamin-K-Mangel",
+              "rubrics": {
+                "preferred": "Vitamin-K-Mangel",
+                "exclusion": "Vitamin-K-Mangel beim NeugeborenenP53"
+              },
+              "children": []
+            },
+            {
+              "code": "E56.8",
+              "kind": "category",
+              "label": "Mangel an sonstigen Vitaminen",
+              "rubrics": {
+                "preferred": "Mangel an sonstigen Vitaminen"
+              },
+              "children": []
+            },
+            {
+              "code": "E56.9",
+              "kind": "category",
+              "label": "Vitaminmangel, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Vitaminmangel, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E58",
+          "kind": "category",
+          "label": "Alimentärer Kalziummangel",
+          "rubrics": {
+            "preferred": "Alimentärer Kalziummangel",
+            "exclusion": "Störungen des KalziumstoffwechselsE83.5-"
+          },
+          "children": []
+        },
+        {
+          "code": "E59",
+          "kind": "category",
+          "label": "Alimentärer Selenmangel",
+          "rubrics": {
+            "preferred": "Alimentärer Selenmangel",
+            "inclusion": "Keshan-Krankheit",
+            "exclusion": "Folgen des SelenmangelsE64.8"
+          },
+          "children": []
+        },
+        {
+          "code": "E60",
+          "kind": "category",
+          "label": "Alimentärer Zinkmangel",
+          "rubrics": {
+            "preferred": "Alimentärer Zinkmangel"
+          },
+          "children": []
+        },
+        {
+          "code": "E61",
+          "kind": "category",
+          "label": "Mangel an sonstigen Spurenelementen",
+          "rubrics": {
+            "preferred": "Mangel an sonstigen Spurenelementen",
+            "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+            "exclusion": "Störungen des MineralstoffwechselsE83.-"
+          },
+          "children": [
+            {
+              "code": "E61.0",
+              "kind": "category",
+              "label": "Kupfermangel",
+              "rubrics": {
+                "preferred": "Kupfermangel"
+              },
+              "children": []
+            },
+            {
+              "code": "E61.1",
+              "kind": "category",
+              "label": "Eisenmangel",
+              "rubrics": {
+                "preferred": "Eisenmangel",
+                "exclusion": "EisenmangelanämieD50.-"
+              },
+              "children": []
+            },
+            {
+              "code": "E61.2",
+              "kind": "category",
+              "label": "Magnesiummangel",
+              "rubrics": {
+                "preferred": "Magnesiummangel"
+              },
+              "children": []
+            },
+            {
+              "code": "E61.3",
+              "kind": "category",
+              "label": "Manganmangel",
+              "rubrics": {
+                "preferred": "Manganmangel"
+              },
+              "children": []
+            },
+            {
+              "code": "E61.4",
+              "kind": "category",
+              "label": "Chrommangel",
+              "rubrics": {
+                "preferred": "Chrommangel"
+              },
+              "children": []
+            },
+            {
+              "code": "E61.5",
+              "kind": "category",
+              "label": "Molybdänmangel",
+              "rubrics": {
+                "preferred": "Molybdänmangel"
+              },
+              "children": []
+            },
+            {
+              "code": "E61.6",
+              "kind": "category",
+              "label": "Vanadiummangel",
+              "rubrics": {
+                "preferred": "Vanadiummangel"
+              },
+              "children": []
+            },
+            {
+              "code": "E61.7",
+              "kind": "category",
+              "label": "Mangel an mehreren Spurenelementen",
+              "rubrics": {
+                "preferred": "Mangel an mehreren Spurenelementen"
+              },
+              "children": []
+            },
+            {
+              "code": "E61.8",
+              "kind": "category",
+              "label": "Mangel an sonstigen näher bezeichneten Spurenelementen",
+              "rubrics": {
+                "preferred": "Mangel an sonstigen näher bezeichneten Spurenelementen"
+              },
+              "children": []
+            },
+            {
+              "code": "E61.9",
+              "kind": "category",
+              "label": "Spurenelementmangel, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Spurenelementmangel, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E63",
+          "kind": "category",
+          "label": "Sonstige alimentäre Mangelzustände",
+          "rubrics": {
+            "preferred": "Sonstige alimentäre Mangelzustände",
+            "exclusion": "GedeihstörungR62.8"
+          },
+          "children": [
+            {
+              "code": "E63.0",
+              "kind": "category",
+              "label": "Mangel an essentiellen Fettsäuren [EFA]",
+              "rubrics": {
+                "preferred": "Mangel an essentiellen Fettsäuren [EFA]"
+              },
+              "children": []
+            },
+            {
+              "code": "E63.1",
+              "kind": "category",
+              "label": "Alimentärer Mangelzustand infolge unausgewogener Zusammensetzung der Nahrung",
+              "rubrics": {
+                "preferred": "Alimentärer Mangelzustand infolge unausgewogener Zusammensetzung der Nahrung"
+              },
+              "children": []
+            },
+            {
+              "code": "E63.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete alimentäre Mangelzustände",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete alimentäre Mangelzustände"
+              },
+              "children": []
+            },
+            {
+              "code": "E63.9",
+              "kind": "category",
+              "label": "Alimentärer Mangelzustand, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Alimentärer Mangelzustand, nicht näher bezeichnet",
+                "inclusion": "Alimentäre Kardiomyopathie o.n.A.I43.2"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E64",
+          "kind": "category",
+          "label": "Folgen von Mangelernährung oder sonstigen alimentären Mangelzuständen",
+          "rubrics": {
+            "preferred": "Folgen von Mangelernährung oder sonstigen alimentären Mangelzuständen"
+          },
+          "children": [
+            {
+              "code": "E64.0",
+              "kind": "category",
+              "label": "Folgen der Energie- und Eiweißmangelernährung",
+              "rubrics": {
+                "preferred": "Folgen der Energie- und Eiweißmangelernährung",
+                "exclusion": "Entwicklungsverzögerung durch Energie- und EiweißmangelernährungE45"
+              },
+              "children": []
+            },
+            {
+              "code": "E64.1",
+              "kind": "category",
+              "label": "Folgen des Vitamin-A-Mangels",
+              "rubrics": {
+                "preferred": "Folgen des Vitamin-A-Mangels"
+              },
+              "children": []
+            },
+            {
+              "code": "E64.2",
+              "kind": "category",
+              "label": "Folgen des Vitamin-C-Mangels",
+              "rubrics": {
+                "preferred": "Folgen des Vitamin-C-Mangels"
+              },
+              "children": []
+            },
+            {
+              "code": "E64.3",
+              "kind": "category",
+              "label": "Folgen der Rachitis",
+              "rubrics": {
+                "preferred": "Folgen der Rachitis",
+                "coding-hint": "Soll das Vorhandensein einer Wirbelsäulendeformität angegeben werden, ist eine zusätzliche Schlüsselnummer (M40.-, M41.5) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E64.8",
+              "kind": "category",
+              "label": "Folgen sonstiger alimentärer Mangelzustände",
+              "rubrics": {
+                "preferred": "Folgen sonstiger alimentärer Mangelzustände"
+              },
+              "children": []
+            },
+            {
+              "code": "E64.9",
+              "kind": "category",
+              "label": "Folgen eines nicht näher bezeichneten alimentären Mangelzustandes",
+              "rubrics": {
+                "preferred": "Folgen eines nicht näher bezeichneten alimentären Mangelzustandes"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "E65-E68",
+      "kind": "block",
+      "label": "Adipositas und sonstige Überernährung",
+      "rubrics": {
+        "preferred": "Adipositas und sonstige Überernährung"
+      },
+      "children": [
+        {
+          "code": "E65",
+          "kind": "category",
+          "label": "Lokalisierte Adipositas",
+          "rubrics": {
+            "preferred": "Lokalisierte Adipositas",
+            "inclusion": "Fettpolster"
+          },
+          "children": []
+        },
+        {
+          "code": "E66",
+          "kind": "category",
+          "label": "Adipositas",
+          "rubrics": {
+            "preferred": "Adipositas",
+            "exclusion": "Prader-Willi-SyndromQ87.1"
+          },
+          "children": [
+            {
+              "code": "E66.0",
+              "kind": "category",
+              "label": "Adipositas durch übermäßige Kalorienzufuhr",
+              "rubrics": {
+                "preferred": "Adipositas durch übermäßige Kalorienzufuhr"
+              },
+              "children": []
+            },
+            {
+              "code": "E66.1",
+              "kind": "category",
+              "label": "Arzneimittelinduzierte Adipositas",
+              "rubrics": {
+                "preferred": "Arzneimittelinduzierte Adipositas",
+                "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E66.2",
+              "kind": "category",
+              "label": "Übermäßige Adipositas mit alveolärer Hypoventilation",
+              "rubrics": {
+                "preferred": "Übermäßige Adipositas mit alveolärer Hypoventilation",
+                "inclusion": "Pickwick-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E66.8",
+              "kind": "category",
+              "label": "Sonstige Adipositas",
+              "rubrics": {
+                "preferred": "Sonstige Adipositas",
+                "inclusion": "Krankhafte Adipositas"
+              },
+              "children": []
+            },
+            {
+              "code": "E66.9",
+              "kind": "category",
+              "label": "Adipositas, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Adipositas, nicht näher bezeichnet",
+                "inclusion": "Einfache Adipositas o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E67",
+          "kind": "category",
+          "label": "Sonstige Überernährung",
+          "rubrics": {
+            "preferred": "Sonstige Überernährung",
+            "exclusion": "Überernährung o.n.A.R63.2"
+          },
+          "children": [
+            {
+              "code": "E67.0",
+              "kind": "category",
+              "label": "Hypervitaminose A",
+              "rubrics": {
+                "preferred": "Hypervitaminose A"
+              },
+              "children": []
+            },
+            {
+              "code": "E67.1",
+              "kind": "category",
+              "label": "Hyperkarotinämie",
+              "rubrics": {
+                "preferred": "Hyperkarotinämie"
+              },
+              "children": []
+            },
+            {
+              "code": "E67.2",
+              "kind": "category",
+              "label": "Megavitamin-B6-Syndrom",
+              "rubrics": {
+                "preferred": "Megavitamin-B6-Syndrom",
+                "inclusion": "Hypervitaminose B6"
+              },
+              "children": []
+            },
+            {
+              "code": "E67.3",
+              "kind": "category",
+              "label": "Hypervitaminose D",
+              "rubrics": {
+                "preferred": "Hypervitaminose D"
+              },
+              "children": []
+            },
+            {
+              "code": "E67.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Überernährung",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Überernährung"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E68",
+          "kind": "category",
+          "label": "Folgen der Überernährung",
+          "rubrics": {
+            "preferred": "Folgen der Überernährung"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "E70-E90",
+      "kind": "block",
+      "label": "Stoffwechselstörungen",
+      "rubrics": {
+        "preferred": "Stoffwechselstörungen",
+        "exclusion": "5-Alpha-Reduktase-MangelE29.1"
+      },
+      "children": [
+        {
+          "code": "E70",
+          "kind": "category",
+          "label": "Störungen des Stoffwechsels aromatischer Aminosäuren",
+          "rubrics": {
+            "preferred": "Störungen des Stoffwechsels aromatischer Aminosäuren"
+          },
+          "children": [
+            {
+              "code": "E70.0",
+              "kind": "category",
+              "label": "Klassische Phenylketonurie",
+              "rubrics": {
+                "preferred": "Klassische Phenylketonurie"
+              },
+              "children": []
+            },
+            {
+              "code": "E70.1",
+              "kind": "category",
+              "label": "Sonstige Hyperphenylalaninämien",
+              "rubrics": {
+                "preferred": "Sonstige Hyperphenylalaninämien"
+              },
+              "children": []
+            },
+            {
+              "code": "E70.2",
+              "kind": "category",
+              "label": "Störungen des Tyrosinstoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Tyrosinstoffwechsels",
+                "inclusion": "Tyrosinose"
+              },
+              "children": []
+            },
+            {
+              "code": "E70.3",
+              "kind": "category",
+              "label": "Albinismus",
+              "rubrics": {
+                "preferred": "Albinismus",
+                "inclusion": "Hermansky-Pudlak-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E70.8",
+              "kind": "category",
+              "label": "Sonstige Störungen des Stoffwechsels aromatischer Aminosäuren",
+              "rubrics": {
+                "preferred": "Sonstige Störungen des Stoffwechsels aromatischer Aminosäuren",
+                "inclusion": "Störungen:\n\t\t\t\tTryptophanstoffwechsel"
+              },
+              "children": []
+            },
+            {
+              "code": "E70.9",
+              "kind": "category",
+              "label": "Störung des Stoffwechsels aromatischer Aminosäuren, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung des Stoffwechsels aromatischer Aminosäuren, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E71",
+          "kind": "category",
+          "label": "Störungen des Stoffwechsels verzweigter Aminosäuren und des Fettsäurestoffwechsels",
+          "rubrics": {
+            "preferred": "Störungen des Stoffwechsels verzweigter Aminosäuren und des Fettsäurestoffwechsels"
+          },
+          "children": [
+            {
+              "code": "E71.0",
+              "kind": "category",
+              "label": "Ahornsirup- (Harn-) Krankheit",
+              "rubrics": {
+                "preferred": "Ahornsirup- (Harn-) Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "E71.1",
+              "kind": "category",
+              "label": "Sonstige Störungen des Stoffwechsels verzweigter Aminosäuren",
+              "rubrics": {
+                "preferred": "Sonstige Störungen des Stoffwechsels verzweigter Aminosäuren",
+                "inclusion": "Propionazidämie"
+              },
+              "children": []
+            },
+            {
+              "code": "E71.2",
+              "kind": "category",
+              "label": "Störung des Stoffwechsels verzweigter Aminosäuren, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung des Stoffwechsels verzweigter Aminosäuren, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "E71.3",
+              "kind": "category",
+              "label": "Störungen des Fettsäurestoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Fettsäurestoffwechsels",
+                "inclusion": "Mangel an sehr langkettiger Acyl-CoA-Dehydrogenase",
+                "exclusion": "Schilder-KrankheitG37.0"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E72",
+          "kind": "category",
+          "label": "Sonstige Störungen des Aminosäurestoffwechsels",
+          "rubrics": {
+            "preferred": "Sonstige Störungen des Aminosäurestoffwechsels",
+            "exclusion": "Störungen:\n\t\t\t\tStoffwechsel verzweigter AminosäurenE71.0-E71.2"
+          },
+          "children": [
+            {
+              "code": "E72.0",
+              "kind": "category",
+              "label": "Störungen des Aminosäuretransportes",
+              "rubrics": {
+                "preferred": "Störungen des Aminosäuretransportes",
+                "inclusion": "Zystinurie",
+                "exclusion": "Störungen des Tryptophanstoffwechsels E70.8"
+              },
+              "children": []
+            },
+            {
+              "code": "E72.1",
+              "kind": "category",
+              "label": "Störungen des Stoffwechsels schwefelhaltiger Aminosäuren",
+              "rubrics": {
+                "preferred": "Störungen des Stoffwechsels schwefelhaltiger Aminosäuren",
+                "inclusion": "Zystathioninurie",
+                "exclusion": "Transcobalamin-II-Mangel (-Anämie)D51.2"
+              },
+              "children": []
+            },
+            {
+              "code": "E72.2",
+              "kind": "category",
+              "label": "Störungen des Harnstoffzyklus",
+              "rubrics": {
+                "preferred": "Störungen des Harnstoffzyklus",
+                "inclusion": "Zitrullinämie",
+                "exclusion": "Störungen des OrnithinstoffwechselsE72.4"
+              },
+              "children": []
+            },
+            {
+              "code": "E72.3",
+              "kind": "category",
+              "label": "Störungen des Lysin- und Hydroxylysinstoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Lysin- und Hydroxylysinstoffwechsels",
+                "inclusion": "Hyperlysinämie",
+                "exclusion": "Zellweger-SyndromQ87.8"
+              },
+              "children": []
+            },
+            {
+              "code": "E72.4",
+              "kind": "category",
+              "label": "Störungen des Ornithinstoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Ornithinstoffwechsels",
+                "inclusion": "Ornithinämie (Typ I, II)"
+              },
+              "children": []
+            },
+            {
+              "code": "E72.5",
+              "kind": "category",
+              "label": "Störungen des Glyzinstoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Glyzinstoffwechsels",
+                "inclusion": "Sarkosinämie"
+              },
+              "children": []
+            },
+            {
+              "code": "E72.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Störungen des Aminosäurestoffwechsels",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Störungen des Aminosäurestoffwechsels",
+                "inclusion": "Störungen:\n\t\t\t\tGamma-Glutamyl-Zyklus"
+              },
+              "children": []
+            },
+            {
+              "code": "E72.9",
+              "kind": "category",
+              "label": "Störung des Aminosäurestoffwechsels, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung des Aminosäurestoffwechsels, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E73",
+          "kind": "category",
+          "label": "Laktoseintoleranz",
+          "rubrics": {
+            "preferred": "Laktoseintoleranz"
+          },
+          "children": [
+            {
+              "code": "E73.0",
+              "kind": "category",
+              "label": "Angeborener Laktasemangel",
+              "rubrics": {
+                "preferred": "Angeborener Laktasemangel"
+              },
+              "children": []
+            },
+            {
+              "code": "E73.1",
+              "kind": "category",
+              "label": "Sekundärer Laktasemangel",
+              "rubrics": {
+                "preferred": "Sekundärer Laktasemangel"
+              },
+              "children": []
+            },
+            {
+              "code": "E73.8",
+              "kind": "category",
+              "label": "Sonstige Laktoseintoleranz",
+              "rubrics": {
+                "preferred": "Sonstige Laktoseintoleranz"
+              },
+              "children": []
+            },
+            {
+              "code": "E73.9",
+              "kind": "category",
+              "label": "Laktoseintoleranz, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Laktoseintoleranz, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E74",
+          "kind": "category",
+          "label": "Sonstige Störungen des Kohlenhydratstoffwechsels",
+          "rubrics": {
+            "preferred": "Sonstige Störungen des Kohlenhydratstoffwechsels",
+            "exclusion": "MukopolysaccharidoseE76.0-E76.3"
+          },
+          "children": [
+            {
+              "code": "E74.0",
+              "kind": "category",
+              "label": "Glykogenspeicherkrankheit [Glykogenose]",
+              "rubrics": {
+                "preferred": "Glykogenspeicherkrankheit [Glykogenose]",
+                "inclusion": "Von-Gierke-Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "E74.1",
+              "kind": "category",
+              "label": "Störungen des Fruktosestoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Fruktosestoffwechsels",
+                "inclusion": "Hereditäre Fruktoseintoleranz"
+              },
+              "children": []
+            },
+            {
+              "code": "E74.2",
+              "kind": "category",
+              "label": "Störungen des Galaktosestoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Galaktosestoffwechsels",
+                "inclusion": "Galaktosämie"
+              },
+              "children": []
+            },
+            {
+              "code": "E74.3",
+              "kind": "category",
+              "label": "Sonstige Störungen der intestinalen Kohlenhydratabsorption",
+              "rubrics": {
+                "preferred": "Sonstige Störungen der intestinalen Kohlenhydratabsorption",
+                "inclusion": "Saccharasemangel",
+                "exclusion": "LaktoseintoleranzE73.-"
+              },
+              "children": []
+            },
+            {
+              "code": "E74.4",
+              "kind": "category",
+              "label": "Störungen des Pyruvatstoffwechsels und der Glukoneogenese",
+              "rubrics": {
+                "preferred": "Störungen des Pyruvatstoffwechsels und der Glukoneogenese",
+                "inclusion": "Mangel an:\n\t\t\t\tPyruvatdehydrogenase",
+                "exclusion": "Bei AnämieD55.-"
+              },
+              "children": []
+            },
+            {
+              "code": "E74.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Störungen des Kohlenhydratstoffwechsels",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Störungen des Kohlenhydratstoffwechsels",
+                "inclusion": "Renale Glukosurie"
+              },
+              "children": []
+            },
+            {
+              "code": "E74.9",
+              "kind": "category",
+              "label": "Störung des Kohlenhydratstoffwechsels, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung des Kohlenhydratstoffwechsels, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E75",
+          "kind": "category",
+          "label": "Störungen des Sphingolipidstoffwechsels und sonstige Störungen der Lipidspeicherung",
+          "rubrics": {
+            "preferred": "Störungen des Sphingolipidstoffwechsels und sonstige Störungen der Lipidspeicherung",
+            "exclusion": "Refsum-KrankheitG60.1"
+          },
+          "children": [
+            {
+              "code": "E75.0",
+              "kind": "category",
+              "label": "GM2-Gangliosidose",
+              "rubrics": {
+                "preferred": "GM2-Gangliosidose",
+                "inclusion": "GM2-Gangliosidose: \n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "E75.1",
+              "kind": "category",
+              "label": "Sonstige Gangliosidosen",
+              "rubrics": {
+                "preferred": "Sonstige Gangliosidosen",
+                "inclusion": "Mukolipidose IV"
+              },
+              "children": []
+            },
+            {
+              "code": "E75.2",
+              "kind": "category",
+              "label": "Sonstige Sphingolipidosen",
+              "rubrics": {
+                "preferred": "Sonstige Sphingolipidosen",
+                "inclusion": "Sulfatasemangel",
+                "exclusion": "Adrenoleukodystrophie [Addison-Schilder-Syndrom]E71.3"
+              },
+              "children": []
+            },
+            {
+              "code": "E75.3",
+              "kind": "category",
+              "label": "Sphingolipidose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Sphingolipidose, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "E75.4",
+              "kind": "category",
+              "label": "Neuronale Zeroidlipofuszinose",
+              "rubrics": {
+                "preferred": "Neuronale Zeroidlipofuszinose",
+                "inclusion": "Spielmeyer-Vogt-Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "E75.5",
+              "kind": "category",
+              "label": "Sonstige Störungen der Lipidspeicherung",
+              "rubrics": {
+                "preferred": "Sonstige Störungen der Lipidspeicherung",
+                "inclusion": "Zerebrotendinöse Xanthomatose [van-Bogaert-Scherer-Epstein-Syndrom]"
+              },
+              "children": []
+            },
+            {
+              "code": "E75.6",
+              "kind": "category",
+              "label": "Störung der Lipidspeicherung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung der Lipidspeicherung, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E76",
+          "kind": "category",
+          "label": "Störungen des Glykosaminoglykan-Stoffwechsels",
+          "rubrics": {
+            "preferred": "Störungen des Glykosaminoglykan-Stoffwechsels"
+          },
+          "children": [
+            {
+              "code": "E76.0",
+              "kind": "category",
+              "label": "Mukopolysaccharidose, Typ I",
+              "rubrics": {
+                "preferred": "Mukopolysaccharidose, Typ I",
+                "inclusion": "Scheie-Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "E76.1",
+              "kind": "category",
+              "label": "Mukopolysaccharidose, Typ II",
+              "rubrics": {
+                "preferred": "Mukopolysaccharidose, Typ II",
+                "inclusion": "Hunter-Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "E76.2",
+              "kind": "category",
+              "label": "Sonstige Mukopolysaccharidosen",
+              "rubrics": {
+                "preferred": "Sonstige Mukopolysaccharidosen",
+                "inclusion": "Sanfilippo-Krankheit (Typ B) (Typ C) (Typ D)"
+              },
+              "children": []
+            },
+            {
+              "code": "E76.3",
+              "kind": "category",
+              "label": "Mukopolysaccharidose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Mukopolysaccharidose, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "E76.8",
+              "kind": "category",
+              "label": "Sonstige Störungen des Glykosaminoglykan-Stoffwechsels",
+              "rubrics": {
+                "preferred": "Sonstige Störungen des Glykosaminoglykan-Stoffwechsels"
+              },
+              "children": []
+            },
+            {
+              "code": "E76.9",
+              "kind": "category",
+              "label": "Störung des Glykosaminoglykan-Stoffwechsels, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung des Glykosaminoglykan-Stoffwechsels, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E77",
+          "kind": "category",
+          "label": "Störungen des Glykoproteinstoffwechsels",
+          "rubrics": {
+            "preferred": "Störungen des Glykoproteinstoffwechsels"
+          },
+          "children": [
+            {
+              "code": "E77.0",
+              "kind": "category",
+              "label": "Defekte der posttranslationalen Modifikation lysosomaler Enzyme",
+              "rubrics": {
+                "preferred": "Defekte der posttranslationalen Modifikation lysosomaler Enzyme",
+                "inclusion": "Mukolipidose III [Pseudo-Hurler-Polydystrophie]"
+              },
+              "children": []
+            },
+            {
+              "code": "E77.1",
+              "kind": "category",
+              "label": "Defekte beim Glykoproteinabbau",
+              "rubrics": {
+                "preferred": "Defekte beim Glykoproteinabbau",
+                "inclusion": "Sialidose [Mukolipidose I]"
+              },
+              "children": []
+            },
+            {
+              "code": "E77.8",
+              "kind": "category",
+              "label": "Sonstige Störungen des Glykoproteinstoffwechsels",
+              "rubrics": {
+                "preferred": "Sonstige Störungen des Glykoproteinstoffwechsels"
+              },
+              "children": []
+            },
+            {
+              "code": "E77.9",
+              "kind": "category",
+              "label": "Störung des Glykoproteinstoffwechsels, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung des Glykoproteinstoffwechsels, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E78",
+          "kind": "category",
+          "label": "Störungen des Lipoproteinstoffwechsels und sonstige Lipidämien",
+          "rubrics": {
+            "preferred": "Störungen des Lipoproteinstoffwechsels und sonstige Lipidämien",
+            "exclusion": "SphingolipidoseE75.0-E75.3"
+          },
+          "children": [
+            {
+              "code": "E78.0",
+              "kind": "category",
+              "label": "Reine Hypercholesterinämie",
+              "rubrics": {
+                "preferred": "Reine Hypercholesterinämie",
+                "inclusion": "Hyperlipoproteinämie vom Low-density-lipoprotein-Typ [LDL]"
+              },
+              "children": []
+            },
+            {
+              "code": "E78.1",
+              "kind": "category",
+              "label": "Reine Hypertriglyzeridämie",
+              "rubrics": {
+                "preferred": "Reine Hypertriglyzeridämie",
+                "inclusion": "Hyperpräbetalipoproteinämie"
+              },
+              "children": []
+            },
+            {
+              "code": "E78.2",
+              "kind": "category",
+              "label": "Gemischte Hyperlipidämie",
+              "rubrics": {
+                "preferred": "Gemischte Hyperlipidämie",
+                "inclusion": "Xanthoma tuberosum",
+                "exclusion": "Zerebrotendinöse Xanthomatose [van-Bogaert-Scherer-Epstein-Syndrom]E75.5"
+              },
+              "children": []
+            },
+            {
+              "code": "E78.3",
+              "kind": "category",
+              "label": "Hyperchylomikronämie",
+              "rubrics": {
+                "preferred": "Hyperchylomikronämie",
+                "inclusion": "Hyperlipoproteinämie Typ I oder V nach Fredrickson"
+              },
+              "children": []
+            },
+            {
+              "code": "E78.4",
+              "kind": "category",
+              "label": "Sonstige Hyperlipidämien",
+              "rubrics": {
+                "preferred": "Sonstige Hyperlipidämien",
+                "inclusion": "Familiäre kombinierte Hyperlipidämie"
+              },
+              "children": []
+            },
+            {
+              "code": "E78.5",
+              "kind": "category",
+              "label": "Hyperlipidämie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Hyperlipidämie, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "E78.6",
+              "kind": "category",
+              "label": "Lipoproteinmangel",
+              "rubrics": {
+                "preferred": "Lipoproteinmangel",
+                "inclusion": "Tangier-Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "E78.8",
+              "kind": "category",
+              "label": "Sonstige Störungen des Lipoproteinstoffwechsels",
+              "rubrics": {
+                "preferred": "Sonstige Störungen des Lipoproteinstoffwechsels"
+              },
+              "children": [
+                {
+                  "code": "E78.80",
+                  "kind": "category",
+                  "label": "Hyperlipoproteinämie (a)",
+                  "rubrics": {
+                    "preferred": "Hyperlipoproteinämie (a)"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E78.88",
+                  "kind": "category",
+                  "label": "Sonstige Störungen des Lipoproteinstoffwechsels",
+                  "rubrics": {
+                    "preferred": "Sonstige Störungen des Lipoproteinstoffwechsels"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "E78.9",
+              "kind": "category",
+              "label": "Störung des Lipoproteinstoffwechsels, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung des Lipoproteinstoffwechsels, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E79",
+          "kind": "category",
+          "label": "Störungen des Purin- und Pyrimidinstoffwechsels",
+          "rubrics": {
+            "preferred": "Störungen des Purin- und Pyrimidinstoffwechsels",
+            "exclusion": "Xeroderma pigmentosumQ82.1"
+          },
+          "children": [
+            {
+              "code": "E79.0",
+              "kind": "category",
+              "label": "Hyperurikämie ohne Zeichen von entzündlicher Arthritis oder tophischer Gicht",
+              "rubrics": {
+                "preferred": "Hyperurikämie ohne Zeichen von entzündlicher Arthritis oder tophischer Gicht",
+                "inclusion": "Asymptomatische Hyperurikämie"
+              },
+              "children": []
+            },
+            {
+              "code": "E79.1",
+              "kind": "category",
+              "label": "Lesch-Nyhan-Syndrom",
+              "rubrics": {
+                "preferred": "Lesch-Nyhan-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E79.8",
+              "kind": "category",
+              "label": "Sonstige Störungen des Purin- und Pyrimidinstoffwechsels",
+              "rubrics": {
+                "preferred": "Sonstige Störungen des Purin- und Pyrimidinstoffwechsels",
+                "inclusion": "Hereditäre Xanthinurie"
+              },
+              "children": []
+            },
+            {
+              "code": "E79.9",
+              "kind": "category",
+              "label": "Störung des Purin- und Pyrimidinstoffwechsels, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung des Purin- und Pyrimidinstoffwechsels, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E80",
+          "kind": "category",
+          "label": "Störungen des Porphyrin- und Bilirubinstoffwechsels",
+          "rubrics": {
+            "preferred": "Störungen des Porphyrin- und Bilirubinstoffwechsels",
+            "inclusion": "Defekte von Katalase und Peroxidase"
+          },
+          "children": [
+            {
+              "code": "E80.0",
+              "kind": "category",
+              "label": "Hereditäre erythropoetische Porphyrie",
+              "rubrics": {
+                "preferred": "Hereditäre erythropoetische Porphyrie",
+                "inclusion": "Erythropoetische Protoporphyrie"
+              },
+              "children": []
+            },
+            {
+              "code": "E80.1",
+              "kind": "category",
+              "label": "Porphyria cutanea tarda",
+              "rubrics": {
+                "preferred": "Porphyria cutanea tarda"
+              },
+              "children": []
+            },
+            {
+              "code": "E80.2",
+              "kind": "category",
+              "label": "Sonstige Porphyrie",
+              "rubrics": {
+                "preferred": "Sonstige Porphyrie",
+                "inclusion": "Porphyrie:\n\t\t\t\to.n.A.",
+                "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "E80.3",
+              "kind": "category",
+              "label": "Defekte von Katalase und Peroxidase",
+              "rubrics": {
+                "preferred": "Defekte von Katalase und Peroxidase",
+                "inclusion": "Akatalasämie [Takahara-Syndrom] [Akatalasie]"
+              },
+              "children": []
+            },
+            {
+              "code": "E80.4",
+              "kind": "category",
+              "label": "Gilbert-Meulengracht-Syndrom",
+              "rubrics": {
+                "preferred": "Gilbert-Meulengracht-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E80.5",
+              "kind": "category",
+              "label": "Crigler-Najjar-Syndrom",
+              "rubrics": {
+                "preferred": "Crigler-Najjar-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E80.6",
+              "kind": "category",
+              "label": "Sonstige Störungen des Bilirubinstoffwechsels",
+              "rubrics": {
+                "preferred": "Sonstige Störungen des Bilirubinstoffwechsels",
+                "inclusion": "Rotor-Syndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "E80.7",
+              "kind": "category",
+              "label": "Störung des Bilirubinstoffwechsels, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung des Bilirubinstoffwechsels, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E83",
+          "kind": "category",
+          "label": "Störungen des Mineralstoffwechsels",
+          "rubrics": {
+            "preferred": "Störungen des Mineralstoffwechsels",
+            "exclusion": "Vitamin-D-MangelE55.-"
+          },
+          "children": [
+            {
+              "code": "E83.0",
+              "kind": "category",
+              "label": "Störungen des Kupferstoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Kupferstoffwechsels",
+                "inclusion": "Wilson-Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "E83.1",
+              "kind": "category",
+              "label": "Störungen des Eisenstoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Eisenstoffwechsels",
+                "inclusion": "Hämochromatose",
+                "exclusion": "Anämie:\n\t\t\t\tsideroachrestisch [sideroblastisch]D64.0-D64.3"
+              },
+              "children": []
+            },
+            {
+              "code": "E83.2",
+              "kind": "category",
+              "label": "Störungen des Zinkstoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Zinkstoffwechsels",
+                "inclusion": "Acrodermatitis enteropathica"
+              },
+              "children": []
+            },
+            {
+              "code": "E83.3",
+              "kind": "category",
+              "label": "Störungen des Phosphorstoffwechsels und der Phosphatase",
+              "rubrics": {
+                "preferred": "Störungen des Phosphorstoffwechsels und der Phosphatase",
+                "exclusion": "OsteoporoseM80-M81"
+              },
+              "children": [
+                {
+                  "code": "E83.30",
+                  "kind": "category",
+                  "label": "Familiäre hypophosphatämische Rachitis",
+                  "rubrics": {
+                    "preferred": "Familiäre hypophosphatämische Rachitis",
+                    "inclusion": "Phosphatdiabetes"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E83.31",
+                  "kind": "category",
+                  "label": "Vitamin-D-abhängige Rachitis",
+                  "rubrics": {
+                    "preferred": "Vitamin-D-abhängige Rachitis",
+                    "inclusion": "Vitamin-D-Synthesestörung [Typ I]"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E83.38",
+                  "kind": "category",
+                  "label": "Sonstige Störungen des Phosphorstoffwechsels und der Phosphatase",
+                  "rubrics": {
+                    "preferred": "Sonstige Störungen des Phosphorstoffwechsels und der Phosphatase",
+                    "inclusion": "Tumorrachitis"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E83.39",
+                  "kind": "category",
+                  "label": "Störungen des Phosphorstoffwechsels und der Phosphatase, nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Störungen des Phosphorstoffwechsels und der Phosphatase, nicht näher bezeichnet"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "E83.4",
+              "kind": "category",
+              "label": "Störungen des Magnesiumstoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Magnesiumstoffwechsels",
+                "inclusion": "Hypomagnesiämie"
+              },
+              "children": []
+            },
+            {
+              "code": "E83.5",
+              "kind": "category",
+              "label": "Störungen des Kalziumstoffwechsels",
+              "rubrics": {
+                "preferred": "Störungen des Kalziumstoffwechsels",
+                "exclusion": "HyperparathyreoidismusE21.0-E21.3"
+              },
+              "children": [
+                {
+                  "code": "E83.50",
+                  "kind": "category",
+                  "label": "Kalziphylaxie",
+                  "rubrics": {
+                    "preferred": "Kalziphylaxie"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E83.58",
+                  "kind": "category",
+                  "label": "Sonstige Störungen des Kalziumstoffwechsels",
+                  "rubrics": {
+                    "preferred": "Sonstige Störungen des Kalziumstoffwechsels",
+                    "inclusion": "Idiopathische Hyperkalziurie"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E83.59",
+                  "kind": "category",
+                  "label": "Störungen des Kalziumstoffwechsels, nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Störungen des Kalziumstoffwechsels, nicht näher bezeichnet"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "E83.8",
+              "kind": "category",
+              "label": "Sonstige Störungen des Mineralstoffwechsels",
+              "rubrics": {
+                "preferred": "Sonstige Störungen des Mineralstoffwechsels"
+              },
+              "children": []
+            },
+            {
+              "code": "E83.9",
+              "kind": "category",
+              "label": "Störung des Mineralstoffwechsels, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Störung des Mineralstoffwechsels, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E84",
+          "kind": "category",
+          "label": "Zystische Fibrose",
+          "rubrics": {
+            "preferred": "Zystische Fibrose",
+            "inclusion": "Mukoviszidose"
+          },
+          "children": [
+            {
+              "code": "E84.0",
+              "kind": "category",
+              "label": "Zystische Fibrose mit Lungenmanifestationen",
+              "rubrics": {
+                "preferred": "Zystische Fibrose mit Lungenmanifestationen"
+              },
+              "children": []
+            },
+            {
+              "code": "E84.1",
+              "kind": "category",
+              "label": "Zystische Fibrose mit Darmmanifestationen",
+              "rubrics": {
+                "preferred": "Zystische Fibrose mit Darmmanifestationen",
+                "inclusion": "Mekoniumileus bei zystischer Fibrose† P75",
+                "exclusion": "Mekoniumileus bei ausgeschlossener zystischer Fibrose P76.0"
+              },
+              "children": []
+            },
+            {
+              "code": "E84.8",
+              "kind": "category",
+              "label": "Zystische Fibrose mit sonstigen Manifestationen",
+              "rubrics": {
+                "preferred": "Zystische Fibrose mit sonstigen Manifestationen"
+              },
+              "children": [
+                {
+                  "code": "E84.80",
+                  "kind": "category",
+                  "label": "Zystische Fibrose mit Lungen- und Darm-Manifestation",
+                  "rubrics": {
+                    "preferred": "Zystische Fibrose mit Lungen- und Darm-Manifestation"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E84.87",
+                  "kind": "category",
+                  "label": "Zystische Fibrose mit sonstigen multiplen Manifestationen",
+                  "rubrics": {
+                    "preferred": "Zystische Fibrose mit sonstigen multiplen Manifestationen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E84.88",
+                  "kind": "category",
+                  "label": "Zystische Fibrose mit sonstigen Manifestationen",
+                  "rubrics": {
+                    "preferred": "Zystische Fibrose mit sonstigen Manifestationen"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "E84.9",
+              "kind": "category",
+              "label": "Zystische Fibrose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Zystische Fibrose, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E85",
+          "kind": "category",
+          "label": "Amyloidose",
+          "rubrics": {
+            "preferred": "Amyloidose",
+            "exclusion": "Alzheimer-KrankheitG30.-"
+          },
+          "children": [
+            {
+              "code": "E85.0",
+              "kind": "category",
+              "label": "Nichtneuropathische heredofamiliäre Amyloidose",
+              "rubrics": {
+                "preferred": "Nichtneuropathische heredofamiliäre Amyloidose",
+                "inclusion": "Hereditäre amyloide Nephropathie"
+              },
+              "children": []
+            },
+            {
+              "code": "E85.1",
+              "kind": "category",
+              "label": "Neuropathische heredofamiliäre Amyloidose",
+              "rubrics": {
+                "preferred": "Neuropathische heredofamiliäre Amyloidose",
+                "inclusion": "Amyloide Polyneuropathie (Portugiesischer Typ)"
+              },
+              "children": []
+            },
+            {
+              "code": "E85.2",
+              "kind": "category",
+              "label": "Heredofamiliäre Amyloidose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Heredofamiliäre Amyloidose, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "E85.3",
+              "kind": "category",
+              "label": "Sekundäre systemische Amyloidose",
+              "rubrics": {
+                "preferred": "Sekundäre systemische Amyloidose",
+                "inclusion": "Amyloidose in Verbindung mit Hämodialyse"
+              },
+              "children": []
+            },
+            {
+              "code": "E85.4",
+              "kind": "category",
+              "label": "Organbegrenzte Amyloidose",
+              "rubrics": {
+                "preferred": "Organbegrenzte Amyloidose",
+                "inclusion": "Lokalisierte Amyloidose"
+              },
+              "children": []
+            },
+            {
+              "code": "E85.8",
+              "kind": "category",
+              "label": "Sonstige Amyloidose",
+              "rubrics": {
+                "preferred": "Sonstige Amyloidose"
+              },
+              "children": []
+            },
+            {
+              "code": "E85.9",
+              "kind": "category",
+              "label": "Amyloidose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Amyloidose, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E86",
+          "kind": "category",
+          "label": "Volumenmangel",
+          "rubrics": {
+            "preferred": "Volumenmangel",
+            "inclusion": "Hypovolämie",
+            "exclusion": "Hypovolämischer Schock:\n\t\t\t\to.n.A.R57.1"
+          },
+          "children": []
+        },
+        {
+          "code": "E87",
+          "kind": "category",
+          "label": "Sonstige Störungen des Wasser- und Elektrolythaushaltes sowie des Säure-Basen-Gleichgewichts",
+          "rubrics": {
+            "preferred": "Sonstige Störungen des Wasser- und Elektrolythaushaltes sowie des Säure-Basen-Gleichgewichts"
+          },
+          "children": [
+            {
+              "code": "E87.0",
+              "kind": "category",
+              "label": "Hyperosmolalität und Hypernatriämie",
+              "rubrics": {
+                "preferred": "Hyperosmolalität und Hypernatriämie",
+                "inclusion": "Vermehrtes Vorhandensein von Natrium"
+              },
+              "children": []
+            },
+            {
+              "code": "E87.1",
+              "kind": "category",
+              "label": "Hypoosmolalität und Hyponatriämie",
+              "rubrics": {
+                "preferred": "Hypoosmolalität und Hyponatriämie",
+                "inclusion": "Natriummangel",
+                "exclusion": "Syndrom der inadäquaten Sekretion von AdiuretinE22.2"
+              },
+              "children": []
+            },
+            {
+              "code": "E87.2",
+              "kind": "category",
+              "label": "Azidose",
+              "rubrics": {
+                "preferred": "Azidose",
+                "inclusion": "Azidose:\n\t\t\t\to.n.A.",
+                "exclusion": "Diabetische AzidoseE10-E14, vierte Stelle .1"
+              },
+              "children": []
+            },
+            {
+              "code": "E87.3",
+              "kind": "category",
+              "label": "Alkalose",
+              "rubrics": {
+                "preferred": "Alkalose",
+                "inclusion": "Alkalose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "E87.4",
+              "kind": "category",
+              "label": "Gemischte Störung des Säure-Basen-Gleichgewichts",
+              "rubrics": {
+                "preferred": "Gemischte Störung des Säure-Basen-Gleichgewichts"
+              },
+              "children": []
+            },
+            {
+              "code": "E87.5",
+              "kind": "category",
+              "label": "Hyperkaliämie",
+              "rubrics": {
+                "preferred": "Hyperkaliämie",
+                "inclusion": "Vermehrtes Vorhandensein von Kalium"
+              },
+              "children": []
+            },
+            {
+              "code": "E87.6",
+              "kind": "category",
+              "label": "Hypokaliämie",
+              "rubrics": {
+                "preferred": "Hypokaliämie",
+                "inclusion": "Kaliummangel"
+              },
+              "children": []
+            },
+            {
+              "code": "E87.7",
+              "kind": "category",
+              "label": "Flüssigkeitsüberschuss",
+              "rubrics": {
+                "preferred": "Flüssigkeitsüberschuss",
+                "exclusion": "ÖdemR60.-"
+              },
+              "children": []
+            },
+            {
+              "code": "E87.8",
+              "kind": "category",
+              "label": "Sonstige Störungen des Wasser- und Elektrolythaushaltes, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sonstige Störungen des Wasser- und Elektrolythaushaltes, anderenorts nicht klassifiziert",
+                "inclusion": "Störung des Elektrolythaushaltes o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E88",
+          "kind": "category",
+          "label": "Sonstige Stoffwechselstörungen",
+          "rubrics": {
+            "preferred": "Sonstige Stoffwechselstörungen",
+            "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+            "exclusion": "Histiozytose X (chronisch)C96.6"
+          },
+          "children": [
+            {
+              "code": "E88.0",
+              "kind": "category",
+              "label": "Störungen des Plasmaprotein-Stoffwechsels, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Störungen des Plasmaprotein-Stoffwechsels, anderenorts nicht klassifiziert",
+                "exclusion": "Störungen des LipoproteinstoffwechselsE78.-"
+              },
+              "children": [
+                {
+                  "code": "E88.00",
+                  "kind": "category",
+                  "label": "Alpha-1-Antitrypsinmangel",
+                  "rubrics": {
+                    "preferred": "Alpha-1-Antitrypsinmangel"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E88.08",
+                  "kind": "category",
+                  "label": "Sonstige Störungen des Plasmaprotein-Stoffwechsels, anderenorts nicht klassifiziert",
+                  "rubrics": {
+                    "preferred": "Sonstige Störungen des Plasmaprotein-Stoffwechsels, anderenorts nicht klassifiziert",
+                    "inclusion": "Bisalbuminämie"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "E88.1",
+              "kind": "category",
+              "label": "Lipodystrophie, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Lipodystrophie, anderenorts nicht klassifiziert",
+                "inclusion": "Lipodystrophie o.n.A.",
+                "exclusion": "Whipple-KrankheitK90.8"
+              },
+              "children": []
+            },
+            {
+              "code": "E88.2",
+              "kind": "category",
+              "label": "Lipomatose, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Lipomatose, anderenorts nicht klassifiziert",
+                "coding-hint": "Ein gleichzeitig vorhandenes Lymphödem ist gesondert zu kodieren I89.0-.",
+                "exclusion": "Lokalisierte schmerzlose Lipohypertrophie E65"
+              },
+              "children": [
+                {
+                  "code": "E88.20",
+                  "kind": "category",
+                  "label": "Lipödem, Stadium I",
+                  "rubrics": {
+                    "preferred": "Lipödem, Stadium I",
+                    "inclusion": "Lokalisierte schmerzhafte symmetrische Lipohypertrophie der Extremitäten mit Ödem, mit glatter Hautoberfläche, mit gleichmäßig verdickter Subkutis"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E88.21",
+                  "kind": "category",
+                  "label": "Lipödem, Stadium II",
+                  "rubrics": {
+                    "preferred": "Lipödem, Stadium II",
+                    "inclusion": "Lokalisierte schmerzhafte symmetrische Lipohypertrophie der Extremitäten mit Ödem, mit unebener, wellenartiger Hautoberfläche, mit knotigen Strukturen in verdickter Subkutis"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E88.22",
+                  "kind": "category",
+                  "label": "Lipödem, Stadium III",
+                  "rubrics": {
+                    "preferred": "Lipödem, Stadium III",
+                    "inclusion": "Lokalisierte schmerzhafte symmetrische Lipohypertrophie der Extremitäten mit Ödem, mit ausgeprägter Umfangsvermehrung und großlappig überhängenden Gewebeanteilen von Haut und Subkutis"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E88.28",
+                  "kind": "category",
+                  "label": "Sonstiges oder nicht näher bezeichnetes Lipödem",
+                  "rubrics": {
+                    "preferred": "Sonstiges oder nicht näher bezeichnetes Lipödem",
+                    "inclusion": "Lokalisierte schmerzhafte symmetrische Lipohypertrophie der Extremitäten mit Ödem, Stadium nicht näher bezeichnet"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "E88.29",
+                  "kind": "category",
+                  "label": "Sonstige Lipomatose, anderenorts nicht klassifiziert",
+                  "rubrics": {
+                    "preferred": "Sonstige Lipomatose, anderenorts nicht klassifiziert",
+                    "inclusion": "Lipomatosis dolorosa [Dercum-Krankheit]"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "E88.3",
+              "kind": "category",
+              "label": "Tumorlyse-Syndrom",
+              "rubrics": {
+                "preferred": "Tumorlyse-Syndrom",
+                "inclusion": "Tumorlyse (nach zytostatischer Therapie bei Neoplasie) (spontan)"
+              },
+              "children": []
+            },
+            {
+              "code": "E88.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Stoffwechselstörungen",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Stoffwechselstörungen",
+                "inclusion": "Trimethylaminurie"
+              },
+              "children": []
+            },
+            {
+              "code": "E88.9",
+              "kind": "category",
+              "label": "Stoffwechselstörung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Stoffwechselstörung, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E89",
+          "kind": "category",
+          "label": "Endokrine und Stoffwechselstörungen nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Endokrine und Stoffwechselstörungen nach medizinischen Maßnahmen, anderenorts nicht klassifiziert"
+          },
+          "children": [
+            {
+              "code": "E89.0",
+              "kind": "category",
+              "label": "Hypothyreose nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Hypothyreose nach medizinischen Maßnahmen",
+                "inclusion": "Postoperative Hypothyreose"
+              },
+              "children": []
+            },
+            {
+              "code": "E89.1",
+              "kind": "category",
+              "label": "Hypoinsulinämie nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Hypoinsulinämie nach medizinischen Maßnahmen",
+                "inclusion": "Postoperative Hypoinsulinämie",
+                "coding-hint": "Ein pankreopriver Diabetes mellitus ist zunächst mit einer Schlüsselnummer aus E13.- zu kodieren."
+              },
+              "children": []
+            },
+            {
+              "code": "E89.2",
+              "kind": "category",
+              "label": "Hypoparathyreoidismus nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Hypoparathyreoidismus nach medizinischen Maßnahmen",
+                "inclusion": "Parathyreoprive Tetanie"
+              },
+              "children": []
+            },
+            {
+              "code": "E89.3",
+              "kind": "category",
+              "label": "Hypopituitarismus nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Hypopituitarismus nach medizinischen Maßnahmen",
+                "inclusion": "Hypopituitarismus nach Strahlentherapie"
+              },
+              "children": []
+            },
+            {
+              "code": "E89.4",
+              "kind": "category",
+              "label": "Ovarialinsuffizienz nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Ovarialinsuffizienz nach medizinischen Maßnahmen"
+              },
+              "children": []
+            },
+            {
+              "code": "E89.5",
+              "kind": "category",
+              "label": "Testikuläre Unterfunktion nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Testikuläre Unterfunktion nach medizinischen Maßnahmen"
+              },
+              "children": []
+            },
+            {
+              "code": "E89.6",
+              "kind": "category",
+              "label": "Nebennierenrinden- (Nebennierenmark-) Unterfunktion nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Nebennierenrinden- (Nebennierenmark-) Unterfunktion nach medizinischen Maßnahmen"
+              },
+              "children": []
+            },
+            {
+              "code": "E89.8",
+              "kind": "category",
+              "label": "Sonstige endokrine oder Stoffwechselstörungen nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Sonstige endokrine oder Stoffwechselstörungen nach medizinischen Maßnahmen"
+              },
+              "children": []
+            },
+            {
+              "code": "E89.9",
+              "kind": "category",
+              "label": "Endokrine oder Stoffwechselstörung nach medizinischen Maßnahmen, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Endokrine oder Stoffwechselstörung nach medizinischen Maßnahmen, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "E90",
+          "kind": "category",
+          "label": "Ernährungs- und Stoffwechselstörungen bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Ernährungs- und Stoffwechselstörungen bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

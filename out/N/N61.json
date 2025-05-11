@@ -1,0 +1,11 @@
+{
+  "code": "N61",
+  "kind": "category",
+  "label": "Entzündliche Krankheiten der Mamma [Brustdrüse]",
+  "rubrics": {
+    "preferred": "Entzündliche Krankheiten der Mamma [Brustdrüse]",
+    "inclusion": "Mastitis (akut) (subakut) (nichtpuerperal):\n\t\t\t\to.n.A.",
+    "exclusion": "Infektiöse Mastitis beim NeugeborenenP39.0"
+  },
+  "children": []
+}

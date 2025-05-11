@@ -1,0 +1,10 @@
+{
+  "code": "H44.0",
+  "kind": "category",
+  "label": "Purulente Endophthalmitis",
+  "rubrics": {
+    "preferred": "Purulente Endophthalmitis",
+    "inclusion": "Panophthalmie"
+  },
+  "children": []
+}

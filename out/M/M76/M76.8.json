@@ -1,0 +1,10 @@
+{
+  "code": "M76.8",
+  "kind": "category",
+  "label": "Sonstige Enthesopathien der unteren Extremität mit Ausnahme des Fußes",
+  "rubrics": {
+    "preferred": "Sonstige Enthesopathien der unteren Extremität mit Ausnahme des Fußes",
+    "inclusion": "Tendinitis des M. tibialis posterior"
+  },
+  "children": []
+}

@@ -1,0 +1,78 @@
+{
+  "code": "P39",
+  "kind": "category",
+  "label": "Sonstige Infektionen, die für die Perinatalperiode spezifisch sind",
+  "rubrics": {
+    "preferred": "Sonstige Infektionen, die für die Perinatalperiode spezifisch sind"
+  },
+  "children": [
+    {
+      "code": "P39.0",
+      "kind": "category",
+      "label": "Infektiöse Mastitis beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Infektiöse Mastitis beim Neugeborenen",
+        "exclusion": "Nichtinfektiöse Mastitis beim NeugeborenenP83.4"
+      },
+      "children": []
+    },
+    {
+      "code": "P39.1",
+      "kind": "category",
+      "label": "Konjunktivitis und Dakryozystitis beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Konjunktivitis und Dakryozystitis beim Neugeborenen",
+        "inclusion": "Ophthalmia neonatorum o.n.A.",
+        "exclusion": "Konjunktivitis durch GonokokkenA54.3"
+      },
+      "children": []
+    },
+    {
+      "code": "P39.2",
+      "kind": "category",
+      "label": "Intraamniale Infektion des Fetus, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Intraamniale Infektion des Fetus, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "P39.3",
+      "kind": "category",
+      "label": "Harnwegsinfektion beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Harnwegsinfektion beim Neugeborenen"
+      },
+      "children": []
+    },
+    {
+      "code": "P39.4",
+      "kind": "category",
+      "label": "Hautinfektion beim Neugeborenen",
+      "rubrics": {
+        "preferred": "Hautinfektion beim Neugeborenen",
+        "inclusion": "Pyodermie beim Neugeborenen",
+        "exclusion": "Pemphigus neonatorumL00.-"
+      },
+      "children": []
+    },
+    {
+      "code": "P39.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Infektionen, die für die Perinatalperiode spezifisch sind",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Infektionen, die für die Perinatalperiode spezifisch sind"
+      },
+      "children": []
+    },
+    {
+      "code": "P39.9",
+      "kind": "category",
+      "label": "Infektion, die für die Perinatalperiode spezifisch ist, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Infektion, die für die Perinatalperiode spezifisch ist, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

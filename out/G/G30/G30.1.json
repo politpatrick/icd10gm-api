@@ -1,0 +1,10 @@
+{
+  "code": "G30.1",
+  "kind": "category",
+  "label": "Alzheimer-Krankheit mit spätem BeginnF00.1",
+  "rubrics": {
+    "preferred": "Alzheimer-Krankheit mit spätem BeginnF00.1",
+    "note": "Beginn gewöhnlich ab dem 65. Lebensjahr"
+  },
+  "children": []
+}

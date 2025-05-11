@@ -1,0 +1,11 @@
+{
+  "code": "D16.41",
+  "kind": "category",
+  "label": "Kraniofazial",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung des Knochens und des Gelenkknorpels: Kraniofazial",
+    "preferred": "Kraniofazial",
+    "inclusion": "Os:\n\t\t\t\ttemporale"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "T51.3",
+  "kind": "category",
+  "label": "Fuselöl",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Fuselöl",
+    "preferred": "Fuselöl",
+    "inclusion": "Alkohol:\n\t\t\t\tPropyl- [1-Propanol]"
+  },
+  "children": []
+}

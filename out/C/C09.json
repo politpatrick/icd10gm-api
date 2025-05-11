@@ -1,0 +1,53 @@
+{
+  "code": "C09",
+  "kind": "category",
+  "label": "Bösartige Neubildung der Tonsille",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung der Tonsille",
+    "exclusion": "ZungentonsilleC02.4"
+  },
+  "children": [
+    {
+      "code": "C09.0",
+      "kind": "category",
+      "label": "Fossa tonsillaris",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Fossa tonsillaris",
+        "preferred": "Fossa tonsillaris"
+      },
+      "children": []
+    },
+    {
+      "code": "C09.1",
+      "kind": "category",
+      "label": "Gaumenbogen (vorderer) (hinterer)",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Gaumenbogen (vorderer) (hinterer)",
+        "preferred": "Gaumenbogen (vorderer) (hinterer)"
+      },
+      "children": []
+    },
+    {
+      "code": "C09.8",
+      "kind": "category",
+      "label": "Tonsille, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Tonsille, mehrere Teilbereiche überlappend",
+        "preferred": "Tonsille, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+      },
+      "children": []
+    },
+    {
+      "code": "C09.9",
+      "kind": "category",
+      "label": "Tonsille, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Tonsille, nicht näher bezeichnet",
+        "preferred": "Tonsille, nicht näher bezeichnet",
+        "inclusion": "Tonsille:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    }
+  ]
+}

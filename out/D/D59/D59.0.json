@@ -1,0 +1,10 @@
+{
+  "code": "D59.0",
+  "kind": "category",
+  "label": "Arzneimittelinduzierte autoimmunhämolytische Anämie",
+  "rubrics": {
+    "preferred": "Arzneimittelinduzierte autoimmunhämolytische Anämie",
+    "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

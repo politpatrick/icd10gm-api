@@ -1,0 +1,10 @@
+{
+  "code": "H47.0",
+  "kind": "category",
+  "label": "Affektionen des N. opticus, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Affektionen des N. opticus, anderenorts nicht klassifiziert",
+    "inclusion": "Kompression des N. opticus"
+  },
+  "children": []
+}

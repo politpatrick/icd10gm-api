@@ -1,0 +1,10 @@
+{
+  "code": "T70.1",
+  "kind": "category",
+  "label": "Barotrauma der Nasennebenhöhlen",
+  "rubrics": {
+    "preferred": "Barotrauma der Nasennebenhöhlen",
+    "inclusion": "Nasennebenhöhlen-Schäden durch Wechsel des Luftdruckes"
+  },
+  "children": []
+}

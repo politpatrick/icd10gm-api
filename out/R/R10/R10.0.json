@@ -1,0 +1,10 @@
+{
+  "code": "R10.0",
+  "kind": "category",
+  "label": "Akutes Abdomen",
+  "rubrics": {
+    "preferred": "Akutes Abdomen",
+    "inclusion": "Starke Bauchschmerzen (generalisiert) (lokalisiert) (mit Bauchdeckenspannung)"
+  },
+  "children": []
+}

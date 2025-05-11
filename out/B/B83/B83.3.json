@@ -1,0 +1,10 @@
+{
+  "code": "B83.3",
+  "kind": "category",
+  "label": "Syngamiasis",
+  "rubrics": {
+    "preferred": "Syngamiasis",
+    "inclusion": "Syngamosis"
+  },
+  "children": []
+}

@@ -1,0 +1,114 @@
+{
+  "code": "D12",
+  "kind": "category",
+  "label": "Gutartige Neubildung des Kolons, des Rektums, des Analkanals und des Anus",
+  "rubrics": {
+    "preferred": "Gutartige Neubildung des Kolons, des Rektums, des Analkanals und des Anus"
+  },
+  "children": [
+    {
+      "code": "D12.0",
+      "kind": "category",
+      "label": "Zäkum",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Zäkum",
+        "preferred": "Zäkum",
+        "inclusion": "Ileozäkalklappe [Bauhin]"
+      },
+      "children": []
+    },
+    {
+      "code": "D12.1",
+      "kind": "category",
+      "label": "Appendix vermiformis",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Appendix vermiformis",
+        "preferred": "Appendix vermiformis"
+      },
+      "children": []
+    },
+    {
+      "code": "D12.2",
+      "kind": "category",
+      "label": "Colon ascendens",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Colon ascendens",
+        "preferred": "Colon ascendens"
+      },
+      "children": []
+    },
+    {
+      "code": "D12.3",
+      "kind": "category",
+      "label": "Colon transversum",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Colon transversum",
+        "preferred": "Colon transversum",
+        "inclusion": "Flexura coli sinistra [lienalis]"
+      },
+      "children": []
+    },
+    {
+      "code": "D12.4",
+      "kind": "category",
+      "label": "Colon descendens",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Colon descendens",
+        "preferred": "Colon descendens"
+      },
+      "children": []
+    },
+    {
+      "code": "D12.5",
+      "kind": "category",
+      "label": "Colon sigmoideum",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Colon sigmoideum",
+        "preferred": "Colon sigmoideum"
+      },
+      "children": []
+    },
+    {
+      "code": "D12.6",
+      "kind": "category",
+      "label": "Kolon, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Kolon, nicht näher bezeichnet",
+        "preferred": "Kolon, nicht näher bezeichnet",
+        "inclusion": "Polyposis coli (hereditär)"
+      },
+      "children": []
+    },
+    {
+      "code": "D12.7",
+      "kind": "category",
+      "label": "Rektosigmoid, Übergang",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Rektosigmoid, Übergang",
+        "preferred": "Rektosigmoid, Übergang"
+      },
+      "children": []
+    },
+    {
+      "code": "D12.8",
+      "kind": "category",
+      "label": "Rektum",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Rektum",
+        "preferred": "Rektum"
+      },
+      "children": []
+    },
+    {
+      "code": "D12.9",
+      "kind": "category",
+      "label": "Analkanal und Anus",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Analkanal und Anus",
+        "preferred": "Analkanal und Anus",
+        "exclusion": "PerianalhautD22.5D23.5"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "code": "O99",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der Mutter, die anderenorts klassifizierbar sind, die jedoch Schwangerschaft, Geburt und Wochenbett komplizieren",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der Mutter, die anderenorts klassifizierbar sind, die jedoch Schwangerschaft, Geburt und Wochenbett komplizieren",
+    "note": "Diese Kategorie schließt Zustände ein, die die Schwangerschaft komplizieren, durch die Schwangerschaft verschlechtert werden oder den Hauptgrund für eine geburtshilfliche Betreuung darstellen, vorausgesetzt, das Alphabetische Verzeichnis verweist nicht auf eine spezifische Schlüsselnummer aus Kapitel XV.",
+    "coding-hint": "Soll der spezifische Krankheitszustand angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen.",
+    "exclusion": "Wenn die Betreuung der Mutter wegen eines Zustandes erfolgt, von dem bekannt ist oder angenommen wird, dass er den Fetus geschädigt hatO35-O36"
+  },
+  "children": [
+    {
+      "code": "O99.0",
+      "kind": "category",
+      "label": "Anämie, die Schwangerschaft, Geburt und Wochenbett kompliziert",
+      "rubrics": {
+        "preferred": "Anämie, die Schwangerschaft, Geburt und Wochenbett kompliziert",
+        "inclusion": "Krankheitszustände unter D50-D64"
+      },
+      "children": []
+    },
+    {
+      "code": "O99.1",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+        "inclusion": "Krankheitszustände unter D65-D89",
+        "exclusion": "Blutung bei GerinnungsstörungenO46.0O67.0O72.3"
+      },
+      "children": []
+    },
+    {
+      "code": "O99.2",
+      "kind": "category",
+      "label": "Endokrine, Ernährungs- und Stoffwechselkrankheiten, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+      "rubrics": {
+        "preferred": "Endokrine, Ernährungs- und Stoffwechselkrankheiten, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+        "inclusion": "Krankheitszustände unter E00-E90",
+        "exclusion": "Postpartale ThyreoiditisO90.5"
+      },
+      "children": []
+    },
+    {
+      "code": "O99.3",
+      "kind": "category",
+      "label": "Psychische Krankheiten sowie Krankheiten des Nervensystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+      "rubrics": {
+        "preferred": "Psychische Krankheiten sowie Krankheiten des Nervensystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+        "inclusion": "Krankheitszustände unter F00-F99 und G00-G99",
+        "exclusion": "WochenbettpsychoseF53.1"
+      },
+      "children": []
+    },
+    {
+      "code": "O99.4",
+      "kind": "category",
+      "label": "Krankheiten des Kreislaufsystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+      "rubrics": {
+        "preferred": "Krankheiten des Kreislaufsystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+        "inclusion": "Krankheitszustände unter I00-I99",
+        "exclusion": "Venenkrankheiten und zerebrovenöse Sinusthrombose als Komplikation:\n\t\t\t\twährend der Wehentätigkeit, der Geburt und im WochenbettO87.-"
+      },
+      "children": []
+    },
+    {
+      "code": "O99.5",
+      "kind": "category",
+      "label": "Krankheiten des Atmungssystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+      "rubrics": {
+        "preferred": "Krankheiten des Atmungssystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+        "inclusion": "Krankheitszustände unter J00-J99"
+      },
+      "children": []
+    },
+    {
+      "code": "O99.6",
+      "kind": "category",
+      "label": "Krankheiten des Verdauungssystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+      "rubrics": {
+        "preferred": "Krankheiten des Verdauungssystems, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+        "inclusion": "Krankheitszustände unter K00-K93",
+        "exclusion": "Leberkrankheiten während der Schwangerschaft, der Geburt und des WochenbettesO26.6-"
+      },
+      "children": []
+    },
+    {
+      "code": "O99.7",
+      "kind": "category",
+      "label": "Krankheiten der Haut und des Unterhautgewebes, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+      "rubrics": {
+        "preferred": "Krankheiten der Haut und des Unterhautgewebes, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+        "inclusion": "Krankheitszustände unter L00-L99",
+        "exclusion": "Juckreiz in der SchwangerschaftO26.88"
+      },
+      "children": []
+    },
+    {
+      "code": "O99.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten und Zustände, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten und Zustände, die Schwangerschaft, Geburt und Wochenbett komplizieren",
+        "inclusion": "Krankheitszustände unter C00-D48, H00-H95, M00-M99, N00-N99 und Q00-Q99, anderenorts nicht klassifiziert",
+        "exclusion": "Postpartales akutes NierenversagenO90.4"
+      },
+      "children": []
+    }
+  ]
+}

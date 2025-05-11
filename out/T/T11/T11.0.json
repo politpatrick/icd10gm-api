@@ -1,0 +1,80 @@
+{
+  "code": "T11.0",
+  "kind": "category",
+  "label": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet"
+  },
+  "children": [
+    {
+      "code": "T11.00",
+      "kind": "category",
+      "label": "Art der Verletzung nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Art der Verletzung nicht näher bezeichnet",
+        "preferred": "Art der Verletzung nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "T11.01",
+      "kind": "category",
+      "label": "Schürfwunde",
+      "rubrics": {
+        "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Schürfwunde",
+        "preferred": "Schürfwunde"
+      },
+      "children": []
+    },
+    {
+      "code": "T11.02",
+      "kind": "category",
+      "label": "Blasenbildung (nichtthermisch)",
+      "rubrics": {
+        "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Blasenbildung (nichtthermisch)",
+        "preferred": "Blasenbildung (nichtthermisch)"
+      },
+      "children": []
+    },
+    {
+      "code": "T11.03",
+      "kind": "category",
+      "label": "Insektenbiss oder -stich (ungiftig)",
+      "rubrics": {
+        "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Insektenbiss oder -stich (ungiftig)",
+        "preferred": "Insektenbiss oder -stich (ungiftig)"
+      },
+      "children": []
+    },
+    {
+      "code": "T11.04",
+      "kind": "category",
+      "label": "Oberflächlicher Fremdkörper (Splitter)",
+      "rubrics": {
+        "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Oberflächlicher Fremdkörper (Splitter)",
+        "preferred": "Oberflächlicher Fremdkörper (Splitter)"
+      },
+      "children": []
+    },
+    {
+      "code": "T11.05",
+      "kind": "category",
+      "label": "Prellung",
+      "rubrics": {
+        "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Prellung",
+        "preferred": "Prellung"
+      },
+      "children": []
+    },
+    {
+      "code": "T11.08",
+      "kind": "category",
+      "label": "Sonstige",
+      "rubrics": {
+        "preferredLong": "Oberflächliche Verletzung der oberen Extremität, Höhe nicht näher bezeichnet: Sonstige",
+        "preferred": "Sonstige"
+      },
+      "children": []
+    }
+  ]
+}

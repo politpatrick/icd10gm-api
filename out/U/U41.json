@@ -1,0 +1,101 @@
+{
+  "code": "U41",
+  "kind": "category",
+  "label": "Nicht belegte Schlüsselnummern U41.-",
+  "rubrics": {
+    "preferred": "Nicht belegte Schlüsselnummern U41.-",
+    "note": "Die Verwendung der Schlüsselnummern U00-U49 ist der WHO vorbehalten, um eine provisorische Zuordnung von Krankheiten unklarer Genese zu ermöglichen. Im Bedarfsfall können notwendige Schlüsselnummern in EDV-Systemen nicht immer ad hoc bereitgestellt werden. Die vorliegende Spezifikation der Kategorie U41.- stellt sicher, dass diese Kategorie und die Subkategorien in EDV-Systemen jederzeit verfügbar sind und ihre Nutzung, nach Vorgabe durch die WHO, umgehend erfolgen kann."
+  },
+  "children": [
+    {
+      "code": "U41.0",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U41.0",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U41.0"
+      },
+      "children": []
+    },
+    {
+      "code": "U41.1",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U41.1",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U41.1"
+      },
+      "children": []
+    },
+    {
+      "code": "U41.2",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U41.2",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U41.2"
+      },
+      "children": []
+    },
+    {
+      "code": "U41.3",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U41.3",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U41.3"
+      },
+      "children": []
+    },
+    {
+      "code": "U41.4",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U41.4",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U41.4"
+      },
+      "children": []
+    },
+    {
+      "code": "U41.5",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U41.5",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U41.5"
+      },
+      "children": []
+    },
+    {
+      "code": "U41.6",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U41.6",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U41.6"
+      },
+      "children": []
+    },
+    {
+      "code": "U41.7",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U41.7",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U41.7"
+      },
+      "children": []
+    },
+    {
+      "code": "U41.8",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U41.8",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U41.8"
+      },
+      "children": []
+    },
+    {
+      "code": "U41.9",
+      "kind": "category",
+      "label": "Nicht belegte Schlüsselnummer U41.9",
+      "rubrics": {
+        "preferred": "Nicht belegte Schlüsselnummer U41.9"
+      },
+      "children": []
+    }
+  ]
+}

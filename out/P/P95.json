@@ -1,0 +1,10 @@
+{
+  "code": "P95",
+  "kind": "category",
+  "label": "Fetaltod nicht näher bezeichneter Ursache",
+  "rubrics": {
+    "preferred": "Fetaltod nicht näher bezeichneter Ursache",
+    "inclusion": "Totgeburt o.n.A."
+  },
+  "children": []
+}

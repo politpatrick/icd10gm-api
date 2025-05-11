@@ -1,0 +1,102 @@
+{
+  "code": "K07",
+  "kind": "category",
+  "label": "Dentofaziale Anomalien [einschließlich fehlerhafter Okklusion]",
+  "rubrics": {
+    "preferred": "Dentofaziale Anomalien [einschließlich fehlerhafter Okklusion]",
+    "exclusion": "Unilaterale Hyperplasie oder Hypoplasie des Processus condylaris mandibulaeK10.8"
+  },
+  "children": [
+    {
+      "code": "K07.0",
+      "kind": "category",
+      "label": "Stärkere Anomalien der Kiefergröße",
+      "rubrics": {
+        "preferred": "Stärkere Anomalien der Kiefergröße",
+        "inclusion": "Mikrognathie (mandibulär) (maxillär)",
+        "exclusion": "(Pierre-) Robin-SyndromQ87.0"
+      },
+      "children": []
+    },
+    {
+      "code": "K07.1",
+      "kind": "category",
+      "label": "Anomalien des Kiefer-Schädelbasis-Verhältnisses",
+      "rubrics": {
+        "preferred": "Anomalien des Kiefer-Schädelbasis-Verhältnisses",
+        "inclusion": "Retrognathie (mandibulär) (maxillär)"
+      },
+      "children": []
+    },
+    {
+      "code": "K07.2",
+      "kind": "category",
+      "label": "Anomalien des Zahnbogenverhältnisses",
+      "rubrics": {
+        "preferred": "Anomalien des Zahnbogenverhältnisses",
+        "inclusion": "Verschiebung der Mittellinie des Zahnbogens"
+      },
+      "children": []
+    },
+    {
+      "code": "K07.3",
+      "kind": "category",
+      "label": "Zahnstellungsanomalien",
+      "rubrics": {
+        "preferred": "Zahnstellungsanomalien",
+        "inclusion": "Impaktierte oder retinierte Zähne mit abnormer Stellung derselben oder der benachbarten Zähne",
+        "exclusion": "Retinierte und impaktierte Zähne ohne abnorme StellungK01.-"
+      },
+      "children": []
+    },
+    {
+      "code": "K07.4",
+      "kind": "category",
+      "label": "Fehlerhafte Okklusion, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Fehlerhafte Okklusion, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "K07.5",
+      "kind": "category",
+      "label": "Funktionelle dentofaziale Anomalien",
+      "rubrics": {
+        "preferred": "Funktionelle dentofaziale Anomalien",
+        "inclusion": "Fehlerhafte Okklusion durch:\n\t\t\t\tZungen-, Lippen- oder Fingerlutschgewohnheiten",
+        "exclusion": "Zähneknirschen o.n.A.F45.8"
+      },
+      "children": []
+    },
+    {
+      "code": "K07.6",
+      "kind": "category",
+      "label": "Krankheiten des Kiefergelenkes",
+      "rubrics": {
+        "preferred": "Krankheiten des Kiefergelenkes",
+        "inclusion": "Kiefergelenkarthralgie",
+        "exclusion": "Akute KieferzerrungS03.4"
+      },
+      "children": []
+    },
+    {
+      "code": "K07.8",
+      "kind": "category",
+      "label": "Sonstige dentofaziale Anomalien",
+      "rubrics": {
+        "preferred": "Sonstige dentofaziale Anomalien"
+      },
+      "children": []
+    },
+    {
+      "code": "K07.9",
+      "kind": "category",
+      "label": "Dentofaziale Anomalie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Dentofaziale Anomalie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

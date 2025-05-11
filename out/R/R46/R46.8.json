@@ -1,0 +1,11 @@
+{
+  "code": "R46.8",
+  "kind": "category",
+  "label": "Sonstige Symptome, die das äußere Erscheinungsbild und das Verhalten betreffen",
+  "rubrics": {
+    "preferred": "Sonstige Symptome, die das äußere Erscheinungsbild und das Verhalten betreffen",
+    "inclusion": "Vernachlässigung der eigenen Person o.n.A.",
+    "exclusion": "Ungenügende Aufnahme von Nahrung und Flüssigkeit (infolge Vernachlässigung der eigenen Person)R63.6"
+  },
+  "children": []
+}

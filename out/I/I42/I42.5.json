@@ -1,0 +1,10 @@
+{
+  "code": "I42.5",
+  "kind": "category",
+  "label": "Sonstige restriktive Kardiomyopathie",
+  "rubrics": {
+    "preferred": "Sonstige restriktive Kardiomyopathie",
+    "inclusion": "Obliterative Kardiomyopathie o.n.A."
+  },
+  "children": []
+}

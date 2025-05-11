@@ -1,0 +1,10 @@
+{
+  "code": "E03.4",
+  "kind": "category",
+  "label": "Atrophie der Schilddrüse (erworben)",
+  "rubrics": {
+    "preferred": "Atrophie der Schilddrüse (erworben)",
+    "exclusion": "Angeborene Atrophie der SchilddrüseE03.1"
+  },
+  "children": []
+}

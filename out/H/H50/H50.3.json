@@ -1,0 +1,10 @@
+{
+  "code": "H50.3",
+  "kind": "category",
+  "label": "Intermittierender Strabismus concomitans",
+  "rubrics": {
+    "preferred": "Intermittierender Strabismus concomitans",
+    "inclusion": "Intermittierend:\n\t\t\t\tStrabismus divergens\n\t\t\t\t(alternierend) (unilateral)"
+  },
+  "children": []
+}

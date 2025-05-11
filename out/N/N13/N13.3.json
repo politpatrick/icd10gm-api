@@ -1,0 +1,10 @@
+{
+  "code": "N13.3",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Hydronephrose",
+  "rubrics": {
+    "preferred": "Sonstige und nicht näher bezeichnete Hydronephrose",
+    "exclusion": "Mit Infektion der NiereN13.65"
+  },
+  "children": []
+}

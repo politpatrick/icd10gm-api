@@ -1,0 +1,30 @@
+{
+  "code": "U50.5",
+  "kind": "category",
+  "label": "Sehr schwere motorische Funktionseinschränkung",
+  "rubrics": {
+    "preferred": "Sehr schwere motorische Funktionseinschränkung"
+  },
+  "children": [
+    {
+      "code": "U50.50",
+      "kind": "category",
+      "label": "Barthel-Index: 0-15 Punkte",
+      "rubrics": {
+        "preferredLong": "Sehr schwere motorische Funktionseinschränkung: Barthel-Index: 0-15 Punkte",
+        "preferred": "Barthel-Index: 0-15 Punkte"
+      },
+      "children": []
+    },
+    {
+      "code": "U50.51",
+      "kind": "category",
+      "label": "Motorischer FIM: 13-30 Punkte",
+      "rubrics": {
+        "preferredLong": "Sehr schwere motorische Funktionseinschränkung: Motorischer FIM: 13-30 Punkte",
+        "preferred": "Motorischer FIM: 13-30 Punkte"
+      },
+      "children": []
+    }
+  ]
+}

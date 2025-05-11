@@ -1,0 +1,53 @@
+{
+  "code": "C48",
+  "kind": "category",
+  "label": "Bösartige Neubildung des Retroperitoneums und des Peritoneums",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung des Retroperitoneums und des Peritoneums",
+    "exclusion": "MesotheliomC45.-"
+  },
+  "children": [
+    {
+      "code": "C48.0",
+      "kind": "category",
+      "label": "Retroperitoneum",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Retroperitoneum",
+        "preferred": "Retroperitoneum"
+      },
+      "children": []
+    },
+    {
+      "code": "C48.1",
+      "kind": "category",
+      "label": "Näher bezeichnete Teile des Peritoneums",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Näher bezeichnete Teile des Peritoneums",
+        "preferred": "Näher bezeichnete Teile des Peritoneums",
+        "inclusion": "Peritoneum:\n\t\t\t\tviscerale"
+      },
+      "children": []
+    },
+    {
+      "code": "C48.2",
+      "kind": "category",
+      "label": "Peritoneum, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Peritoneum, nicht näher bezeichnet",
+        "preferred": "Peritoneum, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "C48.8",
+      "kind": "category",
+      "label": "Retroperitoneum und Peritoneum, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Retroperitoneum und Peritoneum, mehrere Teilbereiche überlappend",
+        "preferred": "Retroperitoneum und Peritoneum, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+      },
+      "children": []
+    }
+  ]
+}

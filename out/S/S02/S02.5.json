@@ -1,0 +1,11 @@
+{
+  "code": "S02.5",
+  "kind": "category",
+  "label": "Zahnfraktur",
+  "rubrics": {
+    "preferred": "Zahnfraktur",
+    "inclusion": "Gebrochener Zahn",
+    "exclusion": "Pathologische ZahnfrakturK08.81"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "E23.6",
+  "kind": "category",
+  "label": "Sonstige Störungen der Hypophyse",
+  "rubrics": {
+    "preferred": "Sonstige Störungen der Hypophyse",
+    "inclusion": "Dystrophia adiposogenitalis"
+  },
+  "children": []
+}

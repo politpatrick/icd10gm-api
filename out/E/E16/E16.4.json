@@ -1,0 +1,10 @@
+{
+  "code": "E16.4",
+  "kind": "category",
+  "label": "Abnorme Gastrinsekretion",
+  "rubrics": {
+    "preferred": "Abnorme Gastrinsekretion",
+    "inclusion": "Zollinger-Ellison-Syndrom"
+  },
+  "children": []
+}

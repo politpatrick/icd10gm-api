@@ -1,0 +1,11 @@
+{
+  "code": "O86.4",
+  "kind": "category",
+  "label": "Fieber unbekannten Ursprungs nach Entbindung",
+  "rubrics": {
+    "preferred": "Fieber unbekannten Ursprungs nach Entbindung",
+    "inclusion": "Infektion o.n.A.\n\t\t\t\tim Wochenbett",
+    "exclusion": "PuerperalfieberO85"
+  },
+  "children": []
+}

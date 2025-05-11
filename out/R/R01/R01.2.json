@@ -1,0 +1,10 @@
+{
+  "code": "R01.2",
+  "kind": "category",
+  "label": "Sonstige Herz-Schallphänomene",
+  "rubrics": {
+    "preferred": "Sonstige Herz-Schallphänomene",
+    "inclusion": "Präkordiales Reiben"
+  },
+  "children": []
+}

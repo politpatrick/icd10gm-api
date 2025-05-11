@@ -1,0 +1,11 @@
+{
+  "code": "T51.1",
+  "kind": "category",
+  "label": "Methanol",
+  "rubrics": {
+    "preferredLong": "Toxische Wirkung: Methanol",
+    "preferred": "Methanol",
+    "inclusion": "Methylalkohol"
+  },
+  "children": []
+}

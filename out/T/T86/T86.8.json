@@ -1,0 +1,62 @@
+{
+  "code": "T86.8",
+  "kind": "category",
+  "label": "Versagen und Abstoßung sonstiger transplantierter Organe und Gewebe",
+  "rubrics": {
+    "preferred": "Versagen und Abstoßung sonstiger transplantierter Organe und Gewebe"
+  },
+  "children": [
+    {
+      "code": "T86.81",
+      "kind": "category",
+      "label": "Lungentransplantat",
+      "rubrics": {
+        "preferredLong": "Versagen und Abstoßung: Lungentransplantat",
+        "preferred": "Lungentransplantat"
+      },
+      "children": []
+    },
+    {
+      "code": "T86.82",
+      "kind": "category",
+      "label": "Pankreastransplantat",
+      "rubrics": {
+        "preferredLong": "Versagen und Abstoßung: Pankreastransplantat",
+        "preferred": "Pankreastransplantat"
+      },
+      "children": []
+    },
+    {
+      "code": "T86.83",
+      "kind": "category",
+      "label": "Hornhauttransplantat des Auges",
+      "rubrics": {
+        "preferredLong": "Versagen und Abstoßung: Hornhauttransplantat des Auges",
+        "preferred": "Hornhauttransplantat des Auges"
+      },
+      "children": []
+    },
+    {
+      "code": "T86.84",
+      "kind": "category",
+      "label": "Mammatransplantat ohne Hautanteil",
+      "rubrics": {
+        "preferredLong": "Versagen und Abstoßung: Mammatransplantat ohne Hautanteil",
+        "preferred": "Mammatransplantat ohne Hautanteil",
+        "exclusion": "Versagen und Abstoßung eines Mammatransplantates mit HautanteilT86.5-"
+      },
+      "children": []
+    },
+    {
+      "code": "T86.88",
+      "kind": "category",
+      "label": "Sonstige transplantierte Organe und Gewebe",
+      "rubrics": {
+        "preferredLong": "Versagen und Abstoßung: Sonstige transplantierte Organe und Gewebe",
+        "preferred": "Sonstige transplantierte Organe und Gewebe",
+        "inclusion": "Transplantatversagen oder -abstoßung von:\n\t\t\t\tKnochen"
+      },
+      "children": []
+    }
+  ]
+}

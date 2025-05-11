@@ -1,0 +1,10 @@
+{
+  "code": "G25.80",
+  "kind": "category",
+  "label": "Periodische Beinbewegungen im Schlaf",
+  "rubrics": {
+    "preferred": "Periodische Beinbewegungen im Schlaf",
+    "inclusion": "Periodic Limb Movements in Sleep [PLMS]"
+  },
+  "children": []
+}

@@ -1,0 +1,58 @@
+{
+  "code": "G41",
+  "kind": "category",
+  "label": "Status epilepticus",
+  "rubrics": {
+    "preferred": "Status epilepticus"
+  },
+  "children": [
+    {
+      "code": "G41.0",
+      "kind": "category",
+      "label": "Grand-Mal-Status",
+      "rubrics": {
+        "preferred": "Grand-Mal-Status",
+        "inclusion": "Status mit tonisch-klonischen Anfällen",
+        "exclusion": "Epilepsia partialis continua [Kojewnikow-Syndrom]G40.5"
+      },
+      "children": []
+    },
+    {
+      "code": "G41.1",
+      "kind": "category",
+      "label": "Petit-Mal-Status",
+      "rubrics": {
+        "preferred": "Petit-Mal-Status",
+        "inclusion": "Absencenstatus"
+      },
+      "children": []
+    },
+    {
+      "code": "G41.2",
+      "kind": "category",
+      "label": "Status epilepticus mit komplexfokalen Anfällen",
+      "rubrics": {
+        "preferred": "Status epilepticus mit komplexfokalen Anfällen"
+      },
+      "children": []
+    },
+    {
+      "code": "G41.8",
+      "kind": "category",
+      "label": "Sonstiger Status epilepticus",
+      "rubrics": {
+        "preferred": "Sonstiger Status epilepticus"
+      },
+      "children": []
+    },
+    {
+      "code": "G41.9",
+      "kind": "category",
+      "label": "Status epilepticus, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Status epilepticus, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

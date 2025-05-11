@@ -1,0 +1,48 @@
+{
+  "code": "E51",
+  "kind": "category",
+  "label": "Thiaminmangel [Vitamin-B1-Mangel]",
+  "rubrics": {
+    "preferred": "Thiaminmangel [Vitamin-B1-Mangel]",
+    "exclusion": "Folgen des ThiaminmangelsE64.8"
+  },
+  "children": [
+    {
+      "code": "E51.1",
+      "kind": "category",
+      "label": "Beriberi",
+      "rubrics": {
+        "preferred": "Beriberi",
+        "inclusion": "Beriberi:\n\t\t\t\ttrockene Form"
+      },
+      "children": []
+    },
+    {
+      "code": "E51.2",
+      "kind": "category",
+      "label": "Wernicke-Enzephalopathie",
+      "rubrics": {
+        "preferred": "Wernicke-Enzephalopathie"
+      },
+      "children": []
+    },
+    {
+      "code": "E51.8",
+      "kind": "category",
+      "label": "Sonstige Manifestationen des Thiaminmangels",
+      "rubrics": {
+        "preferred": "Sonstige Manifestationen des Thiaminmangels"
+      },
+      "children": []
+    },
+    {
+      "code": "E51.9",
+      "kind": "category",
+      "label": "Thiaminmangel, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Thiaminmangel, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

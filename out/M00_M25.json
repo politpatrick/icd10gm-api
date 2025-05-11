@@ -1,0 +1,2617 @@
+{
+  "code": "M00-M25",
+  "kind": "block",
+  "label": "Arthropathien",
+  "rubrics": {
+    "preferred": "Arthropathien",
+    "inclusion": "Krankheiten, die vorwiegend an den peripheren (Extremitäten-) Gelenken auftreten"
+  },
+  "children": [
+    {
+      "code": "M00-M03",
+      "kind": "block",
+      "label": "Infektiöse Arthropathien",
+      "rubrics": {
+        "preferred": "Infektiöse Arthropathien",
+        "note": "Diese Gruppe enthält Gelenkkrankheiten durch Mikroorganismen. Aufgrund der ätiologischen Zusammenhänge wird zwischen folgenden Typen unterschieden:\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tdirekte Gelenkinfektion: Die Erreger wandern in das Synovialgewebe ein, ihre Antigene sind im Gelenk nachweisbar.\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tindirekte Gelenkinfektion: Es wird wiederum zwischen zwei Typen unterschieden:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\treaktive Arthritis: Es ist zwar eine Infektion des Gesamtorganismus erwiesen, aber im Gelenk können weder Erreger noch deren Antigene nachgewiesen werden.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tpostinfektiöse Arthritis: Es lässt sich zwar ein Erregerantigen nachweisen, aber der Erreger selbst ist nur inkonstant und seine lokale Vermehrung nicht nachweisbar."
+      },
+      "children": [
+        {
+          "code": "M00",
+          "kind": "category",
+          "label": "Eitrige Arthritis",
+          "rubrics": {
+            "preferred": "Eitrige Arthritis",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "coding-hint": "Benutze eine zusätzliche Schlüsselnummer T84.5-T84.7, um das Vorliegen einer Arthritis im Rahmen einer periimplantären (implantatassoziierten) Infektion zu kodieren."
+          },
+          "children": [
+            {
+              "code": "M00.0",
+              "kind": "category",
+              "label": "Arthritis und Polyarthritis durch Staphylokokken",
+              "rubrics": {
+                "preferred": "Arthritis und Polyarthritis durch Staphylokokken"
+              },
+              "children": []
+            },
+            {
+              "code": "M00.1",
+              "kind": "category",
+              "label": "Arthritis und Polyarthritis durch Pneumokokken",
+              "rubrics": {
+                "preferred": "Arthritis und Polyarthritis durch Pneumokokken"
+              },
+              "children": []
+            },
+            {
+              "code": "M00.2",
+              "kind": "category",
+              "label": "Arthritis und Polyarthritis durch sonstige Streptokokken",
+              "rubrics": {
+                "preferred": "Arthritis und Polyarthritis durch sonstige Streptokokken"
+              },
+              "children": []
+            },
+            {
+              "code": "M00.8",
+              "kind": "category",
+              "label": "Arthritis und Polyarthritis durch sonstige näher bezeichnete bakterielle Erreger",
+              "rubrics": {
+                "preferred": "Arthritis und Polyarthritis durch sonstige näher bezeichnete bakterielle Erreger",
+                "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "M00.9",
+              "kind": "category",
+              "label": "Eitrige Arthritis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Eitrige Arthritis, nicht näher bezeichnet",
+                "inclusion": "Infektiöse Arthritis o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M01",
+          "kind": "category",
+          "label": "Direkte Gelenkinfektionen bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+          "rubrics": {
+            "preferred": "Direkte Gelenkinfektionen bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Postinfektiöse und reaktive ArthritisM03.-"
+          },
+          "children": [
+            {
+              "code": "M01.0",
+              "kind": "category",
+              "label": "Arthritis durch MeningokokkenA39.8",
+              "rubrics": {
+                "preferred": "Arthritis durch MeningokokkenA39.8",
+                "exclusion": "Arthritis nach MeningokokkeninfektionM03.0-"
+              },
+              "children": []
+            },
+            {
+              "code": "M01.1",
+              "kind": "category",
+              "label": "Tuberkulöse ArthritisA18.0",
+              "rubrics": {
+                "preferred": "Tuberkulöse ArthritisA18.0",
+                "exclusion": "WirbelsäuleM49.0-"
+              },
+              "children": []
+            },
+            {
+              "code": "M01.2",
+              "kind": "category",
+              "label": "Arthritis bei Lyme-KrankheitA69.2",
+              "rubrics": {
+                "preferred": "Arthritis bei Lyme-KrankheitA69.2"
+              },
+              "children": []
+            },
+            {
+              "code": "M01.3",
+              "kind": "category",
+              "label": "Arthritis bei sonstigen anderenorts klassifizierten bakteriellen Krankheiten",
+              "rubrics": {
+                "preferred": "Arthritis bei sonstigen anderenorts klassifizierten bakteriellen Krankheiten",
+                "inclusion": "Arthritis durch GonokokkenA54.4"
+              },
+              "children": []
+            },
+            {
+              "code": "M01.4",
+              "kind": "category",
+              "label": "Arthritis bei RötelnB06.8",
+              "rubrics": {
+                "preferred": "Arthritis bei RötelnB06.8"
+              },
+              "children": []
+            },
+            {
+              "code": "M01.5",
+              "kind": "category",
+              "label": "Arthritis bei sonstigen anderenorts klassifizierten Viruskrankheiten",
+              "rubrics": {
+                "preferred": "Arthritis bei sonstigen anderenorts klassifizierten Viruskrankheiten",
+                "inclusion": "Arthritis bei:\n\t\t\t\tO'Nyong-nyong-FieberA92.1"
+              },
+              "children": []
+            },
+            {
+              "code": "M01.6",
+              "kind": "category",
+              "label": "Arthritis bei MykosenB35-B49",
+              "rubrics": {
+                "preferred": "Arthritis bei MykosenB35-B49"
+              },
+              "children": []
+            },
+            {
+              "code": "M01.8",
+              "kind": "category",
+              "label": "Arthritis bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Arthritis bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M02",
+          "kind": "category",
+          "label": "Reaktive Arthritiden",
+          "rubrics": {
+            "preferred": "Reaktive Arthritiden",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Rheumatisches FieberI00"
+          },
+          "children": [
+            {
+              "code": "M02.0",
+              "kind": "category",
+              "label": "Arthritis nach intestinalem Bypass",
+              "rubrics": {
+                "preferred": "Arthritis nach intestinalem Bypass"
+              },
+              "children": []
+            },
+            {
+              "code": "M02.1",
+              "kind": "category",
+              "label": "Postenteritische Arthritis",
+              "rubrics": {
+                "preferred": "Postenteritische Arthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M02.2",
+              "kind": "category",
+              "label": "Arthritis nach Impfung",
+              "rubrics": {
+                "preferred": "Arthritis nach Impfung"
+              },
+              "children": []
+            },
+            {
+              "code": "M02.3",
+              "kind": "category",
+              "label": "Reiter-Krankheit",
+              "rubrics": {
+                "preferred": "Reiter-Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "M02.8",
+              "kind": "category",
+              "label": "Sonstige reaktive Arthritiden",
+              "rubrics": {
+                "preferred": "Sonstige reaktive Arthritiden"
+              },
+              "children": []
+            },
+            {
+              "code": "M02.9",
+              "kind": "category",
+              "label": "Reaktive Arthritis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Reaktive Arthritis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M03",
+          "kind": "category",
+          "label": "Postinfektiöse und reaktive Arthritiden bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Postinfektiöse und reaktive Arthritiden bei anderenorts klassifizierten Krankheiten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Direkte Gelenkinfektion bei anderenorts klassifizierten infektiösen und parasitären KrankheitenM01.-"
+          },
+          "children": [
+            {
+              "code": "M03.0",
+              "kind": "category",
+              "label": "Arthritis nach MeningokokkeninfektionA39.8",
+              "rubrics": {
+                "preferred": "Arthritis nach MeningokokkeninfektionA39.8",
+                "exclusion": "Arthritis durch MeningokokkenM01.0-"
+              },
+              "children": []
+            },
+            {
+              "code": "M03.1",
+              "kind": "category",
+              "label": "Postinfektiöse Arthritis bei Syphilis",
+              "rubrics": {
+                "preferred": "Postinfektiöse Arthritis bei Syphilis",
+                "inclusion": "Clutton-SyndromA50.5",
+                "exclusion": "Charcot-Arthropathie oder tabische ArthropathieM14.6-"
+              },
+              "children": []
+            },
+            {
+              "code": "M03.2",
+              "kind": "category",
+              "label": "Sonstige postinfektiöse Arthritiden bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige postinfektiöse Arthritiden bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Postinfektiöse Arthritis bei:\n\t\t\t\tVirushepatitisB15-B19",
+                "exclusion": "Virale ArthritidenM01.4-M01.5-"
+              },
+              "children": []
+            },
+            {
+              "code": "M03.6",
+              "kind": "category",
+              "label": "Reaktive Arthritis bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Reaktive Arthritis bei sonstigen anderenorts klassifizierten Krankheiten",
+                "inclusion": "Arthritis bei infektiöser EndokarditisI33.0"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M05-M14",
+      "kind": "block",
+      "label": "Entzündliche Polyarthropathien",
+      "rubrics": {
+        "preferred": "Entzündliche Polyarthropathien"
+      },
+      "children": [
+        {
+          "code": "M05",
+          "kind": "category",
+          "label": "Seropositive chronische Polyarthritis",
+          "rubrics": {
+            "preferred": "Seropositive chronische Polyarthritis",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Rheumatisches FieberI00"
+          },
+          "children": [
+            {
+              "code": "M05.0",
+              "kind": "category",
+              "label": "Felty-Syndrom",
+              "rubrics": {
+                "preferred": "Felty-Syndrom",
+                "inclusion": "Chronische Polyarthritis mit Lymphosplenomegalie und Leukopenie"
+              },
+              "children": []
+            },
+            {
+              "code": "M05.1",
+              "kind": "category",
+              "label": "Lungenmanifestation der seropositiven chronischen PolyarthritisJ99.0",
+              "rubrics": {
+                "preferred": "Lungenmanifestation der seropositiven chronischen PolyarthritisJ99.0"
+              },
+              "children": []
+            },
+            {
+              "code": "M05.2",
+              "kind": "category",
+              "label": "Vaskulitis bei seropositiver chronischer Polyarthritis",
+              "rubrics": {
+                "preferred": "Vaskulitis bei seropositiver chronischer Polyarthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M05.3",
+              "kind": "category",
+              "label": "Seropositive chronische Polyarthritis mit Beteiligung sonstiger Organe und Organsysteme",
+              "rubrics": {
+                "preferred": "Seropositive chronische Polyarthritis mit Beteiligung sonstiger Organe und Organsysteme",
+                "inclusion": "PolyneuropathieG63.6\n\t\t\t\tbei seropositiver chronischer Polyarthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M05.8",
+              "kind": "category",
+              "label": "Sonstige seropositive chronische Polyarthritis",
+              "rubrics": {
+                "preferred": "Sonstige seropositive chronische Polyarthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M05.9",
+              "kind": "category",
+              "label": "Seropositive chronische Polyarthritis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Seropositive chronische Polyarthritis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M06",
+          "kind": "category",
+          "label": "Sonstige chronische Polyarthritis",
+          "rubrics": {
+            "preferred": "Sonstige chronische Polyarthritis",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+          },
+          "children": [
+            {
+              "code": "M06.0",
+              "kind": "category",
+              "label": "Seronegative chronische Polyarthritis",
+              "rubrics": {
+                "preferred": "Seronegative chronische Polyarthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M06.1",
+              "kind": "category",
+              "label": "Adulte Form der Still-Krankheit",
+              "rubrics": {
+                "preferred": "Adulte Form der Still-Krankheit",
+                "exclusion": "Still-Krankheit o.n.A.M08.2-"
+              },
+              "children": []
+            },
+            {
+              "code": "M06.2",
+              "kind": "category",
+              "label": "Bursitis bei chronischer Polyarthritis",
+              "rubrics": {
+                "preferred": "Bursitis bei chronischer Polyarthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M06.3",
+              "kind": "category",
+              "label": "Rheumaknoten",
+              "rubrics": {
+                "preferred": "Rheumaknoten"
+              },
+              "children": []
+            },
+            {
+              "code": "M06.4",
+              "kind": "category",
+              "label": "Entzündliche Polyarthropathie",
+              "rubrics": {
+                "preferred": "Entzündliche Polyarthropathie",
+                "exclusion": "Polyarthritis o.n.A.M13.0"
+              },
+              "children": []
+            },
+            {
+              "code": "M06.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete chronische Polyarthritis",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete chronische Polyarthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M06.9",
+              "kind": "category",
+              "label": "Chronische Polyarthritis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Chronische Polyarthritis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M07",
+          "kind": "category",
+          "label": "Arthritis psoriatica und Arthritiden bei gastrointestinalen Grundkrankheiten",
+          "rubrics": {
+            "preferred": "Arthritis psoriatica und Arthritiden bei gastrointestinalen Grundkrankheiten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Juvenile Arthritis psoriatica und juvenile Arthritiden bei gastrointestinalen GrundkrankheitenM09.-"
+          },
+          "children": [
+            {
+              "code": "M07.0",
+              "kind": "category",
+              "label": "Distale interphalangeale Arthritis psoriaticaL40.5",
+              "rubrics": {
+                "preferred": "Distale interphalangeale Arthritis psoriaticaL40.5"
+              },
+              "children": []
+            },
+            {
+              "code": "M07.1",
+              "kind": "category",
+              "label": "Arthritis mutilansL40.5",
+              "rubrics": {
+                "preferred": "Arthritis mutilansL40.5"
+              },
+              "children": []
+            },
+            {
+              "code": "M07.2",
+              "kind": "category",
+              "label": "Spondylitis psoriaticaL40.5",
+              "rubrics": {
+                "preferred": "Spondylitis psoriaticaL40.5",
+                "inclusion": "Spondyloarthritis psoriatica"
+              },
+              "children": []
+            },
+            {
+              "code": "M07.3",
+              "kind": "category",
+              "label": "Sonstige psoriatische ArthritidenL40.5",
+              "rubrics": {
+                "preferred": "Sonstige psoriatische ArthritidenL40.5"
+              },
+              "children": []
+            },
+            {
+              "code": "M07.4",
+              "kind": "category",
+              "label": "Arthritis bei Crohn-Krankheit [Enteritis regionalis]K50.-",
+              "rubrics": {
+                "preferred": "Arthritis bei Crohn-Krankheit [Enteritis regionalis]K50.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M07.5",
+              "kind": "category",
+              "label": "Arthritis bei Colitis ulcerosaK51.-",
+              "rubrics": {
+                "preferred": "Arthritis bei Colitis ulcerosaK51.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M07.6",
+              "kind": "category",
+              "label": "Sonstige Arthritiden bei gastrointestinalen Grundkrankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Arthritiden bei gastrointestinalen Grundkrankheiten"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M08",
+          "kind": "category",
+          "label": "Juvenile Arthritis",
+          "rubrics": {
+            "preferred": "Juvenile Arthritis",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "inclusion": "Arthritis bei Kindern, Beginn vor Vollendung des 15. Lebensjahres, mit einer Dauer von mehr als 3 Monaten",
+            "exclusion": "Juvenile DermatomyositisM33.0"
+          },
+          "children": [
+            {
+              "code": "M08.0",
+              "kind": "category",
+              "label": "Juvenile chronische Polyarthritis, adulter Typ",
+              "rubrics": {
+                "preferred": "Juvenile chronische Polyarthritis, adulter Typ",
+                "inclusion": "Juvenile chronische Polyarthritis vom Erwachsenentyp der chronischen Polyarthritis, mit oder ohne Rheumafaktor-Nachweis"
+              },
+              "children": []
+            },
+            {
+              "code": "M08.1",
+              "kind": "category",
+              "label": "Juvenile Spondylitis ankylosans",
+              "rubrics": {
+                "preferred": "Juvenile Spondylitis ankylosans",
+                "exclusion": "Axiale Spondyloarthritis [Spondylitis ankylosans] bei ErwachsenenM45.0-"
+              },
+              "children": []
+            },
+            {
+              "code": "M08.2",
+              "kind": "category",
+              "label": "Juvenile chronische Arthritis, systemisch beginnende Form",
+              "rubrics": {
+                "preferred": "Juvenile chronische Arthritis, systemisch beginnende Form",
+                "inclusion": "Still-Krankheit o.n.A.",
+                "exclusion": "Adulte Form der Still-KrankheitM06.1-"
+              },
+              "children": []
+            },
+            {
+              "code": "M08.3",
+              "kind": "category",
+              "label": "Juvenile chronische Arthritis (seronegativ), polyartikuläre Form",
+              "rubrics": {
+                "preferred": "Juvenile chronische Arthritis (seronegativ), polyartikuläre Form",
+                "inclusion": "Oligoartikulär beginnende Form, im Verlauf polyartikulär [extended oligoarthritis]",
+                "coding-hint": "Soll eine begleitende Vaskulitis angegeben werden, so ist eine zusätzliche Schlüsselnummer (M08.7) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "M08.4",
+              "kind": "category",
+              "label": "Juvenile chronische Arthritis, oligoartikuläre Form",
+              "rubrics": {
+                "preferred": "Juvenile chronische Arthritis, oligoartikuläre Form",
+                "exclusion": "im Verlauf polyartikulär [extended oligoarthritis]M08.3"
+              },
+              "children": []
+            },
+            {
+              "code": "M08.7",
+              "kind": "category",
+              "label": "Vaskulitis bei juveniler Arthritis",
+              "rubrics": {
+                "preferred": "Vaskulitis bei juveniler Arthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M08.8",
+              "kind": "category",
+              "label": "Sonstige juvenile Arthritis",
+              "rubrics": {
+                "preferred": "Sonstige juvenile Arthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M08.9",
+              "kind": "category",
+              "label": "Juvenile Arthritis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Juvenile Arthritis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M09",
+          "kind": "category",
+          "label": "Juvenile Arthritis bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Juvenile Arthritis bei anderenorts klassifizierten Krankheiten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Arthritis bei Whipple-KrankheitM14.8-"
+          },
+          "children": [
+            {
+              "code": "M09.0",
+              "kind": "category",
+              "label": "Juvenile Arthritis bei PsoriasisL40.5",
+              "rubrics": {
+                "preferred": "Juvenile Arthritis bei PsoriasisL40.5"
+              },
+              "children": []
+            },
+            {
+              "code": "M09.1",
+              "kind": "category",
+              "label": "Juvenile Arthritis bei Crohn-Krankheit [Enteritis regionalis]K50.-",
+              "rubrics": {
+                "preferred": "Juvenile Arthritis bei Crohn-Krankheit [Enteritis regionalis]K50.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M09.2",
+              "kind": "category",
+              "label": "Juvenile Arthritis bei Colitis ulcerosaK51.-",
+              "rubrics": {
+                "preferred": "Juvenile Arthritis bei Colitis ulcerosaK51.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M09.8",
+              "kind": "category",
+              "label": "Juvenile Arthritis bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Juvenile Arthritis bei sonstigen anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M10",
+          "kind": "category",
+          "label": "Gicht",
+          "rubrics": {
+            "preferred": "Gicht",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+          },
+          "children": [
+            {
+              "code": "M10.0",
+              "kind": "category",
+              "label": "Idiopathische Gicht",
+              "rubrics": {
+                "preferred": "Idiopathische Gicht",
+                "inclusion": "Primäre Gicht"
+              },
+              "children": []
+            },
+            {
+              "code": "M10.1",
+              "kind": "category",
+              "label": "Bleigicht",
+              "rubrics": {
+                "preferred": "Bleigicht"
+              },
+              "children": []
+            },
+            {
+              "code": "M10.2",
+              "kind": "category",
+              "label": "Arzneimittelinduzierte Gicht",
+              "rubrics": {
+                "preferred": "Arzneimittelinduzierte Gicht",
+                "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "M10.3",
+              "kind": "category",
+              "label": "Gicht durch Nierenfunktionsstörung",
+              "rubrics": {
+                "preferred": "Gicht durch Nierenfunktionsstörung",
+                "coding-hint": "Soll die Art der Nierenfunktionsstörung angegeben werden, ist eine zusätzliche Schlüsselnummer (N17-N19) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "M10.4",
+              "kind": "category",
+              "label": "Sonstige sekundäre Gicht",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre Gicht"
+              },
+              "children": []
+            },
+            {
+              "code": "M10.9",
+              "kind": "category",
+              "label": "Gicht, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Gicht, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M11",
+          "kind": "category",
+          "label": "Sonstige Kristall-Arthropathien",
+          "rubrics": {
+            "preferred": "Sonstige Kristall-Arthropathien",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+          },
+          "children": [
+            {
+              "code": "M11.0",
+              "kind": "category",
+              "label": "Apatitrheumatismus",
+              "rubrics": {
+                "preferred": "Apatitrheumatismus"
+              },
+              "children": []
+            },
+            {
+              "code": "M11.1",
+              "kind": "category",
+              "label": "Familiäre Chondrokalzinose",
+              "rubrics": {
+                "preferred": "Familiäre Chondrokalzinose"
+              },
+              "children": []
+            },
+            {
+              "code": "M11.2",
+              "kind": "category",
+              "label": "Sonstige Chondrokalzinose",
+              "rubrics": {
+                "preferred": "Sonstige Chondrokalzinose",
+                "inclusion": "Chondrokalzinose o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M11.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Kristall-Arthropathien",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Kristall-Arthropathien"
+              },
+              "children": []
+            },
+            {
+              "code": "M11.9",
+              "kind": "category",
+              "label": "Kristall-Arthropathie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Kristall-Arthropathie, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M12",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Arthropathien",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Arthropathien",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "ArthroseM15-M19"
+          },
+          "children": [
+            {
+              "code": "M12.0",
+              "kind": "category",
+              "label": "Chronische postrheumatische Arthritis [Jaccoud-Arthritis]",
+              "rubrics": {
+                "preferred": "Chronische postrheumatische Arthritis [Jaccoud-Arthritis]"
+              },
+              "children": []
+            },
+            {
+              "code": "M12.1",
+              "kind": "category",
+              "label": "Kaschin-Beck-Krankheit",
+              "rubrics": {
+                "preferred": "Kaschin-Beck-Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "M12.2",
+              "kind": "category",
+              "label": "Villonoduläre Synovitis (pigmentiert)",
+              "rubrics": {
+                "preferred": "Villonoduläre Synovitis (pigmentiert)"
+              },
+              "children": []
+            },
+            {
+              "code": "M12.3",
+              "kind": "category",
+              "label": "Palindromer Rheumatismus",
+              "rubrics": {
+                "preferred": "Palindromer Rheumatismus"
+              },
+              "children": []
+            },
+            {
+              "code": "M12.4",
+              "kind": "category",
+              "label": "Hydrops intermittens",
+              "rubrics": {
+                "preferred": "Hydrops intermittens"
+              },
+              "children": []
+            },
+            {
+              "code": "M12.5",
+              "kind": "category",
+              "label": "Traumatische Arthropathie",
+              "rubrics": {
+                "preferred": "Traumatische Arthropathie",
+                "exclusion": "Posttraumatische Arthrose:\n\t\t\t\to.n.A.M19.1-"
+              },
+              "children": []
+            },
+            {
+              "code": "M12.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Arthropathien, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Arthropathien, anderenorts nicht klassifiziert",
+                "inclusion": "Transitorische Arthropathie"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M13",
+          "kind": "category",
+          "label": "Sonstige Arthritis",
+          "rubrics": {
+            "preferred": "Sonstige Arthritis",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "ArthroseM15-M19"
+          },
+          "children": [
+            {
+              "code": "M13.0",
+              "kind": "category",
+              "label": "Polyarthritis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Polyarthritis, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "M13.1",
+              "kind": "category",
+              "label": "Monarthritis, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Monarthritis, anderenorts nicht klassifiziert"
+              },
+              "children": []
+            },
+            {
+              "code": "M13.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Arthritis",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Arthritis",
+                "inclusion": "Allergische Arthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M13.9",
+              "kind": "category",
+              "label": "Arthritis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Arthritis, nicht näher bezeichnet",
+                "inclusion": "Entzündliche Arthropathie o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M14",
+          "kind": "category",
+          "label": "Arthropathien bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Arthropathien bei sonstigen anderenorts klassifizierten Krankheiten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Neuropathische SpondylopathieM49.4-"
+          },
+          "children": [
+            {
+              "code": "M14.0",
+              "kind": "category",
+              "label": "Gicht-Arthropathie durch Enzymdefekte und sonstige angeborene Krankheiten",
+              "rubrics": {
+                "preferred": "Gicht-Arthropathie durch Enzymdefekte und sonstige angeborene Krankheiten",
+                "inclusion": "Gicht-Arthropathie bei:\n\t\t\t\tSichelzellenkrankheitenD57.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M14.1",
+              "kind": "category",
+              "label": "Kristall-Arthropathie bei sonstigen Stoffwechselstörungen",
+              "rubrics": {
+                "preferred": "Kristall-Arthropathie bei sonstigen Stoffwechselstörungen",
+                "inclusion": "Kristall-Arthropathie bei HyperparathyreoidismusE21.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M14.2",
+              "kind": "category",
+              "label": "Diabetische ArthropathieE10-E14, vierte Stelle .6",
+              "rubrics": {
+                "preferred": "Diabetische ArthropathieE10-E14, vierte Stelle .6",
+                "exclusion": "Neuropathische Arthropathie bei Diabetes mellitusM14.6-"
+              },
+              "children": []
+            },
+            {
+              "code": "M14.3",
+              "kind": "category",
+              "label": "Multizentrische RetikulohistiozytoseE78.88",
+              "rubrics": {
+                "preferred": "Multizentrische RetikulohistiozytoseE78.88",
+                "inclusion": "Lipoid-Dermatoarthritis"
+              },
+              "children": []
+            },
+            {
+              "code": "M14.4",
+              "kind": "category",
+              "label": "Arthropathie bei AmyloidoseE85.-",
+              "rubrics": {
+                "preferred": "Arthropathie bei AmyloidoseE85.-"
+              },
+              "children": []
+            },
+            {
+              "code": "M14.5",
+              "kind": "category",
+              "label": "Arthropathien bei sonstigen endokrinen, Ernährungs- und Stoffwechselkrankheiten",
+              "rubrics": {
+                "preferred": "Arthropathien bei sonstigen endokrinen, Ernährungs- und Stoffwechselkrankheiten",
+                "inclusion": "Arthropathie bei:\n\t\t\t\tHypothyreoseE00-E03"
+              },
+              "children": []
+            },
+            {
+              "code": "M14.6",
+              "kind": "category",
+              "label": "Neuropathische Arthropathie",
+              "rubrics": {
+                "preferred": "Neuropathische Arthropathie",
+                "inclusion": "Tabische ArthropathieA52.1"
+              },
+              "children": []
+            },
+            {
+              "code": "M14.8",
+              "kind": "category",
+              "label": "Arthropathien bei sonstigen näher bezeichneten, anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Arthropathien bei sonstigen näher bezeichneten, anderenorts klassifizierten Krankheiten",
+                "inclusion": "Arthritis bei:\n\t\t\t\tWhipple-KrankheitK90.8"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M15-M19",
+      "kind": "block",
+      "label": "Arthrose",
+      "rubrics": {
+        "preferred": "Arthrose",
+        "note": "In dieser Gruppe ist der englische Begriff \"osteoarthritis\" gleichbedeutend mit den deutschen Bezeichnungen Arthrose und Osteoarthrose. Der Begriff \"primär\" wird in seiner üblichen klinischen Bedeutung verwendet: ein Grundleiden oder eine auslösende Krankheit sind nicht nachgewiesen.",
+        "exclusion": "Arthrose der WirbelsäuleM47.-"
+      },
+      "children": [
+        {
+          "code": "M15",
+          "kind": "category",
+          "label": "Polyarthrose",
+          "rubrics": {
+            "preferred": "Polyarthrose",
+            "inclusion": "Arthrose mit Angabe von mehr als einer Lokalisation",
+            "exclusion": "Beidseitige Beteiligung einzelner GelenkeM16-M19"
+          },
+          "children": [
+            {
+              "code": "M15.0",
+              "kind": "category",
+              "label": "Primäre generalisierte (Osteo-) Arthrose",
+              "rubrics": {
+                "preferred": "Primäre generalisierte (Osteo-) Arthrose"
+              },
+              "children": []
+            },
+            {
+              "code": "M15.1",
+              "kind": "category",
+              "label": "Heberden-Knoten (mit Arthropathie)",
+              "rubrics": {
+                "preferred": "Heberden-Knoten (mit Arthropathie)"
+              },
+              "children": []
+            },
+            {
+              "code": "M15.2",
+              "kind": "category",
+              "label": "Bouchard-Knoten (mit Arthropathie)",
+              "rubrics": {
+                "preferred": "Bouchard-Knoten (mit Arthropathie)"
+              },
+              "children": []
+            },
+            {
+              "code": "M15.3",
+              "kind": "category",
+              "label": "Sekundäre multiple Arthrose",
+              "rubrics": {
+                "preferred": "Sekundäre multiple Arthrose",
+                "inclusion": "Posttraumatische Polyarthrose"
+              },
+              "children": []
+            },
+            {
+              "code": "M15.4",
+              "kind": "category",
+              "label": "Erosive (Osteo-) Arthrose",
+              "rubrics": {
+                "preferred": "Erosive (Osteo-) Arthrose"
+              },
+              "children": []
+            },
+            {
+              "code": "M15.8",
+              "kind": "category",
+              "label": "Sonstige Polyarthrose",
+              "rubrics": {
+                "preferred": "Sonstige Polyarthrose"
+              },
+              "children": []
+            },
+            {
+              "code": "M15.9",
+              "kind": "category",
+              "label": "Polyarthrose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Polyarthrose, nicht näher bezeichnet",
+                "inclusion": "Generalisierte (Osteo-) Arthrose o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M16",
+          "kind": "category",
+          "label": "Koxarthrose [Arthrose des Hüftgelenkes]",
+          "rubrics": {
+            "preferred": "Koxarthrose [Arthrose des Hüftgelenkes]"
+          },
+          "children": [
+            {
+              "code": "M16.0",
+              "kind": "category",
+              "label": "Primäre Koxarthrose, beidseitig",
+              "rubrics": {
+                "preferred": "Primäre Koxarthrose, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "M16.1",
+              "kind": "category",
+              "label": "Sonstige primäre Koxarthrose",
+              "rubrics": {
+                "preferred": "Sonstige primäre Koxarthrose",
+                "inclusion": "Primäre Koxarthrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M16.2",
+              "kind": "category",
+              "label": "Koxarthrose als Folge einer Dysplasie, beidseitig",
+              "rubrics": {
+                "preferred": "Koxarthrose als Folge einer Dysplasie, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "M16.3",
+              "kind": "category",
+              "label": "Sonstige dysplastische Koxarthrose",
+              "rubrics": {
+                "preferred": "Sonstige dysplastische Koxarthrose",
+                "inclusion": "Dysplastische Koxarthrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M16.4",
+              "kind": "category",
+              "label": "Posttraumatische Koxarthrose, beidseitig",
+              "rubrics": {
+                "preferred": "Posttraumatische Koxarthrose, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "M16.5",
+              "kind": "category",
+              "label": "Sonstige posttraumatische Koxarthrose",
+              "rubrics": {
+                "preferred": "Sonstige posttraumatische Koxarthrose",
+                "inclusion": "Posttraumatische Koxarthrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M16.6",
+              "kind": "category",
+              "label": "Sonstige sekundäre Koxarthrose, beidseitig",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre Koxarthrose, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "M16.7",
+              "kind": "category",
+              "label": "Sonstige sekundäre Koxarthrose",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre Koxarthrose",
+                "inclusion": "Sekundäre Koxarthrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M16.9",
+              "kind": "category",
+              "label": "Koxarthrose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Koxarthrose, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M17",
+          "kind": "category",
+          "label": "Gonarthrose [Arthrose des Kniegelenkes]",
+          "rubrics": {
+            "preferred": "Gonarthrose [Arthrose des Kniegelenkes]"
+          },
+          "children": [
+            {
+              "code": "M17.0",
+              "kind": "category",
+              "label": "Primäre Gonarthrose, beidseitig",
+              "rubrics": {
+                "preferred": "Primäre Gonarthrose, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "M17.1",
+              "kind": "category",
+              "label": "Sonstige primäre Gonarthrose",
+              "rubrics": {
+                "preferred": "Sonstige primäre Gonarthrose",
+                "inclusion": "Primäre Gonarthrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M17.2",
+              "kind": "category",
+              "label": "Posttraumatische Gonarthrose, beidseitig",
+              "rubrics": {
+                "preferred": "Posttraumatische Gonarthrose, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "M17.3",
+              "kind": "category",
+              "label": "Sonstige posttraumatische Gonarthrose",
+              "rubrics": {
+                "preferred": "Sonstige posttraumatische Gonarthrose",
+                "inclusion": "Posttraumatische Gonarthrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M17.4",
+              "kind": "category",
+              "label": "Sonstige sekundäre Gonarthrose, beidseitig",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre Gonarthrose, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "M17.5",
+              "kind": "category",
+              "label": "Sonstige sekundäre Gonarthrose",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre Gonarthrose",
+                "inclusion": "Sekundäre Gonarthrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M17.9",
+              "kind": "category",
+              "label": "Gonarthrose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Gonarthrose, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M18",
+          "kind": "category",
+          "label": "Rhizarthrose [Arthrose des Daumensattelgelenkes]",
+          "rubrics": {
+            "preferred": "Rhizarthrose [Arthrose des Daumensattelgelenkes]"
+          },
+          "children": [
+            {
+              "code": "M18.0",
+              "kind": "category",
+              "label": "Primäre Rhizarthrose, beidseitig",
+              "rubrics": {
+                "preferred": "Primäre Rhizarthrose, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "M18.1",
+              "kind": "category",
+              "label": "Sonstige primäre Rhizarthrose",
+              "rubrics": {
+                "preferred": "Sonstige primäre Rhizarthrose",
+                "inclusion": "Primäre Rhizarthrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M18.2",
+              "kind": "category",
+              "label": "Posttraumatische Rhizarthrose, beidseitig",
+              "rubrics": {
+                "preferred": "Posttraumatische Rhizarthrose, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "M18.3",
+              "kind": "category",
+              "label": "Sonstige posttraumatische Rhizarthrose",
+              "rubrics": {
+                "preferred": "Sonstige posttraumatische Rhizarthrose",
+                "inclusion": "Posttraumatische Rhizarthrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M18.4",
+              "kind": "category",
+              "label": "Sonstige sekundäre Rhizarthrose, beidseitig",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre Rhizarthrose, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "M18.5",
+              "kind": "category",
+              "label": "Sonstige sekundäre Rhizarthrose",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre Rhizarthrose",
+                "inclusion": "Sekundäre Rhizarthrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M18.9",
+              "kind": "category",
+              "label": "Rhizarthrose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Rhizarthrose, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M19",
+          "kind": "category",
+          "label": "Sonstige Arthrose",
+          "rubrics": {
+            "preferred": "Sonstige Arthrose",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "PolyarthroseM15.-"
+          },
+          "children": [
+            {
+              "code": "M19.0",
+              "kind": "category",
+              "label": "Primäre Arthrose sonstiger Gelenke",
+              "rubrics": {
+                "preferred": "Primäre Arthrose sonstiger Gelenke",
+                "inclusion": "Primäre Arthrose o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M19.1",
+              "kind": "category",
+              "label": "Posttraumatische Arthrose sonstiger Gelenke",
+              "rubrics": {
+                "preferred": "Posttraumatische Arthrose sonstiger Gelenke",
+                "inclusion": "Posttraumatische Arthrose o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M19.2",
+              "kind": "category",
+              "label": "Sonstige sekundäre Arthrose",
+              "rubrics": {
+                "preferred": "Sonstige sekundäre Arthrose",
+                "inclusion": "Sekundäre Arthrose o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "M19.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Arthrose",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Arthrose"
+              },
+              "children": []
+            },
+            {
+              "code": "M19.9",
+              "kind": "category",
+              "label": "Arthrose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Arthrose, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M20-M25",
+      "kind": "block",
+      "label": "Sonstige Gelenkkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Gelenkkrankheiten",
+        "exclusion": "Gelenke der WirbelsäuleM40-M54"
+      },
+      "children": [
+        {
+          "code": "M20",
+          "kind": "category",
+          "label": "Erworbene Deformitäten der Finger und Zehen",
+          "rubrics": {
+            "preferred": "Erworbene Deformitäten der Finger und Zehen",
+            "exclusion": "Verlust von Fingern und ZehenZ89.-"
+          },
+          "children": [
+            {
+              "code": "M20.0",
+              "kind": "category",
+              "label": "Deformität eines oder mehrerer Finger",
+              "rubrics": {
+                "preferred": "Deformität eines oder mehrerer Finger",
+                "inclusion": "Knopfloch- und Schwanenhalsdeformität",
+                "exclusion": "TrommelschlegelfingerR68.3"
+              },
+              "children": []
+            },
+            {
+              "code": "M20.1",
+              "kind": "category",
+              "label": "Hallux valgus (erworben)",
+              "rubrics": {
+                "preferred": "Hallux valgus (erworben)",
+                "inclusion": "Fußballenentzündung"
+              },
+              "children": []
+            },
+            {
+              "code": "M20.2",
+              "kind": "category",
+              "label": "Hallux rigidus",
+              "rubrics": {
+                "preferred": "Hallux rigidus"
+              },
+              "children": []
+            },
+            {
+              "code": "M20.3",
+              "kind": "category",
+              "label": "Sonstige Deformität der Großzehe (erworben)",
+              "rubrics": {
+                "preferred": "Sonstige Deformität der Großzehe (erworben)",
+                "inclusion": "Hallux varus"
+              },
+              "children": []
+            },
+            {
+              "code": "M20.4",
+              "kind": "category",
+              "label": "Sonstige Hammerzehe(n) (erworben)",
+              "rubrics": {
+                "preferred": "Sonstige Hammerzehe(n) (erworben)"
+              },
+              "children": []
+            },
+            {
+              "code": "M20.5",
+              "kind": "category",
+              "label": "Sonstige Deformitäten der Zehe(n) (erworben)",
+              "rubrics": {
+                "preferred": "Sonstige Deformitäten der Zehe(n) (erworben)"
+              },
+              "children": []
+            },
+            {
+              "code": "M20.6",
+              "kind": "category",
+              "label": "Erworbene Deformität der Zehe(n), nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Erworbene Deformität der Zehe(n), nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M21",
+          "kind": "category",
+          "label": "Sonstige erworbene Deformitäten der Extremitäten",
+          "rubrics": {
+            "preferred": "Sonstige erworbene Deformitäten der Extremitäten",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Verlust von ExtremitätenZ89.-"
+          },
+          "children": [
+            {
+              "code": "M21.0",
+              "kind": "category",
+              "label": "Valgusdeformität, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Valgusdeformität, anderenorts nicht klassifiziert",
+                "exclusion": "Pes calcaneovalgus congenitusQ66.4"
+              },
+              "children": []
+            },
+            {
+              "code": "M21.1",
+              "kind": "category",
+              "label": "Varusdeformität, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Varusdeformität, anderenorts nicht klassifiziert",
+                "exclusion": "Tibia varaM92.5"
+              },
+              "children": []
+            },
+            {
+              "code": "M21.2",
+              "kind": "category",
+              "label": "Flexionsdeformität",
+              "rubrics": {
+                "preferred": "Flexionsdeformität"
+              },
+              "children": []
+            },
+            {
+              "code": "M21.3",
+              "kind": "category",
+              "label": "Fallhand oder Hängefuß (erworben)",
+              "rubrics": {
+                "preferred": "Fallhand oder Hängefuß (erworben)"
+              },
+              "children": []
+            },
+            {
+              "code": "M21.4",
+              "kind": "category",
+              "label": "Plattfuß [Pes planus] (erworben)",
+              "rubrics": {
+                "preferred": "Plattfuß [Pes planus] (erworben)",
+                "exclusion": "Pes planus congenitusQ66.5"
+              },
+              "children": []
+            },
+            {
+              "code": "M21.5",
+              "kind": "category",
+              "label": "Erworbene Klauenhand, Klumphand, erworbener Klauenfuß und Klumpfuß",
+              "rubrics": {
+                "preferred": "Erworbene Klauenhand, Klumphand, erworbener Klauenfuß und Klumpfuß",
+                "exclusion": "Klumpfuß, nicht als erworben bezeichnetQ66.0"
+              },
+              "children": []
+            },
+            {
+              "code": "M21.6",
+              "kind": "category",
+              "label": "Sonstige erworbene Deformitäten des Knöchels und des Fußes",
+              "rubrics": {
+                "preferred": "Sonstige erworbene Deformitäten des Knöchels und des Fußes",
+                "exclusion": "Deformitäten der Zehe (erworben)M20.1-M20.6"
+              },
+              "children": [
+                {
+                  "code": "M21.60",
+                  "kind": "category",
+                  "label": "Erworbener Hohlfuß [Pes cavus]",
+                  "rubrics": {
+                    "preferred": "Erworbener Hohlfuß [Pes cavus]"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M21.61",
+                  "kind": "category",
+                  "label": "Erworbener Knick-Plattfuß [Pes planovalgus]",
+                  "rubrics": {
+                    "preferred": "Erworbener Knick-Plattfuß [Pes planovalgus]"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M21.62",
+                  "kind": "category",
+                  "label": "Erworbener Spitzfuß [Pes equinus]",
+                  "rubrics": {
+                    "preferred": "Erworbener Spitzfuß [Pes equinus]",
+                    "exclusion": "Hängefuß (erworben)M21.37"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M21.63",
+                  "kind": "category",
+                  "label": "Erworbener Spreizfuß",
+                  "rubrics": {
+                    "preferred": "Erworbener Spreizfuß"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M21.68",
+                  "kind": "category",
+                  "label": "Sonstige erworbene Deformitäten des Knöchels und des Fußes",
+                  "rubrics": {
+                    "preferred": "Sonstige erworbene Deformitäten des Knöchels und des Fußes"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "M21.7",
+              "kind": "category",
+              "label": "Unterschiedliche Extremitätenlänge (erworben)",
+              "rubrics": {
+                "preferred": "Unterschiedliche Extremitätenlänge (erworben)"
+              },
+              "children": []
+            },
+            {
+              "code": "M21.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete erworbene Deformitäten der Extremitäten",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete erworbene Deformitäten der Extremitäten"
+              },
+              "children": []
+            },
+            {
+              "code": "M21.9",
+              "kind": "category",
+              "label": "Erworbene Deformität einer Extremität, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Erworbene Deformität einer Extremität, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M22",
+          "kind": "category",
+          "label": "Krankheiten der Patella",
+          "rubrics": {
+            "preferred": "Krankheiten der Patella",
+            "exclusion": "Luxation der PatellaS83.0"
+          },
+          "children": [
+            {
+              "code": "M22.0",
+              "kind": "category",
+              "label": "Habituelle Luxation der Patella",
+              "rubrics": {
+                "preferred": "Habituelle Luxation der Patella"
+              },
+              "children": []
+            },
+            {
+              "code": "M22.1",
+              "kind": "category",
+              "label": "Habituelle Subluxation der Patella",
+              "rubrics": {
+                "preferred": "Habituelle Subluxation der Patella"
+              },
+              "children": []
+            },
+            {
+              "code": "M22.2",
+              "kind": "category",
+              "label": "Krankheiten im Patellofemoralbereich",
+              "rubrics": {
+                "preferred": "Krankheiten im Patellofemoralbereich"
+              },
+              "children": []
+            },
+            {
+              "code": "M22.3",
+              "kind": "category",
+              "label": "Sonstige Schädigungen der Patella",
+              "rubrics": {
+                "preferred": "Sonstige Schädigungen der Patella"
+              },
+              "children": []
+            },
+            {
+              "code": "M22.4",
+              "kind": "category",
+              "label": "Chondromalacia patellae",
+              "rubrics": {
+                "preferred": "Chondromalacia patellae"
+              },
+              "children": []
+            },
+            {
+              "code": "M22.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten der Patella",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten der Patella"
+              },
+              "children": []
+            },
+            {
+              "code": "M22.9",
+              "kind": "category",
+              "label": "Krankheit der Patella, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Patella, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M23",
+          "kind": "category",
+          "label": "Binnenschädigung des Kniegelenkes [internal derangement]",
+          "rubrics": {
+            "preferred": "Binnenschädigung des Kniegelenkes [internal derangement]",
+            "exclusion": "Osteochondrosis dissecansM93.2-"
+          },
+          "children": [
+            {
+              "code": "M23.0",
+              "kind": "category",
+              "label": "Meniskusganglion",
+              "rubrics": {
+                "preferred": "Meniskusganglion"
+              },
+              "children": [
+                {
+                  "code": "M23.00",
+                  "kind": "category",
+                  "label": "Mehrere Lokalisationen",
+                  "rubrics": {
+                    "preferred": "Mehrere Lokalisationen",
+                    "preferredLong": "Meniskusganglion: Mehrere Lokalisationen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.01",
+                  "kind": "category",
+                  "label": "Vorderhorn des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Vorderhorn des Innenmeniskus",
+                    "preferredLong": "Meniskusganglion: Vorderhorn des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.02",
+                  "kind": "category",
+                  "label": "Hinterhorn des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Hinterhorn des Innenmeniskus",
+                    "preferredLong": "Meniskusganglion: Hinterhorn des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.03",
+                  "kind": "category",
+                  "label": "Sonstiger und nicht näher bezeichneter Teil des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Sonstiger und nicht näher bezeichneter Teil des Innenmeniskus",
+                    "preferredLong": "Meniskusganglion: Sonstiger und nicht näher bezeichneter Teil des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.04",
+                  "kind": "category",
+                  "label": "Vorderhorn des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Vorderhorn des Außenmeniskus",
+                    "preferredLong": "Meniskusganglion: Vorderhorn des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.05",
+                  "kind": "category",
+                  "label": "Hinterhorn des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Hinterhorn des Außenmeniskus",
+                    "preferredLong": "Meniskusganglion: Hinterhorn des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.06",
+                  "kind": "category",
+                  "label": "Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus",
+                    "preferredLong": "Meniskusganglion: Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.09",
+                  "kind": "category",
+                  "label": "Nicht näher bezeichneter Meniskus",
+                  "rubrics": {
+                    "preferred": "Nicht näher bezeichneter Meniskus",
+                    "preferredLong": "Meniskusganglion: Nicht näher bezeichneter Meniskus"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "M23.1",
+              "kind": "category",
+              "label": "Scheibenmeniskus (angeboren)",
+              "rubrics": {
+                "preferred": "Scheibenmeniskus (angeboren)"
+              },
+              "children": [
+                {
+                  "code": "M23.10",
+                  "kind": "category",
+                  "label": "Mehrere Lokalisationen",
+                  "rubrics": {
+                    "preferred": "Mehrere Lokalisationen",
+                    "preferredLong": "Scheibenmeniskus (angeboren): Mehrere Lokalisationen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.13",
+                  "kind": "category",
+                  "label": "Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Innenmeniskus",
+                    "preferredLong": "Scheibenmeniskus (angeboren): Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.16",
+                  "kind": "category",
+                  "label": "Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Außenmeniskus",
+                    "preferredLong": "Scheibenmeniskus (angeboren): Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.19",
+                  "kind": "category",
+                  "label": "Nicht näher bezeichneter Meniskus",
+                  "rubrics": {
+                    "preferred": "Nicht näher bezeichneter Meniskus",
+                    "preferredLong": "Scheibenmeniskus (angeboren): Nicht näher bezeichneter Meniskus"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "M23.2",
+              "kind": "category",
+              "label": "Meniskusschädigung durch alten Riss oder alte Verletzung",
+              "rubrics": {
+                "preferred": "Meniskusschädigung durch alten Riss oder alte Verletzung",
+                "inclusion": "Alter Korbhenkelriss"
+              },
+              "children": [
+                {
+                  "code": "M23.20",
+                  "kind": "category",
+                  "label": "Mehrere Lokalisationen",
+                  "rubrics": {
+                    "preferred": "Mehrere Lokalisationen",
+                    "preferredLong": "Meniskusschädigung durch alten Riss oder alte Verletzung: Mehrere Lokalisationen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.21",
+                  "kind": "category",
+                  "label": "Vorderhorn des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Vorderhorn des Innenmeniskus",
+                    "preferredLong": "Meniskusschädigung durch alten Riss oder alte Verletzung: Vorderhorn des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.22",
+                  "kind": "category",
+                  "label": "Hinterhorn des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Hinterhorn des Innenmeniskus",
+                    "preferredLong": "Meniskusschädigung durch alten Riss oder alte Verletzung: Hinterhorn des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.23",
+                  "kind": "category",
+                  "label": "Sonstiger und nicht näher bezeichneter Teil des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Sonstiger und nicht näher bezeichneter Teil des Innenmeniskus",
+                    "preferredLong": "Meniskusschädigung durch alten Riss oder alte Verletzung: Sonstiger und nicht näher bezeichneter Teil des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.24",
+                  "kind": "category",
+                  "label": "Vorderhorn des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Vorderhorn des Außenmeniskus",
+                    "preferredLong": "Meniskusschädigung durch alten Riss oder alte Verletzung: Vorderhorn des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.25",
+                  "kind": "category",
+                  "label": "Hinterhorn des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Hinterhorn des Außenmeniskus",
+                    "preferredLong": "Meniskusschädigung durch alten Riss oder alte Verletzung: Hinterhorn des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.26",
+                  "kind": "category",
+                  "label": "Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus",
+                    "preferredLong": "Meniskusschädigung durch alten Riss oder alte Verletzung: Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.29",
+                  "kind": "category",
+                  "label": "Nicht näher bezeichneter Meniskus",
+                  "rubrics": {
+                    "preferred": "Nicht näher bezeichneter Meniskus",
+                    "preferredLong": "Meniskusschädigung durch alten Riss oder alte Verletzung: Nicht näher bezeichneter Meniskus"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "M23.3",
+              "kind": "category",
+              "label": "Sonstige Meniskusschädigungen",
+              "rubrics": {
+                "preferred": "Sonstige Meniskusschädigungen",
+                "inclusion": "Meniskus:\n\t\t\t\tretiniert"
+              },
+              "children": [
+                {
+                  "code": "M23.30",
+                  "kind": "category",
+                  "label": "Mehrere Lokalisationen",
+                  "rubrics": {
+                    "preferred": "Mehrere Lokalisationen",
+                    "preferredLong": "Sonstige Meniskusschädigungen: Mehrere Lokalisationen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.31",
+                  "kind": "category",
+                  "label": "Vorderhorn des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Vorderhorn des Innenmeniskus",
+                    "preferredLong": "Sonstige Meniskusschädigungen: Vorderhorn des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.32",
+                  "kind": "category",
+                  "label": "Hinterhorn des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Hinterhorn des Innenmeniskus",
+                    "preferredLong": "Sonstige Meniskusschädigungen: Hinterhorn des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.33",
+                  "kind": "category",
+                  "label": "Sonstiger und nicht näher bezeichneter Teil des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Sonstiger und nicht näher bezeichneter Teil des Innenmeniskus",
+                    "preferredLong": "Sonstige Meniskusschädigungen: Sonstiger und nicht näher bezeichneter Teil des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.34",
+                  "kind": "category",
+                  "label": "Vorderhorn des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Vorderhorn des Außenmeniskus",
+                    "preferredLong": "Sonstige Meniskusschädigungen: Vorderhorn des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.35",
+                  "kind": "category",
+                  "label": "Hinterhorn des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Hinterhorn des Außenmeniskus",
+                    "preferredLong": "Sonstige Meniskusschädigungen: Hinterhorn des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.36",
+                  "kind": "category",
+                  "label": "Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus",
+                    "preferredLong": "Sonstige Meniskusschädigungen: Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.39",
+                  "kind": "category",
+                  "label": "Nicht näher bezeichneter Meniskus",
+                  "rubrics": {
+                    "preferred": "Nicht näher bezeichneter Meniskus",
+                    "preferredLong": "Sonstige Meniskusschädigungen: Nicht näher bezeichneter Meniskus"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "M23.4",
+              "kind": "category",
+              "label": "Freier Gelenkkörper im Kniegelenk",
+              "rubrics": {
+                "preferred": "Freier Gelenkkörper im Kniegelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "M23.5",
+              "kind": "category",
+              "label": "Chronische Instabilität des Kniegelenkes",
+              "rubrics": {
+                "preferred": "Chronische Instabilität des Kniegelenkes"
+              },
+              "children": [
+                {
+                  "code": "M23.50",
+                  "kind": "category",
+                  "label": "Mehrere Lokalisationen",
+                  "rubrics": {
+                    "preferred": "Mehrere Lokalisationen",
+                    "preferredLong": "Chronische Instabilität des Kniegelenkes: Mehrere Lokalisationen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.51",
+                  "kind": "category",
+                  "label": "Vorderes Kreuzband",
+                  "rubrics": {
+                    "preferred": "Vorderes Kreuzband",
+                    "preferredLong": "Chronische Instabilität des Kniegelenkes: Vorderes Kreuzband"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.52",
+                  "kind": "category",
+                  "label": "Hinteres Kreuzband",
+                  "rubrics": {
+                    "preferred": "Hinteres Kreuzband",
+                    "preferredLong": "Chronische Instabilität des Kniegelenkes: Hinteres Kreuzband"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.53",
+                  "kind": "category",
+                  "label": "Innenband [Lig. collaterale tibiale]",
+                  "rubrics": {
+                    "preferred": "Innenband [Lig. collaterale tibiale]",
+                    "preferredLong": "Chronische Instabilität des Kniegelenkes: Innenband [Lig. collaterale tibiale]"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.54",
+                  "kind": "category",
+                  "label": "Außenband [Lig. collaterale fibulare]",
+                  "rubrics": {
+                    "preferred": "Außenband [Lig. collaterale fibulare]",
+                    "preferredLong": "Chronische Instabilität des Kniegelenkes: Außenband [Lig. collaterale fibulare]"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.57",
+                  "kind": "category",
+                  "label": "Kapselband",
+                  "rubrics": {
+                    "preferred": "Kapselband",
+                    "preferredLong": "Chronische Instabilität des Kniegelenkes: Kapselband"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.59",
+                  "kind": "category",
+                  "label": "Nicht näher bezeichnetes Band",
+                  "rubrics": {
+                    "preferred": "Nicht näher bezeichnetes Band",
+                    "preferredLong": "Chronische Instabilität des Kniegelenkes: Nicht näher bezeichnetes Band"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "M23.6",
+              "kind": "category",
+              "label": "Sonstige Spontanruptur eines oder mehrerer Bänder des Kniegelenkes",
+              "rubrics": {
+                "preferred": "Sonstige Spontanruptur eines oder mehrerer Bänder des Kniegelenkes"
+              },
+              "children": [
+                {
+                  "code": "M23.60",
+                  "kind": "category",
+                  "label": "Mehrere Lokalisationen",
+                  "rubrics": {
+                    "preferred": "Mehrere Lokalisationen",
+                    "preferredLong": "Sonstige Spontanruptur eines oder mehrerer Bänder des Kniegelenkes: Mehrere Lokalisationen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.61",
+                  "kind": "category",
+                  "label": "Vorderes Kreuzband",
+                  "rubrics": {
+                    "preferred": "Vorderes Kreuzband",
+                    "preferredLong": "Sonstige Spontanruptur eines oder mehrerer Bänder des Kniegelenkes: Vorderes Kreuzband"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.62",
+                  "kind": "category",
+                  "label": "Hinteres Kreuzband",
+                  "rubrics": {
+                    "preferred": "Hinteres Kreuzband",
+                    "preferredLong": "Sonstige Spontanruptur eines oder mehrerer Bänder des Kniegelenkes: Hinteres Kreuzband"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.63",
+                  "kind": "category",
+                  "label": "Innenband [Lig. collaterale tibiale]",
+                  "rubrics": {
+                    "preferred": "Innenband [Lig. collaterale tibiale]",
+                    "preferredLong": "Sonstige Spontanruptur eines oder mehrerer Bänder des Kniegelenkes: Innenband [Lig. collaterale tibiale]"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.64",
+                  "kind": "category",
+                  "label": "Außenband [Lig. collaterale fibulare]",
+                  "rubrics": {
+                    "preferred": "Außenband [Lig. collaterale fibulare]",
+                    "preferredLong": "Sonstige Spontanruptur eines oder mehrerer Bänder des Kniegelenkes: Außenband [Lig. collaterale fibulare]"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.67",
+                  "kind": "category",
+                  "label": "Kapselband",
+                  "rubrics": {
+                    "preferred": "Kapselband",
+                    "preferredLong": "Sonstige Spontanruptur eines oder mehrerer Bänder des Kniegelenkes: Kapselband"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.69",
+                  "kind": "category",
+                  "label": "Nicht näher bezeichnetes Band",
+                  "rubrics": {
+                    "preferred": "Nicht näher bezeichnetes Band",
+                    "preferredLong": "Sonstige Spontanruptur eines oder mehrerer Bänder des Kniegelenkes: Nicht näher bezeichnetes Band"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "M23.8",
+              "kind": "category",
+              "label": "Sonstige Binnenschädigungen des Kniegelenkes",
+              "rubrics": {
+                "preferred": "Sonstige Binnenschädigungen des Kniegelenkes",
+                "inclusion": "Schnappendes Knie"
+              },
+              "children": [
+                {
+                  "code": "M23.80",
+                  "kind": "category",
+                  "label": "Mehrere Lokalisationen",
+                  "rubrics": {
+                    "preferred": "Mehrere Lokalisationen",
+                    "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Mehrere Lokalisationen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.81",
+                  "kind": "category",
+                  "label": "Vorderes Kreuzband",
+                  "rubrics": {
+                    "preferred": "Vorderes Kreuzband",
+                    "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Vorderes Kreuzband"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.82",
+                  "kind": "category",
+                  "label": "Hinteres Kreuzband",
+                  "rubrics": {
+                    "preferred": "Hinteres Kreuzband",
+                    "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Hinteres Kreuzband"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.83",
+                  "kind": "category",
+                  "label": "Innenband [Lig. collaterale tibiale]",
+                  "rubrics": {
+                    "preferred": "Innenband [Lig. collaterale tibiale]",
+                    "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Innenband [Lig. collaterale tibiale]"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.84",
+                  "kind": "category",
+                  "label": "Außenband [Lig. collaterale fibulare]",
+                  "rubrics": {
+                    "preferred": "Außenband [Lig. collaterale fibulare]",
+                    "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Außenband [Lig. collaterale fibulare]"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.87",
+                  "kind": "category",
+                  "label": "Kapselband",
+                  "rubrics": {
+                    "preferred": "Kapselband",
+                    "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Kapselband"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.89",
+                  "kind": "category",
+                  "label": "Nicht näher bezeichnetes Band",
+                  "rubrics": {
+                    "preferred": "Nicht näher bezeichnetes Band",
+                    "preferredLong": "Sonstige Binnenschädigungen des Kniegelenkes: Nicht näher bezeichnetes Band"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "M23.9",
+              "kind": "category",
+              "label": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet"
+              },
+              "children": [
+                {
+                  "code": "M23.90",
+                  "kind": "category",
+                  "label": "Mehrere Lokalisationen",
+                  "rubrics": {
+                    "preferred": "Mehrere Lokalisationen",
+                    "preferredLong": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet: Mehrere Lokalisationen"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.91",
+                  "kind": "category",
+                  "label": "Vorderes Kreuzband oder Vorderhorn des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Vorderes Kreuzband oder Vorderhorn des Innenmeniskus",
+                    "preferredLong": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet: Vorderes Kreuzband oder Vorderhorn des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.92",
+                  "kind": "category",
+                  "label": "Hinteres Kreuzband oder Hinterhorn des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Hinteres Kreuzband oder Hinterhorn des Innenmeniskus",
+                    "preferredLong": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet: Hinteres Kreuzband oder Hinterhorn des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.93",
+                  "kind": "category",
+                  "label": "Innenband [Lig. collaterale tibiale] oder sonstiger und nicht näher bezeichneter Teil des Innenmeniskus",
+                  "rubrics": {
+                    "preferred": "Innenband [Lig. collaterale tibiale] oder sonstiger und nicht näher bezeichneter Teil des Innenmeniskus",
+                    "preferredLong": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet: Innenband [Lig. collaterale tibiale] oder sonstiger und nicht näher bezeichneter Teil des Innenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.94",
+                  "kind": "category",
+                  "label": "Außenband [Lig. collaterale fibulare] oder Vorderhorn des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Außenband [Lig. collaterale fibulare] oder Vorderhorn des Außenmeniskus",
+                    "preferredLong": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet: Außenband [Lig. collaterale fibulare] oder Vorderhorn des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.95",
+                  "kind": "category",
+                  "label": "Hinterhorn des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Hinterhorn des Außenmeniskus",
+                    "preferredLong": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet: Hinterhorn des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.96",
+                  "kind": "category",
+                  "label": "Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus",
+                  "rubrics": {
+                    "preferred": "Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus",
+                    "preferredLong": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet: Sonstiger und nicht näher bezeichneter Teil des Außenmeniskus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.97",
+                  "kind": "category",
+                  "label": "Kapselband",
+                  "rubrics": {
+                    "preferred": "Kapselband",
+                    "preferredLong": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet: Kapselband"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "M23.99",
+                  "kind": "category",
+                  "label": "Nicht näher bezeichnetes Band oder nicht näher bezeichneter Meniskus",
+                  "rubrics": {
+                    "preferred": "Nicht näher bezeichnetes Band oder nicht näher bezeichneter Meniskus",
+                    "preferredLong": "Binnenschädigung des Kniegelenkes, nicht näher bezeichnet: Nicht näher bezeichnetes Band oder nicht näher bezeichneter Meniskus"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "M24",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Gelenkschädigungen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Gelenkschädigungen",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Schnappendes KnieM23.8-"
+          },
+          "children": [
+            {
+              "code": "M24.0",
+              "kind": "category",
+              "label": "Freier Gelenkkörper",
+              "rubrics": {
+                "preferred": "Freier Gelenkkörper",
+                "exclusion": "Freier Gelenkkörper im KniegelenkM23.4"
+              },
+              "children": []
+            },
+            {
+              "code": "M24.1",
+              "kind": "category",
+              "label": "Sonstige Gelenkknorpelschädigungen",
+              "rubrics": {
+                "preferred": "Sonstige Gelenkknorpelschädigungen",
+                "exclusion": "OchronoseE70.2"
+              },
+              "children": []
+            },
+            {
+              "code": "M24.2",
+              "kind": "category",
+              "label": "Krankheiten der Bänder",
+              "rubrics": {
+                "preferred": "Krankheiten der Bänder",
+                "inclusion": "Instabilität nach einer alten Bandverletzung",
+                "exclusion": "KniegelenkM23.5-M23.8"
+              },
+              "children": []
+            },
+            {
+              "code": "M24.3",
+              "kind": "category",
+              "label": "Pathologische Luxation und Subluxation eines Gelenkes, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Pathologische Luxation und Subluxation eines Gelenkes, anderenorts nicht klassifiziert",
+                "exclusion": "Luxation oder Subluxation:\n\t\t\t\thabituellM24.4-"
+              },
+              "children": []
+            },
+            {
+              "code": "M24.4",
+              "kind": "category",
+              "label": "Habituelle Luxation und Subluxation eines Gelenkes",
+              "rubrics": {
+                "preferred": "Habituelle Luxation und Subluxation eines Gelenkes",
+                "exclusion": "Wirbel-SubluxationM43.3-M43.5"
+              },
+              "children": []
+            },
+            {
+              "code": "M24.5",
+              "kind": "category",
+              "label": "Gelenkkontraktur",
+              "rubrics": {
+                "preferred": "Gelenkkontraktur",
+                "exclusion": "Sehnen- (Scheiden-) Kontraktur ohne GelenkkontrakturM67.1-"
+              },
+              "children": []
+            },
+            {
+              "code": "M24.6",
+              "kind": "category",
+              "label": "Ankylose eines Gelenkes",
+              "rubrics": {
+                "preferred": "Ankylose eines Gelenkes",
+                "exclusion": "WirbelsäuleM43.2-"
+              },
+              "children": []
+            },
+            {
+              "code": "M24.7",
+              "kind": "category",
+              "label": "Protrusio acetabuli",
+              "rubrics": {
+                "preferred": "Protrusio acetabuli"
+              },
+              "children": []
+            },
+            {
+              "code": "M24.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Gelenkschädigungen, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Gelenkschädigungen, anderenorts nicht klassifiziert",
+                "exclusion": "Tractus-iliotibialis-Scheuersyndrom [iliotibial band syndrome]M76.3"
+              },
+              "children": []
+            },
+            {
+              "code": "M24.9",
+              "kind": "category",
+              "label": "Gelenkschädigung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Gelenkschädigung, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "M25",
+          "kind": "category",
+          "label": "Sonstige Gelenkkrankheiten, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige Gelenkkrankheiten, anderenorts nicht klassifiziert",
+            "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+            "exclusion": "Verkalkung:\n\t\t\t\tSehneM65.2-"
+          },
+          "children": [
+            {
+              "code": "M25.0",
+              "kind": "category",
+              "label": "Hämarthros",
+              "rubrics": {
+                "preferred": "Hämarthros",
+                "exclusion": "Akute Verletzung - siehe Gelenkverletzung nach Körperregion"
+              },
+              "children": []
+            },
+            {
+              "code": "M25.1",
+              "kind": "category",
+              "label": "Gelenkfistel",
+              "rubrics": {
+                "preferred": "Gelenkfistel"
+              },
+              "children": []
+            },
+            {
+              "code": "M25.2",
+              "kind": "category",
+              "label": "Schlottergelenk",
+              "rubrics": {
+                "preferred": "Schlottergelenk"
+              },
+              "children": []
+            },
+            {
+              "code": "M25.3",
+              "kind": "category",
+              "label": "Sonstige Instabilität eines Gelenkes",
+              "rubrics": {
+                "preferred": "Sonstige Instabilität eines Gelenkes",
+                "exclusion": "Instabilität eines Gelenkes nach:\n\t\t\t\tEntfernen einer GelenkprotheseM96.8-"
+              },
+              "children": []
+            },
+            {
+              "code": "M25.4",
+              "kind": "category",
+              "label": "Gelenkerguss",
+              "rubrics": {
+                "preferred": "Gelenkerguss",
+                "exclusion": "Hydrarthrose bei FrambösieA66.6"
+              },
+              "children": []
+            },
+            {
+              "code": "M25.5",
+              "kind": "category",
+              "label": "Gelenkschmerz",
+              "rubrics": {
+                "preferred": "Gelenkschmerz"
+              },
+              "children": []
+            },
+            {
+              "code": "M25.6",
+              "kind": "category",
+              "label": "Gelenksteife, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Gelenksteife, anderenorts nicht klassifiziert",
+                "inclusion": "Gelenksteife mit partieller oder vollständiger Bewegungseinschränkung",
+                "exclusion": "Ankylose eines GelenkesM24.6-"
+              },
+              "children": []
+            },
+            {
+              "code": "M25.7",
+              "kind": "category",
+              "label": "Osteophyt",
+              "rubrics": {
+                "preferred": "Osteophyt"
+              },
+              "children": []
+            },
+            {
+              "code": "M25.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Gelenkkrankheiten",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Gelenkkrankheiten"
+              },
+              "children": []
+            },
+            {
+              "code": "M25.9",
+              "kind": "category",
+              "label": "Gelenkkrankheit, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Gelenkkrankheit, nicht näher bezeichnet",
+                "inclusion": "Arthropathie o.n.A."
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

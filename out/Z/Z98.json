@@ -1,0 +1,48 @@
+{
+  "code": "Z98",
+  "kind": "category",
+  "label": "Sonstige Zustände nach chirurgischem Eingriff",
+  "rubrics": {
+    "preferred": "Sonstige Zustände nach chirurgischem Eingriff",
+    "exclusion": "Postoperative Komplikation oder Komplikation nach anderen Behandlungsmethoden - siehe Alphabetisches Verzeichnis"
+  },
+  "children": [
+    {
+      "code": "Z98.0",
+      "kind": "category",
+      "label": "Zustand nach intestinalem Bypass oder intestinaler Anastomose",
+      "rubrics": {
+        "preferred": "Zustand nach intestinalem Bypass oder intestinaler Anastomose"
+      },
+      "children": []
+    },
+    {
+      "code": "Z98.1",
+      "kind": "category",
+      "label": "Zustand nach Arthrodese",
+      "rubrics": {
+        "preferred": "Zustand nach Arthrodese"
+      },
+      "children": []
+    },
+    {
+      "code": "Z98.2",
+      "kind": "category",
+      "label": "Vorhandensein einer Drainage des Liquor cerebrospinalis",
+      "rubrics": {
+        "preferred": "Vorhandensein einer Drainage des Liquor cerebrospinalis",
+        "inclusion": "Liquor-cerebrospinalis-Shunt"
+      },
+      "children": []
+    },
+    {
+      "code": "Z98.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Zustände nach chirurgischen Eingriffen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Zustände nach chirurgischen Eingriffen"
+      },
+      "children": []
+    }
+  ]
+}

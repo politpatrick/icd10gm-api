@@ -1,0 +1,186 @@
+{
+  "code": "N00-N08",
+  "kind": "block",
+  "label": "Glomeruläre Krankheiten",
+  "rubrics": {
+    "preferred": "Glomeruläre Krankheiten",
+    "coding-hint": "Soll die äußere Ursache (Kapitel XX) oder eine vorliegende akute (N17.-) oder nicht näher bezeichnete (N19) Nierenkrankheit angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+  },
+  "children": [
+    {
+      "code": "N00",
+      "kind": "category",
+      "label": "Akutes nephritisches Syndrom",
+      "rubrics": {
+        "preferred": "Akutes nephritisches Syndrom",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Akut:\n\t\t\t\tNierenkrankheit o.n.A.",
+        "exclusion": "Nephritisches Syndrom o.n.A.N05.-"
+      },
+      "children": []
+    },
+    {
+      "code": "N01",
+      "kind": "category",
+      "label": "Rapid-progressives nephritisches Syndrom",
+      "rubrics": {
+        "preferred": "Rapid-progressives nephritisches Syndrom",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Rapid-progressiv:\n\t\t\t\tNephritis",
+        "exclusion": "Nephritisches Syndrom o.n.A.N05.-"
+      },
+      "children": []
+    },
+    {
+      "code": "N02",
+      "kind": "category",
+      "label": "Rezidivierende und persistierende Hämaturie",
+      "rubrics": {
+        "preferred": "Rezidivierende und persistierende Hämaturie",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Hämaturie:\n\t\t\t\tmit morphologischen Veränderungen, wie unter .0-.8 am Anfang dieser Krankheitsgruppe ausgewiesen",
+        "exclusion": "Hämaturie o.n.A.R31"
+      },
+      "children": []
+    },
+    {
+      "code": "N03",
+      "kind": "category",
+      "label": "Chronisches nephritisches Syndrom",
+      "rubrics": {
+        "preferred": "Chronisches nephritisches Syndrom",
+        "inclusion": "Chronisch:\n\t\t\t\tNephritis",
+        "exclusion": "Nephritisches Syndrom o.n.A. N05.-",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]"
+      },
+      "children": []
+    },
+    {
+      "code": "N04",
+      "kind": "category",
+      "label": "Nephrotisches Syndrom",
+      "rubrics": {
+        "preferred": "Nephrotisches Syndrom",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Lipoidnephrose"
+      },
+      "children": []
+    },
+    {
+      "code": "N05",
+      "kind": "category",
+      "label": "Nicht näher bezeichnetes nephritisches Syndrom",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnetes nephritisches Syndrom",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Nephropathie o.n.A. und Nierenkrankheit o.n.A. mit morphologischen Veränderungen, wie unter .0-.8 am Anfang dieser Krankheitsgruppe ausgewiesen",
+        "exclusion": "Tubulointerstitielle Nephritis o.n.A.N12"
+      },
+      "children": []
+    },
+    {
+      "code": "N06",
+      "kind": "category",
+      "label": "Isolierte Proteinurie mit Angabe morphologischer Veränderungen",
+      "rubrics": {
+        "preferred": "Isolierte Proteinurie mit Angabe morphologischer Veränderungen",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "inclusion": "Proteinurie (isoliert) (orthostatisch) (persistierend) mit morphologischen Veränderungen, wie unter .0-.8 am Anfang dieser Krankheitsgruppe ausgewiesen",
+        "exclusion": "Proteinurie:\n\t\t\t\to.n.A.R80"
+      },
+      "children": []
+    },
+    {
+      "code": "N07",
+      "kind": "category",
+      "label": "Hereditäre Nephropathie, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Hereditäre Nephropathie, anderenorts nicht klassifiziert",
+        "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+        "exclusion": "Nichtneuropathische heredofamiliäre AmyloidoseE85.0"
+      },
+      "children": []
+    },
+    {
+      "code": "N08",
+      "kind": "category",
+      "label": "Glomeruläre Krankheiten bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Glomeruläre Krankheiten bei anderenorts klassifizierten Krankheiten",
+        "inclusion": "Nephropathie bei anderenorts klassifizierten Krankheiten",
+        "exclusion": "Tubulointerstitielle Nierenkrankheiten bei anderenorts klassifizierten KrankheitenN16.-"
+      },
+      "children": [
+        {
+          "code": "N08.0",
+          "kind": "category",
+          "label": "Glomeruläre Krankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+          "rubrics": {
+            "preferred": "Glomeruläre Krankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+            "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tSyphilisA52.7"
+          },
+          "children": []
+        },
+        {
+          "code": "N08.1",
+          "kind": "category",
+          "label": "Glomeruläre Krankheiten bei Neubildungen",
+          "rubrics": {
+            "preferred": "Glomeruläre Krankheiten bei Neubildungen",
+            "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tMakroglobulinämie WaldenströmC88.0-"
+          },
+          "children": []
+        },
+        {
+          "code": "N08.2",
+          "kind": "category",
+          "label": "Glomeruläre Krankheiten bei Blutkrankheiten und Störungen mit Beteiligung des Immunsystems",
+          "rubrics": {
+            "preferred": "Glomeruläre Krankheiten bei Blutkrankheiten und Störungen mit Beteiligung des Immunsystems",
+            "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tSichelzellenkrankheitenD57.-"
+          },
+          "children": []
+        },
+        {
+          "code": "N08.3",
+          "kind": "category",
+          "label": "Glomeruläre Krankheiten bei Diabetes mellitusE10-E14, vierte Stelle .2",
+          "rubrics": {
+            "preferred": "Glomeruläre Krankheiten bei Diabetes mellitusE10-E14, vierte Stelle .2"
+          },
+          "children": []
+        },
+        {
+          "code": "N08.4",
+          "kind": "category",
+          "label": "Glomeruläre Krankheiten bei sonstigen endokrinen, Ernährungs- und Stoffwechselkrankheiten",
+          "rubrics": {
+            "preferred": "Glomeruläre Krankheiten bei sonstigen endokrinen, Ernährungs- und Stoffwechselkrankheiten",
+            "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tLecithin-Cholesterin-Acyltransferase-MangelE78.6"
+          },
+          "children": []
+        },
+        {
+          "code": "N08.5",
+          "kind": "category",
+          "label": "Glomeruläre Krankheiten bei Systemkrankheiten des Bindegewebes",
+          "rubrics": {
+            "preferred": "Glomeruläre Krankheiten bei Systemkrankheiten des Bindegewebes",
+            "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tthrombotischer thrombozytopenischer PurpuraM31.1"
+          },
+          "children": []
+        },
+        {
+          "code": "N08.8",
+          "kind": "category",
+          "label": "Glomeruläre Krankheiten bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Glomeruläre Krankheiten bei sonstigen anderenorts klassifizierten Krankheiten",
+            "inclusion": "Glomeruläre Krankheiten bei subakuter bakterieller EndokarditisI33.0"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "code": "R77.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Veränderungen der Plasmaproteine",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Veränderungen der Plasmaproteine"
+  },
+  "children": [
+    {
+      "code": "R77.80",
+      "kind": "category",
+      "label": "Veränderung des prostataspezifischen Antigens [PSA]",
+      "rubrics": {
+        "preferred": "Veränderung des prostataspezifischen Antigens [PSA]"
+      },
+      "children": []
+    },
+    {
+      "code": "R77.88",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Veränderungen der Plasmaproteine",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Veränderungen der Plasmaproteine"
+      },
+      "children": []
+    }
+  ]
+}

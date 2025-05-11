@@ -1,0 +1,10 @@
+{
+  "code": "Z45.1",
+  "kind": "category",
+  "label": "Anpassung und Handhabung einer Infusionspumpe",
+  "rubrics": {
+    "preferred": "Anpassung und Handhabung einer Infusionspumpe",
+    "inclusion": "Überprüfung der Funktionsparameter einer Medikamentenpumpe"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "G95.10",
+  "kind": "category",
+  "label": "Nichttraumatische spinale Blutung",
+  "rubrics": {
+    "preferred": "Nichttraumatische spinale Blutung",
+    "inclusion": "Hämatomyelie"
+  },
+  "children": []
+}

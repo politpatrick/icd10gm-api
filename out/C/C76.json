@@ -1,0 +1,95 @@
+{
+  "code": "C76",
+  "kind": "category",
+  "label": "Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen",
+    "exclusion": "Bösartige Neubildung:\n\t\t\t\tUrogenitaltrakt o.n.A.:\n\t\t\t\tweiblich C57.9"
+  },
+  "children": [
+    {
+      "code": "C76.0",
+      "kind": "category",
+      "label": "Kopf, Gesicht und Hals",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Kopf, Gesicht und Hals",
+        "preferred": "Kopf, Gesicht und Hals",
+        "inclusion": "Wange o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "C76.1",
+      "kind": "category",
+      "label": "Thorax",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Thorax",
+        "preferred": "Thorax",
+        "inclusion": "Thorakal o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "C76.2",
+      "kind": "category",
+      "label": "Abdomen",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Abdomen",
+        "preferred": "Abdomen"
+      },
+      "children": []
+    },
+    {
+      "code": "C76.3",
+      "kind": "category",
+      "label": "Becken",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Becken",
+        "preferred": "Becken",
+        "inclusion": "Lokalisationen innerhalb des Beckens, mehrere Teilbereiche überlappend, wie z.B.:\n\t\t\t\trektovesikal (Septum)"
+      },
+      "children": []
+    },
+    {
+      "code": "C76.4",
+      "kind": "category",
+      "label": "Obere Extremität",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Obere Extremität",
+        "preferred": "Obere Extremität"
+      },
+      "children": []
+    },
+    {
+      "code": "C76.5",
+      "kind": "category",
+      "label": "Untere Extremität",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung ungenau bezeichneter Lokalisationen: Untere Extremität",
+        "preferred": "Untere Extremität"
+      },
+      "children": []
+    },
+    {
+      "code": "C76.7",
+      "kind": "category",
+      "label": "Sonstige ungenau bezeichnete Lokalisationen",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Sonstige ungenau bezeichnete Lokalisationen",
+        "preferred": "Sonstige ungenau bezeichnete Lokalisationen"
+      },
+      "children": []
+    },
+    {
+      "code": "C76.8",
+      "kind": "category",
+      "label": "Sonstige und ungenau bezeichnete Lokalisationen, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Sonstige und ungenau bezeichnete Lokalisationen, mehrere Teilbereiche überlappend",
+        "preferred": "Sonstige und ungenau bezeichnete Lokalisationen, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+      },
+      "children": []
+    }
+  ]
+}

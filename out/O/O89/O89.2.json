@@ -1,0 +1,10 @@
+{
+  "code": "O89.2",
+  "kind": "category",
+  "label": "Komplikationen des Zentralnervensystems bei Anästhesie im Wochenbett",
+  "rubrics": {
+    "preferred": "Komplikationen des Zentralnervensystems bei Anästhesie im Wochenbett",
+    "inclusion": "Zerebrale Anoxie durch Anästhesie im Wochenbett"
+  },
+  "children": []
+}

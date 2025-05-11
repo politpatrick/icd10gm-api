@@ -1,0 +1,11 @@
+{
+  "code": "F63.1",
+  "kind": "category",
+  "label": "Pathologische Brandstiftung [Pyromanie]",
+  "rubrics": {
+    "preferred": "Pathologische Brandstiftung [Pyromanie]",
+    "definition": "Die Störung ist durch häufige tatsächliche oder versuchte Brandstiftung an Gebäuden oder anderem Eigentum ohne verständliches Motiv und durch eine anhaltende Beschäftigung der betroffenen Person mit Feuer und Brand charakterisiert. Das Verhalten ist häufig mit wachsender innerer Spannung vor der Handlung und starker Erregung sofort nach ihrer Ausführung verbunden.",
+    "exclusion": "Brandstiftung:\n\t\t\t\tdurch Erwachsene mit dissozialer PersönlichkeitsstörungF60.2"
+  },
+  "children": []
+}

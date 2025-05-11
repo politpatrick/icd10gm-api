@@ -1,0 +1,106 @@
+{
+  "code": "Z09",
+  "kind": "category",
+  "label": "Nachuntersuchung nach Behandlung wegen anderer Krankheitszustände außer bösartigen Neubildungen",
+  "rubrics": {
+    "preferred": "Nachuntersuchung nach Behandlung wegen anderer Krankheitszustände außer bösartigen Neubildungen",
+    "inclusion": "Medizinische Überwachung nach Behandlung",
+    "exclusion": "Überwachung bei:\n\t\t\t\tProthesen und sonstigen medizinischen Geräten oder HilfsmittelnZ44-Z46"
+  },
+  "children": [
+    {
+      "code": "Z09.0",
+      "kind": "category",
+      "label": "Nachuntersuchung nach chirurgischem Eingriff wegen anderer Krankheitszustände",
+      "rubrics": {
+        "preferred": "Nachuntersuchung nach chirurgischem Eingriff wegen anderer Krankheitszustände",
+        "exclusion": "Nachuntersuchung nach OrgantransplantationZ09.80"
+      },
+      "children": []
+    },
+    {
+      "code": "Z09.1",
+      "kind": "category",
+      "label": "Nachuntersuchung nach Strahlentherapie wegen anderer Krankheitszustände",
+      "rubrics": {
+        "preferred": "Nachuntersuchung nach Strahlentherapie wegen anderer Krankheitszustände",
+        "exclusion": "Strahlentherapie-SitzungZ51.0"
+      },
+      "children": []
+    },
+    {
+      "code": "Z09.2",
+      "kind": "category",
+      "label": "Nachuntersuchung nach Chemotherapie wegen anderer Krankheitszustände",
+      "rubrics": {
+        "preferred": "Nachuntersuchung nach Chemotherapie wegen anderer Krankheitszustände",
+        "exclusion": "ErhaltungschemotherapieZ51.1-Z51.2"
+      },
+      "children": []
+    },
+    {
+      "code": "Z09.3",
+      "kind": "category",
+      "label": "Nachuntersuchung nach Psychotherapie",
+      "rubrics": {
+        "preferred": "Nachuntersuchung nach Psychotherapie"
+      },
+      "children": []
+    },
+    {
+      "code": "Z09.4",
+      "kind": "category",
+      "label": "Nachuntersuchung nach Frakturbehandlung",
+      "rubrics": {
+        "preferred": "Nachuntersuchung nach Frakturbehandlung"
+      },
+      "children": []
+    },
+    {
+      "code": "Z09.7",
+      "kind": "category",
+      "label": "Nachuntersuchung nach Kombinationsbehandlung wegen anderer Krankheitszustände",
+      "rubrics": {
+        "preferred": "Nachuntersuchung nach Kombinationsbehandlung wegen anderer Krankheitszustände"
+      },
+      "children": []
+    },
+    {
+      "code": "Z09.8",
+      "kind": "category",
+      "label": "Nachuntersuchung nach sonstiger Behandlung wegen anderer Krankheitszustände",
+      "rubrics": {
+        "preferred": "Nachuntersuchung nach sonstiger Behandlung wegen anderer Krankheitszustände"
+      },
+      "children": [
+        {
+          "code": "Z09.80",
+          "kind": "category",
+          "label": "Nachuntersuchung nach Organtransplantation",
+          "rubrics": {
+            "preferred": "Nachuntersuchung nach Organtransplantation"
+          },
+          "children": []
+        },
+        {
+          "code": "Z09.88",
+          "kind": "category",
+          "label": "Nachuntersuchung nach sonstiger Behandlung wegen anderer Krankheitszustände",
+          "rubrics": {
+            "preferred": "Nachuntersuchung nach sonstiger Behandlung wegen anderer Krankheitszustände"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z09.9",
+      "kind": "category",
+      "label": "Nachuntersuchung nach nicht näher bezeichneter Behandlung wegen anderer Krankheitszustände",
+      "rubrics": {
+        "preferred": "Nachuntersuchung nach nicht näher bezeichneter Behandlung wegen anderer Krankheitszustände"
+      },
+      "children": []
+    }
+  ]
+}

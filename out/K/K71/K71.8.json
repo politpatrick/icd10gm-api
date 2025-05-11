@@ -1,0 +1,29 @@
+{
+  "code": "K71.8",
+  "kind": "category",
+  "label": "Toxische Leberkrankheit mit sonstigen Affektionen der Leber",
+  "rubrics": {
+    "preferred": "Toxische Leberkrankheit mit sonstigen Affektionen der Leber"
+  },
+  "children": [
+    {
+      "code": "K71.80",
+      "kind": "category",
+      "label": "Toxische veno-okklusive Leberkrankheit",
+      "rubrics": {
+        "preferred": "Toxische veno-okklusive Leberkrankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "K71.88",
+      "kind": "category",
+      "label": "Toxische Leberkrankheit mit sonstigen Affektionen der Leber",
+      "rubrics": {
+        "preferred": "Toxische Leberkrankheit mit sonstigen Affektionen der Leber",
+        "inclusion": "Toxische Leberkrankheit mit:\n\t\t\t\tPeliosis hepatis"
+      },
+      "children": []
+    }
+  ]
+}

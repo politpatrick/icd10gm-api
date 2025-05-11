@@ -1,0 +1,60 @@
+{
+  "code": "E66",
+  "kind": "category",
+  "label": "Adipositas",
+  "rubrics": {
+    "preferred": "Adipositas",
+    "exclusion": "Prader-Willi-SyndromQ87.1"
+  },
+  "children": [
+    {
+      "code": "E66.0",
+      "kind": "category",
+      "label": "Adipositas durch übermäßige Kalorienzufuhr",
+      "rubrics": {
+        "preferred": "Adipositas durch übermäßige Kalorienzufuhr"
+      },
+      "children": []
+    },
+    {
+      "code": "E66.1",
+      "kind": "category",
+      "label": "Arzneimittelinduzierte Adipositas",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierte Adipositas",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "E66.2",
+      "kind": "category",
+      "label": "Übermäßige Adipositas mit alveolärer Hypoventilation",
+      "rubrics": {
+        "preferred": "Übermäßige Adipositas mit alveolärer Hypoventilation",
+        "inclusion": "Pickwick-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "E66.8",
+      "kind": "category",
+      "label": "Sonstige Adipositas",
+      "rubrics": {
+        "preferred": "Sonstige Adipositas",
+        "inclusion": "Krankhafte Adipositas"
+      },
+      "children": []
+    },
+    {
+      "code": "E66.9",
+      "kind": "category",
+      "label": "Adipositas, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Adipositas, nicht näher bezeichnet",
+        "inclusion": "Einfache Adipositas o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

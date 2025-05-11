@@ -1,0 +1,10 @@
+{
+  "code": "C05.0",
+  "kind": "category",
+  "label": "Harter Gaumen",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Harter Gaumen",
+    "preferred": "Harter Gaumen"
+  },
+  "children": []
+}

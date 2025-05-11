@@ -1,0 +1,11 @@
+{
+  "code": "T38.8",
+  "kind": "category",
+  "label": "Sonstige und nicht näher bezeichnete Hormone und synthetische Ersatzstoffe",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Sonstige und nicht näher bezeichnete Hormone und synthetische Ersatzstoffe",
+    "preferred": "Sonstige und nicht näher bezeichnete Hormone und synthetische Ersatzstoffe",
+    "inclusion": "Hypophysenvorderlappenhormone [Adenohypophysenhormone]"
+  },
+  "children": []
+}

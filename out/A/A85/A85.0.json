@@ -1,0 +1,10 @@
+{
+  "code": "A85.0",
+  "kind": "category",
+  "label": "Enzephalitis durch EnterovirenG05.1",
+  "rubrics": {
+    "preferred": "Enzephalitis durch EnterovirenG05.1",
+    "inclusion": "Enzephalomyelitis durch Enteroviren"
+  },
+  "children": []
+}

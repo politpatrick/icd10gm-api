@@ -1,0 +1,10 @@
+{
+  "code": "N51.8",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Tuberkulose der Vesicula seminalisA18.1"
+  },
+  "children": []
+}

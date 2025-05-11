@@ -1,0 +1,11 @@
+{
+  "code": "G14",
+  "kind": "category",
+  "label": "Postpolio-Syndrom",
+  "rubrics": {
+    "preferred": "Postpolio-Syndrom",
+    "inclusion": "Postpoliomyelitis-Syndrom",
+    "exclusion": "Folgezustände der PoliomyelitisB91"
+  },
+  "children": []
+}

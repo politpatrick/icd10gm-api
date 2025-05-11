@@ -1,0 +1,10 @@
+{
+  "code": "D09.0",
+  "kind": "category",
+  "label": "Harnblase",
+  "rubrics": {
+    "preferredLong": "Carcinoma in situ: Harnblase",
+    "preferred": "Harnblase"
+  },
+  "children": []
+}

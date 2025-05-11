@@ -1,0 +1,47 @@
+{
+  "code": "Q90",
+  "kind": "category",
+  "label": "Down-Syndrom",
+  "rubrics": {
+    "preferred": "Down-Syndrom"
+  },
+  "children": [
+    {
+      "code": "Q90.0",
+      "kind": "category",
+      "label": "Trisomie 21, meiotische Non-disjunction",
+      "rubrics": {
+        "preferred": "Trisomie 21, meiotische Non-disjunction"
+      },
+      "children": []
+    },
+    {
+      "code": "Q90.1",
+      "kind": "category",
+      "label": "Trisomie 21, Mosaik (mitotische Non-disjunction)",
+      "rubrics": {
+        "preferred": "Trisomie 21, Mosaik (mitotische Non-disjunction)"
+      },
+      "children": []
+    },
+    {
+      "code": "Q90.2",
+      "kind": "category",
+      "label": "Trisomie 21, Translokation",
+      "rubrics": {
+        "preferred": "Trisomie 21, Translokation"
+      },
+      "children": []
+    },
+    {
+      "code": "Q90.9",
+      "kind": "category",
+      "label": "Down-Syndrom, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Down-Syndrom, nicht näher bezeichnet",
+        "inclusion": "Trisomie 21 o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "code": "S22.2",
+  "kind": "category",
+  "label": "Fraktur des Sternums",
+  "rubrics": {
+    "preferred": "Fraktur des Sternums"
+  },
+  "children": [
+    {
+      "code": "S22.20",
+      "kind": "category",
+      "label": "Nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Fraktur des Sternums: Nicht näher bezeichnet",
+        "preferred": "Nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "S22.21",
+      "kind": "category",
+      "label": "Manubrium sterni",
+      "rubrics": {
+        "preferredLong": "Fraktur des Sternums: Manubrium sterni",
+        "preferred": "Manubrium sterni"
+      },
+      "children": []
+    },
+    {
+      "code": "S22.22",
+      "kind": "category",
+      "label": "Corpus sterni",
+      "rubrics": {
+        "preferredLong": "Fraktur des Sternums: Corpus sterni",
+        "preferred": "Corpus sterni"
+      },
+      "children": []
+    },
+    {
+      "code": "S22.23",
+      "kind": "category",
+      "label": "Processus xiphoideus",
+      "rubrics": {
+        "preferredLong": "Fraktur des Sternums: Processus xiphoideus",
+        "preferred": "Processus xiphoideus"
+      },
+      "children": []
+    }
+  ]
+}

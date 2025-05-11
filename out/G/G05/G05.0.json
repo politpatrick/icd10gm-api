@@ -1,0 +1,10 @@
+{
+  "code": "G05.0",
+  "kind": "category",
+  "label": "Enzephalitis, Myelitis und Enzephalomyelitis bei anderenorts klassifizierten bakteriellen Krankheiten",
+  "rubrics": {
+    "preferred": "Enzephalitis, Myelitis und Enzephalomyelitis bei anderenorts klassifizierten bakteriellen Krankheiten",
+    "inclusion": "Enzephalitis, Myelitis oder Enzephalomyelitis (bei) (durch):\n\t\t\t\ttuberkulösA17.8"
+  },
+  "children": []
+}

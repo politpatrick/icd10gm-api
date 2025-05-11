@@ -1,0 +1,10 @@
+{
+  "code": "A54.3",
+  "kind": "category",
+  "label": "Gonokokkeninfektion des Auges",
+  "rubrics": {
+    "preferred": "Gonokokkeninfektion des Auges",
+    "inclusion": "Ophthalmia neonatorum\n\t\t\t\tdurch Gonokokken"
+  },
+  "children": []
+}

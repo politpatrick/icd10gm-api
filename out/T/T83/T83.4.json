@@ -1,0 +1,10 @@
+{
+  "code": "T83.4",
+  "kind": "category",
+  "label": "Mechanische Komplikation durch sonstige Prothesen, Implantate oder Transplantate im Genitaltrakt",
+  "rubrics": {
+    "preferred": "Mechanische Komplikation durch sonstige Prothesen, Implantate oder Transplantate im Genitaltrakt",
+    "inclusion": "Unter T82.0 aufgeführte Zustände durch (implantierte) Penisprothese"
+  },
+  "children": []
+}

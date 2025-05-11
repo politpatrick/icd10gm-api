@@ -1,0 +1,38 @@
+{
+  "code": "M88",
+  "kind": "category",
+  "label": "Osteodystrophia deformans [Paget-Krankheit]",
+  "rubrics": {
+    "preferred": "Osteodystrophia deformans [Paget-Krankheit]",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+  },
+  "children": [
+    {
+      "code": "M88.0",
+      "kind": "category",
+      "label": "Osteodystrophia deformans der Schädelknochen",
+      "rubrics": {
+        "preferred": "Osteodystrophia deformans der Schädelknochen"
+      },
+      "children": []
+    },
+    {
+      "code": "M88.8",
+      "kind": "category",
+      "label": "Osteodystrophia deformans sonstiger Knochen",
+      "rubrics": {
+        "preferred": "Osteodystrophia deformans sonstiger Knochen"
+      },
+      "children": []
+    },
+    {
+      "code": "M88.9",
+      "kind": "category",
+      "label": "Osteodystrophia deformans, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Osteodystrophia deformans, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

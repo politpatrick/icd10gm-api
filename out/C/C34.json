@@ -1,0 +1,72 @@
+{
+  "code": "C34",
+  "kind": "category",
+  "label": "Bösartige Neubildung der Bronchien und der Lunge",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung der Bronchien und der Lunge"
+  },
+  "children": [
+    {
+      "code": "C34.0",
+      "kind": "category",
+      "label": "Hauptbronchus",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Hauptbronchus",
+        "preferred": "Hauptbronchus",
+        "inclusion": "Hilus (Lunge)"
+      },
+      "children": []
+    },
+    {
+      "code": "C34.1",
+      "kind": "category",
+      "label": "Oberlappen (-Bronchus)",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Oberlappen (-Bronchus)",
+        "preferred": "Oberlappen (-Bronchus)"
+      },
+      "children": []
+    },
+    {
+      "code": "C34.2",
+      "kind": "category",
+      "label": "Mittellappen (-Bronchus)",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Mittellappen (-Bronchus)",
+        "preferred": "Mittellappen (-Bronchus)"
+      },
+      "children": []
+    },
+    {
+      "code": "C34.3",
+      "kind": "category",
+      "label": "Unterlappen (-Bronchus)",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Unterlappen (-Bronchus)",
+        "preferred": "Unterlappen (-Bronchus)"
+      },
+      "children": []
+    },
+    {
+      "code": "C34.8",
+      "kind": "category",
+      "label": "Bronchus und Lunge, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bronchus und Lunge, mehrere Teilbereiche überlappend",
+        "preferred": "Bronchus und Lunge, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+      },
+      "children": []
+    },
+    {
+      "code": "C34.9",
+      "kind": "category",
+      "label": "Bronchus oder Lunge, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Bronchus oder Lunge, nicht näher bezeichnet",
+        "preferred": "Bronchus oder Lunge, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

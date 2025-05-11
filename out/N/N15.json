@@ -1,0 +1,68 @@
+{
+  "code": "N15",
+  "kind": "category",
+  "label": "Sonstige tubulointerstitielle Nierenkrankheiten",
+  "rubrics": {
+    "preferred": "Sonstige tubulointerstitielle Nierenkrankheiten"
+  },
+  "children": [
+    {
+      "code": "N15.0",
+      "kind": "category",
+      "label": "Balkan-Nephropathie",
+      "rubrics": {
+        "preferred": "Balkan-Nephropathie",
+        "inclusion": "Chronische endemische Nephropathie"
+      },
+      "children": []
+    },
+    {
+      "code": "N15.1",
+      "kind": "category",
+      "label": "Nierenabszess und perinephritischer Abszess",
+      "rubrics": {
+        "preferred": "Nierenabszess und perinephritischer Abszess"
+      },
+      "children": [
+        {
+          "code": "N15.10",
+          "kind": "category",
+          "label": "Nierenabszess",
+          "rubrics": {
+            "preferred": "Nierenabszess"
+          },
+          "children": []
+        },
+        {
+          "code": "N15.11",
+          "kind": "category",
+          "label": "Perinephritischer Abszess",
+          "rubrics": {
+            "preferred": "Perinephritischer Abszess"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N15.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete tubulointerstitielle Nierenkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete tubulointerstitielle Nierenkrankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "N15.9",
+      "kind": "category",
+      "label": "Tubulointerstitielle Nierenkrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Tubulointerstitielle Nierenkrankheit, nicht näher bezeichnet",
+        "inclusion": "Niereninfektion o.n.A.",
+        "exclusion": "Harnwegsinfektion o.n.A.N39.0"
+      },
+      "children": []
+    }
+  ]
+}

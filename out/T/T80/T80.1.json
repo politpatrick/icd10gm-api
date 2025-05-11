@@ -1,0 +1,11 @@
+{
+  "code": "T80.1",
+  "kind": "category",
+  "label": "Gefäßkomplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+  "rubrics": {
+    "preferred": "Gefäßkomplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+    "inclusion": "Thrombophlebitis\n\t\t\t\tnach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken",
+    "exclusion": "Aufgeführte Zustände mit der Angabe:\n\t\t\t\tnach medizinischen MaßnahmenT81.7"
+  },
+  "children": []
+}

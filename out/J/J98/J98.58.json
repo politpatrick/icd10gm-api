@@ -1,0 +1,10 @@
+{
+  "code": "J98.58",
+  "kind": "category",
+  "label": "Sonstige Krankheiten des Mediastinums, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten des Mediastinums, anderenorts nicht klassifiziert",
+    "inclusion": "Verlagerung\n\t\t\t\tMediastinum"
+  },
+  "children": []
+}

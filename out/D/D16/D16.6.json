@@ -1,0 +1,11 @@
+{
+  "code": "D16.6",
+  "kind": "category",
+  "label": "Wirbelsäule",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung des Knochens und des Gelenkknorpels: Wirbelsäule",
+    "preferred": "Wirbelsäule",
+    "exclusion": "Kreuzbein und SteißbeinD16.8"
+  },
+  "children": []
+}

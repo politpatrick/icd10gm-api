@@ -1,0 +1,11 @@
+{
+  "code": "A54.2",
+  "kind": "category",
+  "label": "Pelviperitonitis durch Gonokokken und Gonokokkeninfektionen sonstiger Urogenitalorgane",
+  "rubrics": {
+    "preferred": "Pelviperitonitis durch Gonokokken und Gonokokkeninfektionen sonstiger Urogenitalorgane",
+    "inclusion": "ProstatitisN51.0\n\t\t\t\tdurch Gonokokken",
+    "exclusion": "GonokokkenperitonitisA54.8"
+  },
+  "children": []
+}

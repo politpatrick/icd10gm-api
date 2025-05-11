@@ -1,0 +1,10 @@
+{
+  "code": "T95.4",
+  "kind": "category",
+  "label": "Folgen einer Verbrennung oder Verätzung, die nur nach der Größe der betroffenen Körperoberfläche klassifizierbar ist",
+  "rubrics": {
+    "preferred": "Folgen einer Verbrennung oder Verätzung, die nur nach der Größe der betroffenen Körperoberfläche klassifizierbar ist",
+    "inclusion": "Folgen einer Verletzung, die unter T31-T32 klassifizierbar ist"
+  },
+  "children": []
+}

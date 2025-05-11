@@ -1,0 +1,10 @@
+{
+  "code": "N18.9",
+  "kind": "category",
+  "label": "Chronische Nierenkrankheit, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Chronische Nierenkrankheit, nicht näher bezeichnet",
+    "inclusion": "Diffuse sklerosierende Glomerulonephritis, nicht näher bezeichnet"
+  },
+  "children": []
+}

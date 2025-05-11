@@ -1,0 +1,10 @@
+{
+  "code": "I24.9",
+  "kind": "category",
+  "label": "Akute ischämische Herzkrankheit, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Akute ischämische Herzkrankheit, nicht näher bezeichnet",
+    "exclusion": "Ischämische Herzkrankheit (chronisch) o.n.A.I25.9"
+  },
+  "children": []
+}

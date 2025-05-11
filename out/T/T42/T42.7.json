@@ -1,0 +1,11 @@
+{
+  "code": "T42.7",
+  "kind": "category",
+  "label": "Antiepileptika, Sedativa und Hypnotika, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Antiepileptika, Sedativa und Hypnotika, nicht näher bezeichnet",
+    "preferred": "Antiepileptika, Sedativa und Hypnotika, nicht näher bezeichnet",
+    "inclusion": "Schlaftrunk\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

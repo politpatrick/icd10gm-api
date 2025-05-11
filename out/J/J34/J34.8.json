@@ -1,0 +1,10 @@
+{
+  "code": "J34.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Krankheiten der Nase und der Nasennebenhöhlen",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Krankheiten der Nase und der Nasennebenhöhlen",
+    "inclusion": "Rhinolith"
+  },
+  "children": []
+}

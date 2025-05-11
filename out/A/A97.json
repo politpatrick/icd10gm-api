@@ -1,0 +1,53 @@
+{
+  "code": "A97",
+  "kind": "category",
+  "label": "Dengue",
+  "rubrics": {
+    "preferred": "Dengue",
+    "definition": "Dengue ist eine Infektionskrankheit, die von Stechmücken übertragen wird, die mit dem Denguevirus infiziert sind. Es ist eine Krankheitsentität mit unterschiedlichen klinischen Manifestationen und oft nicht vorhersagbarem klinischen Verlauf und Ausgang. Die meisten Patienten genesen nach einem sich selbst limitierenden klinischen Verlauf mit Übelkeit, Erbrechen und Schmerzen. Ein kleiner Anteil entwickelt jedoch eine schwere Erkrankung, überwiegend charakterisiert durch Plasmaverlust mit oder ohne Blutungen, wobei schwere Blutungen oder Organschäden, mit oder ohne Dengue-Schocksyndrom, vorkommen."
+  },
+  "children": [
+    {
+      "code": "A97.0",
+      "kind": "category",
+      "label": "Dengue ohne Warnzeichen",
+      "rubrics": {
+        "preferred": "Dengue ohne Warnzeichen",
+        "inclusion": "Hämorrhagisches Dengue-Fieber ohne Warnzeichen"
+      },
+      "children": []
+    },
+    {
+      "code": "A97.1",
+      "kind": "category",
+      "label": "Dengue mit Warnzeichen",
+      "rubrics": {
+        "preferred": "Dengue mit Warnzeichen",
+        "definition": "Klinische Warnzeichen sind: Abdominalschmerz oder abdominaler Druckschmerz, Mukosablutung, Lethargie und/oder Unruhe, schneller Abfall der Thrombozyten, Anstieg des Hämatokrit. Andere Hinweise sind: anhaltendes Erbrechen, sichtbare Flüssigkeitseinlagerung, Lebervergrößerung um mehr als 2 cm.",
+        "inclusion": "Hämorrhagisches Dengue-Fieber mit Warnzeichen"
+      },
+      "children": []
+    },
+    {
+      "code": "A97.2",
+      "kind": "category",
+      "label": "Schweres Dengue",
+      "rubrics": {
+        "preferred": "Schweres Dengue",
+        "definition": "Klinische Zeichen beinhalten: 1. Schwerer Plasmaverlust, der zu Schock (Dengue-Schocksyndrom, DSS) und/oder Flüssigkeitseinlagerung mit respiratorischem Disstress führt. 2. Schwere Blutung, durch Arzt festgestellt. 3. Schwere Organbeteiligung: Leber-AST oder -ALT größer oder gleich 1000 U/l, ZNS: Bewusstseinseinschränkung (Enzephalitis), Beteiligung anderer Organe, z.B. Myokarditis oder Nephritis.",
+        "inclusion": "Schweres hämorrhagisches Dengue-Fieber"
+      },
+      "children": []
+    },
+    {
+      "code": "A97.9",
+      "kind": "category",
+      "label": "Dengue, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Dengue, nicht näher bezeichnet",
+        "inclusion": "Dengue-Fieber [DF] o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

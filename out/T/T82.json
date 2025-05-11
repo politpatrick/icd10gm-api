@@ -1,0 +1,110 @@
+{
+  "code": "T82",
+  "kind": "category",
+  "label": "Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen",
+  "rubrics": {
+    "preferred": "Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen",
+    "exclusion": "Versagen und Abstoßung von transplantierten Organen und GewebenT86.-"
+  },
+  "children": [
+    {
+      "code": "T82.0",
+      "kind": "category",
+      "label": "Mechanische Komplikation durch eine Herzklappenprothese",
+      "rubrics": {
+        "preferred": "Mechanische Komplikation durch eine Herzklappenprothese",
+        "inclusion": "Versagen (mechanisch)\n\t\t\t\tdurch Herzklappenprothese"
+      },
+      "children": []
+    },
+    {
+      "code": "T82.1",
+      "kind": "category",
+      "label": "Mechanische Komplikation durch ein kardiales elektronisches Gerät",
+      "rubrics": {
+        "preferred": "Mechanische Komplikation durch ein kardiales elektronisches Gerät",
+        "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tImpulsgenerator (Batterie)"
+      },
+      "children": []
+    },
+    {
+      "code": "T82.2",
+      "kind": "category",
+      "label": "Mechanische Komplikation durch Koronararterien-Bypass und Klappentransplantate",
+      "rubrics": {
+        "preferred": "Mechanische Komplikation durch Koronararterien-Bypass und Klappentransplantate",
+        "inclusion": "Unter T82.0 aufgeführte Zustände durch Koronararterien-Bypass und Klappentransplantate"
+      },
+      "children": []
+    },
+    {
+      "code": "T82.3",
+      "kind": "category",
+      "label": "Mechanische Komplikation durch sonstige Gefäßtransplantate",
+      "rubrics": {
+        "preferred": "Mechanische Komplikation durch sonstige Gefäßtransplantate",
+        "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tArterientransplantat (Bypass) (A. carotis) (A. femoralis)"
+      },
+      "children": []
+    },
+    {
+      "code": "T82.4",
+      "kind": "category",
+      "label": "Mechanische Komplikation durch Gefäßkatheter bei Dialyse",
+      "rubrics": {
+        "preferred": "Mechanische Komplikation durch Gefäßkatheter bei Dialyse",
+        "inclusion": "Unter T82.0 aufgeführte Zustände durch Gefäßkatheter bei Dialyse",
+        "exclusion": "Mechanische Komplikation durch Katheter zur PeritonealdialyseT85.6"
+      },
+      "children": []
+    },
+    {
+      "code": "T82.5",
+      "kind": "category",
+      "label": "Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen",
+      "rubrics": {
+        "preferred": "Mechanische Komplikation durch sonstige Geräte und Implantate im Herzen und in den Gefäßen",
+        "inclusion": "Unter T82.0 aufgeführte Zustände durch:\n\t\t\t\tVena-cava-Schirm",
+        "exclusion": "Mechanische Komplikation durch epiduralen oder subduralen InfusionskatheterT85.6"
+      },
+      "children": []
+    },
+    {
+      "code": "T82.6",
+      "kind": "category",
+      "label": "Infektion und entzündliche Reaktion durch eine Herzklappenprothese",
+      "rubrics": {
+        "preferred": "Infektion und entzündliche Reaktion durch eine Herzklappenprothese"
+      },
+      "children": []
+    },
+    {
+      "code": "T82.7",
+      "kind": "category",
+      "label": "Infektion und entzündliche Reaktion durch sonstige Geräte, Implantate oder Transplantate im Herzen und in den Gefäßen",
+      "rubrics": {
+        "preferred": "Infektion und entzündliche Reaktion durch sonstige Geräte, Implantate oder Transplantate im Herzen und in den Gefäßen"
+      },
+      "children": []
+    },
+    {
+      "code": "T82.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen",
+        "inclusion": "Thrombose\n\t\t\t\tdurch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen"
+      },
+      "children": []
+    },
+    {
+      "code": "T82.9",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Komplikation durch Prothese, Implantat oder Transplantat im Herzen und in den Gefäßen",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Komplikation durch Prothese, Implantat oder Transplantat im Herzen und in den Gefäßen"
+      },
+      "children": []
+    }
+  ]
+}

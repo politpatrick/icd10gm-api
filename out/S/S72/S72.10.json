@@ -1,0 +1,11 @@
+{
+  "code": "S72.10",
+  "kind": "category",
+  "label": "Trochantär, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Femurfraktur: Trochantär, nicht näher bezeichnet",
+    "preferred": "Trochantär, nicht näher bezeichnet",
+    "inclusion": "Trochanter minor"
+  },
+  "children": []
+}

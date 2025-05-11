@@ -1,0 +1,95 @@
+{
+  "code": "Z86",
+  "kind": "category",
+  "label": "Bestimmte andere Krankheiten in der Eigenanamnese",
+  "rubrics": {
+    "preferred": "Bestimmte andere Krankheiten in der Eigenanamnese",
+    "exclusion": "Medizinische Nachbetreuung und RekonvaleszenzZ42-Z51Z54.-!"
+  },
+  "children": [
+    {
+      "code": "Z86.0",
+      "kind": "category",
+      "label": "Andere Neubildungen in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Andere Neubildungen in der Eigenanamnese",
+        "inclusion": "Zustände, klassifizierbar unter D00-D48",
+        "exclusion": "Bösartige NeubildungenZ85.-"
+      },
+      "children": []
+    },
+    {
+      "code": "Z86.1",
+      "kind": "category",
+      "label": "Infektiöse oder parasitäre Krankheiten in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Infektiöse oder parasitäre Krankheiten in der Eigenanamnese",
+        "inclusion": "Zustände, klassifizierbar unter A00-B89, B99",
+        "exclusion": "Folgezustände von infektiösen oder parasitären KrankheitenB90-B94"
+      },
+      "children": []
+    },
+    {
+      "code": "Z86.2",
+      "kind": "category",
+      "label": "Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems in der Eigenanamnese",
+        "inclusion": "Zustände, klassifizierbar unter D50-D89"
+      },
+      "children": []
+    },
+    {
+      "code": "Z86.3",
+      "kind": "category",
+      "label": "Endokrine, Ernährungs- oder Stoffwechselkrankheiten in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Endokrine, Ernährungs- oder Stoffwechselkrankheiten in der Eigenanamnese",
+        "inclusion": "Zustände, klassifizierbar unter E00-E90"
+      },
+      "children": []
+    },
+    {
+      "code": "Z86.4",
+      "kind": "category",
+      "label": "Missbrauch einer psychotropen Substanz in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Missbrauch einer psychotropen Substanz in der Eigenanamnese",
+        "inclusion": "Zustände, klassifizierbar unter F10-F19",
+        "exclusion": "Probleme im Zusammenhang mit dem Konsum von:\n\t\t\t\tTabakZ72.0"
+      },
+      "children": []
+    },
+    {
+      "code": "Z86.5",
+      "kind": "category",
+      "label": "Andere psychische Krankheiten oder Verhaltensstörungen in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Andere psychische Krankheiten oder Verhaltensstörungen in der Eigenanamnese",
+        "inclusion": "Zustände, klassifizierbar unter F00-F09, F20-F99"
+      },
+      "children": []
+    },
+    {
+      "code": "Z86.6",
+      "kind": "category",
+      "label": "Krankheiten des Nervensystems oder der Sinnesorgane in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Krankheiten des Nervensystems oder der Sinnesorgane in der Eigenanamnese",
+        "inclusion": "Zustände, klassifizierbar unter G00-G99, H00-H95"
+      },
+      "children": []
+    },
+    {
+      "code": "Z86.7",
+      "kind": "category",
+      "label": "Krankheiten des Kreislaufsystems in der Eigenanamnese",
+      "rubrics": {
+        "preferred": "Krankheiten des Kreislaufsystems in der Eigenanamnese",
+        "inclusion": "Zustände, klassifizierbar unter I00-I99",
+        "exclusion": "Postmyokardinfarkt-SyndromI24.1"
+      },
+      "children": []
+    }
+  ]
+}

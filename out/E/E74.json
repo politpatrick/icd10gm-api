@@ -1,0 +1,82 @@
+{
+  "code": "E74",
+  "kind": "category",
+  "label": "Sonstige Störungen des Kohlenhydratstoffwechsels",
+  "rubrics": {
+    "preferred": "Sonstige Störungen des Kohlenhydratstoffwechsels",
+    "exclusion": "MukopolysaccharidoseE76.0-E76.3"
+  },
+  "children": [
+    {
+      "code": "E74.0",
+      "kind": "category",
+      "label": "Glykogenspeicherkrankheit [Glykogenose]",
+      "rubrics": {
+        "preferred": "Glykogenspeicherkrankheit [Glykogenose]",
+        "inclusion": "Von-Gierke-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "E74.1",
+      "kind": "category",
+      "label": "Störungen des Fruktosestoffwechsels",
+      "rubrics": {
+        "preferred": "Störungen des Fruktosestoffwechsels",
+        "inclusion": "Hereditäre Fruktoseintoleranz"
+      },
+      "children": []
+    },
+    {
+      "code": "E74.2",
+      "kind": "category",
+      "label": "Störungen des Galaktosestoffwechsels",
+      "rubrics": {
+        "preferred": "Störungen des Galaktosestoffwechsels",
+        "inclusion": "Galaktosämie"
+      },
+      "children": []
+    },
+    {
+      "code": "E74.3",
+      "kind": "category",
+      "label": "Sonstige Störungen der intestinalen Kohlenhydratabsorption",
+      "rubrics": {
+        "preferred": "Sonstige Störungen der intestinalen Kohlenhydratabsorption",
+        "inclusion": "Saccharasemangel",
+        "exclusion": "LaktoseintoleranzE73.-"
+      },
+      "children": []
+    },
+    {
+      "code": "E74.4",
+      "kind": "category",
+      "label": "Störungen des Pyruvatstoffwechsels und der Glukoneogenese",
+      "rubrics": {
+        "preferred": "Störungen des Pyruvatstoffwechsels und der Glukoneogenese",
+        "inclusion": "Mangel an:\n\t\t\t\tPyruvatdehydrogenase",
+        "exclusion": "Bei AnämieD55.-"
+      },
+      "children": []
+    },
+    {
+      "code": "E74.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Störungen des Kohlenhydratstoffwechsels",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Störungen des Kohlenhydratstoffwechsels",
+        "inclusion": "Renale Glukosurie"
+      },
+      "children": []
+    },
+    {
+      "code": "E74.9",
+      "kind": "category",
+      "label": "Störung des Kohlenhydratstoffwechsels, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Störung des Kohlenhydratstoffwechsels, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

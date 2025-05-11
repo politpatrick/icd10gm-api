@@ -1,0 +1,10 @@
+{
+  "code": "E64.3",
+  "kind": "category",
+  "label": "Folgen der Rachitis",
+  "rubrics": {
+    "preferred": "Folgen der Rachitis",
+    "coding-hint": "Soll das Vorhandensein einer Wirbelsäulendeformität angegeben werden, ist eine zusätzliche Schlüsselnummer (M40.-, M41.5) zu benutzen."
+  },
+  "children": []
+}

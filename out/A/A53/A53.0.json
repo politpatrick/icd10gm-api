@@ -1,0 +1,10 @@
+{
+  "code": "A53.0",
+  "kind": "category",
+  "label": "Latente Syphilis, nicht als früh oder spät bezeichnet",
+  "rubrics": {
+    "preferred": "Latente Syphilis, nicht als früh oder spät bezeichnet",
+    "inclusion": "Positive Serumreaktion auf Syphilis"
+  },
+  "children": []
+}

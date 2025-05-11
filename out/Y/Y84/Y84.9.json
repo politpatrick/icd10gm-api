@@ -1,0 +1,11 @@
+{
+  "code": "Y84.9",
+  "kind": "category",
+  "label": "Zwischenfälle durch medizinische Maßnahmen, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Zwischenfälle durch medizinische Maßnahmen, nicht näher bezeichnet",
+    "inclusion": "Chirurgische und sonstige medizinische Maßnahmen als Ursache einer abnormen Reaktion eines Patienten oder einer späteren Komplikation, ohne Angabe eines Zwischenfalls zum Zeitpunkt der Durchführung der Maßnahme",
+    "exclusion": "Versagen oder Fehlfunktion medizintechnischer Geräte und Produkte (während eines Eingriffes) (nach Implantation) (unter der Anwendung)Y82.8"
+  },
+  "children": []
+}

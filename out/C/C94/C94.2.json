@@ -1,0 +1,10 @@
+{
+  "code": "C94.2",
+  "kind": "category",
+  "label": "Akute Megakaryoblastenleukämie",
+  "rubrics": {
+    "preferred": "Akute Megakaryoblastenleukämie",
+    "inclusion": "Akute myeloische Leukämie, M7"
+  },
+  "children": []
+}

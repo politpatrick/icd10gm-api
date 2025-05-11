@@ -1,0 +1,10 @@
+{
+  "code": "B65.1",
+  "kind": "category",
+  "label": "Schistosomiasis durch Schistosoma mansoni [Darmbilharziose]",
+  "rubrics": {
+    "preferred": "Schistosomiasis durch Schistosoma mansoni [Darmbilharziose]",
+    "inclusion": "Schistosomiasis intestinalis"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "S36.15",
+  "kind": "category",
+  "label": "Schwere Rissverletzung der Leber",
+  "rubrics": {
+    "preferred": "Schwere Rissverletzung der Leber",
+    "text": "Rissverletzung mit bedeutender Zerreißung des Leberparenchyms (mindestens 10 cm lang und mindestens 3 cm tief)",
+    "inclusion": "Multiple mittelschwere Rissverletzungen, mit oder ohne Hämatom"
+  },
+  "children": []
+}

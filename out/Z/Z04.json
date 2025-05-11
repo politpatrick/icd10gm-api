@@ -1,0 +1,70 @@
+{
+  "code": "Z04",
+  "kind": "category",
+  "label": "Untersuchung und Beobachtung aus sonstigen Gründen",
+  "rubrics": {
+    "preferred": "Untersuchung und Beobachtung aus sonstigen Gründen",
+    "inclusion": "Untersuchung aus rechtsmedizinischen Gründen"
+  },
+  "children": [
+    {
+      "code": "Z04.1",
+      "kind": "category",
+      "label": "Untersuchung und Beobachtung nach Transportmittelunfall",
+      "rubrics": {
+        "preferred": "Untersuchung und Beobachtung nach Transportmittelunfall",
+        "exclusion": "Nach ArbeitsunfallZ04.2"
+      },
+      "children": []
+    },
+    {
+      "code": "Z04.2",
+      "kind": "category",
+      "label": "Untersuchung und Beobachtung nach Arbeitsunfall",
+      "rubrics": {
+        "preferred": "Untersuchung und Beobachtung nach Arbeitsunfall"
+      },
+      "children": []
+    },
+    {
+      "code": "Z04.3",
+      "kind": "category",
+      "label": "Untersuchung und Beobachtung nach anderem Unfall",
+      "rubrics": {
+        "preferred": "Untersuchung und Beobachtung nach anderem Unfall"
+      },
+      "children": []
+    },
+    {
+      "code": "Z04.5",
+      "kind": "category",
+      "label": "Untersuchung und Beobachtung nach durch eine Person zugefügter Verletzung",
+      "rubrics": {
+        "preferred": "Untersuchung und Beobachtung nach durch eine Person zugefügter Verletzung",
+        "inclusion": "Untersuchung von Opfer oder Beschuldigtem nach sonstiger durch eine Person zugefügter Verletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "Z04.8",
+      "kind": "category",
+      "label": "Untersuchung und Beobachtung aus sonstigen näher bezeichneten Gründen",
+      "rubrics": {
+        "preferred": "Untersuchung und Beobachtung aus sonstigen näher bezeichneten Gründen",
+        "inclusion": "Anforderung eines Expertengutachtens",
+        "exclusion": "Vorhandensein von:\n\t\t\t\tDrogen im BlutR78.-"
+      },
+      "children": []
+    },
+    {
+      "code": "Z04.9",
+      "kind": "category",
+      "label": "Untersuchung und Beobachtung aus nicht näher bezeichnetem Grund",
+      "rubrics": {
+        "preferred": "Untersuchung und Beobachtung aus nicht näher bezeichnetem Grund",
+        "inclusion": "Beobachtung o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

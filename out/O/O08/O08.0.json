@@ -1,0 +1,12 @@
+{
+  "code": "O08.0",
+  "kind": "category",
+  "label": "Infektion des Genitaltraktes und des Beckens nach Abort, Extrauteringravidität und Molenschwangerschaft",
+  "rubrics": {
+    "preferred": "Infektion des Genitaltraktes und des Beckens nach Abort, Extrauteringravidität und Molenschwangerschaft",
+    "inclusion": "Sepsis\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind",
+    "coding-hint": "Soll das Vorliegen eines septischen Schocks angegeben werden, ist eine zusätzliche Schlüsselnummer (R57.2) zu benutzen.",
+    "exclusion": "Septische oder septikopyämische Embolie O08.2"
+  },
+  "children": []
+}

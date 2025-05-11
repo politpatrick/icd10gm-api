@@ -1,0 +1,10 @@
+{
+  "code": "O34.4",
+  "kind": "category",
+  "label": "Betreuung der Mutter bei sonstigen Anomalien der Cervix uteri",
+  "rubrics": {
+    "preferred": "Betreuung der Mutter bei sonstigen Anomalien der Cervix uteri",
+    "inclusion": "Betreuung der Mutter bei:\n\t\t\t\tvorangegangenem chirurgischem Eingriff an der Cervix uteri"
+  },
+  "children": []
+}

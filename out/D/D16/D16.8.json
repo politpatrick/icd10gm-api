@@ -1,0 +1,11 @@
+{
+  "code": "D16.8",
+  "kind": "category",
+  "label": "Knöchernes Becken",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung des Knochens und des Gelenkknorpels: Knöchernes Becken",
+    "preferred": "Knöchernes Becken",
+    "inclusion": "Steißbein"
+  },
+  "children": []
+}

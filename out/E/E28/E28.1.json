@@ -1,0 +1,12 @@
+{
+  "code": "E28.1",
+  "kind": "category",
+  "label": "Androgenüberschuss",
+  "rubrics": {
+    "preferredLong": "Ovarielle Dysfunktion: Androgenüberschuss",
+    "preferred": "Androgenüberschuss",
+    "inclusion": "Hypersekretion ovarieller Androgene",
+    "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

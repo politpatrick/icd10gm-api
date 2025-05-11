@@ -1,0 +1,11 @@
+{
+  "code": "D29.1",
+  "kind": "category",
+  "label": "Prostata",
+  "rubrics": {
+    "preferred": "Prostata",
+    "preferredLong": "Gutartige Neubildung: Prostata",
+    "exclusion": "Prostata:\n\t\t\t\tVergrößerung N40"
+  },
+  "children": []
+}

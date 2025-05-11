@@ -1,0 +1,11 @@
+{
+  "code": "H31.2",
+  "kind": "category",
+  "label": "Hereditäre Dystrophie der Aderhaut",
+  "rubrics": {
+    "preferred": "Hereditäre Dystrophie der Aderhaut",
+    "inclusion": "Dystrophie der Aderhaut (zentral areolär) (generalisiert) (peripapillär)",
+    "exclusion": "OrnithinämieE72.4"
+  },
+  "children": []
+}

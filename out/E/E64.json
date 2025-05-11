@@ -1,0 +1,66 @@
+{
+  "code": "E64",
+  "kind": "category",
+  "label": "Folgen von Mangelernährung oder sonstigen alimentären Mangelzuständen",
+  "rubrics": {
+    "preferred": "Folgen von Mangelernährung oder sonstigen alimentären Mangelzuständen"
+  },
+  "children": [
+    {
+      "code": "E64.0",
+      "kind": "category",
+      "label": "Folgen der Energie- und Eiweißmangelernährung",
+      "rubrics": {
+        "preferred": "Folgen der Energie- und Eiweißmangelernährung",
+        "exclusion": "Entwicklungsverzögerung durch Energie- und EiweißmangelernährungE45"
+      },
+      "children": []
+    },
+    {
+      "code": "E64.1",
+      "kind": "category",
+      "label": "Folgen des Vitamin-A-Mangels",
+      "rubrics": {
+        "preferred": "Folgen des Vitamin-A-Mangels"
+      },
+      "children": []
+    },
+    {
+      "code": "E64.2",
+      "kind": "category",
+      "label": "Folgen des Vitamin-C-Mangels",
+      "rubrics": {
+        "preferred": "Folgen des Vitamin-C-Mangels"
+      },
+      "children": []
+    },
+    {
+      "code": "E64.3",
+      "kind": "category",
+      "label": "Folgen der Rachitis",
+      "rubrics": {
+        "preferred": "Folgen der Rachitis",
+        "coding-hint": "Soll das Vorhandensein einer Wirbelsäulendeformität angegeben werden, ist eine zusätzliche Schlüsselnummer (M40.-, M41.5) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "E64.8",
+      "kind": "category",
+      "label": "Folgen sonstiger alimentärer Mangelzustände",
+      "rubrics": {
+        "preferred": "Folgen sonstiger alimentärer Mangelzustände"
+      },
+      "children": []
+    },
+    {
+      "code": "E64.9",
+      "kind": "category",
+      "label": "Folgen eines nicht näher bezeichneten alimentären Mangelzustandes",
+      "rubrics": {
+        "preferred": "Folgen eines nicht näher bezeichneten alimentären Mangelzustandes"
+      },
+      "children": []
+    }
+  ]
+}

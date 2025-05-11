@@ -1,0 +1,11 @@
+{
+  "code": "S83.54",
+  "kind": "category",
+  "label": "Riss des hinteren Kreuzbandes",
+  "rubrics": {
+    "preferredLong": "Verstauchung und Zerrung des Kniegelenkes: Riss des hinteren Kreuzbandes",
+    "preferred": "Riss des hinteren Kreuzbandes",
+    "inclusion": "Partieller oder kompletter Riss"
+  },
+  "children": []
+}

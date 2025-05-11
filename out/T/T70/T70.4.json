@@ -1,0 +1,10 @@
+{
+  "code": "T70.4",
+  "kind": "category",
+  "label": "Schäden durch Hochdruckflüssigkeiten",
+  "rubrics": {
+    "preferred": "Schäden durch Hochdruckflüssigkeiten",
+    "inclusion": "Hochdruck-Spritzverletzung (industriell)"
+  },
+  "children": []
+}

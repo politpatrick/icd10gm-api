@@ -1,0 +1,11 @@
+{
+  "code": "K11.8",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der Speicheldrüsen",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der Speicheldrüsen",
+    "inclusion": "Striktur\n\t\t\t\tSpeicheldrüsenausführungsgang",
+    "exclusion": "Sicca-Syndrom [Sjögren-Syndrom]M35.0"
+  },
+  "children": []
+}

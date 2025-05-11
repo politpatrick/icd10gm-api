@@ -1,0 +1,11 @@
+{
+  "code": "S01.38",
+  "kind": "category",
+  "label": "Innenohr",
+  "rubrics": {
+    "preferredLong": "Offene Wunde: Innenohr",
+    "preferred": "Innenohr",
+    "inclusion": "Kochlea"
+  },
+  "children": []
+}

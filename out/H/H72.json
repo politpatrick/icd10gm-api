@@ -1,0 +1,59 @@
+{
+  "code": "H72",
+  "kind": "category",
+  "label": "Trommelfellperforation",
+  "rubrics": {
+    "preferred": "Trommelfellperforation",
+    "inclusion": "Trommelfellperforation:\n\t\t\t\tpersistierend-posttraumatisch",
+    "exclusion": "Traumatische TrommelfellrupturS09.2"
+  },
+  "children": [
+    {
+      "code": "H72.0",
+      "kind": "category",
+      "label": "Zentrale Perforation des Trommelfells",
+      "rubrics": {
+        "preferred": "Zentrale Perforation des Trommelfells"
+      },
+      "children": []
+    },
+    {
+      "code": "H72.1",
+      "kind": "category",
+      "label": "Trommelfellperforation am Recessus epitympanicus",
+      "rubrics": {
+        "preferred": "Trommelfellperforation am Recessus epitympanicus",
+        "inclusion": "Perforation der Pars flaccida"
+      },
+      "children": []
+    },
+    {
+      "code": "H72.2",
+      "kind": "category",
+      "label": "Sonstige randständige Trommelfellperforationen",
+      "rubrics": {
+        "preferred": "Sonstige randständige Trommelfellperforationen"
+      },
+      "children": []
+    },
+    {
+      "code": "H72.8",
+      "kind": "category",
+      "label": "Sonstige Trommelfellperforationen",
+      "rubrics": {
+        "preferred": "Sonstige Trommelfellperforationen",
+        "inclusion": "Perforation:\n\t\t\t\ttotal\n\t\t\t\tTrommelfell"
+      },
+      "children": []
+    },
+    {
+      "code": "H72.9",
+      "kind": "category",
+      "label": "Trommelfellperforation, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Trommelfellperforation, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "C32.8",
+  "kind": "category",
+  "label": "Larynx, mehrere Teilbereiche überlappend",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Larynx, mehrere Teilbereiche überlappend",
+    "preferred": "Larynx, mehrere Teilbereiche überlappend",
+    "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]"
+  },
+  "children": []
+}

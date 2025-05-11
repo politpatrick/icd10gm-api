@@ -1,0 +1,10 @@
+{
+  "code": "C90.1",
+  "kind": "category",
+  "label": "Plasmazellenleukämie",
+  "rubrics": {
+    "preferred": "Plasmazellenleukämie",
+    "inclusion": "Plasmazytische Leukämie"
+  },
+  "children": []
+}

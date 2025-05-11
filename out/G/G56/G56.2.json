@@ -1,0 +1,10 @@
+{
+  "code": "G56.2",
+  "kind": "category",
+  "label": "Läsion des N. ulnaris",
+  "rubrics": {
+    "preferred": "Läsion des N. ulnaris",
+    "inclusion": "Spätlähmung des N. ulnaris"
+  },
+  "children": []
+}

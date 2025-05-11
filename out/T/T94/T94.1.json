@@ -1,0 +1,10 @@
+{
+  "code": "T94.1",
+  "kind": "category",
+  "label": "Folgen von Verletzungen nicht näher bezeichneter Körperregionen",
+  "rubrics": {
+    "preferred": "Folgen von Verletzungen nicht näher bezeichneter Körperregionen",
+    "inclusion": "Folgen einer Verletzung, die unter T14.- klassifizierbar ist"
+  },
+  "children": []
+}

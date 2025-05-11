@@ -1,0 +1,10 @@
+{
+  "code": "S82.6",
+  "kind": "category",
+  "label": "Fraktur des Außenknöchels",
+  "rubrics": {
+    "preferred": "Fraktur des Außenknöchels",
+    "inclusion": "Fibula, mit Beteiligung des:\n\t\t\t\toberen Sprunggelenkes"
+  },
+  "children": []
+}

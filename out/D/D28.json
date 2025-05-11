@@ -1,0 +1,62 @@
+{
+  "code": "D28",
+  "kind": "category",
+  "label": "Gutartige Neubildung sonstiger und nicht näher bezeichneter weiblicher Genitalorgane",
+  "rubrics": {
+    "preferred": "Gutartige Neubildung sonstiger und nicht näher bezeichneter weiblicher Genitalorgane",
+    "inclusion": "Haut der weiblichen Genitalorgane"
+  },
+  "children": [
+    {
+      "code": "D28.0",
+      "kind": "category",
+      "label": "Vulva",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Vulva",
+        "preferred": "Vulva"
+      },
+      "children": []
+    },
+    {
+      "code": "D28.1",
+      "kind": "category",
+      "label": "Vagina",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Vagina",
+        "preferred": "Vagina"
+      },
+      "children": []
+    },
+    {
+      "code": "D28.2",
+      "kind": "category",
+      "label": "Tubae uterinae und Ligamenta",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Tubae uterinae und Ligamenta",
+        "preferred": "Tubae uterinae und Ligamenta",
+        "inclusion": "Tuba uterina [Falloppio]"
+      },
+      "children": []
+    },
+    {
+      "code": "D28.7",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete weibliche Genitalorgane",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Sonstige näher bezeichnete weibliche Genitalorgane",
+        "preferred": "Sonstige näher bezeichnete weibliche Genitalorgane"
+      },
+      "children": []
+    },
+    {
+      "code": "D28.9",
+      "kind": "category",
+      "label": "Weibliches Genitalorgan, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Weibliches Genitalorgan, nicht näher bezeichnet",
+        "preferred": "Weibliches Genitalorgan, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

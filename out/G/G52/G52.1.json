@@ -1,0 +1,10 @@
+{
+  "code": "G52.1",
+  "kind": "category",
+  "label": "Krankheiten des N. glossopharyngeus [IX. Hirnnerv]",
+  "rubrics": {
+    "preferred": "Krankheiten des N. glossopharyngeus [IX. Hirnnerv]",
+    "inclusion": "Neuralgie des N. glossopharyngeus"
+  },
+  "children": []
+}

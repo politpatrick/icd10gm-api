@@ -1,0 +1,224 @@
+{
+  "code": "I26-I28",
+  "kind": "block",
+  "label": "Pulmonale Herzkrankheit und Krankheiten des Lungenkreislaufes",
+  "rubrics": {
+    "preferred": "Pulmonale Herzkrankheit und Krankheiten des Lungenkreislaufes"
+  },
+  "children": [
+    {
+      "code": "I26",
+      "kind": "category",
+      "label": "Lungenembolie",
+      "rubrics": {
+        "preferred": "Lungenembolie",
+        "inclusion": "Pulmonal (-Arterien) (-Venen):\n\t\t\t\tThrombose",
+        "exclusion": "Als Komplikation bei:\n\t\t\t\tSchwangerschaft, Geburt oder WochenbettO88.-"
+      },
+      "children": [
+        {
+          "code": "I26.0",
+          "kind": "category",
+          "label": "Lungenembolie mit Angabe eines akuten Cor pulmonale",
+          "rubrics": {
+            "preferred": "Lungenembolie mit Angabe eines akuten Cor pulmonale",
+            "inclusion": "Massive Lungenembolie"
+          },
+          "children": []
+        },
+        {
+          "code": "I26.9",
+          "kind": "category",
+          "label": "Lungenembolie ohne Angabe eines akuten Cor pulmonale",
+          "rubrics": {
+            "preferred": "Lungenembolie ohne Angabe eines akuten Cor pulmonale",
+            "inclusion": "Nichtmassive Lungenembolie"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I27",
+      "kind": "category",
+      "label": "Sonstige pulmonale Herzkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige pulmonale Herzkrankheiten"
+      },
+      "children": [
+        {
+          "code": "I27.0",
+          "kind": "category",
+          "label": "Primäre pulmonale Hypertonie",
+          "rubrics": {
+            "preferred": "Primäre pulmonale Hypertonie"
+          },
+          "children": [
+            {
+              "code": "I27.00",
+              "kind": "category",
+              "label": "Idiopathische und hereditäre pulmonale arterielle Hypertonie [IPAH und HPAH]",
+              "rubrics": {
+                "preferred": "Idiopathische und hereditäre pulmonale arterielle Hypertonie [IPAH und HPAH]"
+              },
+              "children": []
+            },
+            {
+              "code": "I27.01",
+              "kind": "category",
+              "label": "Pulmonale arterielle Hypertonie assoziiert mit angeborenem Herzfehler, Krankheit des Bindegewebes und portaler Hypertension [APAH]",
+              "rubrics": {
+                "preferred": "Pulmonale arterielle Hypertonie assoziiert mit angeborenem Herzfehler, Krankheit des Bindegewebes und portaler Hypertension [APAH]"
+              },
+              "children": []
+            },
+            {
+              "code": "I27.02",
+              "kind": "category",
+              "label": "Pulmonale arterielle Hypertonie induziert durch Arzneimittel, Droge, Toxin und Strahlung [DPAH]",
+              "rubrics": {
+                "preferred": "Pulmonale arterielle Hypertonie induziert durch Arzneimittel, Droge, Toxin und Strahlung [DPAH]"
+              },
+              "children": []
+            },
+            {
+              "code": "I27.08",
+              "kind": "category",
+              "label": "Sonstige primäre pulmonale Hypertonie",
+              "rubrics": {
+                "preferred": "Sonstige primäre pulmonale Hypertonie",
+                "inclusion": "Pulmonale venookklusive Krankheit [PVOD]"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "I27.1",
+          "kind": "category",
+          "label": "Kyphoskoliotische Herzkrankheit",
+          "rubrics": {
+            "preferred": "Kyphoskoliotische Herzkrankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "I27.2",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete sekundäre pulmonale Hypertonie",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete sekundäre pulmonale Hypertonie"
+          },
+          "children": [
+            {
+              "code": "I27.20",
+              "kind": "category",
+              "label": "Pulmonale Hypertonie bei chronischer Thromboembolie",
+              "rubrics": {
+                "preferred": "Pulmonale Hypertonie bei chronischer Thromboembolie"
+              },
+              "children": []
+            },
+            {
+              "code": "I27.21",
+              "kind": "category",
+              "label": "Pulmonale Hypertonie bei Linksherzerkrankung",
+              "rubrics": {
+                "preferred": "Pulmonale Hypertonie bei Linksherzerkrankung",
+                "coding-hint": "Soll die zugrunde liegende Linksherzerkrankung spezifisch angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "I27.22",
+              "kind": "category",
+              "label": "Pulmonale Hypertonie bei Lungenkrankheit und Hypoxie",
+              "rubrics": {
+                "preferred": "Pulmonale Hypertonie bei Lungenkrankheit und Hypoxie",
+                "coding-hint": "Soll die zugrunde liegende Lungenkrankheit oder Hypoxie spezifisch angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "I27.28",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete sekundäre pulmonale Hypertonie",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete sekundäre pulmonale Hypertonie",
+                "coding-hint": "Soll die Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "I27.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete pulmonale Herzkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete pulmonale Herzkrankheiten",
+            "exclusion": "Eisenmenger-DefektQ21.88"
+          },
+          "children": []
+        },
+        {
+          "code": "I27.9",
+          "kind": "category",
+          "label": "Pulmonale Herzkrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Pulmonale Herzkrankheit, nicht näher bezeichnet",
+            "inclusion": "Cor pulmonale (chronisch) o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I28",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Lungengefäße",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Lungengefäße"
+      },
+      "children": [
+        {
+          "code": "I28.0",
+          "kind": "category",
+          "label": "Arteriovenöse Fistel der Lungengefäße",
+          "rubrics": {
+            "preferred": "Arteriovenöse Fistel der Lungengefäße"
+          },
+          "children": []
+        },
+        {
+          "code": "I28.1",
+          "kind": "category",
+          "label": "Aneurysma der A. pulmonalis",
+          "rubrics": {
+            "preferred": "Aneurysma der A. pulmonalis"
+          },
+          "children": []
+        },
+        {
+          "code": "I28.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten der Lungengefäße",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten der Lungengefäße",
+            "inclusion": "Striktur\n\t\t\t\tLungengefäße"
+          },
+          "children": []
+        },
+        {
+          "code": "I28.9",
+          "kind": "category",
+          "label": "Krankheit der Lungengefäße, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der Lungengefäße, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

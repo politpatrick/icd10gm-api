@@ -1,0 +1,10 @@
+{
+  "code": "R06.6",
+  "kind": "category",
+  "label": "Singultus",
+  "rubrics": {
+    "preferred": "Singultus",
+    "exclusion": "Psychogener SingultusF45.33"
+  },
+  "children": []
+}

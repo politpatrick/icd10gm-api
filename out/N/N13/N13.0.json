@@ -1,0 +1,10 @@
+{
+  "code": "N13.0",
+  "kind": "category",
+  "label": "Hydronephrose bei ureteropelviner Obstruktion",
+  "rubrics": {
+    "preferred": "Hydronephrose bei ureteropelviner Obstruktion",
+    "exclusion": "Mit Infektion der NiereN13.60"
+  },
+  "children": []
+}

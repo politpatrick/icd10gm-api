@@ -1,0 +1,10 @@
+{
+  "code": "S91.3",
+  "kind": "category",
+  "label": "Offene Wunde sonstiger Teile des Fußes",
+  "rubrics": {
+    "preferred": "Offene Wunde sonstiger Teile des Fußes",
+    "inclusion": "Offene Wunde des Fußes o.n.A."
+  },
+  "children": []
+}

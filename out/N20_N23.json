@@ -1,0 +1,145 @@
+{
+  "code": "N20-N23",
+  "kind": "block",
+  "label": "Urolithiasis",
+  "rubrics": {
+    "preferred": "Urolithiasis"
+  },
+  "children": [
+    {
+      "code": "N20",
+      "kind": "category",
+      "label": "Nieren- und Ureterstein",
+      "rubrics": {
+        "preferred": "Nieren- und Ureterstein",
+        "exclusion": "Mit Hydronephrose N13.2-"
+      },
+      "children": [
+        {
+          "code": "N20.0",
+          "kind": "category",
+          "label": "Nierenstein",
+          "rubrics": {
+            "preferred": "Nierenstein",
+            "inclusion": "Parenchymstein"
+          },
+          "children": []
+        },
+        {
+          "code": "N20.1",
+          "kind": "category",
+          "label": "Ureterstein",
+          "rubrics": {
+            "preferred": "Ureterstein",
+            "inclusion": "Harnleiterstein"
+          },
+          "children": []
+        },
+        {
+          "code": "N20.2",
+          "kind": "category",
+          "label": "Nierenstein und Ureterstein gleichzeitig",
+          "rubrics": {
+            "preferred": "Nierenstein und Ureterstein gleichzeitig"
+          },
+          "children": []
+        },
+        {
+          "code": "N20.9",
+          "kind": "category",
+          "label": "Harnstein, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Harnstein, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N21",
+      "kind": "category",
+      "label": "Stein in den unteren Harnwegen",
+      "rubrics": {
+        "preferred": "Stein in den unteren Harnwegen",
+        "inclusion": "Mit Zystitis und Urethritis"
+      },
+      "children": [
+        {
+          "code": "N21.0",
+          "kind": "category",
+          "label": "Stein in der Harnblase",
+          "rubrics": {
+            "preferred": "Stein in der Harnblase",
+            "inclusion": "Stein in Blasendivertikel",
+            "exclusion": "NierenausgusssteinN20.0"
+          },
+          "children": []
+        },
+        {
+          "code": "N21.1",
+          "kind": "category",
+          "label": "Urethrastein",
+          "rubrics": {
+            "preferred": "Urethrastein"
+          },
+          "children": []
+        },
+        {
+          "code": "N21.8",
+          "kind": "category",
+          "label": "Stein in sonstigen unteren Harnwegen",
+          "rubrics": {
+            "preferred": "Stein in sonstigen unteren Harnwegen"
+          },
+          "children": []
+        },
+        {
+          "code": "N21.9",
+          "kind": "category",
+          "label": "Stein in den unteren Harnwegen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Stein in den unteren Harnwegen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N22",
+      "kind": "category",
+      "label": "Harnstein bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Harnstein bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "N22.0",
+          "kind": "category",
+          "label": "Harnstein bei Schistosomiasis [Bilharziose] B65.0",
+          "rubrics": {
+            "preferred": "Harnstein bei Schistosomiasis [Bilharziose] B65.0"
+          },
+          "children": []
+        },
+        {
+          "code": "N22.8",
+          "kind": "category",
+          "label": "Harnstein bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Harnstein bei sonstigen anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N23",
+      "kind": "category",
+      "label": "Nicht näher bezeichnete Nierenkolik",
+      "rubrics": {
+        "preferred": "Nicht näher bezeichnete Nierenkolik"
+      },
+      "children": []
+    }
+  ]
+}

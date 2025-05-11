@@ -1,0 +1,85 @@
+{
+  "code": "I23",
+  "kind": "category",
+  "label": "Bestimmte akute Komplikationen nach akutem Myokardinfarkt",
+  "rubrics": {
+    "preferred": "Bestimmte akute Komplikationen nach akutem Myokardinfarkt",
+    "coding-hint": "Benutze eine zusätzliche Schlüsselnummer (I21-I22), um die Art des Myokardinfarktes anzugeben.",
+    "exclusion": "Aufgeführte Zustände, nicht als akute Komplikationen nach akutem Myokardinfarkt bezeichnetI31.-I51.-"
+  },
+  "children": [
+    {
+      "code": "I23.0",
+      "kind": "category",
+      "label": "Hämoperikard als akute Komplikation nach akutem Myokardinfarkt",
+      "rubrics": {
+        "preferred": "Hämoperikard als akute Komplikation nach akutem Myokardinfarkt"
+      },
+      "children": []
+    },
+    {
+      "code": "I23.1",
+      "kind": "category",
+      "label": "Vorhofseptumdefekt als akute Komplikation nach akutem Myokardinfarkt",
+      "rubrics": {
+        "preferred": "Vorhofseptumdefekt als akute Komplikation nach akutem Myokardinfarkt"
+      },
+      "children": []
+    },
+    {
+      "code": "I23.2",
+      "kind": "category",
+      "label": "Ventrikelseptumdefekt als akute Komplikation nach akutem Myokardinfarkt",
+      "rubrics": {
+        "preferred": "Ventrikelseptumdefekt als akute Komplikation nach akutem Myokardinfarkt"
+      },
+      "children": []
+    },
+    {
+      "code": "I23.3",
+      "kind": "category",
+      "label": "Ruptur der Herzwand ohne Hämoperikard als akute Komplikation nach akutem Myokardinfarkt",
+      "rubrics": {
+        "preferred": "Ruptur der Herzwand ohne Hämoperikard als akute Komplikation nach akutem Myokardinfarkt",
+        "exclusion": "Mit HämoperikardI23.0"
+      },
+      "children": []
+    },
+    {
+      "code": "I23.4",
+      "kind": "category",
+      "label": "Ruptur der Chordae tendineae als akute Komplikation nach akutem Myokardinfarkt",
+      "rubrics": {
+        "preferred": "Ruptur der Chordae tendineae als akute Komplikation nach akutem Myokardinfarkt"
+      },
+      "children": []
+    },
+    {
+      "code": "I23.5",
+      "kind": "category",
+      "label": "Papillarmuskelruptur als akute Komplikation nach akutem Myokardinfarkt",
+      "rubrics": {
+        "preferred": "Papillarmuskelruptur als akute Komplikation nach akutem Myokardinfarkt"
+      },
+      "children": []
+    },
+    {
+      "code": "I23.6",
+      "kind": "category",
+      "label": "Thrombose des Vorhofes, des Herzohres oder der Kammer als akute Komplikation nach akutem Myokardinfarkt",
+      "rubrics": {
+        "preferred": "Thrombose des Vorhofes, des Herzohres oder der Kammer als akute Komplikation nach akutem Myokardinfarkt"
+      },
+      "children": []
+    },
+    {
+      "code": "I23.8",
+      "kind": "category",
+      "label": "Sonstige akute Komplikationen nach akutem Myokardinfarkt",
+      "rubrics": {
+        "preferred": "Sonstige akute Komplikationen nach akutem Myokardinfarkt"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "T84.07",
+  "kind": "category",
+  "label": "Bandscheibe",
+  "rubrics": {
+    "preferredLong": "Mechanische Komplikation durch eine Gelenkendoprothese: Bandscheibe",
+    "preferred": "Bandscheibe"
+  },
+  "children": []
+}

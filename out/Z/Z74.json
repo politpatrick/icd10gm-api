@@ -1,0 +1,69 @@
+{
+  "code": "Z74",
+  "kind": "category",
+  "label": "Probleme mit Bezug auf Pflegebedürftigkeit",
+  "rubrics": {
+    "preferred": "Probleme mit Bezug auf Pflegebedürftigkeit",
+    "exclusion": "Abhängigkeit von unterstützenden Apparaten, medizinischen Geräten oder Hilfsmitteln, anderenorts nicht klassifiziertZ99.-"
+  },
+  "children": [
+    {
+      "code": "Z74.0",
+      "kind": "category",
+      "label": "Hilfsbedürftigkeit wegen eingeschränkter Mobilität",
+      "rubrics": {
+        "preferredLong": "Probleme mit Bezug auf: Hilfsbedürftigkeit wegen eingeschränkter Mobilität",
+        "preferred": "Hilfsbedürftigkeit wegen eingeschränkter Mobilität"
+      },
+      "children": []
+    },
+    {
+      "code": "Z74.1",
+      "kind": "category",
+      "label": "Notwendigkeit der Hilfestellung bei der Körperpflege",
+      "rubrics": {
+        "preferredLong": "Probleme mit Bezug auf: Notwendigkeit der Hilfestellung bei der Körperpflege",
+        "preferred": "Notwendigkeit der Hilfestellung bei der Körperpflege"
+      },
+      "children": []
+    },
+    {
+      "code": "Z74.2",
+      "kind": "category",
+      "label": "Notwendigkeit der Hilfeleistung im Haushalt, wenn kein anderer Haushaltsangehöriger die Betreuung übernehmen kann",
+      "rubrics": {
+        "preferredLong": "Probleme mit Bezug auf: Notwendigkeit der Hilfeleistung im Haushalt, wenn kein anderer Haushaltsangehöriger die Betreuung übernehmen kann",
+        "preferred": "Notwendigkeit der Hilfeleistung im Haushalt, wenn kein anderer Haushaltsangehöriger die Betreuung übernehmen kann"
+      },
+      "children": []
+    },
+    {
+      "code": "Z74.3",
+      "kind": "category",
+      "label": "Notwendigkeit der ständigen Beaufsichtigung",
+      "rubrics": {
+        "preferredLong": "Probleme mit Bezug auf: Notwendigkeit der ständigen Beaufsichtigung",
+        "preferred": "Notwendigkeit der ständigen Beaufsichtigung"
+      },
+      "children": []
+    },
+    {
+      "code": "Z74.8",
+      "kind": "category",
+      "label": "Sonstige Probleme mit Bezug auf Pflegebedürftigkeit",
+      "rubrics": {
+        "preferred": "Sonstige Probleme mit Bezug auf Pflegebedürftigkeit"
+      },
+      "children": []
+    },
+    {
+      "code": "Z74.9",
+      "kind": "category",
+      "label": "Problem mit Bezug auf Pflegebedürftigkeit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Problem mit Bezug auf Pflegebedürftigkeit, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

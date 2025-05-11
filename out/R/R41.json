@@ -1,0 +1,60 @@
+{
+  "code": "R41",
+  "kind": "category",
+  "label": "Sonstige Symptome, die das Erkennungsvermögen und das Bewusstsein betreffen",
+  "rubrics": {
+    "preferred": "Sonstige Symptome, die das Erkennungsvermögen und das Bewusstsein betreffen",
+    "exclusion": "Dissoziative Störungen [Konversionsstörungen]F44.-"
+  },
+  "children": [
+    {
+      "code": "R41.0",
+      "kind": "category",
+      "label": "Orientierungsstörung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Orientierungsstörung, nicht näher bezeichnet",
+        "inclusion": "Verwirrtheit o.n.A.",
+        "exclusion": "Psychogene OrientierungsstörungF44.88"
+      },
+      "children": []
+    },
+    {
+      "code": "R41.1",
+      "kind": "category",
+      "label": "Anterograde Amnesie",
+      "rubrics": {
+        "preferred": "Anterograde Amnesie"
+      },
+      "children": []
+    },
+    {
+      "code": "R41.2",
+      "kind": "category",
+      "label": "Retrograde Amnesie",
+      "rubrics": {
+        "preferred": "Retrograde Amnesie"
+      },
+      "children": []
+    },
+    {
+      "code": "R41.3",
+      "kind": "category",
+      "label": "Sonstige Amnesie",
+      "rubrics": {
+        "preferred": "Sonstige Amnesie",
+        "inclusion": "Amnesie o.n.A.",
+        "exclusion": "Transiente globale AmnesieG45.4-"
+      },
+      "children": []
+    },
+    {
+      "code": "R41.8",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Symptome, die das Erkennungsvermögen und das Bewusstsein betreffen",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Symptome, die das Erkennungsvermögen und das Bewusstsein betreffen"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "Z81",
+  "kind": "category",
+  "label": "Psychische Krankheiten oder Verhaltensstörungen in der Familienanamnese",
+  "rubrics": {
+    "preferred": "Psychische Krankheiten oder Verhaltensstörungen in der Familienanamnese",
+    "inclusion": "Zustände, klassifizierbar unter F00-F99"
+  },
+  "children": []
+}

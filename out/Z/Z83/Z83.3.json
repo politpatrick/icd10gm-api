@@ -1,0 +1,10 @@
+{
+  "code": "Z83.3",
+  "kind": "category",
+  "label": "Diabetes mellitus in der Familienanamnese",
+  "rubrics": {
+    "preferred": "Diabetes mellitus in der Familienanamnese",
+    "inclusion": "Zustände, klassifizierbar unter E10-E14, O24"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "D13.7",
+  "kind": "category",
+  "label": "Endokriner Drüsenanteil des Pankreas",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Endokriner Drüsenanteil des Pankreas",
+    "preferred": "Endokriner Drüsenanteil des Pankreas",
+    "inclusion": "Insulinom"
+  },
+  "children": []
+}

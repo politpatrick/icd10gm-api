@@ -1,0 +1,10 @@
+{
+  "code": "T86.82",
+  "kind": "category",
+  "label": "Pankreastransplantat",
+  "rubrics": {
+    "preferredLong": "Versagen und Abstoßung: Pankreastransplantat",
+    "preferred": "Pankreastransplantat"
+  },
+  "children": []
+}

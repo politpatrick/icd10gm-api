@@ -1,0 +1,10 @@
+{
+  "code": "R09.1",
+  "kind": "category",
+  "label": "Pleuritis",
+  "rubrics": {
+    "preferred": "Pleuritis",
+    "exclusion": "Pleuritis mit ErgussJ90"
+  },
+  "children": []
+}

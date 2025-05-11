@@ -1,0 +1,47 @@
+{
+  "code": "J93",
+  "kind": "category",
+  "label": "Pneumothorax",
+  "rubrics": {
+    "preferred": "Pneumothorax",
+    "exclusion": "PyopneumothoraxJ86.-"
+  },
+  "children": [
+    {
+      "code": "J93.0",
+      "kind": "category",
+      "label": "Spontaner Spannungspneumothorax",
+      "rubrics": {
+        "preferred": "Spontaner Spannungspneumothorax"
+      },
+      "children": []
+    },
+    {
+      "code": "J93.1",
+      "kind": "category",
+      "label": "Sonstiger Spontanpneumothorax",
+      "rubrics": {
+        "preferred": "Sonstiger Spontanpneumothorax"
+      },
+      "children": []
+    },
+    {
+      "code": "J93.8",
+      "kind": "category",
+      "label": "Sonstiger Pneumothorax",
+      "rubrics": {
+        "preferred": "Sonstiger Pneumothorax"
+      },
+      "children": []
+    },
+    {
+      "code": "J93.9",
+      "kind": "category",
+      "label": "Pneumothorax, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Pneumothorax, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

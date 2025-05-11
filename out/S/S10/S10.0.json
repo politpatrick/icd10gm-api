@@ -1,0 +1,10 @@
+{
+  "code": "S10.0",
+  "kind": "category",
+  "label": "Prellung des Rachens",
+  "rubrics": {
+    "preferred": "Prellung des Rachens",
+    "inclusion": "Trachea"
+  },
+  "children": []
+}

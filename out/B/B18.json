@@ -1,0 +1,125 @@
+{
+  "code": "B18",
+  "kind": "category",
+  "label": "Chronische Virushepatitis",
+  "rubrics": {
+    "preferred": "Chronische Virushepatitis"
+  },
+  "children": [
+    {
+      "code": "B18.0",
+      "kind": "category",
+      "label": "Chronische Virushepatitis B mit Delta-Virus",
+      "rubrics": {
+        "preferred": "Chronische Virushepatitis B mit Delta-Virus"
+      },
+      "children": []
+    },
+    {
+      "code": "B18.1",
+      "kind": "category",
+      "label": "Chronische Virushepatitis B ohne Delta-Virus",
+      "rubrics": {
+        "preferred": "Chronische Virushepatitis B ohne Delta-Virus"
+      },
+      "children": [
+        {
+          "code": "B18.11",
+          "kind": "category",
+          "label": "Chronische Virushepatitis B ohne Delta-Virus, Phase 1",
+          "rubrics": {
+            "preferred": "Chronische Virushepatitis B ohne Delta-Virus, Phase 1",
+            "inclusion": "Chronische Virushepatitis B ohne Delta-Virus:\n\t\t\t\tImmuntolerante Phase"
+          },
+          "children": []
+        },
+        {
+          "code": "B18.12",
+          "kind": "category",
+          "label": "Chronische Virushepatitis B ohne Delta-Virus, Phase 2",
+          "rubrics": {
+            "preferred": "Chronische Virushepatitis B ohne Delta-Virus, Phase 2",
+            "inclusion": "Chronische Virushepatitis B ohne Delta-Virus, HBeAg positiv, mit Entzündungsaktivität, hochreplikativ"
+          },
+          "children": []
+        },
+        {
+          "code": "B18.13",
+          "kind": "category",
+          "label": "Chronische Virushepatitis B ohne Delta-Virus, Phase 3",
+          "rubrics": {
+            "preferred": "Chronische Virushepatitis B ohne Delta-Virus, Phase 3",
+            "inclusion": "Keimträger von Hepatitis-B-Oberflächen-Antigen [HBsAg]"
+          },
+          "children": []
+        },
+        {
+          "code": "B18.14",
+          "kind": "category",
+          "label": "Chronische Virushepatitis B ohne Delta-Virus, Phase 4",
+          "rubrics": {
+            "preferred": "Chronische Virushepatitis B ohne Delta-Virus, Phase 4",
+            "inclusion": "Reaktivierte Hepatitis B"
+          },
+          "children": []
+        },
+        {
+          "code": "B18.19",
+          "kind": "category",
+          "label": "Chronische Virushepatitis B ohne Delta-Virus, Phase nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Chronische Virushepatitis B ohne Delta-Virus, Phase nicht näher bezeichnet",
+            "inclusion": "Hepatitis B (viral) o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B18.2",
+      "kind": "category",
+      "label": "Chronische Virushepatitis C",
+      "rubrics": {
+        "preferred": "Chronische Virushepatitis C"
+      },
+      "children": []
+    },
+    {
+      "code": "B18.8",
+      "kind": "category",
+      "label": "Sonstige chronische Virushepatitis",
+      "rubrics": {
+        "preferred": "Sonstige chronische Virushepatitis"
+      },
+      "children": [
+        {
+          "code": "B18.80",
+          "kind": "category",
+          "label": "Chronische Virushepatitis E",
+          "rubrics": {
+            "preferred": "Chronische Virushepatitis E"
+          },
+          "children": []
+        },
+        {
+          "code": "B18.88",
+          "kind": "category",
+          "label": "Sonstige chronische Virushepatitis",
+          "rubrics": {
+            "preferred": "Sonstige chronische Virushepatitis"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "B18.9",
+      "kind": "category",
+      "label": "Chronische Virushepatitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Chronische Virushepatitis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

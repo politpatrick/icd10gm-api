@@ -1,0 +1,10 @@
+{
+  "code": "I49.1",
+  "kind": "category",
+  "label": "Vorhofextrasystolie",
+  "rubrics": {
+    "preferred": "Vorhofextrasystolie",
+    "inclusion": "Vorhofextrasystolen"
+  },
+  "children": []
+}

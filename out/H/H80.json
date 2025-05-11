@@ -1,0 +1,57 @@
+{
+  "code": "H80",
+  "kind": "category",
+  "label": "Otosklerose",
+  "rubrics": {
+    "preferred": "Otosklerose",
+    "inclusion": "Otospongiose"
+  },
+  "children": [
+    {
+      "code": "H80.0",
+      "kind": "category",
+      "label": "Otosklerose mit Beteiligung der Fenestra vestibuli, nichtobliterierend",
+      "rubrics": {
+        "preferred": "Otosklerose mit Beteiligung der Fenestra vestibuli, nichtobliterierend"
+      },
+      "children": []
+    },
+    {
+      "code": "H80.1",
+      "kind": "category",
+      "label": "Otosklerose mit Beteiligung der Fenestra vestibuli, obliterierend",
+      "rubrics": {
+        "preferred": "Otosklerose mit Beteiligung der Fenestra vestibuli, obliterierend"
+      },
+      "children": []
+    },
+    {
+      "code": "H80.2",
+      "kind": "category",
+      "label": "Otosclerosis cochleae",
+      "rubrics": {
+        "preferred": "Otosclerosis cochleae",
+        "inclusion": "Otosklerose mit Beteiligung:\n\t\t\t\tdes knöchernen Labyrinths"
+      },
+      "children": []
+    },
+    {
+      "code": "H80.8",
+      "kind": "category",
+      "label": "Sonstige Otosklerose",
+      "rubrics": {
+        "preferred": "Sonstige Otosklerose"
+      },
+      "children": []
+    },
+    {
+      "code": "H80.9",
+      "kind": "category",
+      "label": "Otosklerose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Otosklerose, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

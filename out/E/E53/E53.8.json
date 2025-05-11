@@ -1,0 +1,10 @@
+{
+  "code": "E53.8",
+  "kind": "category",
+  "label": "Mangel an sonstigen näher bezeichneten Vitaminen des Vitamin-B-Komplexes",
+  "rubrics": {
+    "preferred": "Mangel an sonstigen näher bezeichneten Vitaminen des Vitamin-B-Komplexes",
+    "inclusion": "Mangel:\n\t\t\t\tZyanocobalamin"
+  },
+  "children": []
+}

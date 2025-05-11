@@ -1,0 +1,11 @@
+{
+  "code": "P54.5",
+  "kind": "category",
+  "label": "Hautblutung beim Neugeborenen",
+  "rubrics": {
+    "preferred": "Hautblutung beim Neugeborenen",
+    "inclusion": "Quetschwunde\n\t\t\t\tbeim Fetus oder Neugeborenen",
+    "exclusion": "Quetschwunde der behaarten Kopfhaut durch GeburtsverletzungP12.3"
+  },
+  "children": []
+}

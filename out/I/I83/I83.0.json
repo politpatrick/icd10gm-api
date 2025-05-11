@@ -1,0 +1,10 @@
+{
+  "code": "I83.0",
+  "kind": "category",
+  "label": "Varizen der unteren Extremitäten mit Ulzeration",
+  "rubrics": {
+    "preferred": "Varizen der unteren Extremitäten mit Ulzeration",
+    "inclusion": "Ulcus varicosum (untere Extremität, jeder Abschnitt)"
+  },
+  "children": []
+}

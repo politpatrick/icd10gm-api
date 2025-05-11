@@ -1,0 +1,69 @@
+{
+  "code": "P59",
+  "kind": "category",
+  "label": "Neugeborenenikterus durch sonstige und nicht näher bezeichnete Ursachen",
+  "rubrics": {
+    "preferred": "Neugeborenenikterus durch sonstige und nicht näher bezeichnete Ursachen",
+    "exclusion": "KernikterusP57.-"
+  },
+  "children": [
+    {
+      "code": "P59.0",
+      "kind": "category",
+      "label": "Neugeborenenikterus in Verbindung mit vorzeitiger Geburt",
+      "rubrics": {
+        "preferred": "Neugeborenenikterus in Verbindung mit vorzeitiger Geburt",
+        "inclusion": "Ikterus infolge verzögerter Konjugation in Verbindung mit vorzeitiger Geburt"
+      },
+      "children": []
+    },
+    {
+      "code": "P59.1",
+      "kind": "category",
+      "label": "Gallepfropf-Syndrom",
+      "rubrics": {
+        "preferred": "Gallepfropf-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "P59.2",
+      "kind": "category",
+      "label": "Neugeborenenikterus durch sonstige und nicht näher bezeichnete Leberzellschädigung",
+      "rubrics": {
+        "preferred": "Neugeborenenikterus durch sonstige und nicht näher bezeichnete Leberzellschädigung",
+        "inclusion": "Fetale oder neonatale Riesenzellhepatitis",
+        "exclusion": "Angeborene Virushepatitis P35.3"
+      },
+      "children": []
+    },
+    {
+      "code": "P59.3",
+      "kind": "category",
+      "label": "Neugeborenenikterus durch Muttermilch-Inhibitor",
+      "rubrics": {
+        "preferred": "Neugeborenenikterus durch Muttermilch-Inhibitor"
+      },
+      "children": []
+    },
+    {
+      "code": "P59.8",
+      "kind": "category",
+      "label": "Neugeborenenikterus durch sonstige näher bezeichnete Ursachen",
+      "rubrics": {
+        "preferred": "Neugeborenenikterus durch sonstige näher bezeichnete Ursachen"
+      },
+      "children": []
+    },
+    {
+      "code": "P59.9",
+      "kind": "category",
+      "label": "Neugeborenenikterus, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Neugeborenenikterus, nicht näher bezeichnet",
+        "inclusion": "Physiologischer Ikterus (verstärkt) (verlängert) o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

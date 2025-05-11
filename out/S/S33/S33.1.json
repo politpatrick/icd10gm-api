@@ -1,0 +1,71 @@
+{
+  "code": "S33.1",
+  "kind": "category",
+  "label": "Luxation eines Lendenwirbels",
+  "rubrics": {
+    "preferred": "Luxation eines Lendenwirbels"
+  },
+  "children": [
+    {
+      "code": "S33.10",
+      "kind": "category",
+      "label": "Höhe nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Luxation eines Lendenwirbels: Höhe nicht näher bezeichnet",
+        "preferred": "Höhe nicht näher bezeichnet",
+        "inclusion": "Luxation der Lendenwirbelsäule o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "S33.11",
+      "kind": "category",
+      "label": "L1/L2",
+      "rubrics": {
+        "preferredLong": "Luxation eines Lendenwirbels: L1/L2",
+        "preferred": "L1/L2"
+      },
+      "children": []
+    },
+    {
+      "code": "S33.12",
+      "kind": "category",
+      "label": "L2/L3",
+      "rubrics": {
+        "preferredLong": "Luxation eines Lendenwirbels: L2/L3",
+        "preferred": "L2/L3"
+      },
+      "children": []
+    },
+    {
+      "code": "S33.13",
+      "kind": "category",
+      "label": "L3/L4",
+      "rubrics": {
+        "preferredLong": "Luxation eines Lendenwirbels: L3/L4",
+        "preferred": "L3/L4"
+      },
+      "children": []
+    },
+    {
+      "code": "S33.14",
+      "kind": "category",
+      "label": "L4/L5",
+      "rubrics": {
+        "preferredLong": "Luxation eines Lendenwirbels: L4/L5",
+        "preferred": "L4/L5"
+      },
+      "children": []
+    },
+    {
+      "code": "S33.15",
+      "kind": "category",
+      "label": "L5/S1",
+      "rubrics": {
+        "preferredLong": "Luxation eines Lendenwirbels: L5/S1",
+        "preferred": "L5/S1"
+      },
+      "children": []
+    }
+  ]
+}

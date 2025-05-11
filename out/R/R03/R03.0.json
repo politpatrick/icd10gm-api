@@ -1,0 +1,10 @@
+{
+  "code": "R03.0",
+  "kind": "category",
+  "label": "Erhöhter Blutdruckwert ohne Diagnose eines Bluthochdrucks",
+  "rubrics": {
+    "preferred": "Erhöhter Blutdruckwert ohne Diagnose eines Bluthochdrucks",
+    "note": "Diese Subkategorie dient zur Angabe einer kurzzeitigen Blutdruckerhöhung bei einem Patienten ohne ausdrückliche Hochdruckdiagnose oder zur Angabe eines isolierten Zufallsbefundes."
+  },
+  "children": []
+}

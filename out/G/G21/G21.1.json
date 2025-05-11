@@ -1,0 +1,10 @@
+{
+  "code": "G21.1",
+  "kind": "category",
+  "label": "Sonstiges arzneimittelinduziertes Parkinson-Syndrom",
+  "rubrics": {
+    "preferred": "Sonstiges arzneimittelinduziertes Parkinson-Syndrom",
+    "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

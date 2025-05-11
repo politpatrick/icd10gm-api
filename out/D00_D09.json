@@ -1,0 +1,689 @@
+{
+  "code": "D00-D09",
+  "kind": "block",
+  "label": "In-situ-Neubildungen",
+  "rubrics": {
+    "preferred": "In-situ-Neubildungen",
+    "note": "Von vielen In-situ-Neubildungen wird angenommen, dass sie auf einer kontinuierlichen Skala der morphologischen Veränderung liegen, die von der Dysplasie bis hin zum invasiven Wachstum reicht. So gelten z.B. für zervikale intraepitheliale Neoplasie (CIN) drei Grade, von denen Grad III sowohl die hochgradige Dysplasie als auch das Carcinoma in situ umfasst. Diese Einteilung wird auch für andere Organe verwendet, z.B. für Vulva und Vagina. Dem nachstehenden Abschnitt sind Beschreibungen des Grades III der intraepithelialen Neoplasie mit oder ohne Angabe einer hochgradigen Dysplasie zugeordnet; die Grade I und II sind als Dysplasien des betreffenden Organsystems klassifiziert und sollten mit einer Schlüsselnummer aus dem Kapitel des jeweiligen Körpersystems kodiert werden. Von diesem Prinzip wird lediglich bei der intraepithelialen Neoplasie der Prostata abgewichen: Bei der älteren Einteilung in drei Grade wird nur Grad I als Dysplasie der Prostata klassifiziert, die Grade II und III werden hingegen dem nachstehenden Abschnitt zugeordnet; nach der neueren Einteilung in zwei Grade wird der niedrige Grad als Dysplasie klassifiziert, der hohe Grad hingegen dem nachstehenden Abschnitt zugeordnet.",
+    "inclusion": "Erythroplasie Queyrat"
+  },
+  "children": [
+    {
+      "code": "D00",
+      "kind": "category",
+      "label": "Carcinoma in situ der Mundhöhle, des Ösophagus und des Magens",
+      "rubrics": {
+        "preferred": "Carcinoma in situ der Mundhöhle, des Ösophagus und des Magens",
+        "exclusion": "Melanoma in situD03.-"
+      },
+      "children": [
+        {
+          "code": "D00.0",
+          "kind": "category",
+          "label": "Lippe, Mundhöhle und Pharynx",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Lippe, Mundhöhle und Pharynx",
+            "preferred": "Lippe, Mundhöhle und Pharynx",
+            "inclusion": "Lippenrotgrenze",
+            "exclusion": "LippenhautD03.0D04.0"
+          },
+          "children": []
+        },
+        {
+          "code": "D00.1",
+          "kind": "category",
+          "label": "Ösophagus",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Ösophagus",
+            "preferred": "Ösophagus"
+          },
+          "children": []
+        },
+        {
+          "code": "D00.2",
+          "kind": "category",
+          "label": "Magen",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Magen",
+            "preferred": "Magen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D01",
+      "kind": "category",
+      "label": "Carcinoma in situ sonstiger und nicht näher bezeichneter Verdauungsorgane",
+      "rubrics": {
+        "preferred": "Carcinoma in situ sonstiger und nicht näher bezeichneter Verdauungsorgane",
+        "exclusion": "Melanoma in situD03.-"
+      },
+      "children": [
+        {
+          "code": "D01.0",
+          "kind": "category",
+          "label": "Kolon",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Kolon",
+            "preferred": "Kolon",
+            "exclusion": "Rektosigmoid, ÜbergangD01.1"
+          },
+          "children": []
+        },
+        {
+          "code": "D01.1",
+          "kind": "category",
+          "label": "Rektosigmoid, Übergang",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Rektosigmoid, Übergang",
+            "preferred": "Rektosigmoid, Übergang"
+          },
+          "children": []
+        },
+        {
+          "code": "D01.2",
+          "kind": "category",
+          "label": "Rektum",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Rektum",
+            "preferred": "Rektum"
+          },
+          "children": []
+        },
+        {
+          "code": "D01.3",
+          "kind": "category",
+          "label": "Analkanal und Anus",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Analkanal und Anus",
+            "preferred": "Analkanal und Anus",
+            "exclusion": "PerianalhautD03.5D04.5"
+          },
+          "children": []
+        },
+        {
+          "code": "D01.4",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete Teile des Darmes",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Sonstige und nicht näher bezeichnete Teile des Darmes",
+            "preferred": "Sonstige und nicht näher bezeichnete Teile des Darmes",
+            "exclusion": "Ampulla hepatopancreatica [Ampulla Vateri]D01.5"
+          },
+          "children": []
+        },
+        {
+          "code": "D01.5",
+          "kind": "category",
+          "label": "Leber, Gallenblase und Gallengänge",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Leber, Gallenblase und Gallengänge",
+            "preferred": "Leber, Gallenblase und Gallengänge",
+            "inclusion": "Ampulla hepatopancreatica [Ampulla Vateri]"
+          },
+          "children": []
+        },
+        {
+          "code": "D01.7",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Verdauungsorgane",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Sonstige näher bezeichnete Verdauungsorgane",
+            "preferred": "Sonstige näher bezeichnete Verdauungsorgane",
+            "inclusion": "Pankreas"
+          },
+          "children": []
+        },
+        {
+          "code": "D01.9",
+          "kind": "category",
+          "label": "Verdauungsorgan, nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Verdauungsorgan, nicht näher bezeichnet",
+            "preferred": "Verdauungsorgan, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D02",
+      "kind": "category",
+      "label": "Carcinoma in situ des Mittelohres und des Atmungssystems",
+      "rubrics": {
+        "preferred": "Carcinoma in situ des Mittelohres und des Atmungssystems",
+        "exclusion": "Melanoma in situD03.-"
+      },
+      "children": [
+        {
+          "code": "D02.0",
+          "kind": "category",
+          "label": "Larynx",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Larynx",
+            "preferred": "Larynx",
+            "inclusion": "Epiglottis (suprahyoidaler Anteil)",
+            "exclusion": "Aryepiglottische Falte:\n\t\t\t\to.n.A.D00.0"
+          },
+          "children": []
+        },
+        {
+          "code": "D02.1",
+          "kind": "category",
+          "label": "Trachea",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Trachea",
+            "preferred": "Trachea"
+          },
+          "children": []
+        },
+        {
+          "code": "D02.2",
+          "kind": "category",
+          "label": "Bronchus und Lunge",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Bronchus und Lunge",
+            "preferred": "Bronchus und Lunge"
+          },
+          "children": []
+        },
+        {
+          "code": "D02.3",
+          "kind": "category",
+          "label": "Sonstige Teile des Atmungssystems",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Sonstige Teile des Atmungssystems",
+            "preferred": "Sonstige Teile des Atmungssystems",
+            "inclusion": "Nebenhöhlen",
+            "exclusion": "Ohr (äußeres) (Haut)D03.2D04.2"
+          },
+          "children": []
+        },
+        {
+          "code": "D02.4",
+          "kind": "category",
+          "label": "Atmungssystem, nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Atmungssystem, nicht näher bezeichnet",
+            "preferred": "Atmungssystem, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D03",
+      "kind": "category",
+      "label": "Melanoma in situ",
+      "rubrics": {
+        "preferred": "Melanoma in situ"
+      },
+      "children": [
+        {
+          "code": "D03.0",
+          "kind": "category",
+          "label": "Melanoma in situ der Lippe",
+          "rubrics": {
+            "preferred": "Melanoma in situ der Lippe"
+          },
+          "children": []
+        },
+        {
+          "code": "D03.1",
+          "kind": "category",
+          "label": "Melanoma in situ des Augenlides, einschließlich Kanthus",
+          "rubrics": {
+            "preferred": "Melanoma in situ des Augenlides, einschließlich Kanthus"
+          },
+          "children": []
+        },
+        {
+          "code": "D03.2",
+          "kind": "category",
+          "label": "Melanoma in situ des Ohres und des äußeren Gehörganges",
+          "rubrics": {
+            "preferred": "Melanoma in situ des Ohres und des äußeren Gehörganges"
+          },
+          "children": []
+        },
+        {
+          "code": "D03.3",
+          "kind": "category",
+          "label": "Melanoma in situ sonstiger und nicht näher bezeichneter Teile des Gesichtes",
+          "rubrics": {
+            "preferred": "Melanoma in situ sonstiger und nicht näher bezeichneter Teile des Gesichtes"
+          },
+          "children": []
+        },
+        {
+          "code": "D03.4",
+          "kind": "category",
+          "label": "Melanoma in situ der behaarten Kopfhaut und des Halses",
+          "rubrics": {
+            "preferred": "Melanoma in situ der behaarten Kopfhaut und des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "D03.5",
+          "kind": "category",
+          "label": "Melanoma in situ des Rumpfes",
+          "rubrics": {
+            "preferred": "Melanoma in situ des Rumpfes",
+            "inclusion": "Perianalhaut"
+          },
+          "children": []
+        },
+        {
+          "code": "D03.6",
+          "kind": "category",
+          "label": "Melanoma in situ der oberen Extremität, einschließlich Schulter",
+          "rubrics": {
+            "preferred": "Melanoma in situ der oberen Extremität, einschließlich Schulter"
+          },
+          "children": []
+        },
+        {
+          "code": "D03.7",
+          "kind": "category",
+          "label": "Melanoma in situ der unteren Extremität, einschließlich Hüfte",
+          "rubrics": {
+            "preferred": "Melanoma in situ der unteren Extremität, einschließlich Hüfte"
+          },
+          "children": []
+        },
+        {
+          "code": "D03.8",
+          "kind": "category",
+          "label": "Melanoma in situ an sonstigen Lokalisationen",
+          "rubrics": {
+            "preferred": "Melanoma in situ an sonstigen Lokalisationen"
+          },
+          "children": []
+        },
+        {
+          "code": "D03.9",
+          "kind": "category",
+          "label": "Melanoma in situ, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Melanoma in situ, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D04",
+      "kind": "category",
+      "label": "Carcinoma in situ der Haut",
+      "rubrics": {
+        "preferred": "Carcinoma in situ der Haut",
+        "exclusion": "Erythroplasie Queyrat (Penis) o.n.A.D07.4"
+      },
+      "children": [
+        {
+          "code": "D04.0",
+          "kind": "category",
+          "label": "Lippenhaut",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Lippenhaut",
+            "preferred": "Lippenhaut",
+            "exclusion": "LippenrotgrenzeD00.0"
+          },
+          "children": []
+        },
+        {
+          "code": "D04.1",
+          "kind": "category",
+          "label": "Haut des Augenlides, einschließlich Kanthus",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Haut des Augenlides, einschließlich Kanthus",
+            "preferred": "Haut des Augenlides, einschließlich Kanthus"
+          },
+          "children": []
+        },
+        {
+          "code": "D04.2",
+          "kind": "category",
+          "label": "Haut des Ohres und des äußeren Gehörganges",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Haut des Ohres und des äußeren Gehörganges",
+            "preferred": "Haut des Ohres und des äußeren Gehörganges"
+          },
+          "children": []
+        },
+        {
+          "code": "D04.3",
+          "kind": "category",
+          "label": "Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes",
+            "preferred": "Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes"
+          },
+          "children": []
+        },
+        {
+          "code": "D04.4",
+          "kind": "category",
+          "label": "Behaarte Kopfhaut und Haut des Halses",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Behaarte Kopfhaut und Haut des Halses",
+            "preferred": "Behaarte Kopfhaut und Haut des Halses"
+          },
+          "children": []
+        },
+        {
+          "code": "D04.5",
+          "kind": "category",
+          "label": "Haut des Rumpfes",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Haut des Rumpfes",
+            "preferred": "Haut des Rumpfes",
+            "inclusion": "Perianalhaut",
+            "exclusion": "Haut der GenitalorganeD07.-"
+          },
+          "children": []
+        },
+        {
+          "code": "D04.6",
+          "kind": "category",
+          "label": "Haut der oberen Extremität, einschließlich Schulter",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Haut der oberen Extremität, einschließlich Schulter",
+            "preferred": "Haut der oberen Extremität, einschließlich Schulter"
+          },
+          "children": []
+        },
+        {
+          "code": "D04.7",
+          "kind": "category",
+          "label": "Haut der unteren Extremität, einschließlich Hüfte",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Haut der unteren Extremität, einschließlich Hüfte",
+            "preferred": "Haut der unteren Extremität, einschließlich Hüfte"
+          },
+          "children": []
+        },
+        {
+          "code": "D04.8",
+          "kind": "category",
+          "label": "Haut an sonstigen Lokalisationen",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Haut an sonstigen Lokalisationen",
+            "preferred": "Haut an sonstigen Lokalisationen"
+          },
+          "children": []
+        },
+        {
+          "code": "D04.9",
+          "kind": "category",
+          "label": "Haut, nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Haut, nicht näher bezeichnet",
+            "preferred": "Haut, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D05",
+      "kind": "category",
+      "label": "Carcinoma in situ der Brustdrüse [Mamma]",
+      "rubrics": {
+        "preferred": "Carcinoma in situ der Brustdrüse [Mamma]",
+        "exclusion": "Melanoma in situ der Brustdrüse (Haut)D03.5"
+      },
+      "children": [
+        {
+          "code": "D05.0",
+          "kind": "category",
+          "label": "Lobuläres Carcinoma in situ der Brustdrüse",
+          "rubrics": {
+            "preferred": "Lobuläres Carcinoma in situ der Brustdrüse"
+          },
+          "children": []
+        },
+        {
+          "code": "D05.1",
+          "kind": "category",
+          "label": "Carcinoma in situ der Milchgänge",
+          "rubrics": {
+            "preferred": "Carcinoma in situ der Milchgänge"
+          },
+          "children": []
+        },
+        {
+          "code": "D05.7",
+          "kind": "category",
+          "label": "Sonstiges Carcinoma in situ der Brustdrüse",
+          "rubrics": {
+            "preferred": "Sonstiges Carcinoma in situ der Brustdrüse"
+          },
+          "children": []
+        },
+        {
+          "code": "D05.9",
+          "kind": "category",
+          "label": "Carcinoma in situ der Brustdrüse, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Carcinoma in situ der Brustdrüse, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D06",
+      "kind": "category",
+      "label": "Carcinoma in situ der Cervix uteri",
+      "rubrics": {
+        "preferred": "Carcinoma in situ der Cervix uteri",
+        "inclusion": "Zervikale intraepitheliale Neoplasie [CIN] III. Grades, mit oder ohne Angabe einer hochgradigen Dysplasie",
+        "exclusion": "Melanoma in situ der Cervix uteriD03.8"
+      },
+      "children": [
+        {
+          "code": "D06.0",
+          "kind": "category",
+          "label": "Endozervix",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Endozervix",
+            "preferred": "Endozervix"
+          },
+          "children": []
+        },
+        {
+          "code": "D06.1",
+          "kind": "category",
+          "label": "Ektozervix",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Ektozervix",
+            "preferred": "Ektozervix"
+          },
+          "children": []
+        },
+        {
+          "code": "D06.7",
+          "kind": "category",
+          "label": "Sonstige Teile der Cervix uteri",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Sonstige Teile der Cervix uteri",
+            "preferred": "Sonstige Teile der Cervix uteri"
+          },
+          "children": []
+        },
+        {
+          "code": "D06.9",
+          "kind": "category",
+          "label": "Cervix uteri, nicht näher bezeichnet",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Cervix uteri, nicht näher bezeichnet",
+            "preferred": "Cervix uteri, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D07",
+      "kind": "category",
+      "label": "Carcinoma in situ sonstiger und nicht näher bezeichneter Genitalorgane",
+      "rubrics": {
+        "preferred": "Carcinoma in situ sonstiger und nicht näher bezeichneter Genitalorgane",
+        "exclusion": "Melanoma in situD03.8"
+      },
+      "children": [
+        {
+          "code": "D07.0",
+          "kind": "category",
+          "label": "Endometrium",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Endometrium",
+            "preferred": "Endometrium"
+          },
+          "children": []
+        },
+        {
+          "code": "D07.1",
+          "kind": "category",
+          "label": "Vulva",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Vulva",
+            "preferred": "Vulva",
+            "inclusion": "Intraepitheliale Neoplasie der Vulva [VIN] III. Grades, mit oder ohne Angabe einer hochgradigen Dysplasie",
+            "exclusion": "Hochgradige Dysplasie der Vulva o.n.A.N90.2"
+          },
+          "children": []
+        },
+        {
+          "code": "D07.2",
+          "kind": "category",
+          "label": "Vagina",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Vagina",
+            "preferred": "Vagina",
+            "inclusion": "Intraepitheliale Neoplasie der Vagina [VAIN] III. Grades, mit oder ohne Angabe einer hochgradigen Dysplasie",
+            "exclusion": "Hochgradige Dysplasie der Vagina o.n.A.N89.2"
+          },
+          "children": []
+        },
+        {
+          "code": "D07.3",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete weibliche Genitalorgane",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Sonstige und nicht näher bezeichnete weibliche Genitalorgane",
+            "preferred": "Sonstige und nicht näher bezeichnete weibliche Genitalorgane"
+          },
+          "children": []
+        },
+        {
+          "code": "D07.4",
+          "kind": "category",
+          "label": "Penis",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Penis",
+            "preferred": "Penis",
+            "inclusion": "Erythroplasie Queyrat o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "D07.5",
+          "kind": "category",
+          "label": "Prostata",
+          "rubrics": {
+            "preferred": "Prostata",
+            "preferredLong": "Carcinoma in situ: Prostata",
+            "inclusion": "Hochgradige intraepitheliale Neoplasie der Prostata [high-grade PIN]",
+            "exclusion": "Niedriggradige Dysplasie der Prostata N42.3"
+          },
+          "children": []
+        },
+        {
+          "code": "D07.6",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete männliche Genitalorgane",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Sonstige und nicht näher bezeichnete männliche Genitalorgane",
+            "preferred": "Sonstige und nicht näher bezeichnete männliche Genitalorgane"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D09",
+      "kind": "category",
+      "label": "Carcinoma in situ sonstiger und nicht näher bezeichneter Lokalisationen",
+      "rubrics": {
+        "preferred": "Carcinoma in situ sonstiger und nicht näher bezeichneter Lokalisationen",
+        "exclusion": "Melanoma in situD03.-"
+      },
+      "children": [
+        {
+          "code": "D09.0",
+          "kind": "category",
+          "label": "Harnblase",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Harnblase",
+            "preferred": "Harnblase"
+          },
+          "children": []
+        },
+        {
+          "code": "D09.1",
+          "kind": "category",
+          "label": "Sonstige und nicht näher bezeichnete Harnorgane",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Sonstige und nicht näher bezeichnete Harnorgane",
+            "preferred": "Sonstige und nicht näher bezeichnete Harnorgane"
+          },
+          "children": []
+        },
+        {
+          "code": "D09.2",
+          "kind": "category",
+          "label": "Auge",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Auge",
+            "preferred": "Auge",
+            "exclusion": "AugenlidhautD04.1"
+          },
+          "children": []
+        },
+        {
+          "code": "D09.3",
+          "kind": "category",
+          "label": "Schilddrüse und sonstige endokrine Drüsen",
+          "rubrics": {
+            "preferredLong": "Carcinoma in situ: Schilddrüse und sonstige endokrine Drüsen",
+            "preferred": "Schilddrüse und sonstige endokrine Drüsen",
+            "exclusion": "OvarD07.3"
+          },
+          "children": []
+        },
+        {
+          "code": "D09.7",
+          "kind": "category",
+          "label": "Carcinoma in situ sonstiger näher bezeichneter Lokalisationen",
+          "rubrics": {
+            "preferred": "Carcinoma in situ sonstiger näher bezeichneter Lokalisationen"
+          },
+          "children": []
+        },
+        {
+          "code": "D09.9",
+          "kind": "category",
+          "label": "Carcinoma in situ, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Carcinoma in situ, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

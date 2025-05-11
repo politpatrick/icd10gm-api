@@ -1,0 +1,10 @@
+{
+  "code": "K03.7",
+  "kind": "category",
+  "label": "Farbänderungen der Zahnhartsubstanzen nach dem Zahndurchbruch",
+  "rubrics": {
+    "preferred": "Farbänderungen der Zahnhartsubstanzen nach dem Zahndurchbruch",
+    "exclusion": "Auflagerungen [Beläge] auf den ZähnenK03.6"
+  },
+  "children": []
+}

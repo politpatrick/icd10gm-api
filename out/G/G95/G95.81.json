@@ -1,0 +1,10 @@
+{
+  "code": "G95.81",
+  "kind": "category",
+  "label": "Harnblasenlähmung bei Schädigung des unteren motorischen Neurons [LMNL]",
+  "rubrics": {
+    "preferred": "Harnblasenlähmung bei Schädigung des unteren motorischen Neurons [LMNL]",
+    "inclusion": "Schlaffe Blase"
+  },
+  "children": []
+}

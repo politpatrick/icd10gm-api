@@ -1,0 +1,10 @@
+{
+  "code": "O60.2",
+  "kind": "category",
+  "label": "Vorzeitige Wehen mit termingerechter Entbindung",
+  "rubrics": {
+    "preferred": "Vorzeitige Wehen mit termingerechter Entbindung",
+    "inclusion": "Vorzeitige spontane Wehen mit termingerechter Entbindung durch Kaiserschnitt"
+  },
+  "children": []
+}

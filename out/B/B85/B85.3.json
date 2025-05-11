@@ -1,0 +1,10 @@
+{
+  "code": "B85.3",
+  "kind": "category",
+  "label": "Phthiriasis [Filzläusebefall]",
+  "rubrics": {
+    "preferred": "Phthiriasis [Filzläusebefall]",
+    "inclusion": "Befall durch:\n\t\t\t\tPhthirus pubis"
+  },
+  "children": []
+}

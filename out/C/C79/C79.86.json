@@ -1,0 +1,11 @@
+{
+  "code": "C79.86",
+  "kind": "category",
+  "label": "Sekundäre bösartige Neubildung des Bindegewebes und anderer Weichteilgewebe der Extremitäten",
+  "rubrics": {
+    "preferred": "Sekundäre bösartige Neubildung des Bindegewebes und anderer Weichteilgewebe der Extremitäten",
+    "inclusion": "Weichteilgewebe:\n\t\t\t\tHüfte",
+    "exclusion": "Sekundäre bösartige Neubildung der Lymphknoten der unteren ExtremitätC77.4"
+  },
+  "children": []
+}

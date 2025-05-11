@@ -1,0 +1,10 @@
+{
+  "code": "O08.8",
+  "kind": "category",
+  "label": "Sonstige Komplikationen nach Abort, Extrauteringravidität und Molenschwangerschaft",
+  "rubrics": {
+    "preferred": "Sonstige Komplikationen nach Abort, Extrauteringravidität und Molenschwangerschaft",
+    "inclusion": "Herzstillstand\n\t\t\t\tnach Zuständen, die unter O00-O07 klassifizierbar sind"
+  },
+  "children": []
+}

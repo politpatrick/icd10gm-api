@@ -1,0 +1,10 @@
+{
+  "code": "O35.8",
+  "kind": "category",
+  "label": "Betreuung der Mutter bei (Verdacht auf) sonstige Anomalie oder Schädigung des Fetus",
+  "rubrics": {
+    "preferred": "Betreuung der Mutter bei (Verdacht auf) sonstige Anomalie oder Schädigung des Fetus",
+    "inclusion": "Betreuung der Mutter bei (Verdacht auf) Schädigung des Fetus durch mütterliche:\n\t\t\t\tToxoplasmose"
+  },
+  "children": []
+}

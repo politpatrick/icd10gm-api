@@ -1,0 +1,81 @@
+{
+  "code": "B08",
+  "kind": "category",
+  "label": "Sonstige Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind, anderenorts nicht klassifiziert",
+    "exclusion": "Stomatitis-vesicularis-ViruskrankheitA93.8"
+  },
+  "children": [
+    {
+      "code": "B08.0",
+      "kind": "category",
+      "label": "Sonstige Infektionen durch Orthopoxviren",
+      "rubrics": {
+        "preferred": "Sonstige Infektionen durch Orthopoxviren",
+        "inclusion": "Pseudokuhpocken [Melkerknoten]",
+        "exclusion": "AffenpockenB04"
+      },
+      "children": []
+    },
+    {
+      "code": "B08.1",
+      "kind": "category",
+      "label": "Molluscum contagiosum",
+      "rubrics": {
+        "preferred": "Molluscum contagiosum"
+      },
+      "children": []
+    },
+    {
+      "code": "B08.2",
+      "kind": "category",
+      "label": "Exanthema subitum [Sechste Krankheit]",
+      "rubrics": {
+        "preferred": "Exanthema subitum [Sechste Krankheit]",
+        "inclusion": "Dreitagefieber-Exanthem"
+      },
+      "children": []
+    },
+    {
+      "code": "B08.3",
+      "kind": "category",
+      "label": "Erythema infectiosum [Fünfte Krankheit]",
+      "rubrics": {
+        "preferred": "Erythema infectiosum [Fünfte Krankheit]",
+        "inclusion": "Ringelröteln"
+      },
+      "children": []
+    },
+    {
+      "code": "B08.4",
+      "kind": "category",
+      "label": "Vesikuläre Stomatitis mit Exanthem durch Enteroviren",
+      "rubrics": {
+        "preferred": "Vesikuläre Stomatitis mit Exanthem durch Enteroviren",
+        "inclusion": "Hand-, Fuß- und Mundexanthem"
+      },
+      "children": []
+    },
+    {
+      "code": "B08.5",
+      "kind": "category",
+      "label": "Vesikuläre Pharyngitis durch Enteroviren",
+      "rubrics": {
+        "preferred": "Vesikuläre Pharyngitis durch Enteroviren",
+        "inclusion": "Herpangina"
+      },
+      "children": []
+    },
+    {
+      "code": "B08.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind",
+        "inclusion": "Yabapocken"
+      },
+      "children": []
+    }
+  ]
+}

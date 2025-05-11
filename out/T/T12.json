@@ -1,0 +1,11 @@
+{
+  "code": "T12",
+  "kind": "category",
+  "label": "Fraktur der unteren Extremität, Höhe nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Fraktur der unteren Extremität, Höhe nicht näher bezeichnet",
+    "inclusion": "Fraktur des Beines o.n.A.",
+    "exclusion": "Multiple Frakturen der unteren Extremität, Höhe nicht näher bezeichnetT02.-"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "E51.1",
+  "kind": "category",
+  "label": "Beriberi",
+  "rubrics": {
+    "preferred": "Beriberi",
+    "inclusion": "Beriberi:\n\t\t\t\ttrockene Form"
+  },
+  "children": []
+}

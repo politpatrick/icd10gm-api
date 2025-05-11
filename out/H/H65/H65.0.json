@@ -1,0 +1,10 @@
+{
+  "code": "H65.0",
+  "kind": "category",
+  "label": "Akute seröse Otitis media",
+  "rubrics": {
+    "preferred": "Akute seröse Otitis media",
+    "inclusion": "Akute und subakute sezernierende Otitis media"
+  },
+  "children": []
+}

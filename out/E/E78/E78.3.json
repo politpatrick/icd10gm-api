@@ -1,0 +1,10 @@
+{
+  "code": "E78.3",
+  "kind": "category",
+  "label": "Hyperchylomikronämie",
+  "rubrics": {
+    "preferred": "Hyperchylomikronämie",
+    "inclusion": "Hyperlipoproteinämie Typ I oder V nach Fredrickson"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "E74.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Störungen des Kohlenhydratstoffwechsels",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Störungen des Kohlenhydratstoffwechsels",
+    "inclusion": "Renale Glukosurie"
+  },
+  "children": []
+}

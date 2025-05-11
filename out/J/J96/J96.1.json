@@ -1,0 +1,10 @@
+{
+  "code": "J96.1",
+  "kind": "category",
+  "label": "Chronische respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Chronische respiratorische Insuffizienz, anderenorts nicht klassifiziert",
+    "coding-hint": "Besteht eine (langzeitige) Absaug- oder Beatmungspflicht, so ist Z99.0 oder Z99.1 als zusätzliche Schlüsselnummer zu benutzen."
+  },
+  "children": []
+}

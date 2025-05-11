@@ -1,0 +1,845 @@
+{
+  "code": "L60-L75",
+  "kind": "block",
+  "label": "Krankheiten der Hautanhangsgebilde",
+  "rubrics": {
+    "preferred": "Krankheiten der Hautanhangsgebilde",
+    "exclusion": "Angeborene Fehlbildungen des Integumentum communeQ84.-"
+  },
+  "children": [
+    {
+      "code": "L60",
+      "kind": "category",
+      "label": "Krankheiten der Nägel",
+      "rubrics": {
+        "preferred": "Krankheiten der Nägel",
+        "exclusion": "UhrglasnägelR68.3"
+      },
+      "children": [
+        {
+          "code": "L60.0",
+          "kind": "category",
+          "label": "Unguis incarnatus",
+          "rubrics": {
+            "preferred": "Unguis incarnatus",
+            "inclusion": "Eingewachsener Nagel"
+          },
+          "children": []
+        },
+        {
+          "code": "L60.1",
+          "kind": "category",
+          "label": "Onycholysis",
+          "rubrics": {
+            "preferred": "Onycholysis"
+          },
+          "children": []
+        },
+        {
+          "code": "L60.2",
+          "kind": "category",
+          "label": "Onychogryposis [Onychogryphosis]",
+          "rubrics": {
+            "preferred": "Onychogryposis [Onychogryphosis]"
+          },
+          "children": []
+        },
+        {
+          "code": "L60.3",
+          "kind": "category",
+          "label": "Nageldystrophie",
+          "rubrics": {
+            "preferred": "Nageldystrophie"
+          },
+          "children": []
+        },
+        {
+          "code": "L60.4",
+          "kind": "category",
+          "label": "Beau-Reil-Querfurchen",
+          "rubrics": {
+            "preferred": "Beau-Reil-Querfurchen"
+          },
+          "children": []
+        },
+        {
+          "code": "L60.5",
+          "kind": "category",
+          "label": "Yellow-nail-Syndrom [Syndrom der gelben Nägel]",
+          "rubrics": {
+            "preferred": "Yellow-nail-Syndrom [Syndrom der gelben Nägel]"
+          },
+          "children": []
+        },
+        {
+          "code": "L60.8",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Nägel",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Nägel"
+          },
+          "children": []
+        },
+        {
+          "code": "L60.9",
+          "kind": "category",
+          "label": "Krankheit der Nägel, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der Nägel, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L62",
+      "kind": "category",
+      "label": "Krankheiten der Nägel bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Krankheiten der Nägel bei anderenorts klassifizierten Krankheiten"
+      },
+      "children": [
+        {
+          "code": "L62.0",
+          "kind": "category",
+          "label": "Pachydermoperiostose mit UhrglasnägelnM89.4-",
+          "rubrics": {
+            "preferred": "Pachydermoperiostose mit UhrglasnägelnM89.4-"
+          },
+          "children": []
+        },
+        {
+          "code": "L62.8",
+          "kind": "category",
+          "label": "Krankheiten der Nägel bei sonstigen anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten der Nägel bei sonstigen anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L63",
+      "kind": "category",
+      "label": "Alopecia areata",
+      "rubrics": {
+        "preferred": "Alopecia areata"
+      },
+      "children": [
+        {
+          "code": "L63.0",
+          "kind": "category",
+          "label": "Alopecia (cranialis) totalis",
+          "rubrics": {
+            "preferred": "Alopecia (cranialis) totalis"
+          },
+          "children": []
+        },
+        {
+          "code": "L63.1",
+          "kind": "category",
+          "label": "Alopecia universalis",
+          "rubrics": {
+            "preferred": "Alopecia universalis"
+          },
+          "children": []
+        },
+        {
+          "code": "L63.2",
+          "kind": "category",
+          "label": "Ophiasis",
+          "rubrics": {
+            "preferred": "Ophiasis"
+          },
+          "children": []
+        },
+        {
+          "code": "L63.8",
+          "kind": "category",
+          "label": "Sonstige Alopecia areata",
+          "rubrics": {
+            "preferred": "Sonstige Alopecia areata"
+          },
+          "children": []
+        },
+        {
+          "code": "L63.9",
+          "kind": "category",
+          "label": "Alopecia areata, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Alopecia areata, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L64",
+      "kind": "category",
+      "label": "Alopecia androgenetica",
+      "rubrics": {
+        "preferred": "Alopecia androgenetica",
+        "inclusion": "Alopezie vom männlichen Typ"
+      },
+      "children": [
+        {
+          "code": "L64.0",
+          "kind": "category",
+          "label": "Arzneimittelinduzierte Alopecia androgenetica",
+          "rubrics": {
+            "preferred": "Arzneimittelinduzierte Alopecia androgenetica",
+            "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "L64.8",
+          "kind": "category",
+          "label": "Sonstige Alopecia androgenetica",
+          "rubrics": {
+            "preferred": "Sonstige Alopecia androgenetica"
+          },
+          "children": []
+        },
+        {
+          "code": "L64.9",
+          "kind": "category",
+          "label": "Alopecia androgenetica, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Alopecia androgenetica, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L65",
+      "kind": "category",
+      "label": "Sonstiger Haarausfall ohne Narbenbildung",
+      "rubrics": {
+        "preferred": "Sonstiger Haarausfall ohne Narbenbildung",
+        "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "TrichotillomanieF63.3"
+      },
+      "children": [
+        {
+          "code": "L65.0",
+          "kind": "category",
+          "label": "Telogeneffluvium",
+          "rubrics": {
+            "preferred": "Telogeneffluvium"
+          },
+          "children": []
+        },
+        {
+          "code": "L65.1",
+          "kind": "category",
+          "label": "Anageneffluvium",
+          "rubrics": {
+            "preferred": "Anageneffluvium"
+          },
+          "children": []
+        },
+        {
+          "code": "L65.2",
+          "kind": "category",
+          "label": "Alopecia mucinosa [Pinkus]",
+          "rubrics": {
+            "preferred": "Alopecia mucinosa [Pinkus]"
+          },
+          "children": []
+        },
+        {
+          "code": "L65.8",
+          "kind": "category",
+          "label": "Sonstiger näher bezeichneter Haarausfall ohne Narbenbildung",
+          "rubrics": {
+            "preferred": "Sonstiger näher bezeichneter Haarausfall ohne Narbenbildung"
+          },
+          "children": []
+        },
+        {
+          "code": "L65.9",
+          "kind": "category",
+          "label": "Haarausfall ohne Narbenbildung, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Haarausfall ohne Narbenbildung, nicht näher bezeichnet",
+            "inclusion": "Alopecia o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L66",
+      "kind": "category",
+      "label": "Narbige Alopezie [Haarausfall mit Narbenbildung]",
+      "rubrics": {
+        "preferred": "Narbige Alopezie [Haarausfall mit Narbenbildung]"
+      },
+      "children": [
+        {
+          "code": "L66.0",
+          "kind": "category",
+          "label": "Pseudopelade Brocq",
+          "rubrics": {
+            "preferred": "Pseudopelade Brocq"
+          },
+          "children": []
+        },
+        {
+          "code": "L66.1",
+          "kind": "category",
+          "label": "Lichen planopilaris",
+          "rubrics": {
+            "preferred": "Lichen planopilaris",
+            "inclusion": "Lichen ruber follicularis"
+          },
+          "children": []
+        },
+        {
+          "code": "L66.2",
+          "kind": "category",
+          "label": "Folliculitis decalvans",
+          "rubrics": {
+            "preferred": "Folliculitis decalvans"
+          },
+          "children": []
+        },
+        {
+          "code": "L66.3",
+          "kind": "category",
+          "label": "Folliculitis et Perifolliculitis capitis abscedens et suffodiens [Hoffmann]",
+          "rubrics": {
+            "preferred": "Folliculitis et Perifolliculitis capitis abscedens et suffodiens [Hoffmann]"
+          },
+          "children": []
+        },
+        {
+          "code": "L66.4",
+          "kind": "category",
+          "label": "Atrophodermia vermiculata",
+          "rubrics": {
+            "preferred": "Atrophodermia vermiculata",
+            "inclusion": "Ulerythema acneiforme"
+          },
+          "children": []
+        },
+        {
+          "code": "L66.8",
+          "kind": "category",
+          "label": "Sonstige narbige Alopezie",
+          "rubrics": {
+            "preferred": "Sonstige narbige Alopezie"
+          },
+          "children": []
+        },
+        {
+          "code": "L66.9",
+          "kind": "category",
+          "label": "Narbige Alopezie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Narbige Alopezie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L67",
+      "kind": "category",
+      "label": "Anomalien der Haarfarbe und des Haarschaftes",
+      "rubrics": {
+        "preferred": "Anomalien der Haarfarbe und des Haarschaftes",
+        "exclusion": "TelogeneffluviumL65.0"
+      },
+      "children": [
+        {
+          "code": "L67.0",
+          "kind": "category",
+          "label": "Trichorrhexis nodosa",
+          "rubrics": {
+            "preferred": "Trichorrhexis nodosa"
+          },
+          "children": []
+        },
+        {
+          "code": "L67.1",
+          "kind": "category",
+          "label": "Veränderungen der Haarfarbe",
+          "rubrics": {
+            "preferred": "Veränderungen der Haarfarbe",
+            "inclusion": "Poliosis:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "L67.8",
+          "kind": "category",
+          "label": "Sonstige Anomalien der Haarfarbe und des Haarschaftes",
+          "rubrics": {
+            "preferred": "Sonstige Anomalien der Haarfarbe und des Haarschaftes",
+            "inclusion": "Fragilitas crinium"
+          },
+          "children": []
+        },
+        {
+          "code": "L67.9",
+          "kind": "category",
+          "label": "Anomalie der Haarfarbe und des Haarschaftes, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Anomalie der Haarfarbe und des Haarschaftes, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L68",
+      "kind": "category",
+      "label": "Hypertrichose",
+      "rubrics": {
+        "preferred": "Hypertrichose",
+        "inclusion": "Verstärkter Haarwuchs",
+        "exclusion": "Persistierende LanugobehaarungQ84.2"
+      },
+      "children": [
+        {
+          "code": "L68.0",
+          "kind": "category",
+          "label": "Hirsutismus",
+          "rubrics": {
+            "preferred": "Hirsutismus",
+            "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "L68.1",
+          "kind": "category",
+          "label": "Hypertrichosis lanuginosa acquisita",
+          "rubrics": {
+            "preferred": "Hypertrichosis lanuginosa acquisita",
+            "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "L68.2",
+          "kind": "category",
+          "label": "Lokalisierte Hypertrichose",
+          "rubrics": {
+            "preferred": "Lokalisierte Hypertrichose"
+          },
+          "children": []
+        },
+        {
+          "code": "L68.3",
+          "kind": "category",
+          "label": "Polytrichie",
+          "rubrics": {
+            "preferred": "Polytrichie"
+          },
+          "children": []
+        },
+        {
+          "code": "L68.8",
+          "kind": "category",
+          "label": "Sonstige Hypertrichose",
+          "rubrics": {
+            "preferred": "Sonstige Hypertrichose"
+          },
+          "children": []
+        },
+        {
+          "code": "L68.9",
+          "kind": "category",
+          "label": "Hypertrichose, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Hypertrichose, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L70",
+      "kind": "category",
+      "label": "Akne",
+      "rubrics": {
+        "preferred": "Akne",
+        "exclusion": "AknekeloidL73.0"
+      },
+      "children": [
+        {
+          "code": "L70.0",
+          "kind": "category",
+          "label": "Acne vulgaris",
+          "rubrics": {
+            "preferred": "Acne vulgaris"
+          },
+          "children": []
+        },
+        {
+          "code": "L70.1",
+          "kind": "category",
+          "label": "Acne conglobata",
+          "rubrics": {
+            "preferred": "Acne conglobata"
+          },
+          "children": []
+        },
+        {
+          "code": "L70.2",
+          "kind": "category",
+          "label": "Acne varioliformis",
+          "rubrics": {
+            "preferred": "Acne varioliformis",
+            "inclusion": "Acne necroticans miliaris"
+          },
+          "children": []
+        },
+        {
+          "code": "L70.3",
+          "kind": "category",
+          "label": "Acne tropica",
+          "rubrics": {
+            "preferred": "Acne tropica"
+          },
+          "children": []
+        },
+        {
+          "code": "L70.4",
+          "kind": "category",
+          "label": "Acne infantum",
+          "rubrics": {
+            "preferred": "Acne infantum"
+          },
+          "children": []
+        },
+        {
+          "code": "L70.5",
+          "kind": "category",
+          "label": "Acné excoriée",
+          "rubrics": {
+            "preferred": "Acné excoriée",
+            "inclusion": "Acné excoriée des jeunes filles"
+          },
+          "children": []
+        },
+        {
+          "code": "L70.8",
+          "kind": "category",
+          "label": "Sonstige Akne",
+          "rubrics": {
+            "preferred": "Sonstige Akne"
+          },
+          "children": []
+        },
+        {
+          "code": "L70.9",
+          "kind": "category",
+          "label": "Akne, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Akne, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L71",
+      "kind": "category",
+      "label": "Rosazea",
+      "rubrics": {
+        "preferred": "Rosazea"
+      },
+      "children": [
+        {
+          "code": "L71.0",
+          "kind": "category",
+          "label": "Periorale Dermatitis",
+          "rubrics": {
+            "preferred": "Periorale Dermatitis",
+            "coding-hint": "Soll bei Arzneimittelinduktion die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "L71.1",
+          "kind": "category",
+          "label": "Rhinophym",
+          "rubrics": {
+            "preferred": "Rhinophym"
+          },
+          "children": []
+        },
+        {
+          "code": "L71.8",
+          "kind": "category",
+          "label": "Sonstige Rosazea",
+          "rubrics": {
+            "preferred": "Sonstige Rosazea"
+          },
+          "children": []
+        },
+        {
+          "code": "L71.9",
+          "kind": "category",
+          "label": "Rosazea, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Rosazea, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L72",
+      "kind": "category",
+      "label": "Follikuläre Zysten der Haut und der Unterhaut",
+      "rubrics": {
+        "preferred": "Follikuläre Zysten der Haut und der Unterhaut"
+      },
+      "children": [
+        {
+          "code": "L72.0",
+          "kind": "category",
+          "label": "Epidermalzyste",
+          "rubrics": {
+            "preferred": "Epidermalzyste"
+          },
+          "children": []
+        },
+        {
+          "code": "L72.1",
+          "kind": "category",
+          "label": "Trichilemmalzyste",
+          "rubrics": {
+            "preferred": "Trichilemmalzyste",
+            "inclusion": "Pilarzyste"
+          },
+          "children": []
+        },
+        {
+          "code": "L72.2",
+          "kind": "category",
+          "label": "Steatocystoma multiplex",
+          "rubrics": {
+            "preferred": "Steatocystoma multiplex"
+          },
+          "children": []
+        },
+        {
+          "code": "L72.8",
+          "kind": "category",
+          "label": "Sonstige follikuläre Zysten der Haut und der Unterhaut",
+          "rubrics": {
+            "preferred": "Sonstige follikuläre Zysten der Haut und der Unterhaut"
+          },
+          "children": []
+        },
+        {
+          "code": "L72.9",
+          "kind": "category",
+          "label": "Follikuläre Zyste der Haut und der Unterhaut, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Follikuläre Zyste der Haut und der Unterhaut, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L73",
+      "kind": "category",
+      "label": "Sonstige Krankheiten der Haarfollikel",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Haarfollikel"
+      },
+      "children": [
+        {
+          "code": "L73.0",
+          "kind": "category",
+          "label": "Aknekeloid [Folliculitis sclerotisans nuchae]",
+          "rubrics": {
+            "preferred": "Aknekeloid [Folliculitis sclerotisans nuchae]"
+          },
+          "children": []
+        },
+        {
+          "code": "L73.1",
+          "kind": "category",
+          "label": "Pseudofolliculitis barbae",
+          "rubrics": {
+            "preferred": "Pseudofolliculitis barbae"
+          },
+          "children": []
+        },
+        {
+          "code": "L73.2",
+          "kind": "category",
+          "label": "Hidradenitis suppurativa",
+          "rubrics": {
+            "preferred": "Hidradenitis suppurativa"
+          },
+          "children": []
+        },
+        {
+          "code": "L73.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Krankheiten der Haarfollikel",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Krankheiten der Haarfollikel",
+            "inclusion": "Folliculitis barbae"
+          },
+          "children": []
+        },
+        {
+          "code": "L73.9",
+          "kind": "category",
+          "label": "Krankheit der Haarfollikel, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der Haarfollikel, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L74",
+      "kind": "category",
+      "label": "Krankheiten der ekkrinen Schweißdrüsen",
+      "rubrics": {
+        "preferred": "Krankheiten der ekkrinen Schweißdrüsen",
+        "exclusion": "HyperhidroseR61.-"
+      },
+      "children": [
+        {
+          "code": "L74.0",
+          "kind": "category",
+          "label": "Miliaria rubra",
+          "rubrics": {
+            "preferred": "Miliaria rubra"
+          },
+          "children": []
+        },
+        {
+          "code": "L74.1",
+          "kind": "category",
+          "label": "Miliaria cristallina",
+          "rubrics": {
+            "preferred": "Miliaria cristallina"
+          },
+          "children": []
+        },
+        {
+          "code": "L74.2",
+          "kind": "category",
+          "label": "Miliaria profunda",
+          "rubrics": {
+            "preferred": "Miliaria profunda",
+            "inclusion": "Miliaria tropica"
+          },
+          "children": []
+        },
+        {
+          "code": "L74.3",
+          "kind": "category",
+          "label": "Miliaria, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Miliaria, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "L74.4",
+          "kind": "category",
+          "label": "Anhidrosis",
+          "rubrics": {
+            "preferred": "Anhidrosis",
+            "inclusion": "Hypohidrosis"
+          },
+          "children": []
+        },
+        {
+          "code": "L74.8",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der ekkrinen Schweißdrüsen",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der ekkrinen Schweißdrüsen"
+          },
+          "children": []
+        },
+        {
+          "code": "L74.9",
+          "kind": "category",
+          "label": "Krankheit der ekkrinen Schweißdrüsen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der ekkrinen Schweißdrüsen, nicht näher bezeichnet",
+            "inclusion": "Krankheit der Schweißdrüsen o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "L75",
+      "kind": "category",
+      "label": "Krankheiten der apokrinen Schweißdrüsen",
+      "rubrics": {
+        "preferred": "Krankheiten der apokrinen Schweißdrüsen",
+        "exclusion": "Hidradenitis suppurativaL73.2"
+      },
+      "children": [
+        {
+          "code": "L75.0",
+          "kind": "category",
+          "label": "Bromhidrosis",
+          "rubrics": {
+            "preferred": "Bromhidrosis"
+          },
+          "children": []
+        },
+        {
+          "code": "L75.1",
+          "kind": "category",
+          "label": "Chromhidrosis",
+          "rubrics": {
+            "preferred": "Chromhidrosis"
+          },
+          "children": []
+        },
+        {
+          "code": "L75.2",
+          "kind": "category",
+          "label": "Apokrine Miliaria",
+          "rubrics": {
+            "preferred": "Apokrine Miliaria",
+            "inclusion": "Fox-Fordyce-Krankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "L75.8",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der apokrinen Schweißdrüsen",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der apokrinen Schweißdrüsen"
+          },
+          "children": []
+        },
+        {
+          "code": "L75.9",
+          "kind": "category",
+          "label": "Krankheit der apokrinen Schweißdrüsen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit der apokrinen Schweißdrüsen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

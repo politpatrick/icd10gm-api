@@ -1,0 +1,10 @@
+{
+  "code": "U50.10",
+  "kind": "category",
+  "label": "Barthel-Index: 80-95 Punkte",
+  "rubrics": {
+    "preferredLong": "Leichte motorische Funktionseinschränkung: Barthel-Index: 80-95 Punkte",
+    "preferred": "Barthel-Index: 80-95 Punkte"
+  },
+  "children": []
+}

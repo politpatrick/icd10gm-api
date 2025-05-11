@@ -1,0 +1,10 @@
+{
+  "code": "T97",
+  "kind": "category",
+  "label": "Folgen toxischer Wirkungen von vorwiegend nicht medizinisch verwendeten Substanzen",
+  "rubrics": {
+    "preferred": "Folgen toxischer Wirkungen von vorwiegend nicht medizinisch verwendeten Substanzen",
+    "inclusion": "Folgen toxischer Wirkungen, die unter T51-T65 klassifizierbar sind"
+  },
+  "children": []
+}

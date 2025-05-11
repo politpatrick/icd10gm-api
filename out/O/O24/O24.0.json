@@ -1,0 +1,10 @@
+{
+  "code": "O24.0",
+  "kind": "category",
+  "label": "Vorher bestehender Diabetes mellitus, Typ 1",
+  "rubrics": {
+    "preferredLong": "Diabetes mellitus in der Schwangerschaft: Vorher bestehender Diabetes mellitus, Typ 1",
+    "preferred": "Vorher bestehender Diabetes mellitus, Typ 1"
+  },
+  "children": []
+}

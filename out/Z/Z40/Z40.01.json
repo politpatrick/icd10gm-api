@@ -1,0 +1,10 @@
+{
+  "code": "Z40.01",
+  "kind": "category",
+  "label": "Prophylaktische Operation am Ovar",
+  "rubrics": {
+    "preferredLong": "Prophylaktische Operation wegen Risikofaktoren in Verbindung mit bösartigen Neubildungen: Prophylaktische Operation am Ovar",
+    "preferred": "Prophylaktische Operation am Ovar"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "B05.9",
+  "kind": "category",
+  "label": "Masern ohne Komplikation",
+  "rubrics": {
+    "preferred": "Masern ohne Komplikation",
+    "inclusion": "Masern o.n.A."
+  },
+  "children": []
+}

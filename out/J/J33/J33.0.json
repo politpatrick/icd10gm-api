@@ -1,0 +1,10 @@
+{
+  "code": "J33.0",
+  "kind": "category",
+  "label": "Polyp der Nasenhöhle",
+  "rubrics": {
+    "preferred": "Polyp der Nasenhöhle",
+    "inclusion": "Polyp:\n\t\t\t\tnasopharyngeal"
+  },
+  "children": []
+}

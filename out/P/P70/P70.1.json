@@ -1,0 +1,10 @@
+{
+  "code": "P70.1",
+  "kind": "category",
+  "label": "Syndrom des Kindes einer diabetischen Mutter",
+  "rubrics": {
+    "preferred": "Syndrom des Kindes einer diabetischen Mutter",
+    "inclusion": "Diabetes mellitus der Mutter (vorher bestehend), der sich auf den Fetus oder das Neugeborene auswirkt (mit Hypoglykämie)"
+  },
+  "children": []
+}

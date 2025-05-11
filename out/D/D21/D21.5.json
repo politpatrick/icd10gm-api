@@ -1,0 +1,11 @@
+{
+  "code": "D21.5",
+  "kind": "category",
+  "label": "Bindegewebe und andere Weichteilgewebe des Beckens",
+  "rubrics": {
+    "preferredLong": "Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Beckens",
+    "preferred": "Bindegewebe und andere Weichteilgewebe des Beckens",
+    "exclusion": "Uterus:\n\t\t\t\tLeiomyomD25.-"
+  },
+  "children": []
+}

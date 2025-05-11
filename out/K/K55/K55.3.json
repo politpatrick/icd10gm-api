@@ -1,0 +1,31 @@
+{
+  "code": "K55.3",
+  "kind": "category",
+  "label": "Angiodysplasie des Dünndarmes",
+  "rubrics": {
+    "preferred": "Angiodysplasie des Dünndarmes"
+  },
+  "children": [
+    {
+      "code": "K55.31",
+      "kind": "category",
+      "label": "Angiodysplasie des Dünndarmes ohne Angabe einer Blutung",
+      "rubrics": {
+        "preferred": "Angiodysplasie des Dünndarmes ohne Angabe einer Blutung",
+        "inclusion": "Angiodysplasie des Dünndarmes o.n.A.",
+        "exclusion": "Angiodysplasie des Duodenums ohne Angabe einer BlutungK31.81"
+      },
+      "children": []
+    },
+    {
+      "code": "K55.32",
+      "kind": "category",
+      "label": "Angiodysplasie des Dünndarmes mit Blutung",
+      "rubrics": {
+        "preferred": "Angiodysplasie des Dünndarmes mit Blutung",
+        "exclusion": "Angiodysplasie des Duodenums mit BlutungK31.82"
+      },
+      "children": []
+    }
+  ]
+}

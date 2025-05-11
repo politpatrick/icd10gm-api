@@ -1,0 +1,10 @@
+{
+  "code": "A25.1",
+  "kind": "category",
+  "label": "Streptobazillen-Rattenbisskrankheit",
+  "rubrics": {
+    "preferred": "Streptobazillen-Rattenbisskrankheit",
+    "inclusion": "Rattenbissfieber durch Streptobazillen"
+  },
+  "children": []
+}

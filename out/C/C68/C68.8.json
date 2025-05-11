@@ -1,0 +1,12 @@
+{
+  "code": "C68.8",
+  "kind": "category",
+  "label": "Harnorgane, mehrere Teilbereiche überlappend",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Harnorgane, mehrere Teilbereiche überlappend",
+    "preferred": "Harnorgane, mehrere Teilbereiche überlappend",
+    "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]",
+    "inclusion": "Bösartige Neubildungen der Harnorgane, deren Ursprungsort nicht unter den Kategorien C64-C68.1 klassifiziert werden kann"
+  },
+  "children": []
+}

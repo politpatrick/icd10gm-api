@@ -1,0 +1,10 @@
+{
+  "code": "G41.1",
+  "kind": "category",
+  "label": "Petit-Mal-Status",
+  "rubrics": {
+    "preferred": "Petit-Mal-Status",
+    "inclusion": "Absencenstatus"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D59.18",
+  "kind": "category",
+  "label": "Sonstige autoimmunhämolytische Anämien",
+  "rubrics": {
+    "preferred": "Sonstige autoimmunhämolytische Anämien",
+    "inclusion": "Kälteagglutinin-Syndrom [CAS]"
+  },
+  "children": []
+}

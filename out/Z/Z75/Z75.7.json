@@ -1,0 +1,10 @@
+{
+  "code": "Z75.7",
+  "kind": "category",
+  "label": "Erfolgte Registrierung zur Organtransplantation mit Dringlichkeitsstufe HU (High Urgency)",
+  "rubrics": {
+    "preferred": "Erfolgte Registrierung zur Organtransplantation mit Dringlichkeitsstufe HU (High Urgency)",
+    "coding-hint": "Diese Schlüsselnummer ist zu verwenden, wenn eine Registrierung zur Organtransplantation erfolgt ist und diese weiterhin Gültigkeit besitzt. Die Registrierung muss nicht im aktuellen stationären Aufenthalt erfolgt sein."
+  },
+  "children": []
+}

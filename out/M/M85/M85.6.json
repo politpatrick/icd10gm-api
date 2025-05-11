@@ -1,0 +1,10 @@
+{
+  "code": "M85.6",
+  "kind": "category",
+  "label": "Sonstige Knochenzyste",
+  "rubrics": {
+    "preferred": "Sonstige Knochenzyste",
+    "exclusion": "Zyste des Kiefers, anderenorts nicht klassifiziertK09.1-K09.2"
+  },
+  "children": []
+}

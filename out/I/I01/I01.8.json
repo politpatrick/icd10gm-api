@@ -1,0 +1,10 @@
+{
+  "code": "I01.8",
+  "kind": "category",
+  "label": "Sonstige akute rheumatische Herzkrankheit",
+  "rubrics": {
+    "preferred": "Sonstige akute rheumatische Herzkrankheit",
+    "inclusion": "Jeder Zustand unter I00 mit sonstigen oder mehreren Arten der Herzbeteiligung"
+  },
+  "children": []
+}

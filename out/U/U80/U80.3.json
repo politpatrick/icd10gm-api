@@ -1,0 +1,29 @@
+{
+  "code": "U80.3",
+  "kind": "category",
+  "label": "Enterococcus faecium mit Resistenz gegen Glykopeptid-Antibiotika, Oxazolidinone oder Streptogramine oder mit High-Level-Aminoglykosid-Resistenz",
+  "rubrics": {
+    "preferred": "Enterococcus faecium mit Resistenz gegen Glykopeptid-Antibiotika, Oxazolidinone oder Streptogramine oder mit High-Level-Aminoglykosid-Resistenz"
+  },
+  "children": [
+    {
+      "code": "U80.30",
+      "kind": "category",
+      "label": "Enterococcus faecium mit Resistenz gegen Glykopeptid-Antibiotika",
+      "rubrics": {
+        "preferred": "Enterococcus faecium mit Resistenz gegen Glykopeptid-Antibiotika",
+        "inclusion": "Enterococcus faecium mit Resistenz gegen Glykopeptid-Antibiotika und mit High-Level-Aminoglykosid-Resistenz"
+      },
+      "children": []
+    },
+    {
+      "code": "U80.31",
+      "kind": "category",
+      "label": "Enterococcus faecium mit Resistenz gegen Oxazolidinone oder Streptogramine oder mit High-Level-Aminoglykosid-Resistenz und ohne Resistenz gegen Glykopeptid-Antibiotika",
+      "rubrics": {
+        "preferred": "Enterococcus faecium mit Resistenz gegen Oxazolidinone oder Streptogramine oder mit High-Level-Aminoglykosid-Resistenz und ohne Resistenz gegen Glykopeptid-Antibiotika"
+      },
+      "children": []
+    }
+  ]
+}

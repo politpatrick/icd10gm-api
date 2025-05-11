@@ -1,0 +1,10 @@
+{
+  "code": "Z84.0",
+  "kind": "category",
+  "label": "Krankheiten der Haut und der Unterhaut in der Familienanamnese",
+  "rubrics": {
+    "preferred": "Krankheiten der Haut und der Unterhaut in der Familienanamnese",
+    "inclusion": "Zustände, klassifizierbar unter L00-L99"
+  },
+  "children": []
+}

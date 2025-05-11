@@ -1,0 +1,10 @@
+{
+  "code": "O11",
+  "kind": "category",
+  "label": "Chronische Hypertonie mit aufgepfropfter Präeklampsie",
+  "rubrics": {
+    "preferred": "Chronische Hypertonie mit aufgepfropfter Präeklampsie",
+    "inclusion": "Unter O10.- aufgeführte Zustände, kompliziert durch Präeklampsie"
+  },
+  "children": []
+}

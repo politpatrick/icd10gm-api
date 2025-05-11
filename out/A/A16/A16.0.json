@@ -1,0 +1,10 @@
+{
+  "code": "A16.0",
+  "kind": "category",
+  "label": "Lungentuberkulose, weder bakteriologisch, molekularbiologisch noch histologisch gesichert",
+  "rubrics": {
+    "preferred": "Lungentuberkulose, weder bakteriologisch, molekularbiologisch noch histologisch gesichert",
+    "inclusion": "Tuberkulös:\n\t\t\t\tPneumothorax\n\t\t\t\tweder bakteriologisch, molekularbiologisch noch histologisch gesichert"
+  },
+  "children": []
+}

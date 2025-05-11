@@ -1,0 +1,10 @@
+{
+  "code": "C75.1",
+  "kind": "category",
+  "label": "Hypophyse",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Hypophyse",
+    "preferred": "Hypophyse"
+  },
+  "children": []
+}

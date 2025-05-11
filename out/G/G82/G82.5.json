@@ -1,0 +1,10 @@
+{
+  "code": "G82.5",
+  "kind": "category",
+  "label": "Tetraparese und Tetraplegie, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Tetraparese und Tetraplegie, nicht näher bezeichnet",
+    "inclusion": "Quadriplegie o.n.A."
+  },
+  "children": []
+}

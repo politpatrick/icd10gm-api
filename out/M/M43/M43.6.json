@@ -1,0 +1,10 @@
+{
+  "code": "M43.6",
+  "kind": "category",
+  "label": "Tortikollis",
+  "rubrics": {
+    "preferred": "Tortikollis",
+    "exclusion": "Tortikollis:\n\t\t\t\tspastischG24.3"
+  },
+  "children": []
+}

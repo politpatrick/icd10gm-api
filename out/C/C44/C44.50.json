@@ -1,0 +1,12 @@
+{
+  "code": "C44.50",
+  "kind": "category",
+  "label": "Perianalhaut",
+  "rubrics": {
+    "inclusion": "Anus:\n\t\t\t\tRand (-Gebiet)",
+    "exclusion": "Anus o.n.A.C21.0",
+    "preferred": "Perianalhaut",
+    "preferredLong": "Sonstige bösartige Neubildungen der Haut: Perianalhaut"
+  },
+  "children": []
+}

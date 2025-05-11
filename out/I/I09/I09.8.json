@@ -1,0 +1,10 @@
+{
+  "code": "I09.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete rheumatische Herzkrankheiten",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete rheumatische Herzkrankheiten",
+    "inclusion": "Rheumatische Krankheit der Pulmonalklappe"
+  },
+  "children": []
+}

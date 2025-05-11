@@ -1,0 +1,308 @@
+{
+  "code": "M60-M63",
+  "kind": "block",
+  "label": "Krankheiten der Muskeln",
+  "rubrics": {
+    "preferred": "Krankheiten der Muskeln",
+    "exclusion": "Myopathie bei:\n\t\t\t\tsystemischem Lupus erythematodesM32.-"
+  },
+  "children": [
+    {
+      "code": "M60",
+      "kind": "category",
+      "label": "Myositis",
+      "rubrics": {
+        "preferred": "Myositis",
+        "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+      },
+      "children": [
+        {
+          "code": "M60.0",
+          "kind": "category",
+          "label": "Infektiöse Myositis",
+          "rubrics": {
+            "preferred": "Infektiöse Myositis",
+            "inclusion": "Tropische Pyomyositis",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "M60.1",
+          "kind": "category",
+          "label": "Interstitielle Myositis",
+          "rubrics": {
+            "preferred": "Interstitielle Myositis"
+          },
+          "children": []
+        },
+        {
+          "code": "M60.2",
+          "kind": "category",
+          "label": "Fremdkörpergranulom im Weichteilgewebe, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Fremdkörpergranulom im Weichteilgewebe, anderenorts nicht klassifiziert",
+            "exclusion": "Fremdkörpergranulom in der Haut und im UnterhautgewebeL92.3"
+          },
+          "children": []
+        },
+        {
+          "code": "M60.8",
+          "kind": "category",
+          "label": "Sonstige Myositis",
+          "rubrics": {
+            "preferred": "Sonstige Myositis"
+          },
+          "children": []
+        },
+        {
+          "code": "M60.9",
+          "kind": "category",
+          "label": "Myositis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Myositis, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M61",
+      "kind": "category",
+      "label": "Kalzifikation und Ossifikation von Muskeln",
+      "rubrics": {
+        "preferred": "Kalzifikation und Ossifikation von Muskeln",
+        "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]"
+      },
+      "children": [
+        {
+          "code": "M61.0",
+          "kind": "category",
+          "label": "Traumatische Myositis ossificans",
+          "rubrics": {
+            "preferred": "Traumatische Myositis ossificans"
+          },
+          "children": []
+        },
+        {
+          "code": "M61.1",
+          "kind": "category",
+          "label": "Myositis ossificans progressiva",
+          "rubrics": {
+            "preferred": "Myositis ossificans progressiva",
+            "inclusion": "Fibrodysplasia ossificans progressiva"
+          },
+          "children": []
+        },
+        {
+          "code": "M61.2",
+          "kind": "category",
+          "label": "Kalzifikation und Ossifikation von Muskeln bei Lähmungen",
+          "rubrics": {
+            "preferred": "Kalzifikation und Ossifikation von Muskeln bei Lähmungen",
+            "inclusion": "Myositis ossificans bei Tetraplegie oder Paraplegie"
+          },
+          "children": []
+        },
+        {
+          "code": "M61.3",
+          "kind": "category",
+          "label": "Kalzifikation und Ossifikation von Muskeln bei Verbrennungen",
+          "rubrics": {
+            "preferred": "Kalzifikation und Ossifikation von Muskeln bei Verbrennungen",
+            "inclusion": "Myositis ossificans bei Verbrennungen"
+          },
+          "children": []
+        },
+        {
+          "code": "M61.4",
+          "kind": "category",
+          "label": "Sonstige Kalzifikation von Muskeln",
+          "rubrics": {
+            "preferred": "Sonstige Kalzifikation von Muskeln",
+            "exclusion": "Tendinitis calcarea im SchulterbereichM75.3"
+          },
+          "children": []
+        },
+        {
+          "code": "M61.5",
+          "kind": "category",
+          "label": "Sonstige Ossifikation von Muskeln",
+          "rubrics": {
+            "preferred": "Sonstige Ossifikation von Muskeln"
+          },
+          "children": []
+        },
+        {
+          "code": "M61.9",
+          "kind": "category",
+          "label": "Kalzifikation und Ossifikation von Muskeln, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Kalzifikation und Ossifikation von Muskeln, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M62",
+      "kind": "category",
+      "label": "Sonstige Muskelkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Muskelkrankheiten",
+        "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+        "exclusion": "Stiff-Person-SyndromG25.88"
+      },
+      "children": [
+        {
+          "code": "M62.0",
+          "kind": "category",
+          "label": "Muskeldiastase",
+          "rubrics": {
+            "preferred": "Muskeldiastase"
+          },
+          "children": []
+        },
+        {
+          "code": "M62.1",
+          "kind": "category",
+          "label": "Sonstiger Muskelriss (nichttraumatisch)",
+          "rubrics": {
+            "preferred": "Sonstiger Muskelriss (nichttraumatisch)",
+            "exclusion": "Traumatischer Muskelriss - siehe Muskelverletzung nach Körperregion"
+          },
+          "children": []
+        },
+        {
+          "code": "M62.2",
+          "kind": "category",
+          "label": "Ischämischer Muskelinfarkt (nichttraumatisch)",
+          "rubrics": {
+            "preferred": "Ischämischer Muskelinfarkt (nichttraumatisch)",
+            "inclusion": "Nichttraumatisches Kompartmentsyndrom",
+            "exclusion": "Volkmann-Kontraktur [ischämische Muskelkontraktur]T79.60"
+          },
+          "children": []
+        },
+        {
+          "code": "M62.3",
+          "kind": "category",
+          "label": "Immobilitätssyndrom (paraplegisch)",
+          "rubrics": {
+            "preferred": "Immobilitätssyndrom (paraplegisch)"
+          },
+          "children": []
+        },
+        {
+          "code": "M62.4",
+          "kind": "category",
+          "label": "Muskelkontraktur",
+          "rubrics": {
+            "preferred": "Muskelkontraktur",
+            "exclusion": "GelenkkontrakturM24.5-"
+          },
+          "children": []
+        },
+        {
+          "code": "M62.5",
+          "kind": "category",
+          "label": "Muskelschwund und -atrophie, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Muskelschwund und -atrophie, anderenorts nicht klassifiziert",
+            "inclusion": "Sarkopenie"
+          },
+          "children": []
+        },
+        {
+          "code": "M62.6",
+          "kind": "category",
+          "label": "Muskelzerrung",
+          "rubrics": {
+            "preferred": "Muskelzerrung",
+            "exclusion": "Akute Verletzung - siehe Muskelverletzung nach Körperregion"
+          },
+          "children": []
+        },
+        {
+          "code": "M62.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete Muskelkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete Muskelkrankheiten",
+            "inclusion": "Nichttraumatisches Muskelhämatom"
+          },
+          "children": []
+        },
+        {
+          "code": "M62.9",
+          "kind": "category",
+          "label": "Muskelkrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Muskelkrankheit, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "M63",
+      "kind": "category",
+      "label": "Muskelkrankheiten bei anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Muskelkrankheiten bei anderenorts klassifizierten Krankheiten",
+        "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+        "exclusion": "Myopathie bei:\n\t\t\t\tStoffwechselkrankheitenG73.6"
+      },
+      "children": [
+        {
+          "code": "M63.0",
+          "kind": "category",
+          "label": "Myositis bei anderenorts klassifizierten bakteriellen Krankheiten",
+          "rubrics": {
+            "preferred": "Myositis bei anderenorts klassifizierten bakteriellen Krankheiten",
+            "inclusion": "Myositis bei:\n\t\t\t\tSyphilisA51.4A52.7"
+          },
+          "children": []
+        },
+        {
+          "code": "M63.1",
+          "kind": "category",
+          "label": "Myositis bei anderenorts klassifizierten Protozoen- und Parasiteninfektionen",
+          "rubrics": {
+            "preferred": "Myositis bei anderenorts klassifizierten Protozoen- und Parasiteninfektionen",
+            "inclusion": "Myositis bei:\n\t\t\t\tZystizerkoseB69.8"
+          },
+          "children": []
+        },
+        {
+          "code": "M63.2",
+          "kind": "category",
+          "label": "Myositis bei sonstigen anderenorts klassifizierten Infektionskrankheiten",
+          "rubrics": {
+            "preferred": "Myositis bei sonstigen anderenorts klassifizierten Infektionskrankheiten",
+            "inclusion": "Myositis bei MykosenB35-B49"
+          },
+          "children": []
+        },
+        {
+          "code": "M63.3",
+          "kind": "category",
+          "label": "Myositis bei SarkoidoseD86.8",
+          "rubrics": {
+            "preferred": "Myositis bei SarkoidoseD86.8"
+          },
+          "children": []
+        },
+        {
+          "code": "M63.8",
+          "kind": "category",
+          "label": "Sonstige Muskelkrankheiten bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Muskelkrankheiten bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

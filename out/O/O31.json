@@ -1,0 +1,48 @@
+{
+  "code": "O31",
+  "kind": "category",
+  "label": "Komplikationen, die für eine Mehrlingsschwangerschaft spezifisch sind",
+  "rubrics": {
+    "preferred": "Komplikationen, die für eine Mehrlingsschwangerschaft spezifisch sind",
+    "exclusion": "Protrahierte Geburt des zweiten Zwillings, Drillings usw.O63.2"
+  },
+  "children": [
+    {
+      "code": "O31.0",
+      "kind": "category",
+      "label": "Fetus papyraceus",
+      "rubrics": {
+        "preferred": "Fetus papyraceus",
+        "inclusion": "Fetus compressus"
+      },
+      "children": []
+    },
+    {
+      "code": "O31.1",
+      "kind": "category",
+      "label": "Fortbestehen der Schwangerschaft nach Fehlgeburt eines oder mehrerer Feten",
+      "rubrics": {
+        "preferred": "Fortbestehen der Schwangerschaft nach Fehlgeburt eines oder mehrerer Feten"
+      },
+      "children": []
+    },
+    {
+      "code": "O31.2",
+      "kind": "category",
+      "label": "Fortbestehen der Schwangerschaft nach intrauterinem Absterben eines oder mehrerer Feten",
+      "rubrics": {
+        "preferred": "Fortbestehen der Schwangerschaft nach intrauterinem Absterben eines oder mehrerer Feten"
+      },
+      "children": []
+    },
+    {
+      "code": "O31.8",
+      "kind": "category",
+      "label": "Sonstige Komplikationen, die für eine Mehrlingsschwangerschaft spezifisch sind",
+      "rubrics": {
+        "preferred": "Sonstige Komplikationen, die für eine Mehrlingsschwangerschaft spezifisch sind"
+      },
+      "children": []
+    }
+  ]
+}

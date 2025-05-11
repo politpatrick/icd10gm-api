@@ -1,0 +1,39 @@
+{
+  "code": "A25",
+  "kind": "category",
+  "label": "Rattenbisskrankheiten",
+  "rubrics": {
+    "preferred": "Rattenbisskrankheiten"
+  },
+  "children": [
+    {
+      "code": "A25.0",
+      "kind": "category",
+      "label": "Spirillen-Rattenbisskrankheit",
+      "rubrics": {
+        "preferred": "Spirillen-Rattenbisskrankheit",
+        "inclusion": "Sodoku"
+      },
+      "children": []
+    },
+    {
+      "code": "A25.1",
+      "kind": "category",
+      "label": "Streptobazillen-Rattenbisskrankheit",
+      "rubrics": {
+        "preferred": "Streptobazillen-Rattenbisskrankheit",
+        "inclusion": "Rattenbissfieber durch Streptobazillen"
+      },
+      "children": []
+    },
+    {
+      "code": "A25.9",
+      "kind": "category",
+      "label": "Rattenbisskrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Rattenbisskrankheit, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

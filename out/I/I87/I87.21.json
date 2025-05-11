@@ -1,0 +1,10 @@
+{
+  "code": "I87.21",
+  "kind": "category",
+  "label": "Venöse Insuffizienz (chronisch) (peripher) mit Ulzeration",
+  "rubrics": {
+    "preferred": "Venöse Insuffizienz (chronisch) (peripher) mit Ulzeration",
+    "exclusion": "Ulcus cruris varicosumI83.0, I83.2"
+  },
+  "children": []
+}

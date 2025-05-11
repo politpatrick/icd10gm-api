@@ -1,0 +1,83 @@
+{
+  "code": "Z83",
+  "kind": "category",
+  "label": "Andere spezifische Krankheiten in der Familienanamnese",
+  "rubrics": {
+    "preferred": "Andere spezifische Krankheiten in der Familienanamnese",
+    "exclusion": "Kontakt mit und Exposition gegenüber übertragbarer Krankheit in der FamilieZ20.-"
+  },
+  "children": [
+    {
+      "code": "Z83.1",
+      "kind": "category",
+      "label": "Infektiöse oder parasitäre Krankheiten in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Infektiöse oder parasitäre Krankheiten in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter A00-B94, B99"
+      },
+      "children": []
+    },
+    {
+      "code": "Z83.2",
+      "kind": "category",
+      "label": "Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter D50-D89"
+      },
+      "children": []
+    },
+    {
+      "code": "Z83.3",
+      "kind": "category",
+      "label": "Diabetes mellitus in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Diabetes mellitus in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter E10-E14, O24"
+      },
+      "children": []
+    },
+    {
+      "code": "Z83.4",
+      "kind": "category",
+      "label": "Andere endokrine, Ernährungs- oder Stoffwechselkrankheiten in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Andere endokrine, Ernährungs- oder Stoffwechselkrankheiten in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter E00-E07, E15-E90"
+      },
+      "children": []
+    },
+    {
+      "code": "Z83.5",
+      "kind": "category",
+      "label": "Augen- oder Ohrenkrankheiten in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Augen- oder Ohrenkrankheiten in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter H00-H53, H55-H83, H92-H95",
+        "exclusion": "Familienanamnese:\n\t\t\t\tTaubheit oder HörverlustZ82"
+      },
+      "children": []
+    },
+    {
+      "code": "Z83.6",
+      "kind": "category",
+      "label": "Krankheiten der Atemwege in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Krankheiten der Atemwege in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter J00-J39, J60-J99",
+        "exclusion": "Chronische Krankheiten der unteren Atemwege in der FamilienanamneseZ82"
+      },
+      "children": []
+    },
+    {
+      "code": "Z83.7",
+      "kind": "category",
+      "label": "Krankheiten des Verdauungssystems in der Familienanamnese",
+      "rubrics": {
+        "preferred": "Krankheiten des Verdauungssystems in der Familienanamnese",
+        "inclusion": "Zustände, klassifizierbar unter K00-K93"
+      },
+      "children": []
+    }
+  ]
+}

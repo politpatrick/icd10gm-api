@@ -1,0 +1,46 @@
+{
+  "code": "A37",
+  "kind": "category",
+  "label": "Keuchhusten",
+  "rubrics": {
+    "preferred": "Keuchhusten"
+  },
+  "children": [
+    {
+      "code": "A37.0",
+      "kind": "category",
+      "label": "Keuchhusten durch Bordetella pertussis",
+      "rubrics": {
+        "preferred": "Keuchhusten durch Bordetella pertussis"
+      },
+      "children": []
+    },
+    {
+      "code": "A37.1",
+      "kind": "category",
+      "label": "Keuchhusten durch Bordetella parapertussis",
+      "rubrics": {
+        "preferred": "Keuchhusten durch Bordetella parapertussis"
+      },
+      "children": []
+    },
+    {
+      "code": "A37.8",
+      "kind": "category",
+      "label": "Keuchhusten durch sonstige Bordetella-Spezies",
+      "rubrics": {
+        "preferred": "Keuchhusten durch sonstige Bordetella-Spezies"
+      },
+      "children": []
+    },
+    {
+      "code": "A37.9",
+      "kind": "category",
+      "label": "Keuchhusten, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Keuchhusten, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

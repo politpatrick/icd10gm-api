@@ -1,0 +1,10 @@
+{
+  "code": "B60.1",
+  "kind": "category",
+  "label": "Akanthamöbiasis",
+  "rubrics": {
+    "preferred": "Akanthamöbiasis",
+    "inclusion": "Konjunktivitis durch AkanthamöbenH13.1"
+  },
+  "children": []
+}

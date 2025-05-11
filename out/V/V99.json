@@ -1,0 +1,11 @@
+{
+  "code": "V99",
+  "kind": "category",
+  "label": "Transportmittelunfall",
+  "rubrics": {
+    "preferred": "Transportmittelunfall",
+    "inclusion": "Wasserfahrzeugunfall",
+    "exclusion": "Zusammenstoß eines Fußgängers (oder eines von ihm benutzten Beförderungsmittels) mit anderem Fußgänger (oder von diesem benutzten Beförderungsmittel)X59.9"
+  },
+  "children": []
+}

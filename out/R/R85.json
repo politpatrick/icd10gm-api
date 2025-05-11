@@ -1,0 +1,12 @@
+{
+  "code": "R85",
+  "kind": "category",
+  "label": "Abnorme Befunde in Untersuchungsmaterialien aus Verdauungsorganen und Bauchhöhle",
+  "rubrics": {
+    "preferred": "Abnorme Befunde in Untersuchungsmaterialien aus Verdauungsorganen und Bauchhöhle",
+    "modifierlink": "[4. Stellen siehe am Anfang dieser Gruppe]",
+    "inclusion": "Abnorme Befunde in:\n\t\t\t\tSpeichel",
+    "exclusion": "StuhlveränderungenR19.5"
+  },
+  "children": []
+}

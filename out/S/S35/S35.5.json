@@ -1,0 +1,10 @@
+{
+  "code": "S35.5",
+  "kind": "category",
+  "label": "Verletzung von Blutgefäßen der Iliakalregion",
+  "rubrics": {
+    "preferred": "Verletzung von Blutgefäßen der Iliakalregion",
+    "inclusion": "Arteria oder Vena iliaca"
+  },
+  "children": []
+}

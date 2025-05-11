@@ -1,0 +1,41 @@
+{
+  "code": "P07.0",
+  "kind": "category",
+  "label": "Neugeborenes mit extrem niedrigem Geburtsgewicht",
+  "rubrics": {
+    "preferred": "Neugeborenes mit extrem niedrigem Geburtsgewicht",
+    "text": "Geburtsgewicht von 999 Gramm oder weniger."
+  },
+  "children": [
+    {
+      "code": "P07.00",
+      "kind": "category",
+      "label": "Geburtsgewicht unter 500 Gramm",
+      "rubrics": {
+        "preferredLong": "Neugeborenes: Geburtsgewicht unter 500 Gramm",
+        "preferred": "Geburtsgewicht unter 500 Gramm"
+      },
+      "children": []
+    },
+    {
+      "code": "P07.01",
+      "kind": "category",
+      "label": "Geburtsgewicht 500 bis unter 750 Gramm",
+      "rubrics": {
+        "preferredLong": "Neugeborenes: Geburtsgewicht 500 bis unter 750 Gramm",
+        "preferred": "Geburtsgewicht 500 bis unter 750 Gramm"
+      },
+      "children": []
+    },
+    {
+      "code": "P07.02",
+      "kind": "category",
+      "label": "Geburtsgewicht 750 bis unter 1000 Gramm",
+      "rubrics": {
+        "preferredLong": "Neugeborenes: Geburtsgewicht 750 bis unter 1000 Gramm",
+        "preferred": "Geburtsgewicht 750 bis unter 1000 Gramm"
+      },
+      "children": []
+    }
+  ]
+}

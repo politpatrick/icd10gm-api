@@ -1,0 +1,10 @@
+{
+  "code": "A06.0",
+  "kind": "category",
+  "label": "Akute Amöbenruhr",
+  "rubrics": {
+    "preferred": "Akute Amöbenruhr",
+    "inclusion": "Amöbenkolitis o.n.A."
+  },
+  "children": []
+}

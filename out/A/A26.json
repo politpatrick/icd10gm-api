@@ -1,0 +1,47 @@
+{
+  "code": "A26",
+  "kind": "category",
+  "label": "Erysipeloid",
+  "rubrics": {
+    "preferred": "Erysipeloid"
+  },
+  "children": [
+    {
+      "code": "A26.0",
+      "kind": "category",
+      "label": "Haut-Erysipeloid",
+      "rubrics": {
+        "preferred": "Haut-Erysipeloid",
+        "inclusion": "Schweinerotlauf"
+      },
+      "children": []
+    },
+    {
+      "code": "A26.7",
+      "kind": "category",
+      "label": "Erysipelothrix-Sepsis",
+      "rubrics": {
+        "preferred": "Erysipelothrix-Sepsis"
+      },
+      "children": []
+    },
+    {
+      "code": "A26.8",
+      "kind": "category",
+      "label": "Sonstige Formen des Erysipeloids",
+      "rubrics": {
+        "preferred": "Sonstige Formen des Erysipeloids"
+      },
+      "children": []
+    },
+    {
+      "code": "A26.9",
+      "kind": "category",
+      "label": "Erysipeloid, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Erysipeloid, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

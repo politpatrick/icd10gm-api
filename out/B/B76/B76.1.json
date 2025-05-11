@@ -1,0 +1,10 @@
+{
+  "code": "B76.1",
+  "kind": "category",
+  "label": "Nekatoriasis",
+  "rubrics": {
+    "preferred": "Nekatoriasis",
+    "inclusion": "Infektion durch Necator americanus"
+  },
+  "children": []
+}

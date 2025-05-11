@@ -1,0 +1,11 @@
+{
+  "code": "C90.0",
+  "kind": "category",
+  "label": "Multiples Myelom",
+  "rubrics": {
+    "preferred": "Multiples Myelom",
+    "inclusion": "Plasmazellmyelom",
+    "exclusion": "Solitäres PlasmozytomC90.3-"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "E23.2",
+  "kind": "category",
+  "label": "Diabetes insipidus",
+  "rubrics": {
+    "preferred": "Diabetes insipidus",
+    "exclusion": "Renaler Diabetes insipidusN25.1"
+  },
+  "children": []
+}

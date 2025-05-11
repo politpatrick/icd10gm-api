@@ -1,0 +1,10 @@
+{
+  "code": "I63.5",
+  "kind": "category",
+  "label": "Hirninfarkt durch nicht näher bezeichneten Verschluss oder Stenose zerebraler Arterien",
+  "rubrics": {
+    "preferred": "Hirninfarkt durch nicht näher bezeichneten Verschluss oder Stenose zerebraler Arterien",
+    "inclusion": "A. cerebri media, A. cerebri anterior, A. cerebri posterior und Aa. cerebelli"
+  },
+  "children": []
+}

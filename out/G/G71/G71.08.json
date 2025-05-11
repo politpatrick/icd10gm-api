@@ -1,0 +1,10 @@
+{
+  "code": "G71.08",
+  "kind": "category",
+  "label": "Sonstige Muskeldystrophien",
+  "rubrics": {
+    "preferred": "Sonstige Muskeldystrophien",
+    "inclusion": "Muskeldystrophie:\n\t\t\t\tskapuloperonäal"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "Q64.9",
+  "kind": "category",
+  "label": "Angeborene Fehlbildung des Harnsystems, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildung des Harnsystems, nicht näher bezeichnet",
+    "inclusion": "Angeboren:\n\t\t\t\tDeformität\n\t\t\t\tHarnsystem o.n.A."
+  },
+  "children": []
+}

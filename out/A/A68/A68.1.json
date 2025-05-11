@@ -1,0 +1,10 @@
+{
+  "code": "A68.1",
+  "kind": "category",
+  "label": "Durch Zecken übertragenes Rückfallfieber",
+  "rubrics": {
+    "preferred": "Durch Zecken übertragenes Rückfallfieber",
+    "inclusion": "Rückfallfieber durch jede Borrelienart, ausgenommen durch Borrelia recurrentis"
+  },
+  "children": []
+}

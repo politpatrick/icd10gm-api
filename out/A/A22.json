@@ -1,0 +1,68 @@
+{
+  "code": "A22",
+  "kind": "category",
+  "label": "Anthrax [Milzbrand]",
+  "rubrics": {
+    "preferred": "Anthrax [Milzbrand]",
+    "inclusion": "Infektion durch Bacillus anthracis"
+  },
+  "children": [
+    {
+      "code": "A22.0",
+      "kind": "category",
+      "label": "Hautmilzbrand",
+      "rubrics": {
+        "preferred": "Hautmilzbrand",
+        "inclusion": "Pustula maligna"
+      },
+      "children": []
+    },
+    {
+      "code": "A22.1",
+      "kind": "category",
+      "label": "Lungenmilzbrand",
+      "rubrics": {
+        "preferred": "Lungenmilzbrand",
+        "inclusion": "Milzbrand, durch Inhalation erworben"
+      },
+      "children": []
+    },
+    {
+      "code": "A22.2",
+      "kind": "category",
+      "label": "Darmmilzbrand",
+      "rubrics": {
+        "preferred": "Darmmilzbrand"
+      },
+      "children": []
+    },
+    {
+      "code": "A22.7",
+      "kind": "category",
+      "label": "Milzbrandsepsis",
+      "rubrics": {
+        "preferred": "Milzbrandsepsis"
+      },
+      "children": []
+    },
+    {
+      "code": "A22.8",
+      "kind": "category",
+      "label": "Sonstige Formen des Milzbrandes",
+      "rubrics": {
+        "preferred": "Sonstige Formen des Milzbrandes",
+        "inclusion": "MilzbrandmeningitisG01"
+      },
+      "children": []
+    },
+    {
+      "code": "A22.9",
+      "kind": "category",
+      "label": "Milzbrand, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Milzbrand, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

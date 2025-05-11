@@ -1,0 +1,55 @@
+{
+  "code": "K67",
+  "kind": "category",
+  "label": "Krankheiten des Peritoneums bei anderenorts klassifizierten Infektionskrankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten des Peritoneums bei anderenorts klassifizierten Infektionskrankheiten"
+  },
+  "children": [
+    {
+      "code": "K67.0",
+      "kind": "category",
+      "label": "ChlamydienperitonitisA74.8",
+      "rubrics": {
+        "preferred": "ChlamydienperitonitisA74.8"
+      },
+      "children": []
+    },
+    {
+      "code": "K67.1",
+      "kind": "category",
+      "label": "GonokokkenperitonitisA54.8",
+      "rubrics": {
+        "preferred": "GonokokkenperitonitisA54.8"
+      },
+      "children": []
+    },
+    {
+      "code": "K67.2",
+      "kind": "category",
+      "label": "Syphilitische PeritonitisA52.7",
+      "rubrics": {
+        "preferred": "Syphilitische PeritonitisA52.7"
+      },
+      "children": []
+    },
+    {
+      "code": "K67.3",
+      "kind": "category",
+      "label": "Tuberkulöse PeritonitisA18.3",
+      "rubrics": {
+        "preferred": "Tuberkulöse PeritonitisA18.3"
+      },
+      "children": []
+    },
+    {
+      "code": "K67.8",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Peritoneums bei anderenorts klassifizierten Infektionskrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Peritoneums bei anderenorts klassifizierten Infektionskrankheiten"
+      },
+      "children": []
+    }
+  ]
+}

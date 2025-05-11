@@ -1,0 +1,10 @@
+{
+  "code": "E21.1",
+  "kind": "category",
+  "label": "Sekundärer Hyperparathyreoidismus, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sekundärer Hyperparathyreoidismus, anderenorts nicht klassifiziert",
+    "exclusion": "Sekundärer Hyperparathyreoidismus renalen UrsprungsN25.8"
+  },
+  "children": []
+}

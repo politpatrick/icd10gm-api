@@ -1,0 +1,10 @@
+{
+  "code": "E03.2",
+  "kind": "category",
+  "label": "Hypothyreose durch Arzneimittel oder andere exogene Substanzen",
+  "rubrics": {
+    "preferred": "Hypothyreose durch Arzneimittel oder andere exogene Substanzen",
+    "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "S35.2",
+  "kind": "category",
+  "label": "Verletzung des Truncus coeliacus oder der A. mesenterica",
+  "rubrics": {
+    "preferred": "Verletzung des Truncus coeliacus oder der A. mesenterica",
+    "inclusion": "Arteria:\n\t\t\t\tmesenterica (inferior) (superior)",
+    "exclusion": "Abriss des MilzhilusS36.04"
+  },
+  "children": []
+}

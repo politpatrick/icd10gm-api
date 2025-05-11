@@ -1,0 +1,10 @@
+{
+  "code": "A16.4",
+  "kind": "category",
+  "label": "Tuberkulose des Larynx, der Trachea und der Bronchien ohne Angabe einer bakteriologischen, molekularbiologischen oder histologischen Sicherung",
+  "rubrics": {
+    "preferred": "Tuberkulose des Larynx, der Trachea und der Bronchien ohne Angabe einer bakteriologischen, molekularbiologischen oder histologischen Sicherung",
+    "inclusion": "Tuberkulose:\n\t\t\t\tTrachea\n\t\t\t\to.n.A. (ohne Angabe einer bakteriologischen, molekularbiologischen oder histologischen Sicherung)"
+  },
+  "children": []
+}

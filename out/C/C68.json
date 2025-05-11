@@ -1,0 +1,55 @@
+{
+  "code": "C68",
+  "kind": "category",
+  "label": "Bösartige Neubildung sonstiger und nicht näher bezeichneter Harnorgane",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung sonstiger und nicht näher bezeichneter Harnorgane",
+    "exclusion": "Urogenitaltrakt o.n.A.:\n\t\t\t\tweiblichC57.9"
+  },
+  "children": [
+    {
+      "code": "C68.0",
+      "kind": "category",
+      "label": "Urethra",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Urethra",
+        "preferred": "Urethra",
+        "exclusion": "Ostium urethrae internumC67.5"
+      },
+      "children": []
+    },
+    {
+      "code": "C68.1",
+      "kind": "category",
+      "label": "Paraurethrale Drüse",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Paraurethrale Drüse",
+        "preferred": "Paraurethrale Drüse"
+      },
+      "children": []
+    },
+    {
+      "code": "C68.8",
+      "kind": "category",
+      "label": "Harnorgane, mehrere Teilbereiche überlappend",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Harnorgane, mehrere Teilbereiche überlappend",
+        "preferred": "Harnorgane, mehrere Teilbereiche überlappend",
+        "text": "[Siehe Hinweis 5 am Anfang dieses Kapitels]",
+        "inclusion": "Bösartige Neubildungen der Harnorgane, deren Ursprungsort nicht unter den Kategorien C64-C68.1 klassifiziert werden kann"
+      },
+      "children": []
+    },
+    {
+      "code": "C68.9",
+      "kind": "category",
+      "label": "Harnorgan, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Harnorgan, nicht näher bezeichnet",
+        "preferred": "Harnorgan, nicht näher bezeichnet",
+        "inclusion": "Harnsystem o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

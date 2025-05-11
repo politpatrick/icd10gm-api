@@ -1,0 +1,10 @@
+{
+  "code": "G40.4",
+  "kind": "category",
+  "label": "Sonstige generalisierte Epilepsie und epileptische Syndrome",
+  "rubrics": {
+    "preferred": "Sonstige generalisierte Epilepsie und epileptische Syndrome",
+    "inclusion": "West-Syndrom"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "N33.8",
+  "kind": "category",
+  "label": "Krankheiten der Harnblase bei sonstigen anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Krankheiten der Harnblase bei sonstigen anderenorts klassifizierten Krankheiten",
+    "inclusion": "Krankheit der Harnblase bei Schistosomiasis [Bilharziose]B65.-"
+  },
+  "children": []
+}

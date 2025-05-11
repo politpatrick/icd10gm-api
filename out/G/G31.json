@@ -1,0 +1,91 @@
+{
+  "code": "G31",
+  "kind": "category",
+  "label": "Sonstige degenerative Krankheiten des Nervensystems, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige degenerative Krankheiten des Nervensystems, anderenorts nicht klassifiziert",
+    "exclusion": "Reye-SyndromG93.7"
+  },
+  "children": [
+    {
+      "code": "G31.0",
+      "kind": "category",
+      "label": "Umschriebene Hirnatrophie",
+      "rubrics": {
+        "preferred": "Umschriebene Hirnatrophie",
+        "inclusion": "Progressive isolierte Aphasie"
+      },
+      "children": []
+    },
+    {
+      "code": "G31.1",
+      "kind": "category",
+      "label": "Senile Degeneration des Gehirns, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Senile Degeneration des Gehirns, anderenorts nicht klassifiziert",
+        "exclusion": "Senilität o.n.A.R54"
+      },
+      "children": []
+    },
+    {
+      "code": "G31.2",
+      "kind": "category",
+      "label": "Degeneration des Nervensystems durch Alkohol",
+      "rubrics": {
+        "preferred": "Degeneration des Nervensystems durch Alkohol",
+        "inclusion": "Dysfunktion des autonomen Nervensystems durch Alkohol"
+      },
+      "children": []
+    },
+    {
+      "code": "G31.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete degenerative Krankheiten des Nervensystems",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete degenerative Krankheiten des Nervensystems"
+      },
+      "children": [
+        {
+          "code": "G31.81",
+          "kind": "category",
+          "label": "Mitochondriale Zytopathie",
+          "rubrics": {
+            "preferred": "Mitochondriale Zytopathie",
+            "inclusion": "Mitochondriale Myoenzephalopathie",
+            "coding-hint": "Benutze zusätzliche Schlüsselnummern für die Manifestation:\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tGeneralisierte nicht-konvulsive Epilepsie (G40.3)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tSonstige Myopathien (G72.8)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tOphthalmoplegia progressiva externa (H49.4)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tSchlaganfall (I60-I64)"
+          },
+          "children": []
+        },
+        {
+          "code": "G31.82",
+          "kind": "category",
+          "label": "Lewy-Körper-Krankheit",
+          "rubrics": {
+            "preferred": "Lewy-Körper-Krankheit",
+            "inclusion": "Lewy-Körper-DemenzF02.8"
+          },
+          "children": []
+        },
+        {
+          "code": "G31.88",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete degenerative Krankheiten des Nervensystems",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete degenerative Krankheiten des Nervensystems",
+            "inclusion": "Subakute nekrotisierende Enzephalomyelopathie [Leigh-Syndrom]"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "G31.9",
+      "kind": "category",
+      "label": "Degenerative Krankheit des Nervensystems, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Degenerative Krankheit des Nervensystems, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

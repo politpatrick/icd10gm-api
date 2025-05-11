@@ -1,0 +1,10 @@
+{
+  "code": "P00.6",
+  "kind": "category",
+  "label": "Schädigung des Fetus und Neugeborenen durch chirurgischen Eingriff bei der Mutter",
+  "rubrics": {
+    "preferred": "Schädigung des Fetus und Neugeborenen durch chirurgischen Eingriff bei der Mutter",
+    "exclusion": "Vorangegangener chirurgischer Eingriff am Uterus oder an den BeckenorganenP03.8"
+  },
+  "children": []
+}

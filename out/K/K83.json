@@ -1,0 +1,128 @@
+{
+  "code": "K83",
+  "kind": "category",
+  "label": "Sonstige Krankheiten der Gallenwege",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten der Gallenwege",
+    "exclusion": "Postcholezystektomie-SyndromK91.5"
+  },
+  "children": [
+    {
+      "code": "K83.0",
+      "kind": "category",
+      "label": "Cholangitis",
+      "rubrics": {
+        "preferred": "Cholangitis",
+        "exclusion": "Chronische nichteitrige destruktive CholangitisK74.3"
+      },
+      "children": [
+        {
+          "code": "K83.00",
+          "kind": "category",
+          "label": "Primär sklerosierende Cholangitis",
+          "rubrics": {
+            "preferred": "Primär sklerosierende Cholangitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K83.01",
+          "kind": "category",
+          "label": "Sekundär sklerosierende Cholangitis",
+          "rubrics": {
+            "preferred": "Sekundär sklerosierende Cholangitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K83.08",
+          "kind": "category",
+          "label": "Sonstige Cholangitis",
+          "rubrics": {
+            "preferred": "Sonstige Cholangitis",
+            "inclusion": "Cholangitis:\n\t\t\t\tstenosierend"
+          },
+          "children": []
+        },
+        {
+          "code": "K83.09",
+          "kind": "category",
+          "label": "Cholangitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Cholangitis, nicht näher bezeichnet",
+            "inclusion": "Cholangitis o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K83.1",
+      "kind": "category",
+      "label": "Verschluss des Gallenganges",
+      "rubrics": {
+        "preferred": "Verschluss des Gallenganges",
+        "inclusion": "Striktur\n\t\t\t\tGallengang ohne Gallenstein",
+        "exclusion": "Mit CholelithiasisK80.-"
+      },
+      "children": []
+    },
+    {
+      "code": "K83.2",
+      "kind": "category",
+      "label": "Perforation des Gallenganges",
+      "rubrics": {
+        "preferred": "Perforation des Gallenganges",
+        "inclusion": "Ruptur des Gallenganges"
+      },
+      "children": []
+    },
+    {
+      "code": "K83.3",
+      "kind": "category",
+      "label": "Fistel des Gallenganges",
+      "rubrics": {
+        "preferred": "Fistel des Gallenganges",
+        "inclusion": "Choledochoduodenalfistel"
+      },
+      "children": []
+    },
+    {
+      "code": "K83.4",
+      "kind": "category",
+      "label": "Spasmus des Sphinkter Oddi",
+      "rubrics": {
+        "preferred": "Spasmus des Sphinkter Oddi"
+      },
+      "children": []
+    },
+    {
+      "code": "K83.5",
+      "kind": "category",
+      "label": "Biliäre Zyste",
+      "rubrics": {
+        "preferred": "Biliäre Zyste"
+      },
+      "children": []
+    },
+    {
+      "code": "K83.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Krankheiten der Gallenwege",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Krankheiten der Gallenwege",
+        "inclusion": "Ulkus\n\t\t\t\tGallengang"
+      },
+      "children": []
+    },
+    {
+      "code": "K83.9",
+      "kind": "category",
+      "label": "Krankheit der Gallenwege, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit der Gallenwege, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

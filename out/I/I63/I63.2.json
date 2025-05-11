@@ -1,0 +1,10 @@
+{
+  "code": "I63.2",
+  "kind": "category",
+  "label": "Hirninfarkt durch nicht näher bezeichneten Verschluss oder Stenose präzerebraler Arterien",
+  "rubrics": {
+    "preferred": "Hirninfarkt durch nicht näher bezeichneten Verschluss oder Stenose präzerebraler Arterien",
+    "inclusion": "A. basilaris, A. carotis und A. vertebralis"
+  },
+  "children": []
+}

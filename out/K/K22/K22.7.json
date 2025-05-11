@@ -1,0 +1,11 @@
+{
+  "code": "K22.7",
+  "kind": "category",
+  "label": "Barrett-Ösophagus",
+  "rubrics": {
+    "preferred": "Barrett-Ösophagus",
+    "inclusion": "Barrett:\n\t\t\t\tSyndrom",
+    "exclusion": "Barrett-UlkusK22.1"
+  },
+  "children": []
+}

@@ -1,0 +1,123 @@
+{
+  "code": "D59",
+  "kind": "category",
+  "label": "Erworbene hämolytische Anämien",
+  "rubrics": {
+    "preferred": "Erworbene hämolytische Anämien"
+  },
+  "children": [
+    {
+      "code": "D59.0",
+      "kind": "category",
+      "label": "Arzneimittelinduzierte autoimmunhämolytische Anämie",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierte autoimmunhämolytische Anämie",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "D59.1",
+      "kind": "category",
+      "label": "Sonstige autoimmunhämolytische Anämien",
+      "rubrics": {
+        "preferred": "Sonstige autoimmunhämolytische Anämien",
+        "exclusion": "Paroxysmale KältehämoglobinurieD59.6"
+      },
+      "children": [
+        {
+          "code": "D59.10",
+          "kind": "category",
+          "label": "Kälteagglutininkrankheit [CAD]",
+          "rubrics": {
+            "preferred": "Kälteagglutininkrankheit [CAD]",
+            "inclusion": "Primäre autoimmunhämolytische Krankheit vom Kälteautoantikörper-Typ (symptomatisch)"
+          },
+          "children": []
+        },
+        {
+          "code": "D59.18",
+          "kind": "category",
+          "label": "Sonstige autoimmunhämolytische Anämien",
+          "rubrics": {
+            "preferred": "Sonstige autoimmunhämolytische Anämien",
+            "inclusion": "Kälteagglutinin-Syndrom [CAS]"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D59.2",
+      "kind": "category",
+      "label": "Arzneimittelinduzierte nicht autoimmunhämolytische Anämie",
+      "rubrics": {
+        "preferred": "Arzneimittelinduzierte nicht autoimmunhämolytische Anämie",
+        "inclusion": "Arzneimittelinduzierte Enzymmangelanämie",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "D59.3",
+      "kind": "category",
+      "label": "Hämolytisch-urämisches Syndrom",
+      "rubrics": {
+        "preferred": "Hämolytisch-urämisches Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "D59.4",
+      "kind": "category",
+      "label": "Sonstige nicht autoimmunhämolytische Anämien",
+      "rubrics": {
+        "preferred": "Sonstige nicht autoimmunhämolytische Anämien",
+        "inclusion": "Hämolytische Anämie:\n\t\t\t\ttoxisch",
+        "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "D59.5",
+      "kind": "category",
+      "label": "Paroxysmale nächtliche Hämoglobinurie [Marchiafava-Micheli]",
+      "rubrics": {
+        "preferred": "Paroxysmale nächtliche Hämoglobinurie [Marchiafava-Micheli]",
+        "exclusion": "Hämoglobinurie o.n.A.R82.3"
+      },
+      "children": []
+    },
+    {
+      "code": "D59.6",
+      "kind": "category",
+      "label": "Hämoglobinurie durch Hämolyse infolge sonstiger äußerer Ursachen",
+      "rubrics": {
+        "preferred": "Hämoglobinurie durch Hämolyse infolge sonstiger äußerer Ursachen",
+        "inclusion": "Hämoglobinurie:\n\t\t\t\tparoxysmale Kälte-",
+        "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "Hämoglobinurie o.n.A.R82.3"
+      },
+      "children": []
+    },
+    {
+      "code": "D59.8",
+      "kind": "category",
+      "label": "Sonstige erworbene hämolytische Anämien",
+      "rubrics": {
+        "preferred": "Sonstige erworbene hämolytische Anämien"
+      },
+      "children": []
+    },
+    {
+      "code": "D59.9",
+      "kind": "category",
+      "label": "Erworbene hämolytische Anämie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Erworbene hämolytische Anämie, nicht näher bezeichnet",
+        "inclusion": "Idiopathische hämolytische Anämie, chronisch"
+      },
+      "children": []
+    }
+  ]
+}

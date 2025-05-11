@@ -1,0 +1,10 @@
+{
+  "code": "T67.4",
+  "kind": "category",
+  "label": "Hitzeerschöpfung durch Salzverlust",
+  "rubrics": {
+    "preferred": "Hitzeerschöpfung durch Salzverlust",
+    "inclusion": "Hitzeerschöpfung durch Salz- (und-Wasser-) Verlust"
+  },
+  "children": []
+}

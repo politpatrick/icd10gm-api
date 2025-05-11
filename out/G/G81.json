@@ -1,0 +1,39 @@
+{
+  "code": "G81",
+  "kind": "category",
+  "label": "Hemiparese und Hemiplegie",
+  "rubrics": {
+    "preferred": "Hemiparese und Hemiplegie",
+    "note": "Diese Kategorie ist nur dann zur primären Verschlüsselung zu benutzen,\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\twenn eine Hemiparese oder Hemiplegie nicht näher bezeichnet ist oder\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\twenn sie alt ist oder länger besteht und die Ursache nicht näher bezeichnet ist.\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tDiese Kategorie dient auch zur multiplen Verschlüsselung, um diese durch eine beliebige Ursache hervorgerufenen Arten der Hemiparese oder Hemiplegie zu kennzeichnen.",
+    "exclusion": "Angeborene und infantile ZerebralpareseG80.-"
+  },
+  "children": [
+    {
+      "code": "G81.0",
+      "kind": "category",
+      "label": "Schlaffe Hemiparese und Hemiplegie",
+      "rubrics": {
+        "preferred": "Schlaffe Hemiparese und Hemiplegie"
+      },
+      "children": []
+    },
+    {
+      "code": "G81.1",
+      "kind": "category",
+      "label": "Spastische Hemiparese und Hemiplegie",
+      "rubrics": {
+        "preferred": "Spastische Hemiparese und Hemiplegie"
+      },
+      "children": []
+    },
+    {
+      "code": "G81.9",
+      "kind": "category",
+      "label": "Hemiparese und Hemiplegie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hemiparese und Hemiplegie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

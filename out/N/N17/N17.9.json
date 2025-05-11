@@ -1,0 +1,10 @@
+{
+  "code": "N17.9",
+  "kind": "category",
+  "label": "Akutes Nierenversagen, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Akutes Nierenversagen, nicht näher bezeichnet",
+    "inclusion": "Akutes Nierenversagen ohne Vorliegen eines histologischen Befundes"
+  },
+  "children": []
+}

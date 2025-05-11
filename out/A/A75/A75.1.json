@@ -1,0 +1,10 @@
+{
+  "code": "A75.1",
+  "kind": "category",
+  "label": "Fleckfieber-Spätrezidiv [Brill-Krankheit]",
+  "rubrics": {
+    "preferred": "Fleckfieber-Spätrezidiv [Brill-Krankheit]",
+    "inclusion": "Brill-Zinsser-Krankheit"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "D15.0",
+  "kind": "category",
+  "label": "Thymus",
+  "rubrics": {
+    "preferredLong": "Gutartige Neubildung: Thymus",
+    "preferred": "Thymus"
+  },
+  "children": []
+}

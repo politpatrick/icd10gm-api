@@ -1,0 +1,10 @@
+{
+  "code": "M43.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Deformitäten der Wirbelsäule und des Rückens",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Deformitäten der Wirbelsäule und des Rückens",
+    "exclusion": "SkolioseM41.-"
+  },
+  "children": []
+}

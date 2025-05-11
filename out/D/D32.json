@@ -1,0 +1,41 @@
+{
+  "code": "D32",
+  "kind": "category",
+  "label": "Gutartige Neubildung der Meningen",
+  "rubrics": {
+    "preferred": "Gutartige Neubildung der Meningen"
+  },
+  "children": [
+    {
+      "code": "D32.0",
+      "kind": "category",
+      "label": "Hirnhäute",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Hirnhäute",
+        "preferred": "Hirnhäute"
+      },
+      "children": []
+    },
+    {
+      "code": "D32.1",
+      "kind": "category",
+      "label": "Rückenmarkhäute",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Rückenmarkhäute",
+        "preferred": "Rückenmarkhäute"
+      },
+      "children": []
+    },
+    {
+      "code": "D32.9",
+      "kind": "category",
+      "label": "Meningen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Gutartige Neubildung: Meningen, nicht näher bezeichnet",
+        "preferred": "Meningen, nicht näher bezeichnet",
+        "inclusion": "Meningeom o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

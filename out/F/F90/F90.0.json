@@ -1,0 +1,11 @@
+{
+  "code": "F90.0",
+  "kind": "category",
+  "label": "Einfache Aktivitäts- und Aufmerksamkeitsstörung",
+  "rubrics": {
+    "preferred": "Einfache Aktivitäts- und Aufmerksamkeitsstörung",
+    "inclusion": "Aufmerksamkeitsdefizit bei:\n\t\t\t\tStörung mit Hyperaktivität",
+    "exclusion": "Hyperkinetische Störung des SozialverhaltensF90.1"
+  },
+  "children": []
+}

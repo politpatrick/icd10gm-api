@@ -1,0 +1,30 @@
+{
+  "code": "G71.0",
+  "kind": "category",
+  "label": "Muskeldystrophie",
+  "rubrics": {
+    "preferred": "Muskeldystrophie",
+    "exclusion": "Angeborene Muskeldystrophie:\n\t\t\t\to.n.A.G71.2"
+  },
+  "children": [
+    {
+      "code": "G71.00",
+      "kind": "category",
+      "label": "Muskeldystrophie, maligne [Typ Duchenne]",
+      "rubrics": {
+        "preferred": "Muskeldystrophie, maligne [Typ Duchenne]"
+      },
+      "children": []
+    },
+    {
+      "code": "G71.08",
+      "kind": "category",
+      "label": "Sonstige Muskeldystrophien",
+      "rubrics": {
+        "preferred": "Sonstige Muskeldystrophien",
+        "inclusion": "Muskeldystrophie:\n\t\t\t\tskapuloperonäal"
+      },
+      "children": []
+    }
+  ]
+}

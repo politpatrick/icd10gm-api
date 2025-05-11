@@ -1,0 +1,10 @@
+{
+  "code": "R01.1",
+  "kind": "category",
+  "label": "Herzgeräusch, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Herzgeräusch, nicht näher bezeichnet",
+    "inclusion": "Herzgeräusch (systolisch) o.n.A."
+  },
+  "children": []
+}

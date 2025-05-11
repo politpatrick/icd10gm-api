@@ -1,0 +1,10 @@
+{
+  "code": "T75.2",
+  "kind": "category",
+  "label": "Schäden durch Vibration",
+  "rubrics": {
+    "preferred": "Schäden durch Vibration",
+    "inclusion": "Traumatisches Vasospasmus-Syndrom"
+  },
+  "children": []
+}

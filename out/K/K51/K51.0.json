@@ -1,0 +1,11 @@
+{
+  "code": "K51.0",
+  "kind": "category",
+  "label": "Ulzeröse (chronische) Pankolitis",
+  "rubrics": {
+    "preferred": "Ulzeröse (chronische) Pankolitis",
+    "inclusion": "Subtotale ulzeröse (chronische) Kolitis",
+    "exclusion": "Colitis indeterminata K52.3-"
+  },
+  "children": []
+}

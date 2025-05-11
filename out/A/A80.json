@@ -1,0 +1,64 @@
+{
+  "code": "A80",
+  "kind": "category",
+  "label": "Akute Poliomyelitis [Spinale Kinderlähmung]",
+  "rubrics": {
+    "preferred": "Akute Poliomyelitis [Spinale Kinderlähmung]"
+  },
+  "children": [
+    {
+      "code": "A80.0",
+      "kind": "category",
+      "label": "Akute paralytische Poliomyelitis durch Impfvirus",
+      "rubrics": {
+        "preferred": "Akute paralytische Poliomyelitis durch Impfvirus"
+      },
+      "children": []
+    },
+    {
+      "code": "A80.1",
+      "kind": "category",
+      "label": "Akute paralytische Poliomyelitis durch importiertes Wildvirus",
+      "rubrics": {
+        "preferred": "Akute paralytische Poliomyelitis durch importiertes Wildvirus"
+      },
+      "children": []
+    },
+    {
+      "code": "A80.2",
+      "kind": "category",
+      "label": "Akute paralytische Poliomyelitis durch einheimisches Wildvirus",
+      "rubrics": {
+        "preferred": "Akute paralytische Poliomyelitis durch einheimisches Wildvirus"
+      },
+      "children": []
+    },
+    {
+      "code": "A80.3",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete akute paralytische Poliomyelitis",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete akute paralytische Poliomyelitis"
+      },
+      "children": []
+    },
+    {
+      "code": "A80.4",
+      "kind": "category",
+      "label": "Akute nichtparalytische Poliomyelitis",
+      "rubrics": {
+        "preferred": "Akute nichtparalytische Poliomyelitis"
+      },
+      "children": []
+    },
+    {
+      "code": "A80.9",
+      "kind": "category",
+      "label": "Akute Poliomyelitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Akute Poliomyelitis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

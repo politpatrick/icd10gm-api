@@ -1,0 +1,38 @@
+{
+  "code": "R61",
+  "kind": "category",
+  "label": "Hyperhidrose",
+  "rubrics": {
+    "preferred": "Hyperhidrose"
+  },
+  "children": [
+    {
+      "code": "R61.0",
+      "kind": "category",
+      "label": "Hyperhidrose, umschrieben",
+      "rubrics": {
+        "preferred": "Hyperhidrose, umschrieben"
+      },
+      "children": []
+    },
+    {
+      "code": "R61.1",
+      "kind": "category",
+      "label": "Hyperhidrose, generalisiert",
+      "rubrics": {
+        "preferred": "Hyperhidrose, generalisiert"
+      },
+      "children": []
+    },
+    {
+      "code": "R61.9",
+      "kind": "category",
+      "label": "Hyperhidrose, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hyperhidrose, nicht näher bezeichnet",
+        "inclusion": "Übermäßiges Schwitzen"
+      },
+      "children": []
+    }
+  ]
+}

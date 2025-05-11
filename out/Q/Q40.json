@@ -1,0 +1,69 @@
+{
+  "code": "Q40",
+  "kind": "category",
+  "label": "Sonstige angeborene Fehlbildungen des oberen Verdauungstraktes",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungen des oberen Verdauungstraktes"
+  },
+  "children": [
+    {
+      "code": "Q40.0",
+      "kind": "category",
+      "label": "Angeborene hypertrophische Pylorusstenose",
+      "rubrics": {
+        "preferred": "Angeborene hypertrophische Pylorusstenose",
+        "inclusion": "Angeboren oder infantil:\n\t\t\t\tStriktur\n\t\t\t\tPylorus"
+      },
+      "children": []
+    },
+    {
+      "code": "Q40.1",
+      "kind": "category",
+      "label": "Angeborene Hiatushernie",
+      "rubrics": {
+        "preferred": "Angeborene Hiatushernie",
+        "inclusion": "Verlagerung der Kardia durch den Hiatus oesophageus",
+        "exclusion": "Angeborene ZwerchfellhernieQ79.0"
+      },
+      "children": []
+    },
+    {
+      "code": "Q40.2",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete angeborene Fehlbildungen des Magens",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen des Magens",
+        "inclusion": "Mikrogastrie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q40.3",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung des Magens, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung des Magens, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "Q40.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete angeborene Fehlbildungen des oberen Verdauungstraktes",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen des oberen Verdauungstraktes"
+      },
+      "children": []
+    },
+    {
+      "code": "Q40.9",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung des oberen Verdauungstraktes, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung des oberen Verdauungstraktes, nicht näher bezeichnet",
+        "inclusion": "Angeboren:\n\t\t\t\tDeformität\n\t\t\t\toberer Verdauungstrakt o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "code": "Q60-Q64",
+  "kind": "block",
+  "label": "Angeborene Fehlbildungen des Harnsystems",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildungen des Harnsystems"
+  },
+  "children": [
+    {
+      "code": "Q60",
+      "kind": "category",
+      "label": "Nierenagenesie und sonstige Reduktionsdefekte der Niere",
+      "rubrics": {
+        "preferred": "Nierenagenesie und sonstige Reduktionsdefekte der Niere",
+        "inclusion": "Nierenatrophie:\n\t\t\t\tinfantil"
+      },
+      "children": [
+        {
+          "code": "Q60.0",
+          "kind": "category",
+          "label": "Nierenagenesie, einseitig",
+          "rubrics": {
+            "preferred": "Nierenagenesie, einseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Q60.1",
+          "kind": "category",
+          "label": "Nierenagenesie, beidseitig",
+          "rubrics": {
+            "preferred": "Nierenagenesie, beidseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Q60.2",
+          "kind": "category",
+          "label": "Nierenagenesie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Nierenagenesie, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "Q60.3",
+          "kind": "category",
+          "label": "Nierenhypoplasie, einseitig",
+          "rubrics": {
+            "preferred": "Nierenhypoplasie, einseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Q60.4",
+          "kind": "category",
+          "label": "Nierenhypoplasie, beidseitig",
+          "rubrics": {
+            "preferred": "Nierenhypoplasie, beidseitig"
+          },
+          "children": []
+        },
+        {
+          "code": "Q60.5",
+          "kind": "category",
+          "label": "Nierenhypoplasie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Nierenhypoplasie, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "Q60.6",
+          "kind": "category",
+          "label": "Potter-Syndrom",
+          "rubrics": {
+            "preferred": "Potter-Syndrom"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q61",
+      "kind": "category",
+      "label": "Zystische Nierenkrankheit",
+      "rubrics": {
+        "preferred": "Zystische Nierenkrankheit",
+        "exclusion": "Potter-SyndromQ60.6"
+      },
+      "children": [
+        {
+          "code": "Q61.0",
+          "kind": "category",
+          "label": "Angeborene solitäre Nierenzyste",
+          "rubrics": {
+            "preferred": "Angeborene solitäre Nierenzyste",
+            "inclusion": "Angeborene Zyste der Niere (solitär)"
+          },
+          "children": []
+        },
+        {
+          "code": "Q61.1",
+          "kind": "category",
+          "label": "Polyzystische Niere, autosomal-rezessiv",
+          "rubrics": {
+            "preferred": "Polyzystische Niere, autosomal-rezessiv",
+            "inclusion": "Polyzystische Niere, infantiler Typ"
+          },
+          "children": []
+        },
+        {
+          "code": "Q61.2",
+          "kind": "category",
+          "label": "Polyzystische Niere, autosomal-dominant",
+          "rubrics": {
+            "preferred": "Polyzystische Niere, autosomal-dominant",
+            "inclusion": "Polyzystische Niere, Erwachsenentyp"
+          },
+          "children": []
+        },
+        {
+          "code": "Q61.3",
+          "kind": "category",
+          "label": "Polyzystische Niere, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Polyzystische Niere, nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "Q61.4",
+          "kind": "category",
+          "label": "Nierendysplasie",
+          "rubrics": {
+            "preferred": "Nierendysplasie",
+            "inclusion": "Multizystisch:\n\t\t\t\tRenale Dysplasie",
+            "exclusion": "Polyzystische NierenkrankheitQ61.1-Q61.3"
+          },
+          "children": []
+        },
+        {
+          "code": "Q61.5",
+          "kind": "category",
+          "label": "Medulläre Zystenniere",
+          "rubrics": {
+            "preferred": "Medulläre Zystenniere",
+            "inclusion": "Schwammniere o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "Q61.8",
+          "kind": "category",
+          "label": "Sonstige zystische Nierenkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige zystische Nierenkrankheiten",
+            "inclusion": "Fibrozystisch:\n\t\t\t\tNierendegeneration oder -krankheit"
+          },
+          "children": []
+        },
+        {
+          "code": "Q61.9",
+          "kind": "category",
+          "label": "Zystische Nierenkrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Zystische Nierenkrankheit, nicht näher bezeichnet",
+            "inclusion": "Meckel-Gruber-Syndrom"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q62",
+      "kind": "category",
+      "label": "Angeborene obstruktive Defekte des Nierenbeckens und angeborene Fehlbildungen des Ureters",
+      "rubrics": {
+        "preferred": "Angeborene obstruktive Defekte des Nierenbeckens und angeborene Fehlbildungen des Ureters"
+      },
+      "children": [
+        {
+          "code": "Q62.0",
+          "kind": "category",
+          "label": "Angeborene Hydronephrose",
+          "rubrics": {
+            "preferred": "Angeborene Hydronephrose"
+          },
+          "children": []
+        },
+        {
+          "code": "Q62.1",
+          "kind": "category",
+          "label": "Atresie und (angeborene) Stenose des Ureters",
+          "rubrics": {
+            "preferred": "Atresie und (angeborene) Stenose des Ureters",
+            "inclusion": "Undurchgängigkeit des Ureters"
+          },
+          "children": []
+        },
+        {
+          "code": "Q62.2",
+          "kind": "category",
+          "label": "Angeborener Megaureter",
+          "rubrics": {
+            "preferred": "Angeborener Megaureter",
+            "inclusion": "Angeborene Dilatation des Ureters"
+          },
+          "children": []
+        },
+        {
+          "code": "Q62.3",
+          "kind": "category",
+          "label": "Sonstige (angeborene) obstruktive Defekte des Nierenbeckens und des Ureters",
+          "rubrics": {
+            "preferred": "Sonstige (angeborene) obstruktive Defekte des Nierenbeckens und des Ureters",
+            "inclusion": "Angeborene Ureterozele"
+          },
+          "children": []
+        },
+        {
+          "code": "Q62.4",
+          "kind": "category",
+          "label": "Agenesie des Ureters",
+          "rubrics": {
+            "preferred": "Agenesie des Ureters",
+            "inclusion": "Fehlen des Ureters"
+          },
+          "children": []
+        },
+        {
+          "code": "Q62.5",
+          "kind": "category",
+          "label": "Duplikatur des Ureters",
+          "rubrics": {
+            "preferred": "Duplikatur des Ureters",
+            "inclusion": "Ureter:\n\t\t\t\tdoppelt"
+          },
+          "children": []
+        },
+        {
+          "code": "Q62.6",
+          "kind": "category",
+          "label": "Lageanomalie des Ureters",
+          "rubrics": {
+            "preferred": "Lageanomalie des Ureters",
+            "inclusion": "Verlagerung\n\t\t\t\tUreter oder Uretermündung"
+          },
+          "children": []
+        },
+        {
+          "code": "Q62.7",
+          "kind": "category",
+          "label": "Angeborener vesiko-uretero-renaler Reflux",
+          "rubrics": {
+            "preferred": "Angeborener vesiko-uretero-renaler Reflux"
+          },
+          "children": []
+        },
+        {
+          "code": "Q62.8",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen des Ureters",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen des Ureters",
+            "inclusion": "Anomalie des Ureters o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q63",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen der Niere",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen der Niere",
+        "exclusion": "Angeborenes nephrotisches SyndromN04.-"
+      },
+      "children": [
+        {
+          "code": "Q63.0",
+          "kind": "category",
+          "label": "Akzessorische Niere",
+          "rubrics": {
+            "preferred": "Akzessorische Niere"
+          },
+          "children": []
+        },
+        {
+          "code": "Q63.1",
+          "kind": "category",
+          "label": "Gelappte Niere, verschmolzene Niere und Hufeisenniere",
+          "rubrics": {
+            "preferred": "Gelappte Niere, verschmolzene Niere und Hufeisenniere"
+          },
+          "children": []
+        },
+        {
+          "code": "Q63.2",
+          "kind": "category",
+          "label": "Ektope Niere",
+          "rubrics": {
+            "preferred": "Ektope Niere",
+            "inclusion": "Malrotation der Niere"
+          },
+          "children": []
+        },
+        {
+          "code": "Q63.3",
+          "kind": "category",
+          "label": "Hyperplastische Niere und Riesenniere",
+          "rubrics": {
+            "preferred": "Hyperplastische Niere und Riesenniere"
+          },
+          "children": []
+        },
+        {
+          "code": "Q63.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete angeborene Fehlbildungen der Niere",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen der Niere",
+            "inclusion": "Angeborene Nierensteine"
+          },
+          "children": []
+        },
+        {
+          "code": "Q63.9",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung der Niere, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung der Niere, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Q64",
+      "kind": "category",
+      "label": "Sonstige angeborene Fehlbildungen des Harnsystems",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Fehlbildungen des Harnsystems"
+      },
+      "children": [
+        {
+          "code": "Q64.0",
+          "kind": "category",
+          "label": "Epispadie",
+          "rubrics": {
+            "preferred": "Epispadie",
+            "exclusion": "HypospadieQ54.-"
+          },
+          "children": []
+        },
+        {
+          "code": "Q64.1",
+          "kind": "category",
+          "label": "Ekstrophie der Harnblase",
+          "rubrics": {
+            "preferred": "Ekstrophie der Harnblase",
+            "inclusion": "Extroversion der Harnblase"
+          },
+          "children": []
+        },
+        {
+          "code": "Q64.2",
+          "kind": "category",
+          "label": "Angeborene Urethralklappen im hinteren Teil der Harnröhre",
+          "rubrics": {
+            "preferred": "Angeborene Urethralklappen im hinteren Teil der Harnröhre"
+          },
+          "children": []
+        },
+        {
+          "code": "Q64.3",
+          "kind": "category",
+          "label": "Sonstige Atresie und (angeborene) Stenose der Urethra und des Harnblasenhalses",
+          "rubrics": {
+            "preferred": "Sonstige Atresie und (angeborene) Stenose der Urethra und des Harnblasenhalses",
+            "inclusion": "Undurchgängigkeit der Urethra"
+          },
+          "children": []
+        },
+        {
+          "code": "Q64.4",
+          "kind": "category",
+          "label": "Fehlbildung des Urachus",
+          "rubrics": {
+            "preferred": "Fehlbildung des Urachus",
+            "inclusion": "Urachuszyste"
+          },
+          "children": []
+        },
+        {
+          "code": "Q64.5",
+          "kind": "category",
+          "label": "Angeborenes Fehlen der Harnblase und der Urethra",
+          "rubrics": {
+            "preferred": "Angeborenes Fehlen der Harnblase und der Urethra"
+          },
+          "children": []
+        },
+        {
+          "code": "Q64.6",
+          "kind": "category",
+          "label": "Angeborenes Divertikel der Harnblase",
+          "rubrics": {
+            "preferred": "Angeborenes Divertikel der Harnblase"
+          },
+          "children": []
+        },
+        {
+          "code": "Q64.7",
+          "kind": "category",
+          "label": "Sonstige angeborene Fehlbildungen der Harnblase und der Urethra",
+          "rubrics": {
+            "preferred": "Sonstige angeborene Fehlbildungen der Harnblase und der Urethra",
+            "inclusion": "Duplikatur:\n\t\t\t\tUrethra"
+          },
+          "children": []
+        },
+        {
+          "code": "Q64.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete angeborene Fehlbildungen des Harnsystems",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen des Harnsystems"
+          },
+          "children": []
+        },
+        {
+          "code": "Q64.9",
+          "kind": "category",
+          "label": "Angeborene Fehlbildung des Harnsystems, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Angeborene Fehlbildung des Harnsystems, nicht näher bezeichnet",
+            "inclusion": "Angeboren:\n\t\t\t\tDeformität\n\t\t\t\tHarnsystem o.n.A."
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

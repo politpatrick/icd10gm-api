@@ -1,0 +1,10 @@
+{
+  "code": "T47.7",
+  "kind": "category",
+  "label": "Emetika",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Emetika",
+    "preferred": "Emetika"
+  },
+  "children": []
+}

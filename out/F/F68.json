@@ -1,0 +1,43 @@
+{
+  "code": "F68",
+  "kind": "category",
+  "label": "Andere Persönlichkeits- und Verhaltensstörungen",
+  "rubrics": {
+    "preferred": "Andere Persönlichkeits- und Verhaltensstörungen"
+  },
+  "children": [
+    {
+      "code": "F68.0",
+      "kind": "category",
+      "label": "Entwicklung körperlicher Symptome aus psychischen Gründen",
+      "rubrics": {
+        "preferred": "Entwicklung körperlicher Symptome aus psychischen Gründen",
+        "definition": "Körperliche Symptome, vereinbar mit und ursprünglich verursacht durch eine belegbare körperliche Störung, Krankheit oder Behinderung werden wegen des psychischen Zustandes der betroffenen Person aggraviert oder halten länger an. Der betroffene Patient ist meist durch die Schmerzen oder die Behinderung beeinträchtigt; sie wird beherrscht von mitunter berechtigten Sorgen über längerdauernde oder zunehmende Behinderung oder Schmerzen.",
+        "inclusion": "Rentenneurose"
+      },
+      "children": []
+    },
+    {
+      "code": "F68.1",
+      "kind": "category",
+      "label": "Artifizielle Störung [absichtliches Erzeugen oder Vortäuschen von körperlichen oder psychischen Symptomen oder Behinderungen]",
+      "rubrics": {
+        "preferred": "Artifizielle Störung [absichtliches Erzeugen oder Vortäuschen von körperlichen oder psychischen Symptomen oder Behinderungen]",
+        "definition": "Der betroffene Patient täuscht Symptome wiederholt ohne einleuchtenden Grund vor und kann sich sogar, um Symptome oder klinische Zeichen hervorzurufen, absichtlich selbst beschädigen. Die Motivation ist unklar, vermutlich besteht das Ziel, die Krankenrolle einzunehmen. Die Störung ist oft mit deutlichen Persönlichkeits- und Beziehungsstörungen kombiniert.",
+        "inclusion": "Münchhausen-Syndrom",
+        "exclusion": "Vortäuschung von Krankheit (mit offensichtlicher Motivation)Z76.8"
+      },
+      "children": []
+    },
+    {
+      "code": "F68.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Persönlichkeits- und Verhaltensstörungen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Persönlichkeits- und Verhaltensstörungen",
+        "inclusion": "Störung zwischenmenschlicher Beziehung o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

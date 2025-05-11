@@ -1,0 +1,91 @@
+{
+  "code": "J86.0",
+  "kind": "category",
+  "label": "Pyothorax mit Fistel",
+  "rubrics": {
+    "preferred": "Pyothorax mit Fistel"
+  },
+  "children": [
+    {
+      "code": "J86.00",
+      "kind": "category",
+      "label": "Pyothorax mit Fistel des Lungenparenchyms",
+      "rubrics": {
+        "preferred": "Pyothorax mit Fistel des Lungenparenchyms",
+        "inclusion": "Pulmopleurale Fistel"
+      },
+      "children": []
+    },
+    {
+      "code": "J86.01",
+      "kind": "category",
+      "label": "Pyothorax mit Fistel des Bronchus und der Trachea",
+      "rubrics": {
+        "preferred": "Pyothorax mit Fistel des Bronchus und der Trachea",
+        "inclusion": "Tracheopleurale Fistel",
+        "exclusion": "Pyothorax mit ösophagotrachealer FistelJ86.03"
+      },
+      "children": []
+    },
+    {
+      "code": "J86.02",
+      "kind": "category",
+      "label": "Pyothorax mit Fistel der Thoraxwand",
+      "rubrics": {
+        "preferred": "Pyothorax mit Fistel der Thoraxwand",
+        "inclusion": "Pleurokutane Fistel"
+      },
+      "children": []
+    },
+    {
+      "code": "J86.03",
+      "kind": "category",
+      "label": "Pyothorax mit ösophagotrachealer Fistel",
+      "rubrics": {
+        "preferred": "Pyothorax mit ösophagotrachealer Fistel",
+        "inclusion": "Ösophagotracheale Fistel",
+        "exclusion": "Tracheoösophageale Fistel nach TracheotomieJ95.0"
+      },
+      "children": []
+    },
+    {
+      "code": "J86.04",
+      "kind": "category",
+      "label": "Pyothorax mit ösophagopleuraler Fistel",
+      "rubrics": {
+        "preferred": "Pyothorax mit ösophagopleuraler Fistel",
+        "inclusion": "Ösophagopleurale Fistel"
+      },
+      "children": []
+    },
+    {
+      "code": "J86.05",
+      "kind": "category",
+      "label": "Pyothorax mit sonstiger ösophagealer Fistel",
+      "rubrics": {
+        "preferred": "Pyothorax mit sonstiger ösophagealer Fistel",
+        "inclusion": "Ösophagopulmonale Fistel",
+        "exclusion": "ÖsophagusfistelK22.80"
+      },
+      "children": []
+    },
+    {
+      "code": "J86.08",
+      "kind": "category",
+      "label": "Pyothorax mit sonstiger Fistel",
+      "rubrics": {
+        "preferred": "Pyothorax mit sonstiger Fistel"
+      },
+      "children": []
+    },
+    {
+      "code": "J86.09",
+      "kind": "category",
+      "label": "Pyothorax mit Fistel, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Pyothorax mit Fistel, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

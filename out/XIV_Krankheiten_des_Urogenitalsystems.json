@@ -1,0 +1,4842 @@
+{
+  "code": "XIV",
+  "kind": "chapter",
+  "label": "Krankheiten des Urogenitalsystems",
+  "rubrics": {
+    "preferred": "Krankheiten des Urogenitalsystems",
+    "exclusion": "Verletzungen, Vergiftungen und bestimmte andere Folgen äußerer UrsachenS00-T98"
+  },
+  "children": [
+    {
+      "code": "N00-N08",
+      "kind": "block",
+      "label": "Glomeruläre Krankheiten",
+      "rubrics": {
+        "preferred": "Glomeruläre Krankheiten",
+        "coding-hint": "Soll die äußere Ursache (Kapitel XX) oder eine vorliegende akute (N17.-) oder nicht näher bezeichnete (N19) Nierenkrankheit angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+      },
+      "children": [
+        {
+          "code": "N00",
+          "kind": "category",
+          "label": "Akutes nephritisches Syndrom",
+          "rubrics": {
+            "preferred": "Akutes nephritisches Syndrom",
+            "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Akut:\n\t\t\t\tNierenkrankheit o.n.A.",
+            "exclusion": "Nephritisches Syndrom o.n.A.N05.-"
+          },
+          "children": []
+        },
+        {
+          "code": "N01",
+          "kind": "category",
+          "label": "Rapid-progressives nephritisches Syndrom",
+          "rubrics": {
+            "preferred": "Rapid-progressives nephritisches Syndrom",
+            "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Rapid-progressiv:\n\t\t\t\tNephritis",
+            "exclusion": "Nephritisches Syndrom o.n.A.N05.-"
+          },
+          "children": []
+        },
+        {
+          "code": "N02",
+          "kind": "category",
+          "label": "Rezidivierende und persistierende Hämaturie",
+          "rubrics": {
+            "preferred": "Rezidivierende und persistierende Hämaturie",
+            "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Hämaturie:\n\t\t\t\tmit morphologischen Veränderungen, wie unter .0-.8 am Anfang dieser Krankheitsgruppe ausgewiesen",
+            "exclusion": "Hämaturie o.n.A.R31"
+          },
+          "children": []
+        },
+        {
+          "code": "N03",
+          "kind": "category",
+          "label": "Chronisches nephritisches Syndrom",
+          "rubrics": {
+            "preferred": "Chronisches nephritisches Syndrom",
+            "inclusion": "Chronisch:\n\t\t\t\tNephritis",
+            "exclusion": "Nephritisches Syndrom o.n.A. N05.-",
+            "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]"
+          },
+          "children": []
+        },
+        {
+          "code": "N04",
+          "kind": "category",
+          "label": "Nephrotisches Syndrom",
+          "rubrics": {
+            "preferred": "Nephrotisches Syndrom",
+            "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Lipoidnephrose"
+          },
+          "children": []
+        },
+        {
+          "code": "N05",
+          "kind": "category",
+          "label": "Nicht näher bezeichnetes nephritisches Syndrom",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnetes nephritisches Syndrom",
+            "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Nephropathie o.n.A. und Nierenkrankheit o.n.A. mit morphologischen Veränderungen, wie unter .0-.8 am Anfang dieser Krankheitsgruppe ausgewiesen",
+            "exclusion": "Tubulointerstitielle Nephritis o.n.A.N12"
+          },
+          "children": []
+        },
+        {
+          "code": "N06",
+          "kind": "category",
+          "label": "Isolierte Proteinurie mit Angabe morphologischer Veränderungen",
+          "rubrics": {
+            "preferred": "Isolierte Proteinurie mit Angabe morphologischer Veränderungen",
+            "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "inclusion": "Proteinurie (isoliert) (orthostatisch) (persistierend) mit morphologischen Veränderungen, wie unter .0-.8 am Anfang dieser Krankheitsgruppe ausgewiesen",
+            "exclusion": "Proteinurie:\n\t\t\t\to.n.A.R80"
+          },
+          "children": []
+        },
+        {
+          "code": "N07",
+          "kind": "category",
+          "label": "Hereditäre Nephropathie, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Hereditäre Nephropathie, anderenorts nicht klassifiziert",
+            "modifierlink": "[4. Stellen siehe am Anfang dieser Krankheitsgruppe]",
+            "exclusion": "Nichtneuropathische heredofamiliäre AmyloidoseE85.0"
+          },
+          "children": []
+        },
+        {
+          "code": "N08",
+          "kind": "category",
+          "label": "Glomeruläre Krankheiten bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Glomeruläre Krankheiten bei anderenorts klassifizierten Krankheiten",
+            "inclusion": "Nephropathie bei anderenorts klassifizierten Krankheiten",
+            "exclusion": "Tubulointerstitielle Nierenkrankheiten bei anderenorts klassifizierten KrankheitenN16.-"
+          },
+          "children": [
+            {
+              "code": "N08.0",
+              "kind": "category",
+              "label": "Glomeruläre Krankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Glomeruläre Krankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tSyphilisA52.7"
+              },
+              "children": []
+            },
+            {
+              "code": "N08.1",
+              "kind": "category",
+              "label": "Glomeruläre Krankheiten bei Neubildungen",
+              "rubrics": {
+                "preferred": "Glomeruläre Krankheiten bei Neubildungen",
+                "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tMakroglobulinämie WaldenströmC88.0-"
+              },
+              "children": []
+            },
+            {
+              "code": "N08.2",
+              "kind": "category",
+              "label": "Glomeruläre Krankheiten bei Blutkrankheiten und Störungen mit Beteiligung des Immunsystems",
+              "rubrics": {
+                "preferred": "Glomeruläre Krankheiten bei Blutkrankheiten und Störungen mit Beteiligung des Immunsystems",
+                "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tSichelzellenkrankheitenD57.-"
+              },
+              "children": []
+            },
+            {
+              "code": "N08.3",
+              "kind": "category",
+              "label": "Glomeruläre Krankheiten bei Diabetes mellitusE10-E14, vierte Stelle .2",
+              "rubrics": {
+                "preferred": "Glomeruläre Krankheiten bei Diabetes mellitusE10-E14, vierte Stelle .2"
+              },
+              "children": []
+            },
+            {
+              "code": "N08.4",
+              "kind": "category",
+              "label": "Glomeruläre Krankheiten bei sonstigen endokrinen, Ernährungs- und Stoffwechselkrankheiten",
+              "rubrics": {
+                "preferred": "Glomeruläre Krankheiten bei sonstigen endokrinen, Ernährungs- und Stoffwechselkrankheiten",
+                "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tLecithin-Cholesterin-Acyltransferase-MangelE78.6"
+              },
+              "children": []
+            },
+            {
+              "code": "N08.5",
+              "kind": "category",
+              "label": "Glomeruläre Krankheiten bei Systemkrankheiten des Bindegewebes",
+              "rubrics": {
+                "preferred": "Glomeruläre Krankheiten bei Systemkrankheiten des Bindegewebes",
+                "inclusion": "Glomeruläre Krankheiten bei:\n\t\t\t\tthrombotischer thrombozytopenischer PurpuraM31.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N08.8",
+              "kind": "category",
+              "label": "Glomeruläre Krankheiten bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Glomeruläre Krankheiten bei sonstigen anderenorts klassifizierten Krankheiten",
+                "inclusion": "Glomeruläre Krankheiten bei subakuter bakterieller EndokarditisI33.0"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "N10-N16",
+      "kind": "block",
+      "label": "Tubulointerstitielle Nierenkrankheiten",
+      "rubrics": {
+        "preferred": "Tubulointerstitielle Nierenkrankheiten",
+        "inclusion": "Pyelonephritis",
+        "coding-hint": "Soll eine chronische Nierenkrankheit angegeben werden, ist eine zusätzliche Schlüsselnummer (N18.-) zu benutzen.",
+        "exclusion": "Pyeloureteritis cystica N28.88"
+      },
+      "children": [
+        {
+          "code": "N10",
+          "kind": "category",
+          "label": "Akute tubulointerstitielle Nephritis",
+          "rubrics": {
+            "preferred": "Akute tubulointerstitielle Nephritis",
+            "inclusion": "Akut:\n\t\t\t\tPyelonephritis",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+          },
+          "children": []
+        },
+        {
+          "code": "N11",
+          "kind": "category",
+          "label": "Chronische tubulointerstitielle Nephritis",
+          "rubrics": {
+            "preferred": "Chronische tubulointerstitielle Nephritis",
+            "inclusion": "Chronisch:\n\t\t\t\tPyelonephritis",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+          },
+          "children": [
+            {
+              "code": "N11.0",
+              "kind": "category",
+              "label": "Nichtobstruktive, mit Reflux verbundene chronische Pyelonephritis",
+              "rubrics": {
+                "preferred": "Nichtobstruktive, mit Reflux verbundene chronische Pyelonephritis",
+                "inclusion": "Pyelonephritis (chronisch) in Verbindung mit Reflux (vesikoureteral)",
+                "exclusion": "Vesikoureteraler Reflux o.n.A.N13.7"
+              },
+              "children": []
+            },
+            {
+              "code": "N11.1",
+              "kind": "category",
+              "label": "Chronische obstruktive Pyelonephritis",
+              "rubrics": {
+                "preferred": "Chronische obstruktive Pyelonephritis",
+                "inclusion": "Pyelonephritis (chronisch) in Verbindung mit:\n\t\t\t\tStriktur\n\t\t\t\tUreter",
+                "exclusion": "Obstruktive Uropathie N13.-"
+              },
+              "children": []
+            },
+            {
+              "code": "N11.8",
+              "kind": "category",
+              "label": "Sonstige chronische tubulointerstitielle Nephritis",
+              "rubrics": {
+                "preferred": "Sonstige chronische tubulointerstitielle Nephritis",
+                "inclusion": "Nichtobstruktive chronische Pyelonephritis o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N11.9",
+              "kind": "category",
+              "label": "Chronische tubulointerstitielle Nephritis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Chronische tubulointerstitielle Nephritis, nicht näher bezeichnet",
+                "inclusion": "Chronisch:\n\t\t\t\tPyelonephritis o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N12",
+          "kind": "category",
+          "label": "Tubulointerstitielle Nephritis, nicht als akut oder chronisch bezeichnet",
+          "rubrics": {
+            "preferred": "Tubulointerstitielle Nephritis, nicht als akut oder chronisch bezeichnet",
+            "inclusion": "Pyelonephritis o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "N13",
+          "kind": "category",
+          "label": "Obstruktive Uropathie und Refluxuropathie",
+          "rubrics": {
+            "preferred": "Obstruktive Uropathie und Refluxuropathie",
+            "exclusion": "Obstruktive PyelonephritisN11.1"
+          },
+          "children": [
+            {
+              "code": "N13.0",
+              "kind": "category",
+              "label": "Hydronephrose bei ureteropelviner Obstruktion",
+              "rubrics": {
+                "preferred": "Hydronephrose bei ureteropelviner Obstruktion",
+                "exclusion": "Mit Infektion der NiereN13.60"
+              },
+              "children": []
+            },
+            {
+              "code": "N13.1",
+              "kind": "category",
+              "label": "Hydronephrose bei Ureterstriktur, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Hydronephrose bei Ureterstriktur, anderenorts nicht klassifiziert",
+                "exclusion": "Mit Infektion der NiereN13.61"
+              },
+              "children": []
+            },
+            {
+              "code": "N13.2",
+              "kind": "category",
+              "label": "Hydronephrose bei Obstruktion durch Nieren- und Ureterstein",
+              "rubrics": {
+                "preferred": "Hydronephrose bei Obstruktion durch Nieren- und Ureterstein"
+              },
+              "children": [
+                {
+                  "code": "N13.20",
+                  "kind": "category",
+                  "label": "Hydronephrose bei Obstruktion durch Nierenstein",
+                  "rubrics": {
+                    "preferred": "Hydronephrose bei Obstruktion durch Nierenstein",
+                    "exclusion": "Mit Infektion der NiereN13.62"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N13.21",
+                  "kind": "category",
+                  "label": "Hydronephrose bei Obstruktion durch Ureterstein",
+                  "rubrics": {
+                    "preferred": "Hydronephrose bei Obstruktion durch Ureterstein",
+                    "exclusion": "Mit Infektion der NiereN13.63"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N13.29",
+                  "kind": "category",
+                  "label": "Hydronephrose bei Obstruktion durch Nieren- und Ureterstein, Steinlokalisation nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Hydronephrose bei Obstruktion durch Nieren- und Ureterstein, Steinlokalisation nicht näher bezeichnet",
+                    "exclusion": "Mit Infektion der NiereN13.64"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N13.3",
+              "kind": "category",
+              "label": "Sonstige und nicht näher bezeichnete Hydronephrose",
+              "rubrics": {
+                "preferred": "Sonstige und nicht näher bezeichnete Hydronephrose",
+                "exclusion": "Mit Infektion der NiereN13.65"
+              },
+              "children": []
+            },
+            {
+              "code": "N13.4",
+              "kind": "category",
+              "label": "Hydroureter",
+              "rubrics": {
+                "preferred": "Hydroureter",
+                "exclusion": "Mit Infektion der NiereN13.66"
+              },
+              "children": []
+            },
+            {
+              "code": "N13.5",
+              "kind": "category",
+              "label": "Abknickung und Striktur des Ureters ohne Hydronephrose",
+              "rubrics": {
+                "preferred": "Abknickung und Striktur des Ureters ohne Hydronephrose",
+                "exclusion": "Mit Infektion der NiereN13.67",
+                "coding-hint": "Soll die zugrunde liegende Krankheit angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "N13.6",
+              "kind": "category",
+              "label": "Pyonephrose",
+              "rubrics": {
+                "preferred": "Pyonephrose",
+                "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer B95-B98 zu benutzen."
+              },
+              "children": [
+                {
+                  "code": "N13.60",
+                  "kind": "category",
+                  "label": "Hydronephrose bei ureteropelviner Obstruktion mit Infektion der Niere",
+                  "rubrics": {
+                    "preferred": "Hydronephrose bei ureteropelviner Obstruktion mit Infektion der Niere"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N13.61",
+                  "kind": "category",
+                  "label": "Hydronephrose bei Ureterstriktur, anderenorts nicht klassifiziert, mit Infektion der Niere",
+                  "rubrics": {
+                    "preferred": "Hydronephrose bei Ureterstriktur, anderenorts nicht klassifiziert, mit Infektion der Niere"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N13.62",
+                  "kind": "category",
+                  "label": "Hydronephrose bei Obstruktion durch Nierenstein mit Infektion der Niere",
+                  "rubrics": {
+                    "preferred": "Hydronephrose bei Obstruktion durch Nierenstein mit Infektion der Niere"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N13.63",
+                  "kind": "category",
+                  "label": "Hydronephrose bei Obstruktion durch Ureterstein mit Infektion der Niere",
+                  "rubrics": {
+                    "preferred": "Hydronephrose bei Obstruktion durch Ureterstein mit Infektion der Niere"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N13.64",
+                  "kind": "category",
+                  "label": "Hydronephrose bei Obstruktion durch Nieren- und Ureterstein, Steinlokalisation nicht näher bezeichnet, mit Infektion der Niere",
+                  "rubrics": {
+                    "preferred": "Hydronephrose bei Obstruktion durch Nieren- und Ureterstein, Steinlokalisation nicht näher bezeichnet, mit Infektion der Niere"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N13.65",
+                  "kind": "category",
+                  "label": "Sonstige und nicht näher bezeichnete Hydronephrose mit Infektion der Niere",
+                  "rubrics": {
+                    "preferred": "Sonstige und nicht näher bezeichnete Hydronephrose mit Infektion der Niere"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N13.66",
+                  "kind": "category",
+                  "label": "Hydroureter mit Infektion der Niere",
+                  "rubrics": {
+                    "preferred": "Hydroureter mit Infektion der Niere"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N13.67",
+                  "kind": "category",
+                  "label": "Abknickung und Striktur des Ureters ohne Hydronephrose mit Infektion der Niere",
+                  "rubrics": {
+                    "preferred": "Abknickung und Striktur des Ureters ohne Hydronephrose mit Infektion der Niere"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N13.68",
+                  "kind": "category",
+                  "label": "Sonstige und nicht näher bezeichnete Pyonephrose",
+                  "rubrics": {
+                    "preferred": "Sonstige und nicht näher bezeichnete Pyonephrose",
+                    "inclusion": "Obstruktive Uropathie mit Infektion"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N13.7",
+              "kind": "category",
+              "label": "Uropathie in Zusammenhang mit vesikoureteralem Reflux",
+              "rubrics": {
+                "preferred": "Uropathie in Zusammenhang mit vesikoureteralem Reflux",
+                "inclusion": "Vesikoureteraler Reflux:\n\t\t\t\to.n.A.",
+                "exclusion": "Pyelonephritis in Verbindung mit RefluxN11.0"
+              },
+              "children": []
+            },
+            {
+              "code": "N13.8",
+              "kind": "category",
+              "label": "Sonstige obstruktive Uropathie und Refluxuropathie",
+              "rubrics": {
+                "preferred": "Sonstige obstruktive Uropathie und Refluxuropathie"
+              },
+              "children": []
+            },
+            {
+              "code": "N13.9",
+              "kind": "category",
+              "label": "Obstruktive Uropathie und Refluxuropathie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Obstruktive Uropathie und Refluxuropathie, nicht näher bezeichnet",
+                "inclusion": "Obstruktion der Harnwege o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N14",
+          "kind": "category",
+          "label": "Arzneimittel- und schwermetallinduzierte tubulointerstitielle und tubuläre Krankheitszustände",
+          "rubrics": {
+            "preferred": "Arzneimittel- und schwermetallinduzierte tubulointerstitielle und tubuläre Krankheitszustände",
+            "coding-hint": "Soll die toxische Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+          },
+          "children": [
+            {
+              "code": "N14.0",
+              "kind": "category",
+              "label": "Analgetika-Nephropathie",
+              "rubrics": {
+                "preferred": "Analgetika-Nephropathie"
+              },
+              "children": []
+            },
+            {
+              "code": "N14.1",
+              "kind": "category",
+              "label": "Nephropathie durch sonstige Arzneimittel, Drogen und biologisch aktive Substanzen",
+              "rubrics": {
+                "preferred": "Nephropathie durch sonstige Arzneimittel, Drogen und biologisch aktive Substanzen"
+              },
+              "children": []
+            },
+            {
+              "code": "N14.2",
+              "kind": "category",
+              "label": "Nephropathie durch nicht näher bezeichnete(s) Arzneimittel, Droge oder biologisch aktive Substanz",
+              "rubrics": {
+                "preferred": "Nephropathie durch nicht näher bezeichnete(s) Arzneimittel, Droge oder biologisch aktive Substanz"
+              },
+              "children": []
+            },
+            {
+              "code": "N14.3",
+              "kind": "category",
+              "label": "Nephropathie durch Schwermetalle",
+              "rubrics": {
+                "preferred": "Nephropathie durch Schwermetalle"
+              },
+              "children": []
+            },
+            {
+              "code": "N14.4",
+              "kind": "category",
+              "label": "Toxische Nephropathie, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Toxische Nephropathie, anderenorts nicht klassifiziert"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N15",
+          "kind": "category",
+          "label": "Sonstige tubulointerstitielle Nierenkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige tubulointerstitielle Nierenkrankheiten"
+          },
+          "children": [
+            {
+              "code": "N15.0",
+              "kind": "category",
+              "label": "Balkan-Nephropathie",
+              "rubrics": {
+                "preferred": "Balkan-Nephropathie",
+                "inclusion": "Chronische endemische Nephropathie"
+              },
+              "children": []
+            },
+            {
+              "code": "N15.1",
+              "kind": "category",
+              "label": "Nierenabszess und perinephritischer Abszess",
+              "rubrics": {
+                "preferred": "Nierenabszess und perinephritischer Abszess"
+              },
+              "children": [
+                {
+                  "code": "N15.10",
+                  "kind": "category",
+                  "label": "Nierenabszess",
+                  "rubrics": {
+                    "preferred": "Nierenabszess"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N15.11",
+                  "kind": "category",
+                  "label": "Perinephritischer Abszess",
+                  "rubrics": {
+                    "preferred": "Perinephritischer Abszess"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N15.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete tubulointerstitielle Nierenkrankheiten",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete tubulointerstitielle Nierenkrankheiten"
+              },
+              "children": []
+            },
+            {
+              "code": "N15.9",
+              "kind": "category",
+              "label": "Tubulointerstitielle Nierenkrankheit, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Tubulointerstitielle Nierenkrankheit, nicht näher bezeichnet",
+                "inclusion": "Niereninfektion o.n.A.",
+                "exclusion": "Harnwegsinfektion o.n.A.N39.0"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N16",
+          "kind": "category",
+          "label": "Tubulointerstitielle Nierenkrankheiten bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Tubulointerstitielle Nierenkrankheiten bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "N16.0",
+              "kind": "category",
+              "label": "Tubulointerstitielle Nierenkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Tubulointerstitielle Nierenkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "inclusion": "Tubulointerstitielle Nierenkrankheiten (durch) (bei):\n\t\t\t\tToxoplasmoseB58.8"
+              },
+              "children": []
+            },
+            {
+              "code": "N16.1",
+              "kind": "category",
+              "label": "Tubulointerstitielle Nierenkrankheiten bei Neubildungen",
+              "rubrics": {
+                "preferred": "Tubulointerstitielle Nierenkrankheiten bei Neubildungen",
+                "inclusion": "Tubulointerstitielle Nierenkrankheiten bei:\n\t\t\t\tPlasmozytom [Multiples Myelom]C90.0-"
+              },
+              "children": []
+            },
+            {
+              "code": "N16.2",
+              "kind": "category",
+              "label": "Tubulointerstitielle Nierenkrankheiten bei Blutkrankheiten und Störungen mit Beteiligung des Immunsystems",
+              "rubrics": {
+                "preferred": "Tubulointerstitielle Nierenkrankheiten bei Blutkrankheiten und Störungen mit Beteiligung des Immunsystems",
+                "inclusion": "Tubulointerstitielle Nierenkrankheiten bei:\n\t\t\t\tSarkoidoseD86.-"
+              },
+              "children": []
+            },
+            {
+              "code": "N16.3",
+              "kind": "category",
+              "label": "Tubulointerstitielle Nierenkrankheiten bei Stoffwechselkrankheiten",
+              "rubrics": {
+                "preferred": "Tubulointerstitielle Nierenkrankheiten bei Stoffwechselkrankheiten",
+                "inclusion": "Tubulointerstitielle Nierenkrankheiten bei:\n\t\t\t\tZystinoseE72.0"
+              },
+              "children": []
+            },
+            {
+              "code": "N16.4",
+              "kind": "category",
+              "label": "Tubulointerstitielle Nierenkrankheiten bei systemischen Krankheiten des Bindegewebes",
+              "rubrics": {
+                "preferred": "Tubulointerstitielle Nierenkrankheiten bei systemischen Krankheiten des Bindegewebes",
+                "inclusion": "Tubulointerstitielle Nierenkrankheiten bei:\n\t\t\t\tsystemischem Lupus erythematodesM32.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N16.5",
+              "kind": "category",
+              "label": "Tubulointerstitielle Nierenkrankheiten bei TransplantatabstoßungT86.-",
+              "rubrics": {
+                "preferred": "Tubulointerstitielle Nierenkrankheiten bei TransplantatabstoßungT86.-"
+              },
+              "children": []
+            },
+            {
+              "code": "N16.8",
+              "kind": "category",
+              "label": "Tubulointerstitielle Nierenkrankheiten bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Tubulointerstitielle Nierenkrankheiten bei sonstigen anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "N17-N19",
+      "kind": "block",
+      "label": "Niereninsuffizienz",
+      "rubrics": {
+        "preferred": "Niereninsuffizienz",
+        "coding-hint": "Soll das exogene Agens angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "Prärenale UrämieR39.2"
+      },
+      "children": [
+        {
+          "code": "N17",
+          "kind": "category",
+          "label": "Akutes Nierenversagen",
+          "rubrics": {
+            "preferred": "Akutes Nierenversagen",
+            "inclusion": "Akutes prärenales Nierenversagen"
+          },
+          "children": [
+            {
+              "code": "N17.0",
+              "kind": "category",
+              "label": "Akutes Nierenversagen mit Tubulusnekrose",
+              "rubrics": {
+                "preferred": "Akutes Nierenversagen mit Tubulusnekrose",
+                "inclusion": "Tubulusnekrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N17.1",
+              "kind": "category",
+              "label": "Akutes Nierenversagen mit akuter Rindennekrose",
+              "rubrics": {
+                "preferred": "Akutes Nierenversagen mit akuter Rindennekrose",
+                "inclusion": "Rindennekrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N17.2",
+              "kind": "category",
+              "label": "Akutes Nierenversagen mit Marknekrose",
+              "rubrics": {
+                "preferred": "Akutes Nierenversagen mit Marknekrose",
+                "inclusion": "Papillen- [Mark-] Nekrose:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N17.8",
+              "kind": "category",
+              "label": "Sonstiges akutes Nierenversagen",
+              "rubrics": {
+                "preferred": "Sonstiges akutes Nierenversagen",
+                "inclusion": "Akutes Nierenversagen mit sonstigen histologischen Befunden"
+              },
+              "children": []
+            },
+            {
+              "code": "N17.9",
+              "kind": "category",
+              "label": "Akutes Nierenversagen, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Akutes Nierenversagen, nicht näher bezeichnet",
+                "inclusion": "Akutes Nierenversagen ohne Vorliegen eines histologischen Befundes"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N18",
+          "kind": "category",
+          "label": "Chronische Nierenkrankheit",
+          "rubrics": {
+            "preferred": "Chronische Nierenkrankheit",
+            "inclusion": "Urämisch:\n\t\t\t\tPerikarditis† I32.8",
+            "coding-hint": "Soll das Vorliegen einer hypertensiven Nierenkrankheit angegeben werden, ist eine zusätzliche Schlüsselnummer aus I12.- oder I13.- zu benutzen."
+          },
+          "children": [
+            {
+              "code": "N18.1",
+              "kind": "category",
+              "label": "Chronische Nierenkrankheit, Stadium 1",
+              "rubrics": {
+                "preferred": "Chronische Nierenkrankheit, Stadium 1",
+                "inclusion": "Glomeruläre Filtrationsrate 90 ml/min/1,73 m² Körperoberfläche oder höher"
+              },
+              "children": []
+            },
+            {
+              "code": "N18.2",
+              "kind": "category",
+              "label": "Chronische Nierenkrankheit, Stadium 2",
+              "rubrics": {
+                "preferred": "Chronische Nierenkrankheit, Stadium 2",
+                "inclusion": "Glomeruläre Filtrationsrate 60 bis unter 90 ml/min/1,73 m² Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "N18.3",
+              "kind": "category",
+              "label": "Chronische Nierenkrankheit, Stadium 3",
+              "rubrics": {
+                "preferred": "Chronische Nierenkrankheit, Stadium 3",
+                "inclusion": "Glomeruläre Filtrationsrate 30 bis unter 60 ml/min/1,73 m² Körperoberfläche"
+              },
+              "children": []
+            },
+            {
+              "code": "N18.4",
+              "kind": "category",
+              "label": "Chronische Nierenkrankheit, Stadium 4",
+              "rubrics": {
+                "preferred": "Chronische Nierenkrankheit, Stadium 4",
+                "inclusion": "Präterminale Niereninsuffizienz"
+              },
+              "children": []
+            },
+            {
+              "code": "N18.5",
+              "kind": "category",
+              "label": "Chronische Nierenkrankheit, Stadium 5",
+              "rubrics": {
+                "preferred": "Chronische Nierenkrankheit, Stadium 5",
+                "inclusion": "Terminale Niereninsuffizienz"
+              },
+              "children": []
+            },
+            {
+              "code": "N18.8",
+              "kind": "category",
+              "label": "Sonstige chronische Nierenkrankheit",
+              "rubrics": {
+                "preferred": "Sonstige chronische Nierenkrankheit"
+              },
+              "children": [
+                {
+                  "code": "N18.80",
+                  "kind": "category",
+                  "label": "Einseitige chronische Nierenfunktionsstörung",
+                  "rubrics": {
+                    "preferred": "Einseitige chronische Nierenfunktionsstörung",
+                    "text": "Der relative Funktionsanteil der betroffenen Niere liegt unter 35 %."
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N18.89",
+                  "kind": "category",
+                  "label": "Sonstige chronische Nierenkrankheit, Stadium nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Sonstige chronische Nierenkrankheit, Stadium nicht näher bezeichnet"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N18.9",
+              "kind": "category",
+              "label": "Chronische Nierenkrankheit, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Chronische Nierenkrankheit, nicht näher bezeichnet",
+                "inclusion": "Diffuse sklerosierende Glomerulonephritis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N19",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Niereninsuffizienz",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Niereninsuffizienz",
+            "inclusion": "Urämie o.n.A.",
+            "coding-hint": "Soll das Vorliegen einer hypertensiven Nierenkrankheit angegeben werden, ist eine zusätzliche Schlüsselnummer aus I12.- oder I13.- zu benutzen.",
+            "exclusion": "Urämie beim Neugeborenen P96.0"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N20-N23",
+      "kind": "block",
+      "label": "Urolithiasis",
+      "rubrics": {
+        "preferred": "Urolithiasis"
+      },
+      "children": [
+        {
+          "code": "N20",
+          "kind": "category",
+          "label": "Nieren- und Ureterstein",
+          "rubrics": {
+            "preferred": "Nieren- und Ureterstein",
+            "exclusion": "Mit Hydronephrose N13.2-"
+          },
+          "children": [
+            {
+              "code": "N20.0",
+              "kind": "category",
+              "label": "Nierenstein",
+              "rubrics": {
+                "preferred": "Nierenstein",
+                "inclusion": "Parenchymstein"
+              },
+              "children": []
+            },
+            {
+              "code": "N20.1",
+              "kind": "category",
+              "label": "Ureterstein",
+              "rubrics": {
+                "preferred": "Ureterstein",
+                "inclusion": "Harnleiterstein"
+              },
+              "children": []
+            },
+            {
+              "code": "N20.2",
+              "kind": "category",
+              "label": "Nierenstein und Ureterstein gleichzeitig",
+              "rubrics": {
+                "preferred": "Nierenstein und Ureterstein gleichzeitig"
+              },
+              "children": []
+            },
+            {
+              "code": "N20.9",
+              "kind": "category",
+              "label": "Harnstein, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Harnstein, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N21",
+          "kind": "category",
+          "label": "Stein in den unteren Harnwegen",
+          "rubrics": {
+            "preferred": "Stein in den unteren Harnwegen",
+            "inclusion": "Mit Zystitis und Urethritis"
+          },
+          "children": [
+            {
+              "code": "N21.0",
+              "kind": "category",
+              "label": "Stein in der Harnblase",
+              "rubrics": {
+                "preferred": "Stein in der Harnblase",
+                "inclusion": "Stein in Blasendivertikel",
+                "exclusion": "NierenausgusssteinN20.0"
+              },
+              "children": []
+            },
+            {
+              "code": "N21.1",
+              "kind": "category",
+              "label": "Urethrastein",
+              "rubrics": {
+                "preferred": "Urethrastein"
+              },
+              "children": []
+            },
+            {
+              "code": "N21.8",
+              "kind": "category",
+              "label": "Stein in sonstigen unteren Harnwegen",
+              "rubrics": {
+                "preferred": "Stein in sonstigen unteren Harnwegen"
+              },
+              "children": []
+            },
+            {
+              "code": "N21.9",
+              "kind": "category",
+              "label": "Stein in den unteren Harnwegen, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Stein in den unteren Harnwegen, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N22",
+          "kind": "category",
+          "label": "Harnstein bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Harnstein bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "N22.0",
+              "kind": "category",
+              "label": "Harnstein bei Schistosomiasis [Bilharziose] B65.0",
+              "rubrics": {
+                "preferred": "Harnstein bei Schistosomiasis [Bilharziose] B65.0"
+              },
+              "children": []
+            },
+            {
+              "code": "N22.8",
+              "kind": "category",
+              "label": "Harnstein bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Harnstein bei sonstigen anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N23",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Nierenkolik",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Nierenkolik"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "N25-N29",
+      "kind": "block",
+      "label": "Sonstige Krankheiten der Niere und des Ureters",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten der Niere und des Ureters",
+        "exclusion": "Mit UrolithiasisN20-N23"
+      },
+      "children": [
+        {
+          "code": "N25",
+          "kind": "category",
+          "label": "Krankheiten infolge Schädigung der tubulären Nierenfunktion",
+          "rubrics": {
+            "preferred": "Krankheiten infolge Schädigung der tubulären Nierenfunktion",
+            "exclusion": "Stoffwechselstörungen, unter E70-E90 klassifizierbar"
+          },
+          "children": [
+            {
+              "code": "N25.0",
+              "kind": "category",
+              "label": "Renale Osteodystrophie",
+              "rubrics": {
+                "preferred": "Renale Osteodystrophie",
+                "inclusion": "Tubulusschäden mit Phosphatverlust"
+              },
+              "children": []
+            },
+            {
+              "code": "N25.1",
+              "kind": "category",
+              "label": "Renaler Diabetes insipidus",
+              "rubrics": {
+                "preferred": "Renaler Diabetes insipidus"
+              },
+              "children": []
+            },
+            {
+              "code": "N25.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten infolge Schädigung der tubulären Nierenfunktion",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten infolge Schädigung der tubulären Nierenfunktion",
+                "inclusion": "Sekundärer Hyperparathyreoidismus renalen Ursprungs"
+              },
+              "children": []
+            },
+            {
+              "code": "N25.9",
+              "kind": "category",
+              "label": "Krankheit infolge Schädigung der tubulären Nierenfunktion, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit infolge Schädigung der tubulären Nierenfunktion, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N26",
+          "kind": "category",
+          "label": "Schrumpfniere, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Schrumpfniere, nicht näher bezeichnet",
+            "inclusion": "Nephrofibrose o.n.A.",
+            "coding-hint": "Soll das Vorliegen einer hypertensiven Nierenkrankheit angegeben werden, ist eine zusätzliche Schlüsselnummer aus I12.- oder I13.- zu benutzen.",
+            "exclusion": "Kleine Niere unbekannter UrsacheN27.-"
+          },
+          "children": []
+        },
+        {
+          "code": "N27",
+          "kind": "category",
+          "label": "Kleine Niere unbekannter Ursache",
+          "rubrics": {
+            "preferred": "Kleine Niere unbekannter Ursache"
+          },
+          "children": [
+            {
+              "code": "N27.0",
+              "kind": "category",
+              "label": "Kleine Niere unbekannter Ursache, einseitig",
+              "rubrics": {
+                "preferred": "Kleine Niere unbekannter Ursache, einseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "N27.1",
+              "kind": "category",
+              "label": "Kleine Niere unbekannter Ursache, beidseitig",
+              "rubrics": {
+                "preferred": "Kleine Niere unbekannter Ursache, beidseitig"
+              },
+              "children": []
+            },
+            {
+              "code": "N27.9",
+              "kind": "category",
+              "label": "Kleine Niere unbekannter Ursache, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Kleine Niere unbekannter Ursache, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N28",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Niere und des Ureters, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Niere und des Ureters, anderenorts nicht klassifiziert",
+            "exclusion": "Nierenkrankheit:\n\t\t\t\tchronisch o.n.A.N03.9"
+          },
+          "children": [
+            {
+              "code": "N28.0",
+              "kind": "category",
+              "label": "Ischämie und Infarkt der Niere",
+              "rubrics": {
+                "preferred": "Ischämie und Infarkt der Niere",
+                "inclusion": "Niereninfarkt",
+                "exclusion": "Nierenarterie (extrarenaler Teil):\n\t\t\t\tAtheroskleroseI70.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N28.1",
+              "kind": "category",
+              "label": "Zyste der Niere",
+              "rubrics": {
+                "preferred": "Zyste der Niere",
+                "inclusion": "Zyste der Niere (erworben) (multipel) (solitär)",
+                "exclusion": "Zystische Nierenkrankheit, angeborenQ61.-"
+              },
+              "children": []
+            },
+            {
+              "code": "N28.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der Niere und des Ureters",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der Niere und des Ureters"
+              },
+              "children": [
+                {
+                  "code": "N28.80",
+                  "kind": "category",
+                  "label": "Ruptur eines Nierenkelches, nichttraumatisch [Fornixruptur]",
+                  "rubrics": {
+                    "preferred": "Ruptur eines Nierenkelches, nichttraumatisch [Fornixruptur]",
+                    "inclusion": "Ruptur des Nierenbeckens, nichttraumatisch"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N28.88",
+                  "kind": "category",
+                  "label": "Sonstige näher bezeichnete Krankheiten der Niere und des Ureters",
+                  "rubrics": {
+                    "preferred": "Sonstige näher bezeichnete Krankheiten der Niere und des Ureters",
+                    "inclusion": "Ureterozele"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N28.9",
+              "kind": "category",
+              "label": "Krankheit der Niere und des Ureters, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Niere und des Ureters, nicht näher bezeichnet",
+                "inclusion": "Nierenkrankheit o.n.A.",
+                "exclusion": "Nephropathie o.n.A. und Nierenkrankheit o.n.A. mit morphologischen Veränderungen, wie unter .0-.8 am Anfang der Krankheitsgruppe N00-N08 ausgewiesenN05.-"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N29",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Niere und des Ureters bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Niere und des Ureters bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "N29.0",
+              "kind": "category",
+              "label": "Spätsyphilis der NiereA52.7",
+              "rubrics": {
+                "preferred": "Spätsyphilis der NiereA52.7"
+              },
+              "children": []
+            },
+            {
+              "code": "N29.1",
+              "kind": "category",
+              "label": "Sonstige Krankheiten der Niere und des Ureters bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten der Niere und des Ureters bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "inclusion": "Krankheiten der Niere und des Ureters bei:\n\t\t\t\tTuberkuloseA18.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N29.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten der Niere und des Ureters bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten der Niere und des Ureters bei sonstigen anderenorts klassifizierten Krankheiten",
+                "inclusion": "CystinspeicherkrankheitE72.0"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "N30-N39",
+      "kind": "block",
+      "label": "Sonstige Krankheiten des Harnsystems",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Harnsystems",
+        "exclusion": "Harnwegsinfektion (als Komplikation bei):\n\t\t\t\tSchwangerschaft, Geburt und WochenbettO23.-O75.3O86.2"
+      },
+      "children": [
+        {
+          "code": "N30",
+          "kind": "category",
+          "label": "Zystitis",
+          "rubrics": {
+            "preferred": "Zystitis",
+            "coding-hint": "Soll der Infektionserreger (B95-B98) oder das verursachende exogene Agens (Kapitel XX) angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen.",
+            "exclusion": "ProstatazystitisN41.3"
+          },
+          "children": [
+            {
+              "code": "N30.0",
+              "kind": "category",
+              "label": "Akute Zystitis",
+              "rubrics": {
+                "preferred": "Akute Zystitis",
+                "exclusion": "TrigonumzystitisN30.3"
+              },
+              "children": []
+            },
+            {
+              "code": "N30.1",
+              "kind": "category",
+              "label": "Interstitielle Zystitis (chronisch)",
+              "rubrics": {
+                "preferred": "Interstitielle Zystitis (chronisch)"
+              },
+              "children": []
+            },
+            {
+              "code": "N30.2",
+              "kind": "category",
+              "label": "Sonstige chronische Zystitis",
+              "rubrics": {
+                "preferred": "Sonstige chronische Zystitis"
+              },
+              "children": []
+            },
+            {
+              "code": "N30.3",
+              "kind": "category",
+              "label": "Trigonumzystitis",
+              "rubrics": {
+                "preferred": "Trigonumzystitis",
+                "inclusion": "Urethrotrigonumzystitis"
+              },
+              "children": []
+            },
+            {
+              "code": "N30.4",
+              "kind": "category",
+              "label": "Strahlenzystitis",
+              "rubrics": {
+                "preferred": "Strahlenzystitis"
+              },
+              "children": []
+            },
+            {
+              "code": "N30.8",
+              "kind": "category",
+              "label": "Sonstige Zystitis",
+              "rubrics": {
+                "preferred": "Sonstige Zystitis"
+              },
+              "children": [
+                {
+                  "code": "N30.80",
+                  "kind": "category",
+                  "label": "Abszess der Harnblasenwand",
+                  "rubrics": {
+                    "preferred": "Abszess der Harnblasenwand",
+                    "inclusion": "Harnblasenabszess"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N30.88",
+                  "kind": "category",
+                  "label": "Sonstige Zystitis",
+                  "rubrics": {
+                    "preferred": "Sonstige Zystitis"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N30.9",
+              "kind": "category",
+              "label": "Zystitis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Zystitis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N31",
+          "kind": "category",
+          "label": "Neuromuskuläre Dysfunktion der Harnblase, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Neuromuskuläre Dysfunktion der Harnblase, anderenorts nicht klassifiziert",
+            "exclusion": "Rückenmarkblase o.n.A.G95.80"
+          },
+          "children": [
+            {
+              "code": "N31.0",
+              "kind": "category",
+              "label": "Ungehemmte neurogene Blasenentleerung, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Ungehemmte neurogene Blasenentleerung, anderenorts nicht klassifiziert",
+                "inclusion": "Zerebral enthemmte Harnblase"
+              },
+              "children": []
+            },
+            {
+              "code": "N31.1",
+              "kind": "category",
+              "label": "Neurogene Reflexblase, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Neurogene Reflexblase, anderenorts nicht klassifiziert",
+                "inclusion": "Harnblasenfunktionsstörung mit Detrusorinstabilität bei autonomer Neuropathie"
+              },
+              "children": []
+            },
+            {
+              "code": "N31.2",
+              "kind": "category",
+              "label": "Schlaffe neurogene Harnblase, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Schlaffe neurogene Harnblase, anderenorts nicht klassifiziert",
+                "inclusion": "Neurogene Harnblase:\n\t\t\t\tnichtreflektorisch"
+              },
+              "children": []
+            },
+            {
+              "code": "N31.8",
+              "kind": "category",
+              "label": "Sonstige neuromuskuläre Dysfunktion der Harnblase",
+              "rubrics": {
+                "preferred": "Sonstige neuromuskuläre Dysfunktion der Harnblase"
+              },
+              "children": [
+                {
+                  "code": "N31.80",
+                  "kind": "category",
+                  "label": "Neuromuskuläre Low-compliance-Blase, organisch fixiert",
+                  "rubrics": {
+                    "preferred": "Neuromuskuläre Low-compliance-Blase, organisch fixiert"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N31.81",
+                  "kind": "category",
+                  "label": "Hypo- und Akontraktilität des Blasenmuskels ohne neurologisches Substrat",
+                  "rubrics": {
+                    "preferred": "Hypo- und Akontraktilität des Blasenmuskels ohne neurologisches Substrat",
+                    "inclusion": "Lazy bladder"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N31.82",
+                  "kind": "category",
+                  "label": "Instabile Blase ohne neurologisches Substrat",
+                  "rubrics": {
+                    "preferred": "Instabile Blase ohne neurologisches Substrat",
+                    "inclusion": "Urgency"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N31.88",
+                  "kind": "category",
+                  "label": "Sonstige neuromuskuläre Dysfunktion der Harnblase",
+                  "rubrics": {
+                    "preferred": "Sonstige neuromuskuläre Dysfunktion der Harnblase"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N31.9",
+              "kind": "category",
+              "label": "Neuromuskuläre Dysfunktion der Harnblase, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Neuromuskuläre Dysfunktion der Harnblase, nicht näher bezeichnet",
+                "inclusion": "Neurogene Dysfunktion der Harnblase o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N32",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Harnblase",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Harnblase",
+            "exclusion": "ZystozeleN81.1"
+          },
+          "children": [
+            {
+              "code": "N32.0",
+              "kind": "category",
+              "label": "Blasenhalsobstruktion",
+              "rubrics": {
+                "preferred": "Blasenhalsobstruktion",
+                "inclusion": "Harnblasenhalsstenose (erworben)"
+              },
+              "children": []
+            },
+            {
+              "code": "N32.1",
+              "kind": "category",
+              "label": "Vesikointestinalfistel",
+              "rubrics": {
+                "preferred": "Vesikointestinalfistel",
+                "inclusion": "Vesikorektalfistel"
+              },
+              "children": []
+            },
+            {
+              "code": "N32.2",
+              "kind": "category",
+              "label": "Harnblasenfistel, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Harnblasenfistel, anderenorts nicht klassifiziert",
+                "exclusion": "Fistel zwischen Harnblase und weiblichem GenitaltraktN82.0-N82.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N32.3",
+              "kind": "category",
+              "label": "Harnblasendivertikel",
+              "rubrics": {
+                "preferred": "Harnblasendivertikel",
+                "inclusion": "Divertikulitis der Harnblase",
+                "exclusion": "Stein in BlasendivertikelN21.0"
+              },
+              "children": []
+            },
+            {
+              "code": "N32.4",
+              "kind": "category",
+              "label": "Harnblasenruptur, nichttraumatisch",
+              "rubrics": {
+                "preferred": "Harnblasenruptur, nichttraumatisch"
+              },
+              "children": []
+            },
+            {
+              "code": "N32.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der Harnblase",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der Harnblase",
+                "inclusion": "Harnblase:\n\t\t\t\tüberaktiv"
+              },
+              "children": []
+            },
+            {
+              "code": "N32.9",
+              "kind": "category",
+              "label": "Krankheit der Harnblase, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Harnblase, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N33",
+          "kind": "category",
+          "label": "Krankheiten der Harnblase bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten der Harnblase bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "N33.0",
+              "kind": "category",
+              "label": "Tuberkulöse ZystitisA18.1",
+              "rubrics": {
+                "preferred": "Tuberkulöse ZystitisA18.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N33.8",
+              "kind": "category",
+              "label": "Krankheiten der Harnblase bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Krankheiten der Harnblase bei sonstigen anderenorts klassifizierten Krankheiten",
+                "inclusion": "Krankheit der Harnblase bei Schistosomiasis [Bilharziose]B65.-"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N34",
+          "kind": "category",
+          "label": "Urethritis und urethrales Syndrom",
+          "rubrics": {
+            "preferred": "Urethritis und urethrales Syndrom",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+            "exclusion": "UrethrotrigonumzystitisN30.3"
+          },
+          "children": [
+            {
+              "code": "N34.0",
+              "kind": "category",
+              "label": "Harnröhrenabszess",
+              "rubrics": {
+                "preferred": "Harnröhrenabszess",
+                "inclusion": "Abszess:\n\t\t\t\turethral (Drüse)",
+                "exclusion": "HarnröhrenkarunkelN36.2"
+              },
+              "children": []
+            },
+            {
+              "code": "N34.1",
+              "kind": "category",
+              "label": "Unspezifische Urethritis",
+              "rubrics": {
+                "preferred": "Unspezifische Urethritis",
+                "inclusion": "Urethritis:\n\t\t\t\tnicht venerisch"
+              },
+              "children": []
+            },
+            {
+              "code": "N34.2",
+              "kind": "category",
+              "label": "Sonstige Urethritis",
+              "rubrics": {
+                "preferred": "Sonstige Urethritis",
+                "inclusion": "Urethritis:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N34.3",
+              "kind": "category",
+              "label": "Urethrales Syndrom, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Urethrales Syndrom, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N35",
+          "kind": "category",
+          "label": "Harnröhrenstriktur",
+          "rubrics": {
+            "preferred": "Harnröhrenstriktur",
+            "exclusion": "Harnröhrenstriktur nach medizinischen MaßnahmenN99.1-"
+          },
+          "children": [
+            {
+              "code": "N35.0",
+              "kind": "category",
+              "label": "Posttraumatische Harnröhrenstriktur",
+              "rubrics": {
+                "preferred": "Posttraumatische Harnröhrenstriktur",
+                "inclusion": "Harnröhrenstriktur als Folge von:\n\t\t\t\tVerletzung"
+              },
+              "children": []
+            },
+            {
+              "code": "N35.1",
+              "kind": "category",
+              "label": "Postinfektiöse Harnröhrenstriktur, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Postinfektiöse Harnröhrenstriktur, anderenorts nicht klassifiziert"
+              },
+              "children": []
+            },
+            {
+              "code": "N35.8",
+              "kind": "category",
+              "label": "Sonstige Harnröhrenstriktur",
+              "rubrics": {
+                "preferred": "Sonstige Harnröhrenstriktur"
+              },
+              "children": []
+            },
+            {
+              "code": "N35.9",
+              "kind": "category",
+              "label": "Harnröhrenstriktur, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Harnröhrenstriktur, nicht näher bezeichnet",
+                "inclusion": "Meatusstenose o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N36",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Harnröhre",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Harnröhre"
+          },
+          "children": [
+            {
+              "code": "N36.0",
+              "kind": "category",
+              "label": "Harnröhrenfistel",
+              "rubrics": {
+                "preferred": "Harnröhrenfistel",
+                "inclusion": "Via falsa, Harnröhre",
+                "exclusion": "Fistel:\n\t\t\t\turethrovaginalN82.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N36.1",
+              "kind": "category",
+              "label": "Harnröhrendivertikel",
+              "rubrics": {
+                "preferred": "Harnröhrendivertikel"
+              },
+              "children": []
+            },
+            {
+              "code": "N36.2",
+              "kind": "category",
+              "label": "Harnröhrenkarunkel",
+              "rubrics": {
+                "preferred": "Harnröhrenkarunkel"
+              },
+              "children": []
+            },
+            {
+              "code": "N36.3",
+              "kind": "category",
+              "label": "Prolaps der Harnröhrenschleimhaut",
+              "rubrics": {
+                "preferred": "Prolaps der Harnröhrenschleimhaut",
+                "inclusion": "Urethrozele beim Mann",
+                "exclusion": "Urethrozele:\n\t\t\t\t bei der FrauN81.0"
+              },
+              "children": []
+            },
+            {
+              "code": "N36.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der Harnröhre",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der Harnröhre"
+              },
+              "children": []
+            },
+            {
+              "code": "N36.9",
+              "kind": "category",
+              "label": "Krankheit der Harnröhre, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Harnröhre, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N37",
+          "kind": "category",
+          "label": "Krankheiten der Harnröhre bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten der Harnröhre bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "N37.0",
+              "kind": "category",
+              "label": "Urethritis bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Urethritis bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Candida-UrethritisB37.4"
+              },
+              "children": []
+            },
+            {
+              "code": "N37.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten der Harnröhre bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten der Harnröhre bei anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N39",
+          "kind": "category",
+          "label": "Sonstige Krankheiten des Harnsystems",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten des Harnsystems",
+            "exclusion": "Proteinurie o.n.A.R80"
+          },
+          "children": [
+            {
+              "code": "N39.0",
+              "kind": "category",
+              "label": "Harnwegsinfektion, Lokalisation nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Harnwegsinfektion, Lokalisation nicht näher bezeichnet",
+                "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "N39.1",
+              "kind": "category",
+              "label": "Persistierende Proteinurie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Persistierende Proteinurie, nicht näher bezeichnet",
+                "exclusion": "Mit Angabe morphologischer VeränderungenN06.-"
+              },
+              "children": []
+            },
+            {
+              "code": "N39.2",
+              "kind": "category",
+              "label": "Orthostatische Proteinurie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Orthostatische Proteinurie, nicht näher bezeichnet",
+                "exclusion": "Mit Angabe morphologischer VeränderungenN06.-"
+              },
+              "children": []
+            },
+            {
+              "code": "N39.3",
+              "kind": "category",
+              "label": "Belastungsinkontinenz [Stressinkontinenz]",
+              "rubrics": {
+                "preferred": "Belastungsinkontinenz [Stressinkontinenz]",
+                "coding-hint": "Soll nach einer durchgeführten Harninkontinenzoperation das erneute Auftreten der ursprünglich diagnostizierten Inkontinenz (Rezidivinkontinenz) angegeben werden, ist eine zusätzliche Schlüsselnummer (N39.47!) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "N39.4",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Harninkontinenz",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Harninkontinenz",
+                "coding-hint": "Soll nach einer durchgeführten Harninkontinenzoperation das erneute Auftreten der ursprünglich diagnostizierten Inkontinenz (Rezidivinkontinenz) angegeben werden, ist eine zusätzliche Schlüsselnummer (N39.47!) zu benutzen.",
+                "exclusion": "Harninkontinenz:\n\t\t\t\to.n.A. R32"
+              },
+              "children": [
+                {
+                  "code": "N39.40",
+                  "kind": "category",
+                  "label": "Reflexinkontinenz",
+                  "rubrics": {
+                    "preferred": "Reflexinkontinenz"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N39.41",
+                  "kind": "category",
+                  "label": "Überlaufinkontinenz",
+                  "rubrics": {
+                    "preferred": "Überlaufinkontinenz"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N39.42",
+                  "kind": "category",
+                  "label": "Dranginkontinenz",
+                  "rubrics": {
+                    "preferred": "Dranginkontinenz"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N39.43",
+                  "kind": "category",
+                  "label": "Extraurethrale Harninkontinenz",
+                  "rubrics": {
+                    "preferred": "Extraurethrale Harninkontinenz",
+                    "definition": "Urinverlust aus anderen Öffnungen als der Urethra"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N39.47",
+                  "kind": "category",
+                  "label": "Rezidivinkontinenz",
+                  "rubrics": {
+                    "preferred": "Rezidivinkontinenz"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N39.48",
+                  "kind": "category",
+                  "label": "Sonstige näher bezeichnete Harninkontinenz",
+                  "rubrics": {
+                    "preferred": "Sonstige näher bezeichnete Harninkontinenz"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N39.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten des Harnsystems",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten des Harnsystems"
+              },
+              "children": [
+                {
+                  "code": "N39.81",
+                  "kind": "category",
+                  "label": "Flankenschmerz-Hämaturie-Syndrom",
+                  "rubrics": {
+                    "preferred": "Flankenschmerz-Hämaturie-Syndrom"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N39.88",
+                  "kind": "category",
+                  "label": "Sonstige näher bezeichnete Krankheiten des Harnsystems",
+                  "rubrics": {
+                    "preferred": "Sonstige näher bezeichnete Krankheiten des Harnsystems"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N39.9",
+              "kind": "category",
+              "label": "Krankheit des Harnsystems, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit des Harnsystems, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "N40-N51",
+      "kind": "block",
+      "label": "Krankheiten der männlichen Genitalorgane",
+      "rubrics": {
+        "preferred": "Krankheiten der männlichen Genitalorgane"
+      },
+      "children": [
+        {
+          "code": "N40",
+          "kind": "category",
+          "label": "Prostatahyperplasie",
+          "rubrics": {
+            "preferred": "Prostatahyperplasie",
+            "inclusion": "Verschluss der prostatischen Harnröhre o.n.A.",
+            "exclusion": "Hochgradige intraepitheliale Neoplasie der Prostata [high-grade PIN] D07.5"
+          },
+          "children": []
+        },
+        {
+          "code": "N41",
+          "kind": "category",
+          "label": "Entzündliche Krankheiten der Prostata",
+          "rubrics": {
+            "preferred": "Entzündliche Krankheiten der Prostata",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+          },
+          "children": [
+            {
+              "code": "N41.0",
+              "kind": "category",
+              "label": "Akute Prostatitis",
+              "rubrics": {
+                "preferred": "Akute Prostatitis"
+              },
+              "children": []
+            },
+            {
+              "code": "N41.1",
+              "kind": "category",
+              "label": "Chronische Prostatitis",
+              "rubrics": {
+                "preferred": "Chronische Prostatitis"
+              },
+              "children": []
+            },
+            {
+              "code": "N41.2",
+              "kind": "category",
+              "label": "Prostataabszess",
+              "rubrics": {
+                "preferred": "Prostataabszess"
+              },
+              "children": []
+            },
+            {
+              "code": "N41.3",
+              "kind": "category",
+              "label": "Prostatazystitis",
+              "rubrics": {
+                "preferred": "Prostatazystitis"
+              },
+              "children": []
+            },
+            {
+              "code": "N41.8",
+              "kind": "category",
+              "label": "Sonstige entzündliche Krankheiten der Prostata",
+              "rubrics": {
+                "preferred": "Sonstige entzündliche Krankheiten der Prostata"
+              },
+              "children": []
+            },
+            {
+              "code": "N41.9",
+              "kind": "category",
+              "label": "Entzündliche Krankheit der Prostata, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Entzündliche Krankheit der Prostata, nicht näher bezeichnet",
+                "inclusion": "Prostatitis o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N42",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Prostata",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Prostata"
+          },
+          "children": [
+            {
+              "code": "N42.0",
+              "kind": "category",
+              "label": "Prostatastein",
+              "rubrics": {
+                "preferred": "Prostatastein",
+                "inclusion": "Prostatakonkrement"
+              },
+              "children": []
+            },
+            {
+              "code": "N42.1",
+              "kind": "category",
+              "label": "Kongestion und Blutung der Prostata",
+              "rubrics": {
+                "preferred": "Kongestion und Blutung der Prostata"
+              },
+              "children": []
+            },
+            {
+              "code": "N42.2",
+              "kind": "category",
+              "label": "Prostataatrophie",
+              "rubrics": {
+                "preferred": "Prostataatrophie"
+              },
+              "children": []
+            },
+            {
+              "code": "N42.3",
+              "kind": "category",
+              "label": "Prostatadysplasie",
+              "rubrics": {
+                "preferred": "Prostatadysplasie",
+                "inclusion": "Niedriggradige Prostatadysplasie",
+                "exclusion": "Hochgradige ProstatadysplasieD07.5"
+              },
+              "children": []
+            },
+            {
+              "code": "N42.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der Prostata",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der Prostata"
+              },
+              "children": []
+            },
+            {
+              "code": "N42.9",
+              "kind": "category",
+              "label": "Krankheit der Prostata, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Prostata, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N43",
+          "kind": "category",
+          "label": "Hydrozele und Spermatozele",
+          "rubrics": {
+            "preferred": "Hydrozele und Spermatozele",
+            "inclusion": "Hydrozele des Funiculus spermaticus, des Testis oder der Tunica vaginalis testis",
+            "exclusion": "Angeborene HydrozeleP83.5"
+          },
+          "children": [
+            {
+              "code": "N43.0",
+              "kind": "category",
+              "label": "Funikulozele",
+              "rubrics": {
+                "preferred": "Funikulozele"
+              },
+              "children": []
+            },
+            {
+              "code": "N43.1",
+              "kind": "category",
+              "label": "Infizierte Hydrozele",
+              "rubrics": {
+                "preferred": "Infizierte Hydrozele",
+                "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "N43.2",
+              "kind": "category",
+              "label": "Sonstige Hydrozele",
+              "rubrics": {
+                "preferred": "Sonstige Hydrozele"
+              },
+              "children": []
+            },
+            {
+              "code": "N43.3",
+              "kind": "category",
+              "label": "Hydrozele, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Hydrozele, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "N43.4",
+              "kind": "category",
+              "label": "Spermatozele",
+              "rubrics": {
+                "preferred": "Spermatozele"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N44",
+          "kind": "category",
+          "label": "Hodentorsion und Hydatidentorsion",
+          "rubrics": {
+            "preferred": "Hodentorsion und Hydatidentorsion"
+          },
+          "children": [
+            {
+              "code": "N44.0",
+              "kind": "category",
+              "label": "Hodentorsion",
+              "rubrics": {
+                "preferred": "Hodentorsion",
+                "inclusion": "Torsion:\n\t\t\t\tTestis"
+              },
+              "children": []
+            },
+            {
+              "code": "N44.1",
+              "kind": "category",
+              "label": "Hydatidentorsion",
+              "rubrics": {
+                "preferred": "Hydatidentorsion"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N45",
+          "kind": "category",
+          "label": "Orchitis und Epididymitis",
+          "rubrics": {
+            "preferred": "Orchitis und Epididymitis",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+          },
+          "children": [
+            {
+              "code": "N45.0",
+              "kind": "category",
+              "label": "Orchitis, Epididymitis und Epididymoorchitis mit Abszess",
+              "rubrics": {
+                "preferred": "Orchitis, Epididymitis und Epididymoorchitis mit Abszess",
+                "inclusion": "Abszess der Nebenhoden oder Hoden"
+              },
+              "children": []
+            },
+            {
+              "code": "N45.9",
+              "kind": "category",
+              "label": "Orchitis, Epididymitis und Epididymoorchitis ohne Abszess",
+              "rubrics": {
+                "preferred": "Orchitis, Epididymitis und Epididymoorchitis ohne Abszess",
+                "inclusion": "Orchitis o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N46",
+          "kind": "category",
+          "label": "Sterilität beim Mann",
+          "rubrics": {
+            "preferred": "Sterilität beim Mann",
+            "inclusion": "Oligozoospermie o.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "N47",
+          "kind": "category",
+          "label": "Vorhauthypertrophie, Phimose und Paraphimose",
+          "rubrics": {
+            "preferred": "Vorhauthypertrophie, Phimose und Paraphimose",
+            "inclusion": "Vorhautverengung"
+          },
+          "children": []
+        },
+        {
+          "code": "N48",
+          "kind": "category",
+          "label": "Sonstige Krankheiten des Penis",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten des Penis"
+          },
+          "children": [
+            {
+              "code": "N48.0",
+              "kind": "category",
+              "label": "Leukoplakie des Penis",
+              "rubrics": {
+                "preferred": "Leukoplakie des Penis",
+                "inclusion": "Kraurosis des Penis",
+                "exclusion": "Carcinoma in situ des PenisD07.4"
+              },
+              "children": []
+            },
+            {
+              "code": "N48.1",
+              "kind": "category",
+              "label": "Balanoposthitis",
+              "rubrics": {
+                "preferred": "Balanoposthitis",
+                "inclusion": "Balanitis",
+                "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "N48.2",
+              "kind": "category",
+              "label": "Sonstige entzündliche Krankheiten des Penis",
+              "rubrics": {
+                "preferred": "Sonstige entzündliche Krankheiten des Penis",
+                "inclusion": "Kavernitis (Penis)",
+                "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+              },
+              "children": []
+            },
+            {
+              "code": "N48.3",
+              "kind": "category",
+              "label": "Priapismus",
+              "rubrics": {
+                "preferred": "Priapismus",
+                "inclusion": "Schmerzhafte Dauererektion"
+              },
+              "children": [
+                {
+                  "code": "N48.30",
+                  "kind": "category",
+                  "label": "Priapismus vom Low-Flow-Typ",
+                  "rubrics": {
+                    "preferred": "Priapismus vom Low-Flow-Typ"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N48.31",
+                  "kind": "category",
+                  "label": "Priapismus vom High-Flow-Typ",
+                  "rubrics": {
+                    "preferred": "Priapismus vom High-Flow-Typ"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N48.38",
+                  "kind": "category",
+                  "label": "Sonstiger Priapismus",
+                  "rubrics": {
+                    "preferred": "Sonstiger Priapismus"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N48.39",
+                  "kind": "category",
+                  "label": "Priapismus, nicht näher bezeichnet",
+                  "rubrics": {
+                    "preferred": "Priapismus, nicht näher bezeichnet"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N48.4",
+              "kind": "category",
+              "label": "Impotenz organischen Ursprungs",
+              "rubrics": {
+                "preferred": "Impotenz organischen Ursprungs",
+                "coding-hint": "Soll die Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer zu benutzen.",
+                "exclusion": "Psychogene ImpotenzF52.2"
+              },
+              "children": []
+            },
+            {
+              "code": "N48.5",
+              "kind": "category",
+              "label": "Ulkus des Penis",
+              "rubrics": {
+                "preferred": "Ulkus des Penis"
+              },
+              "children": []
+            },
+            {
+              "code": "N48.6",
+              "kind": "category",
+              "label": "Induratio penis plastica",
+              "rubrics": {
+                "preferred": "Induratio penis plastica",
+                "inclusion": "Peyronie-Krankheit"
+              },
+              "children": []
+            },
+            {
+              "code": "N48.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten des Penis",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten des Penis",
+                "inclusion": "Thrombose\n\t\t\t\tCorpus cavernosum und Penis"
+              },
+              "children": []
+            },
+            {
+              "code": "N48.9",
+              "kind": "category",
+              "label": "Krankheit des Penis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit des Penis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N49",
+          "kind": "category",
+          "label": "Entzündliche Krankheiten der männlichen Genitalorgane, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Entzündliche Krankheiten der männlichen Genitalorgane, anderenorts nicht klassifiziert",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+            "exclusion": "Orchitis und EpididymitisN45.-"
+          },
+          "children": [
+            {
+              "code": "N49.0",
+              "kind": "category",
+              "label": "Entzündliche Krankheiten der Vesicula seminalis",
+              "rubrics": {
+                "preferred": "Entzündliche Krankheiten der Vesicula seminalis",
+                "inclusion": "Vesikulitis o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N49.1",
+              "kind": "category",
+              "label": "Entzündliche Krankheiten des Funiculus spermaticus, der Tunica vaginalis testis und des Ductus deferens",
+              "rubrics": {
+                "preferred": "Entzündliche Krankheiten des Funiculus spermaticus, der Tunica vaginalis testis und des Ductus deferens",
+                "inclusion": "Samenleiterentzündung"
+              },
+              "children": []
+            },
+            {
+              "code": "N49.2",
+              "kind": "category",
+              "label": "Entzündliche Krankheiten des Skrotums",
+              "rubrics": {
+                "preferred": "Entzündliche Krankheiten des Skrotums"
+              },
+              "children": []
+            },
+            {
+              "code": "N49.8",
+              "kind": "category",
+              "label": "Entzündliche Krankheiten sonstiger näher bezeichneter männlicher Genitalorgane",
+              "rubrics": {
+                "preferred": "Entzündliche Krankheiten sonstiger näher bezeichneter männlicher Genitalorgane",
+                "inclusion": "Entzündung der männlichen Genitalorgane an mehreren Lokalisationen"
+              },
+              "children": [
+                {
+                  "code": "N49.80",
+                  "kind": "category",
+                  "label": "Fournier-Gangrän beim Mann",
+                  "rubrics": {
+                    "preferred": "Fournier-Gangrän beim Mann"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N49.88",
+                  "kind": "category",
+                  "label": "Entzündliche Krankheiten sonstiger näher bezeichneter männlicher Genitalorgane",
+                  "rubrics": {
+                    "preferred": "Entzündliche Krankheiten sonstiger näher bezeichneter männlicher Genitalorgane"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N49.9",
+              "kind": "category",
+              "label": "Entzündliche Krankheit eines nicht näher bezeichneten männlichen Genitalorgans",
+              "rubrics": {
+                "preferred": "Entzündliche Krankheit eines nicht näher bezeichneten männlichen Genitalorgans",
+                "inclusion": "Phlegmone\n\t\t\t\tnicht näher bezeichnetes männliches Genitalorgan"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N50",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der männlichen Genitalorgane",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der männlichen Genitalorgane",
+            "exclusion": "HydatidentorsionN44.1"
+          },
+          "children": [
+            {
+              "code": "N50.0",
+              "kind": "category",
+              "label": "Hodenatrophie",
+              "rubrics": {
+                "preferred": "Hodenatrophie"
+              },
+              "children": []
+            },
+            {
+              "code": "N50.1",
+              "kind": "category",
+              "label": "Gefäßkrankheiten der männlichen Genitalorgane",
+              "rubrics": {
+                "preferred": "Gefäßkrankheiten der männlichen Genitalorgane",
+                "inclusion": "Thrombose\n\t\t\t\tmännliche Genitalorgane"
+              },
+              "children": []
+            },
+            {
+              "code": "N50.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der männlichen Genitalorgane",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der männlichen Genitalorgane",
+                "inclusion": "Striktur:\n\t\t\t\tTunica vaginalis testis"
+              },
+              "children": []
+            },
+            {
+              "code": "N50.9",
+              "kind": "category",
+              "label": "Krankheit der männlichen Genitalorgane, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der männlichen Genitalorgane, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N51",
+          "kind": "category",
+          "label": "Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "N51.0",
+              "kind": "category",
+              "label": "Krankheiten der Prostata bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Krankheiten der Prostata bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Prostatitis:\n\t\t\t\ttuberkulösA18.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N51.1",
+              "kind": "category",
+              "label": "Krankheiten des Hodens und des Nebenhodens bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Krankheiten des Hodens und des Nebenhodens bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Tuberkulose:\n\t\t\t\tNebenhodenA18.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N51.2",
+              "kind": "category",
+              "label": "Balanitis bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Balanitis bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Balanitis:\n\t\t\t\tdurch CandidaB37.4"
+              },
+              "children": []
+            },
+            {
+              "code": "N51.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten",
+                "inclusion": "Tuberkulose der Vesicula seminalisA18.1"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "N60-N64",
+      "kind": "block",
+      "label": "Krankheiten der Mamma [Brustdrüse]",
+      "rubrics": {
+        "preferred": "Krankheiten der Mamma [Brustdrüse]",
+        "exclusion": "Krankheiten der Mamma im Zusammenhang mit der GestationO91-O92"
+      },
+      "children": [
+        {
+          "code": "N60",
+          "kind": "category",
+          "label": "Gutartige Mammadysplasie [Brustdrüsendysplasie]",
+          "rubrics": {
+            "preferred": "Gutartige Mammadysplasie [Brustdrüsendysplasie]",
+            "inclusion": "Fibrozystische Mastopathie"
+          },
+          "children": [
+            {
+              "code": "N60.0",
+              "kind": "category",
+              "label": "Solitärzyste der Mamma",
+              "rubrics": {
+                "preferred": "Solitärzyste der Mamma",
+                "inclusion": "Zyste der Mamma"
+              },
+              "children": []
+            },
+            {
+              "code": "N60.1",
+              "kind": "category",
+              "label": "Diffuse zystische Mastopathie",
+              "rubrics": {
+                "preferred": "Diffuse zystische Mastopathie",
+                "inclusion": "Zystenmamma",
+                "exclusion": "Mit epithelialer ProliferationN60.3"
+              },
+              "children": []
+            },
+            {
+              "code": "N60.2",
+              "kind": "category",
+              "label": "Fibroadenose der Mamma",
+              "rubrics": {
+                "preferred": "Fibroadenose der Mamma",
+                "exclusion": "Fibroadenom der MammaD24"
+              },
+              "children": []
+            },
+            {
+              "code": "N60.3",
+              "kind": "category",
+              "label": "Fibrosklerose der Mamma",
+              "rubrics": {
+                "preferred": "Fibrosklerose der Mamma",
+                "inclusion": "Zystische Mastopathie mit epithelialer Proliferation"
+              },
+              "children": []
+            },
+            {
+              "code": "N60.4",
+              "kind": "category",
+              "label": "Ektasie der Ductus lactiferi",
+              "rubrics": {
+                "preferred": "Ektasie der Ductus lactiferi"
+              },
+              "children": []
+            },
+            {
+              "code": "N60.8",
+              "kind": "category",
+              "label": "Sonstige gutartige Mammadysplasien",
+              "rubrics": {
+                "preferred": "Sonstige gutartige Mammadysplasien"
+              },
+              "children": []
+            },
+            {
+              "code": "N60.9",
+              "kind": "category",
+              "label": "Gutartige Mammadysplasie, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Gutartige Mammadysplasie, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N61",
+          "kind": "category",
+          "label": "Entzündliche Krankheiten der Mamma [Brustdrüse]",
+          "rubrics": {
+            "preferred": "Entzündliche Krankheiten der Mamma [Brustdrüse]",
+            "inclusion": "Mastitis (akut) (subakut) (nichtpuerperal):\n\t\t\t\to.n.A.",
+            "exclusion": "Infektiöse Mastitis beim NeugeborenenP39.0"
+          },
+          "children": []
+        },
+        {
+          "code": "N62",
+          "kind": "category",
+          "label": "Hypertrophie der Mamma [Brustdrüse]",
+          "rubrics": {
+            "preferred": "Hypertrophie der Mamma [Brustdrüse]",
+            "inclusion": "Hypertrophie der Mamma:\n\t\t\t\to.n.A."
+          },
+          "children": []
+        },
+        {
+          "code": "N63",
+          "kind": "category",
+          "label": "Nicht näher bezeichnete Knoten in der Mamma [Brustdrüse]",
+          "rubrics": {
+            "preferred": "Nicht näher bezeichnete Knoten in der Mamma [Brustdrüse]",
+            "inclusion": "Einer oder mehrere Knoten o.n.A. in der Mamma"
+          },
+          "children": []
+        },
+        {
+          "code": "N64",
+          "kind": "category",
+          "label": "Sonstige Krankheiten der Mamma [Brustdrüse]",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten der Mamma [Brustdrüse]"
+          },
+          "children": [
+            {
+              "code": "N64.0",
+              "kind": "category",
+              "label": "Fissur und Fistel der Brustwarze",
+              "rubrics": {
+                "preferred": "Fissur und Fistel der Brustwarze"
+              },
+              "children": []
+            },
+            {
+              "code": "N64.1",
+              "kind": "category",
+              "label": "Fettgewebsnekrose der Mamma",
+              "rubrics": {
+                "preferred": "Fettgewebsnekrose der Mamma",
+                "inclusion": "Fettgewebsnekrose (segmentär) der Mamma"
+              },
+              "children": []
+            },
+            {
+              "code": "N64.2",
+              "kind": "category",
+              "label": "Atrophie der Mamma",
+              "rubrics": {
+                "preferred": "Atrophie der Mamma"
+              },
+              "children": []
+            },
+            {
+              "code": "N64.3",
+              "kind": "category",
+              "label": "Galaktorrhoe, nicht im Zusammenhang mit der Geburt",
+              "rubrics": {
+                "preferred": "Galaktorrhoe, nicht im Zusammenhang mit der Geburt"
+              },
+              "children": []
+            },
+            {
+              "code": "N64.4",
+              "kind": "category",
+              "label": "Mastodynie",
+              "rubrics": {
+                "preferred": "Mastodynie"
+              },
+              "children": []
+            },
+            {
+              "code": "N64.5",
+              "kind": "category",
+              "label": "Sonstige Symptome der Mamma",
+              "rubrics": {
+                "preferred": "Sonstige Symptome der Mamma",
+                "inclusion": "Retraktion der Brustwarze"
+              },
+              "children": []
+            },
+            {
+              "code": "N64.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Krankheiten der Mamma",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Krankheiten der Mamma",
+                "inclusion": "Mangelhafte Rückbildung der Mamma (nach Laktation)"
+              },
+              "children": []
+            },
+            {
+              "code": "N64.9",
+              "kind": "category",
+              "label": "Krankheit der Mamma, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Mamma, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "N70-N77",
+      "kind": "block",
+      "label": "Entzündliche Krankheiten der weiblichen Beckenorgane",
+      "rubrics": {
+        "preferred": "Entzündliche Krankheiten der weiblichen Beckenorgane",
+        "exclusion": "Als Komplikation bei:\n\t\t\t\tSchwangerschaft, Geburt und WochenbettO23.-O75.3O85O86.-"
+      },
+      "children": [
+        {
+          "code": "N70",
+          "kind": "category",
+          "label": "Salpingitis und Oophoritis",
+          "rubrics": {
+            "preferred": "Salpingitis und Oophoritis",
+            "inclusion": "Tuboovarialentzündung",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+          },
+          "children": [
+            {
+              "code": "N70.0",
+              "kind": "category",
+              "label": "Akute Salpingitis und Oophoritis",
+              "rubrics": {
+                "preferred": "Akute Salpingitis und Oophoritis"
+              },
+              "children": []
+            },
+            {
+              "code": "N70.1",
+              "kind": "category",
+              "label": "Chronische Salpingitis und Oophoritis",
+              "rubrics": {
+                "preferred": "Chronische Salpingitis und Oophoritis",
+                "inclusion": "Hydrosalpinx"
+              },
+              "children": []
+            },
+            {
+              "code": "N70.9",
+              "kind": "category",
+              "label": "Salpingitis und Oophoritis, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Salpingitis und Oophoritis, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N71",
+          "kind": "category",
+          "label": "Entzündliche Krankheit des Uterus, ausgenommen der Zervix",
+          "rubrics": {
+            "preferred": "Entzündliche Krankheit des Uterus, ausgenommen der Zervix",
+            "inclusion": "Uterusabszess",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+          },
+          "children": [
+            {
+              "code": "N71.0",
+              "kind": "category",
+              "label": "Akute entzündliche Krankheit des Uterus, ausgenommen der Zervix",
+              "rubrics": {
+                "preferred": "Akute entzündliche Krankheit des Uterus, ausgenommen der Zervix"
+              },
+              "children": []
+            },
+            {
+              "code": "N71.1",
+              "kind": "category",
+              "label": "Chronische entzündliche Krankheit des Uterus, ausgenommen der Zervix",
+              "rubrics": {
+                "preferred": "Chronische entzündliche Krankheit des Uterus, ausgenommen der Zervix"
+              },
+              "children": []
+            },
+            {
+              "code": "N71.9",
+              "kind": "category",
+              "label": "Entzündliche Krankheit des Uterus, ausgenommen der Zervix, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Entzündliche Krankheit des Uterus, ausgenommen der Zervix, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N72",
+          "kind": "category",
+          "label": "Entzündliche Krankheit der Cervix uteri",
+          "rubrics": {
+            "preferred": "Entzündliche Krankheit der Cervix uteri",
+            "inclusion": "Zervizitis\n\t\t\t\tmit oder ohne Erosion oder Ektropium",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+            "exclusion": "Erosion und Ektropium der Cervix uteri ohne ZervizitisN86"
+          },
+          "children": []
+        },
+        {
+          "code": "N73",
+          "kind": "category",
+          "label": "Sonstige entzündliche Krankheiten im weiblichen Becken",
+          "rubrics": {
+            "preferred": "Sonstige entzündliche Krankheiten im weiblichen Becken",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen."
+          },
+          "children": [
+            {
+              "code": "N73.0",
+              "kind": "category",
+              "label": "Akute Parametritis und Entzündung des Beckenbindegewebes",
+              "rubrics": {
+                "preferred": "Akute Parametritis und Entzündung des Beckenbindegewebes",
+                "inclusion": "Bindegewebsentzündung im weiblichen Becken\n\t\t\t\tals akut bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "N73.1",
+              "kind": "category",
+              "label": "Chronische Parametritis und Entzündung des Beckenbindegewebes",
+              "rubrics": {
+                "preferred": "Chronische Parametritis und Entzündung des Beckenbindegewebes",
+                "inclusion": "Jeder Zustand unter N73.0, als chronisch bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "N73.2",
+              "kind": "category",
+              "label": "Nicht näher bezeichnete Parametritis und Entzündung des Beckenbindegewebes",
+              "rubrics": {
+                "preferred": "Nicht näher bezeichnete Parametritis und Entzündung des Beckenbindegewebes",
+                "inclusion": "Jeder Zustand unter N73.0 ohne Angabe, ob akut oder chronisch"
+              },
+              "children": []
+            },
+            {
+              "code": "N73.3",
+              "kind": "category",
+              "label": "Akute Pelveoperitonitis bei der Frau",
+              "rubrics": {
+                "preferred": "Akute Pelveoperitonitis bei der Frau"
+              },
+              "children": []
+            },
+            {
+              "code": "N73.4",
+              "kind": "category",
+              "label": "Chronische Pelveoperitonitis bei der Frau",
+              "rubrics": {
+                "preferred": "Chronische Pelveoperitonitis bei der Frau"
+              },
+              "children": []
+            },
+            {
+              "code": "N73.5",
+              "kind": "category",
+              "label": "Pelveoperitonitis bei der Frau, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Pelveoperitonitis bei der Frau, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "N73.6",
+              "kind": "category",
+              "label": "Peritoneale Adhäsionen im weiblichen Becken",
+              "rubrics": {
+                "preferred": "Peritoneale Adhäsionen im weiblichen Becken",
+                "exclusion": "Peritoneale Adhäsionen im Becken nach medizinischen MaßnahmenN99.4"
+              },
+              "children": []
+            },
+            {
+              "code": "N73.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete entzündliche Krankheiten im weiblichen Becken",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete entzündliche Krankheiten im weiblichen Becken"
+              },
+              "children": []
+            },
+            {
+              "code": "N73.9",
+              "kind": "category",
+              "label": "Entzündliche Krankheit im weiblichen Becken, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Entzündliche Krankheit im weiblichen Becken, nicht näher bezeichnet",
+                "inclusion": "Infektion oder Entzündung im weiblichen Becken o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N74",
+          "kind": "category",
+          "label": "Entzündung im weiblichen Becken bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Entzündung im weiblichen Becken bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "N74.0",
+              "kind": "category",
+              "label": "Tuberkulöse Infektion der Cervix uteriA18.1",
+              "rubrics": {
+                "preferred": "Tuberkulöse Infektion der Cervix uteriA18.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N74.1",
+              "kind": "category",
+              "label": "Tuberkulöse Entzündung im weiblichen BeckenA18.1",
+              "rubrics": {
+                "preferred": "Tuberkulöse Entzündung im weiblichen BeckenA18.1",
+                "inclusion": "Tuberkulöse Endometritis"
+              },
+              "children": []
+            },
+            {
+              "code": "N74.2",
+              "kind": "category",
+              "label": "Syphilitische Entzündung im weiblichen BeckenA51.4A52.7",
+              "rubrics": {
+                "preferred": "Syphilitische Entzündung im weiblichen BeckenA51.4A52.7"
+              },
+              "children": []
+            },
+            {
+              "code": "N74.3",
+              "kind": "category",
+              "label": "Entzündung im weiblichen Becken durch GonokokkenA54.2",
+              "rubrics": {
+                "preferred": "Entzündung im weiblichen Becken durch GonokokkenA54.2"
+              },
+              "children": []
+            },
+            {
+              "code": "N74.4",
+              "kind": "category",
+              "label": "Entzündung im weiblichen Becken durch ChlamydienA56.1",
+              "rubrics": {
+                "preferred": "Entzündung im weiblichen Becken durch ChlamydienA56.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N74.8",
+              "kind": "category",
+              "label": "Entzündung im weiblichen Becken bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Entzündung im weiblichen Becken bei sonstigen anderenorts klassifizierten Krankheiten"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N75",
+          "kind": "category",
+          "label": "Krankheiten der Bartholin-Drüsen",
+          "rubrics": {
+            "preferred": "Krankheiten der Bartholin-Drüsen"
+          },
+          "children": [
+            {
+              "code": "N75.0",
+              "kind": "category",
+              "label": "Bartholin-Zyste",
+              "rubrics": {
+                "preferred": "Bartholin-Zyste"
+              },
+              "children": []
+            },
+            {
+              "code": "N75.1",
+              "kind": "category",
+              "label": "Bartholin-Abszess",
+              "rubrics": {
+                "preferred": "Bartholin-Abszess"
+              },
+              "children": []
+            },
+            {
+              "code": "N75.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten der Bartholin-Drüsen",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten der Bartholin-Drüsen",
+                "inclusion": "Bartholinitis"
+              },
+              "children": []
+            },
+            {
+              "code": "N75.9",
+              "kind": "category",
+              "label": "Krankheit der Bartholin-Drüsen, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit der Bartholin-Drüsen, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N76",
+          "kind": "category",
+          "label": "Sonstige entzündliche Krankheit der Vagina und Vulva",
+          "rubrics": {
+            "preferred": "Sonstige entzündliche Krankheit der Vagina und Vulva",
+            "coding-hint": "Soll der Infektionserreger angegeben werden, ist eine zusätzliche Schlüsselnummer (B95-B98) zu benutzen.",
+            "exclusion": "Senile (atrophische) KolpitisN95.2"
+          },
+          "children": [
+            {
+              "code": "N76.0",
+              "kind": "category",
+              "label": "Akute Kolpitis",
+              "rubrics": {
+                "preferred": "Akute Kolpitis",
+                "inclusion": "Vulvovaginitis:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N76.1",
+              "kind": "category",
+              "label": "Subakute und chronische Kolpitis",
+              "rubrics": {
+                "preferred": "Subakute und chronische Kolpitis",
+                "inclusion": "Vulvovaginitis:\n\t\t\t\tsubakut"
+              },
+              "children": []
+            },
+            {
+              "code": "N76.2",
+              "kind": "category",
+              "label": "Akute Vulvitis",
+              "rubrics": {
+                "preferred": "Akute Vulvitis",
+                "inclusion": "Vulvitis o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N76.3",
+              "kind": "category",
+              "label": "Subakute und chronische Vulvitis",
+              "rubrics": {
+                "preferred": "Subakute und chronische Vulvitis"
+              },
+              "children": []
+            },
+            {
+              "code": "N76.4",
+              "kind": "category",
+              "label": "Abszess der Vulva",
+              "rubrics": {
+                "preferred": "Abszess der Vulva",
+                "inclusion": "Furunkel der Vulva"
+              },
+              "children": []
+            },
+            {
+              "code": "N76.5",
+              "kind": "category",
+              "label": "Ulzeration der Vagina",
+              "rubrics": {
+                "preferred": "Ulzeration der Vagina"
+              },
+              "children": []
+            },
+            {
+              "code": "N76.6",
+              "kind": "category",
+              "label": "Ulzeration der Vulva",
+              "rubrics": {
+                "preferred": "Ulzeration der Vulva"
+              },
+              "children": []
+            },
+            {
+              "code": "N76.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva"
+              },
+              "children": [
+                {
+                  "code": "N76.80",
+                  "kind": "category",
+                  "label": "Fournier-Gangrän bei der Frau",
+                  "rubrics": {
+                    "preferred": "Fournier-Gangrän bei der Frau"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N76.88",
+                  "kind": "category",
+                  "label": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva",
+                  "rubrics": {
+                    "preferred": "Sonstige näher bezeichnete entzündliche Krankheit der Vagina und Vulva"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "N77",
+          "kind": "category",
+          "label": "Vulvovaginale Ulzeration und Entzündung bei anderenorts klassifizierten Krankheiten",
+          "rubrics": {
+            "preferred": "Vulvovaginale Ulzeration und Entzündung bei anderenorts klassifizierten Krankheiten"
+          },
+          "children": [
+            {
+              "code": "N77.0",
+              "kind": "category",
+              "label": "Ulzeration der Vulva bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Ulzeration der Vulva bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "inclusion": "Ulzeration der Vulva bei:\n\t\t\t\tTuberkuloseA18.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N77.1",
+              "kind": "category",
+              "label": "Vaginitis, Vulvitis oder Vulvovaginitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+              "rubrics": {
+                "preferred": "Vaginitis, Vulvitis oder Vulvovaginitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+                "inclusion": "Vaginitis, Vulvitis und Vulvovaginitis bei:\n\t\t\t\tInfektion durch Herpesviren [Herpes simplex]A60.0"
+              },
+              "children": []
+            },
+            {
+              "code": "N77.2",
+              "kind": "category",
+              "label": "Vulvovaginale Ulzerationen und Entzündungen bei der chronischer Graft-versus-Host-Krankheit",
+              "rubrics": {
+                "preferred": "Vulvovaginale Ulzerationen und Entzündungen bei der chronischer Graft-versus-Host-Krankheit"
+              },
+              "children": [
+                {
+                  "code": "N77.21",
+                  "kind": "category",
+                  "label": "Stadium 1 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.05T86.06",
+                  "rubrics": {
+                    "preferred": "Stadium 1 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.05T86.06"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N77.22",
+                  "kind": "category",
+                  "label": "Stadium 2 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.06",
+                  "rubrics": {
+                    "preferred": "Stadium 2 der chronischen Vulvovaginal-Graft-versus-Host-Krankheit T86.06"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N77.23",
+                  "kind": "category",
+                  "label": "Stadium 3 der chronischen Vulvovaginal-Graft-versus-Host-KrankheitT86.07",
+                  "rubrics": {
+                    "preferred": "Stadium 3 der chronischen Vulvovaginal-Graft-versus-Host-KrankheitT86.07"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N77.8",
+              "kind": "category",
+              "label": "Vulvovaginale Ulzeration und Entzündung bei sonstigen anderenorts klassifizierten Krankheiten",
+              "rubrics": {
+                "preferred": "Vulvovaginale Ulzeration und Entzündung bei sonstigen anderenorts klassifizierten Krankheiten",
+                "inclusion": "Ulzeration der Vulva bei Behçet-KrankheitM35.2"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "N80-N98",
+      "kind": "block",
+      "label": "Nichtentzündliche Krankheiten des weiblichen Genitaltraktes",
+      "rubrics": {
+        "preferred": "Nichtentzündliche Krankheiten des weiblichen Genitaltraktes"
+      },
+      "children": [
+        {
+          "code": "N80",
+          "kind": "category",
+          "label": "Endometriose",
+          "rubrics": {
+            "preferred": "Endometriose"
+          },
+          "children": [
+            {
+              "code": "N80.0",
+              "kind": "category",
+              "label": "Endometriose des Uterus",
+              "rubrics": {
+                "preferred": "Endometriose des Uterus",
+                "inclusion": "Adenomyosis uteri"
+              },
+              "children": []
+            },
+            {
+              "code": "N80.1",
+              "kind": "category",
+              "label": "Endometriose des Ovars",
+              "rubrics": {
+                "preferred": "Endometriose des Ovars"
+              },
+              "children": []
+            },
+            {
+              "code": "N80.2",
+              "kind": "category",
+              "label": "Endometriose der Tuba uterina",
+              "rubrics": {
+                "preferred": "Endometriose der Tuba uterina"
+              },
+              "children": []
+            },
+            {
+              "code": "N80.3",
+              "kind": "category",
+              "label": "Endometriose des Beckenperitoneums",
+              "rubrics": {
+                "preferred": "Endometriose des Beckenperitoneums"
+              },
+              "children": []
+            },
+            {
+              "code": "N80.4",
+              "kind": "category",
+              "label": "Endometriose des Septum rectovaginale und der Vagina",
+              "rubrics": {
+                "preferred": "Endometriose des Septum rectovaginale und der Vagina"
+              },
+              "children": []
+            },
+            {
+              "code": "N80.5",
+              "kind": "category",
+              "label": "Endometriose des Darmes",
+              "rubrics": {
+                "preferred": "Endometriose des Darmes"
+              },
+              "children": []
+            },
+            {
+              "code": "N80.6",
+              "kind": "category",
+              "label": "Endometriose in Hautnarbe",
+              "rubrics": {
+                "preferred": "Endometriose in Hautnarbe"
+              },
+              "children": []
+            },
+            {
+              "code": "N80.8",
+              "kind": "category",
+              "label": "Sonstige Endometriose",
+              "rubrics": {
+                "preferred": "Sonstige Endometriose",
+                "inclusion": "Thorakale Endometriose"
+              },
+              "children": []
+            },
+            {
+              "code": "N80.9",
+              "kind": "category",
+              "label": "Endometriose, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Endometriose, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N81",
+          "kind": "category",
+          "label": "Genitalprolaps bei der Frau",
+          "rubrics": {
+            "preferred": "Genitalprolaps bei der Frau",
+            "exclusion": "Prolaps oder Hernie des Ovars und der Tuba uterinaN83.4"
+          },
+          "children": [
+            {
+              "code": "N81.0",
+              "kind": "category",
+              "label": "Urethrozele bei der Frau",
+              "rubrics": {
+                "preferred": "Urethrozele bei der Frau",
+                "exclusion": "Urethrozele (mit):\n\t\t\t\tZystozeleN81.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N81.1",
+              "kind": "category",
+              "label": "Zystozele",
+              "rubrics": {
+                "preferred": "Zystozele",
+                "inclusion": "Zystozele mit Urethrozele",
+                "exclusion": "Zystozele mit UterusprolapsN81.2-N81.4"
+              },
+              "children": []
+            },
+            {
+              "code": "N81.2",
+              "kind": "category",
+              "label": "Partialprolaps des Uterus und der Vagina",
+              "rubrics": {
+                "preferred": "Partialprolaps des Uterus und der Vagina",
+                "inclusion": "Uterusprolaps 1. und 2. Grades"
+              },
+              "children": []
+            },
+            {
+              "code": "N81.3",
+              "kind": "category",
+              "label": "Totalprolaps des Uterus und der Vagina",
+              "rubrics": {
+                "preferred": "Totalprolaps des Uterus und der Vagina",
+                "inclusion": "Uterusprolaps 3. und 4. Grades"
+              },
+              "children": []
+            },
+            {
+              "code": "N81.4",
+              "kind": "category",
+              "label": "Uterovaginalprolaps, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Uterovaginalprolaps, nicht näher bezeichnet",
+                "inclusion": "Uterusprolaps o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N81.5",
+              "kind": "category",
+              "label": "Vaginale Enterozele",
+              "rubrics": {
+                "preferred": "Vaginale Enterozele",
+                "exclusion": "Enterozele mit UterusprolapsN81.2-N81.4"
+              },
+              "children": []
+            },
+            {
+              "code": "N81.6",
+              "kind": "category",
+              "label": "Rektozele",
+              "rubrics": {
+                "preferred": "Rektozele",
+                "inclusion": "Prolaps der hinteren Scheidenwand",
+                "exclusion": "RektumprolapsK62.3"
+              },
+              "children": []
+            },
+            {
+              "code": "N81.8",
+              "kind": "category",
+              "label": "Sonstiger Genitalprolaps bei der Frau",
+              "rubrics": {
+                "preferred": "Sonstiger Genitalprolaps bei der Frau",
+                "inclusion": "Insuffizienz des Perineums"
+              },
+              "children": []
+            },
+            {
+              "code": "N81.9",
+              "kind": "category",
+              "label": "Genitalprolaps bei der Frau, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Genitalprolaps bei der Frau, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N82",
+          "kind": "category",
+          "label": "Fisteln mit Beteiligung des weiblichen Genitaltraktes",
+          "rubrics": {
+            "preferred": "Fisteln mit Beteiligung des weiblichen Genitaltraktes",
+            "exclusion": "VesikointestinalfistelnN32.1"
+          },
+          "children": [
+            {
+              "code": "N82.0",
+              "kind": "category",
+              "label": "Vesikovaginalfistel",
+              "rubrics": {
+                "preferred": "Vesikovaginalfistel"
+              },
+              "children": []
+            },
+            {
+              "code": "N82.1",
+              "kind": "category",
+              "label": "Sonstige Fisteln zwischen weiblichem Harn- und Genitaltrakt",
+              "rubrics": {
+                "preferred": "Sonstige Fisteln zwischen weiblichem Harn- und Genitaltrakt",
+                "inclusion": "Fistel:\n\t\t\t\tvesikozervikal"
+              },
+              "children": []
+            },
+            {
+              "code": "N82.2",
+              "kind": "category",
+              "label": "Fistel zwischen Vagina und Dünndarm",
+              "rubrics": {
+                "preferred": "Fistel zwischen Vagina und Dünndarm"
+              },
+              "children": []
+            },
+            {
+              "code": "N82.3",
+              "kind": "category",
+              "label": "Fistel zwischen Vagina und Dickdarm",
+              "rubrics": {
+                "preferred": "Fistel zwischen Vagina und Dickdarm",
+                "inclusion": "Rektovaginalfistel"
+              },
+              "children": []
+            },
+            {
+              "code": "N82.4",
+              "kind": "category",
+              "label": "Sonstige Fisteln zwischen weiblichem Genital- und Darmtrakt",
+              "rubrics": {
+                "preferred": "Sonstige Fisteln zwischen weiblichem Genital- und Darmtrakt",
+                "inclusion": "Intestinouterine Fistel"
+              },
+              "children": []
+            },
+            {
+              "code": "N82.5",
+              "kind": "category",
+              "label": "Fisteln zwischen weiblichem Genitaltrakt und Haut",
+              "rubrics": {
+                "preferred": "Fisteln zwischen weiblichem Genitaltrakt und Haut",
+                "inclusion": "Fistel:\n\t\t\t\tvaginoperineal"
+              },
+              "children": []
+            },
+            {
+              "code": "N82.8",
+              "kind": "category",
+              "label": "Sonstige Fisteln des weiblichen Genitaltraktes",
+              "rubrics": {
+                "preferred": "Sonstige Fisteln des weiblichen Genitaltraktes"
+              },
+              "children": [
+                {
+                  "code": "N82.80",
+                  "kind": "category",
+                  "label": "Fistel zwischen Vagina und Pouch als Rektumersatz",
+                  "rubrics": {
+                    "preferred": "Fistel zwischen Vagina und Pouch als Rektumersatz"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N82.81",
+                  "kind": "category",
+                  "label": "Fistel zwischen Vagina und Ersatzharnblase",
+                  "rubrics": {
+                    "preferred": "Fistel zwischen Vagina und Ersatzharnblase"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N82.88",
+                  "kind": "category",
+                  "label": "Sonstige Fisteln des weiblichen Genitaltraktes",
+                  "rubrics": {
+                    "preferred": "Sonstige Fisteln des weiblichen Genitaltraktes"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N82.9",
+              "kind": "category",
+              "label": "Fistel des weiblichen Genitaltraktes, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Fistel des weiblichen Genitaltraktes, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N83",
+          "kind": "category",
+          "label": "Nichtentzündliche Krankheiten des Ovars, der Tuba uterina und des Lig. latum uteri",
+          "rubrics": {
+            "preferred": "Nichtentzündliche Krankheiten des Ovars, der Tuba uterina und des Lig. latum uteri",
+            "exclusion": "HydrosalpinxN70.1"
+          },
+          "children": [
+            {
+              "code": "N83.0",
+              "kind": "category",
+              "label": "Follikelzyste des Ovars",
+              "rubrics": {
+                "preferred": "Follikelzyste des Ovars",
+                "inclusion": "Zyste des Graaf-Follikels"
+              },
+              "children": []
+            },
+            {
+              "code": "N83.1",
+              "kind": "category",
+              "label": "Zyste des Corpus luteum",
+              "rubrics": {
+                "preferred": "Zyste des Corpus luteum",
+                "inclusion": "Hämorrhagische Zyste des Corpus luteum"
+              },
+              "children": []
+            },
+            {
+              "code": "N83.2",
+              "kind": "category",
+              "label": "Sonstige und nicht näher bezeichnete Ovarialzysten",
+              "rubrics": {
+                "preferred": "Sonstige und nicht näher bezeichnete Ovarialzysten",
+                "inclusion": "Retentionszyste\n\t\t\t\tOvar",
+                "exclusion": "Syndrom polyzystischer OvarienE28.2"
+              },
+              "children": []
+            },
+            {
+              "code": "N83.3",
+              "kind": "category",
+              "label": "Erworbene Atrophie des Ovars und der Tuba uterina",
+              "rubrics": {
+                "preferred": "Erworbene Atrophie des Ovars und der Tuba uterina"
+              },
+              "children": []
+            },
+            {
+              "code": "N83.4",
+              "kind": "category",
+              "label": "Prolaps oder Hernie des Ovars und der Tuba uterina",
+              "rubrics": {
+                "preferred": "Prolaps oder Hernie des Ovars und der Tuba uterina"
+              },
+              "children": []
+            },
+            {
+              "code": "N83.5",
+              "kind": "category",
+              "label": "Torsion des Ovars, des Ovarstieles und der Tuba uterina",
+              "rubrics": {
+                "preferred": "Torsion des Ovars, des Ovarstieles und der Tuba uterina",
+                "inclusion": "Torsion:\n\t\t\t\tMorgagni-Hydatide"
+              },
+              "children": []
+            },
+            {
+              "code": "N83.6",
+              "kind": "category",
+              "label": "Hämatosalpinx",
+              "rubrics": {
+                "preferred": "Hämatosalpinx",
+                "exclusion": "Hämatosalpinx mit:\n\t\t\t\tHämatometraN85.7"
+              },
+              "children": []
+            },
+            {
+              "code": "N83.7",
+              "kind": "category",
+              "label": "Hämatom des Lig. latum uteri",
+              "rubrics": {
+                "preferred": "Hämatom des Lig. latum uteri"
+              },
+              "children": []
+            },
+            {
+              "code": "N83.8",
+              "kind": "category",
+              "label": "Sonstige nichtentzündliche Krankheiten des Ovars, der Tuba uterina und des Lig. latum uteri",
+              "rubrics": {
+                "preferred": "Sonstige nichtentzündliche Krankheiten des Ovars, der Tuba uterina und des Lig. latum uteri",
+                "inclusion": "Riss des Lig. latum uteri [Masters-Allen-Syndrom]"
+              },
+              "children": []
+            },
+            {
+              "code": "N83.9",
+              "kind": "category",
+              "label": "Nichtentzündliche Krankheit des Ovars, der Tuba uterina und des Lig. latum uteri, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Nichtentzündliche Krankheit des Ovars, der Tuba uterina und des Lig. latum uteri, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N84",
+          "kind": "category",
+          "label": "Polyp des weiblichen Genitaltraktes",
+          "rubrics": {
+            "preferred": "Polyp des weiblichen Genitaltraktes",
+            "exclusion": "PlazentapolypO90.8"
+          },
+          "children": [
+            {
+              "code": "N84.0",
+              "kind": "category",
+              "label": "Polyp des Corpus uteri",
+              "rubrics": {
+                "preferred": "Polyp des Corpus uteri",
+                "inclusion": "Polyp:\n\t\t\t\tUterus o.n.A.",
+                "exclusion": "Polypoide Hyperplasie des EndometriumsN85.0"
+              },
+              "children": []
+            },
+            {
+              "code": "N84.1",
+              "kind": "category",
+              "label": "Polyp der Cervix uteri",
+              "rubrics": {
+                "preferred": "Polyp der Cervix uteri",
+                "inclusion": "Schleimhautpolyp der Zervix"
+              },
+              "children": []
+            },
+            {
+              "code": "N84.2",
+              "kind": "category",
+              "label": "Polyp der Vagina",
+              "rubrics": {
+                "preferred": "Polyp der Vagina"
+              },
+              "children": []
+            },
+            {
+              "code": "N84.3",
+              "kind": "category",
+              "label": "Polyp der Vulva",
+              "rubrics": {
+                "preferred": "Polyp der Vulva",
+                "inclusion": "Polyp der Labien"
+              },
+              "children": []
+            },
+            {
+              "code": "N84.8",
+              "kind": "category",
+              "label": "Polyp an sonstigen Teilen des weiblichen Genitaltraktes",
+              "rubrics": {
+                "preferred": "Polyp an sonstigen Teilen des weiblichen Genitaltraktes"
+              },
+              "children": []
+            },
+            {
+              "code": "N84.9",
+              "kind": "category",
+              "label": "Polyp des weiblichen Genitaltraktes, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Polyp des weiblichen Genitaltraktes, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N85",
+          "kind": "category",
+          "label": "Sonstige nichtentzündliche Krankheiten des Uterus, ausgenommen der Zervix",
+          "rubrics": {
+            "preferred": "Sonstige nichtentzündliche Krankheiten des Uterus, ausgenommen der Zervix",
+            "exclusion": "Uterusprolaps N81.-"
+          },
+          "children": [
+            {
+              "code": "N85.0",
+              "kind": "category",
+              "label": "Glanduläre Hyperplasie des Endometriums",
+              "rubrics": {
+                "preferred": "Glanduläre Hyperplasie des Endometriums",
+                "inclusion": "Hyperplasie des Endometriums:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N85.1",
+              "kind": "category",
+              "label": "Adenomatöse Hyperplasie des Endometriums",
+              "rubrics": {
+                "preferred": "Adenomatöse Hyperplasie des Endometriums",
+                "inclusion": "Atypische (adenomatöse) Hyperplasie des Endometriums"
+              },
+              "children": []
+            },
+            {
+              "code": "N85.2",
+              "kind": "category",
+              "label": "Hypertrophie des Uterus",
+              "rubrics": {
+                "preferred": "Hypertrophie des Uterus",
+                "inclusion": "Verdickter oder vergrößerter Uterus",
+                "exclusion": "Puerperale Hypertrophie des UterusO90.8"
+              },
+              "children": []
+            },
+            {
+              "code": "N85.3",
+              "kind": "category",
+              "label": "Subinvolution des Uterus",
+              "rubrics": {
+                "preferred": "Subinvolution des Uterus",
+                "exclusion": "Puerperale Subinvolution des UterusO90.8"
+              },
+              "children": []
+            },
+            {
+              "code": "N85.4",
+              "kind": "category",
+              "label": "Lageanomalie des Uterus",
+              "rubrics": {
+                "preferred": "Lageanomalie des Uterus",
+                "inclusion": "Verstärkte Anteversio uteri",
+                "exclusion": "Komplikation bei Schwangerschaft, Wehen oder EntbindungO34.5O65.5"
+              },
+              "children": []
+            },
+            {
+              "code": "N85.5",
+              "kind": "category",
+              "label": "Inversio uteri",
+              "rubrics": {
+                "preferred": "Inversio uteri",
+                "exclusion": "Postpartale Inversio uteriO71.2"
+              },
+              "children": []
+            },
+            {
+              "code": "N85.6",
+              "kind": "category",
+              "label": "Intrauterine Synechien",
+              "rubrics": {
+                "preferred": "Intrauterine Synechien"
+              },
+              "children": []
+            },
+            {
+              "code": "N85.7",
+              "kind": "category",
+              "label": "Hämatometra",
+              "rubrics": {
+                "preferred": "Hämatometra",
+                "inclusion": "Hämatosalpinx mit Hämatometra",
+                "exclusion": "Hämatometra mit HämatokolposN89.7"
+              },
+              "children": []
+            },
+            {
+              "code": "N85.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete nichtentzündliche Krankheiten des Uterus",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete nichtentzündliche Krankheiten des Uterus",
+                "inclusion": "Fibrose des Uterus o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N85.9",
+              "kind": "category",
+              "label": "Nichtentzündliche Krankheit des Uterus, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Nichtentzündliche Krankheit des Uterus, nicht näher bezeichnet",
+                "inclusion": "Krankheit des Uterus o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N86",
+          "kind": "category",
+          "label": "Erosion und Ektropium der Cervix uteri",
+          "rubrics": {
+            "preferred": "Erosion und Ektropium der Cervix uteri",
+            "inclusion": "Eversion\n\t\t\t\tZervix",
+            "exclusion": "Mit ZervizitisN72"
+          },
+          "children": []
+        },
+        {
+          "code": "N87",
+          "kind": "category",
+          "label": "Dysplasie der Cervix uteri",
+          "rubrics": {
+            "preferred": "Dysplasie der Cervix uteri",
+            "exclusion": "Carcinoma in situ der Cervix uteriD06.-"
+          },
+          "children": [
+            {
+              "code": "N87.0",
+              "kind": "category",
+              "label": "Niedriggradige Dysplasie der Cervix uteri",
+              "rubrics": {
+                "preferred": "Niedriggradige Dysplasie der Cervix uteri",
+                "inclusion": "Zervikale intraepitheliale Neoplasie [CIN] I. Grades"
+              },
+              "children": []
+            },
+            {
+              "code": "N87.1",
+              "kind": "category",
+              "label": "Mittelgradige Dysplasie der Cervix uteri",
+              "rubrics": {
+                "preferred": "Mittelgradige Dysplasie der Cervix uteri",
+                "inclusion": "Zervikale intraepitheliale Neoplasie [CIN] II. Grades"
+              },
+              "children": []
+            },
+            {
+              "code": "N87.2",
+              "kind": "category",
+              "label": "Hochgradige Dysplasie der Cervix uteri, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Hochgradige Dysplasie der Cervix uteri, anderenorts nicht klassifiziert",
+                "inclusion": "Hochgradige zervikale Dysplasie o.n.A.",
+                "exclusion": "Zervikale intraepitheliale Neoplasie [CIN] III. Grades, mit oder ohne Angabe einer hochgradigen DysplasieD06.-"
+              },
+              "children": []
+            },
+            {
+              "code": "N87.9",
+              "kind": "category",
+              "label": "Dysplasie der Cervix uteri, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Dysplasie der Cervix uteri, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N88",
+          "kind": "category",
+          "label": "Sonstige nichtentzündliche Krankheiten der Cervix uteri",
+          "rubrics": {
+            "preferred": "Sonstige nichtentzündliche Krankheiten der Cervix uteri",
+            "exclusion": "ZervixpolypN84.1"
+          },
+          "children": [
+            {
+              "code": "N88.0",
+              "kind": "category",
+              "label": "Leukoplakie der Cervix uteri",
+              "rubrics": {
+                "preferred": "Leukoplakie der Cervix uteri"
+              },
+              "children": []
+            },
+            {
+              "code": "N88.1",
+              "kind": "category",
+              "label": "Alter Riss der Cervix uteri",
+              "rubrics": {
+                "preferred": "Alter Riss der Cervix uteri",
+                "inclusion": "Adhäsionen der Cervix uteri",
+                "exclusion": "Aktuelle GeburtsverletzungO71.3"
+              },
+              "children": []
+            },
+            {
+              "code": "N88.2",
+              "kind": "category",
+              "label": "Striktur und Stenose der Cervix uteri",
+              "rubrics": {
+                "preferred": "Striktur und Stenose der Cervix uteri",
+                "exclusion": "Als GeburtshindernisO65.5"
+              },
+              "children": []
+            },
+            {
+              "code": "N88.3",
+              "kind": "category",
+              "label": "Zervixinsuffizienz",
+              "rubrics": {
+                "preferred": "Zervixinsuffizienz",
+                "inclusion": "Untersuchung und Betreuung einer Nichtschwangeren bei (Verdacht auf) Zervixinsuffizienz",
+                "exclusion": "Zervixinsuffizienz als SchwangerschaftskomplikationO34.3-"
+              },
+              "children": []
+            },
+            {
+              "code": "N88.4",
+              "kind": "category",
+              "label": "Elongatio cervicis uteri, hypertrophisch",
+              "rubrics": {
+                "preferred": "Elongatio cervicis uteri, hypertrophisch"
+              },
+              "children": []
+            },
+            {
+              "code": "N88.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete nichtentzündliche Krankheiten der Cervix uteri",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete nichtentzündliche Krankheiten der Cervix uteri",
+                "exclusion": "Aktuelle GeburtsverletzungO71.3"
+              },
+              "children": []
+            },
+            {
+              "code": "N88.9",
+              "kind": "category",
+              "label": "Nichtentzündliche Krankheit der Cervix uteri, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Nichtentzündliche Krankheit der Cervix uteri, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N89",
+          "kind": "category",
+          "label": "Sonstige nichtentzündliche Krankheiten der Vagina",
+          "rubrics": {
+            "preferred": "Sonstige nichtentzündliche Krankheiten der Vagina",
+            "exclusion": "Senile (atrophische) KolpitisN95.2"
+          },
+          "children": [
+            {
+              "code": "N89.0",
+              "kind": "category",
+              "label": "Niedriggradige Dysplasie der Vagina",
+              "rubrics": {
+                "preferred": "Niedriggradige Dysplasie der Vagina",
+                "inclusion": "Vaginale intraepitheliale Neoplasie [VAIN] I. Grades"
+              },
+              "children": []
+            },
+            {
+              "code": "N89.1",
+              "kind": "category",
+              "label": "Mittelgradige Dysplasie der Vagina",
+              "rubrics": {
+                "preferred": "Mittelgradige Dysplasie der Vagina",
+                "inclusion": "Vaginale intraepitheliale Neoplasie [VAIN] II. Grades"
+              },
+              "children": []
+            },
+            {
+              "code": "N89.2",
+              "kind": "category",
+              "label": "Hochgradige Dysplasie der Vagina, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Hochgradige Dysplasie der Vagina, anderenorts nicht klassifiziert",
+                "inclusion": "Hochgradige Dysplasie der Vagina o.n.A.",
+                "exclusion": "Vaginale intraepitheliale Neoplasie [VAIN] III. Grades, mit oder ohne Angabe einer hochgradigen DysplasieD07.2"
+              },
+              "children": []
+            },
+            {
+              "code": "N89.3",
+              "kind": "category",
+              "label": "Dysplasie der Vagina, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Dysplasie der Vagina, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "N89.4",
+              "kind": "category",
+              "label": "Leukoplakie der Vagina",
+              "rubrics": {
+                "preferred": "Leukoplakie der Vagina"
+              },
+              "children": []
+            },
+            {
+              "code": "N89.5",
+              "kind": "category",
+              "label": "Striktur und Atresie der Vagina",
+              "rubrics": {
+                "preferred": "Striktur und Atresie der Vagina",
+                "inclusion": "Stenose der Vagina",
+                "exclusion": "Postoperative Adhäsionen der VaginaN99.2"
+              },
+              "children": []
+            },
+            {
+              "code": "N89.6",
+              "kind": "category",
+              "label": "Fester Hymenalring",
+              "rubrics": {
+                "preferred": "Fester Hymenalring",
+                "inclusion": "Rigider Hymen",
+                "exclusion": "HymenalatresieQ52.3"
+              },
+              "children": []
+            },
+            {
+              "code": "N89.7",
+              "kind": "category",
+              "label": "Hämatokolpos",
+              "rubrics": {
+                "preferred": "Hämatokolpos",
+                "inclusion": "Hämatokolpos mit Hämatometra oder Hämatosalpinx"
+              },
+              "children": []
+            },
+            {
+              "code": "N89.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete nichtentzündliche Krankheiten der Vagina",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete nichtentzündliche Krankheiten der Vagina",
+                "inclusion": "Scheidenulkus durch Pessar",
+                "exclusion": "Alte Verletzung der BeckenbodenmuskulaturN81.8"
+              },
+              "children": []
+            },
+            {
+              "code": "N89.9",
+              "kind": "category",
+              "label": "Nichtentzündliche Krankheit der Vagina, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Nichtentzündliche Krankheit der Vagina, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N90",
+          "kind": "category",
+          "label": "Sonstige nichtentzündliche Krankheiten der Vulva und des Perineums",
+          "rubrics": {
+            "preferred": "Sonstige nichtentzündliche Krankheiten der Vulva und des Perineums",
+            "exclusion": "Entzündung der VulvaN76.-"
+          },
+          "children": [
+            {
+              "code": "N90.0",
+              "kind": "category",
+              "label": "Niedriggradige Dysplasie der Vulva",
+              "rubrics": {
+                "preferred": "Niedriggradige Dysplasie der Vulva",
+                "inclusion": "Intraepitheliale Neoplasie der Vulva [VIN] I. Grades"
+              },
+              "children": []
+            },
+            {
+              "code": "N90.1",
+              "kind": "category",
+              "label": "Mittelgradige Dysplasie der Vulva",
+              "rubrics": {
+                "preferred": "Mittelgradige Dysplasie der Vulva",
+                "inclusion": "Intraepitheliale Neoplasie der Vulva [VIN] II. Grades"
+              },
+              "children": []
+            },
+            {
+              "code": "N90.2",
+              "kind": "category",
+              "label": "Hochgradige Dysplasie der Vulva, anderenorts nicht klassifiziert",
+              "rubrics": {
+                "preferred": "Hochgradige Dysplasie der Vulva, anderenorts nicht klassifiziert",
+                "inclusion": "Hochgradige Dysplasie der Vulva o.n.A.",
+                "exclusion": "Intraepitheliale Neoplasie der Vulva [VIN] III. Grades, mit oder ohne Angabe einer hochgradigen DysplasieD07.1"
+              },
+              "children": []
+            },
+            {
+              "code": "N90.3",
+              "kind": "category",
+              "label": "Dysplasie der Vulva, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Dysplasie der Vulva, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "N90.4",
+              "kind": "category",
+              "label": "Leukoplakie der Vulva",
+              "rubrics": {
+                "preferred": "Leukoplakie der Vulva",
+                "inclusion": "Dystrophie der Vulva"
+              },
+              "children": []
+            },
+            {
+              "code": "N90.5",
+              "kind": "category",
+              "label": "Atrophie der Vulva",
+              "rubrics": {
+                "preferred": "Atrophie der Vulva",
+                "inclusion": "Stenose der Vulva"
+              },
+              "children": []
+            },
+            {
+              "code": "N90.6",
+              "kind": "category",
+              "label": "Hypertrophie der Vulva",
+              "rubrics": {
+                "preferred": "Hypertrophie der Vulva",
+                "inclusion": "Hypertrophie der Labien"
+              },
+              "children": []
+            },
+            {
+              "code": "N90.7",
+              "kind": "category",
+              "label": "Zyste der Vulva",
+              "rubrics": {
+                "preferred": "Zyste der Vulva"
+              },
+              "children": []
+            },
+            {
+              "code": "N90.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete nichtentzündliche Krankheiten der Vulva und des Perineums",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete nichtentzündliche Krankheiten der Vulva und des Perineums",
+                "inclusion": "Hypertrophie der Klitoris",
+                "exclusion": "Weibliche GenitalverstümmelungZ91.7-"
+              },
+              "children": []
+            },
+            {
+              "code": "N90.9",
+              "kind": "category",
+              "label": "Nichtentzündliche Krankheit der Vulva und des Perineums, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Nichtentzündliche Krankheit der Vulva und des Perineums, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N91",
+          "kind": "category",
+          "label": "Ausgebliebene, zu schwache oder zu seltene Menstruation",
+          "rubrics": {
+            "preferred": "Ausgebliebene, zu schwache oder zu seltene Menstruation",
+            "exclusion": "Ovarielle DysfunktionE28.-"
+          },
+          "children": [
+            {
+              "code": "N91.0",
+              "kind": "category",
+              "label": "Primäre Amenorrhoe",
+              "rubrics": {
+                "preferred": "Primäre Amenorrhoe",
+                "text": "Nichteintreten der Menarche im Pubertätsalter."
+              },
+              "children": []
+            },
+            {
+              "code": "N91.1",
+              "kind": "category",
+              "label": "Sekundäre Amenorrhoe",
+              "rubrics": {
+                "preferred": "Sekundäre Amenorrhoe",
+                "text": "Ausbleiben der Menstruation nach bereits erfolgter Menarche"
+              },
+              "children": []
+            },
+            {
+              "code": "N91.2",
+              "kind": "category",
+              "label": "Amenorrhoe, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Amenorrhoe, nicht näher bezeichnet",
+                "inclusion": "Ausbleiben der Menstruation o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N91.3",
+              "kind": "category",
+              "label": "Primäre Oligomenorrhoe",
+              "rubrics": {
+                "preferred": "Primäre Oligomenorrhoe",
+                "text": "Zu schwache oder zu seltene Menstruation seit der Menarche."
+              },
+              "children": []
+            },
+            {
+              "code": "N91.4",
+              "kind": "category",
+              "label": "Sekundäre Oligomenorrhoe",
+              "rubrics": {
+                "preferred": "Sekundäre Oligomenorrhoe",
+                "text": "Zu schwache oder zu seltene Menstruation nach vorangegangenen normalen Menstruationen."
+              },
+              "children": []
+            },
+            {
+              "code": "N91.5",
+              "kind": "category",
+              "label": "Oligomenorrhoe, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Oligomenorrhoe, nicht näher bezeichnet",
+                "inclusion": "Hypomenorrhoe o.n.A."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N92",
+          "kind": "category",
+          "label": "Zu starke, zu häufige oder unregelmäßige Menstruation",
+          "rubrics": {
+            "preferred": "Zu starke, zu häufige oder unregelmäßige Menstruation",
+            "exclusion": "PostmenopausenblutungN95.0"
+          },
+          "children": [
+            {
+              "code": "N92.0",
+              "kind": "category",
+              "label": "Zu starke oder zu häufige Menstruation bei regelmäßigem Menstruationszyklus",
+              "rubrics": {
+                "preferred": "Zu starke oder zu häufige Menstruation bei regelmäßigem Menstruationszyklus",
+                "inclusion": "Polymenorrhoe"
+              },
+              "children": []
+            },
+            {
+              "code": "N92.1",
+              "kind": "category",
+              "label": "Zu starke oder zu häufige Menstruation bei unregelmäßigem Menstruationszyklus",
+              "rubrics": {
+                "preferred": "Zu starke oder zu häufige Menstruation bei unregelmäßigem Menstruationszyklus",
+                "inclusion": "Unregelmäßige, verkürzte Intervalle zwischen den Menstruationsblutungen"
+              },
+              "children": []
+            },
+            {
+              "code": "N92.2",
+              "kind": "category",
+              "label": "Zu starke Menstruation im Pubertätsalter",
+              "rubrics": {
+                "preferred": "Zu starke Menstruation im Pubertätsalter",
+                "inclusion": "Zu starke Blutung bei Auftreten der Menstruationsblutungen"
+              },
+              "children": []
+            },
+            {
+              "code": "N92.3",
+              "kind": "category",
+              "label": "Ovulationsblutung",
+              "rubrics": {
+                "preferred": "Ovulationsblutung",
+                "inclusion": "Regelmäßige intermenstruelle Blutung"
+              },
+              "children": []
+            },
+            {
+              "code": "N92.4",
+              "kind": "category",
+              "label": "Zu starke Blutung in der Prämenopause",
+              "rubrics": {
+                "preferred": "Zu starke Blutung in der Prämenopause",
+                "inclusion": "Menorrhagie oder Metrorrhagie:\n\t\t\t\tprämenopausal"
+              },
+              "children": []
+            },
+            {
+              "code": "N92.5",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete unregelmäßige Menstruation",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete unregelmäßige Menstruation"
+              },
+              "children": []
+            },
+            {
+              "code": "N92.6",
+              "kind": "category",
+              "label": "Unregelmäßige Menstruation, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Unregelmäßige Menstruation, nicht näher bezeichnet",
+                "inclusion": "Unregelmäßige:\n\t\t\t\tMenstruationszyklen o.n.A.",
+                "exclusion": "Unregelmäßige Menstruation mit:\n\t\t\t\tverlängerten Intervallen oder zu schwacher BlutungN91.3-N91.5"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N93",
+          "kind": "category",
+          "label": "Sonstige abnorme Uterus- oder Vaginalblutung",
+          "rubrics": {
+            "preferred": "Sonstige abnorme Uterus- oder Vaginalblutung",
+            "exclusion": "PseudomenstruationP54.6"
+          },
+          "children": [
+            {
+              "code": "N93.0",
+              "kind": "category",
+              "label": "Postkoitale Blutung und Kontaktblutung",
+              "rubrics": {
+                "preferred": "Postkoitale Blutung und Kontaktblutung"
+              },
+              "children": []
+            },
+            {
+              "code": "N93.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete abnorme Uterus- oder Vaginalblutung",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete abnorme Uterus- oder Vaginalblutung",
+                "inclusion": "Dysfunktionelle oder funktionelle Uterus- oder Vaginalblutung o.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N93.9",
+              "kind": "category",
+              "label": "Abnorme Uterus- oder Vaginalblutung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Abnorme Uterus- oder Vaginalblutung, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N94",
+          "kind": "category",
+          "label": "Schmerz und andere Zustände im Zusammenhang mit den weiblichen Genitalorganen und dem Menstruationszyklus",
+          "rubrics": {
+            "preferred": "Schmerz und andere Zustände im Zusammenhang mit den weiblichen Genitalorganen und dem Menstruationszyklus"
+          },
+          "children": [
+            {
+              "code": "N94.0",
+              "kind": "category",
+              "label": "Mittelschmerz",
+              "rubrics": {
+                "preferred": "Mittelschmerz"
+              },
+              "children": []
+            },
+            {
+              "code": "N94.1",
+              "kind": "category",
+              "label": "Dyspareunie",
+              "rubrics": {
+                "preferred": "Dyspareunie",
+                "exclusion": "Psychogene DyspareunieF52.6"
+              },
+              "children": []
+            },
+            {
+              "code": "N94.2",
+              "kind": "category",
+              "label": "Vaginismus",
+              "rubrics": {
+                "preferred": "Vaginismus",
+                "exclusion": "Psychogener VaginismusF52.5"
+              },
+              "children": []
+            },
+            {
+              "code": "N94.3",
+              "kind": "category",
+              "label": "Prämenstruelle Beschwerden",
+              "rubrics": {
+                "preferred": "Prämenstruelle Beschwerden"
+              },
+              "children": []
+            },
+            {
+              "code": "N94.4",
+              "kind": "category",
+              "label": "Primäre Dysmenorrhoe",
+              "rubrics": {
+                "preferred": "Primäre Dysmenorrhoe"
+              },
+              "children": []
+            },
+            {
+              "code": "N94.5",
+              "kind": "category",
+              "label": "Sekundäre Dysmenorrhoe",
+              "rubrics": {
+                "preferred": "Sekundäre Dysmenorrhoe"
+              },
+              "children": []
+            },
+            {
+              "code": "N94.6",
+              "kind": "category",
+              "label": "Dysmenorrhoe, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Dysmenorrhoe, nicht näher bezeichnet"
+              },
+              "children": []
+            },
+            {
+              "code": "N94.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete Zustände im Zusammenhang mit den weiblichen Genitalorganen und dem Menstruationszyklus",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete Zustände im Zusammenhang mit den weiblichen Genitalorganen und dem Menstruationszyklus"
+              },
+              "children": []
+            },
+            {
+              "code": "N94.9",
+              "kind": "category",
+              "label": "Nicht näher bezeichneter Zustand im Zusammenhang mit den weiblichen Genitalorganen und dem Menstruationszyklus",
+              "rubrics": {
+                "preferred": "Nicht näher bezeichneter Zustand im Zusammenhang mit den weiblichen Genitalorganen und dem Menstruationszyklus"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N95",
+          "kind": "category",
+          "label": "Klimakterische Störungen",
+          "rubrics": {
+            "preferred": "Klimakterische Störungen",
+            "exclusion": "Zu starke Blutung in der PrämenopauseN92.4"
+          },
+          "children": [
+            {
+              "code": "N95.0",
+              "kind": "category",
+              "label": "Postmenopausenblutung",
+              "rubrics": {
+                "preferred": "Postmenopausenblutung",
+                "exclusion": "Im Zusammenhang mit artifizieller MenopauseN95.3"
+              },
+              "children": []
+            },
+            {
+              "code": "N95.1",
+              "kind": "category",
+              "label": "Zustände im Zusammenhang mit der Menopause und dem Klimakterium",
+              "rubrics": {
+                "preferred": "Zustände im Zusammenhang mit der Menopause und dem Klimakterium",
+                "inclusion": "Symptome, wie z.B. Hitzewallungen, Schlaflosigkeit, Kopfschmerz, Konzentrationsschwäche im Zusammenhang mit der Menopause",
+                "exclusion": "Im Zusammenhang mit artifizieller MenopauseN95.3"
+              },
+              "children": []
+            },
+            {
+              "code": "N95.2",
+              "kind": "category",
+              "label": "Atrophische Kolpitis in der Postmenopause",
+              "rubrics": {
+                "preferred": "Atrophische Kolpitis in der Postmenopause",
+                "inclusion": "Senile (atrophische) Kolpitis",
+                "exclusion": "Im Zusammenhang mit artifizieller MenopauseN95.3"
+              },
+              "children": []
+            },
+            {
+              "code": "N95.3",
+              "kind": "category",
+              "label": "Zustände im Zusammenhang mit artifizieller Menopause",
+              "rubrics": {
+                "preferred": "Zustände im Zusammenhang mit artifizieller Menopause",
+                "inclusion": "Postartifizielles Menopausensyndrom"
+              },
+              "children": []
+            },
+            {
+              "code": "N95.8",
+              "kind": "category",
+              "label": "Sonstige näher bezeichnete klimakterische Störungen",
+              "rubrics": {
+                "preferred": "Sonstige näher bezeichnete klimakterische Störungen"
+              },
+              "children": []
+            },
+            {
+              "code": "N95.9",
+              "kind": "category",
+              "label": "Klimakterische Störung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Klimakterische Störung, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N96",
+          "kind": "category",
+          "label": "Neigung zu habituellem Abort",
+          "rubrics": {
+            "preferred": "Neigung zu habituellem Abort",
+            "inclusion": "Untersuchung oder Betreuung einer Frau mit Neigung zu habituellem Abort ohne bestehende Schwangerschaft",
+            "exclusion": "Bei gegenwärtiger SchwangerschaftO26.2"
+          },
+          "children": []
+        },
+        {
+          "code": "N97",
+          "kind": "category",
+          "label": "Sterilität der Frau",
+          "rubrics": {
+            "preferred": "Sterilität der Frau",
+            "inclusion": "Sterilität o.n.A. bei der Frau",
+            "exclusion": "InfertilitätN96"
+          },
+          "children": [
+            {
+              "code": "N97.0",
+              "kind": "category",
+              "label": "Sterilität der Frau in Verbindung mit fehlender Ovulation",
+              "rubrics": {
+                "preferred": "Sterilität der Frau in Verbindung mit fehlender Ovulation"
+              },
+              "children": []
+            },
+            {
+              "code": "N97.1",
+              "kind": "category",
+              "label": "Sterilität tubaren Ursprungs bei der Frau",
+              "rubrics": {
+                "preferred": "Sterilität tubaren Ursprungs bei der Frau",
+                "inclusion": "Tubenverschluss"
+              },
+              "children": []
+            },
+            {
+              "code": "N97.2",
+              "kind": "category",
+              "label": "Sterilität uterinen Ursprungs bei der Frau",
+              "rubrics": {
+                "preferred": "Sterilität uterinen Ursprungs bei der Frau",
+                "inclusion": "Nichtimplantation einer Eizelle"
+              },
+              "children": []
+            },
+            {
+              "code": "N97.3",
+              "kind": "category",
+              "label": "Sterilität zervikalen Ursprungs bei der Frau",
+              "rubrics": {
+                "preferred": "Sterilität zervikalen Ursprungs bei der Frau"
+              },
+              "children": []
+            },
+            {
+              "code": "N97.4",
+              "kind": "category",
+              "label": "Sterilität der Frau im Zusammenhang mit Faktoren des Partners",
+              "rubrics": {
+                "preferred": "Sterilität der Frau im Zusammenhang mit Faktoren des Partners"
+              },
+              "children": []
+            },
+            {
+              "code": "N97.8",
+              "kind": "category",
+              "label": "Sterilität sonstigen Ursprungs bei der Frau",
+              "rubrics": {
+                "preferred": "Sterilität sonstigen Ursprungs bei der Frau"
+              },
+              "children": []
+            },
+            {
+              "code": "N97.9",
+              "kind": "category",
+              "label": "Sterilität der Frau, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Sterilität der Frau, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "N98",
+          "kind": "category",
+          "label": "Komplikationen im Zusammenhang mit künstlicher Befruchtung",
+          "rubrics": {
+            "preferred": "Komplikationen im Zusammenhang mit künstlicher Befruchtung"
+          },
+          "children": [
+            {
+              "code": "N98.0",
+              "kind": "category",
+              "label": "Infektion im Zusammenhang mit artifizieller Insemination",
+              "rubrics": {
+                "preferred": "Infektion im Zusammenhang mit artifizieller Insemination"
+              },
+              "children": []
+            },
+            {
+              "code": "N98.1",
+              "kind": "category",
+              "label": "Hyperstimulation der Ovarien",
+              "rubrics": {
+                "preferred": "Hyperstimulation der Ovarien",
+                "inclusion": "Hyperstimulation der Ovarien:\n\t\t\t\to.n.A."
+              },
+              "children": []
+            },
+            {
+              "code": "N98.2",
+              "kind": "category",
+              "label": "Komplikationen bei versuchter Einführung eines befruchteten Eies nach In-vitro-Fertilisation",
+              "rubrics": {
+                "preferred": "Komplikationen bei versuchter Einführung eines befruchteten Eies nach In-vitro-Fertilisation"
+              },
+              "children": []
+            },
+            {
+              "code": "N98.3",
+              "kind": "category",
+              "label": "Komplikationen bei versuchter Implantation eines Embryos bei Embryotransfer",
+              "rubrics": {
+                "preferred": "Komplikationen bei versuchter Implantation eines Embryos bei Embryotransfer"
+              },
+              "children": []
+            },
+            {
+              "code": "N98.8",
+              "kind": "category",
+              "label": "Sonstige Komplikationen im Zusammenhang mit künstlicher Befruchtung",
+              "rubrics": {
+                "preferred": "Sonstige Komplikationen im Zusammenhang mit künstlicher Befruchtung",
+                "inclusion": "Komplikationen bei artifizieller Insemination:\n\t\t\t\tSamen des Ehemannes oder Partners"
+              },
+              "children": []
+            },
+            {
+              "code": "N98.9",
+              "kind": "category",
+              "label": "Komplikation im Zusammenhang mit künstlicher Befruchtung, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Komplikation im Zusammenhang mit künstlicher Befruchtung, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "N99-N99",
+      "kind": "block",
+      "label": "Sonstige Krankheiten des Urogenitalsystems",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Urogenitalsystems"
+      },
+      "children": [
+        {
+          "code": "N99",
+          "kind": "category",
+          "label": "Krankheiten des Urogenitalsystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Krankheiten des Urogenitalsystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+            "exclusion": "StrahlenzystitisN30.4"
+          },
+          "children": [
+            {
+              "code": "N99.0",
+              "kind": "category",
+              "label": "Nierenversagen nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Nierenversagen nach medizinischen Maßnahmen"
+              },
+              "children": []
+            },
+            {
+              "code": "N99.1",
+              "kind": "category",
+              "label": "Harnröhrenstriktur nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Harnröhrenstriktur nach medizinischen Maßnahmen"
+              },
+              "children": [
+                {
+                  "code": "N99.10",
+                  "kind": "category",
+                  "label": "Harnröhrenstriktur-Rezidiv nach vorangegangener Operation einer Harnröhrenstriktur",
+                  "rubrics": {
+                    "preferred": "Harnröhrenstriktur-Rezidiv nach vorangegangener Operation einer Harnröhrenstriktur"
+                  },
+                  "children": []
+                },
+                {
+                  "code": "N99.18",
+                  "kind": "category",
+                  "label": "Harnröhrenstriktur nach sonstigen medizinischen Maßnahmen",
+                  "rubrics": {
+                    "preferred": "Harnröhrenstriktur nach sonstigen medizinischen Maßnahmen",
+                    "inclusion": "Harnröhrenstriktur als Folge von:\n\t\t\t\tZirkumzision"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "N99.2",
+              "kind": "category",
+              "label": "Postoperative Adhäsionen der Vagina",
+              "rubrics": {
+                "preferred": "Postoperative Adhäsionen der Vagina"
+              },
+              "children": []
+            },
+            {
+              "code": "N99.3",
+              "kind": "category",
+              "label": "Prolaps des Scheidenstumpfes nach Hysterektomie",
+              "rubrics": {
+                "preferred": "Prolaps des Scheidenstumpfes nach Hysterektomie"
+              },
+              "children": []
+            },
+            {
+              "code": "N99.4",
+              "kind": "category",
+              "label": "Peritoneale Adhäsionen im Becken nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Peritoneale Adhäsionen im Becken nach medizinischen Maßnahmen"
+              },
+              "children": []
+            },
+            {
+              "code": "N99.5",
+              "kind": "category",
+              "label": "Funktionsstörung eines äußeren Stomas des Harntraktes",
+              "rubrics": {
+                "preferred": "Funktionsstörung eines äußeren Stomas des Harntraktes"
+              },
+              "children": []
+            },
+            {
+              "code": "N99.8",
+              "kind": "category",
+              "label": "Sonstige Krankheiten des Urogenitalsystems nach medizinischen Maßnahmen",
+              "rubrics": {
+                "preferred": "Sonstige Krankheiten des Urogenitalsystems nach medizinischen Maßnahmen",
+                "inclusion": "Residual ovary syndrome"
+              },
+              "children": []
+            },
+            {
+              "code": "N99.9",
+              "kind": "category",
+              "label": "Krankheit des Urogenitalsystems nach medizinischen Maßnahmen, nicht näher bezeichnet",
+              "rubrics": {
+                "preferred": "Krankheit des Urogenitalsystems nach medizinischen Maßnahmen, nicht näher bezeichnet"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

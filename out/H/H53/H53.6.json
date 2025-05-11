@@ -1,0 +1,10 @@
+{
+  "code": "H53.6",
+  "kind": "category",
+  "label": "Nachtblindheit",
+  "rubrics": {
+    "preferred": "Nachtblindheit",
+    "exclusion": "Durch Vitamin-A-MangelE50.5"
+  },
+  "children": []
+}

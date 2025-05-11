@@ -1,0 +1,108 @@
+{
+  "code": "Q18",
+  "kind": "category",
+  "label": "Sonstige angeborene Fehlbildungen des Gesichtes und des Halses",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungen des Gesichtes und des Halses",
+    "exclusion": "ZyklopieQ87.0"
+  },
+  "children": [
+    {
+      "code": "Q18.0",
+      "kind": "category",
+      "label": "Branchiogene(r) Sinus, Fistel und Zyste",
+      "rubrics": {
+        "preferred": "Branchiogene(r) Sinus, Fistel und Zyste",
+        "inclusion": "Branchiogenes Überbleibsel"
+      },
+      "children": []
+    },
+    {
+      "code": "Q18.1",
+      "kind": "category",
+      "label": "Präaurikuläre(r) Sinus und Zyste",
+      "rubrics": {
+        "preferred": "Präaurikuläre(r) Sinus und Zyste",
+        "inclusion": "Prätragale(r) Sinus und Zyste"
+      },
+      "children": []
+    },
+    {
+      "code": "Q18.2",
+      "kind": "category",
+      "label": "Sonstige branchiogene Fehlbildungen",
+      "rubrics": {
+        "preferred": "Sonstige branchiogene Fehlbildungen",
+        "inclusion": "Otozephalie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q18.3",
+      "kind": "category",
+      "label": "Flügelfell des Halses",
+      "rubrics": {
+        "preferred": "Flügelfell des Halses",
+        "inclusion": "Pterygium colli"
+      },
+      "children": []
+    },
+    {
+      "code": "Q18.4",
+      "kind": "category",
+      "label": "Makrostomie",
+      "rubrics": {
+        "preferred": "Makrostomie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q18.5",
+      "kind": "category",
+      "label": "Mikrostomie",
+      "rubrics": {
+        "preferred": "Mikrostomie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q18.6",
+      "kind": "category",
+      "label": "Makrocheilie",
+      "rubrics": {
+        "preferred": "Makrocheilie",
+        "inclusion": "Lippenverdickung, angeboren"
+      },
+      "children": []
+    },
+    {
+      "code": "Q18.7",
+      "kind": "category",
+      "label": "Mikrocheilie",
+      "rubrics": {
+        "preferred": "Mikrocheilie"
+      },
+      "children": []
+    },
+    {
+      "code": "Q18.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete angeborene Fehlbildungen des Gesichtes und des Halses",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete angeborene Fehlbildungen des Gesichtes und des Halses",
+        "inclusion": "Medial:\n\t\t\t\tZyste\n\t\t\t\tan Gesicht und Hals"
+      },
+      "children": []
+    },
+    {
+      "code": "Q18.9",
+      "kind": "category",
+      "label": "Angeborene Fehlbildung des Gesichtes und des Halses, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Fehlbildung des Gesichtes und des Halses, nicht näher bezeichnet",
+        "inclusion": "Angeborene Anomalie o.n.A. an Gesicht und Hals"
+      },
+      "children": []
+    }
+  ]
+}

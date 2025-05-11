@@ -1,0 +1,11 @@
+{
+  "code": "T44.5",
+  "kind": "category",
+  "label": "Vorwiegend Beta-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Vorwiegend Beta-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+    "preferred": "Vorwiegend Beta-Rezeptoren-Stimulanzien, anderenorts nicht klassifiziert",
+    "exclusion": "Beta-Rezeptoren-Stimulanzien zur AsthmatherapieT48.6"
+  },
+  "children": []
+}

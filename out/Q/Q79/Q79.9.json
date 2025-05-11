@@ -1,0 +1,10 @@
+{
+  "code": "Q79.9",
+  "kind": "category",
+  "label": "Angeborene Fehlbildung des Muskel-Skelett-Systems, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Angeborene Fehlbildung des Muskel-Skelett-Systems, nicht näher bezeichnet",
+    "inclusion": "Angeboren:\n\t\t\t\tDeformität o.n.A.\n\t\t\t\tMuskel-Skelett-System o.n.A."
+  },
+  "children": []
+}

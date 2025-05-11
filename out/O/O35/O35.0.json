@@ -1,0 +1,11 @@
+{
+  "code": "O35.0",
+  "kind": "category",
+  "label": "Betreuung der Mutter bei (Verdacht auf) Fehlbildung des Zentralnervensystems beim Fetus",
+  "rubrics": {
+    "preferred": "Betreuung der Mutter bei (Verdacht auf) Fehlbildung des Zentralnervensystems beim Fetus",
+    "inclusion": "Betreuung der Mutter bei (Verdacht auf):\n\t\t\t\tSpina bifida\n\t\t\t\tbeim Fetus",
+    "exclusion": "Chromosomenanomalie beim FetusO35.1"
+  },
+  "children": []
+}

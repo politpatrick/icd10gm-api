@@ -1,0 +1,10 @@
+{
+  "code": "F50.00",
+  "kind": "category",
+  "label": "Anorexia nervosa, restriktiver Typ",
+  "rubrics": {
+    "preferred": "Anorexia nervosa, restriktiver Typ",
+    "inclusion": "Anorexia nervosa, ohne Maßnahmen zur Gewichtsreduktion"
+  },
+  "children": []
+}

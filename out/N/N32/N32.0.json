@@ -1,0 +1,10 @@
+{
+  "code": "N32.0",
+  "kind": "category",
+  "label": "Blasenhalsobstruktion",
+  "rubrics": {
+    "preferred": "Blasenhalsobstruktion",
+    "inclusion": "Harnblasenhalsstenose (erworben)"
+  },
+  "children": []
+}

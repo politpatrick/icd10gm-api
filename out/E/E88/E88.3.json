@@ -1,0 +1,10 @@
+{
+  "code": "E88.3",
+  "kind": "category",
+  "label": "Tumorlyse-Syndrom",
+  "rubrics": {
+    "preferred": "Tumorlyse-Syndrom",
+    "inclusion": "Tumorlyse (nach zytostatischer Therapie bei Neoplasie) (spontan)"
+  },
+  "children": []
+}

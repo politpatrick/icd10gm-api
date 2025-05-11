@@ -1,0 +1,11 @@
+{
+  "code": "D62",
+  "kind": "category",
+  "label": "Akute Blutungsanämie",
+  "rubrics": {
+    "preferred": "Akute Blutungsanämie",
+    "inclusion": "Anämie nach intra- und postoperativer Blutung",
+    "exclusion": "Angeborene Anämie durch fetalen BlutverlustP61.3"
+  },
+  "children": []
+}

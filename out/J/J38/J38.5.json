@@ -1,0 +1,10 @@
+{
+  "code": "J38.5",
+  "kind": "category",
+  "label": "Laryngospasmus",
+  "rubrics": {
+    "preferred": "Laryngospasmus",
+    "inclusion": "Pseudokrupp"
+  },
+  "children": []
+}

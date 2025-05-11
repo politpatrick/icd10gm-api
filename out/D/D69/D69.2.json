@@ -1,0 +1,10 @@
+{
+  "code": "D69.2",
+  "kind": "category",
+  "label": "Sonstige nichtthrombozytopenische Purpura",
+  "rubrics": {
+    "preferred": "Sonstige nichtthrombozytopenische Purpura",
+    "inclusion": "Purpura:\n\t\t\t\to.n.A."
+  },
+  "children": []
+}

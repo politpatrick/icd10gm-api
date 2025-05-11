@@ -1,0 +1,77 @@
+{
+  "code": "M12",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Arthropathien",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Arthropathien",
+    "modifierlink": "[Schlüsselnummer der Lokalisation siehe am Kapitelanfang]",
+    "exclusion": "ArthroseM15-M19"
+  },
+  "children": [
+    {
+      "code": "M12.0",
+      "kind": "category",
+      "label": "Chronische postrheumatische Arthritis [Jaccoud-Arthritis]",
+      "rubrics": {
+        "preferred": "Chronische postrheumatische Arthritis [Jaccoud-Arthritis]"
+      },
+      "children": []
+    },
+    {
+      "code": "M12.1",
+      "kind": "category",
+      "label": "Kaschin-Beck-Krankheit",
+      "rubrics": {
+        "preferred": "Kaschin-Beck-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "M12.2",
+      "kind": "category",
+      "label": "Villonoduläre Synovitis (pigmentiert)",
+      "rubrics": {
+        "preferred": "Villonoduläre Synovitis (pigmentiert)"
+      },
+      "children": []
+    },
+    {
+      "code": "M12.3",
+      "kind": "category",
+      "label": "Palindromer Rheumatismus",
+      "rubrics": {
+        "preferred": "Palindromer Rheumatismus"
+      },
+      "children": []
+    },
+    {
+      "code": "M12.4",
+      "kind": "category",
+      "label": "Hydrops intermittens",
+      "rubrics": {
+        "preferred": "Hydrops intermittens"
+      },
+      "children": []
+    },
+    {
+      "code": "M12.5",
+      "kind": "category",
+      "label": "Traumatische Arthropathie",
+      "rubrics": {
+        "preferred": "Traumatische Arthropathie",
+        "exclusion": "Posttraumatische Arthrose:\n\t\t\t\to.n.A.M19.1-"
+      },
+      "children": []
+    },
+    {
+      "code": "M12.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Arthropathien, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Arthropathien, anderenorts nicht klassifiziert",
+        "inclusion": "Transitorische Arthropathie"
+      },
+      "children": []
+    }
+  ]
+}

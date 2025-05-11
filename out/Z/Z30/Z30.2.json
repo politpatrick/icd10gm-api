@@ -1,0 +1,10 @@
+{
+  "code": "Z30.2",
+  "kind": "category",
+  "label": "Sterilisierung",
+  "rubrics": {
+    "preferred": "Sterilisierung",
+    "inclusion": "Stationäre Aufnahme zur Tubensterilisation oder Vasektomie"
+  },
+  "children": []
+}

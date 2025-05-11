@@ -1,0 +1,114 @@
+{
+  "code": "T49",
+  "kind": "category",
+  "label": "Vergiftung durch primär auf Haut und Schleimhäute wirkende und in der Augen-, der Hals-Nasen-Ohren- und der Zahnheilkunde angewendete Mittel zur topischen Anwendung",
+  "rubrics": {
+    "preferred": "Vergiftung durch primär auf Haut und Schleimhäute wirkende und in der Augen-, der Hals-Nasen-Ohren- und der Zahnheilkunde angewendete Mittel zur topischen Anwendung",
+    "inclusion": "Glukokortikoide bei topischer Anwendung"
+  },
+  "children": [
+    {
+      "code": "T49.0",
+      "kind": "category",
+      "label": "Antimykotika, Antiinfektiva und Antiphlogistika zur lokalen Anwendung, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Antimykotika, Antiinfektiva und Antiphlogistika zur lokalen Anwendung, anderenorts nicht klassifiziert",
+        "preferred": "Antimykotika, Antiinfektiva und Antiphlogistika zur lokalen Anwendung, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "T49.1",
+      "kind": "category",
+      "label": "Antipruriginosa",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Antipruriginosa",
+        "preferred": "Antipruriginosa"
+      },
+      "children": []
+    },
+    {
+      "code": "T49.2",
+      "kind": "category",
+      "label": "Adstringenzien und Detergenzien zur lokalen Anwendung",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Adstringenzien und Detergenzien zur lokalen Anwendung",
+        "preferred": "Adstringenzien und Detergenzien zur lokalen Anwendung"
+      },
+      "children": []
+    },
+    {
+      "code": "T49.3",
+      "kind": "category",
+      "label": "Hauterweichende [Emollienzien], hautpflegende [Demulzenzien] und hautschützende Mittel",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Hauterweichende [Emollienzien], hautpflegende [Demulzenzien] und hautschützende Mittel",
+        "preferred": "Hauterweichende [Emollienzien], hautpflegende [Demulzenzien] und hautschützende Mittel"
+      },
+      "children": []
+    },
+    {
+      "code": "T49.4",
+      "kind": "category",
+      "label": "Keratolytika, Keratoplastika und sonstige Arzneimittel und Präparate zur Haarbehandlung",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Keratolytika, Keratoplastika und sonstige Arzneimittel und Präparate zur Haarbehandlung",
+        "preferred": "Keratolytika, Keratoplastika und sonstige Arzneimittel und Präparate zur Haarbehandlung"
+      },
+      "children": []
+    },
+    {
+      "code": "T49.5",
+      "kind": "category",
+      "label": "Ophthalmika",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Ophthalmika",
+        "preferred": "Ophthalmika",
+        "inclusion": "Antiinfektiva zur Anwendung am Auge"
+      },
+      "children": []
+    },
+    {
+      "code": "T49.6",
+      "kind": "category",
+      "label": "In der Hals-Nasen-Ohrenheilkunde angewendete Arzneimittel und Präparate",
+      "rubrics": {
+        "preferredLong": "Vergiftung: In der Hals-Nasen-Ohrenheilkunde angewendete Arzneimittel und Präparate",
+        "preferred": "In der Hals-Nasen-Ohrenheilkunde angewendete Arzneimittel und Präparate",
+        "inclusion": "Antiinfektiva zur Anwendung an Ohr, Nase und Rachen"
+      },
+      "children": []
+    },
+    {
+      "code": "T49.7",
+      "kind": "category",
+      "label": "Dentalpharmaka bei topischer Anwendung",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Dentalpharmaka bei topischer Anwendung",
+        "preferred": "Dentalpharmaka bei topischer Anwendung"
+      },
+      "children": []
+    },
+    {
+      "code": "T49.8",
+      "kind": "category",
+      "label": "Sonstige Mittel zur topischen Anwendung",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Sonstige Mittel zur topischen Anwendung",
+        "preferred": "Sonstige Mittel zur topischen Anwendung",
+        "inclusion": "Spermizide"
+      },
+      "children": []
+    },
+    {
+      "code": "T49.9",
+      "kind": "category",
+      "label": "Mittel zur topischen Anwendung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Vergiftung: Mittel zur topischen Anwendung, nicht näher bezeichnet",
+        "preferred": "Mittel zur topischen Anwendung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

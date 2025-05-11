@@ -1,0 +1,10 @@
+{
+  "code": "S92.1",
+  "kind": "category",
+  "label": "Fraktur des Talus",
+  "rubrics": {
+    "preferred": "Fraktur des Talus",
+    "inclusion": "Sprungbein"
+  },
+  "children": []
+}

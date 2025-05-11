@@ -1,0 +1,56 @@
+{
+  "code": "H20",
+  "kind": "category",
+  "label": "Iridozyklitis",
+  "rubrics": {
+    "preferred": "Iridozyklitis"
+  },
+  "children": [
+    {
+      "code": "H20.0",
+      "kind": "category",
+      "label": "Akute und subakute Iridozyklitis",
+      "rubrics": {
+        "preferred": "Akute und subakute Iridozyklitis",
+        "inclusion": "Zyklitis\n\t\t\t\takut, rezidivierend oder subakut"
+      },
+      "children": []
+    },
+    {
+      "code": "H20.1",
+      "kind": "category",
+      "label": "Chronische Iridozyklitis",
+      "rubrics": {
+        "preferred": "Chronische Iridozyklitis"
+      },
+      "children": []
+    },
+    {
+      "code": "H20.2",
+      "kind": "category",
+      "label": "Phakogene Iridozyklitis",
+      "rubrics": {
+        "preferred": "Phakogene Iridozyklitis"
+      },
+      "children": []
+    },
+    {
+      "code": "H20.8",
+      "kind": "category",
+      "label": "Sonstige Iridozyklitis",
+      "rubrics": {
+        "preferred": "Sonstige Iridozyklitis"
+      },
+      "children": []
+    },
+    {
+      "code": "H20.9",
+      "kind": "category",
+      "label": "Iridozyklitis, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Iridozyklitis, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

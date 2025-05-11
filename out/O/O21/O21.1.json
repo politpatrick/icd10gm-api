@@ -1,0 +1,10 @@
+{
+  "code": "O21.1",
+  "kind": "category",
+  "label": "Hyperemesis gravidarum mit Stoffwechselstörung",
+  "rubrics": {
+    "preferred": "Hyperemesis gravidarum mit Stoffwechselstörung",
+    "inclusion": "Hyperemesis gravidarum, Beginn vor Beendigung der 20. Schwangerschaftswoche, mit Stoffwechselstörung, wie z.B.:\n\t\t\t\tStörung des Elektrolythaushaltes"
+  },
+  "children": []
+}

@@ -1,0 +1,76 @@
+{
+  "code": "P35",
+  "kind": "category",
+  "label": "Angeborene Viruskrankheiten",
+  "rubrics": {
+    "preferred": "Angeborene Viruskrankheiten"
+  },
+  "children": [
+    {
+      "code": "P35.0",
+      "kind": "category",
+      "label": "Rötelnembryopathie",
+      "rubrics": {
+        "preferred": "Rötelnembryopathie",
+        "inclusion": "Kongenitale Röteln-Pneumonie"
+      },
+      "children": []
+    },
+    {
+      "code": "P35.1",
+      "kind": "category",
+      "label": "Angeborene Zytomegalie",
+      "rubrics": {
+        "preferred": "Angeborene Zytomegalie"
+      },
+      "children": []
+    },
+    {
+      "code": "P35.2",
+      "kind": "category",
+      "label": "Angeborene Infektion durch Herpesviren [Herpes simplex]",
+      "rubrics": {
+        "preferred": "Angeborene Infektion durch Herpesviren [Herpes simplex]"
+      },
+      "children": []
+    },
+    {
+      "code": "P35.3",
+      "kind": "category",
+      "label": "Angeborene Virushepatitis",
+      "rubrics": {
+        "preferred": "Angeborene Virushepatitis"
+      },
+      "children": []
+    },
+    {
+      "code": "P35.4",
+      "kind": "category",
+      "label": "Angeborene Zika-Viruskrankheit",
+      "rubrics": {
+        "preferred": "Angeborene Zika-Viruskrankheit",
+        "inclusion": "Mikrozephalie durch kongenitale Zika-Viruskrankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "P35.8",
+      "kind": "category",
+      "label": "Sonstige angeborene Viruskrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige angeborene Viruskrankheiten",
+        "inclusion": "Angeborene Varizellen [Windpocken]"
+      },
+      "children": []
+    },
+    {
+      "code": "P35.9",
+      "kind": "category",
+      "label": "Angeborene Viruskrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Angeborene Viruskrankheit, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

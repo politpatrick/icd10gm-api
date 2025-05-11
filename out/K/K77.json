@@ -1,0 +1,113 @@
+{
+  "code": "K77",
+  "kind": "category",
+  "label": "Leberkrankheiten bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Leberkrankheiten bei anderenorts klassifizierten Krankheiten"
+  },
+  "children": [
+    {
+      "code": "K77.0",
+      "kind": "category",
+      "label": "Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+      "rubrics": {
+        "preferred": "Leberkrankheiten bei anderenorts klassifizierten infektiösen und parasitären Krankheiten",
+        "inclusion": "Syphilitische LeberkrankheitA52.7"
+      },
+      "children": []
+    },
+    {
+      "code": "K77.1",
+      "kind": "category",
+      "label": "Beteiligung der Leber bei der akuten Graft-versus-Host-Krankheit",
+      "rubrics": {
+        "preferred": "Beteiligung der Leber bei der akuten Graft-versus-Host-Krankheit"
+      },
+      "children": [
+        {
+          "code": "K77.11",
+          "kind": "category",
+          "label": "Stadium 1 der akuten Leber-Graft-versus-Host-KrankheitT86.01",
+          "rubrics": {
+            "preferred": "Stadium 1 der akuten Leber-Graft-versus-Host-KrankheitT86.01"
+          },
+          "children": []
+        },
+        {
+          "code": "K77.12",
+          "kind": "category",
+          "label": "Stadium 2 der akuten Leber-Graft-versus-Host-KrankheitT86.02",
+          "rubrics": {
+            "preferred": "Stadium 2 der akuten Leber-Graft-versus-Host-KrankheitT86.02"
+          },
+          "children": []
+        },
+        {
+          "code": "K77.13",
+          "kind": "category",
+          "label": "Stadium 3 der akuten Leber-Graft-versus-Host-KrankheitT86.02",
+          "rubrics": {
+            "preferred": "Stadium 3 der akuten Leber-Graft-versus-Host-KrankheitT86.02"
+          },
+          "children": []
+        },
+        {
+          "code": "K77.14",
+          "kind": "category",
+          "label": "Stadium 4 der akuten Leber-Graft-versus-Host-KrankheitT86.02",
+          "rubrics": {
+            "preferred": "Stadium 4 der akuten Leber-Graft-versus-Host-KrankheitT86.02"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K77.2",
+      "kind": "category",
+      "label": "Beteiligung der Leber bei der chronischen Graft-versus-Host-Krankheit",
+      "rubrics": {
+        "preferred": "Beteiligung der Leber bei der chronischen Graft-versus-Host-Krankheit"
+      },
+      "children": [
+        {
+          "code": "K77.21",
+          "kind": "category",
+          "label": "Stadium 1 der chronischen Leber-Graft-versus-Host-Krankheit T86.05T86.06",
+          "rubrics": {
+            "preferred": "Stadium 1 der chronischen Leber-Graft-versus-Host-Krankheit T86.05T86.06"
+          },
+          "children": []
+        },
+        {
+          "code": "K77.22",
+          "kind": "category",
+          "label": "Stadium 2 der chronischen Leber-Graft-versus-Host-KrankheitT86.06",
+          "rubrics": {
+            "preferred": "Stadium 2 der chronischen Leber-Graft-versus-Host-KrankheitT86.06"
+          },
+          "children": []
+        },
+        {
+          "code": "K77.23",
+          "kind": "category",
+          "label": "Stadium 3 der chronischen Leber-Graft-versus-Host-KrankheitT86.07",
+          "rubrics": {
+            "preferred": "Stadium 3 der chronischen Leber-Graft-versus-Host-KrankheitT86.07"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K77.8",
+      "kind": "category",
+      "label": "Leberkrankheiten bei sonstigen anderenorts klassifizierten Krankheiten",
+      "rubrics": {
+        "preferred": "Leberkrankheiten bei sonstigen anderenorts klassifizierten Krankheiten",
+        "inclusion": "Lebergranulome bei:\n\t\t\t\tSarkoidoseD86.8"
+      },
+      "children": []
+    }
+  ]
+}

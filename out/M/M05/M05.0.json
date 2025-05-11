@@ -1,0 +1,10 @@
+{
+  "code": "M05.0",
+  "kind": "category",
+  "label": "Felty-Syndrom",
+  "rubrics": {
+    "preferred": "Felty-Syndrom",
+    "inclusion": "Chronische Polyarthritis mit Lymphosplenomegalie und Leukopenie"
+  },
+  "children": []
+}

@@ -1,0 +1,68 @@
+{
+  "code": "D51",
+  "kind": "category",
+  "label": "Vitamin-B12-Mangelanämie",
+  "rubrics": {
+    "preferred": "Vitamin-B12-Mangelanämie",
+    "exclusion": "Vitamin-B12-MangelE53.8"
+  },
+  "children": [
+    {
+      "code": "D51.0",
+      "kind": "category",
+      "label": "Vitamin-B12-Mangelanämie durch Mangel an Intrinsic-Faktor",
+      "rubrics": {
+        "preferred": "Vitamin-B12-Mangelanämie durch Mangel an Intrinsic-Faktor",
+        "inclusion": "Angeborener Mangel an Intrinsic-Faktor"
+      },
+      "children": []
+    },
+    {
+      "code": "D51.1",
+      "kind": "category",
+      "label": "Vitamin-B12-Mangelanämie durch selektive Vitamin-B12-Malabsorption mit Proteinurie",
+      "rubrics": {
+        "preferred": "Vitamin-B12-Mangelanämie durch selektive Vitamin-B12-Malabsorption mit Proteinurie",
+        "inclusion": "Megaloblastäre hereditäre Anämie"
+      },
+      "children": []
+    },
+    {
+      "code": "D51.2",
+      "kind": "category",
+      "label": "Transcobalamin-II-Mangel (-Anämie)",
+      "rubrics": {
+        "preferred": "Transcobalamin-II-Mangel (-Anämie)"
+      },
+      "children": []
+    },
+    {
+      "code": "D51.3",
+      "kind": "category",
+      "label": "Sonstige alimentäre Vitamin-B12-Mangelanämie",
+      "rubrics": {
+        "preferred": "Sonstige alimentäre Vitamin-B12-Mangelanämie",
+        "inclusion": "Vitamin-B12-Mangelanämie strikter Vegetarier"
+      },
+      "children": []
+    },
+    {
+      "code": "D51.8",
+      "kind": "category",
+      "label": "Sonstige Vitamin-B12-Mangelanämien",
+      "rubrics": {
+        "preferred": "Sonstige Vitamin-B12-Mangelanämien"
+      },
+      "children": []
+    },
+    {
+      "code": "D51.9",
+      "kind": "category",
+      "label": "Vitamin-B12-Mangelanämie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Vitamin-B12-Mangelanämie, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

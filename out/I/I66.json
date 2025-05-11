@@ -1,0 +1,76 @@
+{
+  "code": "I66",
+  "kind": "category",
+  "label": "Verschluss und Stenose zerebraler Arterien ohne resultierenden Hirninfarkt",
+  "rubrics": {
+    "preferred": "Verschluss und Stenose zerebraler Arterien ohne resultierenden Hirninfarkt",
+    "inclusion": "Thrombose\n\t\t\t\tA. cerebri media, A. cerebri anterior, A. cerebri posterior und Aa. cerebelli, ohne resultierenden Hirninfarkt",
+    "exclusion": "Als Ursache eines HirninfarktesI63.-"
+  },
+  "children": [
+    {
+      "code": "I66.0",
+      "kind": "category",
+      "label": "Verschluss und Stenose der A. cerebri media",
+      "rubrics": {
+        "preferred": "Verschluss und Stenose der A. cerebri media"
+      },
+      "children": []
+    },
+    {
+      "code": "I66.1",
+      "kind": "category",
+      "label": "Verschluss und Stenose der A. cerebri anterior",
+      "rubrics": {
+        "preferred": "Verschluss und Stenose der A. cerebri anterior"
+      },
+      "children": []
+    },
+    {
+      "code": "I66.2",
+      "kind": "category",
+      "label": "Verschluss und Stenose der A. cerebri posterior",
+      "rubrics": {
+        "preferred": "Verschluss und Stenose der A. cerebri posterior"
+      },
+      "children": []
+    },
+    {
+      "code": "I66.3",
+      "kind": "category",
+      "label": "Verschluss und Stenose der Aa. cerebelli",
+      "rubrics": {
+        "preferred": "Verschluss und Stenose der Aa. cerebelli"
+      },
+      "children": []
+    },
+    {
+      "code": "I66.4",
+      "kind": "category",
+      "label": "Verschluss und Stenose mehrerer und beidseitiger zerebraler Arterien",
+      "rubrics": {
+        "preferred": "Verschluss und Stenose mehrerer und beidseitiger zerebraler Arterien"
+      },
+      "children": []
+    },
+    {
+      "code": "I66.8",
+      "kind": "category",
+      "label": "Verschluss und Stenose sonstiger zerebraler Arterien",
+      "rubrics": {
+        "preferred": "Verschluss und Stenose sonstiger zerebraler Arterien",
+        "inclusion": "Verschluss und Stenose der Stammganglienarterien"
+      },
+      "children": []
+    },
+    {
+      "code": "I66.9",
+      "kind": "category",
+      "label": "Verschluss und Stenose einer nicht näher bezeichneten zerebralen Arterie",
+      "rubrics": {
+        "preferred": "Verschluss und Stenose einer nicht näher bezeichneten zerebralen Arterie"
+      },
+      "children": []
+    }
+  ]
+}

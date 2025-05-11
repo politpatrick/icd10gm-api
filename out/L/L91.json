@@ -1,0 +1,39 @@
+{
+  "code": "L91",
+  "kind": "category",
+  "label": "Hypertrophe Hautkrankheiten",
+  "rubrics": {
+    "preferred": "Hypertrophe Hautkrankheiten"
+  },
+  "children": [
+    {
+      "code": "L91.0",
+      "kind": "category",
+      "label": "Hypertrophe Narbe",
+      "rubrics": {
+        "preferred": "Hypertrophe Narbe",
+        "inclusion": "Narbenkeloid",
+        "exclusion": "Narbe o.n.A.L90.5"
+      },
+      "children": []
+    },
+    {
+      "code": "L91.8",
+      "kind": "category",
+      "label": "Sonstige hypertrophe Hautkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige hypertrophe Hautkrankheiten"
+      },
+      "children": []
+    },
+    {
+      "code": "L91.9",
+      "kind": "category",
+      "label": "Hypertrophe Hautkrankheit, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hypertrophe Hautkrankheit, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

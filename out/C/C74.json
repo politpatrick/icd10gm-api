@@ -1,0 +1,40 @@
+{
+  "code": "C74",
+  "kind": "category",
+  "label": "Bösartige Neubildung der Nebenniere",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung der Nebenniere"
+  },
+  "children": [
+    {
+      "code": "C74.0",
+      "kind": "category",
+      "label": "Nebennierenrinde",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Nebennierenrinde",
+        "preferred": "Nebennierenrinde"
+      },
+      "children": []
+    },
+    {
+      "code": "C74.1",
+      "kind": "category",
+      "label": "Nebennierenmark",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Nebennierenmark",
+        "preferred": "Nebennierenmark"
+      },
+      "children": []
+    },
+    {
+      "code": "C74.9",
+      "kind": "category",
+      "label": "Nebenniere, nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Bösartige Neubildung: Nebenniere, nicht näher bezeichnet",
+        "preferred": "Nebenniere, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

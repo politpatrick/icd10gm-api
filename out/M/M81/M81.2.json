@@ -1,0 +1,10 @@
+{
+  "code": "M81.2",
+  "kind": "category",
+  "label": "Inaktivitätsosteoporose",
+  "rubrics": {
+    "preferred": "Inaktivitätsosteoporose",
+    "exclusion": "Sudeck-KnochenatrophieM89.0-"
+  },
+  "children": []
+}

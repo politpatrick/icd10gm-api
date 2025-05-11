@@ -1,0 +1,11 @@
+{
+  "code": "Z99.0",
+  "kind": "category",
+  "label": "Abhängigkeit (langzeitig) vom Aspirator",
+  "rubrics": {
+    "preferred": "Abhängigkeit (langzeitig) vom Aspirator",
+    "note": "Die Versorgung eines Tracheostomas ist zusätzlich mit Z43.0 zu kodieren.\n\t\t\t\tIm Geltungsbereich des § 17b KHG ist der Kode nur zu verwenden bei Patienten, bei denen eine langzeitige Abhängigkeit besteht.",
+    "inclusion": "Abhängigkeit (langzeitig) von:\n\t\t\t\tIn-/Exsufflator (Hustenunterstützungsgerät)"
+  },
+  "children": []
+}

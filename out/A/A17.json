@@ -1,0 +1,49 @@
+{
+  "code": "A17",
+  "kind": "category",
+  "label": "Tuberkulose des Nervensystems",
+  "rubrics": {
+    "preferred": "Tuberkulose des Nervensystems"
+  },
+  "children": [
+    {
+      "code": "A17.0",
+      "kind": "category",
+      "label": "Tuberkulöse MeningitisG01",
+      "rubrics": {
+        "preferred": "Tuberkulöse MeningitisG01",
+        "inclusion": "Tuberkulose der Meningen (zerebral) (spinal)"
+      },
+      "children": []
+    },
+    {
+      "code": "A17.1",
+      "kind": "category",
+      "label": "Meningeales TuberkulomG07",
+      "rubrics": {
+        "preferred": "Meningeales TuberkulomG07",
+        "inclusion": "Tuberkulom der Meningen"
+      },
+      "children": []
+    },
+    {
+      "code": "A17.8",
+      "kind": "category",
+      "label": "Sonstige Tuberkulose des Nervensystems",
+      "rubrics": {
+        "preferred": "Sonstige Tuberkulose des Nervensystems",
+        "inclusion": "Tuberkulose\n\t\t\t\tin\n\t\t\t\tRückenmarkG07"
+      },
+      "children": []
+    },
+    {
+      "code": "A17.9",
+      "kind": "category",
+      "label": "Tuberkulose des Nervensystems, nicht näher bezeichnetG99.8",
+      "rubrics": {
+        "preferred": "Tuberkulose des Nervensystems, nicht näher bezeichnetG99.8"
+      },
+      "children": []
+    }
+  ]
+}

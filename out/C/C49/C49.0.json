@@ -1,0 +1,12 @@
+{
+  "code": "C49.0",
+  "kind": "category",
+  "label": "Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses",
+    "preferred": "Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses",
+    "inclusion": "Bindegewebe:\n\t\t\t\tOhr",
+    "exclusion": "Bindegewebe der OrbitaC69.6"
+  },
+  "children": []
+}

@@ -1,0 +1,93 @@
+{
+  "code": "C78",
+  "kind": "category",
+  "label": "Sekundäre bösartige Neubildung der Atmungs- und Verdauungsorgane",
+  "rubrics": {
+    "preferred": "Sekundäre bösartige Neubildung der Atmungs- und Verdauungsorgane"
+  },
+  "children": [
+    {
+      "code": "C78.0",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung der Lunge",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung der Lunge"
+      },
+      "children": []
+    },
+    {
+      "code": "C78.1",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung des Mediastinums",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung des Mediastinums"
+      },
+      "children": []
+    },
+    {
+      "code": "C78.2",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung der Pleura",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung der Pleura",
+        "inclusion": "Pleurakarzinose"
+      },
+      "children": []
+    },
+    {
+      "code": "C78.3",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung sonstiger und nicht näher bezeichneter Atmungsorgane",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung sonstiger und nicht näher bezeichneter Atmungsorgane"
+      },
+      "children": []
+    },
+    {
+      "code": "C78.4",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung des Dünndarmes",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung des Dünndarmes"
+      },
+      "children": []
+    },
+    {
+      "code": "C78.5",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung des Dickdarmes und des Rektums",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung des Dickdarmes und des Rektums"
+      },
+      "children": []
+    },
+    {
+      "code": "C78.6",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung des Retroperitoneums und des Peritoneums",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung des Retroperitoneums und des Peritoneums",
+        "inclusion": "Peritonealkarzinose"
+      },
+      "children": []
+    },
+    {
+      "code": "C78.7",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung der Leber und der intrahepatischen Gallengänge",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung der Leber und der intrahepatischen Gallengänge"
+      },
+      "children": []
+    },
+    {
+      "code": "C78.8",
+      "kind": "category",
+      "label": "Sekundäre bösartige Neubildung sonstiger und nicht näher bezeichneter Verdauungsorgane",
+      "rubrics": {
+        "preferred": "Sekundäre bösartige Neubildung sonstiger und nicht näher bezeichneter Verdauungsorgane"
+      },
+      "children": []
+    }
+  ]
+}

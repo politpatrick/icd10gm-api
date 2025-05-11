@@ -1,0 +1,10 @@
+{
+  "code": "T79.0",
+  "kind": "category",
+  "label": "Luftembolie (traumatisch)",
+  "rubrics": {
+    "preferred": "Luftembolie (traumatisch)",
+    "exclusion": "Luftembolie als Komplikation bei:\n\t\t\t\tSchwangerschaft, Geburt oder WochenbettO88.0"
+  },
+  "children": []
+}

@@ -1,0 +1,207 @@
+{
+  "code": "D69",
+  "kind": "category",
+  "label": "Purpura und sonstige hämorrhagische Diathesen",
+  "rubrics": {
+    "preferred": "Purpura und sonstige hämorrhagische Diathesen",
+    "exclusion": "Thrombotisch-thrombozytopenische PurpuraM31.1"
+  },
+  "children": [
+    {
+      "code": "D69.0",
+      "kind": "category",
+      "label": "Purpura anaphylactoides",
+      "rubrics": {
+        "preferred": "Purpura anaphylactoides",
+        "inclusion": "Purpura:\n\t\t\t\tvaskulär"
+      },
+      "children": []
+    },
+    {
+      "code": "D69.1",
+      "kind": "category",
+      "label": "Qualitative Thrombozytendefekte",
+      "rubrics": {
+        "preferred": "Qualitative Thrombozytendefekte",
+        "inclusion": "Thrombozytopathie",
+        "coding-hint": "Benutze für Zwecke der Abrechnung der Zusatzentgelte entsprechend Anlage 7 zur FPV eine zusätzliche Schlüsselnummer, um das Vorliegen einer \"dauerhaft erworbenen\" (U69.11!) oder \"temporären\" (U69.12!) Blutgerinnungsstörung anzuzeigen.",
+        "exclusion": "Willebrand-Jürgens-SyndromD68.0-"
+      },
+      "children": []
+    },
+    {
+      "code": "D69.2",
+      "kind": "category",
+      "label": "Sonstige nichtthrombozytopenische Purpura",
+      "rubrics": {
+        "preferred": "Sonstige nichtthrombozytopenische Purpura",
+        "inclusion": "Purpura:\n\t\t\t\to.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "D69.3",
+      "kind": "category",
+      "label": "Idiopathische thrombozytopenische Purpura",
+      "rubrics": {
+        "preferred": "Idiopathische thrombozytopenische Purpura",
+        "inclusion": "Werlhof-Krankheit"
+      },
+      "children": []
+    },
+    {
+      "code": "D69.4",
+      "kind": "category",
+      "label": "Sonstige primäre Thrombozytopenie",
+      "rubrics": {
+        "preferred": "Sonstige primäre Thrombozytopenie",
+        "exclusion": "Wiskott-Aldrich-SyndromD82.0"
+      },
+      "children": [
+        {
+          "code": "D69.40",
+          "kind": "category",
+          "label": "Sonstige primäre Thrombozytopenie, als transfusionsrefraktär bezeichnet",
+          "rubrics": {
+            "preferred": "Sonstige primäre Thrombozytopenie, als transfusionsrefraktär bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "D69.41",
+          "kind": "category",
+          "label": "Sonstige primäre Thrombozytopenie, nicht als transfusionsrefraktär bezeichnet",
+          "rubrics": {
+            "preferred": "Sonstige primäre Thrombozytopenie, nicht als transfusionsrefraktär bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D69.5",
+      "kind": "category",
+      "label": "Sekundäre Thrombozytopenie",
+      "rubrics": {
+        "preferred": "Sekundäre Thrombozytopenie",
+        "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+      },
+      "children": [
+        {
+          "code": "D69.52",
+          "kind": "category",
+          "label": "Heparin-induzierte Thrombozytopenie Typ I",
+          "rubrics": {
+            "preferred": "Heparin-induzierte Thrombozytopenie Typ I"
+          },
+          "children": []
+        },
+        {
+          "code": "D69.53",
+          "kind": "category",
+          "label": "Heparin-induzierte Thrombozytopenie Typ II",
+          "rubrics": {
+            "preferred": "Heparin-induzierte Thrombozytopenie Typ II"
+          },
+          "children": []
+        },
+        {
+          "code": "D69.57",
+          "kind": "category",
+          "label": "Sonstige sekundäre Thrombozytopenien, als transfusionsrefraktär bezeichnet",
+          "rubrics": {
+            "preferred": "Sonstige sekundäre Thrombozytopenien, als transfusionsrefraktär bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "D69.58",
+          "kind": "category",
+          "label": "Sonstige sekundäre Thrombozytopenien, nicht als transfusionsrefraktär bezeichnet",
+          "rubrics": {
+            "preferred": "Sonstige sekundäre Thrombozytopenien, nicht als transfusionsrefraktär bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "D69.59",
+          "kind": "category",
+          "label": "Sekundäre Thrombozytopenie, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Sekundäre Thrombozytopenie, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D69.6",
+      "kind": "category",
+      "label": "Thrombozytopenie, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Thrombozytopenie, nicht näher bezeichnet"
+      },
+      "children": [
+        {
+          "code": "D69.60",
+          "kind": "category",
+          "label": "Thrombozytopenie, nicht näher bezeichnet, als transfusionsrefraktär bezeichnet",
+          "rubrics": {
+            "preferred": "Thrombozytopenie, nicht näher bezeichnet, als transfusionsrefraktär bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "D69.61",
+          "kind": "category",
+          "label": "Thrombozytopenie, nicht näher bezeichnet, nicht als transfusionsrefraktär bezeichnet",
+          "rubrics": {
+            "preferred": "Thrombozytopenie, nicht näher bezeichnet, nicht als transfusionsrefraktär bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D69.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete hämorrhagische Diathesen",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete hämorrhagische Diathesen"
+      },
+      "children": [
+        {
+          "code": "D69.80",
+          "kind": "category",
+          "label": "Hämorrhagische Diathese durch Thrombozytenaggregationshemmer",
+          "rubrics": {
+            "preferred": "Hämorrhagische Diathese durch Thrombozytenaggregationshemmer",
+            "inclusion": "Blutung bei Dauertherapie mit Thrombozytenaggregationshemmern",
+            "exclusion": "Dauertherapie mit Thrombozytenaggregationshemmern ohne BlutungZ92.2"
+          },
+          "children": []
+        },
+        {
+          "code": "D69.88",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete hämorrhagische Diathesen",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete hämorrhagische Diathesen",
+            "inclusion": "Vaskuläre Pseudohämophilie",
+            "coding-hint": "Benutze für Zwecke der Abrechnung der Zusatzentgelte entsprechend Anlage 7 zur FPV eine zusätzliche Schlüsselnummer, um das Vorliegen einer \"dauerhaft erworbenen\" (U69.11!) oder \"temporären\" (U69.12!) Blutgerinnungsstörung anzuzeigen."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "D69.9",
+      "kind": "category",
+      "label": "Hämorrhagische Diathese, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Hämorrhagische Diathese, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

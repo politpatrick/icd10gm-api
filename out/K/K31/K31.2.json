@@ -1,0 +1,10 @@
+{
+  "code": "K31.2",
+  "kind": "category",
+  "label": "Sanduhrförmige Striktur und Stenose des Magens",
+  "rubrics": {
+    "preferred": "Sanduhrförmige Striktur und Stenose des Magens",
+    "exclusion": "Sanduhrförmige MagenkontraktionK31.88"
+  },
+  "children": []
+}

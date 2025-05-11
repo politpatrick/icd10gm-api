@@ -1,0 +1,10 @@
+{
+  "code": "I97.1",
+  "kind": "category",
+  "label": "Sonstige Funktionsstörungen nach kardiochirurgischem Eingriff",
+  "rubrics": {
+    "preferred": "Sonstige Funktionsstörungen nach kardiochirurgischem Eingriff",
+    "inclusion": "Schrittmachersyndrom"
+  },
+  "children": []
+}

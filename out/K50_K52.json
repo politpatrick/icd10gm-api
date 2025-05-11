@@ -1,0 +1,288 @@
+{
+  "code": "K50-K52",
+  "kind": "block",
+  "label": "Nichtinfektiöse Enteritis und Kolitis",
+  "rubrics": {
+    "preferred": "Nichtinfektiöse Enteritis und Kolitis",
+    "inclusion": "Nichtinfektiöse entzündliche Darmkrankheit",
+    "exclusion": "MegakolonK59.3"
+  },
+  "children": [
+    {
+      "code": "K50",
+      "kind": "category",
+      "label": "Crohn-Krankheit [Enteritis regionalis] [Morbus Crohn]",
+      "rubrics": {
+        "preferred": "Crohn-Krankheit [Enteritis regionalis] [Morbus Crohn]",
+        "inclusion": "Granulomatöse Enteritis",
+        "exclusion": "Colitis ulcerosa K51.-"
+      },
+      "children": [
+        {
+          "code": "K50.0",
+          "kind": "category",
+          "label": "Crohn-Krankheit des Dünndarmes",
+          "rubrics": {
+            "preferred": "Crohn-Krankheit des Dünndarmes",
+            "inclusion": "Ileitis:\n\t\t\t\tterminalis",
+            "exclusion": "Crohn-Krankheit des Dünn- und DickdarmesK50.82"
+          },
+          "children": []
+        },
+        {
+          "code": "K50.1",
+          "kind": "category",
+          "label": "Crohn-Krankheit des Dickdarmes",
+          "rubrics": {
+            "preferred": "Crohn-Krankheit des Dickdarmes",
+            "inclusion": "Crohn-Krankheit [Enteritis regionalis]:\n\t\t\t\tRektum",
+            "exclusion": "Crohn-Krankheit des Dünn- und DickdarmesK50.82"
+          },
+          "children": []
+        },
+        {
+          "code": "K50.8",
+          "kind": "category",
+          "label": "Sonstige Crohn-Krankheit",
+          "rubrics": {
+            "preferred": "Sonstige Crohn-Krankheit"
+          },
+          "children": [
+            {
+              "code": "K50.80",
+              "kind": "category",
+              "label": "Crohn-Krankheit des Magens",
+              "rubrics": {
+                "preferred": "Crohn-Krankheit des Magens"
+              },
+              "children": []
+            },
+            {
+              "code": "K50.81",
+              "kind": "category",
+              "label": "Crohn-Krankheit der Speiseröhre",
+              "rubrics": {
+                "preferred": "Crohn-Krankheit der Speiseröhre"
+              },
+              "children": []
+            },
+            {
+              "code": "K50.82",
+              "kind": "category",
+              "label": "Crohn-Krankheit der Speiseröhre und des Magen-Darm-Traktes, mehrere Teilbereiche betreffend",
+              "rubrics": {
+                "preferred": "Crohn-Krankheit der Speiseröhre und des Magen-Darm-Traktes, mehrere Teilbereiche betreffend",
+                "inclusion": "Crohn-Krankheit sowohl des Dünndarmes als auch des Dickdarmes"
+              },
+              "children": []
+            },
+            {
+              "code": "K50.88",
+              "kind": "category",
+              "label": "Sonstige Crohn-Krankheit",
+              "rubrics": {
+                "preferred": "Sonstige Crohn-Krankheit"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "K50.9",
+          "kind": "category",
+          "label": "Crohn-Krankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Crohn-Krankheit, nicht näher bezeichnet",
+            "inclusion": "Enteritis regionalis o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K51",
+      "kind": "category",
+      "label": "Colitis ulcerosa",
+      "rubrics": {
+        "preferred": "Colitis ulcerosa"
+      },
+      "children": [
+        {
+          "code": "K51.0",
+          "kind": "category",
+          "label": "Ulzeröse (chronische) Pankolitis",
+          "rubrics": {
+            "preferred": "Ulzeröse (chronische) Pankolitis",
+            "inclusion": "Subtotale ulzeröse (chronische) Kolitis",
+            "exclusion": "Colitis indeterminata K52.3-"
+          },
+          "children": []
+        },
+        {
+          "code": "K51.2",
+          "kind": "category",
+          "label": "Ulzeröse (chronische) Proktitis",
+          "rubrics": {
+            "preferred": "Ulzeröse (chronische) Proktitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K51.3",
+          "kind": "category",
+          "label": "Ulzeröse (chronische) Rektosigmoiditis",
+          "rubrics": {
+            "preferred": "Ulzeröse (chronische) Rektosigmoiditis"
+          },
+          "children": []
+        },
+        {
+          "code": "K51.4",
+          "kind": "category",
+          "label": "Inflammatorische Polypen des Kolons",
+          "rubrics": {
+            "preferred": "Inflammatorische Polypen des Kolons"
+          },
+          "children": []
+        },
+        {
+          "code": "K51.5",
+          "kind": "category",
+          "label": "Linksseitige Kolitis",
+          "rubrics": {
+            "preferred": "Linksseitige Kolitis",
+            "inclusion": "Hemikolitis, links"
+          },
+          "children": []
+        },
+        {
+          "code": "K51.8",
+          "kind": "category",
+          "label": "Sonstige Colitis ulcerosa",
+          "rubrics": {
+            "preferred": "Sonstige Colitis ulcerosa"
+          },
+          "children": []
+        },
+        {
+          "code": "K51.9",
+          "kind": "category",
+          "label": "Colitis ulcerosa, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Colitis ulcerosa, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K52",
+      "kind": "category",
+      "label": "Sonstige nichtinfektiöse Gastroenteritis und Kolitis",
+      "rubrics": {
+        "preferred": "Sonstige nichtinfektiöse Gastroenteritis und Kolitis"
+      },
+      "children": [
+        {
+          "code": "K52.0",
+          "kind": "category",
+          "label": "Gastroenteritis und Kolitis durch Strahleneinwirkung",
+          "rubrics": {
+            "preferred": "Gastroenteritis und Kolitis durch Strahleneinwirkung"
+          },
+          "children": []
+        },
+        {
+          "code": "K52.1",
+          "kind": "category",
+          "label": "Toxische Gastroenteritis und Kolitis",
+          "rubrics": {
+            "preferred": "Toxische Gastroenteritis und Kolitis",
+            "coding-hint": "Soll das toxische Agens oder Medikament, wenn medikamenteninduziert, angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+            "inclusion": "Medikamenteninduzierte Gastroenteritis und Kolitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K52.2",
+          "kind": "category",
+          "label": "Allergische und alimentäre Gastroenteritis und Kolitis",
+          "rubrics": {
+            "preferred": "Allergische und alimentäre Gastroenteritis und Kolitis",
+            "inclusion": "Gastroenteritis oder Kolitis durch Nahrungsmittelallergie"
+          },
+          "children": []
+        },
+        {
+          "code": "K52.3",
+          "kind": "category",
+          "label": "Colitis indeterminata",
+          "rubrics": {
+            "preferred": "Colitis indeterminata",
+            "exclusion": "Kolitis nicht näher bezeichneten UrsprungsA09.9"
+          },
+          "children": [
+            {
+              "code": "K52.30",
+              "kind": "category",
+              "label": "Pancolitis indeterminata",
+              "rubrics": {
+                "preferred": "Pancolitis indeterminata",
+                "inclusion": "Subtotale Colitis indeterminata"
+              },
+              "children": []
+            },
+            {
+              "code": "K52.31",
+              "kind": "category",
+              "label": "Linksseitige Colitis indeterminata",
+              "rubrics": {
+                "preferred": "Linksseitige Colitis indeterminata"
+              },
+              "children": []
+            },
+            {
+              "code": "K52.32",
+              "kind": "category",
+              "label": "Colitis indeterminata des Rektosigmoids",
+              "rubrics": {
+                "preferred": "Colitis indeterminata des Rektosigmoids"
+              },
+              "children": []
+            },
+            {
+              "code": "K52.38",
+              "kind": "category",
+              "label": "Sonstige Colitis indeterminata",
+              "rubrics": {
+                "preferred": "Sonstige Colitis indeterminata"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "K52.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete nichtinfektiöse Gastroenteritis und Kolitis",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete nichtinfektiöse Gastroenteritis und Kolitis",
+            "inclusion": "Mikroskopische (kollagene oder lymphozytäre) Kolitis"
+          },
+          "children": []
+        },
+        {
+          "code": "K52.9",
+          "kind": "category",
+          "label": "Nichtinfektiöse Gastroenteritis und Kolitis, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Nichtinfektiöse Gastroenteritis und Kolitis, nicht näher bezeichnet",
+            "inclusion": "Sigmoiditis\n\t\t\t\tals nichtinfektiös bezeichnet",
+            "exclusion": "Psychogene DiarrhoeF45.32"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

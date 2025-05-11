@@ -1,0 +1,104 @@
+{
+  "code": "Z46",
+  "kind": "category",
+  "label": "Versorgen mit und Anpassen von anderen medizinischen Geräten oder Hilfsmitteln",
+  "rubrics": {
+    "preferred": "Versorgen mit und Anpassen von anderen medizinischen Geräten oder Hilfsmitteln",
+    "exclusion": "Vorhandensein von Prothesen und anderen medizinischen Geräten oder HilfsmittelnZ95-Z97"
+  },
+  "children": [
+    {
+      "code": "Z46.0",
+      "kind": "category",
+      "label": "Versorgen mit und Anpassen von Brillen oder Kontaktlinsen",
+      "rubrics": {
+        "preferred": "Versorgen mit und Anpassen von Brillen oder Kontaktlinsen"
+      },
+      "children": []
+    },
+    {
+      "code": "Z46.1",
+      "kind": "category",
+      "label": "Versorgen mit und Anpassen eines Hörgerätes",
+      "rubrics": {
+        "preferred": "Versorgen mit und Anpassen eines Hörgerätes"
+      },
+      "children": []
+    },
+    {
+      "code": "Z46.2",
+      "kind": "category",
+      "label": "Versorgen mit und Anpassen von anderen medizinischen Geräten oder Hilfsmitteln für das Nervensystem oder für spezielle Sinnesorgane",
+      "rubrics": {
+        "preferred": "Versorgen mit und Anpassen von anderen medizinischen Geräten oder Hilfsmitteln für das Nervensystem oder für spezielle Sinnesorgane"
+      },
+      "children": []
+    },
+    {
+      "code": "Z46.3",
+      "kind": "category",
+      "label": "Versorgen mit und Anpassen einer Zahnprothese",
+      "rubrics": {
+        "preferred": "Versorgen mit und Anpassen einer Zahnprothese"
+      },
+      "children": []
+    },
+    {
+      "code": "Z46.4",
+      "kind": "category",
+      "label": "Versorgen mit und Anpassen von kieferorthopädischen Geräten",
+      "rubrics": {
+        "preferred": "Versorgen mit und Anpassen von kieferorthopädischen Geräten"
+      },
+      "children": []
+    },
+    {
+      "code": "Z46.5",
+      "kind": "category",
+      "label": "Versorgen mit und Anpassen eines Ileostomas oder von sonstigen Vorrichtungen im Magen-Darm-Trakt",
+      "rubrics": {
+        "preferred": "Versorgen mit und Anpassen eines Ileostomas oder von sonstigen Vorrichtungen im Magen-Darm-Trakt",
+        "inclusion": "Gastrostoma"
+      },
+      "children": []
+    },
+    {
+      "code": "Z46.6",
+      "kind": "category",
+      "label": "Versorgen mit und Anpassen eines Gerätes im Harntrakt",
+      "rubrics": {
+        "preferred": "Versorgen mit und Anpassen eines Gerätes im Harntrakt"
+      },
+      "children": []
+    },
+    {
+      "code": "Z46.7",
+      "kind": "category",
+      "label": "Versorgen mit und Anpassen eines orthopädischen Hilfsmittels",
+      "rubrics": {
+        "preferred": "Versorgen mit und Anpassen eines orthopädischen Hilfsmittels",
+        "inclusion": "Orthopädisch:\n\t\t\t\tStützapparat"
+      },
+      "children": []
+    },
+    {
+      "code": "Z46.8",
+      "kind": "category",
+      "label": "Versorgen mit und Anpassen von sonstigen näher bezeichneten medizinischen Geräten oder Hilfsmitteln",
+      "rubrics": {
+        "preferred": "Versorgen mit und Anpassen von sonstigen näher bezeichneten medizinischen Geräten oder Hilfsmitteln",
+        "inclusion": "Rollstuhl"
+      },
+      "children": []
+    },
+    {
+      "code": "Z46.9",
+      "kind": "category",
+      "label": "Versorgen mit und Anpassen eines nicht näher bezeichneten medizinischen Gerätes oder Hilfsmittels",
+      "rubrics": {
+        "preferred": "Versorgen mit und Anpassen eines nicht näher bezeichneten medizinischen Gerätes oder Hilfsmittels"
+      },
+      "children": []
+    }
+  ]
+}

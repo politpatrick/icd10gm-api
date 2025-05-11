@@ -1,0 +1,11 @@
+{
+  "code": "Z64.8",
+  "kind": "category",
+  "label": "Sonstige Kontaktanlässe mit Bezug auf bestimmte psychosoziale Umstände",
+  "rubrics": {
+    "preferred": "Sonstige Kontaktanlässe mit Bezug auf bestimmte psychosoziale Umstände",
+    "inclusion": "Unstimmigkeit mit Beratungspersonen, z.B. mit Bewährungshelfer oder Sozialarbeiter",
+    "exclusion": "Suchtstoffabhängigkeit - siehe Alphabetisches Verzeichnis"
+  },
+  "children": []
+}

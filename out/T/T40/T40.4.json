@@ -1,0 +1,11 @@
+{
+  "code": "T40.4",
+  "kind": "category",
+  "label": "Sonstige synthetische Betäubungsmittel",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Sonstige synthetische Betäubungsmittel",
+    "preferred": "Sonstige synthetische Betäubungsmittel",
+    "inclusion": "Pethidin"
+  },
+  "children": []
+}

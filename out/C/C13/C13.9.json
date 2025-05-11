@@ -1,0 +1,11 @@
+{
+  "code": "C13.9",
+  "kind": "category",
+  "label": "Hypopharynx, nicht näher bezeichnet",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung: Hypopharynx, nicht näher bezeichnet",
+    "preferred": "Hypopharynx, nicht näher bezeichnet",
+    "inclusion": "Wand des Hypopharynx o.n.A."
+  },
+  "children": []
+}

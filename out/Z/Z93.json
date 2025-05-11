@@ -1,0 +1,112 @@
+{
+  "code": "Z93",
+  "kind": "category",
+  "label": "Vorhandensein einer künstlichen Körperöffnung",
+  "rubrics": {
+    "preferred": "Vorhandensein einer künstlichen Körperöffnung",
+    "exclusion": "Künstliche Körperöffnungen, die der Beobachtung oder Versorgung bedürfenZ43.-"
+  },
+  "children": [
+    {
+      "code": "Z93.0",
+      "kind": "category",
+      "label": "Vorhandensein eines Tracheostomas",
+      "rubrics": {
+        "preferred": "Vorhandensein eines Tracheostomas"
+      },
+      "children": []
+    },
+    {
+      "code": "Z93.1",
+      "kind": "category",
+      "label": "Vorhandensein eines Gastrostomas",
+      "rubrics": {
+        "preferred": "Vorhandensein eines Gastrostomas"
+      },
+      "children": []
+    },
+    {
+      "code": "Z93.2",
+      "kind": "category",
+      "label": "Vorhandensein eines Ileostomas",
+      "rubrics": {
+        "preferred": "Vorhandensein eines Ileostomas"
+      },
+      "children": []
+    },
+    {
+      "code": "Z93.3",
+      "kind": "category",
+      "label": "Vorhandensein eines Kolostomas",
+      "rubrics": {
+        "preferred": "Vorhandensein eines Kolostomas"
+      },
+      "children": []
+    },
+    {
+      "code": "Z93.4",
+      "kind": "category",
+      "label": "Vorhandensein anderer künstlicher Körperöffnungen des Magen-Darm-Trakts",
+      "rubrics": {
+        "preferred": "Vorhandensein anderer künstlicher Körperöffnungen des Magen-Darm-Trakts"
+      },
+      "children": []
+    },
+    {
+      "code": "Z93.5",
+      "kind": "category",
+      "label": "Vorhandensein eines Zystostomas",
+      "rubrics": {
+        "preferred": "Vorhandensein eines Zystostomas"
+      },
+      "children": []
+    },
+    {
+      "code": "Z93.6",
+      "kind": "category",
+      "label": "Vorhandensein anderer künstlicher Körperöffnungen der Harnwege",
+      "rubrics": {
+        "preferred": "Vorhandensein anderer künstlicher Körperöffnungen der Harnwege",
+        "inclusion": "Urethrostoma"
+      },
+      "children": []
+    },
+    {
+      "code": "Z93.8",
+      "kind": "category",
+      "label": "Vorhandensein sonstiger künstlicher Körperöffnungen",
+      "rubrics": {
+        "preferred": "Vorhandensein sonstiger künstlicher Körperöffnungen"
+      },
+      "children": [
+        {
+          "code": "Z93.80",
+          "kind": "category",
+          "label": "Vorhandensein eines Thorakostomas",
+          "rubrics": {
+            "preferred": "Vorhandensein eines Thorakostomas"
+          },
+          "children": []
+        },
+        {
+          "code": "Z93.88",
+          "kind": "category",
+          "label": "Vorhandensein sonstiger künstlicher Körperöffnungen",
+          "rubrics": {
+            "preferred": "Vorhandensein sonstiger künstlicher Körperöffnungen"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "Z93.9",
+      "kind": "category",
+      "label": "Vorhandensein einer künstlichen Körperöffnung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Vorhandensein einer künstlichen Körperöffnung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

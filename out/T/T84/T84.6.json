@@ -1,0 +1,11 @@
+{
+  "code": "T84.6",
+  "kind": "category",
+  "label": "Infektion und entzündliche Reaktion durch eine interne Osteosynthesevorrichtung [jede Lokalisation]",
+  "rubrics": {
+    "preferred": "Infektion und entzündliche Reaktion durch eine interne Osteosynthesevorrichtung [jede Lokalisation]",
+    "inclusion": "Periimplantäre (implantatassoziierte) Infektion",
+    "coding-hint": "Benutze eine zusätzliche Schlüsselnummer, um das Vorliegen einer Arthritis M00.-, einer entzündlichen Spondylopathie M46.- oder einer Osteomyelitis M86.- im Rahmen einer periimplantären (implantatassoziierten) Infektion zu kodieren."
+  },
+  "children": []
+}

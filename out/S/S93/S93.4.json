@@ -1,0 +1,61 @@
+{
+  "code": "S93.4",
+  "kind": "category",
+  "label": "Verstauchung und Zerrung des oberen Sprunggelenkes",
+  "rubrics": {
+    "preferred": "Verstauchung und Zerrung des oberen Sprunggelenkes",
+    "exclusion": "Verletzung der AchillessehneS86.0"
+  },
+  "children": [
+    {
+      "code": "S93.40",
+      "kind": "category",
+      "label": "Teil nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Verstauchung und Zerrung des oberen Sprunggelenkes: Teil nicht näher bezeichnet",
+        "preferred": "Teil nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "S93.41",
+      "kind": "category",
+      "label": "Lig. deltoideum",
+      "rubrics": {
+        "preferredLong": "Verstauchung und Zerrung des oberen Sprunggelenkes: Lig. deltoideum",
+        "preferred": "Lig. deltoideum"
+      },
+      "children": []
+    },
+    {
+      "code": "S93.42",
+      "kind": "category",
+      "label": "Lig. calcaneofibulare",
+      "rubrics": {
+        "preferredLong": "Verstauchung und Zerrung des oberen Sprunggelenkes: Lig. calcaneofibulare",
+        "preferred": "Lig. calcaneofibulare"
+      },
+      "children": []
+    },
+    {
+      "code": "S93.43",
+      "kind": "category",
+      "label": "Lig. tibiofibulare (anterius) (posterius), distal",
+      "rubrics": {
+        "preferredLong": "Verstauchung und Zerrung des oberen Sprunggelenkes: Lig. tibiofibulare (anterius) (posterius), distal",
+        "preferred": "Lig. tibiofibulare (anterius) (posterius), distal"
+      },
+      "children": []
+    },
+    {
+      "code": "S93.48",
+      "kind": "category",
+      "label": "Sonstige Teile",
+      "rubrics": {
+        "preferredLong": "Verstauchung und Zerrung des oberen Sprunggelenkes: Sonstige Teile",
+        "preferred": "Sonstige Teile"
+      },
+      "children": []
+    }
+  ]
+}

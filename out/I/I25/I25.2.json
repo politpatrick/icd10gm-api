@@ -1,0 +1,51 @@
+{
+  "code": "I25.2",
+  "kind": "category",
+  "label": "Alter Myokardinfarkt",
+  "rubrics": {
+    "preferred": "Alter Myokardinfarkt",
+    "inclusion": "Zustand nach Myokardinfarkt, der durch EKG oder andere spezielle Untersuchungen diagnostiziert wurde, aber gegenwärtig symptomlos ist"
+  },
+  "children": [
+    {
+      "code": "I25.20",
+      "kind": "category",
+      "label": "29 Tage bis unter 4 Monate zurückliegend",
+      "rubrics": {
+        "preferredLong": "Alter Myokardinfarkt: 29 Tage bis unter 4 Monate zurückliegend",
+        "preferred": "29 Tage bis unter 4 Monate zurückliegend"
+      },
+      "children": []
+    },
+    {
+      "code": "I25.21",
+      "kind": "category",
+      "label": "4 Monate bis unter 1 Jahr zurückliegend",
+      "rubrics": {
+        "preferredLong": "Alter Myokardinfarkt: 4 Monate bis unter 1 Jahr zurückliegend",
+        "preferred": "4 Monate bis unter 1 Jahr zurückliegend"
+      },
+      "children": []
+    },
+    {
+      "code": "I25.22",
+      "kind": "category",
+      "label": "1 Jahr und länger zurückliegend",
+      "rubrics": {
+        "preferredLong": "Alter Myokardinfarkt: 1 Jahr und länger zurückliegend",
+        "preferred": "1 Jahr und länger zurückliegend"
+      },
+      "children": []
+    },
+    {
+      "code": "I25.29",
+      "kind": "category",
+      "label": "Nicht näher bezeichnet",
+      "rubrics": {
+        "preferredLong": "Alter Myokardinfarkt: Nicht näher bezeichnet",
+        "preferred": "Nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

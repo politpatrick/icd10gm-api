@@ -1,0 +1,11 @@
+{
+  "code": "F98.6",
+  "kind": "category",
+  "label": "Poltern",
+  "rubrics": {
+    "preferred": "Poltern",
+    "definition": "Eine hohe Sprechgeschwindigkeit mit Störung der Sprechflüssigkeit, jedoch ohne Wiederholungen oder Zögern, von einem Schweregrad, der zu einer beeinträchtigten Sprechverständlichkeit führt. Das Sprechen ist unregelmäßig und unrhythmisch, mit schnellen, ruckartigen Anläufen, die gewöhnlich zu einem fehlerhaften Satzmuster führen.",
+    "exclusion": "TicstörungenF95.-"
+  },
+  "children": []
+}

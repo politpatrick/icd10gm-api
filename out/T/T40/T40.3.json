@@ -1,0 +1,10 @@
+{
+  "code": "T40.3",
+  "kind": "category",
+  "label": "Methadon",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Methadon",
+    "preferred": "Methadon"
+  },
+  "children": []
+}

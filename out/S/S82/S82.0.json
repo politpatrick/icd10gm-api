@@ -1,0 +1,10 @@
+{
+  "code": "S82.0",
+  "kind": "category",
+  "label": "Fraktur der Patella",
+  "rubrics": {
+    "preferred": "Fraktur der Patella",
+    "inclusion": "Kniescheibe"
+  },
+  "children": []
+}

@@ -1,0 +1,40 @@
+{
+  "code": "U51.2",
+  "kind": "category",
+  "label": "Schwere kognitive Funktionseinschränkung",
+  "rubrics": {
+    "preferred": "Schwere kognitive Funktionseinschränkung"
+  },
+  "children": [
+    {
+      "code": "U51.20",
+      "kind": "category",
+      "label": "Erweiterter Barthel-Index: 0-15 Punkte",
+      "rubrics": {
+        "preferredLong": "Schwere kognitive Funktionseinschränkung: Erweiterter Barthel-Index: 0-15 Punkte",
+        "preferred": "Erweiterter Barthel-Index: 0-15 Punkte"
+      },
+      "children": []
+    },
+    {
+      "code": "U51.21",
+      "kind": "category",
+      "label": "Kognitiver FIM: 5-10 Punkte",
+      "rubrics": {
+        "preferredLong": "Schwere kognitive Funktionseinschränkung: Kognitiver FIM: 5-10 Punkte",
+        "preferred": "Kognitiver FIM: 5-10 Punkte"
+      },
+      "children": []
+    },
+    {
+      "code": "U51.22",
+      "kind": "category",
+      "label": "MMSE: 0-16 Punkte",
+      "rubrics": {
+        "preferredLong": "Schwere kognitive Funktionseinschränkung: MMSE: 0-16 Punkte",
+        "preferred": "MMSE: 0-16 Punkte"
+      },
+      "children": []
+    }
+  ]
+}

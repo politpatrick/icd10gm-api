@@ -1,0 +1,10 @@
+{
+  "code": "A67.2",
+  "kind": "category",
+  "label": "Spätstadium der Pinta",
+  "rubrics": {
+    "preferred": "Spätstadium der Pinta",
+    "inclusion": "Kardiovaskuläre VeränderungenI98.1\n\t\t\t\tPinta [Carate]"
+  },
+  "children": []
+}

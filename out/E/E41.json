@@ -1,0 +1,11 @@
+{
+  "code": "E41",
+  "kind": "category",
+  "label": "Alimentärer Marasmus",
+  "rubrics": {
+    "preferred": "Alimentärer Marasmus",
+    "inclusion": "Erhebliche Mangelernährung mit Marasmus",
+    "exclusion": "Kwashiorkor-MarasmusE42"
+  },
+  "children": []
+}

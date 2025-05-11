@@ -1,0 +1,10 @@
+{
+  "code": "M45.0",
+  "kind": "category",
+  "label": "Spondylitis ankylosans",
+  "rubrics": {
+    "preferred": "Spondylitis ankylosans",
+    "inclusion": "Axiale Spondyloarthritis"
+  },
+  "children": []
+}

@@ -1,0 +1,11 @@
+{
+  "code": "P00.7",
+  "kind": "category",
+  "label": "Schädigung des Fetus und Neugeborenen durch sonstige medizinische Maßnahmen bei der Mutter, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Schädigung des Fetus und Neugeborenen durch sonstige medizinische Maßnahmen bei der Mutter, anderenorts nicht klassifiziert",
+    "inclusion": "Schädigung des Fetus oder Neugeborenen durch radiologische Maßnahmen bei der Mutter",
+    "exclusion": "Schädigung des Fetus oder Neugeborenen durch sonstige Komplikationen bei Wehen und EntbindungP03.-"
+  },
+  "children": []
+}

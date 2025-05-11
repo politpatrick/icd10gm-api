@@ -1,0 +1,108 @@
+{
+  "code": "O75",
+  "kind": "category",
+  "label": "Sonstige Komplikationen bei Wehentätigkeit und Entbindung, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Komplikationen bei Wehentätigkeit und Entbindung, anderenorts nicht klassifiziert",
+    "exclusion": "WochenbettinfektionO86.-"
+  },
+  "children": [
+    {
+      "code": "O75.0",
+      "kind": "category",
+      "label": "Mütterlicher Gefahrenzustand während der Wehentätigkeit und bei der Entbindung",
+      "rubrics": {
+        "preferred": "Mütterlicher Gefahrenzustand während der Wehentätigkeit und bei der Entbindung",
+        "inclusion": "Maternaler Distress"
+      },
+      "children": []
+    },
+    {
+      "code": "O75.1",
+      "kind": "category",
+      "label": "Schock während oder nach Wehentätigkeit und Entbindung",
+      "rubrics": {
+        "preferred": "Schock während oder nach Wehentätigkeit und Entbindung",
+        "inclusion": "Geburtsschock",
+        "coding-hint": "Soll die Art des Schocks näher angegeben werden, ist eine zusätzliche Schlüsselnummer ausR57.- zu benutzen."
+      },
+      "children": []
+    },
+    {
+      "code": "O75.2",
+      "kind": "category",
+      "label": "Fieber unter der Geburt, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Fieber unter der Geburt, anderenorts nicht klassifiziert"
+      },
+      "children": []
+    },
+    {
+      "code": "O75.3",
+      "kind": "category",
+      "label": "Sonstige Infektion unter der Geburt",
+      "rubrics": {
+        "preferred": "Sonstige Infektion unter der Geburt",
+        "inclusion": "Sepsis unter der Geburt"
+      },
+      "children": []
+    },
+    {
+      "code": "O75.4",
+      "kind": "category",
+      "label": "Sonstige Komplikationen bei geburtshilflichen Operationen und Maßnahmen",
+      "rubrics": {
+        "preferred": "Sonstige Komplikationen bei geburtshilflichen Operationen und Maßnahmen",
+        "inclusion": "Zerebrale Anoxie\n\t\t\t\tnach Schnittentbindung oder anderen geburtshilflichen Operationen oder Maßnahmen, einschließlich Entbindung o.n.A.",
+        "exclusion": "Komplikationen bei Anästhesie während der Wehentätigkeit und bei der EntbindungO74.-"
+      },
+      "children": []
+    },
+    {
+      "code": "O75.5",
+      "kind": "category",
+      "label": "Protrahierte Geburt nach Blasensprengung",
+      "rubrics": {
+        "preferred": "Protrahierte Geburt nach Blasensprengung"
+      },
+      "children": []
+    },
+    {
+      "code": "O75.6",
+      "kind": "category",
+      "label": "Protrahierte Geburt nach spontanem oder nicht näher bezeichnetem Blasensprung",
+      "rubrics": {
+        "preferred": "Protrahierte Geburt nach spontanem oder nicht näher bezeichnetem Blasensprung",
+        "exclusion": "Spontaner vorzeitiger BlasensprungO42.-"
+      },
+      "children": []
+    },
+    {
+      "code": "O75.7",
+      "kind": "category",
+      "label": "Vaginale Entbindung nach vorangegangener Schnittentbindung",
+      "rubrics": {
+        "preferred": "Vaginale Entbindung nach vorangegangener Schnittentbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O75.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Komplikationen bei Wehentätigkeit und Entbindung",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Komplikationen bei Wehentätigkeit und Entbindung"
+      },
+      "children": []
+    },
+    {
+      "code": "O75.9",
+      "kind": "category",
+      "label": "Komplikation bei Wehentätigkeit und Entbindung, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Komplikation bei Wehentätigkeit und Entbindung, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

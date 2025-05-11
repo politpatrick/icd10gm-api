@@ -1,0 +1,10 @@
+{
+  "code": "M03.0",
+  "kind": "category",
+  "label": "Arthritis nach MeningokokkeninfektionA39.8",
+  "rubrics": {
+    "preferred": "Arthritis nach MeningokokkeninfektionA39.8",
+    "exclusion": "Arthritis durch MeningokokkenM01.0-"
+  },
+  "children": []
+}

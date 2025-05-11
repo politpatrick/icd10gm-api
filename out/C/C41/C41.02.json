@@ -1,0 +1,11 @@
+{
+  "code": "C41.02",
+  "kind": "category",
+  "label": "Maxillofazial",
+  "rubrics": {
+    "preferredLong": "Bösartige Neubildung des Knochens und des Gelenkknorpels: Maxillofazial",
+    "preferred": "Maxillofazial",
+    "inclusion": "Vomer"
+  },
+  "children": []
+}

@@ -1,0 +1,79 @@
+{
+  "code": "K80",
+  "kind": "category",
+  "label": "Cholelithiasis",
+  "rubrics": {
+    "preferred": "Cholelithiasis"
+  },
+  "children": [
+    {
+      "code": "K80.0",
+      "kind": "category",
+      "label": "Gallenblasenstein mit akuter Cholezystitis",
+      "rubrics": {
+        "preferred": "Gallenblasenstein mit akuter Cholezystitis",
+        "inclusion": "Jeder unter K80.2- aufgeführte Zustand mit akuter Cholezystitis"
+      },
+      "children": []
+    },
+    {
+      "code": "K80.1",
+      "kind": "category",
+      "label": "Gallenblasenstein mit sonstiger Cholezystitis",
+      "rubrics": {
+        "preferred": "Gallenblasenstein mit sonstiger Cholezystitis",
+        "inclusion": "Jeder unter K80.2- aufgeführte Zustand mit Cholezystitis (chronisch)"
+      },
+      "children": []
+    },
+    {
+      "code": "K80.2",
+      "kind": "category",
+      "label": "Gallenblasenstein ohne Cholezystitis",
+      "rubrics": {
+        "preferred": "Gallenblasenstein ohne Cholezystitis",
+        "inclusion": "Gallenstein (eingeklemmt):\n\t\t\t\tGallenblase\n\t\t\t\tnicht näher bezeichnet oder ohne Cholezystitis"
+      },
+      "children": []
+    },
+    {
+      "code": "K80.3",
+      "kind": "category",
+      "label": "Gallengangsstein mit Cholangitis",
+      "rubrics": {
+        "preferred": "Gallengangsstein mit Cholangitis",
+        "inclusion": "Jeder unter K80.5- aufgeführte Zustand mit Cholangitis"
+      },
+      "children": []
+    },
+    {
+      "code": "K80.4",
+      "kind": "category",
+      "label": "Gallengangsstein mit Cholezystitis",
+      "rubrics": {
+        "preferred": "Gallengangsstein mit Cholezystitis",
+        "inclusion": "Jeder unter K80.5- aufgeführte Zustand mit Cholezystitis (mit Cholangitis)"
+      },
+      "children": []
+    },
+    {
+      "code": "K80.5",
+      "kind": "category",
+      "label": "Gallengangsstein ohne Cholangitis oder Cholezystitis",
+      "rubrics": {
+        "preferred": "Gallengangsstein ohne Cholangitis oder Cholezystitis",
+        "inclusion": "Leberkolik (rezidivierend)\n\t\t\t\tnicht näher bezeichnet oder ohne Cholangitis oder Cholezystitis"
+      },
+      "children": []
+    },
+    {
+      "code": "K80.8",
+      "kind": "category",
+      "label": "Sonstige Cholelithiasis",
+      "rubrics": {
+        "preferred": "Sonstige Cholelithiasis"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "C01",
+  "kind": "category",
+  "label": "Bösartige Neubildung des Zungengrundes",
+  "rubrics": {
+    "preferred": "Bösartige Neubildung des Zungengrundes",
+    "inclusion": "Hinteres Drittel der Zunge"
+  },
+  "children": []
+}

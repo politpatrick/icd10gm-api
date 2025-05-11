@@ -1,0 +1,60 @@
+{
+  "code": "Q56",
+  "kind": "category",
+  "label": "Unbestimmtes Geschlecht und Pseudohermaphroditismus",
+  "rubrics": {
+    "preferred": "Unbestimmtes Geschlecht und Pseudohermaphroditismus",
+    "exclusion": "Pseudohermaphroditismus:\n\t\t\t\tmit näher bezeichneter ChromosomenanomalieQ96-Q99"
+  },
+  "children": [
+    {
+      "code": "Q56.0",
+      "kind": "category",
+      "label": "Hermaphroditismus, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Hermaphroditismus, anderenorts nicht klassifiziert",
+        "inclusion": "Ovotestis"
+      },
+      "children": []
+    },
+    {
+      "code": "Q56.1",
+      "kind": "category",
+      "label": "Pseudohermaphroditismus masculinus, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Pseudohermaphroditismus masculinus, anderenorts nicht klassifiziert",
+        "inclusion": "Pseudohermaphroditismus masculinus o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "Q56.2",
+      "kind": "category",
+      "label": "Pseudohermaphroditismus femininus, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Pseudohermaphroditismus femininus, anderenorts nicht klassifiziert",
+        "inclusion": "Pseudohermaphroditismus femininus o.n.A."
+      },
+      "children": []
+    },
+    {
+      "code": "Q56.3",
+      "kind": "category",
+      "label": "Pseudohermaphroditismus, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Pseudohermaphroditismus, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "Q56.4",
+      "kind": "category",
+      "label": "Unbestimmtes Geschlecht, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Unbestimmtes Geschlecht, nicht näher bezeichnet",
+        "inclusion": "Nicht eindeutig differenzierbare Genitalien"
+      },
+      "children": []
+    }
+  ]
+}

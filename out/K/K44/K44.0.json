@@ -1,0 +1,10 @@
+{
+  "code": "K44.0",
+  "kind": "category",
+  "label": "Hernia diaphragmatica mit Einklemmung, ohne Gangrän",
+  "rubrics": {
+    "preferred": "Hernia diaphragmatica mit Einklemmung, ohne Gangrän",
+    "inclusion": "Hernia diaphragmatica:\n\t\t\t\tVerschluss verursachend\n\t\t\t\tohne Gangrän"
+  },
+  "children": []
+}

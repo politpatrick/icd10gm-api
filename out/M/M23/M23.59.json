@@ -1,0 +1,10 @@
+{
+  "code": "M23.59",
+  "kind": "category",
+  "label": "Nicht näher bezeichnetes Band",
+  "rubrics": {
+    "preferred": "Nicht näher bezeichnetes Band",
+    "preferredLong": "Chronische Instabilität des Kniegelenkes: Nicht näher bezeichnetes Band"
+  },
+  "children": []
+}

@@ -1,0 +1,48 @@
+{
+  "code": "R48",
+  "kind": "category",
+  "label": "Dyslexie und sonstige Werkzeugstörungen, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Dyslexie und sonstige Werkzeugstörungen, anderenorts nicht klassifiziert",
+    "exclusion": "Umschriebene Entwicklungsstörungen schulischer FertigkeitenF81.-"
+  },
+  "children": [
+    {
+      "code": "R48.0",
+      "kind": "category",
+      "label": "Dyslexie und Alexie",
+      "rubrics": {
+        "preferred": "Dyslexie und Alexie"
+      },
+      "children": []
+    },
+    {
+      "code": "R48.1",
+      "kind": "category",
+      "label": "Agnosie",
+      "rubrics": {
+        "preferred": "Agnosie"
+      },
+      "children": []
+    },
+    {
+      "code": "R48.2",
+      "kind": "category",
+      "label": "Apraxie",
+      "rubrics": {
+        "preferred": "Apraxie"
+      },
+      "children": []
+    },
+    {
+      "code": "R48.8",
+      "kind": "category",
+      "label": "Sonstige und nicht näher bezeichnete Werkzeugstörungen",
+      "rubrics": {
+        "preferred": "Sonstige und nicht näher bezeichnete Werkzeugstörungen",
+        "inclusion": "Akalkulie"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "J09",
+  "kind": "category",
+  "label": "Grippe durch zoonotische oder pandemische nachgewiesene Influenzaviren",
+  "rubrics": {
+    "preferred": "Grippe durch zoonotische oder pandemische nachgewiesene Influenzaviren",
+    "text": "Grippe durch Influenzaviren von besonderer epidemiologischer Relevanz mit einer Übertragung von Tier zu Mensch oder Mensch zu Mensch",
+    "note": "Für die Anwendung dieser Kategorie sind die Richtlinien des globalen Influenzaprogramms (GIP, http://www.who.int/influenza/) der WHO zu beachten.",
+    "coding-hint": "Benutze für besondere epidemiologische Zwecke eine zusätzliche Schlüsselnummer (U69.2-!), um das Vorliegen eines bestimmten Virusstammes anzugeben.",
+    "exclusion": "Pneumonie J14\n\t\t\t\tdurch Haemophilus influenzae [H. influenzae]"
+  },
+  "children": []
+}

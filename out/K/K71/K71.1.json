@@ -1,0 +1,11 @@
+{
+  "code": "K71.1",
+  "kind": "category",
+  "label": "Toxische Leberkrankheit mit Lebernekrose",
+  "rubrics": {
+    "preferred": "Toxische Leberkrankheit mit Lebernekrose",
+    "inclusion": "Leberversagen (akut) (chronisch) durch Arzneimittel oder Drogen",
+    "coding-hint": "Soll der Schweregrad der hepatischen Enzephalopathie angegeben werden, ist eine zusätzliche Schlüsselnummer aus K72.7-! zu verwenden."
+  },
+  "children": []
+}

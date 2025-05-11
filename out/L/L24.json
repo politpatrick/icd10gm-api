@@ -1,0 +1,109 @@
+{
+  "code": "L24",
+  "kind": "category",
+  "label": "Toxische Kontaktdermatitis",
+  "rubrics": {
+    "preferred": "Toxische Kontaktdermatitis",
+    "inclusion": "Toxisches (irritatives) Kontaktekzem",
+    "exclusion": "Krankheiten der Haut und der Unterhaut durch StrahleneinwirkungL55-L59"
+  },
+  "children": [
+    {
+      "code": "L24.0",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis durch Detergenzien",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis durch Detergenzien"
+      },
+      "children": []
+    },
+    {
+      "code": "L24.1",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis durch Öle und Fette",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis durch Öle und Fette"
+      },
+      "children": []
+    },
+    {
+      "code": "L24.2",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis durch Lösungsmittel",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis durch Lösungsmittel",
+        "inclusion": "Lösungsmittel:\n\t\t\t\tKohlenwasserstoff"
+      },
+      "children": []
+    },
+    {
+      "code": "L24.3",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis durch Kosmetika",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis durch Kosmetika"
+      },
+      "children": []
+    },
+    {
+      "code": "L24.4",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis durch Drogen oder Arzneimittel bei Hautkontakt",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis durch Drogen oder Arzneimittel bei Hautkontakt",
+        "coding-hint": "Soll die Substanz angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen.",
+        "exclusion": "Dermatitis durch eingenommene Drogen oder ArzneimittelL27.0-L27.1"
+      },
+      "children": []
+    },
+    {
+      "code": "L24.5",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis durch sonstige chemische Produkte",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis durch sonstige chemische Produkte",
+        "inclusion": "Zement"
+      },
+      "children": []
+    },
+    {
+      "code": "L24.6",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis durch Nahrungsmittel bei Hautkontakt",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis durch Nahrungsmittel bei Hautkontakt",
+        "exclusion": "Dermatitis durch aufgenommene NahrungsmittelL27.2"
+      },
+      "children": []
+    },
+    {
+      "code": "L24.7",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis durch Pflanzen, ausgenommen Nahrungsmittel",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis durch Pflanzen, ausgenommen Nahrungsmittel"
+      },
+      "children": []
+    },
+    {
+      "code": "L24.8",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis durch sonstige Agenzien",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis durch sonstige Agenzien",
+        "inclusion": "Farbstoffe"
+      },
+      "children": []
+    },
+    {
+      "code": "L24.9",
+      "kind": "category",
+      "label": "Toxische Kontaktdermatitis, nicht näher bezeichnete Ursache",
+      "rubrics": {
+        "preferred": "Toxische Kontaktdermatitis, nicht näher bezeichnete Ursache",
+        "inclusion": "Toxisches Kontaktekzem o.n.A."
+      },
+      "children": []
+    }
+  ]
+}

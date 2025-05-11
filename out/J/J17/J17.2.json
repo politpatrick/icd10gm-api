@@ -1,0 +1,10 @@
+{
+  "code": "J17.2",
+  "kind": "category",
+  "label": "Pneumonie bei Mykosen",
+  "rubrics": {
+    "preferred": "Pneumonie bei Mykosen",
+    "inclusion": "Pneumonie bei:\n\t\t\t\tKokzidioidomykoseB38.0-B38.2"
+  },
+  "children": []
+}

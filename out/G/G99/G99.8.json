@@ -1,0 +1,10 @@
+{
+  "code": "G99.8",
+  "kind": "category",
+  "label": "Sonstige näher bezeichnete Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten",
+  "rubrics": {
+    "preferred": "Sonstige näher bezeichnete Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten",
+    "inclusion": "Urämische Paralyse N18.-"
+  },
+  "children": []
+}

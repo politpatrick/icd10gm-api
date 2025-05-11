@@ -1,0 +1,320 @@
+{
+  "code": "I05-I09",
+  "kind": "block",
+  "label": "Chronische rheumatische Herzkrankheiten",
+  "rubrics": {
+    "preferred": "Chronische rheumatische Herzkrankheiten"
+  },
+  "children": [
+    {
+      "code": "I05",
+      "kind": "category",
+      "label": "Rheumatische Mitralklappenkrankheiten",
+      "rubrics": {
+        "preferred": "Rheumatische Mitralklappenkrankheiten",
+        "inclusion": "Zustände, die unter I05.0 und I05.2-I05.9 klassifizierbar sind, unabhängig davon, ob als rheumatisch bezeichnet oder nicht",
+        "exclusion": "Als nichtrheumatisch bezeichnetI34.-"
+      },
+      "children": [
+        {
+          "code": "I05.0",
+          "kind": "category",
+          "label": "Mitralklappenstenose",
+          "rubrics": {
+            "preferred": "Mitralklappenstenose",
+            "inclusion": "Mitralklappenobstruktion (rheumatisch)"
+          },
+          "children": []
+        },
+        {
+          "code": "I05.1",
+          "kind": "category",
+          "label": "Rheumatische Mitralklappeninsuffizienz",
+          "rubrics": {
+            "preferred": "Rheumatische Mitralklappeninsuffizienz"
+          },
+          "children": []
+        },
+        {
+          "code": "I05.2",
+          "kind": "category",
+          "label": "Mitralklappenstenose mit Insuffizienz",
+          "rubrics": {
+            "preferred": "Mitralklappenstenose mit Insuffizienz",
+            "inclusion": "Mitralstenose mit Insuffizienz oder Regurgitation"
+          },
+          "children": []
+        },
+        {
+          "code": "I05.8",
+          "kind": "category",
+          "label": "Sonstige Mitralklappenkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Mitralklappenkrankheiten",
+            "inclusion": "Mitralvitium"
+          },
+          "children": []
+        },
+        {
+          "code": "I05.9",
+          "kind": "category",
+          "label": "Mitralklappenkrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Mitralklappenkrankheit, nicht näher bezeichnet",
+            "inclusion": "Mitralklappenkrankheit (chronisch) o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I06",
+      "kind": "category",
+      "label": "Rheumatische Aortenklappenkrankheiten",
+      "rubrics": {
+        "preferred": "Rheumatische Aortenklappenkrankheiten",
+        "exclusion": "Nicht als rheumatisch bezeichnetI35.-"
+      },
+      "children": [
+        {
+          "code": "I06.0",
+          "kind": "category",
+          "label": "Rheumatische Aortenklappenstenose",
+          "rubrics": {
+            "preferred": "Rheumatische Aortenklappenstenose",
+            "inclusion": "Rheumatische Aortenklappenobstruktion"
+          },
+          "children": []
+        },
+        {
+          "code": "I06.1",
+          "kind": "category",
+          "label": "Rheumatische Aortenklappeninsuffizienz",
+          "rubrics": {
+            "preferred": "Rheumatische Aortenklappeninsuffizienz"
+          },
+          "children": []
+        },
+        {
+          "code": "I06.2",
+          "kind": "category",
+          "label": "Rheumatische Aortenklappenstenose mit Insuffizienz",
+          "rubrics": {
+            "preferred": "Rheumatische Aortenklappenstenose mit Insuffizienz",
+            "inclusion": "Rheumatische Aortenstenose mit Insuffizienz oder Regurgitation"
+          },
+          "children": []
+        },
+        {
+          "code": "I06.8",
+          "kind": "category",
+          "label": "Sonstige rheumatische Aortenklappenkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige rheumatische Aortenklappenkrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "I06.9",
+          "kind": "category",
+          "label": "Rheumatische Aortenklappenkrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Rheumatische Aortenklappenkrankheit, nicht näher bezeichnet",
+            "inclusion": "Rheumatische Aortenklappenkrankheit o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I07",
+      "kind": "category",
+      "label": "Rheumatische Trikuspidalklappenkrankheiten",
+      "rubrics": {
+        "preferred": "Rheumatische Trikuspidalklappenkrankheiten",
+        "inclusion": "Ursache nicht näher bezeichnet",
+        "exclusion": "Als nichtrheumatisch bezeichnetI36.-"
+      },
+      "children": [
+        {
+          "code": "I07.0",
+          "kind": "category",
+          "label": "Trikuspidalklappenstenose",
+          "rubrics": {
+            "preferred": "Trikuspidalklappenstenose",
+            "inclusion": "Trikuspidalklappenstenose (rheumatisch)"
+          },
+          "children": []
+        },
+        {
+          "code": "I07.1",
+          "kind": "category",
+          "label": "Trikuspidalklappeninsuffizienz",
+          "rubrics": {
+            "preferred": "Trikuspidalklappeninsuffizienz",
+            "inclusion": "Trikuspidalklappeninsuffizienz (rheumatisch)"
+          },
+          "children": []
+        },
+        {
+          "code": "I07.2",
+          "kind": "category",
+          "label": "Trikuspidalklappenstenose mit Insuffizienz",
+          "rubrics": {
+            "preferred": "Trikuspidalklappenstenose mit Insuffizienz"
+          },
+          "children": []
+        },
+        {
+          "code": "I07.8",
+          "kind": "category",
+          "label": "Sonstige Trikuspidalklappenkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige Trikuspidalklappenkrankheiten"
+          },
+          "children": []
+        },
+        {
+          "code": "I07.9",
+          "kind": "category",
+          "label": "Trikuspidalklappenkrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Trikuspidalklappenkrankheit, nicht näher bezeichnet",
+            "inclusion": "Trikuspidalklappenkrankheit o.n.A."
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I08",
+      "kind": "category",
+      "label": "Krankheiten mehrerer Herzklappen",
+      "rubrics": {
+        "preferred": "Krankheiten mehrerer Herzklappen",
+        "inclusion": "Ursache nicht näher bezeichnet",
+        "exclusion": "Rheumatische Krankheiten des Endokards, Herzklappe nicht näher bezeichnetI09.1"
+      },
+      "children": [
+        {
+          "code": "I08.0",
+          "kind": "category",
+          "label": "Krankheiten der Mitral- und Aortenklappe, kombiniert",
+          "rubrics": {
+            "preferred": "Krankheiten der Mitral- und Aortenklappe, kombiniert",
+            "inclusion": "Beteiligung von Mitral- und Aortenklappe, unabhängig davon, ob als rheumatisch bezeichnet oder nicht näher bezeichnet"
+          },
+          "children": []
+        },
+        {
+          "code": "I08.1",
+          "kind": "category",
+          "label": "Krankheiten der Mitral- und Trikuspidalklappe, kombiniert",
+          "rubrics": {
+            "preferred": "Krankheiten der Mitral- und Trikuspidalklappe, kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "I08.2",
+          "kind": "category",
+          "label": "Krankheiten der Aorten- und Trikuspidalklappe, kombiniert",
+          "rubrics": {
+            "preferred": "Krankheiten der Aorten- und Trikuspidalklappe, kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "I08.3",
+          "kind": "category",
+          "label": "Krankheiten der Mitral-, Aorten- und Trikuspidalklappe, kombiniert",
+          "rubrics": {
+            "preferred": "Krankheiten der Mitral-, Aorten- und Trikuspidalklappe, kombiniert"
+          },
+          "children": []
+        },
+        {
+          "code": "I08.8",
+          "kind": "category",
+          "label": "Sonstige Krankheiten mehrerer Herzklappen",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten mehrerer Herzklappen"
+          },
+          "children": []
+        },
+        {
+          "code": "I08.9",
+          "kind": "category",
+          "label": "Krankheit mehrerer Herzklappen, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Krankheit mehrerer Herzklappen, nicht näher bezeichnet"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "I09",
+      "kind": "category",
+      "label": "Sonstige rheumatische Herzkrankheiten",
+      "rubrics": {
+        "preferred": "Sonstige rheumatische Herzkrankheiten"
+      },
+      "children": [
+        {
+          "code": "I09.0",
+          "kind": "category",
+          "label": "Rheumatische Myokarditis",
+          "rubrics": {
+            "preferred": "Rheumatische Myokarditis",
+            "exclusion": "Myokarditis, nicht als rheumatisch bezeichnetI51.4"
+          },
+          "children": []
+        },
+        {
+          "code": "I09.1",
+          "kind": "category",
+          "label": "Rheumatische Krankheiten des Endokards, Herzklappe nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Rheumatische Krankheiten des Endokards, Herzklappe nicht näher bezeichnet",
+            "inclusion": "Rheumatische:\n\t\t\t\tValvulitis (chronisch)",
+            "exclusion": "Endokarditis, Herzklappe nicht näher bezeichnetI38"
+          },
+          "children": []
+        },
+        {
+          "code": "I09.2",
+          "kind": "category",
+          "label": "Chronische rheumatische Perikarditis",
+          "rubrics": {
+            "preferred": "Chronische rheumatische Perikarditis",
+            "inclusion": "Perikardverwachsung, rheumatisch",
+            "exclusion": "Nicht als rheumatisch bezeichnetI31.-"
+          },
+          "children": []
+        },
+        {
+          "code": "I09.8",
+          "kind": "category",
+          "label": "Sonstige näher bezeichnete rheumatische Herzkrankheiten",
+          "rubrics": {
+            "preferred": "Sonstige näher bezeichnete rheumatische Herzkrankheiten",
+            "inclusion": "Rheumatische Krankheit der Pulmonalklappe"
+          },
+          "children": []
+        },
+        {
+          "code": "I09.9",
+          "kind": "category",
+          "label": "Rheumatische Herzkrankheit, nicht näher bezeichnet",
+          "rubrics": {
+            "preferred": "Rheumatische Herzkrankheit, nicht näher bezeichnet",
+            "inclusion": "Rheumatische Karditis",
+            "exclusion": "Karditis bei seropositiver chronischer PolyarthritisM05.3-"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

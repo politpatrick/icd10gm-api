@@ -1,0 +1,10 @@
+{
+  "code": "M79.3",
+  "kind": "category",
+  "label": "Pannikulitis, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Pannikulitis, nicht näher bezeichnet",
+    "exclusion": "Pannikulitis:\n\t\t\t\trezidivierend [Pfeifer-Weber-Christian-Krankheit]M35.6"
+  },
+  "children": []
+}

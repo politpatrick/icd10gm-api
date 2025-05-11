@@ -1,0 +1,10 @@
+{
+  "code": "A17.8",
+  "kind": "category",
+  "label": "Sonstige Tuberkulose des Nervensystems",
+  "rubrics": {
+    "preferred": "Sonstige Tuberkulose des Nervensystems",
+    "inclusion": "Tuberkulose\n\t\t\t\tin\n\t\t\t\tRückenmarkG07"
+  },
+  "children": []
+}

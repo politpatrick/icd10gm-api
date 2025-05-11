@@ -1,0 +1,31 @@
+{
+  "code": "I67.1",
+  "kind": "category",
+  "label": "Zerebrales Aneurysma und zerebrale arteriovenöse Fistel",
+  "rubrics": {
+    "preferred": "Zerebrales Aneurysma und zerebrale arteriovenöse Fistel",
+    "coding-hint": "Soll das Vorliegen einer Hirnblutung angegeben werden, ist zunächst eine Schlüsselnummer aus I60-I62 zu verwenden."
+  },
+  "children": [
+    {
+      "code": "I67.10",
+      "kind": "category",
+      "label": "Zerebrales Aneurysma (erworben)",
+      "rubrics": {
+        "preferred": "Zerebrales Aneurysma (erworben)",
+        "exclusion": "Angeborenes zerebrales AneurysmaQ28.-"
+      },
+      "children": []
+    },
+    {
+      "code": "I67.11",
+      "kind": "category",
+      "label": "Zerebrale arteriovenöse Fistel (erworben)",
+      "rubrics": {
+        "preferred": "Zerebrale arteriovenöse Fistel (erworben)",
+        "exclusion": "Angeborene zerebrale arteriovenöse FistelQ28.-"
+      },
+      "children": []
+    }
+  ]
+}

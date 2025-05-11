@@ -1,0 +1,11 @@
+{
+  "code": "Q45.3",
+  "kind": "category",
+  "label": "Sonstige angeborene Fehlbildungen des Pankreas und des Ductus pancreaticus",
+  "rubrics": {
+    "preferred": "Sonstige angeborene Fehlbildungen des Pankreas und des Ductus pancreaticus",
+    "inclusion": "Angeborene Fehlbildung des Pankreas oder des Ductus pancreaticus o.n.A.",
+    "exclusion": "Zystische PankreasfibroseE84.-"
+  },
+  "children": []
+}

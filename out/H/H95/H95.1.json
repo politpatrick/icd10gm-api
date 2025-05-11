@@ -1,0 +1,10 @@
+{
+  "code": "H95.1",
+  "kind": "category",
+  "label": "Sonstige Krankheiten nach Mastoidektomie",
+  "rubrics": {
+    "preferred": "Sonstige Krankheiten nach Mastoidektomie",
+    "inclusion": "Schleimhautzyste\n\t\t\t\tMastoidhöhle"
+  },
+  "children": []
+}

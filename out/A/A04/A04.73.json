@@ -1,0 +1,10 @@
+{
+  "code": "A04.73",
+  "kind": "category",
+  "label": "Enterokolitis durch Clostridium difficile mit Megakolon, mit sonstigen Organkomplikationen",
+  "rubrics": {
+    "preferred": "Enterokolitis durch Clostridium difficile mit Megakolon, mit sonstigen Organkomplikationen",
+    "coding-hint": "Benutze (eine) zusätzliche Schlüsselnummer(n), um (eine) infektionsbedingte Organkomplikation(en) anzugeben."
+  },
+  "children": []
+}

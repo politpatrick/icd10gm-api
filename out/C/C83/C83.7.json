@@ -1,0 +1,11 @@
+{
+  "code": "C83.7",
+  "kind": "category",
+  "label": "Burkitt-Lymphom",
+  "rubrics": {
+    "preferred": "Burkitt-Lymphom",
+    "inclusion": "\"Burkitt-like\"-Lymphom",
+    "exclusion": "Reifzellige B-ALL vom Burkitt-TypC91.8-"
+  },
+  "children": []
+}

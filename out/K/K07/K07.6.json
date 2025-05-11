@@ -1,0 +1,11 @@
+{
+  "code": "K07.6",
+  "kind": "category",
+  "label": "Krankheiten des Kiefergelenkes",
+  "rubrics": {
+    "preferred": "Krankheiten des Kiefergelenkes",
+    "inclusion": "Kiefergelenkarthralgie",
+    "exclusion": "Akute KieferzerrungS03.4"
+  },
+  "children": []
+}

@@ -1,0 +1,10 @@
+{
+  "code": "U82.0",
+  "kind": "category",
+  "label": "Mycobacterium tuberculosis mit Resistenz gegen ein oder mehrere Erstrangmedikamente",
+  "rubrics": {
+    "preferred": "Mycobacterium tuberculosis mit Resistenz gegen ein oder mehrere Erstrangmedikamente",
+    "exclusion": "Resistenz sowohl gegen Isoniazid als auch gegen Rifampicin sowie gegebenenfalls gegen weitere ErstrangmedikamenteU82.1"
+  },
+  "children": []
+}

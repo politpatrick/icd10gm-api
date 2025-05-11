@@ -1,0 +1,51 @@
+{
+  "code": "A85",
+  "kind": "category",
+  "label": "Sonstige Virusenzephalitis, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Sonstige Virusenzephalitis, anderenorts nicht klassifiziert",
+    "inclusion": "Virusmeningoenzephalitis durch näher bezeichnete Viren, anderenorts nicht klassifiziert",
+    "exclusion": "Myalgische EnzephalomyelitisG93.3"
+  },
+  "children": [
+    {
+      "code": "A85.0",
+      "kind": "category",
+      "label": "Enzephalitis durch EnterovirenG05.1",
+      "rubrics": {
+        "preferred": "Enzephalitis durch EnterovirenG05.1",
+        "inclusion": "Enzephalomyelitis durch Enteroviren"
+      },
+      "children": []
+    },
+    {
+      "code": "A85.1",
+      "kind": "category",
+      "label": "Enzephalitis durch AdenovirenG05.1",
+      "rubrics": {
+        "preferred": "Enzephalitis durch AdenovirenG05.1",
+        "inclusion": "Meningoenzephalitis durch Adenoviren"
+      },
+      "children": []
+    },
+    {
+      "code": "A85.2",
+      "kind": "category",
+      "label": "Virusenzephalitis, durch Arthropoden übertragen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Virusenzephalitis, durch Arthropoden übertragen, nicht näher bezeichnet"
+      },
+      "children": []
+    },
+    {
+      "code": "A85.8",
+      "kind": "category",
+      "label": "Sonstige näher bezeichnete Virusenzephalitis",
+      "rubrics": {
+        "preferred": "Sonstige näher bezeichnete Virusenzephalitis",
+        "inclusion": "Encephalitis lethargica sive epidemica"
+      },
+      "children": []
+    }
+  ]
+}

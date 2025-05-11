@@ -1,0 +1,31 @@
+{
+  "code": "S28",
+  "kind": "category",
+  "label": "Zerquetschung des Thorax und traumatische Amputation von Teilen des Thorax",
+  "rubrics": {
+    "preferred": "Zerquetschung des Thorax und traumatische Amputation von Teilen des Thorax"
+  },
+  "children": [
+    {
+      "code": "S28.0",
+      "kind": "category",
+      "label": "Brustkorbzerquetschung",
+      "rubrics": {
+        "preferred": "Brustkorbzerquetschung",
+        "coding-hint": "Verschlüssele gegebenenfalls auch Crush-Syndrom T79.5.",
+        "exclusion": "Wenn die Art der Verletzung bekannt ist (z.B. Prellung, Fraktur, Luxation, innere Verletzung), verschlüssele nur nach der Art der Verletzung"
+      },
+      "children": []
+    },
+    {
+      "code": "S28.1",
+      "kind": "category",
+      "label": "Traumatische Amputation eines Teiles des Thorax",
+      "rubrics": {
+        "preferred": "Traumatische Amputation eines Teiles des Thorax",
+        "exclusion": "Querschnittverletzung in Höhe des ThoraxT05.8"
+      },
+      "children": []
+    }
+  ]
+}

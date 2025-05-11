@@ -1,0 +1,10 @@
+{
+  "code": "B17.9",
+  "kind": "category",
+  "label": "Akute Virushepatitis, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Akute Virushepatitis, nicht näher bezeichnet",
+    "inclusion": "Akute (infektiöse) Hepatitis o.n.A."
+  },
+  "children": []
+}

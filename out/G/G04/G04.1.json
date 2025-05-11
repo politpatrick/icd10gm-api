@@ -1,0 +1,10 @@
+{
+  "code": "G04.1",
+  "kind": "category",
+  "label": "Humane T-Zell-lymphotrope Virus-assoziierte Myelopathie",
+  "rubrics": {
+    "preferred": "Humane T-Zell-lymphotrope Virus-assoziierte Myelopathie",
+    "inclusion": "Tropische spastische Paraplegie"
+  },
+  "children": []
+}

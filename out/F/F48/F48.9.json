@@ -1,0 +1,10 @@
+{
+  "code": "F48.9",
+  "kind": "category",
+  "label": "Neurotische Störung, nicht näher bezeichnet",
+  "rubrics": {
+    "preferred": "Neurotische Störung, nicht näher bezeichnet",
+    "inclusion": "Neurose o.n.A."
+  },
+  "children": []
+}

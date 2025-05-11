@@ -1,0 +1,10 @@
+{
+  "code": "T50.5",
+  "kind": "category",
+  "label": "Appetitzügler",
+  "rubrics": {
+    "preferredLong": "Vergiftung: Appetitzügler",
+    "preferred": "Appetitzügler"
+  },
+  "children": []
+}

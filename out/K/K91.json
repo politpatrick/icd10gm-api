@@ -1,0 +1,145 @@
+{
+  "code": "K91",
+  "kind": "category",
+  "label": "Krankheiten des Verdauungssystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+  "rubrics": {
+    "preferred": "Krankheiten des Verdauungssystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+    "exclusion": "Ulcus pepticum jejuniK28.-"
+  },
+  "children": [
+    {
+      "code": "K91.0",
+      "kind": "category",
+      "label": "Erbrechen nach gastrointestinalem chirurgischem Eingriff",
+      "rubrics": {
+        "preferred": "Erbrechen nach gastrointestinalem chirurgischem Eingriff"
+      },
+      "children": []
+    },
+    {
+      "code": "K91.1",
+      "kind": "category",
+      "label": "Syndrome des operierten Magens",
+      "rubrics": {
+        "preferred": "Syndrome des operierten Magens",
+        "inclusion": "Postvagotomie-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "K91.2",
+      "kind": "category",
+      "label": "Malabsorption nach chirurgischem Eingriff, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Malabsorption nach chirurgischem Eingriff, anderenorts nicht klassifiziert",
+        "inclusion": "Syndrom der blinden Schlinge nach chirurgischem Eingriff",
+        "exclusion": "Malabsorption:\n\t\t\t\tOsteoporose nach chirurgischem EingriffM81.3-"
+      },
+      "children": []
+    },
+    {
+      "code": "K91.3",
+      "kind": "category",
+      "label": "Postoperativer Darmverschluss",
+      "rubrics": {
+        "preferred": "Postoperativer Darmverschluss"
+      },
+      "children": []
+    },
+    {
+      "code": "K91.4",
+      "kind": "category",
+      "label": "Funktionsstörung nach Kolostomie oder Enterostomie",
+      "rubrics": {
+        "preferred": "Funktionsstörung nach Kolostomie oder Enterostomie",
+        "inclusion": "Stomastriktur nach Kolostomie oder Enterostomie"
+      },
+      "children": []
+    },
+    {
+      "code": "K91.5",
+      "kind": "category",
+      "label": "Postcholezystektomie-Syndrom",
+      "rubrics": {
+        "preferred": "Postcholezystektomie-Syndrom"
+      },
+      "children": []
+    },
+    {
+      "code": "K91.8",
+      "kind": "category",
+      "label": "Sonstige Krankheiten des Verdauungssystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+      "rubrics": {
+        "preferred": "Sonstige Krankheiten des Verdauungssystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert"
+      },
+      "children": [
+        {
+          "code": "K91.80",
+          "kind": "category",
+          "label": "Generalisierte Mukositis bei Immunkompromittierung",
+          "rubrics": {
+            "preferred": "Generalisierte Mukositis bei Immunkompromittierung"
+          },
+          "children": []
+        },
+        {
+          "code": "K91.81",
+          "kind": "category",
+          "label": "Insuffizienzen von Anastomosen und Nähten nach Operationen an Gallenblase und Gallenwegen",
+          "rubrics": {
+            "preferred": "Insuffizienzen von Anastomosen und Nähten nach Operationen an Gallenblase und Gallenwegen"
+          },
+          "children": []
+        },
+        {
+          "code": "K91.82",
+          "kind": "category",
+          "label": "Insuffizienzen von Anastomosen und Nähten nach Operationen am Pankreas",
+          "rubrics": {
+            "preferred": "Insuffizienzen von Anastomosen und Nähten nach Operationen am Pankreas",
+            "inclusion": "Insuffizienzen von Anastomosen und Nähten am Pankreas mit Beteiligung des Dünndarms"
+          },
+          "children": []
+        },
+        {
+          "code": "K91.83",
+          "kind": "category",
+          "label": "Insuffizienzen von Anastomosen und Nähten nach Operationen am sonstigen Verdauungstrakt",
+          "rubrics": {
+            "preferred": "Insuffizienzen von Anastomosen und Nähten nach Operationen am sonstigen Verdauungstrakt",
+            "inclusion": "Insuffizienzen von Anastomosen und Nähten nach Operationen an:\n\t\t\t\tRektum"
+          },
+          "children": []
+        },
+        {
+          "code": "K91.84",
+          "kind": "category",
+          "label": "Strikturen nach endoskopischen Eingriffen und Operationen am Verdauungstrakt",
+          "rubrics": {
+            "preferred": "Strikturen nach endoskopischen Eingriffen und Operationen am Verdauungstrakt",
+            "exclusion": "Stomastriktur nach Kolostomie oder EnterostomieK91.4"
+          },
+          "children": []
+        },
+        {
+          "code": "K91.88",
+          "kind": "category",
+          "label": "Sonstige Krankheiten des Verdauungssystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert",
+          "rubrics": {
+            "preferred": "Sonstige Krankheiten des Verdauungssystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "K91.9",
+      "kind": "category",
+      "label": "Krankheit des Verdauungssystems nach medizinischen Maßnahmen, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Krankheit des Verdauungssystems nach medizinischen Maßnahmen, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

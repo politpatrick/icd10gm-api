@@ -1,0 +1,60 @@
+{
+  "code": "O00",
+  "kind": "category",
+  "label": "Extrauteringravidität",
+  "rubrics": {
+    "preferred": "Extrauteringravidität",
+    "inclusion": "Rupturierte Extrauteringravidität",
+    "coding-hint": "Soll eine begleitende Komplikation angegeben werden, ist zusätzlich eine Schlüsselnummer aus O08.- zu benutzen."
+  },
+  "children": [
+    {
+      "code": "O00.0",
+      "kind": "category",
+      "label": "Abdominalgravidität",
+      "rubrics": {
+        "preferred": "Abdominalgravidität",
+        "exclusion": "Betreuung der Mutter wegen eines lebensfähigen Fetus bei AbdominalgraviditätO36.7"
+      },
+      "children": []
+    },
+    {
+      "code": "O00.1",
+      "kind": "category",
+      "label": "Tubargravidität",
+      "rubrics": {
+        "preferred": "Tubargravidität",
+        "inclusion": "Tubenschwangerschaft"
+      },
+      "children": []
+    },
+    {
+      "code": "O00.2",
+      "kind": "category",
+      "label": "Ovarialgravidität",
+      "rubrics": {
+        "preferred": "Ovarialgravidität"
+      },
+      "children": []
+    },
+    {
+      "code": "O00.8",
+      "kind": "category",
+      "label": "Sonstige Extrauteringravidität",
+      "rubrics": {
+        "preferred": "Sonstige Extrauteringravidität",
+        "inclusion": "Gravidität:\n\t\t\t\tzervikal"
+      },
+      "children": []
+    },
+    {
+      "code": "O00.9",
+      "kind": "category",
+      "label": "Extrauteringravidität, nicht näher bezeichnet",
+      "rubrics": {
+        "preferred": "Extrauteringravidität, nicht näher bezeichnet"
+      },
+      "children": []
+    }
+  ]
+}

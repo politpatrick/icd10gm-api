@@ -1,0 +1,29 @@
+{
+  "code": "A31.8",
+  "kind": "category",
+  "label": "Sonstige Infektionen durch Mykobakterien",
+  "rubrics": {
+    "preferred": "Sonstige Infektionen durch Mykobakterien"
+  },
+  "children": [
+    {
+      "code": "A31.80",
+      "kind": "category",
+      "label": "Disseminierte atypische Mykobakteriose",
+      "rubrics": {
+        "preferred": "Disseminierte atypische Mykobakteriose",
+        "note": "Der Erreger ist in mindestens einem sterilen Kompartiment nachweisbar."
+      },
+      "children": []
+    },
+    {
+      "code": "A31.88",
+      "kind": "category",
+      "label": "Sonstige Infektionen durch Mykobakterien",
+      "rubrics": {
+        "preferred": "Sonstige Infektionen durch Mykobakterien"
+      },
+      "children": []
+    }
+  ]
+}

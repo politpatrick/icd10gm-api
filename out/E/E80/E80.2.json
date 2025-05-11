@@ -1,0 +1,11 @@
+{
+  "code": "E80.2",
+  "kind": "category",
+  "label": "Sonstige Porphyrie",
+  "rubrics": {
+    "preferred": "Sonstige Porphyrie",
+    "inclusion": "Porphyrie:\n\t\t\t\to.n.A.",
+    "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

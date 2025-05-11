@@ -1,0 +1,10 @@
+{
+  "code": "K21.9",
+  "kind": "category",
+  "label": "Gastroösophageale Refluxkrankheit ohne Ösophagitis",
+  "rubrics": {
+    "preferred": "Gastroösophageale Refluxkrankheit ohne Ösophagitis",
+    "inclusion": "Ösophagealer Reflux o.n.A."
+  },
+  "children": []
+}

@@ -1,0 +1,12 @@
+{
+  "code": "F51.2",
+  "kind": "category",
+  "label": "Nichtorganische Störung des Schlaf-Wach-Rhythmus",
+  "rubrics": {
+    "preferred": "Nichtorganische Störung des Schlaf-Wach-Rhythmus",
+    "definition": "Eine Störung des Schlaf-Wach-Rhythmus ist definiert als Mangel an Synchronizität zwischen dem individuellen Schlaf-Wach-Rhythmus und dem erwünschten Schlaf-Wach-Rhythmus der Umgebung. Dies führt zu Klagen über Schlaflosigkeit und Hypersomnie.",
+    "inclusion": "Psychogene Umkehr:\n\t\t\t\t24-Stunden-Rhythmus",
+    "exclusion": "Störungen des Schlaf-Wach-Rhythmus (organisch)G47.2"
+  },
+  "children": []
+}

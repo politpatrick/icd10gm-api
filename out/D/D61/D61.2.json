@@ -1,0 +1,10 @@
+{
+  "code": "D61.2",
+  "kind": "category",
+  "label": "Aplastische Anämie infolge sonstiger äußerer Ursachen",
+  "rubrics": {
+    "preferred": "Aplastische Anämie infolge sonstiger äußerer Ursachen",
+    "coding-hint": "Soll die äußere Ursache angegeben werden, ist eine zusätzliche Schlüsselnummer (Kapitel XX) zu benutzen."
+  },
+  "children": []
+}

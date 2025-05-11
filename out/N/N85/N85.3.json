@@ -1,0 +1,10 @@
+{
+  "code": "N85.3",
+  "kind": "category",
+  "label": "Subinvolution des Uterus",
+  "rubrics": {
+    "preferred": "Subinvolution des Uterus",
+    "exclusion": "Puerperale Subinvolution des UterusO90.8"
+  },
+  "children": []
+}

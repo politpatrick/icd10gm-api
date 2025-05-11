@@ -1,0 +1,10 @@
+{
+  "code": "R93.7",
+  "kind": "category",
+  "label": "Abnorme Befunde bei der bildgebenden Diagnostik sonstiger Abschnitte des Muskel-Skelett-Systems",
+  "rubrics": {
+    "preferred": "Abnorme Befunde bei der bildgebenden Diagnostik sonstiger Abschnitte des Muskel-Skelett-Systems",
+    "exclusion": "Abnorme Befunde bei der bildgebenden Diagnostik des SchädelsR93.0"
+  },
+  "children": []
+}
